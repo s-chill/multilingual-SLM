@@ -4,7 +4,7 @@ from google.cloud import translate_v3beta1 as translate
 with open("./data/test.txt", "r", encoding="utf-8") as file:
     text = file.read()
 
-def translate_text(text=text, project_id="zippy-entry-437816-i6", target_language="es"):
+def translate_text(text=text, project_id="zippy-entry-437816-i6", target_language="ta"):
     if len(text) > 30000:
         print("too long, need to split this document up")
     client = translate.TranslationServiceClient()
