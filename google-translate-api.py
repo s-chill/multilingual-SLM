@@ -1,7 +1,7 @@
 import os
 from google.cloud import translate_v3beta1 as translate
 
-with open("./data/test.txt", "r", encoding="utf-8") as file:
+with open("./test_data/test.txt", "r", encoding="utf-8") as file:
     text = file.read()
 
 def translate_text(text=text, project_id="zippy-entry-437816-i6", target_language="ta"):
