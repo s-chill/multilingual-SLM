@@ -1,0 +1,27 @@
+An IT administrator , system administrator , sysadmin , or admin is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems , especially multi-user computers, such as servers . The system administrator seeks to ensure that the uptime , performance , resources , and security of the computers they manage meet the needs of the users , without exceeding a set budget when doing so.
+
+To meet these needs, a system administrator may acquire, install, or upgrade computer components and software ; provide routine automation; maintain security policies; troubleshoot ; train or supervise staff; or offer technical support for projects.
+
+Many organizations staff offer jobs related to system administration. In a larger company, these may all be separate positions within a computer support or Information Services (IS) department. In a smaller group they may be shared by a few sysadmins, or even a single person.
+
+Most employers require a bachelor's degree in a related field, such as computer science , information technology , electronics engineering , or computer engineering . Some schools also offer undergraduate degrees and graduate programs in system administration.
+
+In addition, because of the practical nature of system administration and the easy availability of open-source server software, many system administrators enter the field self-taught.
+
+Generally, a prospective employee will be required to have experience with the computer systems they are expected to manage. In most cases, candidates are expected to possess industry certifications such as the Microsoft MCSA , MCSE , MCITP , Red Hat RHCE , Novell CNA , CNE , Cisco CCNA or CompTIA 's A+ or Network+ , Sun Certified SCNA , Linux Professional Institute , Linux Foundation Certified Engineer or Linux Foundation Certified System Administrator, among others.
+
+Sometimes, almost exclusively in smaller sites, the role of system administrator may be given to a skilled user in addition to or in replacement of their duties.
+
+The subject matter of system administration includes computer systems and the ways people use them in an organization. This entails a knowledge of operating systems and applications , as well as hardware and software troubleshooting , but also knowledge of the purposes for which people in the organization use the computers.
+
+Perhaps the most important skill for a system administrator is problem solving —frequently under various sorts of constraints and stress. The sysadmin is on call when a computer system goes down or malfunctions, and must be able to quickly and correctly diagnose what is wrong and how best to fix it. They may also need to have teamwork and communication skills; as well as being able to install and configure hardware and software.
+
+Sysadmins must understand the behavior of software in order to deploy it and to troubleshoot problems, and generally know several programming languages used for scripting or automation of routine tasks. A typical sysadmin's role is not to design or write new application software but when they are responsible for automating system or application configuration with various configuration management tools, the lines somewhat blur. Depending on the sysadmin's role and skillset they may be expected to understand equivalent key/core concepts a software engineer understands. That said, system administrators are not software engineers or developers , in the job title sense.
+
+Particularly when dealing with Internet -facing or business-critical systems, a sysadmin must have a strong grasp of computer security . This includes not merely deploying software patches, but also preventing break-ins and other security problems with preventive measures. In some organizations, computer security administration is a separate role responsible for overall security and the upkeep of firewalls and intrusion detection systems , but all sysadmins are generally responsible for the security of computer systems.
+
+A system administrator's responsibilities might include:
+
+In larger organizations, some of the tasks above may be divided among different system administrators or members of different organizational groups. For example, a dedicated individual(s) may apply all system upgrades, a Quality Assurance (QA) team may perform testing and validation, and one or more technical writers may be responsible for all technical documentation written for a company. System administrators, in larger organizations, tend not to be systems architects , systems engineers , or systems designers .
+
+In smaller organizations, the system administrator might also act as technical support, database administrator , network administrator, storage (SAN) administrator or application analyst .

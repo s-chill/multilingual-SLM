@@ -1,0 +1,7 @@
+This is a comparison of object–relational database management systems (ORDBMSs).  Each system has at least some features of an object–relational database ; they vary widely in their completeness and the approaches taken.
+
+The following tables compare general and technical information; please see the individual products' articles for further information. Unless otherwise specified in footnotes, comparisons are based on the stable versions without any add-ons, extensions or external programs.
+
+Information about what fundamental ORDBMSes features are implemented natively.
+
+Information about what data types are implemented natively.

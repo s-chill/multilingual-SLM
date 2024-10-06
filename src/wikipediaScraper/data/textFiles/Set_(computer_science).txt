@@ -1,0 +1,57 @@
+In computer science , a set is an abstract data type that can store unique values, without any particular order . It is a computer implementation of the mathematical concept of a finite set . Unlike most other collection types, rather than retrieving a specific element from a set, one typically tests a value for membership in a set.
+
+Some set data structures are designed for static or frozen sets that do not change after they are constructed. Static sets allow only query operations on their elements — such as checking whether a given value is in the set, or enumerating the values in some arbitrary order.  Other variants, called dynamic or mutable sets , allow also the insertion and deletion of elements from the set.
+
+A multiset is a special kind of set in which an element can appear multiple times in the set.
+
+In type theory , sets are generally identified with their indicator function (characteristic function): accordingly, a set of values of type A {\displaystyle A} may be denoted by 2 A {\displaystyle 2^{A}} or P ( A ) {\displaystyle {\mathcal {P}}(A)} . (Subtypes and subsets may be modeled by refinement types , and quotient sets may be replaced by setoids .) The characteristic function F {\displaystyle F} of a set S {\displaystyle S} is defined as:
+
+In theory, many other abstract data structures can be viewed as set structures with additional operations and/or additional axioms imposed on the standard operations. For example, an abstract heap can be viewed as a set structure with a min( S ) operation that returns the element of smallest value.
+
+One may define the operations of the algebra of sets :
+
+Typical operations that may be provided by a static set structure S are:
+
+Dynamic set structures typically add:
+
+Some set structures may allow only some of these operations. The cost of each operation will depend on the implementation, and possibly also on the particular values stored in the set, and the order in which they are inserted.
+
+There are many other operations that can (in principle) be defined in terms of the above, such as:
+
+Other operations can be defined for sets with elements of a special type:
+
+Sets can be implemented using various data structures , which provide different time and space trade-offs for various operations.  Some implementations are designed to improve the efficiency of very specialized operations, such as nearest or union .  Implementations described as "general use" typically strive to optimize the element_of , add , and delete operations. A simple implementation is to use a list , ignoring the order of the elements and taking care to avoid repeated values. This is simple but inefficient, as operations like set membership or element deletion are O ( n ), as they require scanning the entire list. Sets are often instead implemented using more efficient data structures, particularly various flavors of trees , tries , or hash tables .
+
+As sets can be interpreted as a kind of map (by the indicator function), sets are commonly implemented in the same way as (partial) maps ( associative arrays ) – in this case in which the value of each key-value pair has the unit type or a sentinel value (like 1) – namely, a self-balancing binary search tree for sorted sets (which has O(log n) for most operations), or a hash table for unsorted sets (which has O(1) average-case, but O(n) worst-case, for most operations).  A sorted linear hash table may be used to provide deterministically ordered sets.
+
+Further, in languages that support maps but not sets, sets can be implemented in terms of maps. For example, a common programming idiom in Perl that converts an array to a hash whose values are the sentinel value 1, for use as a set, is:
+
+Other popular methods include arrays . In particular a subset of the integers 1.. n can be implemented efficiently as an n -bit bit array , which also support very efficient union and intersection operations. A Bloom map implements a set probabilistically, using a very compact representation but risking a small chance of false positives on queries.
+
+The Boolean set operations can be implemented in terms of more elementary operations ( pop , clear , and add ), but specialized algorithms may yield lower asymptotic time bounds.  If sets are implemented as sorted lists, for example, the naive algorithm for union( S , T ) will take time proportional to the length m of S times the length n of T ; whereas a variant of the list merging algorithm will do the job in time proportional to m + n .  Moreover, there are specialized set data structures (such as the union-find data structure ) that are optimized for one or more of these operations, at the expense of others.
+
+One of the earliest languages to support sets was Pascal ; many languages now include it, whether in the core language or in a standard library .
+
+As noted in the previous section, in languages which do not directly support sets but do support associative arrays , sets can be emulated using associative arrays, by using the elements as keys, and using a dummy value as the values, which are ignored.
+
+A generalization of the notion of a set is that of a multiset or bag , which is similar to a set but allows repeated ("equal") values (duplicates). This is used in two distinct senses: either equal values are considered identical, and are simply counted, or equal values are considered equivalent, and are stored as distinct items. For example, given a list of people (by name) and ages (in years), one could construct a multiset of ages, which simply counts the number of people of a given age. Alternatively, one can construct a multiset of people, where two people are considered equivalent if their ages are the same (but may be different people and have different names), in which case each pair (name, age) must be stored, and selecting on a given age gives all the people of a given age.
+
+Formally, it is possible for objects in computer science to be considered "equal" under some equivalence relation but still distinct under another relation. Some types of multiset implementations will store distinct equal objects as separate items in the data structure; while others will collapse it down to one version (the first one encountered) and keep a positive integer count of the multiplicity of the element.
+
+As with sets, multisets can naturally be implemented using hash table or trees, which yield different performance characteristics.
+
+The set of all bags over type T is given by the expression bag T. If by multiset one considers equal items identical and simply counts them, then a multiset can be interpreted as a function from the input domain to the non-negative integers ( natural numbers ), generalizing the identification of a set with its indicator function. In some cases a multiset in this counting sense may be generalized to allow negative values, as in Python.
+
+Where a multiset data structure is not available, a workaround is to use a regular set, but override the equality predicate of its items to always return "not equal" on distinct objects (however, such will still not be able to store multiple occurrences of the same object) or use an associative array mapping the values to their integer multiplicities (this will not be able to distinguish between equal elements at all).
+
+Typical operations on bags:
+
+In relational databases , a table can be a (mathematical) set or a multiset, depending on the presence of unicity constraints on some columns (which turns it into a candidate key ).
+
+SQL allows the selection of rows from a relational table: this operation will in general yield a multiset, unless the keyword DISTINCT is used to force the rows to be all different, or the selection includes the primary (or a candidate) key.
+
+In ANSI SQL the MULTISET keyword can be used to transform a subquery into a collection expression:
+
+is a general select that can be used as subquery expression of another more general query, while
+
+transforms the subquery into a collection expression that can be used in another query, or in assignment to a column of appropriate collection type.

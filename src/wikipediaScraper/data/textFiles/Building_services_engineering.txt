@@ -1,0 +1,9 @@
+Building services engineering (BSE) is a professional engineering discipline that strives to achieve a safe and comfortable indoor environment while minimizing the environmental impact of a building .
+
+The two most notable professional bodies are:
+
+Building services engineers typically possess an academic degree in civil engineering , architectural engineering , building services engineering, mechanical engineering or electrical engineering . The length of study for such a degree is usually 3–4 years for a Bachelor of Engineering (BEng) or Bachelor of Science (BSc) and 4–5 years for a Master of Engineering (MEng).
+
+In the United Kingdom, the Chartered Institution of Building Services Engineers ( CIBSE ) accredits university degrees in Building Services Engineering. In the United States, ABET accredits degrees.
+
+Many tasks in building services engineering involve the use of engineering software, for example to design/model or draw solutions. The most common types of tool are whole building energy simulation and CAD (traditionally 2D) or the increasingly popular Building Information Modeling (BIM) which is 3D. 3D BIM software can have integrated tools for Building Services calculations such sizing ventilation ducts or estimating noise levels. Another use of 3D/4D BIM is that empowers more informed decision making and better coordination between different disciplines, such as 'collision testing' .

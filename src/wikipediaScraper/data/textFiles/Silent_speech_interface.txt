@@ -1,0 +1,21 @@
+Subvocal recognition (SVR) is the process of taking subvocalization and converting the detected results to a digital output, aural or text-based. A silent speech interface is a device that allows speech communication without using the sound made when people vocalize their speech sounds . It works by the computer identifying the phonemes that an individual pronounces from nonauditory sources of information about their speech movements . These are then used to recreate the speech using speech synthesis .
+
+Silent speech interface systems have been created using ultrasound and optical camera input of tongue and lip movements. Electromagnetic devices are another technique for tracking tongue and lip movements.
+
+The detection of speech movements by electromyography of speech articulator muscles and the larynx is another technique. Another source of information is the vocal tract resonance signals that get transmitted through bone conduction called non-audible murmurs.
+
+They have also been created as a brain–computer interface using brain activity in the motor cortex obtained from intracortical microelectrodes .
+
+Such devices are created as aids to those unable to create the sound phonation needed for audible speech such as after laryngectomies . Another use is for communication when speech is masked by background noise or distorted by self-contained breathing apparatus . A further practical use is where a need exists for silent communication, such as when privacy is required in a public place, or hands-free data silent transmission is needed during a military or security operation.
+
+In 2002, the Japanese company NTT DoCoMo announced it had created a silent mobile phone using electromyography and imaging of lip movement. The company stated that "the spur to developing such a phone was ridding public places of noise," adding that, "the technology is also expected to help people who have permanently lost their voice." The feasibility of using silent speech interfaces for practical communication has since then been shown.
+
+In 2019, Arnav Kapur , a researcher from the Massachusetts Institute of Technology , conducted a study known as AlterEgo. Its implementation of the silent speech interface enables direct communication between the human brain and external devices through stimulation of the speech muscles. By leveraging neural signals associated with speech and language, the AlterEgo system deciphers the user's intended words and translates them into text or commands without the need for audible speech.
+
+With a grant from the U.S. Army, research into synthetic telepathy using subvocalization is taking place at the University of California, Irvine under lead scientist Mike D'Zmura.
+
+NASA 's Ames Research Laboratory in Mountain View , California, under the supervision of Charles Jorgensen is conducting subvocalization research.
+
+The Brain Computer Interface R&D program at Wadsworth Center under the New York State Department of Health has confirmed the existing ability to decipher consonants and vowels from imagined speech, which allows for brain-based communication using imagined speech., however using EEGs instead of subvocalization techniques.
+
+US Patents on silent communication technologies include: US Patent 6587729 "Apparatus for audibly communicating speech using the radio frequency hearing effect", US Patent 5159703 "Silent subliminal presentation system", US Patent 6011991 "Communication system and method including brain wave analysis and/or use of brain activity", US Patent 3951134 "Apparatus and method for remotely monitoring and altering brain waves". Latter two rely on brain wave analysis.

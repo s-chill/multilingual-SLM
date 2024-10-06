@@ -1,0 +1,15 @@
+The International Telecommunication Union uses an internationally agreed system for classifying radio frequency signals.  Each type of radio emission is classified according to its bandwidth , method of modulation , nature of the modulating signal, and type of information transmitted on the carrier signal. It is based on characteristics of the signal , not on the transmitter used.
+
+An emission designation is of the form BBBB 123 45 , where BBBB is the bandwidth of the signal, 1 is a letter indicating the type of modulation used of the main carrier (not including any subcarriers which is why FM stereo is F8E and not D8E), 2 is a digit representing the type of modulating signal again of the main carrier, 3 is a letter corresponding to the type of information transmitted, 4 is a letter indicating the practical details of the transmitted information, and 5 is a letter that represents the method of multiplexing .  The 4 and 5 fields are optional.
+
+This designation system was agreed at the 1979 World Administrative Radio Conference (WARC 79), and gave rise to the Radio Regulations that came into force on 1 January 1982.  A similar designation system had been in use under prior Radio Regulations.
+
+The bandwidth ( BBBB above) is expressed as four characters: three digits and one letter. The letter occupies the position normally used for a decimal point, and indicates what unit of frequency is used to express the bandwidth. The letter H indicates Hertz , K indicates kilo Hertz, M indicates mega Hertz, and G indicates giga Hertz. For instance, "500H" means 500 Hz, and "2M50" means 2.5 MHz. The first character must be a digit between 1 and 9 or the letter H ; it may not be the digit 0 or any other letter.
+
+Types 4 and 5 were removed from use with the 1982 Radio Regulations.  In previous editions, they had indicated facsimile and video, respectively.
+
+There is some overlap in signal types, so a transmission might legitimately be described by two or more designators. In such cases, there is usually a preferred conventional designator.
+
+The emission designator for QAM is D7W.  The D7W comes from Paragraph 42 of the FCC's July 10, 1996, Digital Declaratory Order allowing then ITFS/MMDS stations to use 64QAM digital instead of NTSC analog.
+The emission designator for COFDM is W7D.  The W7D comes from Paragraph 40 of the November 13, 2002, ET Docket 01-75 R&O.
+It is only coincidence that the QAM and COFDM emission designators are reciprocals.

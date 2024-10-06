@@ -1,0 +1,11 @@
+The following is a timeline for Google Street View , a technology implemented in Google Maps and Google Earth that provides ground-level interactive panoramas of cities. The service was first introduced in the United States on May 25, 2007, and initially covered only five cities: San Francisco , Las Vegas , Denver , Miami , and New York City . By the end of 2008, Street View had full coverage available for all of the major and minor cities in the continental United States, and had started expanding its scope to include some of the country's national parks, as well as cities elsewhere in the world. For the first year and a half of its existence, Street View featured camera icon markers, each representing at least one major city or area (such as a park). By its 10th anniversary, the Street View service had provided imagery for more than 10 million miles' worth of roads across 83 countries worldwide.
+
+#For the virtual tours of museums, see Google Arts and Culture#Timeline of introductions
+
+The following timeline lists when each location's earliest set of Street View captures was released. Imagery for each update was captured anywhere from one to twelve months before the stated release date; for example, imagery from the June 2008 update would have a capture date between June 2007 and May 2008.
+
+Below is a table showing the countries available on Street View and the year they were first added. Plain text indicates that a country has only views of certain businesses and/or tourist attractions.
+
+Bold with an asterisk (*) indicates countries with public street view available
+
+The following countries are slated to receive official Google Street View coverage based on announcements from Google, governmental agencies or national newspapers:

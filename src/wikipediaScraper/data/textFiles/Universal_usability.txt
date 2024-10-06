@@ -1,0 +1,16 @@
+Universal usability refers to the design of information and communications products and services that are usable for every citizen. The concept has been advocated by Professor Ben Shneiderman , a computer scientist at the Human-Computer Interaction Lab at the University of Maryland, College Park .  He also provided a more practical definition of universal usability – "having more than 90% of all households as successful users of information and communications services at least once a week."
+The concept of universal usability ("usable by all") is closely related to the concepts of universal design and design for all . These three concepts altogether cover, from the user's end to the developer's end, the three important research areas of information and communications technology (ICT) : use, access, and design.
+
+There are three major challenges to universal usability:
+
+The key to universal usability is recognizing the diversity of user population and user needs. There is no "average" user on whom a system should be based. Although in some cases it is possible to accommodate technology variety and individual differences in one system, multi-layer designs are the most promising approach to achieving universal usability. That is, when a single design cannot accommodate a large fraction of the user population, multiple versions or adjustment controls should be available to users. For example, a novice user can be provided with only a few options; after gaining confidence and experience, the user can choose to progress to higher levels of tasks and the accompanying interface.
+
+Sarah Horton has developed a set of universal usability guidelines for web design. The basic principles are:
+
+Harry Hochheiser and Ben Shneiderman have also developed the Universal Usability Statement Template , which describes a Web site's content, browser requirements, network requirements, and other characteristics that may influence its usability.
+
+The analogy " curb-cut " has been used by advocates of universal usability to explain how ICT products designed for disabled users can be beneficial to all users. Sidewalk curb-cuts are added to accommodate wheelchair users, but the benefits extend to baby carriage pushers, delivery service workers, bicyclists, and travelers with roller bags. In the context of ICT design and development, universal usability is often tied to meeting the needs of people with disabilities. The adaptability needed for users with physical , visual , auditory , or cognitive disabilities is likely to benefit users with differing preferences, tasks, hardware, etc. Hence, electronic curb-cuts – system functions that are designed for people with disabilities – may be usable by everyone in various usage situations. It might be expensive to transform an existing system to meet universal usability standards, but the extra cost of integrating electronic curb-cuts into a new system can be minimalized.
+
+Current trends in universal usability research include:
+
+Scholarly papers on these four areas have been presented at the 1st Conference on Universal Usability in Arlington, VA, USA (2000) and the 2nd Conference on Universal Usability in Vancouver, Canada (2003) .

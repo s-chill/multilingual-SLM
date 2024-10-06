@@ -1,0 +1,9 @@
+RoboGames (previously ROBOlympics ) is an annual robot contest held in San Mateo, California . The last RoboGames was held April 6-9, 2023  in Pleasanton, California , having been on hiatus since the previous event in April 2018.
+
+Competitions typically involve entrants representing a large selection of countries, who compete in over fifty categories, such as autonomously navigating robots in RoboMagellan , combat robots , stair-climbing, weight-lifting, soccer bots , sumo bots , and kung-fu. About two thirds of the robot events are autonomous, while the remaining third are remotely operated ( RCVs ). Despite this, a large plurality of entrants in RoboGames remain in the remotely operated events, specifically combat robotics.
+
+According to the Guinness Book of World Records , the 2005 RoboGames held the record for the world's largest robot competition until being surpassed by VEX Worlds in 2016. RoboGames was selected by Wired for their list of "The Best Ten North American Geek Fests".
+
+In May/June 2011, Science Channel broadcast selected heavyweight combat division matches from RoboGames in a one-hour special titled Killer Robots: RoboGames 2011 . The program was hosted by Grant Imahara . RoboGames built a framework for collaboration between builders and engineers from all over the world.
+
+RoboGames events are divided into ten general categories:

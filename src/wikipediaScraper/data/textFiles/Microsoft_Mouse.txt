@@ -1,0 +1,11 @@
+The Microsoft Mouse is a computer mouse released by Microsoft in 1983. It is the first mouse released by the company, and it was bundled with the first versions of Microsoft Word , and/or Notepad (inclusion of these two programs varied in the initial product release), an on-screen teaching tutorial, a musical piano program, a game, and one of the first home computer color bitmap creation programs, called “Doodle,” for an initial price of $195.
+
+The Microsoft Mouse featured a pair of green buttons, and was nicknamed the "green-eyed mouse". As with other mice at the time, the Microsoft Mouse used a steel ball for tracking. The Japanese company Alps Electric produced the mouse.
+
+The initial version featured a DB-25 Serial Port. Later versions were available with an InPort ISA interface, requiring a Microsoft bus card to be installed in the computer or a DE-9 serial connector. All versions of the Microsoft Mouse could be used with IBM-compatible and other DOS systems.
+
+In 1985 Microsoft introduced the "gray-eyed" Microsoft Mouse, featuring a higher resolution than competing mice, and a rebadged copy of ZSoft PC Paintbrush called “PC Paintbrush,” which replaced Doodle in version 4 of the drivers. This would later be re-tooled and included with Windows 1, and formed the basis for Microsoft Paint . In 1987 the "dove bar" Microsoft Mouse (so called for the curved palm rest's resemblance to a Dove soap bar) was introduced, in variants for both Microsoft's InPort , serial port and PS/2 port . In 1991, the trackball "Microsoft BallPoint Mouse" was made. The "kidney" Microsoft Mouse 2.0 was introduced in 1993, and its design served as the basis for the IntelliMouse , which debuted in 1996.
+
+More Microsoft mice have been released in later years, including Microsoft Natural Wireless Laser Mouse, Microsoft SideWinder , Arc Mouse , Microsoft Sculpt Ergonomic Mouse and others.
+
+In January 2024, Microsoft announced that it would license the design and manufacturing of its current mice products to Incase, as part of an effort to focus more on its Surface -branded accessories. These products will be branded under the Incase name, but as being designed by Microsoft.

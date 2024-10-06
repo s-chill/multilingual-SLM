@@ -1,0 +1,23 @@
+Revision Control System ( RCS ) is an early implementation of a version control system (VCS). It is a set of UNIX commands that allow multiple users to develop and maintain program code or documents.  With RCS, users can make their own revisions of a document, commit changes, and merge them. RCS was originally developed for programs but is also useful for text documents or configuration files that are frequently revised.
+
+RCS was first released in 1982 by Walter F. Tichy at Purdue University . It was an alternative tool to the then-popular Source Code Control System (SCCS) which was nearly the first version control software tool (developed in 1972 by early Unix developers). RCS is currently maintained by the GNU Project .
+
+An innovation in RCS is the adoption of reverse deltas . Instead of storing every revision in a file like SCCS does with interleaved deltas , RCS stores a set of edit instructions to go back to an earlier version of the file. Tichy claims that it is faster for most cases because the recent revisions are used more often.
+
+Initially (through version 3, which was distributed in 4.3BSD), its license prohibited redistribution without written permission from Walter Tichy:
+
+Copyright (C) 1982 by Walter F. Tichy [...] All rights reserved. No part of this software may be sold or distributed in any form or by any means without the prior written permission of the author.
+
+A READ_ME file accompanied some versions of RCS which further restricted distribution, e.g., in 4.3BSD-Reno .
+
+Ca. 1989, the RCS license was altered to something similar to the contemporary BSD licenses , as seen by comments in the source code.
+
+Redistribution and use in source and binary forms are permitted provided that the above copyright notice and this paragraph are duplicated in all such forms and that any documentation, advertising materials, and other materials related to such distribution and use acknowledge that the software was developed by Walter Tichy.
+
+RCS 4.3, released 26 July 1990, was distributed "under license by the Free Software Foundation ", under the terms of the GPL .
+
+OpenBSD provides a different implementation called OpenRCS , which is BSD-licensed.
+
+RCS operates only on single files.  It has no way of working with an entire project, so it does not support atomic commits affecting multiple files. Although it provides branching for individual files, the version syntax is cumbersome. Instead of using branches, many teams just use the built-in locking mechanism and work on a single head branch.
+
+RCS revolves around the usage of "revision groups" or sets of files that have been checked-in via the co (checkout) and ci (check-in) commands. By default, a checked-in file is removed and replaced with a ",v" file (so foo.rb when checked in becomes foo.rb,v) which can then be checked out by anyone with access to the revision group.  RCS files (again, files with the extension ",v") reflect the main file with additional metadata on its first lines.  Once checked in, RCS stores revisions in a tree structure that can be followed so that a user can revert a file to a previous form if necessary.

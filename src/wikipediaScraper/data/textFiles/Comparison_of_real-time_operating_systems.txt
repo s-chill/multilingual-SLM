@@ -1,0 +1,1 @@
+This is a list of real-time operating systems (RTOSs). This is an operating system in which the time taken to process an input stimulus is less than the time lapsed until the next input stimulus of the same type.

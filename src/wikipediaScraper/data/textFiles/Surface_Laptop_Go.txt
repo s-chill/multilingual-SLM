@@ -1,0 +1,13 @@
+The Surface Laptop Go is a portable computer introduced by Microsoft in October 2020. The laptop was designed to be a more affordable option of Microsoft's Surface lineup of Personal computing devices. It was announced alongside updated Surface Pro X models and several Surface accessories on 1 October 2020. Retail availability began on 13 October 2020.
+
+Platinum Ice Blue Sandstone
+
+The Surface Laptop Go was available in 3 colors: Platinum, Ice Blue and Sandstone.
+
+The screen features a 12.4-inch display at 1536 × 1024 in a 3:2 aspect ratio, with a 10-point touchscreen and no support for the Surface Pen .
+
+The Surface Laptop Go features a 10th-generation Comet Lake Intel Core i5 processor paired with integrated Intel UHD Graphics .
+
+In terms of ports, the Surface Go contains 1 USB-C and 1 USB-A port, alongside a headphone jack and a Surface Connect port for charging. The laptop also has support for Wi-Fi 6 and Bluetooth 5.
+
+All Surface Laptop Go models come preinstalled with Windows 10 Home in S Mode and a 30-day trial of Microsoft Office 365 . Business models come preinstalled with Windows 10 Pro .

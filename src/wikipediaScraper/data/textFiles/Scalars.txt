@@ -1,0 +1,13 @@
+Scalar processors are a class of computer processors that process only one data item at a time.  Typical data items include integers and floating point numbers .
+
+A scalar processor is classified as a single instruction, single data ( SISD ) processor in Flynn's taxonomy . The Intel 486 is an example of a scalar processor.  It is to be contrasted with a vector processor where a single instruction operates simultaneously on multiple data items (and thus is referred to as a single instruction, multiple data ( SIMD ) processor). The difference is analogous to the difference between scalar and vector arithmetic.
+
+The term scalar in computing dates to the 1970 and 1980s when vector processors were first introduced.  It was originally used to distinguish the older designs from the new vector processors.
+
+A superscalar processor (such as the Intel P5 ) may execute more than one instruction during a clock cycle by simultaneously dispatching multiple instructions to redundant functional units on the processor. Each functional unit is not a separate CPU core but an execution resource within a single CPU such as an arithmetic logic unit, a bit shifter, or a multiplier. The Cortex-M7 , like many consumer CPUs today, is a superscalar processor.
+
+A scalar data type, or just scalar , is any non- composite value .
+
+Generally, all basic primitive data types are considered scalar:
+
+Some programming languages also treat strings as scalar types, while other languages treat strings as arrays or objects .

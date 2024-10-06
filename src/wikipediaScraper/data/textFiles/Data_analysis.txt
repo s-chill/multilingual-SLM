@@ -1,0 +1,15 @@
+Forensic data analysis ( FDA ) is a branch of digital forensics . It examines structured data with regard to incidents of financial crime . The aim is to discover and analyse patterns of fraudulent activities. Data from application systems or from their underlying databases is referred to as structured data.
+
+Unstructured data in contrast is taken from communication and office applications or from mobile devices. This data has no overarching structure and analysis thereof means applying keywords or mapping communication patterns. Analysis of unstructured data is usually referred to as computer forensics .
+
+The analysis of large volumes of data is typically performed in a separate database system run by the analysis team. Live systems are usually not dimensioned to run extensive individual analysis without affecting the regular users. On the other hand, it is methodically preferable to analyze data copies on separate systems and protect the analysis teams against the accusation of altering original data.
+
+Due to the nature of the data, the analysis focuses more often on the content of data than on the database it is contained in. If the database itself is of interest then Database forensics are applied.
+
+In order to analyze large structured data sets with the intention of detecting financial crime it takes at least three types of expertise in the team:
+
+After an initial analysis phase using methods of explorative data analysis the following phase is usually highly iterative. Starting with a hypothesis on how the perpetrator might have created a personal advantage the data is analyzed for supporting evidence. Following that the hypothesis is refined or discarded.
+
+The combination of different databases, in particular data from different systems or sources is highly effective. These data sources are either unknown to the perpetrator or such that they can not be manipulated by the perpetrator afterwards.
+
+Data Visualization is often used to display the results.

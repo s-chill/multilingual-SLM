@@ -1,0 +1,3 @@
+LinuxTLE ( ลินุกซ์ทะเล , / ˈ l ɪ n ə k s t ə l eɪ / ) is a discontinued Thai Linux distribution based on Ubuntu and developed by the Thailand National Electronics and Computer Technology Center (NECTEC).
+
+TLE stands for Thai Language Extension , as it was originally a Thai extension for Red Hat Linux . The pronunciation "talay" is a homophone of the Thai word ทะเล (the sea ).

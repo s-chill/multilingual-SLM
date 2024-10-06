@@ -1,0 +1,13 @@
+Meka Robotics was a San Francisco–based company that made robotic systems.
+
+Founded in 2006 by Aaron Edsinger and Jeff Weber, it was originally a spin-off of the MIT Computer Science and Artificial Intelligence Laboratory before the founders relocated to San Francisco.
+
+In 2007, the company provided a forearm and hand for MIT Media Lab 's new robot, Nexi.
+
+In 2008, the company teamed with the Socially Intelligent Machines Lab at the Georgia Institute of Technology to develop Simon, an upper torso humanoid platform for human robot interaction.
+
+In 2012, the company teamed with the Human Centered Robotics Group at the University of Texas at Austin to develop HUME, a "bipedal robot for human-centered hyper-agility."
+
+In 2012, the company entered into a joint venture with Willow Garage and SRI International to found Redwood Robotics, a company specializing in robotic arms.
+
+On December 5, 2013, Google X acquired Meka Robotics.

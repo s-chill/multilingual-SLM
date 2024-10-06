@@ -1,0 +1,21 @@
+The Design Automation Conference , or DAC , is an annual event, a combination of a technical conference and a trade show, both specializing in electronic design automation (EDA).
+
+DAC receives approximately 1100 research paper submissions annually. A technical program committee of 266 experts performs a double-blind review, selecting 263 papers for publication in the proceedings.
+
+The trade show features approximately 100 companies in the field of design automation such as Cadence Design Systems , Synopsys , Siemens EDA and Ansys .
+
+Over the past few years the conference location has been alternating among Austin and San Francisco .  The conference is usually held in June.
+
+DAC is sponsored by two professional societies:
+
+in technical cooperation with IEEE-SSCS ( IEEE Solid-State Circuits Society ).
+
+DAC is organized by hundreds of volunteer committee members from EDA companies and academia.
+
+DAC is the oldest and largest conference in EDA, starting in 1964. It grew out of the SHARE ("Society to Help Avoid Redundant Effort") design automation workshop. Its originators Marie Pistilli and Pasquale (Pat) Pistilli were honored by the EDA community. Pat received the highest honor in EDA industry, the Phil Kaufman Award , for this effort, and Marie was honored by having an award established in her name, the Marie Pistilli Award .
+
+Up until the mid-'70s, DAC had sessions on all types of design automation, including mechanical and architectural. After that, for all intents and purposes, the focus shifted to electronic design. Currently, the topics at DAC also include embedded systems , autonomous systems , Artificial Intelligence hardware, hardware security , and Intellectual Property.
+
+Also until the mid-'70s, DAC was strictly a technical conference. Then a few companies started to request space to show their products, and within a few years, the trade show portion of DAC became the main focus of the event. The first commercial DAC was held in June 1984. As a rough metric of the importance of the trade show portion, about 6,300 people attended DAC in 2018, whereas ICCAD, at least as strong technically but with no trade show, drew perhaps a tenth as many attendees.
+
+The table below shows the edition, year, location, and the general chair of recent DAC events.

@@ -1,0 +1,35 @@
+The Blender Foundation is a Dutch nonprofit organization ( Stichting ) responsible for the development of Blender , an open-source 3D content-creation program .
+
+The foundation has distributed the animated films Elephants Dream (2006), Big Buck Bunny (2008), Sintel (2010), Tears of Steel (2012), Caminandes : Llama Drama (2013), Caminandes: Gran Dillama (2013), Cosmos Laundromat (2015), Glass Half (2015), Caminandes: Llamigos (2016), Agent 327: Operation Barbershop (2017), Hero (2018), Spring (2019), Coffee Run (2020), Sprite Fright (2021), Charge (2022), and Wing it! (2023).
+
+The foundation is chaired by Ton Roosendaal , the original author of the Blender software. One of the foundation's stated goals is "to give the worldwide Internet community access to 3D technology in general, with Blender as a core".
+
+The foundation provides various resources to support the community formed around using and developing Blender. In particular, it organizes an annual Blender Conference in Amsterdam to discuss plans for the future of Blender, as well as staffing a booth to represent Blender at SIGGRAPH . Donations are also used to maintain the Blender website and hire developers to improve the Blender software.
+
+The foundation is funded entirely by donations from entrepreneurs , companies, and users. Many video game publishers such as Epic Games , Ubisoft , Activision , Valve , and NetEase have made contributions. Nvidia , Intel , AMD , Meta , Microsoft , Adobe , and Google have also funded the project.
+
+In 2019, Epic Games awarded the Blender Foundation a US$ 1,200,000 grant as part of their Epic MegaGrants initiative. Founder and CEO of Epic Games Tim Sweeney stated, "Open tools, libraries and platforms are critical to the future of the digital content ecosystem" and that "Blender is an enduring resource within the artistic community, and we aim to ensure its advancement to the benefit of all creators."
+
+The Blender Foundation maintains several community-driven "Open Projects" through its affiliated Blender Institute program, including several freely licensed films and a free, open-source video game Yo Frankie! (2008). According to the Foundation, these projects are intended "to validate and improve the 3D open source content creation pipeline with Blender". Each project was created using the Blender software and released under permissive license terms, along with the source material. In addition to demonstrating the capabilities of the software, the Open Projects provided detailed production material (sketches, tutorials, textures and models, etc.) to serve as examples for the Blender user community, as well as finished products that could be widely used for other purposes.
+
+On 18 March 2006, the Blender Foundation released its first film, Elephants Dream . In response to the success of Elephants Dream , the Blender Foundation established the Blender Institute to support future software and content development projects. The Blender Institute operates out of a studio within the Entrepotdok building in Amsterdam, where the Blender Foundation is also located, and is headed by Ton Roosendaal.
+
+On 10 April 2008, the Blender Institute released its second film, Big Buck Bunny . Based on the movie, the Blender Institute released its first Open Game project Yo Frankie! , in November 2008.
+
+On 30 September 2010 the Blender Institute released its third project, Sintel .
+
+In October 2011, Concept/Script Development began for Blender's fourth open film project titled Tears of Steel . Contrary to previous Blender Institute projects, which were 100% computer graphics, the focus of Tears of Steel was the combination of live action footage with computer generated characters and environments. The live action footage was shot with a high-end Sony F65 camera. The project was released on 26 September 2012.
+
+The Gooseberry Open Movie Project is the fifth Open Movie Project initiated by the Blender Foundation. Ton Roosendal announced the project in January 2010. The most ambitious project yet, one of the primary goals is for the Gooseberry Open Movie Project to be the first full-length film produced by the Blender Institute. Work on the film, called Cosmos Laundromat , began in 2014 (although a release date was not yet announced). A ten-minute pilot, entitled Cosmos Laundromat: First Cycle was released on YouTube and Netflix on 10 August 2015 and premiered at the Netherlands Film Festival on 24 September 2015. The pilot won the Jury's Prize at Animago 2015, an international conference for 3D animation.
+
+In 2013, the second episode of a short animated series Caminandes was released under the Blender Foundation umbrella. In 2016, a third short was released.
+
+Hero , the sixth Open Movie Project, was announced in September 2017 and released on 16th April 2018. The technical target for Hero was to use and improve the Grease Pencil tools.
+
+Sprite Fright , a short animated comedy-horror was announced on 9 November 2020 and released on 29 October 2021.
+
+Charge was released the 15 December 2022.
+
+Pet Projects was announced on 19 January 2023. The official release title is "WING IT!" and was released the 12 September 2023.
+
+Project Gold was announced on 22 May 2023.

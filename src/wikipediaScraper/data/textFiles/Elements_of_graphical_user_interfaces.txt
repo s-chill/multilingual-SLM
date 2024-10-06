@@ -1,0 +1,29 @@
+Graphical user interface elements are those elements used by graphical user interfaces (GUIs) to offer a consistent visual language to represent information stored in computers. These make it easier for people with few computer skills to work with and use computer software.
+
+This article explains the most common elements of visual language interfaces found in the WIMP ("window, icon, menu, pointer") paradigm, although many are also used at other graphical post-WIMP interfaces. These elements are usually embodied in an interface using a widget toolkit or desktop environment .
+
+Graphical user interfaces use visual conventions to represent the generic information shown. Some conventions are used to build the structure of the static elements on which the user can interact, and define the appearance of the interface.
+
+A window is an area on the screen that displays information, with its contents being displayed independently from the rest of the screen. An example of a window is what appears on the screen when the "My Documents" icon is clicked in Microsoft Windows . It is easy for a user to manipulate a window: it can be shown and hidden by clicking on an icon or application , and it can be moved to any area by dragging it (that is, by clicking in a certain area of the window – usually the title bar along the top – and keeping the pointing device's button pressed, then moving the pointing device). A window can be placed in front or behind another window, its size can be adjusted, and scrollbars can be used to navigate the sections within it. Multiple windows can also be open at one time, in which case each window can display a different application or file – this is very useful when working in a multitasking environment. The system memory is the only limitation to the number of windows that can be open at once. There are also many types of specialized windows.
+
+Menus allow the user to execute commands by selecting from a list of choices. Options are selected with a mouse or other pointing device within a GUI. A keyboard may also be used. Menus are convenient because they show what commands are available within the software . This limits the amount of documentation the user reads to understand the software.
+
+An icon is a small picture that represents objects such as a file, program, web page, or command. They are a quick way to execute commands, open documents, and run programs. Icons are also very useful when searching for an object in a browser list, because in many operating systems all documents using the same extension will have the same icon.
+
+Interface elements known as graphical control elements , controls or widgets are software components that a computer user interacts with through direct manipulation to read or edit information about an application. Each widget facilitates a specific user-computer interaction. Structuring a user interface with Widget toolkits allow developers to reuse code for similar tasks, and provides users with a common language for interaction, maintaining consistency throughout the whole information system.
+
+Common uses for widgets involve the display of collections of related items (such as with various list and canvas controls), initiation of actions and processes within the interface ( buttons and menus ), navigation within the space of the information system ( links , tabs and scrollbars ), and representing and manipulating data values (such as labels , check boxes , radio buttons , sliders , and spinners .)
+
+A tab is typically a rectangular small box which usually contains a text label or graphical icon associated with a view pane. When activated the view pane, or window, displays widgets associated with that tab; groups of tabs allow the user to switch quickly between different widgets. This is used in all modern web browsers . With these browsers, you can have multiple web pages open at once in one window, and quickly navigate between them by clicking on the tabs associated with the pages. Tabs are usually placed in groups at the top of a window, but may also be grouped on the side or bottom of a window. Tabs are also present in the settings panes of many applications. Microsoft Windows, for example, uses tabs in most of its control panel dialogues.
+
+Some common idioms for interaction have evolved in the visual language used in GUIs. Interaction elements are interface objects that represent the state of an ongoing operation or transformation, either as visual remainders of the user intent (such as the pointer), or as affordances showing places where the user may interact.
+
+A cursor is an indicator used to show the position on a computer monitor or other display device that will respond to input from a text input or pointing device.
+
+The pointer echoes movements of the pointing device , commonly a mouse or touchpad . The pointer is the place where actions take place that are initiated through direct manipulation gestures such as click , touch and drag .
+
+The caret , text cursor or insertion point represents the point of the user interface where the focus is located. It represents the object that will be used as the default subject of user-initiated commands such as writing text, starting a selection or a copy-paste operation through the keyboard.
+
+A selection is a list of items on which user operations will take place. The user typically adds items to the list manually, although the computer may create a selection automatically.
+
+A handle is an indicator of a starting point for a drag and drop operation. Usually the pointer shape changes when placed on the handle, showing an icon that represents the supported drag operation.

@@ -1,0 +1,21 @@
+Louis Pouzin (born 20 April 1931) is a French computer scientist and Internet pioneer . He directed the development of the CYCLADES computer network in France the early 1970s, which implemented a novel design for packet communication. He was the first to implement the end-to-end principle in a wide-area network, which became fundamental to the design of the Internet .
+
+This network was the first implementation of the pure datagram model, initially conceived and described by Donald Davies , subsequently named by Halvor Bothner-By , and seen by Louis Pouzin as his personal invention. His work, and that of his colleagues Hubert Zimmerman and Gérard Le Lann , were acknowledged by Vinton Cerf as substantial contributions to the design of TCP/IP , the protocol suite used by the Internet .
+
+Louis Pouzin was born in Chantenay-Saint-Imbert , Nièvre , France on 20 April 1931. He studied at the École Polytechnique from 1950 to 1952.
+
+Having participated in the design of the Compatible Time-Sharing System (CTSS) at MIT , Pouzin wrote a program for it called RUNCOM around 1963–64. RUNCOM permitted the execution of commands contained within a folder and can be considered the ancestor of the command-line interface and shell scripts . Pouzin was the one who coined the term shell for a command language interpreter separate from the kernel in 1964 or 1965. Pouzin's concepts were later implemented in Multics by Glenda Schroeder at MIT. Schroeder developed the first Multics shell with the assistance of an unnamed man from General Electric . Schroeder's Multics shell was the predecessor to the Unix shell , which is still in use today.
+
+Working with Glenda Schroeder and Pat Crisman, he also described an early e-mail system called "MAIL" to allow users on the CTSS to send notifications to others about backups of files. Each user's messages would be added to a local file called "MAIL BOX", which would have a “private” mode so that only the owner could read or delete messages. The proposed uses of the proto-email system were for communication from CTSS to notify users that files had been backed up, discussion between authors of CTSS commands, and communication from command authors to the CTSS manual editor. The service only made it possible to leave messages for the other users on the same computer. The idea to allow users to send messages between computers was developed later by Ray Tomlinson in 1971.
+
+From 1967 to 1969 Pouzin developed one operating system for Météo-France , the French national meteorological service, using CDC 6400 as hardware. This system was created for weather forecast and statistics and was used for 15 years.
+
+Pouzin directed the pioneering CYCLADES networking project from 1971 to 1976 at IRIA . Building on Donald Davies ’s simulation of datagram networks and the American ARPANET , Pouzin built the CIGALE packet switching network to research internetworking concepts. CYCLADES used a layered protocol architecture, as did the Internet later.
+
+He co-founded the International Network Working Group at a computer networking conference he organised in Paris in June 1972 and was instrumental in developing the groups' ideas. He was acknowledged by Bob Kahn and Vint Cerf in their seminal 1974 paper on internetworking protocols, A Protocol for Packet Network Intercommunication .
+
+In 2002 Pouzin, along with Jean-Louis Grangé, Jean-Pierre Henninot and Jean-François Morfin, participated in the creation of Eurolinc , which is a non-profit association that promotes multilingualism in domain names . In June 2003, Eurolinc was accredited by UNO to participate at the World Summit on the Information Society (WSIS).
+
+In November 2011, he founded Savoir-Faire, an alternative root company, with Chantal Lebrument and Quentin Perrigueur.
+
+In 2012 he developed a service called Open-Root, which is dedicated to sell top-level domains (TLD) in all scripts outside of ICANN . This way people can develop second-level domains for free.

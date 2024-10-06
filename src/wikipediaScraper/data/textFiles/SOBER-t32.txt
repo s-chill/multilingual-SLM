@@ -1,0 +1,11 @@
+In cryptography , SOBER is a family of stream ciphers initially designed by Greg Rose of QUALCOMM Australia starting in 1997. The name is a contrived acronym for S eventeen O ctet B yte E nabled R egister. Initially the cipher was intended as a replacement for broken ciphers in cellular telephony. The ciphers evolved, and other developers (primarily Phillip Hawkes ) joined the project.
+
+SOBER was the first cipher, with a 17-byte linear-feedback shift register (LFSR), a form of decimation called stuttering , and a nonlinear output filter function. The particular configuration of the shift register turned out to be vulnerable to "guess and determine" attacks.
+
+SOBER-2 changed the position of the feedback and output taps to resist the above attacks.
+
+S16 was an expansion to 16-bit words rather than bytes, with an expected increase of security.
+
+For the NESSIE call for new cryptographic primitives, three new versions called the t-class were developed; SOBER-t8 was virtually identical to SOBER-2 but did not have sufficient design strength for NESSIE submission; SOBER-t16 and SOBER-t32 were submitted. t32 was a further expansion to 32-bit words, while both ciphers had a more efficient method of computing the linear feedback.
+
+Subsequent to NESSIE, SOBER-128 was designed to take into account what had been learned. The stuttering was dropped because it added too little strength for the overhead, and the nonlinear output function was strengthened. As a stream cipher, SOBER-128 remains unbroken. The message authentication capability that was added at the same time was trivially broken.

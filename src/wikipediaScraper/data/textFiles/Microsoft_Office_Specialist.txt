@@ -1,0 +1,15 @@
+Microsoft Certified Professional was a certification program from Microsoft .
+
+Historically, Microsoft offered a number of certifications relating to its product offerings. In the 1990s and well into the early 2000s these offerings were extensive and well received by the IT community.  An extensive network of Microsoft Solution Provider organizations offered robust training and formal examinations were provided through other contract testing vendors.
+
+Certifications were earned by passing exams aligned to a specific certification offering. Typically multiple examinations were required to obtain either a hardware centered certification such as the MCSE (Microsoft Certified Systems Engineer) or a more software orientated offering such as the MCSD (Microsoft Certified Solutions Developer). The process of earning certification has changed multiple times since its initial inception.
+
+Into the 2020s the Microsoft announced that it was retiring all existing Microsoft Certified Professional (MCP), Microsoft Certified Solutions Developer (MCSD), Microsoft Certified Solutions Expert (MCSE) and Microsoft Certified Solutions Associate (MCSA) certifications, introducing new pathways, and changing the way individuals earn and maintain those Microsoft certifications.
+
+These certifications were planned to be phased out effective June 30, 2020, in favor of "role-based" certifications focused primarily on Azure and Microsoft 365 . However, on March 26, 2020, Microsoft announced that the remaining exams associated with MCSA, MCSE and MCSD would retire on January 31, 2021.
+
+Historically, MCSE and MCSD credentials required the individual to recertify after a period of two to three years in order to keep the credential in the "Active section" of their transcript. Under the new system, the MCSE and MCSD credentials no longer have a recertification requirement, they remain on the "Active transcript" of the holder, once gained. Individuals can now re-earn a certification every year by passing an additional elective exam.
+
+These changes were driven by the increasing cadence of updates to Microsoft products and services. The industry has also moved away from the traditional client-server technology model to current software 'rental' models such as software as a service (SaaS), platform as a service (PaaS) and related cloud based IT offerings.
+
+The current list of certifications are:

@@ -1,0 +1,1 @@
+Perl Design Patterns Book is an online textbook about Perl style and design and analysis. The contents are licensed under GNU Free Documentation License .

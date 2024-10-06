@@ -1,0 +1,50 @@
+The Moller Skycar is a flying car with VTOL (vertical take-off and landing) capability which has been under development by Paul Moller for over fifty years. As of 2023, the M400 has not achieved free flight.
+
+Due to the project's failure to deliver and associated financial issues, Moller has been accused of deliberate fraud. The parent company, Moller International, has been dormant since 2015.
+
+The M400 is a four-seat flying car , a type of VTOL personal air vehicle described by Moller as a "volantor" Skycar models from single-seat up to six-seat accommodation have also been envisaged. It is intended to be flyable by anyone who can drive, incorporating automated flight controls, with the driver only inputting direction and speed required.
+
+The body of the M400 comprises a fairly conventional four-seat ground vehicle, which is expected to provide some aerodynamic lift in forward flight. Folding wings and a large, fixed horizontal stabilizer provide the main lifting surfaces, although early prototypes had no wing fitted. VTOL lift and forward thrust in the air are provided by four pivoting ducted fan pods which deflect air vertically for takeoff and horizontally for forward flight. The pods enclose the propellers and engines, which are direct-coupled, and have movable deflector vanes at the rear to provide additional thrust vectoring.
+
+The Skycar is not intended to be piloted like a traditional fixed wing airplane, and would have limited pilot controls, which the pilot uses to inform the computer control system of the desired flight maneuvers.
+
+The Rotapower engines used in the prototypes are being developed by an affiliate Moller company called Freedom Motors. Each power unit comprises a Wankel rotary engine directly driving a ducted fan. The housing is lined with Kevlar to contain the fan blades in the event of failure. The Skycar has four such nacelles , each with two Rotapower engines mounted in tandem. All eight engines operate independently under computer control and, as demonstrated during a tethered flight, allow for a vertical controlled landing should any one engine fail.
+
+The Rotapower engine is based on a rotary engine developed by Outboard Marine Corporation (OMC) in the 1970s and is claimed to be able to run on various fuels including gasoline, diesel, methanol, and clean renewable ethanol . Earlier Rotapower models used gasoline . On November 1, 2013 Moller announced that the 530 cc Rotapower engine had achieved 102 horsepower (76 kW) using alcohol (ethanol) on their test stand, yielding an effective 3 horsepower per pound (5 kW/kg) of weight.
+
+Like the M400 itself, the Rotapower engine has never entered production.
+
+After forty years and $100,000,000 in expenditure the Skycar demonstrated tethered hovering capability in 2003. It has been extensively marketed for pre-order sale since the 1990s as Moller attempted to raise more money for development.
+
+In 2003, hover tests were performed by a Skycar prototype that for insurance reasons was tethered, but not hung, to a crane.
+
+In 2003, the Securities and Exchange Commission sued Moller for civil fraud (Securities And Exchange Commission v. Moller International, Inc., and Paul S. Moller, Defendants) in connection with the sale of unregistered stock, and for making unsubstantiated claims about the performance of the Skycar, even though Moller's statements had passed the review and received "cleared comments" from the SEC during the filing and public information phase prior to being listed as a publicly traded company. Without admitting any wrongdoing, Moller agreed to pay $50,000 to settle the matter quickly so as not to delay the initial public offering of the stock. In the words of the SEC complaint, "As of late 2002, MI's approximately 40 years'  [ sic ] of development has resulted in a prototype Skycar capable of hovering about fifteen feet above the ground." The shareholders of Moller International banded together to form a group known as "Shareholders of Moller International ("SoMI"),
+
+In October 2006, Moller attempted to auction the only prototype of its M200X model on eBay . It failed to sell. The highest bid was $3,000,100; Moller reported at the annual meeting of stockholders on October 21, 2006 in Davis, California, that the reserve price had been $3,500,000. A previous attempt in 2003 to sell the M400 via eBay was also unsuccessful, as were two subsequent attempts to sell the M400 prototype on eBay in July 2017.
+
+On May 18, 2009, Paul Moller filed for personal protection under the Chapter 11 reorganization provisions of the federal bankruptcy law and it is unknown how this will affect the fate of his ideas; Moller International itself did not file for bankruptcy but reduced operations.
+
+On June 21, 2011 Moller International applied for Experimental Airworthiness Certification of the M400 Skycar with the FAA who accepted the application. Demonstration flight plans were scheduled for October 2011 and a flight test consultant was maintained by Moller International. However, no demonstration flight ever occurred.
+
+A memorandum of understanding (MOU) was signed in January 2013 between Moller International and a US-China and e-business network agreeing to the goal of developing production for Moller Skycars in the United States and the People's Republic of China .
+
+As of October 2015 nothing further has been reported on developments of this previously announced joint venture despite Moller International's January 2013 press release having stated the following:
+"The JV will initially invest $80 million (USD) of a planned $480 million investment with the objective of producing a variety of VTOL aircraft by 2014."
+
+On November 5, 2013 Moller kicked off a crowdfunding campaign with an official announcement on the Happening Now program on Fox News Channel in the US. He subsequently followed the broadcast announcement with a press release and a radio-broadcast announcement on the Coast to Coast AM radio program with host John B. Wells interviewing Moller for 2 hours.
+
+The campaign was formulated to raise money to further develop the systems to fly the Skycar without a tether and with a pilot on-board - something that Moller had yet to accomplish with the flights that had been conducted to date with the M400X prototype vehicle. Moller launched a donation-only crowdfunding campaign - not subject to SEC scrutiny - and promised to provide gifts and other items to donors, included a ride in the M400X as the top gift of the campaign. The Moller crowdfunding campaign ended on January 4, 2014 and raised a total of US $29,429.00 from 188 funders, far short of its $950,000 goal.
+
+As explained in a Freedom Motors newsletter from August 2019, Moller International has been dormant since 2015. Shares of Moller International were revoked by the SEC in September 2019.
+
+The Skycar has never achieved free flight. The ongoing lack of funding for the Moller company to actually fly the M400 led the National Post to characterize the Skycar as a 'failure'. The management of the company and the inability to bring a product to market draws the most ire from commentators.
+
+Data from and
+
+General characteristics
+
+Performance
+
+The Moller M400 Skycar was featured in the 2010 telemovie The Jensen Project with LeVar Burton and Kellie Martin .
+
+It also appears in Clive Cussler 's novel Atlantis Found , where it is flown by Dirk Pitt .

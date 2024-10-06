@@ -1,0 +1,111 @@
+Highway engineering (also known as roadway engineering and street engineering ) is a professional engineering discipline branching from the civil engineering subdiscipline of transportation engineering that involves the planning, design, construction, operation, and maintenance of roads , highways , streets , bridges , and tunnels to ensure safe and effective transportation of people and goods. Highway engineering became prominent towards the latter half of the 20th century after World War II . Standards of highway engineering are continuously being improved. Highway engineers must take into account future traffic flows, design of highway intersections/interchanges, geometric alignment and design, highway pavement materials and design, structural design of pavement thickness, and pavement maintenance.
+
+The beginning of road construction could be dated to the time of the Romans. With the advancement of technology from carriages pulled by two horses to vehicles with power equivalent to 100 horses, road development had to follow suit. The construction of modern highways did not begin until the late 19th to early 20th century.
+
+The first research dedicated to highway engineering was initiated in the United Kingdom with the introduction of the Transport Research Laboratory (TRL), in 1930. In the US, highway engineering became an important discipline with the passing of the Federal-Aid Highway Act of 1944 , which aimed to connect 90% of cities with a population of 50,000 or more. With constant stress from vehicles which grew larger as time passed, improvements to pavements were needed. With technology out of date, in 1958 the construction of the first motorway in Great Britain (the Preston bypass ) played a major role in the development of new pavement technology.
+
+Highway planning involves the estimation of current and future traffic volumes on a road network . The Highway planning is also a basic need for the Highway development. Highway engineers strive to predict and analyze all possible civil impacts of highway systems. Some considerations are the adverse effects on the environment, such as noise pollution, air pollution, water pollution, and other ecological impacts.
+
+Developed countries are constantly faced with high maintenance cost of aging transportation highways. The growth of the motor vehicle industry and accompanying economic growth has generated a demand for safer, better performing, less congested highways. The growth of commerce, educational institutions, housing, and defense have largely drawn from government budgets in the past, making the financing of public highways a challenge.
+
+The multipurpose characteristics of highways, economic environment, and the advances in highway pricing technology are constantly changing. Therefore, the approaches to highway financing, management, and maintenance are constantly changing as well.
+
+The economic growth of a community is dependent upon highway development to enhance mobility. However, improperly planned, designed, constructed, and maintained highways can disrupt the social and economic characteristics of any size community. Common adverse impacts to highway development include damage of habitat and bio-diversity, creation of air and water pollution, noise and vibration generation, damage of natural landscape, and the destruction of a community's social and cultural structure. Highway infrastructure must be constructed and maintained to high qualities and standards.
+
+There are three key steps for integrating environmental considerations into the planning, scheduling, construction, and maintenance of highways. This process is known as an Environmental Impact Assessment , or EIA, as it systematically deals with the following elements:
+
+Highway systems generate the highest price in human injury and death, as nearly 50 million persons are injured in traffic accidents every year, not including the 1.2 million deaths. Road traffic injury is the single leading cause of unintentional death in the first five decades of human life.
+
+Management of safety is a systematic process that strives to reduce the occurrence and severity of traffic accidents. The man/machine interaction with road traffic systems is unstable and poses a challenge to highway safety management. The key for increasing the safety of highway systems is to design, build, and maintain them to be far more tolerant of the average range of this man/machine interaction with highways. Technological advancements in highway engineering have improved the design, construction, and maintenance methods used over the years. These advancements have allowed for newer highway safety innovations.
+
+By ensuring that all situations and opportunities are identified, considered, and implemented as appropriate, they can be evaluated in every phase of highway planning, design, construction, maintenance, and operation to increase the safety of our highway systems.
+
+The most appropriate location, alignment, and shape of a highway are selected during the design stage. Highway design involves the consideration of three major factors (human, vehicular, and roadway) and how these factors interact to provide a safe highway. Human factors include reaction time for braking and steering, visual acuity for traffic signs and signals, and car-following behaviour. Vehicle considerations include vehicle size and dynamics that are essential for determining lane width and maximum slopes, and for the selection of design vehicles. Highway engineers design road geometry to ensure stability of vehicles when negotiating curves and grades and to provide adequate sight distances for undertaking passing maneuvers along curves on two-lane, two-way roads.
+
+Highway and transportation engineers must meet many safety, service, and performance standards when designing highways for certain site topography. Highway geometric design primarily refers to the visible elements of the highways. Highway engineers who design the geometry of highways must also consider environmental and social effects of the design on the surrounding infrastructure.
+
+There are certain considerations that must be properly addressed in the design process to successfully fit a highway to a site's topography and maintain its safety. Some of these design considerations are:
+
+The operational performance of a highway can be seen through drivers' reactions to the design considerations and their interaction.
+
+The materials used for roadway construction have progressed with time, dating back to the early days of the Roman Empire. Advancements in methods with which these materials are characterized and applied to pavement structural design has accompanied this advancement in materials.
+
+There are three major types of pavement surfaces - pavement quality concrete (PQC), Portland cement concrete (PCC) and hot-mix asphalt (HMA). Underneath this wearing course are material layers that give structural support for the pavement system. These underlying surfaces may include either the aggregate base and sub base layers, or treated base and sub base layers, and additionally the underlying natural or treated sub grade. These treated layers may be cement-treated, asphalt-treated, or lime-treated for additional support. New Material
+
+A flexible, or asphalt , or Tarmac pavement typically consists of three or four layers. For a four layer flexible pavement, there is a surface course, base course, and subbase course constructed over a compacted, natural soil subgrade. When building a three layer flexible pavement, the subbase layer is not used and the base course is placed directly on the natural subgrade.
+
+A flexible pavement's surface layer is constructed of hot-mix asphalt (HMA).Unstabilized aggregates are typically used for the base course; however, the base course could also be stabilized with asphalt, Foamed Bitumen,<Roadstone Recycling> Portland cement, or another stabilizing agent. The subbase is generally constructed from local aggregate material, while the top of the subgrade is often stabilized with cement or lime.
+
+With flexible pavement, the highest stress occurs at the surface and the stress decreases as the depth of the pavement increases. Therefore, the highest quality material needs to be used for the surface, while lower quality materials can be used as the depth of the pavement increases. The term "flexible" is used because of the asphalts ability to bend and deform slightly, then return to its original position as each traffic load is applied and removed. It is possible for these small deformations to become permanent, which can lead to rutting in the wheel path over an extended time.
+
+The service life of a flexible pavement is typically designed in the range of 20 to 30 years. Required thicknesses of each layer of a flexible pavement vary widely depending on the materials used, magnitude, number of repetitions of traffic loads, environmental conditions, and the desired service life of the pavement. Factors such as these are taken into consideration during the design process so that the pavement will last for the designed life without excessive distresses.
+
+Rigid pavements are generally used in constructing airports and major highways, such as those in the interstate highway system . In addition, they commonly serve as heavy-duty industrial floor slabs, port and harbor yard pavements, and heavy-vehicle park or terminal pavements. Like flexible pavements, rigid highway pavements are designed as all-weather, long-lasting structures to serve modern day high-speed traffic. Offering high quality riding surfaces for safe vehicular travel, they function as structural layers to distribute vehicular wheel loads in such a manner that the induced stresses transmitted to the subgrade soil are of acceptable magnitudes.
+
+Portland cement concrete (PCC) is the most common material used in the construction of rigid pavement slabs. The reason for its popularity is due to its availability and the economy. Rigid pavements must be designed to endure frequently repeated traffic loadings. The typical designed service life of a rigid pavement is between 30 and 40 years, lasting about twice as long as a flexible pavement.
+
+One major design consideration of rigid pavements is reducing fatigue failure due to the repeated stresses of traffic. Fatigue failure is common among major roads because a typical highway will experience millions of wheel passes throughout its service life. In addition to design criteria such as traffic loadings, tensile stresses due to thermal energy must also be taken into consideration. As pavement design has progressed, many highway engineers have noted that thermally induced stresses in rigid pavements can be just as intense as those imposed by wheel loadings. Due to the relatively low tensile strength of concrete, thermal stresses are extremely important to the design considerations of rigid pavements.
+
+Rigid pavements are generally constructed in three layers - a prepared subgrade, base or subbase, and a concrete slab. The concrete slab is constructed according to a designed choice of plan dimensions for the slab panels, directly influencing the intensity of thermal stresses occurring within the pavement. In addition to the slab panels, temperature reinforcements must be designed to control cracking behavior in the slab. Joint spacing is determined by the slab panel dimensions.
+
+Three main types of concrete pavements commonly used are jointed plain concrete pavement (JPCP), jointed reinforced concrete pavement (JRCP), and continuously reinforced concrete pavements (CRCP). JPCPs are constructed with contraction joints which direct the natural cracking of the pavement. These pavements do not use any reinforcing steel. JRCPs are constructed with both contraction joints and reinforcing steel to control the cracking of the pavement. High temperatures and moisture stresses within the pavement creates cracking, which the reinforcing steel holds tightly together. At transverse joints, dowel bars are typically placed to assist with transferring the load of the vehicle across the cracking. CRCPs solely rely on continuous reinforcing steel to hold the pavement's natural transverse cracks together. Prestressed concrete pavements have also been used in the construction of highways; however, they are not as common as the other three. Prestressed pavements allow for a thinner slab thickness by partly or wholly neutralizing thermally induced stresses or loadings.
+
+Over the service life of a flexible pavement, accumulated traffic loads may cause excessive rutting or cracking, inadequate ride quality, or an inadequate skid resistance. These problems can be avoided by adequately maintaining the pavement, but the solution usually has excessive maintenance costs, or the pavement may have an inadequate structural capacity for the projected traffic loads.
+
+Throughout a highway's life, its level of serviceability is closely monitored and maintained. One common method used to maintain a highway's level of serviceability is to place an overlay on the pavement's surface.
+
+There are three general types of overlay used on flexible pavements: asphalt-concrete overlay, Portland cement concrete overlay, and ultra-thin Portland cement concrete overlay. The concrete layer in a conventional PCC overlay is placed unbonded on top of the flexible surface. The typical thickness of an ultra-thin PCC overlay is 4 inches (10 cm) or less.
+
+There are two main categories of flexible pavement overlay design procedures:
+
+Near the end of a rigid pavement's service life, a decision must be made to either fully reconstruct the worn pavement, or construct an overlay layer. Considering an overlay can be constructed on a rigid pavement that has not reached the end of its service life, it is often more economically attractive to apply overlay layers more frequently. The required overlay thickness for a structurally sound rigid pavement is much smaller than for one that has reached the end of its service life. Rigid and flexible overlays are both used for rehabilitation of rigid pavements such as JPCP, JRCP, and CRCP.
+
+There are three subcategories of rigid pavement overlays that are organized depending on the bonding condition at the pavement overlay and existing slab interface.
+
+Designing for proper drainage of highway systems is crucial to their success. A highway should be graded and built to remain "high and dry". Regardless of how well other aspects of a road are designed and constructed, adequate drainage is mandatory for a road to survive its entire service life. Excess water in the highway structure can inevitably lead to premature failure, even if the failure is not catastrophic.
+
+Each highway drainage system is site-specific and can be very complex. Depending on the geography of the region, many methods for proper drainage may not be applicable. The highway engineer must determine which situations a particular design process should be applied, usually a combination of several appropriate methods and materials to direct water away from the structure. Pavement subsurface drainage, and underdrains help provide extended life and excellent and reliable pavement performance. Excessive moisture under a concrete pavement can cause pumping, cracking, and joint failure.
+
+Erosion control is a crucial component in the design of highway drainage systems. Surface drainage must be allowed for precipitation to drain away from the structure. Highways must be designed with a slope or crown so that runoff water will be directed to the shoulder of the road, into a ditch, and away from the site. Designing a drainage system requires the prediction of runoff and infiltration, open channel analysis, and culvert design for directing surface water to an appropriate location.
+
+Highway construction is generally preceded by detailed surveys and subgrade preparation. The methods and technology for constructing highways has evolved over time and become increasingly sophisticated. This advancement in technology has raised the level of skill sets required to manage highway construction projects. This skill varies from project to project, depending on factors such as the project's complexity and nature, the contrasts between new construction and reconstruction, and differences between urban region and rural region projects.
+
+There are a number of elements of highway construction which can be broken up into technical and commercial elements of the system. Some examples of each are listed below:
+
+Typically, construction begins at the lowest elevation of the site, regardless of the project type, and moves upward. By reviewing the geotechnical specifications of the project, information is given about:
+
+A subbase course is a layer designed of carefully selected materials that is located between the subgrade and base course of the pavement. The subbase thickness is generally in the range of 4 to 16 inches, and it is designed to withstand the required structural capacity of the pavement section.
+
+Common materials used for a highway subbase include gravel, crushed stone, or subgrade soil that is stabilized with cement, fly ash, or lime. Permeable subbase courses are becoming more prevalent because of their ability to drain infiltrating water from the surface. They also prevent subsurface water from reaching the pavement surface.
+
+When local material costs are excessively expensive or the material requirements to increase the structural bearing of the sub-base are not readily available, highway engineers can increase the bearing capacity of the underlying soil by mixing in Portland cement, foamed asphalt, or use polymer soil stabilization such as cross-linking styrene acrylic polymer that increases the California Bearing Ratio of in-situ materials by a factor 4 – 6.
+
+The base course is the region of the pavement section that is located directly under the surface course. If there is a subbase course, the base course is constructed directly about this layer. Otherwise, it is built directly on top of the subgrade. Typical base course thickness ranges from 4 to 6 inches and is governed by underlying layer properties.
+
+Heavy loads are continuously applied to pavement surfaces, and the base layer absorbs the majority of these stresses. Generally, the base course is constructed with an untreated crushed aggregate such as crushed stone, slag, or gravel. The base course material will have stability under the construction traffic and good drainage characteristics.
+
+The base course materials are often treated with cement, bitumen, calcium chloride, sodium chloride, fly ash, or lime. These treatments provide improved support for heavy loads, frost susceptibility, and serves as a moisture barrier between the base and surface layers.
+
+There are two most commonly used types of pavement surfaces used in highway construction: hot-mix asphalt and Portland cement concrete. These pavement surface courses provide a smooth and safe riding surface, while simultaneously transferring the heavy traffic loads through the various base courses and into the underlying subgrade soils.
+
+Hot-mix asphalt surface courses are referred to as flexible pavements. The Superpave System was developed in the late 1980s and has offered changes to the design approach, mix design, specifications, and quality testing of materials.
+
+The construction of an effective, long-lasting asphalt pavement requires an experienced construction crew, committed to their work quality and equipment control.
+
+Construction issues:
+
+A prime coat is a low viscosity asphalt that is applied to the base course prior to laying the HMA surface course. This coat bonds loose material, creating a cohesive layer between the base course and asphalt surface.
+
+A tack coat is a low viscosity asphalt emulsion that is used to create a bond between an existing pavement surface and new asphalt overlay. Tack coats are typically applied on adjacent pavements (curbs) to assist the bonding of the HMA and concrete.
+
+Portland cement concrete surface courses are referred to as rigid pavements, or concrete pavements. There are three general classifications of concrete pavements - jointed plain, jointed reinforced, and continuously reinforced.
+
+Traffic loadings are transferred between sections when larger aggregates in the PCC mix inter-lock together, or through load transfer devices in the transverse joints of the surface. Dowel bars are used as load-transferring devices to efficiently transfer loads across transverse joints while maintaining the joint's horizontal and vertical alignment. Tie-bars are deformed steel bars that are placed along longitudinal joints to hold adjacent pavement sections in place.
+
+The overall purpose of highway maintenance is to fix defects and preserve the pavement's structure and serviceability. Defects must be defined, understood, and recorded in order to create an appropriate maintenance plan. Maintenance planning is solving an optimisation problem and it can be predictive. In predictive maintenance planning empirical, data-driven methods give more accurate results than mechanical models. Defects differ between flexible and rigid pavements.
+
+There are four main objectives of highway maintenance:
+
+Through routine maintenance practices, highway systems and all of their components can be maintained to their original, as-built condition.
+
+Project management involves the organization and structuring of project activities from inception to completion. Activities could be the construction of infrastructure such as highways and bridges or major and minor maintenance activities related to constructing such infrastructure. The entire project and involved activities must be handled in a professional manner and completed within deadlines and budget. In addition, minimizing social and environmental impacts is essential to successful project management.

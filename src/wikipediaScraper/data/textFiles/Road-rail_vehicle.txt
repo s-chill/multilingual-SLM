@@ -1,0 +1,85 @@
+A road–rail vehicle or a rail–road vehicle is a dual-mode vehicle which can operate both on rail tracks and roads . They are also known as two-way vehicles ( ‹See Tfd› German : Zweiwegefahrzeug ), hi-rail (from highway and railway , or variations such as high-rail, HiRail, Hy-rail ), and rail and road vehicles .
+
+They are often converted road vehicles , keeping their normal wheels with rubber tires , but fitted with additional flanged steel wheels for running on rails. Propulsion is typically through the conventional tires, the flanged wheels being free-rolling, used to keep the vehicle on the rails; the rail wheels are raised and lowered as needed. There are also purpose-built road–rail vehicles. In case of jeep trains , road wheels are directly replaced with railway wheels. Vehicles with tires need special areas like level crossings to change modes. A vehicle on caterpillar tracks rather than road wheels, which allows mode change anywhere without the need to use a level crossing, has been proposed and modelled by Chinese engineers.
+
+Most of such vehicles are used for railroad right-of-way maintenance during engineering possessions of the line, when a section of the line is handed over for maintenance and operational trains are blocked from entering the section. Military-used railroad vehicles take advantage of intact railways for locomotion or are used as emergency locomotives. The usage as passenger buses is rare and mostly experimental. Maintenance railroad vehicles can be driven on roads to near the site and then converted to a rail vehicle for the final journey to the worksite. This avoids the complex maneuvers that would be associated with a road vehicle accessing a worksite that is not near a road. Since they are normally converted road vehicles, they would not fare well in a collision with heavy rolling stock and therefore can normally only drive on rail tracks under an engineering possession, when the line is closed to normal traffic. They are generally designed to be insulated, thus they do not activate railway signalling circuits. Nevertheless, some rail operators prefer them to be non-insulated so that they are detectable by train safety systems . The latter operators normally deploy them on remote lines without boom gates, etc.
+
+An early promoter of the road-rail system was Brigadier General Robert Stronach, part of a company called Roadrails Ltd formed around 1920. Roadrails Ltd held a number of patents regarding vehicles that could run on the road or on rail. The idea was that rails offered less rolling resistance while roads offered greater tractive effort, and the combination would allow either greater loads to be hauled, or loads to be hauled on steeper gradients thereby reducing a major cost of building a railway. In 1922 Stronach patented a road-rail tractor which could be driven on the road, or have a front set of rail wheels jacked down to allow it to haul a load on rails - guided by the rails but driven by the rear road wheels. A road-rail tractor of this type resembling a normal road truck was part of the 1924 British Empire Exhibition at Wembley where it hauled coaches around the exhibition area.
+
+One problem with the road-rail tractor was reversing while on the rails, but the ability to raise the bogie and swap to road mode allowed it to run round the train. At their 1923 annual general meeting they said their new method for converting from road to rail now only took 2 minutes. They were "completing designs for a caterpillar type" and of another type for tram service.
+
+Unfortunately Roadrails Ltd later focussed on locomotives that were rail-only but used road wheel for traction either side of the track, and moved away from the style of vehicle shown at the Exhibition with its usefulness in factory yards, dockyards, etc where it could function on road or rail. A 'Road-rail' branch was built in South Africa, and this used two road-rail locomotives, both converted from steam traction engines. One could be used on road or rail but the other used a Dutton patent (see South African Dutton road-rail tractors ), whereby a rail vehicle used road wheel traction. i.e. it required both road and rail to function. In the end the experiment was unsuccessful and the branch reverted to normal steam engines by about 1927, and Roadrails Ltd was closed down around the same time.
+
+BAD-2 was a Soviet experimental amphibious armoured car first produced in 1932, which could also go on rail tracks. The changing for rail mode took 30 minutes.
+
+From 1933 on, small numbers of FAI-ZhD were produced. FAI-ZhD was a modification of FAI for additional railway usage. The speed on rails was 85 km/h forward and 24 km/h reverse. The road speed was 40 km/h. The changing of modes took the crew 30 minutes.
+
+From 1933 on, the Japanese Empire started to produce the Sumida M.2593 . It was a 7.7 ton 10 mm armoured vehicle with 6 wheels. The road wheels could be replaced by flanged wheels for railways. Its speed was 40 km/h on road and 60 km/h on rail.
+
+The Type 95 So-Ki was a tankette produced in the Japanese Empire between 1935 and 1943. It had tank tracks for ground travel and retractable flanged wheels for railways. Changing from railway to ground mode took one minute, and changing from ground to railways took three minutes. In addition, the flanged wheels could be adjusted for narrow , standard and broad gauge railway tracks.
+
+The BTR-40 ZhD was the armored personnel carrier BTR-40 equipped with additional rail wheels. It was further developed to the railway version of BTR-40A in 1969. Rerailment took 3–5 minutes. Its road speed was 78 km/h and its rail speed was 65 km/h.
+
+Attempts have been made over the years to design buses and coaches that could operate on both roads and railway tracks. Siemens & Halske presented an electric street car bus ( ‹See Tfd› German : Straßenbahn-Omnibus ) in 1898 in Berlin. This vehicle ran on batteries and had a range of 6 km.
+
+Some attempts were carried out in Britain during the 1930s, on the Nickey Line by LMS , using a Ro-Railer .
+
+In the 1930s, the Evans Products Company in the USA marketed the Evans Auto-Railer, a bus designed to also travel on railway tracks. The Evans Auto-Railer could also transport freight of 2.5–3t and go on wet, icy and snow-covered railtracks. In the winter of 1934-35, an experimental unit travelled 2,500 miles (4,023 km).
+
+In the early 1940s, the engineer Talon developed a system in which a normal street bus ran on rails and was able to pull a light Decauville railcar sidecar. The bus drove over a special ramp to two-track wagons, after which the front wheels no longer touched the rails, but the inside of the rear double wheels remained in contact with the track. At least one of these vehicles powered by wood gas was used in the summer of 1943 on the 54 km (34 mi) long railway line from Carcassonne to Quillan.
+
+The Deutsche Bundesbahn operated buses, called the Schi-Stra-Bus [ de ] , that could be fitted with separate bogies in different areas from the 1950s to 1970s.
+
+In 1967–68, two Red Arrow Lines diesel buses were converted so that they could also run on rails. This experiment did not succeed, because the requirements for railcars and road vehicles were too different.
+
+In 1983, the Greater London Council considered investing £230,000 into the Lucas rail-bus , which could run on roads and rail tracks. The original concept was developed by Lucas Aerospace workers in the 1970s. In 1980–1981, the workers' combine built a prototype out of a second-hand Bristol bus. The enthusiasm arose from the opportunity to cut costs on rail vehicle production by partially integrating bus parts. Two challenges had to be solved: collision consequences with much heavier rail vehicles and supervision of the transition from road to rail.
+
+Railroad buses were also developed in Japan, by JR Hokkaido in 2002, under the name DMV (Dual Mode Vehicle). The DMV920 model no longer used external bogies ; the two axles that are carried along are only lowered on the single rail. A test vehicle (DMV901) began trials in January 2004 and DMV911/912 began in September 2005. Further testing began on 4 April 2007, on the Senmo Line between Mokoto and Hama-koshimizu . One leg is from Hama-koshimizu to Mokoto (about 11 km) as a rail trip and Mokoto to Hama-koshimizu as a passenger bus (about 25 km). DMV920 was completed in June 2008 with a capacity of 28 passengers. Asa Kaigan Railway started dual mode buses on 25 December 2021.
+
+On the Abilene and Smoky Valley Railroad , the hyrail bus Silver Flyer Rail Bus is used for excursion, which can travel on both road and rail.
+
+In 2022, SNCF has presented the concept of FLEXY, a road-rail fully electric autonomous shuttle for areas of low population density. The first experiments are planned for 2024.
+
+Evans Auto-Railer was a pioneer in the US in the 1930s and 1940s. Evans seems to have produced all road–rail vehicle adaptations for the US military during WWII, but was rapidly overtaken by Fairmont immediately post-war.
+
+Aries Hyrail branded vehicles have been manufactured in Australia for several decades. Aries Hyrail vehicles continue to be manufactured by Aries Rail.
+
+UK-based Permaquip manufactures highway-based road rail vehicles, trailers, and attachments.
+
+Continental Railworks is a road–rail conversion unit manufacturer based in Montreal , Canada, producing hi-rail units since 1997. Their products are known for the automatic locking / unlocking feature and for the rubber spring induced downforce applied to the rails.
+
+A vehicle on caterpillar tracks rather than road wheels, which allows mode change anywhere without the need to use a level crossing, has been proposed and modelled by Chinese engineers.
+
+Vollert Anlagenbau GmbH has developed a unmanned road-rail remote controlled vehicle VLEX for shunting up to 300t.
+
+Sweden-based Goldschmidt Sweden is one of the leading manufacturers of road-rail vehicles. Their range encompasses catenary maintenance vehicles, tunnel and bridge inspection vehicles, measurement vehicles, grinding and welding vehicles, and other customized road-rail solutions.
+
+The RTL is a truck with railway wheels that can be lowered when operating on the railway tracks. It was pioneered in the early 1990s by Australian National and later refined in Victoria. The idea was to have a locomotive that could transfer from one branch line carrying mainly wheat to another parallel branch line, where the rail connection is very roundabout. The RTL suffered a number of disadvantages. Loads were severely limited when the track was steeply graded. The rubber traction wheels slipped on the steel rails when wet. The life of the rubber tires was rather short.
+
+The Canadian company Brandt has also converted large truck tractor units for use as locomotives that can move by road to where they are needed. Still mostly used for permanent way maintenance, they can also be employed as thunderbird (rescue) locomotives or even used in normal service, where they are suitable for smaller operators.
+
+In East Germany some Fortschritt ZT 300 tractors were used in road–rail service.
+
+Road–rail vehicles also serve as motive power for shunting (switching), the process of sorting items of rolling stock into complete trains , or the reverse.
+
+In Belgium, the company UCA produces the UCA-TRAC, road–rail vehicles based on the chassis of a JCB Load-All (UCA-TRAC B) and JCB Fastrac (UCA-TRAC F). The UCA-TRAC provides traction through its rubber wheels and is designed to act as a rail car mover .
+
+In Australia, similar vehicles are built by Aries Rail using Volvo loaders and AUSA telehandlers . These vehicles are able to be used for other purposes such as shovelling or forklifting whilst not operating on-rail.
+
+Such vehicles often have cabin-mounted controls for the railway air brake system so that the driver can apply and release the train brakes during shunting manoeuvres. In order to charge the train brake air hose, an air compressor needs to be fitted to the road–rail vehicle.
+
+The Unimog road-railer is used for maintenance and shunting tasks. It can pull up to 1000t and operate a snow cutter. Unimog can drive on standard gauge as well as various international broad gauges with its own wheels. The mechanical engine power of the Unimog is 160 kW and it achieves a speed of 90 km/h on roads and 50 km/h on rails. It needs a leveled area of 5m length for a rail/road changeover.
+
+Self-propelled maintenance vehicles for maintenance of the track and for shunting wagons are much more convenient to use if they can transfer to the road to reposition or otherwise get out of the way. Because relatively light loads are involved, the problems plaguing the Road Transferable Locomotive are avoided.
+
+An example would be a forklift truck fitted with railway wheels and a coupling with which to shunt a wagon or two.
+
+In Belgium, the company UCA bvba has been constructing road–rail vehicles since 1981. UCA started with converting WF-trac and MB-trac for rail traction uses. They built rail car movers, shunting locotractors and other road–rail vehicles. Best known is the UCA-TRAC , based on the chassis of a JCB Load-All (UCA-TRAC B) and Fastrac (UCA-TRAC F). The UCA-TRAC provides traction through its rubber wheels.
+
+Road–rail vehicles, particularly those used for inspection purposes, have been involved in a number of serious incidents, including deaths. There has been ongoing discussion regarding maintenance and inspection standards, including load and load distribution, to minimise the risk of failures.
+
+Factors leading to derailment include failed locking equipment, wheel failure, damaged rail wheel support systems, inappropriate tires, and uneven or overloading issues.
+
+In the UK, technical requirements for road–rail vehicles are the subject of a Rail Industry Standard (RIS-1530-PLT). In Australia, the Rail Industry Safety and Standards Board (RISSB) is working with manufacturers and operators to produce an Australian standard to which road–rail vehicles must comply.
+
+When operating in road-going mode, drivers have to remember that the dynamics of the vehicle will be changed due to the increased weight at the front and rear of the chassis. Some manufacturers have developed systems that allow the rail wheels to be stored almost entirely inside the original bodywork thus moving the centre of mass closer to the road axles. This greatly improves the on-road driving performance of the vehicle.

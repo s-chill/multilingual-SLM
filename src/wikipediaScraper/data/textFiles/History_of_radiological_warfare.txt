@@ -1,0 +1,19 @@
+Radiological warfare is any form of warfare involving deliberate radiation poisoning or contamination of an area with radiological sources.
+
+Radiological weapons are normally classified as weapons of mass destruction (WMDs), although radiological weapons can also be specific in whom they target, such as the radiation poisoning of Alexander Litvinenko by the Russian FSB , using radioactive polonium-210 .
+
+Numerous countries have expressed an interest in radiological weapons programs, several have actively pursued them, and three have performed radiological weapons tests.
+
+A salted bomb is a nuclear weapon that is equipped with a large quantity of radiologically inert salting material. The radiological warfare agents are produced through neutron capture by the salting materials of the neutron radiation emitted by the nuclear weapon. This avoids the problems of having to stockpile the highly radioactive material, as it is produced when the bomb explodes. The result is a more intense fallout than from regular nuclear weapons and can render an area uninhabitable for a long period.
+
+The cobalt bomb is an example of a radiological warfare weapon, where cobalt-59 is converted to cobalt-60 by neutron capture. Initially, gamma radiation of the nuclear fission products from an equivalent sized "clean" fission-fusion-fission bomb (assuming the amount of radioactive dust particles generated are equal) are much more intense than cobalt-60: 15,000 times more intense at 1 hour; 35 times more intense at 1 week; 5 times more intense at 1 month; and about equal at 6 months. Thereafter fission drops off rapidly so that cobalt-60 fallout is 8 times more intense than fission at 1 year and 150 times more intense at 5 years. The very long-lived isotopes produced by fission would overtake the cobalt-60 again after about 75 years.
+
+Other salted bomb variants that do not use cobalt have also been theorized. For example, salting with sodium -23, that transmutes to sodium-24 , which because of its 15-hour half-life results in intense radiation.
+
+An air burst is preferred if the effects of thermal radiation and blast wave is to be maximized for an area (i.e. area covered by direct line of sight and sufficient luminosity to cause burning, and formation of mach stem respectively). Both fission and fusion weapons will irradiate the detonation site with neutron radiation, causing neutron activation of the material there. Fission bombs will also contribute with the bomb-material residue. Air will not form isotopes useful for radiological warfare when neutron-activated. By detonating them at or near the surface instead, the ground will be vaporized, become radioactive, and when it cools down and condenses into particles cause significant fallout .
+
+A far lower-tech radiological weapon than those discussed above is a " dirty bomb " or radiological dispersal device , whose purpose is to disperse radioactive dust over an area. The release of radioactive material may involve no special "weapon" or side forces like a blast explosion and include no direct killing of people from its radiation source, but rather could make whole areas or structures unusable or unfavorable for the support of human life. The radioactive material may be dispersed slowly over a large area, and it can be difficult for the victims to initially know that such a radiological attack is being carried out, especially if detectors for radioactivity are not installed beforehand.
+
+Radiological warfare with dirty bombs could be used for nuclear terrorism , spreading or intensifying fear. In relation to these weapons, nation states can also spread rumor, disinformation and fear.
+
+In July 2023, both Ukraine and Russia blamed each other for preparing to bomb the Zaporizhzhia nuclear power plant in Ukraine, in order to use the nuclear reactors as dirty bombs.

@@ -1,0 +1,5 @@
+MAHRU & AHRA are humanoid robots design and developed by KIST . Unlike other robots such as ASIMO , they can obtain artificial intelligence from certain networks. They made public appearances around in South Korea.
+
+MAHRU & AHRA stand at 150 cm and weigh 67 kg. They are powered by a lithium polymer battery (model 48V-20A) and networks. The colors are blue (for MAHRU), orange (for AHRA).
+
+MAHRU & AHRA can recognize moving objects, postures, gestures, its surrounding environment, sounds and faces. They can walk anyway, such as right, left, backward, or forward.

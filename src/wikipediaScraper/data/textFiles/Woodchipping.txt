@@ -1,0 +1,87 @@
+Woodchips are small- to medium-sized pieces of wood formed by cutting or chipping larger pieces of wood such as trees , branches , logging residues, stumps , roots , and wood waste.
+
+Woodchips may be used as a biomass solid fuel and are raw material for producing wood pulp . They may also be used as an organic mulch in gardening , landscaping , and ecosystem restoration ; in bioreactors for denitrification ; and as a substrate for mushroom cultivation .
+
+The process of making woodchips is called wood chipping and is done using a wood chipper . The types of woodchips formed following chipping is dependent on the type of wood chipper used and the material from which they are made. Woodchip varieties include: forest chips (from forested areas), wood residue chips (from untreated wood residues, recycled wood and off-cuts), sawing residue chips (from sawmill residues), and short rotation forestry chips (from energy crops).
+
+The raw materials of woodchips can be pulpwood , waste wood, and residual wood from agriculture , landscaping , logging , and sawmills . Woodchips can also be produced from remaining forestry materials including tree crowns , branches, unsaleable materials or undersized trees.
+
+Forestry operations provide the raw materials needed for woodchip production. Almost any tree can be converted into woodchips, however, the type and quality of the wood used to produce woodchips depends largely on the market. Softwood species, for instance, tend to be more versatile for use as woodchips than hardwood species because they are less dense and faster growing.
+
+A wood chipper is a machine used for cutting wood into smaller pieces (chips). There are several types of wood chippers, each having a different use depending on the type of processing the woodchips will undergo.
+
+Woodchips used for chemical pulp must be relatively uniform in size and free of bark. The optimum size varies with the wood species. It is important to avoid damage to the wood fibres as this is important for the pulp properties. For roundwood it is most common to use disk chippers. A typical size of the disk is 2.0–3.5 m in diameter, 10–25 cm in thickness and weight is up to 30 tons. The disk is fitted with 4 to 16 knives and driven with motors of ½ –2 MW. Drum chippers are normally used for wood residuals from saw mills or other wood industry.
+
+There are four potential methods to move woodchips: pneumatic , conveyor belt , hopper with direct chute, and batch system (manual conveyance).
+
+A disk wood chipper features a flywheel made of steel and chopping blades with slotted disks. The blades slice through the wood as the material is fed through the chute. Knives located in the throat of the chipper cuts the wood in the opposite direction. The design is not as energy efficient as other styles but produces consistent shapes and sizes of woodchips.
+
+A drum wood chipper has a rotating parallel-sided drum attached to the engine with reinforced steel blades attached in a horizontal direction. Wood is drawn into the chute by gravity and the rotation of the drum where it is broken up by the steel blades. The drum type is noisy and creates large uneven chips but are more energy efficient than the disk type.
+
+A screw-type wood chipper contains a conical, screw-shaped blade {citation needed}. The blade rotation is set parallel to the opening so wood is pulled into the chipper by the spiral motion. Screw-type, also called high-torque rollers, are popular for residential use due to being quiet, easy to use and safer than disk and drum types.
+
+Woodchips are used primarily as a raw material for technical wood processing. In industry, processing of bark chips is often separated after peeling the logs due to different chemical properties.
+
+Only the heartwood and sapwood are useful for making pulp. Bark contains relatively few useful fibres and is removed and used as fuel to provide steam for use in the pulp mill . Most pulping processes require that the wood be chipped and screened to provide uniform sized chips.
+
+Woodchips are also used as landscaping and garden mulch , for water conservation , weed control, and reducing and preventing soil erosion . Woodchips when used as a mulch are at least three inches thick. It has a mixed reputation in gardening.
+
+It has been promoted for use in habitat restoration projects. As the ramial chipped wood decomposes it improves the soil structure, permeability, bioactivity, and nutrient availability of the soil.
+
+Woodchips do not meet American Society for Testing and Materials standards for use as playground surfacing material, and as of 2011 are illegal to use as playground surfacing in the US, not being ADA-approved according to US department of Justice guidelines.
+
+Woodchips can also be used to infuse flavor and enhance the smoky taste to barbecued meats and vegetables. Several different species of wood can be used depending on the type of flavor wanted. For a mild, sweet fruity flavor, apple wood can be used while hickory gives a smoky, bacon-like flavor. Other different types of wood used are cherry, mesquite and pecan.
+
+Woodchips can be loaded into a 'denitrifying woodchip bioreactor ' which has been used for several decades as an emerging biotechnology to treat agricultural wastewater by removing nitrates . It is a subsurface system where denitrification by micro-organisms utilizing a carbon source (as electron donor) reduces the nitrate into a harmless nitrogen gas . Denitrifying woodchip bioreactor have a low construction and operational costs with a comparatively long lifespan going up to 15 years. The interest in such a technique has grown in recent years and has expanded into the mining industry.
+
+A 2013 experiment showed that after 70 days of startup, a woodchip pile loaded with liquid pig manure at 5 L/m /day removed an average of 90% of nitrate after one month. However, if the environmental conditions do not support complete denitrification, undesirable greenhouse gas such as nitrous oxide gas and methane could be produced.
+
+Woodchips have been traditionally used as solid fuel for space heating or in energy plants to generate electric power from renewable energy . The main source of forest chips in Europe and in most of the countries have been logging residues. It is expected that the shares of stumps and roundwood will increase in the future. As of 2013 in the EU, the estimates for biomass potential for energy, available under current 2018 conditions including sustainable use of the forest as well as providing wood to the traditional forest sectors, are: 277 million m , for above ground biomass and 585 million m for total biomass.
+
+The newer fuel systems for heating use either woodchips or wood pellets . The advantage of woodchips is cost, the advantage of wood pellets is the controlled fuel value. The use of woodchips in automated heating systems, is based on a robust technology.
+
+The size of the woodchips, moisture content, and the raw material from which the chips are made are particularly important when burning wood chips in small plants. Unfortunately, there are not many standards to decide the fractions of woodchip. However, as of March 2018, The American National Standards Institute approved AD17225-4 Wood Chip Heating Fuel Quality Standard.  The full title of the standard is: ANSI/ASABE AD17225-4:2014 FEB2018 Solid Biofuels—Fuel Specifications and classes—Part 4: Graded wood chips. One common chip category is the GF60 which is commonly used in smaller plants, including small industries, villas,  and apartment buildings. "GF60" is known as "Fine, dry, small chips". The requirements for GF60 are that the moisture is between 10 and 30% and the fractions of the woodchips are distributed as follows: 0–3.5mm: <8%, 3.5–30mm: <7%, 30–60 mm: 80–100%, 60–100 mm: <3%, 100–120 mm: <2%.
+
+The energy content in one cubic metre is normally higher than in one cubic metre wood logs, but can vary greatly depending on moisture. The moisture is decided by the handling of the raw material. If the trees are taken down in the winter and left to dry for the summer (with teas in the bark and covered so rain can't reach to them), and is then chipped in the fall, the woodchips' moisture content will be approximately 20–25%. The energy content, then, is approximately 3.5–4.5kWh/kg (~150–250 kg/cubic metre).
+
+Coal power plants have been converted to run on woodchips, which is fairly straightforward to do, since they both use an identical steam turbine heat engine , and the cost of woodchip fuel is comparable to coal .
+
+Solid biomass is an attractive fuel for addressing the concerns of the energy crisis and climate change , since the fuel is affordable, widely available, close to carbon neutral and thus climate-neutral in terms of carbon dioxide (CO 2 ), since in the ideal case only the carbon dioxide which was drawn in during the tree's growth and stored in the wood is released into the atmosphere again.
+
+Compared to the solid waste disposal problems of coal and nuclear fuels, woodchip fuel's waste disposal problems are less grave; in a study from 2001 fly ash from woodchip combustion had 28.6 mg cadmium/kg dry matter. Compared to fly ash from burning of straw, cadmium was bound more heavily, with only small amounts of cadmium leached. It was speciated as a form of cadmium oxide , cadmium silicate (CdSiO 3 ); authors noted that adding it to agricultural or forest soils in the long-term could cause a problem with accumulation of cadmium.
+
+Like coal, wood combustion is a known source of mercury emissions, particularly in northern climates during winter. The mercury is both gaseous as elemental mercury (especially when wood pellets are burned) or mercury oxide, and solid PM2.5 particulate matter when untreated wood is used.
+
+When wood burning is used for space heating, indoor emissions of 1,3-butadiene , benzene , formaldehyde and acetaldehyde , which are suspected or known carcinogenic compounds, are elevated. The cancer risk from these after exposure to wood smoke is estimated to be low in developed countries.
+
+Certain techniques for burning woodchips result in the production of biochar – effectively charcoal – which can be either utilised as charcoal, or returned to the soil, since wood ash can be used as a mineral-rich plant fertilizer . The latter method can result in an effectively carbon-negative system, as well as acting as a very effective soil conditioner, enhancing water and nutrient retention in poor soils.
+
+Unlike the smooth, uniform shape of manufactured wood pellets , woodchip sizes vary and are often mixed with twigs and sawdust . This mixture has a higher probability of jamming in small feed mechanisms. Thus, sooner or later, one or more jams is likely to occur. This reduces the reliability of the system, as well as increasing maintenance costs. Despite what some pellet stove manufacturers may say, researchers who are experienced with woodchips, say they are not compatible with the 2 inch (5 cm) auger used in pellet stoves.
+
+Woodchips are similar to wood pellets , in that the movement and handling is more amenable to automation than cord wood, particularly for smaller systems. Woodchips are less expensive to produce than wood pellets, which must be processed in specialized facilities. While avoiding the costs associated with refinement, the lower density and higher moisture content of woodchips reduces their calorific value , substantially increasing the feedstock needed to generate an equivalent amount of heat. Greater physical volume requirements also increase the expense and emissions impact of trucking, storing and/or shipping the wood.
+
+Woodchips are less expensive than cord wood , because the harvesting is faster and more highly automated. Woodchips are of greater supply, partly because all parts of a tree can be chipped, whereas small limbs and branches can require substantial labor to convert to cord wood. Cord wood generally needs to be "seasoned" or "dry" before it can be burned cleanly and efficiently. On the other hand, woodchip systems are typically designed to cleanly and efficiently burn "green chips" with very high moisture content of 43–47% (wet basis). (see gasification and woodgas )
+
+Compared to conventional timber harvesting, woodchip harvesting has a greater impact on the environment, since a larger proportion of biomass is removed. Increased use of woodchips can have negative effects on the stability and long-term growth of the forests in which they're removed from. For instance, chipping of trees from forests has been shown to increase the removal of plant nutrients and organic matter from an ecosystem, thereby reducing both the nutrients and humus content of the soil. One option to balance the negative effects of woodchip harvesting is to return the woodchip ash to the forest which would restore some of the lost nutrients back into the soil.
+
+If woodchips are harvested as a by-product of sustainable forestry practices, then this is considered a source of renewable energy .
+
+Theoretically, whole-tree chip harvesting does not have as high a solar energy efficiency compared to short rotation coppice ; however, it can be an energy-efficient and low-cost method of harvesting.
+
+Woodchips and bark chips can be used as bulking agents in industrial composting of municipal biodegradable waste, particularly biosolids .
+
+Woodchip harvesting can be used in concert with creating man-made firebreaks , which are used as barriers to the spread of wildfire . Undergrowth coppice is ideal for chipping, and larger trees may be left in place to shade the forest floor and reduce the rate of fuel accumulation.
+
+Woodchip costs usually depend on such factors as the distance from the point of delivery, the type of material (such as bark, sawmill residue or whole-tree chips), demand by other markets and how the wood fuel is transported. Chips delivered directly to the (powerplant) station by truck are less expensive than those delivered ... and shipped by railcar. The range of prices is typically between US$18 to US$30 per (wet)-ton delivered.
+
+In 2006, prices were US$15 and US$30 per wet-ton in the northeast.
+
+In the 20 years leading up to 2008, prices have fluctuated between US$60–70/oven-dry metric ton (odmt) in the southern states, and between US$60/odmt and US$160/odmt in the Northwest.
+
+Wood chips have been used as a source of single-dwelling heating in Canada since the early days of settling but the development of oil and natural gas has dramatically decreased its usage. Most of the wood chip usage is by installations such as schools, hospitals and prisons.  Prince Edward Island (PEI) has the most wood-chip plants due to high electricity rates and subsidies from the federal government. Nova Scotia has a 2.5 MW wood chip burning system that provides power to a textile factory as well as systems that provide power to a poultry processing plant, two hospitals and an agricultural college.
+
+The University of New Brunswick operates a wood chip burning furnace system to supply heat to the university, several industrial buildings, an apartment complex and a hospital. Usage of wood chips for heat is low in Quebec due to low hydroelectricity rates but a small town is using wood chips as an alternative to road salt for icy roads. EMC3 Technologies started producing wood chips coated with magnesium chloride in November 2017 for the town and has claimed it maintains traction in -30 degrees Celsius compared to regular road salt at -15 degrees Celsius. In Ontario, wood chip operations include a college in Brockville, a few secondary schools in Northern Ontario as well as a chip-fired boiler at the National Forestry Institute in Petawawa. In the late 1980s, the Ontario provincial government in conjunction with the federal government subsidized building three co-generation plants next to sawmills. The first one was constructed in 1987 in Chapleau followed by a plant built in Cochrane in 1989 and the largest one in Kirkland Lake which was built in 1991.
+
+In several well wooded European countries (e.g. Austria, Finland, Germany, Sweden) woodchips are becoming an alternative fuel for family homes and larger buildings due to the abundant availability of woodchips, which result in low fuel costs. The European Union is promoting woodchips for energy production in the EU Forest action plan 2007–2011. The total long term potential of woodchips in the EU is estimated to be 913 million m .
+
+Woodchips are used in Japan for the paper manufacturing industry. Large supplies of softwood chips are imported from countries such as the United States and Australia for this purpose.

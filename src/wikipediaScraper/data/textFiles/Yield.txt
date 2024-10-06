@@ -1,0 +1,69 @@
+In materials science and engineering , the yield point is the point on a stress–strain curve that indicates the limit of elastic behavior and the beginning of plastic behavior. Below the yield point, a material will deform elastically and will return to its original shape when the applied stress is removed. Once the yield point is passed, some fraction of the deformation will be permanent and non-reversible and is known as plastic deformation .
+
+The yield strength or yield stress is a material property and is the stress corresponding to the yield point at which the material begins to deform plastically. The yield strength is often used to determine the maximum allowable load in a mechanical component, since it represents the upper limit to forces that can be applied without producing permanent deformation. For most metals, such as aluminium and cold-worked steel , there is a gradual onset of non-linear behavior, and no precise yield point. In such a case, the offset yield point (or proof stress ) is taken as the stress at which 0.2% plastic deformation occurs. Yielding is a gradual failure mode which is normally not catastrophic , unlike ultimate failure .
+
+For ductile materials, the yield strength is typically distinct from the ultimate tensile strength , which is the load-bearing capacity for a given material. The ratio of yield strength to ultimate tensile strength is an important parameter for applications such steel for pipelines , and has been found to be proportional to the strain hardening exponent .
+
+In solid mechanics , the yield point can be specified in terms of the three-dimensional principal stresses ( σ 1 , σ 2 , σ 3 {\displaystyle \sigma _{1},\sigma _{2},\sigma _{3}} ) with a yield surface or a yield criterion . A variety of yield criteria have been developed for different materials.
+
+It is often difficult to precisely define yielding due to the wide variety of stress–strain curves exhibited by real materials. In addition, there are several possible ways to define yielding:
+
+Yielded structures have a lower stiffness, leading to increased deflections and decreased buckling strength. The structure will be permanently deformed when the load is removed, and may have residual stresses. Engineering metals display strain hardening, which implies that the yield stress is increased after unloading from a yield state.
+
+Yield strength testing involves taking a small sample with a fixed cross-section area and then pulling it with a controlled, gradually increasing force until the sample changes shape or breaks. This is called a tensile test. Longitudinal and/or transverse strain is recorded using mechanical or optical extensometers.
+
+Indentation hardness correlates roughly linearly with tensile strength for most steels, but measurements on one material cannot be used as a scale to measure strengths on another. Hardness testing can therefore be an economical substitute for tensile testing, as well as providing local variations in yield strength due to, e.g., welding or forming operations.  For critical situations, tension testing is often done to eliminate ambiguity. However, it is possible to obtain stress-strain curves from indentation-based procedures, provided certain conditions are met. These procedures are grouped under the term Indentation plastometry .
+
+There are several ways in which crystalline materials can be engineered to increase their yield strength. By altering dislocation density, impurity levels, grain size (in crystalline materials), the yield strength of the material can be fine-tuned. This occurs typically by introducing defects such as impurities dislocations in the material. To move this defect (plastically deforming or yielding the material), a larger stress must be applied. This thus causes a higher yield stress in the material. While many material properties depend only on the composition of the bulk material, yield strength is extremely sensitive to the materials processing as well.
+
+These mechanisms for crystalline materials include
+
+Where deforming the material will introduce dislocations , which increases their density in the material. This increases the yield strength of the material since now more stress must be applied to move these dislocations through a crystal lattice. Dislocations can also interact with each other, becoming entangled.
+
+The governing formula for this mechanism is:
+
+where σ y {\displaystyle \sigma _{y}} is the yield stress, G is the shear elastic modulus, b is the magnitude of the Burgers vector , and ρ {\displaystyle \rho } is the dislocation density.
+
+By alloying the material, impurity atoms in low concentrations will occupy a lattice position directly below a dislocation, such as directly below an extra half plane defect. This relieves a tensile strain directly below the dislocation by filling that empty lattice space with the impurity atom.
+
+The relationship of this mechanism goes as:
+
+where τ {\displaystyle \tau } is the shear stress , related to the yield stress, G {\displaystyle G} and b {\displaystyle b} are the same as in the above example, C s {\displaystyle C_{s}} is the concentration of solute and ϵ {\displaystyle \epsilon } is the strain induced in the lattice due to adding the impurity.
+
+Where the presence of a secondary phase will increase yield strength by blocking the motion of dislocations within the crystal. A line defect that, while moving through the matrix, will be forced against a small particle or precipitate of the material. Dislocations can move through this particle either by shearing the particle or by a process known as bowing or ringing, in which a new ring of dislocations is created around the particle.
+
+The shearing formula goes as:
+
+and the bowing/ringing formula:
+
+In these formulas, r particle {\displaystyle r_{\text{particle}}\,} is the particle radius, γ particle-matrix {\displaystyle \gamma _{\text{particle-matrix}}\,} is the surface tension between the matrix and the particle, l interparticle {\displaystyle l_{\text{interparticle}}\,} is the distance between the particles.
+
+Where a buildup of dislocations at a grain boundary causes a repulsive force between dislocations. As grain size decreases, the surface area to volume ratio of the grain increases, allowing more buildup of dislocations at the grain edge. Since it requires a lot of energy to move dislocations to another grain, these dislocations build up along the boundary, and increase the yield stress of the material. Also known as Hall-Petch strengthening, this type of strengthening is governed by the formula:
+
+where
+
+The theoretical yield strength of a perfect crystal is much higher than the observed stress at the initiation of plastic flow.
+
+That experimentally measured yield strength is significantly lower than the expected theoretical value can be explained by the presence of dislocations and defects in the materials. Indeed, whiskers with perfect single crystal structure and defect-free surfaces have been shown to demonstrate yield stress approaching the theoretical value. For example, nanowhiskers of copper were shown to undergo brittle fracture at 1 GPa, a value much higher than the strength of bulk copper and approaching the theoretical value.
+
+The theoretical yield strength can be estimated by considering the process of yield at the atomic level. In a perfect crystal, shearing results in the displacement of an entire plane of atoms by one interatomic separation distance, b, relative to the plane below. In order for the atoms to move, considerable force must be applied to overcome the lattice energy and move the atoms in the top plane over the lower atoms and into a new lattice site. The applied stress to overcome the resistance of a perfect lattice to shear is the theoretical yield strength, τ max .
+
+The stress displacement curve of a plane of atoms varies sinusoidally as stress peaks when an atom is forced over the atom below and then falls as the atom slides into the next lattice point.
+
+where b {\displaystyle b} is the interatomic separation distance. Since τ = G γ and dτ/dγ = G at small strains (i.e. Single atomic distance displacements), this equation becomes:
+
+For small displacement of γ=x/a, where a is the spacing of atoms on the slip plane, this can be rewritten as:
+
+Giving a value of τ max {\displaystyle \tau _{\max }} τ max equal to:
+
+The theoretical yield strength can be approximated as τ max = G / 30 {\displaystyle \tau _{\max }=G/30} .
+
+During monotonic tensile testing, some metals such as annealed steel exhibit a distinct upper yield point or a delay in work hardening. These tensile testing phenomena, wherein the strain increases but stress does not increase as expected, are two types of yield point elongation.
+
+Yield Point Elongation (YPE) significantly impacts the usability of steel. In the context of tensile testing and the engineering stress-strain curve, the Yield Point is the initial stress level, below the maximum stress, at which an increase in strain occurs without an increase in stress. This characteristic is typical of certain materials, indicating the presence of YPE. The mechanism for YPE has been related to carbon diffusion, and more specifically to Cottrell atmospheres .
+
+YPE can lead to issues such as coil breaks, edge breaks, fluting, stretcher strain, and reel kinks or creases, which can affect both aesthetics and flatness. Coil and edge breaks may occur during either initial or subsequent customer processing, while fluting and stretcher strain arise during forming. Reel kinks, transverse ridges on successive inner wraps of a coil, are caused by the coiling process.
+
+When these conditions are undesirable, it is essential for suppliers to be informed to provide appropriate materials. The presence of YPE is influenced by chemical composition and mill processing methods such as skin passing or temper rolling, which temporarily eliminate YPE and improve surface quality. However, YPE can return over time due to aging, which is holding at a temperature usually 200-400 °C.
+
+Despite its drawbacks, YPE offers advantages in certain applications, such as roll forming , and reduces springback . Generally, steel with YPE is highly formable.

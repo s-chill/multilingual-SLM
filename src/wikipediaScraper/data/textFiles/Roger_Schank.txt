@@ -1,0 +1,37 @@
+Roger Carl Schank (March 12, 1946 – January 29, 2023) was an American artificial intelligence theorist, cognitive psychologist , learning scientist , educational reformer, and entrepreneur. Beginning in the late 1960s, he pioneered conceptual dependency theory (within the context of natural language understanding ) and case-based reasoning , both of which challenged cognitivist views of memory and reasoning. He began his career teaching at Yale University and Stanford University . In 1989, Schank was granted $30 million in a ten-year commitment to his research and development by Andersen Consulting , through which he founded the Institute for the Learning Sciences (ILS) at Northwestern University in Chicago.
+
+Schank was born in Manhattan, New York, in 1946, and he attended Stuyvesant High School .
+
+For his undergraduate degree, Schank studied mathematics at Carnegie Mellon University in Pittsburgh PA , and later was awarded a PhD in linguistics at the University of Texas in Austin and went on to work in faculty positions at Stanford University and then at Yale University . In 1974, he became professor of computer science and psychology at Yale University. In 1981, Schank became Chairman of Computer Science at Yale and director of the Yale Artificial Intelligence Project.
+
+In 1989, Schank was granted $30 million in a ten-year commitment to his research and development by Andersen Consulting , allowing him to leave Yale and set up the Institute for the Learning Sciences (ILS) at Northwestern University in Chicago, bringing along 25 of his Yale colleagues. ILS attracted other corporate sponsors such as IBM and Ameritech , as well as government sponsors such as the U.S. Army , EPA and the National Guard , leading to a focus on the development of educational software, especially in employee training. ILS was later absorbed by the School of Education as a separate department.
+
+When Carnegie Mellon University's Silicon Valley campus was established in 2002, Schank came to serve as Chief Educational Officer at the institution. He was a Founding Fellow of the Association for the Advancement of Artificial Intelligence in 1990.
+
+While at Yale in 1979, Schank was among the first to "capitalize on the expected boom" in AI when he founded Cognitive Systems, a company that went public in 1986. Schank resigned as chairman and chief executive in 1988 for personal reasons, but stayed as a board member and advisor.
+
+In 1994, Schank founded Cognitive Arts Corporation (originally named Learning Sciences Corporation) to market the software developed at ILS, and led the company until it was sold in 2003.
+
+From 2005 to 2007, Schank was the chief learning officer of Trump University .
+
+In 2001 he founded Socratic Arts, a company that sells e-learning software to both businesses and schools.
+
+In 2008, Schank built a story-centered curriculum (SCC) at the Business Engineering School of La Salle International Graduate School of Ramon Llull University , Barcelona to teach MBA students to launch their own businesses or to go to work.
+
+In 2012, Schank founded XTOL (Experiential Training Online) which "designs learn-by-doing experiential short courses for use by universities, corporations and professional organizations, as well as Master's programs in partnership with degree-granting universities around the world".
+
+Schank believed that the educational system is fundamentally broken and that software will need to replace conventional teaching methods. To serve this purpose, he founded Engines for Education in 2001, a not-for-profit organization which designs and implements curricula for primary and secondary schools and hosts the Virtual International Science and Technology Academy (VISTA).
+
+In 1969 Schank introduced the conceptual dependency theory for natural language understanding . This model, partly based on the work of Sydney Lamb , was extensively used by Schank's students at Yale University , such as Robert Wilensky , Wendy Lehnert , and Janet Kolodner , in a series of models of natural language processing.
+
+Case-based reasoning (CBR) is based on Schank's model of dynamic memory and was the basis for the earliest CBR systems: Janet Kolodner's CYRUS and Michael Lebowitz's IPP.
+
+Other schools of CBR and closely allied fields emerged in the 1980s, investigating such topics as CBR in legal reasoning, memory-based reasoning (a way of reasoning from examples on massively parallel machines), and combinations of CBR with other reasoning methods.  In the 1990s, interest in CBR grew, as evidenced by the establishment of an International Conference on Case-Based Reasoning in 1995, as well as European, German, British, Italian, and other CBR workshops.
+
+CBR technology has produced a number of successful deployed systems, the earliest being Lockheed's CLAVIER, a system for laying out composite parts to be baked in an industrial convection oven. CBR has been used extensively in help desk applications such as the Compaq SMART system and has found a major application area in the health sciences.
+
+Schank was married twice. His first marriage, to Diane Levine, ended when they divorced in 1998; he then married Annie Payeur in or around 1999. He had two children.
+
+Schank had homes in Palm Beach, Florida and Quebec . In Florida, he was a neighbor of Jeffrey Epstein , and attended an artificial intelligence conference sponsored by him on his island in 2002, six years before Epstein was convicted of sex offenses in 2008. After the conviction, Schank showed public support for him.
+
+After a period of failing health, Schank died from heart failure under hospice care in Shelburne, Vermont , on January 29, 2023, at the age of 76.

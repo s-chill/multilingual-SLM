@@ -1,0 +1,13 @@
+The foot-pound force (symbol: ft⋅lbf , ft⋅lb f , or ft⋅lb ) is a unit of work or energy in the engineering and gravitational systems in United States customary and imperial units of measure. It is the energy transferred upon applying a force of one pound-force (lbf) through a linear displacement of one foot .  The corresponding SI unit is the joule , though in terms of energy, one joule is not equal to one foot-pound.
+
+The term foot-pound is also used as a unit of torque (see pound-foot (torque) ).  In the United States this is often used to specify, for example, the tightness of a fastener (such as screws and nuts ) or the output of an engine .  Although they are dimensionally equivalent, energy (a scalar ) and torque (a Euclidean vector ) are distinct physical quantities. Both energy and torque can be expressed as a product of a force vector with a displacement vector (hence pounds and feet); energy is the scalar product of the two, and torque is the vector product .
+
+Although calling the torque unit "pound-foot" has been academically suggested, both are still commonly called "foot-pound" in colloquial usage.  To avoid confusion, it is not uncommon for people to specify each as "foot-pound of energy" or "foot-pound of torque" respectively.
+
+In small arms ballistics and particularly in the United States , the foot-pound is often used to specify the muzzle energy of a bullet .
+
+1 foot pound-force is equivalent to:
+
+1 foot pound-force per second is equivalent to:
+
+Related conversions:

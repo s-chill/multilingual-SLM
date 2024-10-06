@@ -1,0 +1,7 @@
+The Sarrus linkage , invented in 1853 by Pierre Frédéric Sarrus , is a mechanical linkage to convert a limited circular motion to a linear motion or vice versa without reference guideways. It is a spatial six-bar linkage (6R) with two groups of three parallel adjacent joint-axes.
+
+Although Charles-Nicolas Peaucellier was widely recognized for being the first to invent such a straight-line mechanism , the Sarrus linkage had been invented earlier; however, it was largely unnoticed for a time.
+
+The Sarrus linkage consists of four links in two identical groups that are perpendicular to each other, with all links having equal lengths. In the examples shown, the linkage uses two horizontal plates (cyan) positioned parallel to each other, one above the other. Pairs of bars or plates (yellow) with hinges at the middle connect the horizontal plates. The upper plate moves vertically up and down, towards and away from the lower plate. Each hinge constrains the attached bars or plates to remain in the same plane as the hinge, and also to remain in the same axial translation.
+
+The Sarrus linkage is of a three-dimensional class sometimes known as a space crank , unlike the Peaucellier–Lipkin linkage which is a planar mechanism. One of its main advantages is that it can be used to lift the structure connecting the upper links, allowing an impressive range of movements. According to mobility analysis, the Degree of Freedom 2-sided Sarrus linkage is 0. However, due to overconstrain, the upper platform can move up and down.

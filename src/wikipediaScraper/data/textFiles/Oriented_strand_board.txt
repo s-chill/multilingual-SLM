@@ -1,0 +1,27 @@
+Oriented strand board ( OSB ) is a type of engineered wood similar to particle board , formed by adding adhesives and then compressing layers of wood strands (flakes) in specific orientations. It was invented by Armin Elmendorf in California in 1963. OSB may have a rough and variegated surface with the individual strips of around 2.5 cm × 15 cm (1.0 by 5.9 inches), lying unevenly across each other, and is produced in a variety of types and thicknesses.
+
+Oriented strand board is sometimes confused with chipboard , a synonym for particle board , whose "chips" are of a size that a lay person would likely describe as "particles".
+
+OSB is a material with favorable mechanical properties that make it particularly suitable for load-bearing applications in construction . It is now more popular than plywood , commanding 66% of the North American structural panel market. The most common uses are as sheathing in walls, flooring, and roof decking. For exterior wall applications, panels are available with a radiant-barrier layer laminated to one side; this eases installation and increases energy performance of the building envelope . OSB is also used in furniture production.
+
+Oriented strand board is manufactured in wide mats from cross-oriented layers of thin, rectangular wooden strips compressed and bonded together with wax and synthetic resin adhesives .
+
+The adhesive resins types used include: urea-formaldehyde (OSB type 1, nonstructural, nonwaterproof); isocyanate -based glue (or PMDI poly- methylene diphenyl diisocyanate based) in inner regions with melamine - urea-formaldehyde or phenol formaldehyde resin glues at surface (OSB type 2, structural, water resistant on face); phenol formaldehyde resin throughout (OSB types 3 and 4, structural, for use in damp and outside environments).
+
+The layers are created by shredding the wood into strips, which are sifted and then oriented on a belt or wire-mesh caul (a heated, ventilated support) and coated with the resin. The layers thus built up are transferred to a forming line and cross-oriented so that strips on the external layers are aligned to the panel's strength axis, while the internal layers are perpendicular. The number of layers placed is determined partly by the thickness of the panel, but is limited by the equipment installed at the manufacturing site. Individual layers can also vary in thickness to give different finished panel thicknesses; typically, a 15 cm (5.9 in) layer will produce a 15 mm (0.59 in) panel thickness . The mat is placed in a thermal press to compress the flakes and bond them by heat activation and curing of the resin that has been coated on the flakes. Individual panels are then cut from the mats into finished sizes. Most of the world's OSB is made in the United States and Canada in large production facilities.
+
+Materials other than wood have been used to produce products similar to OSB. Oriented structural straw board is an engineered board  made by splitting straw and formed by adding P-MDI adhesives and then hot compressing layers of straw in specific orientations. Strand board can also be made from bagasse .
+
+In 2005, Canadian production was 10,500,000 m (113,000,000 sq ft) ( 3 ⁄ 8 in or 9.53 mm basis) of which 8,780,000 m (94,500,000 sq ft) ( 3 ⁄ 8 inch) were exported, almost entirely to the United States. In 2014, Romania became the largest OSB exporting country in Europe, with 28% of the exports going to Russia and 16% to Ukraine .
+
+Adjustments to the manufacturing process can affect thickness, panel size, strength , and rigidity . OSB panels have no internal gaps or voids, and can be water-resistant, although they do require additional membranes to achieve impermeability to water and are not recommended for exterior use. The finished product has properties similar to plywood , but is uniform and cheaper. When tested to failure, OSB has a greater load-bearing capacity than milled wood panels. It has replaced plywood in many environments, especially the North American structural panel market.
+
+While OSB does not have a continuous grain like a natural wood, it does have greater strength on its long axis because more of the component grains are oriented in this direction. This can be seen by observing the alignment of the surface wood chips.
+
+All wood-based structural use panels can be cut and installed with the same types of equipment as for solid wood.
+
+The resins used to create OSB have raised questions regarding the potential for OSB to emit volatile organic compounds such as formaldehyde . Urea-formaldehyde is more toxic and should be avoided in home use. Phenol-formaldehyde products are considered to be relatively hazard free. Some newer types of OSB, so-called "new-generation" OSB panels, use isocyanate resins that do not contain formaldehyde and are considered nonvolatile when cured. Industry trade groups assert that formaldehyde emissions from North American OSB are "negligible or nonexistent".
+
+Some manufacturers treat the wood chips with various borate compounds that are toxic to termites , wood-boring beetles , molds , and fungi , but not mammals in applied doses.
+
+Five grades of OSB are defined in EN 300 in terms of their mechanical performance and relative resistance to moisture:

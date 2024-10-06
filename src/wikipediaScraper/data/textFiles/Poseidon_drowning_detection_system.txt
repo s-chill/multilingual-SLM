@@ -1,0 +1,6 @@
+Drowning detection systems are video monitoring or camera systems designed to improve safety by reducing drowning deaths and injuries in public and private pools , waterparks, thermal baths, , spa facilities, beaches, or other natural bodies of water[Smart_beach].
+
+Pool monitoring systems fall into two broad categories: Passive or Active. Passive systems provide lifeguards with views of swimmer activity and behaviour below the water surface, which aids the 10:20 scan for identifying potential incidents. They offer a way of compensating for surface glare and blind spots in the swimming pool, thereby making the lifeguard's job easier.
+Active systems are designed to automatically monitor the pool and alert lifeguards to potential incidents.
+
+Passive system underwater cameras let lifeguards inspect multiple underwater views simultaneously from a single location. Cameras can cover areas which may otherwise be obstructed. Below water cameras can be paired with above water cameras to provide face-to-body matching if there is an incident where a swimmer needs to be identified, in cases of sexual assault for example.

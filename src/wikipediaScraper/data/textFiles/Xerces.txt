@@ -1,0 +1,7 @@
+In computing , Xerces is Apache 's collection of software libraries for parsing, validating, serializing and manipulating XML . The library implements a number of standard APIs for XML parsing, including DOM , SAX and SAX2. The implementation is available in the Java , C++ and Perl programming languages.
+
+The name "Xerces" is believed to commemorate the extinct Xerces blue butterfly ( Glaucopsyche xerces ).
+
+There are several language versions of the Xerces parser:
+
+The features supported by Xerces depend on the language, the Java version having the most features.

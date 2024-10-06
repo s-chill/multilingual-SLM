@@ -1,0 +1,14 @@
+Cynthia Ann Brewer (born 1960) is an American cartographer, author, and professor of geography at Pennsylvania State University . Brewer's specialty relates to visibility and color theory in cartography . In 2023, she was awarded the International Cartographic Society's highest honor, the Carl Mannerfelt Gold Medal , for her distinguished contribution to the field.
+
+Her web, print, and colorblind -friendly sets of colors, known as the Brewer palettes, have been used by numerous projects. She is the creator of the online color palette tool ColorBrewer .
+
+Brewer has worked as a map and atlas design consultant for the U.S. Census Bureau , National Cancer Institute , National Center for Health Statistics , and National Park Service . She teaches courses in introductory cartography and map design. She also works on topographic map design, multi-scale mapping, generalization, and atlas mapping. She has been influential as a theorist for map representations and GIS professionals.
+
+She graduated from McMaster University (Ontario, Canada) in 1979 and the University of Guelph (Ontario, Canada) in 1983. She did her master's degree in geography with emphasis in cartography at Michigan State University , 1983 to 1986, presenting a thesis titled The Development of Process-Printed Munsell Charts for Selecting Map Colors . After a year at University of California at Santa Barbara , she obtained her doctorate from Michigan State University in 1991. Her dissertation was Prediction of Surround-Induced Changes in Map Color Appearance .
+
+She was visiting lecturer at the University of California at Santa Barbara , Department of Geography during the year 1986/87.
+On completing her doctorate she was assistant professor, for three years (1991 to 1994) at San Diego State University . She joined the Pennsylvania State University , Department of Geography in 1994 and has been professor since 2007 and was head of the department from 2014 to 2021.
+
+She has been a faculty member of the Center of Excellence for Geospatial Information Science (CEGIS), U.S. Geological Survey, Department of Interior, since 2008.
+
+ColorBrewer is an online tool developed in 2002 for selecting thematic map color schemes based on Brewer's palettes. The ColorBrewer palette found uses outside maps, such as climatologist Ed Hawkins ' choice in 2018 of ColorBrewer reds and blues for warming stripes graphics portraying global warming .

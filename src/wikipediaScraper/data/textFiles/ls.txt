@@ -1,0 +1,26 @@
+In computing , ls is a command to list computer files and directories in Unix and Unix-like operating systems. It is specified by POSIX and the Single UNIX Specification .
+
+It is available in the EFI shell , as a separate package for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities, or as part of ASCII 's MSX-DOS2 Tools for MSX-DOS version 2.
+
+The numerical computing environments MATLAB and GNU Octave include an ls function with similar functionality.
+
+In other environments, such as DOS , OS/2 , and Microsoft Windows , similar functionality is provided by the dir command.
+
+An ls utility appeared in the first version of AT&T UNIX , the name inherited from a similar command in Multics also named 'ls', short for the word "list". ls is part of the X/Open Portability Guide since issue 2 of 1987. It was inherited into the first version of POSIX.1 and the Single Unix Specification .
+
+Unix and Unix-like operating systems maintain the idea of a working directory . When invoked without arguments , ls lists the files in the working directory. If a directory is specified as an argument, the files in that directory are listed; if a file is specified, that file is listed. Multiple directories and files may be specified.
+
+In many Unix-like systems, names starting with a dot ( . ) are hidden . Examples are . , which refers to the working directory, and .. , which refers to its parent directory.  Hidden names are not shown by default. With -a , all names, including all hidden names, are shown. Using -A shows all names, including hidden names, except for . and .. .  File names specified explicitly (for example ls .secret ) are always listed.
+
+Without options, ls displays names only.
+The different implementations have different options, but common options include:
+
+Additional options controlling how items are displayed include:
+
+It may be possible to highlight different types of items with different colors. This is an area where implementations differ:
+
+When the option to use color to indicate item types is selected, the output might look like:
+
+The following example demonstrates the output of the command:
+
+Each line shows the d (directory) or - (file) indicator, Unix file permission notation , number of hard links (1 or 3), the file's owner, the file's group, the file size, the modification date/time, and the file name. In the working directory, the owner fjones has a directory named drafts , a regular file named edition-32 , and an executable named edit.sh which is "old", i.e. modified more than 6 months ago as indicated by the display of the year.

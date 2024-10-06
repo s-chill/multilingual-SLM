@@ -1,0 +1,111 @@
+In aerodynamics , Betz's law indicates the maximum power that can be extracted from the wind, independent of the design of a wind turbine in open flow. It was published in 1919 by the German physicist Albert Betz . The law is derived from the principles of conservation of mass and momentum of the air stream flowing through an idealized " actuator disk" that extracts energy from the wind stream. According to Betz's law, no wind turbine of any mechanism can capture more than 16/27 (59.3%) of the kinetic energy in wind. The factor 16/27 (0.593) is known as Betz's coefficient . Practical utility-scale wind turbines achieve at peak 75–80% of the Betz limit.
+
+The Betz limit is based on an open-disk actuator . If a diffuser is used to collect additional wind flow and direct it through the turbine, more energy can be extracted, but the limit still applies to the cross-section of the entire structure.
+
+Betz's law applies to all Newtonian fluids , including wind. If all of the energy coming from wind movement through a turbine were extracted as useful energy, the wind speed afterward would drop to zero. If the wind stopped moving at the exit of the turbine, then no more fresh wind could get in; it would be blocked. In order to keep the wind moving through the turbine, there has to be some wind movement, however small, on the other side with some wind speed greater than zero. Betz's law shows that as air flows through a certain area, and as wind speed slows from losing energy to extraction from a turbine, the airflow must distribute to a wider area. As a result, geometry limits the maximum efficiency of any turbine.
+
+British scientist Frederick W. Lanchester derived the same maximum in 1915. The leader of the Russian aerodynamic school, Nikolay Zhukowsky , also published the same result for an ideal wind turbine in 1920, the same year as Betz. It is thus an example of Stigler's law , which posits that no scientific discovery is named after its actual discoverer.
+
+The Betz Limit is the maximum possible energy that can be extracted by an infinitely thin rotor from a fluid flowing at a certain speed.
+
+In order to calculate the maximum theoretical efficiency of a thin rotor (of, for example, a wind turbine ), one imagines it to be replaced by a disc that removes energy from the fluid passing through it. At a certain distance behind this disc, the fluid that has passed through the disc has a reduced, but nonzero, velocity.
+
+Applying conservation of mass to the control volume, the mass flow rate (the mass of fluid flowing per unit time) is
+
+m ˙ = ρ A 1 v 1 = ρ S v = ρ A 2 v 2 , {\displaystyle {\dot {m}}=\rho A_{1}v_{1}=\rho Sv=\rho A_{2}v_{2},}
+
+where v 1 is the speed in the front of the rotor, v 2 is the speed downstream of the rotor, v is the speed at the fluid power device, ρ is the fluid density, S {\displaystyle S} is the area of the turbine, and A 1 {\displaystyle A_{1}} and A 2 {\displaystyle A_{2}} are the areas of the fluid before and after the turbine (the inlet and outlet of the control volume).
+
+The density times the area and speed must be equal in each of the three regions: before the turbine, while going through the turbine, and past the turbine.
+
+The force exerted on the wind by the rotor is the mass of air multiplied by its acceleration: F = m a = m d v d t = m ˙ Δ v = ρ S v ( v 1 − v 2 ) . {\displaystyle {\begin{aligned}F&=ma\\&=m{\frac {dv}{dt}}\\&={\dot {m}}\,\Delta v\\&=\rho Sv(v_{1}-v_{2}).\end{aligned}}}
+
+The incremental work done by the force may be written
+
+d E = F d x , {\displaystyle dE=F\,dx,}
+
+and the power (rate of work done) of the wind is
+
+P = d E d t = F d x d t = F v . {\displaystyle P={\frac {dE}{dt}}=F{\frac {dx}{dt}}=Fv.}
+
+Substituting the force F computed above into the power equation yields the power extracted from the wind,
+
+P = ρ S v 2 ( v 1 − v 2 ) . {\displaystyle P=\rho Sv^{2}(v_{1}-v_{2}).}
+
+However, power can be computed another way, by using the kinetic energy. Applying the conservation of energy equation to the control volume yields
+
+P = Δ E Δ t = 1 2 m ˙ ( v 1 2 − v 2 2 ) . {\displaystyle P={\frac {\Delta E}{\Delta t}}={\tfrac {1}{2}}{\dot {m}}(v_{1}^{2}-v_{2}^{2}).}
+
+Substituting the mass flow rate from the continuity equation yields
+
+P = 1 2 ρ S v ( v 1 2 − v 2 2 ) . {\displaystyle P={\tfrac {1}{2}}\rho Sv(v_{1}^{2}-v_{2}^{2}).}
+
+Both of these expressions for power are valid; one was derived by examining the incremental work, and the other by the conservation of energy. Equating these two expressions yields
+
+P = 1 2 ρ S v ( v 1 2 − v 2 2 ) = ρ S v 2 ( v 1 − v 2 ) . {\displaystyle P={\tfrac {1}{2}}\rho Sv(v_{1}^{2}-v_{2}^{2})=\rho Sv^{2}(v_{1}-v_{2}).}
+
+The density can't be zero for any v and S, so
+
+1 2 ( v 1 2 − v 2 2 ) = 1 2 ( v 1 − v 2 ) ( v 1 + v 2 ) = v ( v 1 − v 2 ) , {\displaystyle {\tfrac {1}{2}}(v_{1}^{2}-v_{2}^{2})={\tfrac {1}{2}}(v_{1}-v_{2})(v_{1}+v_{2})=v(v_{1}-v_{2}),}
+
+or
+
+v = 1 2 ( v 1 + v 2 ) . {\displaystyle v={\tfrac {1}{2}}(v_{1}+v_{2}).}
+
+The constant wind velocity across the rotor may be taken as the average of the upstream and downstream velocities. This is arguably the most counter-intuitive stage of the derivation of Betz's law. It is a direct consequence of the "axial flow" assumption, which disallows any radial mass flow in the actuator disk region. With no mass escape and a constant diameter in the actuator region, the air speed cannot change in the interaction region. Thus no energy can be extracted other than at the front and back of the interaction region, fixing the airspeed of the actuator disk to be the average. (Removing that restriction may allow higher performance than Betz law allows, but other radial effects must also be considered. This constant velocity effect is distinct from the radial kinetic energy loss that is also ignored. )
+
+Returning to the previous expression for power based on kinetic energy:
+
+P = 1 2 m ˙ ( v 1 2 − v 2 2 ) = 1 2 ρ S v ( v 1 2 − v 2 2 ) = 1 4 ρ S ( v 1 + v 2 ) ( v 1 2 − v 2 2 ) = 1 4 ρ S v 1 3 ( 1 + ( v 2 v 1 ) − ( v 2 v 1 ) 2 − ( v 2 v 1 ) 3 ) . {\displaystyle {\begin{aligned}P&={\tfrac {1}{2}}{\dot {m}}(v_{1}^{2}-v_{2}^{2})\\&={\tfrac {1}{2}}\rho Sv(v_{1}^{2}-v_{2}^{2})\\&={\tfrac {1}{4}}\rho S(v_{1}+v_{2})(v_{1}^{2}-v_{2}^{2})\\&={\tfrac {1}{4}}\rho Sv_{1}^{3}\left(1+\left({\frac {v_{2}}{v_{1}}}\right)-\left({\frac {v_{2}}{v_{1}}}\right)^{2}-\left({\frac {v_{2}}{v_{1}}}\right)^{3}\right).\end{aligned}}}
+
+By differentiating P {\displaystyle P} with respect to v 2 v 1 {\displaystyle {\tfrac {v_{2}}{v_{1}}}} for a given fluid speed v 1 and a given area S , one finds the maximum or minimum value for P {\displaystyle P} . The result is that P {\displaystyle P} reaches maximum value when v 2 v 1 = 1 3 {\displaystyle {\tfrac {v_{2}}{v_{1}}}={\tfrac {1}{3}}} .
+
+Substituting this value results in
+
+P max = 16 27 ⋅ 1 2 ρ S v 1 3 . {\displaystyle P_{\text{max}}={\tfrac {16}{27}}\cdot {\tfrac {1}{2}}\rho Sv_{1}^{3}.}
+
+The power obtainable from a cylinder of fluid with cross-sectional area S and velocity v 1 is
+
+P = C P ⋅ 1 2 ρ S v 1 3 . {\displaystyle P=C_{\text{P}}\cdot {\tfrac {1}{2}}\rho Sv_{1}^{3}.}
+
+The reference power for the Betz efficiency calculation is the power in a moving fluid in a cylinder with cross-sectional area S and velocity v 1 :
+
+P wind = 1 2 ρ S v 1 3 . {\displaystyle P_{\text{wind}}={\tfrac {1}{2}}\rho Sv_{1}^{3}.}
+
+The power coefficient C P (= P / P wind ) is the dimensionless ratio of the extractable power P to the kinetic power P wind available in the undistributed stream. It has a maximum value C P max = 16/27 = 0.593 (or 59.3%; however, coefficients of performance are usually expressed as a decimal, not a percentage). The resulting expression is:
+
+C P ( v 2 v 1 ) = 1 2 ( 1 + ( v 2 v 1 ) − ( v 2 v 1 ) 2 − ( v 2 v 1 ) 3 ) {\displaystyle C_{P}\left({\frac {v_{2}}{v_{1}}}\right)={\tfrac {1}{2}}\left(1+\left({\frac {v_{2}}{v_{1}}}\right)-\left({\frac {v_{2}}{v_{1}}}\right)^{2}-\left({\frac {v_{2}}{v_{1}}}\right)^{3}\right)}
+
+Modern large wind turbines achieve peak values for C P in the range of 0.45 to 0.50, about 75–85% of the theoretically possible maximum. In high wind speed, where the turbine is operating at its rated power, the turbine rotates (pitches) its blades to lower C P to protect itself from damage. The power in the wind increases by a factor of 8 from 12.5 to 25 m/s, so C P must fall accordingly, getting as low as 0.06 for winds of 25 m/s.
+
+The speed ratio v 2 v 1 = 1 3 {\displaystyle {\tfrac {v_{2}}{v_{1}}}={\tfrac {1}{3}}} between outgoing and incoming wind implies that the outgoing air has only ( 1 3 ) 2 = 1 9 {\displaystyle ({\tfrac {1}{3}})^{2}={\tfrac {1}{9}}} the kinetic energy of the incoming air, and that 8 9 {\displaystyle {\tfrac {8}{9}}} of the energy of the incoming air was extracted. This is a correct calculation, but it only considers the incoming air which eventually travels through the rotor.
+
+The last step in calculating the Betz efficiency C p is to divide the calculated power extracted from the flow by a reference power. As its reference power, the Betz analysis uses the power of air upstream moving at V 1 through the cross-sectional area S of the rotor. Since A 1 = 2 3 S {\displaystyle A_{1}={\tfrac {2}{3}}S} at the Betz limit, the rotor extracts 8 9 {\displaystyle {\tfrac {8}{9}}} of 2 3 {\displaystyle {\tfrac {2}{3}}} , or 16 27 , {\displaystyle {\tfrac {16}{27}},} of the incoming kinetic energy.
+
+Because the cross-sectional area of wind flowing through the rotor changes, there must be some flow of air in the directions perpendicular to the axis of the rotor. Any kinetic energy associated with this radial flow has no effect on the calculation because the calculation considers only the initial and final states of the air in the system.
+
+Although it is often touted (e.g. ) as the definitive upper bound on energy extraction by any possible wind turbine it is not. Despite the misleading title of his article, Betz (nor Lanchester) never made such an unconditional claim. Notably, a wind turbine operating at the Betz maximum efficiency has a non-zero wind velocity wake. Any actuator disk placed downstream of the first will extract added power and so the combined dual actuator complex exceeds Betz limit. The second actuator disk could be, but need not be, in the far field wind zone (parallel streamline) for this consideration to hold.
+
+The reason for this surprising exception to a law based solely on energy and flux conservation laws lurks in the seemingly modest assumption of transverse uniformity of the axial wind profile within the stream lines.  For example, the aforementioned dual actuator wind turbine has, downstream, a transverse wind profile that has two distinct velocities and thus is not bound by the limits of the single actuator disk.
+
+Mathematically, the derivation for an single actuator disk implicitly embeds the assumption that the wind does not change velocity as it transits the "infinitely thin" actuator ; in contrast, in the dual actuator hybrid, the wind does change velocity as it transits, invalidating the derivation's key step requiring constant velocity. A single infinitely thin actuator cannot change the velocity because it would otherwise not conserve flux, but in the hybrid pair, flux can be shed (outside the crossection) between the actuators allowing a different final outlet velocity than the inlet velocity.
+
+Physical multi-coaxial-rotor wind turbines have been analyzed. Although these do not exceeded Betz limit in practice, this may be attributable to the fact that rotors not only have losses but must also obey angular momentum and the Blade element momentum theory which limits their efficiency below Betz limit.
+
+Modern research has suggested that a more relaxed higher bound of 2 3 {\displaystyle {\tfrac {2}{3}}} can be achieved when the "unneeded assumptions" in the Betz's law derivation are removed.
+
+Most real wind turbines are aerodynamically "thin" making them approximate the assumptions of Betz law.  To the extent that a typical wind turbine approximates the assumptions in Betz law, then Betz limit places an approximate upper bound on the annual energy that can be extracted at a site. Even if a hypothetical wind blew consistently for a full year, any wind turbine well approximated by the actuator disk model can extract no more than the Betz limit of the energy contained in that year's wind could be extracted.
+
+Essentially increasing system economic efficiency results from increased production per unit, measured per square meter of vane exposure. An increase in system efficiency is required to bring down the cost of electrical power production. Efficiency increases may be the result of engineering of the wind capture devices, such as the configuration and dynamics of wind turbines, that may increase the power generation from these systems within the Betz limit. System efficiency increases in power application, transmission or storage may also contribute to a lower cost of power per unit.
+
+The assumptions of the Betz derivation impose some physical restrictions on the nature of wind turbines it applies to (identical inlet/outlet velocity for example).  But beyond those assumptions, the Betz limit has no dependence on the internal mechanics of the wind extraction system, therefore S may take any form provided that the flow travels from the entrance to the control volume to the exit, and the control volume has uniform entry and exit velocities. Any extraneous effects can only decrease the performance of the system (usually a turbine) since this analysis was idealized to disregard friction. Any non-ideal effects would detract from the energy available in the incoming fluid, lowering the overall efficiency.
+
+Some manufacturers and inventors have made claims of exceeding the limit by using nozzles and other wind diversion devices, usually by misrepresenting the Betz limit and calculating only the rotor area and not the total input of air contributing to the wind energy extracted from the system.
+
+The Betz limit has no relevance when calculating turbine efficiency in a mobile application such as a wind-powered vehicle , as here the efficiency could theoretically approach 100% minus blade losses if the fluid flow through the turbine disc (or equivalent) were only retarded imperceptibly. As this would require an infinitely large structure, practical devices rarely achieve 90% or over. The amount of power extracted from the fluid flow at high turbine efficiencies is less than the Betz limit, which is not the same type of efficiency.
+
+In 1934 H. Glauert derived the expression for turbine efficiency, when the angular component of velocity is taken into account, by applying an energy balance across the rotor plane. Due to the Glauert model, efficiency is below the Betz limit, and asymptotically approaches this limit when the tip speed ratio goes to infinity.
+
+In 2001, Gorban , Gorlov and Silantyev introduced an exactly solvable model (GGS), that considers non-uniform pressure distribution and curvilinear flow across the turbine plane (issues not included in the Betz approach). They utilized and modified the Kirchhoff model, which describes the turbulent wake behind the actuator as the "degenerated" flow and uses the Euler equation outside the degenerate area. The GGS model predicts that peak efficiency is achieved when the flow through the turbine is approximately 61% of the total flow which is very similar to the Betz result of 2 ⁄ 3 for a flow resulting in peak efficiency, but the GGS predicted that the peak efficiency itself is much smaller: 30.1%.
+
+In 2008, viscous computations based on computational fluid dynamics (CFD) were applied to wind turbine modeling and demonstrated satisfactory agreement with experiment. Computed optimal efficiency is, typically, between the Betz limit and the GGS solution.

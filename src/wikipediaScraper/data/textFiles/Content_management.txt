@@ -1,0 +1,28 @@
+Content management ( CM ) are a set of processes and technologies that support the collection, managing, and publishing of information in any form or medium. When stored and accessed via computers, this information may be more specifically referred to as digital content , or simply as content .
+
+Content management practices and goals vary by mission and by organizational governance structure.
+News organizations, e-commerce websites, and educational institutions all use content management, but in different ways. This leads to differences in terminology and in the names and number of steps in the process.
+
+For example, some digital content is created by one or more authors. Over time that content may be edited. One or more individuals may provide some editorial oversight, approving the content for publication.
+
+Publishing may take many forms: it may be the act of "pushing" content out to others, or simply granting digital access rights to certain content to one or more individuals. Later that content may be superseded by another version of the content and thus retired or removed from use (as when this wiki page is modified).
+
+Content management is an inherently collaborative process. It often consists of the following basic roles and responsibilities:
+
+A critical aspect of content management is the ability to manage versions of content as it evolves ( see also version control ). Authors and editors often need to restore older versions of edited products due to a process failure or an undesirable series of edits. Time-sensitive content may also require updates as the subject matter evolves over time.
+
+Another equally important aspect of content management involves the creation, maintenance, and application of review standards. Each member of the content creation and review process has a unique role and set of responsibilities in the development or publication of the content. Each review team member requires clear and concise review standards. These must be maintained on an ongoing basis to ensure the long-term consistency and health of the knowledge base .
+
+A content management system is a set of automated processes that may support the following features:
+
+Increasingly, the repository is an inherent part of the system, and incorporates enterprise search and retrieval. Content management systems take the following forms:
+
+Content management expert Marc Feldman defines three primary content management governance structures: localized, centralized, and federated—each having its unique strengths and weaknesses.
+
+By putting control in the hands of those closest to the content, the context experts, localized governance models empower and unleash creativity.  These benefits come, however, at the cost of a partial-to-total loss of managerial control and oversight.
+
+When the levers of control are strongly centralized, content management systems are capable of delivering an exceptionally clear and unified brand message.  Moreover, centralized content management governance structures allow for a large number of cost-savings opportunities in large enterprises, realized, for example, through (1) the avoidance of duplicated efforts in creating, editing, formatting, repurposing and archiving content; (2) process management and the streamlining of all content related labor; and/or (3) an orderly deployment or updating of the content management system.
+
+Federated governance models potentially realize the benefits of both localized and centralized control while avoiding the weaknesses of both. While content management software systems are inherently structured to enable federated governance models, realizing these benefits can be difficult because it requires, for example, negotiating the boundaries of control with local managers and content creators.  In the case of larger enterprises, in particular, the failure to fully implement or realize a federated governance structure equates to a failure to realize the full return on investment and cost savings that content management systems enable.
+
+Content management implementations must be able to manage content distributions and digital rights in content life cycle. Content management systems are usually involved with digital rights management in order to control user access and digital rights. In this step, the read-only structures of digital rights management systems force some limitations on content management, as they do not allow authors to change protected content in their life cycle. Creating new content using managed (protected) content is also an issue that gets protected contents out of management controlling systems. A few content management implementations cover all these issues.

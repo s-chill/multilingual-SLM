@@ -1,0 +1,39 @@
+In cryptography , a message authentication code based on universal hashing , or UMAC , is a type of message authentication code (MAC) calculated choosing a hash function from a class of hash functions according to some secret (random) process and applying it to the message. The resulting digest or fingerprint is then encrypted to hide the identity of the hash function used.  As with any MAC, it may be used to simultaneously verify both the data integrity and the authenticity of a message . In contrast to traditional MACs, which are serializable , UMAC can be executed in parallel . Thus as machines continue to offer more parallel processing capabilities, the speed of implementing UMAC will increase.
+
+A specific type of UMAC, also commonly referred to just UMAC , is specified in RFC 4418, it has provable cryptographic strength and is usually a lot less computationally intensive than other MACs. UMAC's design is optimized for 32-bit architectures with SIMD support, with a performance of 1 CPU cycle per byte (cpb) with SIMD and 2 cpb without SIMD. A closely related variant of UMAC that is optimized for 64-bit architectures is given by VMAC , which has been submitted to the IETF as a draft ( draft-krovetz-vmac-01 ) but never gathered enough attention for becoming a standardized RFC.
+
+Let's say the hash function is chosen from a class of hash functions H, which maps messages into D, the set of possible message digests. This class is called universal if, for any distinct pair of messages, there are at most |H|/|D| functions that map them to the same member of D.
+
+This means that if an attacker wants to replace one message with another and, from his point of view, the hash function was chosen completely randomly, the probability that the UMAC will not detect his modification is at most 1/|D|.
+
+But this definition is not strong enough — if the possible messages are 0 and 1, D={0,1} and H consists of the identity operation and not , H is universal. But even if the digest is encrypted by modular addition, the attacker can change the message and the digest at the same time and the receiver wouldn't know the difference.
+
+A class of hash functions H that is good to use will make it difficult for an attacker to guess the correct digest d of a fake message f after intercepting one message a with digest c . In other words,
+
+needs to be very small, preferably 1/| D |.
+
+It is easy to construct a class of hash functions when D is field . For example, if | D | is prime , all the operations are taken modulo | D |. The message a is then encoded as an n -dimensional vector over D ( a 1 , a 2 , ..., a n ) . H then has | D | members, each corresponding to an ( n + 1) -dimensional vector over D ( h 0 , h 1 , ..., h n ) . If we let
+
+we can use the rules of probabilities and combinatorics to prove that
+
+If we properly encrypt all the digests (e.g. with a one-time pad ), an attacker cannot learn anything from them and the same hash function can be used for all communication between the two parties. This may not be true for ECB encryption because it may be quite likely that two messages produce the same hash value. Then some kind of initialization vector should be used, which is often called the nonce . It has become common practice to set h 0 = f (nonce), where f is also secret.
+
+Notice that having massive amounts of computer power does not help the attacker at all. If the recipient limits the amount of forgeries it accepts (by sleeping whenever it detects one), | D | can be 2 or smaller.
+
+The following C function generates a 24 bit UMAC. It assumes that secret is a multiple of 24 bits, msg is not longer than secret and result already contains the 24 secret bits e.g. f(nonce). nonce does not need to be contained in msg .
+
+Functions in the above unnamed strongly universal hash-function family uses n multiplies to compute a hash value.
+
+The NH family halves the number of multiplications, which roughly translates to a two-fold speed-up in practice. For speed, UMAC uses the NH hash-function family. NH is specifically designed to use SIMD instructions, and hence UMAC is the first MAC function optimized for SIMD.
+
+The following hash family is 2 − w {\displaystyle 2^{-w}} -universal:
+
+where
+
+Practically, NH is done in unsigned integers. All multiplications are mod 2^ w , all additions mod  2^ w /2, and all inputs as are a vector of half-words ( w / 2 = 32 {\displaystyle w/2=32} -bit integers). The algorithm will then use ⌈ k / 2 ⌉ {\displaystyle \lceil k/2\rceil } multiplications, where k {\displaystyle k} was the number of half-words in the vector. Thus, the algorithm runs at a "rate" of one multiplication per word of input.
+
+RFC 4418 does a lot to wrap NH to make it a good UMAC. The overall UHASH ("Universal Hash Function") routine produces a variable length of tags, which corresponds to the number of iterations (and the total lengths of keys) needed in all three layers of its hashing. Several calls to an AES-based key derivation function is used to provide keys for all three keyed hashes.
+
+In RFC 4418, NH is rearranged to take a form of:
+
+This definition is designed to encourage programmers to use SIMD instructions on the accumulation, since only data with four indices away are likely to not be put in the same SIMD register, and hence faster to multiply in bulk. On a hypothetical machine, it could simply translate to:

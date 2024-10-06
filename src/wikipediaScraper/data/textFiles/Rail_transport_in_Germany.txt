@@ -1,0 +1,45 @@
+As of 2021 , Germany had a railway network of 33,399 kilometres (20,753 mi), of which 20,540 kilometres (12,760 mi) were electrified and 18,556 kilometres (11,530 mi) were double track. Germany is a member of the International Union of Railways (UIC). The UIC Country Code for Germany is 80.
+
+Germany was ranked fourth among national European rail systems in the 2017 European Railway Performance Index assessing intensity of use, quality of service and safety. Germany had a very good rating for intensity of use, by both passengers and freight, and good ratings for quality of service and safety. Germany also captured relatively high value in return for public investment with cost to performance ratios that outperform the average ratio for all European countries.
+
+Germany's rail freight of 117 billion tons/kilometer meant it carried 17.6% of all inland German cargo in 2015.
+
+In 2018, railways in Germany transported the following amount of passengers and freight.
+
+In 2014 (local passenger) and 2015 (other), there were the following amount of railway cars in Germany.
+
+Deutsche Bahn (state-owned private company) is the main provider of railway service. In recent years a number of competitors have started business. They mostly offer state funded regional services, but some companies offer long-distance services as well. In 2016, Deutsche Bahn had a share of 67% in the regional railway market and 68.6% in the inland freight market. As of October 2016, there were 452 railway operators registered in Germany, among them 124 regional passenger operators, 20 long-distance operators, and 163 freight operators.
+
+In 2018, public sector funding accounted for 25.6% of the cost of short-distance passenger transport including all rail and bus services. The long-distance market generally does not require government funding.
+
+In June, July and August 2022, there was a special ticket called the 9-Euro-Ticket , which was a ticket with which passengers could travel for 9 Euros per month on local and regional transport throughout Germany. The initiative aimed to reduce energy consumption during the global energy crisis in 2021–2022 and alleviate the costs of living for people. Some criticized the enterprise, saying it led to overcrowding of trains at some points.
+
+InterRegio services, introduced in 1988 to replace the former Schnellzug and InterCity , were abolished in 2003. UrlaubsExpress , national night trains to the Alps and the Baltic Sea during vacation times, were abolished in 2007.
+
+Deutsche Bahn is gradually increasing the percentage of InterCity-Express services and downgrading the remaining InterCity services to the role formerly played by InterRegio.
+
+Regional and local rail traffic is organised and funded (as the fares usually do not cover the running costs) by the federal states . The usual procedure under EU legislation is to award the contract to the lowest bid by means of a tender procedure. The respective states are free to announce short- or long-term contracts as well as to stipulate further conditions such as on rolling stock. In recent years, many bids have been won by private rail companies like NordWestBahn or Arriva , although some states have awarded long-term contracts to local DB Regio subsidiaries. The train types for regional and local traffic are as follows.
+
+The earliest form of railways, wagonways , were developed in Germany in the 16th century. A wagonway operation was illustrated in Germany in 1556 by Georgius Agricola (image right) in his work De re metallica . This line used "Hund" carts with unflanged wheels running on wooden planks and a vertical pin on the cart fitting into the gap between the planks to keep it going the right way. The miners called the wagons Hunde ("dogs") from the noise they made on the tracks. Such wagonways soon became very popular in Europe.
+
+Modern German rail history officially began with the opening of the steam-hauled Bavarian Ludwig Railway between Nuremberg and Fürth on 7 December 1835. The first long distance railway was the Leipzig-Dresden railway , completed on 7 April 1839. The following years saw a rapid growth: By the year 1845, there were already more than 2,000 kilometres (1,200 mi) of railroads in Germany, and ten years later that number was above 8,000.
+
+German unification in 1871 stimulated consolidation, nationalization into state-owned companies, and further rapid growth. Unlike the situation in France, the goal was support of industrialization, and so heavy lines crisscrossed the Ruhr and other industrial districts and provided good connections to the major ports of Hamburg and Bremen . By 1880, Germany had 9,400 locomotives pulling 43,000 passengers and 30,000 tons of freight, and forged ahead of France. 1915 Leipzig Hauptbahnhof had become one of the largest stations worldwide.
+
+Under the Weimar Republic , the Deutsche Reichseisenbahnen (later Deutsche Reichsbahn ) was created on 1 April 1920.
+
+During the Second World War , austere versions of the standard locomotives were produced to speed up construction times and minimise the use of imported materials. These were the so-called war locomotives ( Kriegslokomotiven and Übergangskriegslokomotiven ). Absent a good highway network and trucks, the Germans relied heavily on the railways, supplemented by slower river and canal transport for bulk goods.
+
+After the war, the German railway system was split into the Deutsche Bundesbahn of West Germany and the Deutsche Reichsbahn of East Germany .
+
+In 1989, the Berlin Wall fell. Train frequency rapidly increased on the existing East/West corridors; closed links which had formerly crossed the border were re-opened. On 3 October 1990, Germany was reunified ; however, this was not immediately the case with the railways. Administrative and organisational problems led to the decision to completely re-organise and reconnect Germany's railways. The so-called Bahnreform (Railway Reform) came into effect on 1 January 1994, when the two state railways were formally reunited to form the current German Railway Corporation ( Deutsche Bahn ). At the time the Bahnreform was seen as a "first step" towards future railway privatization and Deutsche Bahn operates as a joint stock company ( AG ) even though the federal government owns all stocks . However, plans for privatization were delayed by the Great Recession and ultimately cancelled altogether. The railway sector was however liberalized insofar as Deutsche Bahn lost its railway monopoly status in 1996; regional services are now subject to open bidding (" Regionalisierung " or "regionalization", as the responsibility for local rail services was transferred from the federal government to the 16 state governments) whereas long distance services are subject to open access operation . However, while the share of DB in the market of regional rail has declined since 1994 - in the context of an overall expanding market of regional rail service - the vast majority of long distance trains are still operated by or in cooperation with Deutsche Bahn AG.
+
+The German railways were long protected from competition from intercity buses on journeys over 50 km. However, in 2013, this protection was removed, leading to a significant shift from rail to bus for long journeys.
+
+The European Union Commission issued a TSI (Technical Specifications for Interoperability) on 30 May 2002, ( 2002/735/EC ) that sets out standard platform heights for passenger steps on high-speed rail. These standard heights are 550 mm and 760 mm.
+
+In Germany new builds are 550 mm and 760 mm. Mecklenburg-Vorpommern has new builds with 550 mm. Hesse , NRW , Berlin had new builds with 760 mm.
+
+Germany has rail links with the following countries. All are to countries of the same gauge (1435 mm), although electrification (15 kV AC 16.7 Hz) and other systems such as signalling may differ.
+
+Local border services are not listed.

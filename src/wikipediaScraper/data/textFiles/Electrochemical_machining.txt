@@ -1,0 +1,25 @@
+Electrochemical machining ( ECM ) is a method of removing metal by an electrochemical process.  It is normally used for mass production and for working extremely hard materials , or materials that are difficult to machine using conventional methods. Its use is limited to electrically conductive materials.  ECM can cut small or odd-shaped angles, intricate contours or cavities in hard and exotic metals, such as titanium aluminides , Inconel , Waspaloy , and high nickel , cobalt , and rhenium alloys. Both external and internal geometries can be machined.
+
+In the ECM process, a negatively-charged ( cathode ) cutting tool is advanced into a positively-charged ( anode ) workpiece. Pressurized electrolyte is injected at a set temperature into the area being cut, at a feedrate equal to the rate of "liquefication" of the anode material. The gap between the tool and the workpiece varies within 80–800 micrometers (0.003–0.030 in.) As electrons cross the gap between the tool and workpiece, material from the workpiece is dissolved , as the tool forms the desired shape in the workpiece. The electrolytic fluid carries away the metal hydroxide formed in the process.
+
+ECM is often characterized as "reverse electroplating ", in that it removes material instead of adding it. It is similar in concept to electrical discharge machining (EDM) in that a high current is passed between an electrode and the part, through an electrolytic material removal process involving a cathode tool, electrolytic fluid, and anode workpiece; however, in ECM there is no tool wear . The ECM cutting tool is guided along the desired path close to the work but without touching the piece. Unlike EDM, however, no sparks are created. High metal removal rates are possible with ECM, with no thermal or mechanical stresses being transferred to the part, and mirror surface finishes can be achieved.
+
+Electrochemical machining, as a technological method, originated from the process of electrolytic polishing offered already in 1911 by a Russian chemist E. Shpitalsky. As far back as 1929, an experimental ECM process was developed by W.Gussef, although it was 1959 before a commercial process was established by the Anocut Engineering Company. B.R. and J.I. Lazarenko are also credited with proposing the use of electrolysis for metal removal. Much research was done in the 1960s and 1970s, particularly in the gas turbine industry. The rise of EDM in the same period slowed ECM research in the West, although work continued behind the Iron Curtain . The original problems of poor dimensional accuracy and environmentally polluting waste have largely been overcome, although the process remains a niche technique.
+
+The ECM process is most widely used to produce complicated shapes such as turbine blades with good surface finish in difficult to machine materials. It is also widely and effectively used as a deburring process. In deburring, ECM removes metal projections left from the machining process, and so dulls sharp edges. This process is fast and often more convenient than the conventional methods of deburring by hand or nontraditional machining processes.
+
+The needed current is proportional to the desired rate of material removal , and the removal rate in mm/minute is proportional to the amps per square mm.
+
+Typical currents range from 0.1 amp per square mm to 5 amps per square mm. Thus, for a small plunge cut of a 1 by 1 mm tool with a slow cut, only 0.1 amps would be needed.
+
+However, for a higher feed rate over a larger area, more current would be used, just like any machining process—removing more material faster takes more power.
+
+Thus, if a current density of 4 amps per square millimeter was desired over a 100×100 mm area, it would take 40,000 amps (and much coolant/electrolyte).
+
+ECM machines come in both vertical and horizontal types. Depending on the work requirements, these machines are built in many different sizes as well. The vertical machine consists of a base, column, table, and spindle head. The spindle head has a servo-mechanism that automatically advances the tool and controls the gap between the cathode (tool) and the workpiece.
+
+CNC machines of up to six axes are available.
+
+Copper is often used as the electrode material. Brass, graphite, and copper-tungsten are also often used because they are easily machined, they are conductive materials, and they will not corrode.
+
+Some of the very basic applications of ECM include:

@@ -1,0 +1,13 @@
+Google Maps Navigation is a mobile application developed by Google for the Android and iOS operating systems that later integrated into the Google Maps mobile app. The application uses an Internet connection to a GPS navigation system to provide turn-by-turn voice-guided instructions on how to arrive at a given destination. The application requires a connection to Internet data (e.g. 3G , 4G , 5G or WiFi ) and normally uses a GPS satellite connection to determine its location. A user can enter a destination into the application, which will plot a path to it. The app displays the user's progress along the route and issues instructions for each turn.
+
+The application’s beta version was released on October 28, 2009, accompanying the release of Android 2.0 (Eclair) on the Motorola Milestone (known as the Motorola Droid ). Google Maps Navigation Beta was initially released in the United States. The application (version 4.2) was later released in the UK on April 20, 2010 and in Austria, Belgium, Canada, Denmark, France, Germany, Italy, the Netherlands, Portugal, Spain, and Switzerland on June 9, 2010.
+
+Instead of searching for an address or a street name, the application can also search by name, for example guide the user to a nearby restaurant by being given the name of the restaurant.  The application can also take phrases such as “a place with burgers” and suggest nearby destinations that match the phrase. The application can receive a voice input instead of typing the destination on the device.
+
+Users can dock their Android device in a car using a special car dock for the device (which may or may not come with the device). Once docked, the device will enter this mode, enabling for easier access to the navigation features at an arm’s length.
+
+The application provides voice navigation for walking and previously for transit directions. In its current iteration navigation is not available for transit, only a list of directions is provided. The transit directions are available in 400 cities around the world.
+
+Once the user has searched for a destination, the map will cache along the intended route. It is also possible to download a map over a certain area and store it on the phone, which can be useful when there are high roaming charges or expected slow connection. The application requires an Internet connection to search for the route unless an offline map is downloaded, but once a route has been found the user no longer requires an Internet connection as the route is temporarily saved onto the device, unless an offline map has been downloaded to the device's local storage.
+
+The application is available in the following regions, as of 27 November 2014:

@@ -1,0 +1,49 @@
+The Trophic State Index ( TSI ) is a classification system designed to rate water bodies based on the amount of biological productivity they sustain. Although the term "trophic index" is commonly applied to lakes, any surface water body may be indexed.
+
+The TSI of a water body is rated on a scale from zero to one hundred. Under the TSI scale, water bodies may be defined as:
+
+The quantities of nitrogen , phosphorus , and other biologically useful nutrients are the primary determinants of a water body's TSI. Nutrients such as nitrogen and phosphorus tend to be limiting resources in standing water bodies, so increased concentrations tend to result in increased plant growth, followed by corollary increases in subsequent trophic levels . Consequently, trophic index may sometimes be used to make a rough estimate of biological condition of water bodies.
+
+Carlson's index was proposed by Robert Carlson in his 1977 seminal paper, "A trophic state index for lakes". It is one of the more commonly used trophic indices and is the trophic index used by the United States Environmental Protection Agency . The trophic state is defined as the total weight of biomass in a given water body at the time of measurement. Because they are of public concern, the Carlson index uses the algal biomass as
+an objective classifier of a lake or other water body's trophic status. According to the US EPA, the Carlson Index should only be used with lakes that have relatively few rooted plants and non-algal turbidity sources.
+
+Because they tend to correlate, three independent variables can be used to calculate the Carlson Index: chlorophyll pigments , total phosphorus and Secchi depth . Of these three, chlorophyll will probably yield the most accurate measures, as it is the most accurate predictor of biomass. Phosphorus may be a more accurate estimation of a water body's summer trophic status than
+chlorophyll if the measurements are made during the winter. Finally, the Secchi depth is probably the least accurate measure, but also the most affordable and expedient one. Consequently, citizen monitoring programs and other volunteer or large-scale surveys will often use the Secchi depth. By translating the Secchi transparency values to a log base 2 scale, each successive doubling of biomass is represented as a whole integer index number. The Secchi depth, which measures water transparency, indicates the concentration of dissolved and particulate material in the water, which in turn can be used to derive the biomass. This relationship is expressed in the following equation:
+
+A lake is usually classified as being in one of three possible classes: oligotrophic , mesotrophic or eutrophic . Lakes with extreme trophic indices may also be considered hyperoligotrophic or hypereutrophic (also "hypertrophic"). The table below demonstrates how the index values translate into trophic classes.
+
+Oligotrophic lakes generally host very little or no aquatic vegetation and are relatively clear, while eutrophic lakes tend to host large quantities of organisms, including algal blooms. Each trophic class supports different types of fish and other organisms, as well. If the algal biomass in a lake or other water body reaches too high a concentration (say >80 TSI), massive fish die-offs may occur as decomposing biomass deoxygenates the water.
+
+Limnologists use the term " oligotrophic " or "hipotrophic" to describe lakes that have low primary productivity due to nutrient deficiency.  (This contrasts against eutrophic lakes, which are highly productive due to an ample supply of nutrients, as can arise from human activities such as agriculture in the watershed.)
+
+Oligotrophic lakes are most common in cold, sparsely developed regions that are underlain by crystalline igneous , granitic bedrock.  Due to their low algal production, these lakes consequently have very clear waters, with high drinking-water quality.
+
+Lakes that have intermixing of their layers are classified into the category of holomictic , whereas lakes that do not have interlayer mixing are permanently stratified and thus are termed meromictic .
+
+Generally, in a holomictic lake, during the fall, the cooling of the epilimnion reduces lake stratification, thereby allowing for mixing to occur.  Winds aid in this process. Thus it is the deep mixing of lakes (which occurs most often during the fall and early winter, in holomictic lakes of the monomictic subtype) that allows oxygen to be transported from the epilimnion to the hypolimnion.
+
+In this way, oligotrophic lakes can have significant oxygen down to the depth to which the aforementioned seasonal mixing occurs, but they will be oxygen deficient below this depth.  Therefore, oligotrophic lakes often support fish species such as lake trout , which require cold, well- oxygenated waters.  The oxygen content of these lakes is a function of their seasonally mixed hypolimnetic volume.  Hypolimnetic volumes that are anoxic will result in fish congregating in areas where oxygen is sufficient for their needs.
+
+Anoxia is more common in the hypolimnion during the summer when mixing does not occur. In the absence of oxygen from the epilimnion, decomposition can cause hypoxia in the hypolimnion.
+
+Mesotrophic lakes are lakes with an intermediate level of productivity. These lakes are commonly clear water lakes and ponds with beds of submerged aquatic plants and medium levels of nutrients.
+
+The term mesotrophic is also applied to terrestrial habitats. Mesotrophic soils have moderate nutrient levels.
+
+A eutrophic water body, commonly a lake or pond, has high biological productivity. Due to excessive nutrients, especially nitrogen and phosphorus, these water bodies are able to support an abundance of aquatic plants. Usually, the water body will be dominated either by aquatic plants or algae. When aquatic plants dominate, the water tends to be clear. When algae dominate, the water tends to be darker. The algae engage in photosynthesis which supplies oxygen to the fish and biota which inhabit these waters. Occasionally, an excessive algal bloom will occur and can ultimately result in fish death, due to respiration by algae and bottom-living bacteria. The process of eutrophication can occur naturally and by human impact on the environment .
+
+Eutrophic comes from the Greek eutrophos meaning "well-nourished", from eu meaning good and trephein meaning "to nourish".
+
+Hypertrophic or hypereutrophic lakes are very nutrient-rich lakes characterized by frequent and severe nuisance algal blooms and low transparency. Hypereutrophic lakes have a visibility depth of less than 3 feet (90 cm), they have greater than 40 micrograms/litre total chlorophyll and greater than 100 micrograms/litre phosphorus .
+
+The excessive algal blooms can also significantly reduce oxygen levels and prevent life from functioning at lower depths creating dead zones beneath the surface.
+
+Likewise, large algal blooms can cause biodilution to occur, which is a decrease in the concentration of a pollutant with an increase in trophic level . This is opposed to biomagnification and is due to a decreased concentration from increased algal uptake.
+
+Both natural and anthropogenic factors can influence a lake or other water body's trophic index. A water body situated in a nutrient-rich region with high net primary productivity may be naturally eutrophic. Nutrients carried into water bodies from non-point sources such as agricultural runoff, residential fertilisers, and sewage will all increase the algal biomass , and can easily cause an oligotrophic lake to become hypereutrophic.
+
+Although there is no absolute consensus as to which nutrients contribute the most to increasing primary productivity, phosphorus concentration is thought to be the main limiting factor in freshwater lakes. This is likely due to the prevalence of nitrogen-fixing microorganisms in these systems, which can compensate for a lack of readily available fixed nitrogen.
+
+In some coastal marine ecosystems, research has found nitrogen to be the key limiting nutrient, driving primary production independently of phosphorus. Nitrogen fixation cannot adequately supply these marine ecosystems, because the nitrogen fixing microbes are themselves limited by the availability of various abiotic factors like sunlight and dissolved oxygen. However, marine ecosystems are too broad a range of environments for one nutrient to limit all marine primary productivity. The limiting nutrient may vary in different marine environments according to a variety of factors like depth, distance from shore, or availability of organic matter.
+
+Often, the desired trophic index differs between stakeholders. Water-fowl enthusiasts (e.g. duck hunters) may want a lake to be eutrophic so that it will support a large population of waterfowl. Residents, though, may want the same lake to be oligotrophic, as this is more pleasant for swimming and boating. Natural resource agencies are generally responsible for reconciling these conflicting uses and determining what a water body's trophic index should be.

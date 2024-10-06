@@ -1,0 +1,3 @@
+Database-centric Architecture or data-centric architecture has several distinct meanings, generally relating to software architectures in which databases play a crucial role. Often this description is meant to contrast the design to an alternative approach. For example, the characterization of an architecture as "database-centric" may mean any combination of the following:
+
+Even an extreme database-centric architecture called RDBMS-only architecture has been proposed, in which the three classic layers of an application are kept within the RDBMS . This architecture heavily uses the DBPL (Database Programming Language) of the RDBMS. An example of software with this architecture is Oracle Application Express (APEX).

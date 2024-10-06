@@ -1,0 +1,1 @@
+Wikipediavision is a site that shows in semi-realtime where anonymous edits to Wikipedia are originating from. It was launched in the fall of 2007 by László Kozma, at that time a student in Finland. The site combines Wikipedia's recent changes feed with Google Maps for 2D view to visualize the location-based service edits.

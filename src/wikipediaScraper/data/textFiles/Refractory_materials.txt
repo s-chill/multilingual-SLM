@@ -1,0 +1,39 @@
+In materials science , a refractory (or refractory material ) is a material that is resistant to decomposition by heat or chemical attack and that retains its strength and rigidity at high temperatures . They are inorganic , non-metallic compounds that may be porous or non-porous, and their crystallinity varies widely: they may be crystalline , polycrystalline , amorphous , or composite . They are typically composed of oxides , carbides or nitrides of the following elements: silicon , aluminium , magnesium , calcium , boron , chromium and zirconium . Many refractories are ceramics , but some such as graphite are not, and some ceramics such as clay pottery are not considered refractory. Refractories are distinguished from the refractory metals , which are elemental metals and their alloys that have high melting temperatures.
+
+Refractories are defined by ASTM C71 as "non-metallic materials having those chemical and physical properties that make them applicable for structures, or as components of systems, that are exposed to environments above 1,000 °F (811 K; 538 °C)". Refractory materials are used in furnaces , kilns , incinerators , and reactors . Refractories are also used to make crucibles and molds for casting glass and metals. The iron and steel industry and metal casting sectors use approximately 70% of all refractories produced.
+
+Refractory materials must be chemically and physically stable at high temperatures. Depending on the operating environment, they must be resistant to thermal shock , be chemically inert , and/or have specific ranges of thermal conductivity and of the coefficient of thermal expansion .
+
+The oxides of aluminium ( alumina ), silicon ( silica ) and magnesium ( magnesia ) are the most important materials used in the manufacturing of refractories. Another oxide usually found in refractories is the oxide of calcium ( lime ). Fire clays are also widely used in the manufacture of refractories.
+
+Refractories must be chosen according to the conditions they face. Some applications require special refractory materials. Zirconia is used when the material must withstand extremely high temperatures. Silicon carbide and carbon ( graphite ) are two other refractory materials used in some very severe temperature conditions, but they cannot be used in contact with oxygen , as they would oxidize and burn.
+
+Binary compounds such as tungsten carbide or boron nitride can be very refractory. Hafnium carbide is the most refractory binary compound known, with a melting point of 3890 °C. The ternary compound tantalum hafnium carbide has one of the highest melting points of all known compounds (4215 °C).
+
+Molybdenum disilicide has a high melting point of 2030 °C and is often used as a heating element .
+
+Refractory materials are useful for the following functions:
+
+Refractories have multiple useful applications. In the metallurgy industry, refractories are used for lining furnaces, kilns, reactors, and other vessels which hold and transport hot media such as metal and slag . Refractories have other high temperature applications such as fired heaters, hydrogen reformers, ammonia primary and secondary reformers, cracking furnaces, utility boilers, catalytic cracking units, air heaters, and sulfur furnaces. They are used for surfacing flame deflectors in rocket launch structures.
+
+Refractories are classified in multiple ways, based on:
+
+Acidic refractories are generally impervious to acidic materials but easily attacked by basic materials, and are thus used with acidic slag in acidic environments. They include substances such as silica , alumina , and fire clay brick refractories. Notable reagents that can attack both alumina and silica are hydrofluoric acid, phosphoric acid, and fluorinated gases (e.g. HF, F 2 ). At high temperatures, acidic refractories may also react with limes and basic oxides.
+
+Basic refractories are used in areas where slags and atmosphere are basic. They are stable to alkaline materials but can react to acids, which is important e. g. when removing phosphorus from pig iron (see Gilchrist–Thomas process ). The main raw materials belong to the RO group, of which magnesia (MgO) is a common example. Other examples include dolomite and chrome-magnesia. For the first half of the twentieth century, the steel making process used artificial periclase (roasted magnesite ) as a furnace lining material.
+
+These are used in areas where slags and atmosphere are either acidic or basic and are chemically stable to both acids and bases. The main raw materials belong to, but are not confined to, the R 2 O 3 group. Common examples of these materials are alumina (Al 2 O 3 ), chromia (Cr 2 O 3 ) and carbon.
+
+Refractory objects are manufactured in standard shapes and special shapes. Standard shapes have dimensions that conform to conventions used by  refractory manufacturers and are generally applicable to kilns or furnaces of the same types. Standard shapes are usually bricks that have a standard dimension of 9 in × 4.5 in × 2.5 in (229 mm × 114 mm × 64 mm) and this dimension is called a "one brick equivalent". "Brick equivalents" are used in estimating how many refractory bricks it takes to make an installation into an industrial furnace. There are ranges of standard shapes of different sizes manufactured to produce walls, roofs, arches, tubes and circular apertures etc. Special shapes are specifically made for specific locations within furnaces and for particular kilns or furnaces. Special shapes are usually less dense and therefore less hard wearing than standard shapes.
+
+These are without prescribed form and are only given shape upon application. These types are known as monolithic refractories. Common examples include plastic masses, ramming masses , castables, gunning masses, fettling mix, and mortars.
+
+Dry vibration linings often used in induction furnace linings are also monolithic, and sold and transported as a dry powder, usually with a magnesia/alumina composition with additions of other chemicals for altering specific properties. They are also finding more applications in blast furnace linings, although this use is still rare.
+
+Refractory materials are classified into three types based on fusion temperature (melting point).
+
+Refractoriness is the property of a refractory's multiphase to reach a specific softening degree at high temperature without load, and is measured with a pyrometric cone equivalent (PCE) test. Refractories are classified as:
+
+Refractories may be classified by thermal conductivity as either conducting, nonconducting, or insulating. Examples of conducting refractories are silicon carbide (SiC) and zirconium carbide (ZrC), whereas examples of nonconducting refractories are silica and alumina. Insulating refractories include calcium silicate materials, kaolin , and zirconia.
+
+Insulating refractories are used to reduce the rate of heat loss through furnace walls. These refractories have low thermal conductivity due to a high degree of porosity, with a desired porous structure of small, uniform pores evenly distributed throughout the refractory brick in order to minimize thermal conductivity. Insulating refractories can be further classified into four types:

@@ -1,0 +1,31 @@
+RoboSapien is a toy-like biomorphic robot designed by Mark Tilden and produced by WowWee toys. Released in 2004, the Robosapien is preprogrammed with moves, and also can be controlled by an infrared remote control included or by a PDA . The product sold over 1.5 million units between April and December 2004, and was named "Toy of the Year" by the Toy Retailers Association .
+
+The toy is capable of a walking motion without recourse to wheels within its feet. It can grasp objects with either of its hands, and throw grasped objects. It has a small loudspeaker unit, which can broadcast several different vocalizations . The robot uses seven motors, and maintains balance by using "two trianges", one inverted above the over. As the lower part of the body leans to one side, balance is maintained by titling the upper half to match.
+
+The robot's remote control unit has a total of 21 different buttons. With the help of two shift buttons, a total of 67 different robot-executable commands are accessible.
+
+Germany Openen 2005 tournament two teams of three Robosapiens each played the first Soccer match of humanoid robots worldwide. University of Osnabrück played against a team from Albert Ludwig's University of Freiburg . Replacing the head by a PDA allowed the robot to perceive its environment with a camera, a control program could then react to this via the PDA's infrared sender.
+
+Other research involving RoboSapien includes using it to model the behaviour of humanoid robots in dangerous manufacturing environments.
+
+In addition to the white/black color scheme, there are additional colored variants of RoboSapien which include chrome red, blue, silver with blue eyes, gold, green, pink, and transparent. A majority of these also came bundled with Mini RoboSapiens of the same respective color.
+
+A smaller version of the toy titled "Mini RoboSapien" has also been produced. It does not have a remote control or different modes of behavior, and isn't an autonomous robot. The product runs on two AAA-size batteries and can only move forward in one direction.
+
+As with the original, it is available in a wide range of colors, some being bundled with the standard-size model.
+
+RoboSapien Jr. is a licensed variant of the toy produced by Hasbro subsidiary Playskool , and released in 2005. RoboSapien Jr. is a bump-and-go variant of the original, and is smaller than the Mini RoboSapien. It has three different modes of play, makes sounds, and dances to music (the same tune as the original).
+
+In January 2007, WowWee signed licensing deals with Sony Pictures and 20th Century Fox to produce the SpiderSapien and HomerSapien , styled after Spider-Man and Homer Simpson and being made to promote Spider-Man 3 and The Simpsons Movie respectively.
+
+SpiderSapien features Spider-Man-styled armor, and an array of Spider-Man sound effects. A Mini SpiderSapien was also produced in both standard and black suit colors.
+
+HomerSapien was similarly adapted with sound bites and a sculpted Homer head. A Mini HomerSapien was also made.
+
+RoboSapien X is an enhanced re-release of the original RoboSapien, announced by WowWee in 2013, and released in 2014. The robot is identical to the original, but can now be controlled using an iOS or Android device (Through the "RoboRemote" IR dongle) in addition to the standard remote control.
+
+RoboSapien Blue is a variant of RoboSapien X, released in 2014. It features a black/blue color scheme and can function using a Bluetooth-enabled iOS or Android smart device or the included remote.
+
+RoboSapien Remix was released in 2021. It is a simplified robot that includes a spring shooter, can swap personalities with the press of a button, dances to music, and repeats dialogue in a robotic voice. RoboSapien Remix doesn't operate using a remote control, instead, the functionalities are on the robot itself in addition to hearing sound.
+
+A CGI / live action film produced by Avi Arad named Robosapien: Rebooted was being produced in 2008 and was released in 2013.

@@ -1,0 +1,17 @@
+CrypTool is an open-source project that is a free e-learning software for illustrating cryptographic and cryptanalytic concepts .
+
+The development of CrypTool started in 1998. Originally developed by German companies and universities, it is an open-source project since 2001.
+
+Currently 4 versions of CrypTool are maintained and developed: The CrypTool 1 (CT1) software is available in 6 languages (English, German, Polish, Spanish, Serbian, and French). CrypTool 2 (CT2), JCrypTool (JCT), and CrypTool-Online (CTO) are available in English and German.
+
+The goal of the CrypTool project is to make users aware of how cryptography can help against network security threats and to explain the underlying concepts of cryptology.
+
+CrypTool 1 (CT1) is written in C++ and designed for the Microsoft Windows operating system.
+
+In 2007, development began on two additional projects, both based on a pure-plugin architecture, to serve as successors to the original CrypTool program. Both successors regularly publish new stable versions:
+
+The CrypTool project is now being developed at the research institute CODE at the Bundeswehr University Munich .
+
+CrypTool is used in schools, universities, companies and agencies for education and awareness training.
+
+In early 2020, the CrypTool project decided to merge with a similar project of the same name, CrypTools, founded in 2017 in Australia by Luka Lafaye de Micheaux, Arthur Guiot, and Lucas Gruwez. CrypTool, much older and known, thus completely "absorbs" the project under its name.

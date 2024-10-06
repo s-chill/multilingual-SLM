@@ -1,0 +1,43 @@
+Forest pathology is the research of both biotic and abiotic maladies affecting the health of  a forest ecosystem , primarily fungal pathogens and their insect vectors . It is a subfield of forestry and plant pathology .
+
+Forest pathology is part of the broader approach of forest protection .
+
+Insects, diseases and severe weather events damaged about 40 million ha of forests in 2015, mainly in the temperate and boreal domains.
+
+There  are a number of abiotic factors which affect the health of a forest, such as moisture issues like drought , winter-drying , waterlogging resulting from over-abundance or lack of precipitation such as hail , snow , rain .
+
+Wind is also an important abiotic factor as windthrow (the uprooting or breaking of trees due to high winds) causes an obvious and direct loss of stability to a forest or its trees.
+
+Often, abiotic factors and biotic factors will affect a forest at the same time. For example, if wind speed is 80 km per hour then many trees which have root rot (caused by a pathogen) are likely to be thrown. Higher wind speeds are necessary to damage healthier trees.
+
+Fire , whether caused by humans or lightning , and related abiotic factors also affect the health of forest.
+
+The effects of man often alter a forest's predisposition to damage from both abiotic and biotic effects. For example, soil properties may be altered by heavy machinery.
+
+There is a category listing fungal tree pathogens and diseases in Wikipedia .
+
+There is a category listing insect pests of temperate forests in Wikipedia .
+
+Some of these factors act in concert (all do to a degree). For example, Amylostereum areolatum is spread by the sirex woodwasp . The fungus gains access to new trees to live off, and the woodwasp larvae gain food.
+
+Many plants can parasitize trees via root to root contact. Many of these parasitic plants originate in the tropical and subtropical climates.
+
+Nematodes , insects especially bark beetles , mammals may browse . Browsing can be prevented with tree shelters .
+
+Humans and other mammals predate on trees, and on unsustainable, especially industrial scales, these are demonstrably pathological to the forest. Additionally, poorly planned but conventionally replanted (post-cut) forest plantations are typically monocropped , and highly susceptible to further insect or fungal infection due to low biodiversity and diminished capacity for community resilience - see the " Wood wide web ".
+
+Part of forest pathology is forest entomology . Forest entomology includes the study of all insects and arthropods , such as mites, centipedes and millipedes, which live in and interact in forest ecosystems. Forest entomology also includes the management of insect pests that cause the degrading, defoliation, crown die-back or death of trees.
+
+Thus the scope is wide and includes:
+
+The likelihood of property damage or personal injury due to tree failure. Hazard includes not only the tree's condition, but the potential target as well. Rating systems, procedures and guidelines have been developed for decision making but knowledge, judgement, and experience are an important part to the process.
+
+There is a category listing tree diseases in Wikipedia.
+
+Symptoms are a result of a pathogen:
+
+Signs are the visible presence of a part of a pathogen:
+
+This can be done by machines or by dogs smelling the trees, similar to the methods used to find truffles . It can also be done by monitoring and identification can happen via tree clinics, experts such as arborists or even non-experts through citizen science .
+
+It is important to consider the disease triangle when evaluating pathologies. Demonstration of suspected active agents can be done by confirmation of Koch's postulates .

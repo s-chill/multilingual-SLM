@@ -1,0 +1,34 @@
+Wakamaru is a Japanese robot made by Mitsubishi Heavy Industries that is intended to perform natural communication with human beings. The yellow, 3-foot domestic robot debuted in 2005 at a $14,300-$15,000 USD price-point exclusively for Japanese households. Through its development, the Wakamaru has been used for presenting at exhibitions, guiding customers, and working as a desk receptionist. However, the Wakamaru has not advanced beyond its first model that was released in 2005.
+
+The earliest form of the Wakamaru was in 2000, when Mitsubishi released information on a project entitled "MHI Frontier 21 Project." This project was launched with a small group of younger employees that proposed a "Service Robot Business Project." In 2001, development on a "Life-Assist Robot" was started and a prototype was built by product designer Toshiyuki Kita.
+On February 2, 2003, the Wakamaru was announced to media outlets in Japan and was displayed at the Robodex 2003 robot exhibition later in April. In 2005, Mitsubishi reported that they exclusively did a test sale of 100 units of Wakamaru robots to "ordinary households" in twenty three Tokyo neighborhoods.
+
+By 2007, the Wakamaru was available for rent for Japanese companies to use the robot as a receptionist for $1,000 a day.
+
+The robot resurfaced on the internet in 2014, when a Twitter user tweeted a photo of the robots in a garbage collection unit.
+
+The Wakamaru was designed by Toshiyuki Kita . He wanted to create "a humanoid robot that can approach its user" so that the Wakamaru could be seen as an independent personality rather than a machine. However, the robot was designed to look neither male or female. The robot was marketed to look not-threatening and likable.
+
+The yellow robot is three feet tall, consisting of a bottom base with a wheel and three body components on top. The arms are silver, while the hands are yellow. The circular head has round eyes which work as sensors and a wide mouth which makes the robot look toy-like.
+
+The Wakamaru moves by a wheel that can go as fast as one kilometer per hour. Its sensors can detect self position, infrared ray obstacles, and ultrasonic obstacles, and collisions. The Wakamaru product comes with the robot main unit, a charging station, a broadband router, touch panel,
+and computer . Its height is 100 cm and diameter is 45 cm.
+
+The bottom component contains the touch sensor, odometers (encoders) that internally indicates the robot's distance traveled, and infrared range sensors that prevent it from running into objects or people. The component above the bottom contains more ultrasonic range sensors and another infrared range sensor that also prevent the robot from running into objects or walls. The "chest" component contains an LED indicator to indicate if the robot is on or off. This component also contains the directional microphone and speaker. The "head" component has the front camera and omni-directional camera, a rotating camera so the robot can see in all directions.
+
+It operates on a rechargeable lithium-ion battery that can
+operate for two hours. The Wakamaru automatically moves to the charging station when it needs to be charged. The Wakamaru runs on the operating system Linux .
+
+Since the Wakamaru was designed for daily domestic life, the design for safety was prioritized. Mitsubishi used an international risk assessment method and tested all risks to ensure the product would be safe for use. From these tests, the arms and wheels of the Wakamaru have not caused any injury from collision.
+
+Using its ultrasonic and infrared sensors, the Wakamaru can avoid collision with objects and humans. It can be manually stopped at any contact with the bumpers on its shoulders or hands. There are also switches on its bumper, side, and bag to stop movement.
+
+There are no reports of safety issues.
+
+The robot can recognize 10,000 Japanese words and carry on communication with human beings. It can also connect to wireless internet to tell you the current weather forecasts, reception information, and news. Mitsubishi claims the robot can recognize ten faces at a time, but reports say the robot can recognize eight. The robot can also take photos of unrecognizable faces in the house in case of a robbery and send the photos to the consumer's mobile phone.
+
+Due to its US$14,000–$15,000 price-point, the Wakamaru has been criticized as being too expensive for what it does. Mitsubishi had predicted at least 10,000 sales in the United States a year after the launch, but only shipped about a dozen models overseas. As of 2008, the robot went off the market but remained for rent as a receptionist for $1,000 a day. On June 23, 2014, a photo of a number of Wakamaru units in a garbage collection unit at a Japanese university was tweeted by a Japanese Twitter user.
+
+Unlike the Wakamaru, domestic robots such as the Roomba and The Litter Robot remain popular amongst consumers because of their affordability and functionality of household chores.
+
+Astrid M. Rosenthal-von der Pütten of University of Duisburg-Essen, Germany conducted research on how characteristics of robots determine responses from humans through an online web poll. The Wakamaru was used in this research project in a cluster of robots to determine four factors: threatening, likability, submissiveness, and unfamiliarity. From the web online poll, the results concluded that Wakamaru and other robots such as the Dynamoid, Icat , Asoy, Riman, and Snackbot were non-threatening, submissive, not human and mechanical but also unfamiliar and less likable. The research says that this is may be due to their colorful but unusual shape.

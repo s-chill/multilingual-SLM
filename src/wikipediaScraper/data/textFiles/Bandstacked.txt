@@ -1,0 +1,17 @@
+The term bandstacked applies to an antenna or satellite feedhorn (LNBF) that is designed to operate on two or more bands of frequencies . Usually, a portion of the radio frequency spectrum that has been divided into a low band and a high band.
+
+This example is for a C Band LNBF that operates with two different local oscillator frequencies.
+
+Model Number	B1SAT STACK
+I/P Frequency	3.7-4.2 GHz
+O/P Frequency	950-2050 MHz
+LO Frequency	Lower Band 5.15 GHz, Upper Band 5.75 GHz
+
+One application is to send both H and V signals to the receiver on one cable at the same time.
+Other LNBF are voltage switched by the receiver for V or H signal.
+
+·	Extended Frequency 3.7 GHz ~ 4.2 GHz 
+·	Bandstacked LNBF
+
+This also can be applied to the design and construction of VHF antennas, typically base station antennas that can cover the VHF low band and high band. 
+This should not be confused with stacked antenna array configurations.

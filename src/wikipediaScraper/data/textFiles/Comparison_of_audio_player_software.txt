@@ -1,0 +1,17 @@
+The following comparison of audio players compares general and technical information for a number of software media player programs. For the purpose of this comparison, "audio players" are defined as any media player explicitly designed to play audio files, with limited or no support for video playback. Multi-media players designed for video playback, which can also play music, are included under comparison of video player software .
+
+This section lists the operating systems on which the player works. There may be multiple versions of a player for different operating systems.
+
+Information about what audio formats the players understand. Footnotes lead to information about abilities of future versions of the players or plugins/filters that provide such functionality.
+
+Information about what container formats the players understand. Footnotes lead to information about abilities of future versions of the players or filters that provide such functionality.
+
+Information about which internet protocols the players understand, for receiving streaming media content. Footnotes lead to information about abilities of future versions of the players or plugins that provide such functionality.
+
+Information about which playlist formats the players understand.
+
+Information about what metadata , or tagging, formats the players understand. Most other containers have their own metadata format and the players usually use them. Footnotes lead to information about abilities of future versions of the players or plugins that provide such functionality.
+
+Information about what kinds of optical discs the players can play. Footnotes lead to information about abilities of future versions of the players or plugins that provide such functionality.
+Playback of Super Audio CD is not possible for any media player, because no suitable hardware exists.
+All media players capable of audio CD playback will also play the Redbook core of any HDCD disc, providing no sound-quality benefits over standard audio CDs.

@@ -1,0 +1,29 @@
+Ututo is a Linux distribution consisting entirely of free software . The distribution is named for a variety of gecko found in northern Argentina .
+
+Ututo was the first fully free Linux -based system recognized by the GNU Project . The founder of the GNU Project , Richard Stallman , formerly endorsed the distribution nearly exclusively, and used it on his personal computer, before he switched to gNewSense , and later Trisquel .
+
+Ututo was first released in 2000 by Diego Saravia in National University of Salta . Argentina . It was one of the first live CD distributions in the world and the first Linux distribution in Argentina. Ututo carried Simusol, a system to simulate Solar Energy projects. Ututo was simple to install, because it did not need any configuration. It automatically detected the hardware in the machine, it only asked to "move your mouse". At that time no other distribution worked that way.
+
+In 2002, Ututo-R was created, which offered the possibility of operating like a software router . This version was created by Marcos Zapata and used in Buenos Aires public schools.
+
+In 2004, the Ututo-e project was born, swiftly becoming the most important derivative of Ututo. This project was started by Daniel Olivera.
+
+In 2006, Ututo was declared "of National Interest" by the Argentine Chamber of Deputies .
+
+Ututo XS is the current stable version of Ututo.
+
+Ututo XS is compiled using Gentoo Linux ebuilds and emerge software. All documentation is in Spanish.
+
+With the emergence of the XS series, many new features were added, including a faster system installer. Ututo has been used in different hardware projects such as iFreeTablet. Pablo Manuel Rizzo designed the package management system, Ututo-Get, modelled after Debian 's APT ; however, as other Gentoo -based distros, Ututo is compatible with Portage .
+
+Ututo has different binaries optimized for different Intel and AMD processors .
+
+With no releases since 2012 the distribution is considered "dormant".
+
+Ututo UL (or Ubuntu-Libre) is the current developed version of Ututo. Ututo UL utilize Ubuntu as the distro base, with all non-free software removed as usual in the Ututo project, and Linux-libre as the kernel.
+
+In 2017 the original idea of distributing Simusol, a system to simulate Solar Energy projects, returned to the heart of the project.
+
+Tux Machines reviewed Ututo in 2006:
+
+So, all in all, it's a very respectable project. The installer is not exactly the easiest in the world, but the desktop is nice looking with some handy tools and adequate applications. I'm left with mixed feelings about it, having started out quite excited. But it was still nice to try. If you are a gnome or ubuntu fan, you should really check it out.

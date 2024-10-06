@@ -1,0 +1,3 @@
+In computing, an active database is a database that includes an event-driven architecture (often in the form of ECA rules ) that can respond to conditions both inside and outside the database.  Possible uses include security monitoring, alerting, statistics gathering and authorization.
+
+Most modern relational databases include active database features in the form of database triggers .

@@ -1,0 +1,7 @@
+A winding engine is a stationary engine used to control a cable , for example to power a mining hoist at a pit head . Electric hoist controllers have replaced proper winding engines in modern mining , but use electric motors that are also traditionally referred to as winding engines .
+
+Early winding engines were hand, or more usually horse powered .
+
+The first powered winding engines were stationary steam engines . The demand for winding engines was one factor that drove James Watt to develop his rotative beam engine , with its ability continuously to turn a winding drum, rather than the early reciprocating beam engines that were only useful for working pumps .
+
+They differ from most other stationary steam engines in that, like a steam locomotive , they need to be able to stop frequently  and also reverse. This requires more complex valve gear and other controls than are needed on engines used in mills or to drive pumps .

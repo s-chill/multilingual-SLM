@@ -1,0 +1,23 @@
+The following outline is provided as an overview of and topical guide to electrical engineering.
+
+Electrical engineering – field of engineering that generally deals with the study and application of electricity , electronics and electromagnetism . The field first became an identifiable occupation in the late nineteenth century after commercialization of the electric telegraph and electrical power supply. It now covers a range of subtopics including power , electronics , control systems , signal processing and telecommunications .
+
+Electrical engineering can be described as all of the following:
+
+History of electrical engineering
+
+Electromagnetism
+
+Physical laws
+
+Control engineering
+
+Electronics
+
+Power engineering
+
+Electric vehicles
+
+Signal processing
+
+Telecommunication

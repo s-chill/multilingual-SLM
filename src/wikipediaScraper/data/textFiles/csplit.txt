@@ -1,0 +1,15 @@
+The csplit command in Unix and Unix-like operating systems is a utility that is used to split a file into two or more smaller files determined by context lines.
+
+csplit is part of the X/Open Portability Guide since issue 2 of 1987. It was inherited into the first version of POSIX and the Single Unix Specification . It first appeared in PWB UNIX.
+
+The version of csplit bundled in GNU coreutils was written by Stuart Kemp and David MacKenzie. The command is available as a separate package for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities.
+
+The command- syntax is:
+
+The patterns may be line numbers or regular expressions . The program outputs pieces of the file separated by the patterns into files xx00 , xx01 , etc., and outputs the size of each piece, in bytes , to standard output .
+
+The optional parameters modify the behaviour of the program in various ways. For example, the default prefix string (xx) and number of digits (2) in the output filenames can be changed.
+
+As with most Unix utilities, a return code of 0 indicates success, while nonzero values indicate failure.
+
+The split command also splits a file into pieces, except that all the pieces are of a fixed size (measured in lines or bytes).

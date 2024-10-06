@@ -1,0 +1,27 @@
+Distributional semantics is a research area that develops and studies theories and methods for quantifying and categorizing semantic similarities between linguistic items based on their distributional properties in large samples of language data. The basic idea of distributional semantics can be summed up in the so-called distributional hypothesis: linguistic items with similar distributions have similar meanings.
+
+The distributional hypothesis in linguistics is derived from the semantic theory of language usage, i.e. words that are used and occur in the same contexts tend to purport similar meanings.
+
+The underlying idea that "a word is characterized by the company it keeps" was popularized by Firth in the 1950s.
+
+The distributional hypothesis is the basis for statistical semantics . Although the Distributional Hypothesis originated in linguistics, it is now receiving attention in cognitive science especially regarding the context of word use.
+
+In recent years, the distributional hypothesis has provided the basis for the theory of similarity-based generalization in language learning: the idea that children can figure out how to use words they've rarely encountered before by generalizing about their use from distributions of similar words.
+
+The distributional hypothesis suggests that the more semantically similar two words are, the more distributionally similar they will be in turn, and thus the more that they will tend to occur in similar linguistic contexts.
+
+Whether or not this suggestion holds has significant implications for both the data-sparsity problem in computational modeling, and for the question of how children are able to learn language so rapidly given relatively impoverished input (this is also known as the problem of the poverty of the stimulus ).
+
+Distributional semantics favor the use of linear algebra as a computational tool and representational framework. The basic approach is to collect distributional information in high-dimensional vectors, and to define distributional/semantic similarity in terms of vector similarity. Different kinds of similarities can be extracted depending on which type of distributional information is used to collect the vectors: topical similarities can be extracted by populating the vectors with information on which text regions the linguistic items occur in; paradigmatic similarities can be extracted by populating the vectors with information on which other linguistic items the items co-occur with. Note that the latter type of vectors can also be used to extract syntagmatic similarities by looking at the individual vector components.
+
+The basic idea of a correlation between distributional and semantic similarity can be operationalized in many different ways. There is a rich variety of computational models implementing distributional semantics, including latent semantic analysis (LSA), Hyperspace Analogue to Language (HAL), syntax- or dependency-based models, random indexing , semantic folding and various variants of the topic model .
+
+Distributional semantic models differ primarily with respect to the following parameters:
+
+Distributional semantic models that use linguistic items as context have also been referred to as word space, or vector space models .
+
+While distributional semantics typically has been applied to lexical items—words and multi-word terms—with considerable success, not least due to its applicability as an input layer for neurally inspired deep learning models, lexical semantics , i.e. the meaning of words, will only carry part of the semantics of an entire utterance. The meaning of a clause, e.g. "Tigers love rabbits." , can only partially be understood from examining the meaning of the three lexical items it consists of. Distributional semantics can straightforwardly be extended to cover larger linguistic item such as constructions, with and without non-instantiated items, but some of the base assumptions of the model need to be adjusted somewhat. Construction grammar and its formulation of the lexical-syntactic continuum offers one approach for including more elaborate constructions in a distributional semantic model and some experiments have been implemented using the Random Indexing approach.
+
+Compositional distributional semantic models extend distributional semantic models by explicit semantic functions that use syntactically based rules to combine the semantics of participating lexical units into a compositional model to characterize the semantics of entire phrases or sentences. This work was originally proposed by Stephen Clark, Bob Coecke , and Mehrnoosh Sadrzadeh of Oxford University in their 2008 paper, "A Compositional Distributional Model of Meaning". Different approaches to composition have been explored—including neural models—and are under discussion at established workshops such as SemEval .
+
+Distributional semantic models have been applied successfully to the following tasks:

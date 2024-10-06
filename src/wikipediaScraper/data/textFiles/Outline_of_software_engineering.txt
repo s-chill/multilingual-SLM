@@ -1,0 +1,25 @@
+The following outline is provided as an overview of and topical guide to software engineering:
+
+Software engineering – application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software ; that is the application of engineering to software .
+
+The ACM Computing Classification system is a poly-hierarchical ontology that organizes the topics of the field and can be used in semantic web applications and as a de facto standard classification system for the field.   The major section "Software and its Engineering" provides an outline and ontology for software engineering.
+
+Software engineers build software ( applications , operating systems , system software ) that people use.
+
+Applications influence software engineering by pressuring developers to solve problems in new ways. For example, consumer software emphasizes low cost, medical software emphasizes high quality, and Internet commerce software emphasizes rapid development.
+
+A platform combines computer hardware and an operating system. As platforms grow more powerful and less costly, applications and tools grow more widely available.
+
+Skilled software engineers know a lot of computer science including what is possible and impossible, and what is easy and hard for software.
+
+Discrete mathematics is a key foundation of software engineering.
+
+Other
+
+Deliverables must be developed for many SE projects. Software engineers rarely make all of these deliverables themselves. They usually cooperate with the writers, trainers, installers, marketers, technical support people, and others who make many of these deliverables.
+
+History of software engineering
+
+Many people made important contributions to SE technologies, practices, or applications.
+
+See also

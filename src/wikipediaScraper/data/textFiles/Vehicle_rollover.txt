@@ -1,0 +1,75 @@
+A rollover or overturn is a type of vehicle crash in which a vehicle tips over onto its side or roof. Rollovers have a higher fatality rate than other types of vehicle collisions.
+
+Vehicle rollovers are divided into two categories: tripped and untripped. Tripped rollovers are caused by forces from an external object, such as a curb or a collision with another vehicle. Untripped rollovers are the result of steering input, speed, and friction with the ground. Trailers that are not roll-coupled (i.e. those that use a trailer coupling rather than a fifth wheel) are more prone to rolling as they do not have the tractor unit or prime mover for additional stability.
+
+Untripped rollovers occur when cornering forces destabilize the vehicle. As a vehicle rounds a corner, three forces act on it: tire forces (the centripetal force ), inertial effects (the centrifugal force ), and gravity . The cornering forces from the tire push the vehicle towards the center of the curve. This force acts at ground level, below the center of mass. The force of inertia acts horizontally through the vehicle's center of mass away from the center of the turn. These two forces make the vehicle roll towards the outside of the curve. The force of the vehicle's weight acts downward through the center of mass in the opposite direction. When the tire and inertial forces are enough to overcome the force of gravity, the vehicle starts to turn over.
+
+The most common type of tripped rollover in light passenger vehicles occurs when a vehicle is sliding sideways, and the tires strike a curb, dig into soft ground, or a similar event occurs that results in a sudden increase in lateral force. The physics are similar to cornering rollovers. In a 2003 report, this was the most common mechanism, accounting for 71% of single-vehicle rollovers.
+
+Another type of tripped rollover occurs due to a collision with another vehicle or object. These occur when the collision causes the vehicle to become unstable, such as when a narrow object causes one side of the vehicle to accelerate upwards, but not the other. Turned down guard rail end sections have been shown to do this. A side impact can accelerate a vehicle sideways. The tires resist the change, and the coupled forces rotate the vehicle. In 1983, crash tests showed that light trucks were prone to rolling over after colliding with certain early designs of guide rail.
+
+A rollover can also occur as a vehicle crosses a ditch or slope. Slopes steeper than 33% (one vertical unit rise or fall per three horizontal units) are called "critical slopes" because they can cause most vehicles to overturn. A vehicle may roll over when hitting a large obstacle with one of its wheels or when maneuvering over uneven terrain. A trailer jackknife can push the towing vehicle into a rollover scenario if the vehicle is subject to a tripped scenario (soft ground or a curb).
+
+Strong winds may cause high-sided vehicles such as trucks, buses and vans to be blown over. Risk areas are coastal roads, plains and exposed bridges. Vehicles exiting a wind shadow can be subjected to instant gusts that can affect high-sided vehicles.
+
+All vehicles are susceptible to rollovers to various extents. Generally, rollover tendency increases with the height of the center of mass , narrowness of the axle track , steering sensitivity, and increased speed.
+
+The rollover threshold for passenger cars is over 1 g of lateral acceleration. The Tesla Model S has an unusually low rollover risk of 5.7% due to its low center of mass. Light trucks will roll over at lateral accelerations of 0.8 to 1.2 g. Large commercial trucks will roll at lateral accelerations as low as 0.2 g Trucks are more likely to roll over than passenger cars because they usually have taller bodies and higher ground clearance. This raises the center of mass.
+
+SUVs are prone to rollover, especially those outfitted with long travel off-road suspensions. The increased suspension height for increased clearance off-road raises the center of mass.
+
+Full-size vans don't usually have off-road suspensions, but their increased body height makes them more prone to tip. Fifteen passenger vans such as the Ford E-Series (at 27.9% ), are particularly notorious for rolling over because their height is increased by the heavy-duty suspensions necessary to carry large numbers of people. The rollover tendency is increased when the vehicles are heavily loaded. It is recommended to not load anything on the roof of such vans, and to use drivers experienced or trained in safe operation of the vehicle. In such cases, familiarity with the vehicle's behavior loaded and unloaded, avoiding sudden swerving maneuvers, and reducing speed through tight turns can greatly decrease the rollover risk associated with these vehicles.
+
+Manufacturers of SUVs often post warnings on the driver's sun-visor. Among the vehicles which have received publicity for tendencies to roll over are the Ford Bronco II , Suzuki Samurai , Jeep CJ , Mitsubishi Pajero/Montero , and Isuzu Trooper .
+
+Military vehicles have a much wider wheel track than civilian SUVs, making them more difficult to roll over. However, IEDs in Iraq and Afghanistan cause roll overs not seen by civilian vehicles. The top turret gunner is particularly vulnerable.
+
+A tall passenger coach made US headlines when 15 passengers were killed in New York in 2011 . The bus swerved, flipped on its side and hit a pole which split off the top of the vehicle.
+
+Vehicles sold in the United States, sorted by risk as evaluated by the U.S. National Highway Traffic Safety Administration . Click <> to sort by other parameters.
+
+After a rollover, the vehicle may end up lying on its side or roof, often blocking the doors and complicating the escape for the passengers. Large passenger vehicles such as buses, trams, and trolley buses that have doors on one side only usually have one or more methods of using windows for escape in case of a rollover. Some have special windows with handles to pull so that windows can be used as an emergency exit . Some have tools for breaking the windows and making an improvised exit. Some have emergency exit door or hatches in their roofs or on the opposite side of the bus to the usual entry door. Some combine two or more of these escape methods.
+
+Rollover crashes are particularly deadly for the occupants of a vehicle when compared to frontal, side, or rear crashes, because in normal passenger vehicles, the roof is likely to collapse in towards the occupants and cause severe head injuries. The use of roll cages in vehicles would make them much safer, but in most passenger vehicles their use would cut cargo and passenger space so much that their use is not practical. The Jeep Wrangler , a vehicle which is short, narrow, and designed to be used on uneven terrain, is unusual in that it comes with a roll bar as standard equipment.
+
+The decline in popularity of convertibles in the US was partly caused by concern about lack of protection in rollover accidents, because most convertibles have no protection beyond the windshield frame. Some convertibles provide rollover protection using two protruding curved bars behind the headrests. Some Mercedes-Benz convertibles have a retractable roll bar which deploys in case of an accident. Race cars almost always have roll cages, since racing is very likely to result in a rollover. In addition, the roll cage's chassis-stiffening effect is usually seen as a benefit to the car.
+
+Some countries have a unique traffic warning sign for curves and other areas with an increased danger of rollover for trucks and other vehicles with high centers of gravity. These signs may include an advisory safe speed to avoid rolling over. This speed is typically set by measuring a maximum g-force permitted around the corner to remain well under the maximum static roll threshold.
+
+In the UK, the "adverse camber" plate comes with a warning sign such as "roundabout ahead", "bend ahead", "junction on (...) a bend ahead", or "series of bends ahead".
+
+In most European countries the official accident statistics contain no information on rolling cars, only Great Britain can deliver official statistical data. Regarding other sources, only a few accident databases on rollover accidents exist.
+
+Although only less than 10% of all vehicle accidents with severe injuries involve rollovers, approximately 25% of all seriously injured occupants were involved in accidents where their car rolled. These numbers are currently increasing, as rollover frequency of several new vehicle types like mini vans, SUV or MPV is a lot higher than for most conventional cars.
+
+Inside the European union, most rollovers occur off the carriageway. When the occupant is not ejected from the vehicle and the car does not strike any rigid objects, rollovers are the least injurious of the different impact types, because deceleration is longer and slower.
+
+Nonetheless, rollover risk depends upon the centre of gravity, suspension characteristics and loads carried.
+The severity of injury depends on the presence of crash-protective roadsides and the speed of impact. In most of western Europe over 3,5 tonnes HGV have a speed limited from 80 km/h or 90 km/h, except in Great-Britain and Northern Ireland and Italy, Romania and Bulgaria which have HGV speed limit up to 110 km/h. In France, HGV can reach 90 km/h on the motorway network and some other roads but are limited to the 80 km/h general speed limit of the local/secondary road network.
+
+It is considered that Electronic Stability Programmes can contribute to reduce some accidents including rollovers.
+
+The vehicle fleets in Europe and in the US differ from each other. For instance, the US has significantly more SUVs, MPVs, Pick-ups and other vehicles with a high center of gravity. Further differences can be found when considering the road environment, e.g. availability and type of barriers, road side objects, congestion levels, road surfaces, proximity of buildings.
+Moreover, the belt wearing rate in the US, particularly in those vehicles prone to rollover, is lower than in European countries. Finally, there are differences in legislation which affect vehicle design and/or driver behavior.
+
+Within European union, it is considered that HGV rollovers do not usually result in serious injury.
+
+Some European trucks have no ESC.
+
+In Sweden one to two rollover accidents occur every day.
+
+In France, several double-decker bus performed rollover making BEATT to recommend regulation improvement to make ESC mandatory, while seat belt has become mandatory in the meantime:
+
+This led to European regulation (CE) 661/2009 and to UNECE regulation 66 revision to take into account such an issue.
+
+In the US, rollover fatalities represents respectively 29.1%,  32.4% and 33.3% of fatalities in 1994, 2003 and 2004.
+
+Single-vehicle rollover fatalities represents respectively 82%, 82% and  81% of all rollover fatalities in 1994, 2003 and 2004.
+
+US States & Territories where rollover includes a bigger part of fatalities includes:
+
+US States & Territories where rollover includes a lower part of fatalities includes:
+
+A skilled driver may stop a rollover by stopping a turn. Stunt drivers deliberately use ramps to launch a rollover.  Vehicles with a high center of gravity are easily upset or "rolled."  Short of a rollover, stunt drivers may also drive the car on two wheels for some time, but this requires precise planning and expert driver control.  Specialized safety equipment is often utilized.
+
+The driver deliberately drives one side of their vehicle onto a ramp which causes their vehicle to roll over. The winner is the driver who guides their vehicle to the most rolls.

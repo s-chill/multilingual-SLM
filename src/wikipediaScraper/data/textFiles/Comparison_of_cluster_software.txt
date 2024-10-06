@@ -1,0 +1,5 @@
+The following tables compare general and technical information for notable computer cluster software . This software can be grossly separated in four categories: Job scheduler , nodes management, nodes installation and integrated stack (all the above).
+
+Table explanation
+
+Table Explanation

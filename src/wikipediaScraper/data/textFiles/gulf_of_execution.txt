@@ -1,0 +1,51 @@
+The Design of Everyday Things is a best-selling book by cognitive scientist and usability engineer Donald Norman . Originally published in 1988 with the title The Psychology of Everyday Things , it is often referred to by the initialisms POET and DOET . A new preface was added in 2002 and a revised and expanded edition was published in 2013.
+
+The book's premise is that design serves as the communication between object and user, and discusses how to optimize that conduit of communication in order to make the experience of using the object pleasurable. It argues that although people are often keen to blame themselves when objects appear to malfunction, it is not the fault of the user but rather the lack of intuitive guidance that should be present in the design.
+
+Norman uses case studies to describe the psychology behind what he deems good and bad design, and proposes design principles. The book spans several disciplines including behavioral psychology , ergonomics , and design practice.
+
+In the book, Norman introduced the term affordance as it applied to design, borrowing James J. Gibson 's concept from ecological psychology. In the revised edition of his book in 2013, he also introduced the concept of signifiers to clarify his definition of affordances. Examples of affordances are doors that can be pushed or pulled. These are the possible interactions between an object and its user. Examples of corresponding signifiers are flat plates on doors meant to be pushed, small finger-size push-buttons, and long and rounded bars we intuitively use as handles. As Norman used the term, a door affords pushing or pulling, and the plate or button signals that it is meant to be pushed, while the bar or handle signals pulling. Norman discussed door handles at length.
+
+He also popularized the term user-centered design , which he had previously referred to in User-Centered System Design in 1986. He used the term to describe design based on the needs of the user, leaving aside, what he deemed secondary issues like aesthetics . User-centered design involves simplifying the structure of tasks , making things visible , getting the mapping right , exploiting the powers of constraint , designing for error , explaining affordances, and seven stages of action . He went to great lengths to define and explain these terms in detail, giving examples following and going against the advice given and pointing out the consequences.
+
+Other topics of the book include:
+
+Seven stages of action are described in chapter two of the book. They include four stages of execution, three stages of evaluation:
+
+The history behind the action cycle starts from a conference in Italy attended by Donald Norman. This excerpt has been taken from the book The Design of Everyday Things :
+
+I am in Italy at a conference. I watch the next speaker attempt to thread a film onto a projector that he never used before. He puts the reel into place, then takes it off and reverses it. Another person comes to help. Jointly they thread the film through the projector and hold the free end, discussing how to put it on the takeup reel. Two more people come over to help and then another. The voices grow louder, in three languages: Italian, German and English. One person investigates the controls, manipulating each and announcing the result. Confusion mounts. I can no longer observe all that is happening. The conference organizer comes over. After a few moments he turns and faces the audience, who had been waiting patiently in the auditorium. "Ahem," he says, "is anybody expert in projectors?" Finally, fourteen minutes after the speaker had started to thread the film (and eight minutes after the scheduled start of the session) a blue-coated technician appears. He scowls, then promptly takes the entire film off the projector, rethreads it, and gets it working.
+
+Norman pondered on the reasons that made something like threading of a projector difficult to do. To examine this, he wanted to know what happened when something implied nothing. In order to do that, he examined the structure of an action. So to get something done, a notion of what is wanted – the goal that is to be achieved, needs to be started. Then, something is done to the world i.e. take action to move oneself or manipulate someone or something. Finally, the checking is required if the goal was made. This led to formulation of Stages of Execution and Evaluation.
+
+Execution formally means to perform or do something. Norman explains that a person sitting on an armchair while reading a book at dusk, might need more light when it becomes dimmer and dimmer. To do that, he needs to switch on the button of a lamp i.e. get more light (the goal ). To do this, one must need to specify on how to move one's body, how to stretch to reach the light switch and how to extend one's finger to push the button. The goal has to be translated into an intention, which in turn has to be made into an action sequence.
+
+Thus, formulation of stages of execution:
+
+Evaluation formally means to examine and calculate. Norman explains that after turning on the light, we evaluate if it is actually turned on. A careful judgement is then passed on how the light has affected our world i.e. the room in which the person is sitting on the armchair while reading a book.
+
+The formulation of the stages of evaluation can be described as:
+
+The difference between the intentions and the allowable actions is the gulf of execution .
+
+"Consider the movie projector example: one problem resulted from the Gulf of Execution. The person wanted to set up the projector. Ideally, this would be a simple thing to do. But no, a long, complex sequence was required. It wasn't all clear what actions had to be done to accomplish the intentions of setting up the projector and showing the film."
+
+In the gulf of execution is the gap between a user 's goal for action and the means to execute that goal. Usability has as one of its primary goals to reduce this gap by removing roadblocks and steps that cause extra thinking and actions that distract the user's attention from the task intended, thereby preventing the flow of his or her work, and decreasing the chance of successful completion of the task.
+
+This can be illustrated through the discussion of a VCR problem. Let us imagine that a user would like to record a television show. They see the solution to this problem as simply pressing the Record button. However, in reality, to record a show on a VCR, several actions must be taken:
+
+The difference between the user's perceived execution actions and the required actions is the gulf of execution.
+
+The gulf of evaluation reflects the amount of effort that the person must exert to interpret the physical state of the system and to determine how well the expectations and intentions have been met. In the gulf of evaluation is the degree to which the system or artifact provides representations that can be directly perceived and interpreted in terms of the expectations and intentions of the user . Or put differently, the gulf of evaluation is the difficulty of assessing the state of the system and how well the artifact supports the discovery and interpretation of that state. In the book, "The gulf is small when the system provides information about its state in a form that is easy to get, is easy to interpret, and matches the way the person thinks of the system".
+
+"In the movie projector example there was also a problem with the Gulf of Evaluation. Even when the film was in the projector, it was difficult to tell if it had been threaded correctly."
+
+The gulf of evaluation applies to the gap between an external stimulus and the time a person understands what it means. The gulf of evaluation stands for the psychological gap that must be crossed to interpret a user interface display, following the steps: interface → perception → interpretation → evaluation. Both "gulfs" were first mentioned in Donald Norman 's 1986 book User Centered System Design: New Perspectives on Human-computer Interaction.
+
+The seven-stage structure is referenced as design aid to act as a basic checklist for designers' questions to ensure that the Gulfs of Execution and Evaluation are bridged.
+
+The Seven Stages of relationship can be broken down into 4 main principles of good design:
+
+After a group of industrial designers felt affronted after reading an early draft, Norman rewrote the book to make it more sympathetic to the profession.
+
+The book was originally published with the title The Psychology of Everyday Things . In his preface to the 2002 edition, Norman has stated that his academic peers liked the original title, but believed the new title better conveyed the content of the book and better attracted interested readers.

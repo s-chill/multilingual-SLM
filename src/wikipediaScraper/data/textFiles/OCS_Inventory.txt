@@ -1,0 +1,9 @@
+Open Computer and Software Inventory Next Generation (OCS inventory NG) is free software that enables users to inventory IT assets . OCS-NG collects information about the hardware and software of networked machines running the OCS client program ("OCS Inventory Agent"). OCS can visualize the inventory through a web interface. Furthermore, OCS includes the capability of deploying applications on computers according to search criteria . Agent-side IpDiscover makes it possible to discover the entirety of networked computers and devices.
+
+The open-source OCS Inventory NG project started in late 2005 and produced its first release version of OCS Inventory in early 2007. Since version 1.0rc3, most of OCS Inventory functionality can be adapted or extended via a module system.
+
+The dialogue between OCS client machines and the server depends on the Hypertext Transfer Protocol (HTTP). The software formats data in XML . The management server uses Apache , MySQL and Perl . OCS runs on multiple platforms: under Unixes and under Microsoft Windows (95 or later). A web-interface written in PHP offers consultation of the inventory, user-rights management, and technical support features.
+
+In order to collect detailed information, one can install agents on the client machines in the inventory. Developers have made client agents available for:
+
+OCS Inventory consists of free software published under GNU GPL v2. The developers own the copyright.

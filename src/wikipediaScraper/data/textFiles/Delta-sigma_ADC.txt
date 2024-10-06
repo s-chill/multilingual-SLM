@@ -1,0 +1,161 @@
+Delta-sigma ( ΔΣ ; or sigma-delta , ΣΔ ) modulation is an oversampling method for encoding signals into low bit depth digital signals at a very high sample-frequency as part of the process of delta-sigma analog-to-digital converters (ADCs) and digital-to-analog converters (DACs). Delta-sigma modulation achieves high quality by utilizing a negative feedback loop during quantization to the lower bit depth that continuously corrects quantization errors and moves quantization noise to higher frequencies well above the original signal's bandwidth . Subsequent low-pass filtering for demodulation easily removes this high frequency noise and time averages to achieve high accuracy in amplitude which can be ultimately encoded as pulse-code modulation (PCM).
+
+Both ADCs and DACs can employ delta-sigma modulation. A delta-sigma ADC (e.g. Figure 1 top) encodes an analog signal using high-frequency delta-sigma modulation and then applies a digital filter to demodulate it to a high-bit digital output at a lower sampling-frequency. A delta-sigma DAC (e.g. Figure 1 bottom) encodes a high-resolution digital input signal into a lower-resolution but higher sample-frequency signal that may then be mapped to voltages and smoothed with an analog filter for demodulation. In both cases, the temporary use of a low bit depth signal at a higher sampling frequency simplifies circuit design and takes advantage of the efficiency and high accuracy in time of digital electronics .
+
+Primarily because of its cost efficiency and reduced circuit complexity, this technique has found increasing use in modern electronic components such as DACs, ADCs, frequency synthesizers , switched-mode power supplies and motor controllers . The coarsely-quantized output of a delta-sigma ADC is occasionally used directly in signal processing or as a representation for signal storage (e.g., Super Audio CD stores the raw output of a 1-bit delta-sigma modulator).
+
+While this article focuses on synchronous modulation, which requires a precise clock for quantization, asynchronous delta-sigma modulation instead runs without a clock.
+
+When transmitting an analog signal directly, all noise in the system and transmission is added to the analog signal, reducing its quality. Digitizing it enables noise-free transmission, storage, and processing. There are many methods of digitization.
+
+In Nyquist-rate ADCs, an analog signal is sampled at a relatively low sampling frequency just above its Nyquist rate (twice the signal's highest frequency) and quantized by a multi-level quantizer to produce a multi-bit digital signal . Such higher-bit methods seek accuracy in amplitude directly, but require extremely precise components and so may suffer from poor linearity.
+
+Oversampling converters instead produce a lower-bitdepth result at a much higher sampling frequency. This can achieve comparable quality by taking advantage of:
+
+Another key aspect given by oversampling is the frequency/resolution tradeoff. The decimation filter put after the modulator not only filters the whole sampled signal in the band of interest (cutting the noise at higher frequencies), but also reduces the sampling rate, and hence the representable frequency range, of the signal, while increasing the sample amplitude resolution. This improvement in amplitude resolution is obtained by a sort of averaging of the higher-data-rate bitstream.
+
+Delta modulation is an earlier related low-bit oversampling method that also uses negative feedback , but only encodes the derivative of the signal (its delta ) rather than its amplitude . The result is a stream of marks and spaces representing up or down of the signal's movement, which must be integrated to reconstruct the signal's amplitude. Delta modulation has several drawbacks. The differentiation alters the signal's spectrum by amplifying high-frequency noise, attenuating low-frequencies, and dropping the DC component. This makes its dynamic range and SNR inversely proportional to signal frequency. Delta modulation suffers from slope overload if signals move too fast. And it is susceptible to transmission disturbances that result in cumulative error .
+
+Delta-sigma modulation rearranges the integrator and quantizer of a delta modulator, so that the output carries information corresponding to the amplitude of the input signal instead of just its derivative. This also has the benefit of incorporating desirable noise shaping into the conversion process, to deliberately move quantization noise to frequencies higher than the signal. Since the accumulated error signal is lowpass filtered by the delta-sigma modulator's integrator before being quantized, the subsequent negative feedback of its quantized result effectively subtracts the low frequency components of the quantization noise while leaving the higher frequency components of the noise.
+
+In the specific case of a single-bit synchronous ΔΣ ADC, an analog voltage signal is effectively converted into a pulse frequency, or pulse density, which can be understood as pulse-density modulation (PDM). A sequence of positive and negative pulses, representing bits at a known fixed rate, is very easy to generate, transmit, and accurately regenerate at the receiver, given only that the timing and sign of the pulses can be recovered. Given such a sequence of pulses from a delta-sigma modulator, the original waveform can be reconstructed with adequate precision.
+
+The use of PDM as a signal representation is an alternative to PCM. Alternatively, the high frequency PDM can later be downsampled through a processed called decimation and requantized to convert it into a multi-bit PCM code at lower sampling frequency closer to the Nyquist rate of the frequency band of interest.
+
+The seminal paper combining feedback with oversampling to achieve delta modulation was by F. de Jager of Philips Research Laboratories in 1952.
+
+The principle of improving the resolution of a coarse quantizer by use of feedback, which is the basic principle of delta-sigma conversion, was first described in a 1954-filed patent by C. Chapin Cutler of Bell Labs . It was not named as such until a 1962 paper by Inose et al. of University of Tokyo , which came up with the idea of adding a filter in the forward path of the delta modulator. However, Charles B Brahm of United Aircraft Corp in 1961 filed a patent "Feedback integrating system" with a feedback loop containing an integrator with multi-bit quantization shown in its Fig 1.
+
+Wooley's "The Evolution of Oversampling Analog-to-Digital Converters" gives more history and references to relevant patents. Some avenues of variation (which may be applied in different combinations) are the modulator's order, the quantizer's bitdepth, the manner of decimation , and the oversampling ratio.
+
+Noise of the quantizer can be further shaped by replacing the quantizer itself with another ΔΣ modulator. This creates a 2 -order modulator, which can be rearranged in a cascaded fashion (Figure 2). This process can be repeated to increase the order even more.
+
+While 1 -order modulators are unconditionally stable, stability analysis must be performed for higher-order noise-feedback modulators. Alternatively, noise-feedforward configurations are always stable and have simpler analysis.
+
+The modulator can also be classified by the bit depth of its quantizer. A quantizer that distinguishes between N-levels is called a log 2 N bit quantizer. For example, a simple comparator has 2 levels and so is 1 bit quantizer; a 3-level quantizer is called a "1.5" bit quantizer; a 4-level quantizer is a 2-bit quantizer; a 5-level quantizer is called a 2.5-bit quantizer. Higher bit quantizers inherently produce less quantization noise.
+
+One criticism of 1-bit quantization is that adequate amounts of dither cannot be used in the feedback loop, so distortion can be heard under some conditions (more discussion at Direct Stream Digital § DSD vs. PCM ).
+
+Decimation is strongly associated with delta-sigma modulation, but is distinct and outside the scope of this article. The original 1962 paper didn't describe decimation. Oversampled data in the early days was sent as is. The proposal to decimate oversampled delta-sigma data using digital filtering before converting it into PCM audio was made by D. J. Goodman at Bell Labs in 1969, to reduce the ΔΣ signal from its high sampling rate while increasing its bit depth . Decimation may be done in a separate chip on the receiving end of the delta-sigma bit stream, sometimes by a dedicated module inside of a microcontroller , which is useful for interfacing with PDM MEMS microphones , though many ΔΣ ADC integrated circuits include decimation. Some microcontrollers even incorporate both the modulator and decimator.
+
+Decimation filters most commonly used for ΔΣ ADCs, in order of increasing complexity and quality, are:
+
+When a signal is quantized, the resulting signal can be approximated by addition of white noise with approximately equal intensity across the entire spectrum. In reality, the quantization noise is, of course, not independent of the signal and this dependence results in limit cycles and is the source of idle tones and pattern noise in delta-sigma converters. However, adding dithering noise (Figure 3) reduces such distortion by making quantization noise more random.
+
+ΔΣ ADCs reduce the amount of this noise in the baseband by spreading it out and shaping it so it is mostly in higher frequencies. It can then be easily filtered out with inexpensive digital filters, without high-precision analog circuits needed by Nyquist ADCs.
+
+Quantization noise in the baseband frequency range (from DC to 2 f 0 {\displaystyle 2f_{0}} ) may be reduced by increasing the oversampling ratio (OSR) defined by
+
+where f s {\displaystyle f_{\mathrm {s} }} is the sampling frequency and 2 f 0 {\displaystyle 2f_{0}} is the Nyquist rate (the minimum sampling rate needed to avoid aliasing, which is twice the original signal's maximum frequency f 0 {\displaystyle f_{0}} ). Since oversampling is typically done in powers of two, d {\displaystyle d} represents how many times OSR is doubled.
+
+As illustrated in Figure 4, the total amount of quantization noise is the same both in a Nyquist converter (yellow + green areas) and in an oversampling converter (blue + green areas). But oversampling converters distribute that noise over a much wider frequency range. The benefit is that the total amount of noise in the frequency band of interest is dramatically smaller for oversampling converters (just the small green area), than for a Nyquist converter (yellow + green total area).
+
+Figure 4 shows how ΔΣ modulation shapes noise to further reduce the amount of quantization noise in the baseband in exchange for increasing noise at higher frequencies (where it can be easily filtered out). The curves of higher-order ΔΣ modulators achieve even greater reduction of noise in the baseband.
+
+These curves are derived using mathematical tools called the Laplace transform (for continuous-time signals , e.g. in an ADC's modulation loop) or the Z-transform (for discrete-time signals , e.g. in a DAC's modulation loop). These transforms are useful for converting harder math from the time domain into simpler math in the complex frequency domain of the complex variable s = σ + j ω {\displaystyle {\text{s}}=\sigma +j\omega } (in the Laplace domain) or z = A e j ϕ {\displaystyle {\text{z}}=Ae^{j\phi }} (in the z-domain).
+
+Figure 5 represents the 1 -order ΔΣ ADC modulation loop (from Figure 1) as a continuous-time linear time-invariant system in the Laplace domain with the equation:
+
+[ in ( s ) − Δ Σ M ( s ) ] ⋅ 1 s + noise ( s ) = Δ Σ M ( s ) . {\displaystyle [{\text{in}}({\text{s}})-\Delta \Sigma {\text{M}}({\text{s}})]\cdot {\frac {1}{\text{s}}}+{\text{noise}}({\text{s}})=\Delta \Sigma {\text{M}}({\text{s}})\,.}
+
+The Laplace transform of integration of a function of time corresponds to simply multiplication by 1 s {\displaystyle {\tfrac {1}{\text{s}}}} in Laplace notation. The integrator is assumed to be an ideal integrator to keep the math simple, but a real integrator (or similar filter) may have a more complicated expression.
+
+The process of quantization is approximated as addition with a quantization error noise source. The noise is often assumed to be white and independent of the signal, though as quantization (signal processing) § Additive noise model explains that is not always a valid assumption (particularly for low-bit quantization).
+
+Since the system and Laplace transform are linear, the total behavior of this system can be analyzed by separating how it affects the input from how it affects the noise:
+
+Δ Σ M total ( s ) = Δ Σ M in ( s ) + Δ Σ M noise ( s ) . {\displaystyle \Delta \Sigma {\text{M}}_{\text{total}}({\text{s}})=\Delta \Sigma {\text{M}}_{\text{in}}({\text{s}})+\Delta \Sigma {\text{M}}_{\text{noise}}({\text{s}})\,.}
+
+To understand how the system affect the input signal only, the noise is temporarily imagined to be 0:
+
+[ in ( s ) − Δ Σ M in ( s ) ] ⋅ 1 s + 0 = Δ Σ M in ( s ) , {\displaystyle [{\text{in}}({\text{s}})-\Delta \Sigma {\text{M}}_{\text{in}}({\text{s}})]\cdot {\frac {1}{\text{s}}}+0=\Delta \Sigma {\text{M}}_{\text{in}}({\text{s}})\,,}
+
+which can be rearranged to yield the following transfer function :
+
+Δ Σ M in ( s ) in ( s ) = 1 s 1 + 1 s = 1 s + 1 . {\displaystyle {\frac {\Delta \Sigma {\text{M}}_{\text{in}}({\text{s}})}{{\text{in}}({\text{s}})}}={\frac {\tfrac {1}{\text{s}}}{1+{\tfrac {1}{\text{s}}}}}={\frac {1}{{\text{s}}+1}}\,.}
+
+This transfer function has a single pole at s = -1 {\displaystyle {\text{s}}={\text{-1}}} in the complex plane , so it effectively acts as a 1 -order low-pass filter on the input signal. (Note: its cutoff frequency could be adjusted as desired by including multiplication by a constant in the loop).
+
+To understand how the system affects the noise only, the input instead is temporarily imagined to be 0:
+
+[ 0 − Δ Σ M noise ( s ) ] ⋅ 1 s + noise ( s ) = Δ Σ M noise ( s ) , {\displaystyle [0-\Delta \Sigma {\text{M}}_{\text{noise}}({\text{s}})]\cdot {\frac {1}{\text{s}}}+{\text{noise}}({\text{s}})=\Delta \Sigma {\text{M}}_{\text{noise}}({\text{s}})\,,}
+
+which can be rearranged to yield the following transfer function:
+
+Δ Σ M noise ( s ) noise ( s ) = 1 1 + 1 s = s s + 1 . {\displaystyle {\frac {\Delta \Sigma {\text{M}}_{\text{noise}}({\text{s}})}{{\text{noise}}({\text{s}})}}={\frac {1}{1+{\tfrac {1}{\text{s}}}}}={\frac {s}{{\text{s}}+1}}\,.}
+
+This transfer function has a single zero at s = 0 {\displaystyle {\text{s}}=0} and a single pole at s = -1 , {\displaystyle {\text{s}}={\text{-1}},} so the system effectively acts as a high-pass filter on the noise that starts at 0 at DC , then gradually rises until it reaches the cutoff frequency, and then levels off.
+
+The synchronous ΔΣ DAC's modulation loop (Figure 6) meanwhile is in discrete-time and so its analysis is in the z-domain. It is very similar to the above analysis in Laplace domain and produces similar curves. Note: many sources also analyze a ΔΣ ADC's modulation loop in the z-domain, which implicitly treats the continuous analog input as a discrete-time signal. This may be a valid approximation provided that the input signal is already bandlimited and can be assumed to be not changing on time scales higher than the sampling rate. It is particularly appropriate when the modulator is implemented as a switched capacitor circuit, which work by transferring charge between capacitors in clocked time steps.
+
+Integration in discrete-time can be an accumulator which repeatedly sums its input x [ n ] {\displaystyle x[n]} with the previous result of its summation y [ n ] = x [ n ] + y [ n − 1 ] . {\displaystyle y[n]=x[n]+y[n-1].} This is represented in the z-domain by feeding back a summing node's output y ( z ) {\displaystyle y({\text{z}})} though a 1-clock cycle delay stage (notated as z -1 {\displaystyle {\text{z}}^{\text{-1}}} ) into another input of the summing node, yielding y ( z ) = x ( z ) + y ( z ) ⋅ z -1 {\displaystyle y({\text{z}})=x({\text{z}})+y({\text{z}})\cdot {\text{z}}^{\text{-1}}} . Its transfer function 1 1 − z -1 {\displaystyle {\tfrac {1}{1-{\text{z}}^{\text{-1}}}}} is often used to label integrators in block diagrams.
+
+In a ΔΣ DAC, the quantizer may be called a requantizer or a digital-to-digital converter (DDC), because its input is already digital and quantized but is simply reducing from a higher bitdepth to a lower bitdepth digital signal. This is represented in the z-domain by another z -1 {\displaystyle {\text{z}}^{\text{-1}}} delay stage in series with adding quantization noise. (Note: some sources may have swapped ordering of the z -1 {\displaystyle {\text{z}}^{\text{-1}}} and additive noise stages.)
+
+The modulator's z-domain equation arranged like Figure 6 is: [ in ( z ) − Δ Σ M ( z ) ] ⋅ 1 1 − z -1 ⋅ z -1 + noise ( z ) = Δ Σ M ( z ) , {\displaystyle [{\text{in}}({\text{z}})-\Delta \Sigma {\text{M}}({\text{z}})]\cdot {\frac {1}{1-{\text{z}}^{\text{-1}}}}\cdot {\text{z}}^{\text{-1}}+{\text{noise}}({\text{z}})=\Delta \Sigma {\text{M}}({\text{z}})\,,} which can be rearranged to express the output in terms of the input and noise: Δ Σ M ( z ) = in ( z ) ⋅ z -1 + noise ( z ) ⋅ ( 1 − z -1 ) . {\displaystyle \Delta \Sigma {\text{M}}({\text{z}})={\text{in}}({\text{z}})\cdot {\text{z}}^{\text{-1}}+{\text{noise}}({\text{z}})\cdot (1-{\text{z}}^{\text{-1}})\,.} The input simply comes out of the system delayed by one clock cycle. The noise term's multiplication by ( 1 − z -1 ) {\displaystyle (1-{\text{z}}^{\text{-1}})} represents a first difference backward filter (which has a single pole at the origin and a single zero at z = 1 {\displaystyle {\text{z}}{=}1} ) and thus high-pass filters the noise.
+
+Without getting into the mathematical details, cascading Θ {\displaystyle \Theta } integrators to create an Θ th {\displaystyle \Theta ^{\text{th}}} -order modulator results in: Δ Σ M Θ ( z ) = in ( z ) ⋅ z -1 + noise ( z ) ⋅ ( 1 − z -1 ) Θ . {\displaystyle \Delta \Sigma {\text{M}}_{\Theta }({\text{z}})={\text{in}}({\text{z}})\cdot {\text{z}}^{\text{-1}}+{\text{noise}}({\text{z}})\cdot (1-{\text{z}}^{\text{-1}})^{\Theta }\,.} Since this first difference backwards filter is now raised to the power Θ {\displaystyle \Theta } it will have a steeper noise shaping curve, for improved properties of greater attenuation in the baseband, so a dramatically larger portion of the noise is above the baseband and can be easily filtered by an ideal low-pass filter.
+
+The theoretical signal-to-noise ratio (SNR) in decibels (dB) for a sinusoid input travelling through a Θ th {\displaystyle \Theta ^{\text{th}}} -order modulator with a 2 d {\displaystyle 2^{d}} OSR (and followed by an ideal low-pass decimation filter) can be mathematically derived to be approximately:
+
+SNR dB ≈ 3.01 ⋅ ( 2 ⋅ Θ + 1 ) ⋅ d − 9.36 ⋅ Θ − 2.76 . {\displaystyle {\text{SNR}}_{\text{dB}}\approx 3.01\cdot (2\cdot \Theta +1)\cdot d-9.36\cdot \Theta -2.76\,.} The theoretical effective number of bits (ENOB) resolution is thus improved by Θ + 1 2 {\textstyle \Theta +{\tfrac {1}{2}}} bits when doubling the OSR (incrementing d {\displaystyle d} ), and by d − 3 2 {\textstyle d-{\tfrac {3}{2}}} bits when incrementing the order. For comparison, oversampling a Nyquist ADC (without any noise shaping) only improves its ENOB by 1 2 {\displaystyle {\tfrac {1}{2}}} bits for every doubling of the OSR, which is only 1 ⁄ 3 of the ENOB growth rate of a 1 -order ΔΣM.
+
+These datapoints are theoretical. In practice, circuits inevitably experience other noise sources that limit resolution, making the higher-resolution cells impractical.
+
+Delta-sigma modulation is related to delta modulation by the following steps (Figure 7):
+
+If quantization were homogeneous (e.g., if it were linear ), the above would be a sufficient derivation of their hypothetical equivalence. But because the quantizer is not homogeneous, delta-sigma is inspired by delta modulation, but the two are distinct in operation.
+
+From the first block diagram in Figure 7, the integrator in the feedback path can be removed if the feedback is taken directly from the input of the low-pass filter. Hence, for delta modulation of input signal v in , the low-pass filter sees the signal
+
+However, delta-sigma modulation of the same input signal places at the low-pass filter
+
+In other words, doing delta-sigma modulation instead of delta modulation has effectively swapped the ordering of the integrator and quantizer operations. The net effect is a simpler implementation that has the profound added benefit of shaping the quantization noise to be mostly in frequencies above the signals of interest. This effect becomes more dramatic with increased oversampling , which allows for quantization noise to be somewhat programmable. On the other hand, delta modulation shapes both noise and signal equally.
+
+Additionally, the quantizer (e.g., comparator ) used in delta modulation has a small output representing a small step up and down the quantized approximation of the input while the quantizer used in delta-sigma must take values outside of the range of the input signal.
+
+In general, delta-sigma has some advantages versus delta modulation:
+
+Delta-sigma ADCs vary in complexity. The below circuit focuses on a simple 1st-order, 2-level quantization synchronous delta-sigma ADC without decimation.
+
+To ease understanding, a simple circuit schematic (Figure 8a) using ideal elements is simulated (Figure 8b voltages). It is functionally the same Analog-to-Digital ΔΣ modulation loop in Figure 1 (note: the 2-input inverting integrator combines the summing junction and integrator and produces a negative feedback result, and the flip-flop combines the sampled quantizer and conveniently naturally functions as a 1-bit DAC too).
+
+The 20 kHz input sine wave s(t) is converted to a 1-bit PDM digital result Q(t) . 20 kHz is used as an example because that is considered the upper limit of human hearing .
+
+This circuit can be laid out on a breadboard with inexpensive discrete components (note some variations use different biasing and use simpler RC low-pass filters for integration instead of op amps ).
+
+For simplicity, the D flip-flop is powered by dual supply voltages of V DD = +1 V and V SS = -1 V, so its binary output Q(t) is either +1 V or -1 V.
+
+The 2-input inverting op amp integrator combines s(t) with Q(t) to produce Ɛ(t) : ε ( t ) = − 1 R C ∫ ( s ( t ) + Q ( t ) ) d t . {\displaystyle \varepsilon (t)=-{\frac {1}{RC}}\int (s(t)+Q(t))dt.} The Greek letter epsilon is used because Ɛ(t) contains the accumulated error that is repeatedly corrected by the feedback mechanism. While both its inputs s(t) and Q(t) vary between -1 and 1 volts, Ɛ(t) instead only varies by a couple millivolts about 0 V.
+
+Because of the integrator's negative sign, when Ɛ(t) next gets sampled to produce Q(t) , the + Q(t) in this integral actually represents negative feedback from the previous clock cycle.
+
+An ideal D flip-flop samples Ɛ(t) at the clock rate of 1 MHz . The scope view (Figure 8b) has a minor division equal to the sampling period of 1 μs, so every minor division corresponds to a sampling event. Since the flip-flop is assumed to be ideal, it treats any input voltage greater than 0 V as logical high and any input voltage smaller than 0 V as logical low, no matter how close it is to 0 V (ignoring issues of sample-and-hold time violations and metastability ).
+
+Whenever a sampling event occurs:
+
+Q(t) is sent out as the resulting PDM output and also fed back to the 2-input inverting integrator.
+
+The rightmost integrator performs digital-to-analog conversion on Q(t) to produce a demodulated analog output r(t) , which reconstructs the original sine wave input as piece-wise linear diagonal segments. Although r(t) appears coarse at this 50x oversampling rate, r(t) can be low-pass filtered to isolate the original signal. As the sampling rate is increased relative to the input signal's maximum frequency, r(t) will more closely approximate the original input s(t) .
+
+It is worth noting that if no decimation ever took place, the digital representation from a 1-bit delta-sigma modulator is simply a PDM signal, which can easily be converted to analog using a low-pass filter , as simple as a resistor and capacitor .
+
+However, in general, a delta-sigma DAC converts a discrete time series signal of digital samples at a high-bitdepth into a low-bitdepth (often 1-bit) signal, usually at a much higher sampling rate. That delta-modulated signal can then be accurately converted into analog (since lower bitdepth DACs are easier to be highly-linear), which then goes through inexpensive low-pass filtering in the analog domain to remove the high-frequency quantization noise inherent to the delta-sigma modulation process.
+
+As the discrete Fourier transform and discrete-time Fourier transform articles explain, a periodically-sampled signal inherently contains multiple higher frequency copies or "images" of the signal. It is often desirable to remove these higher-frequency images prior to the performing the actual delta-sigma modulation stage, in order to ease requirements on the eventual analog low-pass filter. This can be done by upsampling using an interpolation filter and is often the first step prior to performing delta-sigma modulation in DACs. Upsampling is strongly associated with delta-sigma DACs but not strictly part of the actual delta-sigma modulation stage (similar to how decimation is strongly associated with delta-sigma ADCs but not strictly part of delta-sigma modulation either), and the details are out of the scope of this article.
+
+The modulation loop in Figure 6 in § Noise shaping can easily be laid out with basic digital elements of a subtractor for the difference, an accumulator for the integrator, and a lower-bit register for the quantization, which carries over the most-significant bit(s) from the integrator to be the feedback for the next cycle.
+
+This simple 1 -order modulation can be improved by cascading two or more overflowing accumulators, each of which is equivalent to a 1 -order delta-sigma modulator. The resulting multi-stage noise shaping (MASH) structure has a steeper noise shaping property, so is commonly used in digital audio. The carry outputs are combined through summations and delays to produce a binary output, the width of which depends on the number of stages (order) of the MASH. Besides its noise shaping function, it has two more attractive properties:
+
+The technique was first presented in the early 1960s by professor Yasuhiko Yasuda while he was a student at the University of Tokyo . The name delta-sigma comes directly from the presence of a delta modulator and an integrator, as firstly introduced by Inose et al. in their patent application. That is, the name comes from integrating or summing differences , which, in mathematics, are operations usually associated with Greek letters sigma and delta respectively.
+
+In the 1970s, Bell Labs engineers used the terms "sigma-delta" because the precedent was to name variations on delta modulation with adjectives preceding "delta", and an Analog Devices magazine editor justified in 1990 that the functional hierarchy is "sigma-delta", because it computes the integral of a difference.
+
+Both names sigma-delta and delta-sigma are frequently used.
+
+Kirkkert and Miller published a continuous-time variant called "Asynchronous Delta Sigma Modulation" (ADSM or ASDM) in 1975 which uses either a Schmitt trigger (i.e. a comparator with hysteresis ) or (as the paper argues is equivalent) a comparator with fixed delay.
+
+In the example in Figure 9, when the integral of the error exceeds its limits, the output changes state, producing a pulse-width modulated (PWM) output wave.
+
+Amplitude information is converted, without quantization noise, into time information of the output PWM. To convert this continuous time PWM to discrete time, the PWM may be sampled by a time-to-digital converter, whose limited resolution adds noise which can be shaped by feeding it back.

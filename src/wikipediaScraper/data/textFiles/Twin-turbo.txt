@@ -1,0 +1,25 @@
+In an internal combustion engine , twin-turbo is a layout in which two turbochargers are used to compress the intake fuel/air mixture (or intake air, in the case of a direct-injection engine ). The most common layout features two identical or mirrored turbochargers in parallel, each processing half of a V engine 's produced exhaust through independent piping. The two turbochargers can either be matching or different sizes.
+
+There are three types of turbine setups used for twin-turbo setups:
+
+These can be applied to any of the five types of compressor setups (which theoretically could have 15 different setups):
+
+In a parallel configuration, two equally-sized turbochargers each receive half of the exhaust gases . Some designs combine the intake charge from each turbocharger into a single intake manifold , while others use a separate intake manifold for each turbocharger.
+
+Parallel configurations are well suited to V6 and V8 engines since each turbocharger can be assigned to one cylinder bank, reducing the amount of exhaust piping needed. In this case, each turbocharger is fed exhaust gases by a separate exhaust manifold. For four-cylinder engines and straight-six engines , both turbochargers can be mounted to a single exhaust manifold.
+
+The aim of using parallel twin-turbos is to reduce turbo lag by being able to use smaller turbochargers than if a single turbocharger was used for the engine. On engines with multiple cylinder banks (e.g. V engines and flat engines ) use of parallel twin-turbos can also simplify the exhaust system.
+
+The 1981–1994 Maserati Biturbo was the first production car to use twin-turbochargers.
+
+Sequential turbocharging is a set-up in which the engine uses one turbocharger for lower engine speeds, and a second or both turbochargers at higher engine speeds. This system is intended to overcome the limitation of large turbochargers providing insufficient boost at low RPM. On the other hand, smaller turbos are effective at low RPM (when there is less kinetic energy present in the exhaust gases) but are unable to provide the quantity of compressed intake gases required at higher RPM. Therefore, sequential turbocharger systems provide a way to decrease turbo lag without compromising power output at high RPM.
+
+The system is arranged so that a small ("primary") turbocharger is active while the engine is operating at low RPM, which reduces the boost threshold (RPM at which effective boost is provided) and turbo lag. As RPM increases, a small amount of exhaust gas is fed to the larger ("secondary") turbocharger, to bring it up to operating speed. Then at high RPM, all of the exhaust gases are directed to the secondary turbocharger, so that it can provide the boost required by the engine at high RPM.
+
+The first production car to use sequential turbocharging was the 1986–1988 Porsche 959 , which used sequential twin-turbos on its flat-six engine.
+
+Serial turbocharging is where the turbochargers are connected in series with the output of the first turbocharger then being further compressed by the second turbocharger and in some cases powering the larger turbine.
+
+A serial turbo can also be of use to a system where the output pressure must be greater than can be provided by a single turbo, commonly called a compound twin-turbo system.  In this case, multiple similarly sized turbochargers are used in sequence, but constantly operating.  The first turbo boosts provides the initial compression (for example to three times the intake pressure).  Subsequent turbos take the charge from the previous stage and compress it further (for example to an additional three times intake pressure, for a total boost of nine times atmospheric pressure).
+
+A downside of staged turbocharging is that it often leads to large amounts of turbo lag, therefore it is mostly used on piston engine aircraft which usually do not need to rapidly raise and lower engine speed. (and thus where turbo lag is not a primary design consideration), and where the intake pressure is quite low due to low atmospheric pressure at altitude, requiring a very high pressure ratio. High-performance diesel engines also sometimes use this configuration, since diesel engines do not suffer from pre-ignition issues and can therefore use high boost pressures.

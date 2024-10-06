@@ -1,0 +1,11 @@
+The UKeiG Strix award is an annual award for outstanding contributions to the field of information retrieval and is presented in memory of Dr. Tony Kent, a past Fellow of the Institute of Information Scientists (IIS), who died in 1997. Tony Kent made a major contribution to the development of information science and information services both in the UK and internationally, particularly in the field of chemistry. The name 'Strix' was chosen to reflect Tony's interest in ornithology, and as the name of the last and most successful information retrieval packages that he created.
+
+The Award is made in partnership with the International Society for Knowledge Organisation UK (ISKO UK ), the Royal Society of Chemistry Chemical Information and Computer Applications Group (RSC ) and the British Computer Society Information Retrieval Specialist Group (BCS IRSG ).
+
+The Strix Award is given in recognition of an outstanding contribution to the field of information retrieval that meets one of the following criteria:
+
+Recipients so far have been: Source
+
+Since 2014, the winner of the Tony Kent Strix Award in year _n_ is giving the Tony Kent Strix Annual Lecture in year _n+1_.  Annual lectures so far:
+
+UKeiG is a special interest group of the Chartered Institute of Library and Information Professionals .

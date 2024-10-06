@@ -1,0 +1,5 @@
+Object-Oriented Graphics Rendering Engine ( OGRE ) is a scene-oriented , real-time , open-source, 3D rendering engine.
+
+Ogre has been ported to Windows, macOS, Linux, PocketPC, Xbox, and PS3.
+
+Since 2019, Ogre consists of two forks developed separately, namely Ogre (also called Ogre1), which is based on the original 1.x codebase and Ogre Next (also called Ogre2), which is based on the 2.x development efforts.

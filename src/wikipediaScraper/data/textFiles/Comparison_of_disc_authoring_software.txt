@@ -1,0 +1,15 @@
+This comparison of disc authoring software compares different optical disc authoring software .
+
+Basic general information about the application.
+
+The list is not exhaustive, but rather reflects the most common operating systems .
+
+Which single-sided optical media types the application supports. The list is not exhaustive, but rather reflects the most common types in use (i.e. not the now defunct HD DVD-R & UDO )
+
+Which filesystems the application supports.
+
+Information which Disk image formats an application supports.
+
+Support for Rainbow book standards:
+
+Information which User interfaces an application supports.

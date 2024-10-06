@@ -1,0 +1,55 @@
+The Linux Foundation ( LF ) is a non-profit organization established in 2000 to support Linux development and open-source software projects.
+
+The Linux Foundation started as Open Source Development Labs in 2000 to standardize and promote the open-source operating system kernel Linux . It merged with Free Standards Group in 2007. The foundation has since evolved to promote open-source projects beyond the Linux OS as a "foundation of foundations" that hosts a variety of projects spanning topics such as cloud , networking, blockchain , and hardware. The foundation also hosts annual educational events among the Linux community, including the Linux Kernel Developers Summit and the Open Source Summit .
+
+As of September 2015 , the total economic value of the development costs of Linux Foundation Collaborative Projects was estimated at $5 billion.
+
+For the Linux kernel community, the Linux Foundation hosts its IT infrastructure and organizes conferences such as the Linux Kernel Summit and the Linux Plumbers Conference. It also hosts a Technical Advisory Board made up of Linux kernel developers. One of these developers has been appointed to sit on the Linux Foundation board.
+
+In January 2016, the Linux Foundation announced a partnership with Goodwill Central Texas to help hundreds of disadvantaged individuals from underserved communities and a variety of backgrounds get the training they need to start careers in Linux IT.
+
+In July 2020, the Linux Foundation announced an initiative allowing open-source communities to create Open Standards using tools and methods inspired by open-source developers.
+
+The Core Infrastructure Initiative (CII), is a project managed by the Linux Foundation that enables technology companies, industry stakeholders, and esteemed developers to collaboratively identify and fund critical open-source projects in need of assistance. In June 2015, the organization announced financial support of nearly $500,000 for three new projects to better support critical security elements of the global information infrastructure. In May 2016, CII launched its Best Practice Badge program to raise awareness of development processes and project governance steps that will help projects have better security outcomes. In May 2017, CII issued its 100th badge to a passing project.
+
+Introduced in October 2017, the Community Data License Agreement (CDLA) is a legal framework for sharing data. There are two initial CDLA licenses:
+
+On March 3, 2009, the Linux Foundation announced that they would take over the management of Linux.com from its previous owners, SourceForge, Inc .
+
+The site was relaunched on May 13, 2009, shifting away from its previous incarnation as a news site to become a central source for Linux tutorials, information, software, documentation, and answers across the server, desktop/netbook, mobile, and embedded areas. It also includes a directory of Linux software and hardware.
+
+Much like Linux itself, Linux.com plans to rely on the community to create and drive content and conversation.
+
+In 2020 amidst the COVID-19 pandemic , the Linux Foundation announced the LFPH, a program dedicated to advancing and supporting the virus contact tracing work led by Google and Apple and their Bluetooth notification systems. The LFPH is focusing its efforts on public health applications, including the effort's first initiative: a notification app intended for governments wanting to launch their privacy-focused exposure notification networks. As of today, LFPH hosts two contact-tracing apps.
+
+In September 2020, The Linux Foundation announced the LF Climate Finance Foundation (LFCF), a new initiative "to encourage investment in AI-enhanced open source analytics to address climate change ." LFCF plans to build a platform that will utilize open-source open data to help the financial investment, NGO, and academia sectors to help better model companies’ exposure to climate change. Allianz , Amazon, Microsoft, and S&P Global will be the initiative's founding members.
+
+LF Energy is an initiative launched by the Linux Foundation in 2018 to improve the power grid .
+
+The Linux Foundation Training Program features instructors and content from the leaders of the Linux developer and open-source communities.
+
+Participants receive Linux training that is vendor-neutral and created with oversight from leaders of the Linux development community. The Linux Foundation's online and in-person training programs aim to deliver broad, foundational knowledge and networking opportunities.
+
+In March 2014, the Linux Foundation and edX partnered to offer a free, massive open online class titled Introduction to Linux. This was the first in a series of ongoing free offerings from both organizations whose current catalogue of MOOCs include Intro to DevOps, Intro to Cloud Foundry and Cloud Native Software Architecture, Intro to Apache Hadoop, Intro to Cloud Infrastructure Technologies, and Intro to OpenStack.
+
+In December 2015, the Linux Foundation introduced a self-paced course designed to help prepare administrators for the OpenStack Foundation's Certified OpenStack Administrator exam.
+
+As part of a partnership with Microsoft, it was announced in December 2015 that the Linux on Azure certification would be awarded to individuals who pass both the Microsoft Exam 70-533 (Implementing Microsoft Azure Infrastructure Solutions) and the Linux Foundation Certified System Administrator (LFCS) exam.
+
+In early 2017, at the annual Open Source Leadership Summit, it was announced that the Linux Foundation would begin offering an Inclusive Speaker Orientation course in partnership with the National Center for Women & Information Technology. The course is designed to give participants "practical skills to promote inclusivity in their presentations."
+
+In September 2020, the Linux Foundation released a free serverless computing training course with CNCF. It is taught by Alex Ellis, founder of OpenFaaS.
+
+Among many other organizations with similar offerings, The Linux Foundation has reported a 40% increase in demand for their online courses in 2020 during the coronavirus pandemic and the resulting social-distancing measures.
+
+The patent commons consists of all patented software which has been made available to the open source community. For software to be considered to be in the commons the patent owner must guarantee that developers will not be sued for infringement, though there may be some restrictions on the use of the patented code. The concept was first given substance by Red Hat in 2001 when it published its Patent Promise.
+
+The Patent Commons Project was launched on November 15, 2005, by the Open Source Development Labs (OSDL). The core of the project is an online patent commons reference library aggregating and documenting information about patent-related pledges and other legal solutions directed at the open-source software community. As of 2015 , the project listed 53 patents.
+
+The Linux Foundation's Open Compliance Program provides an array of programs for open-source software licensing compliance. The focus of this initiative is to educate and assist developers (and their companies) on licensing requirements, to make it easier to create new software. The program consists primarily of self-administered training modules, but it is also meant to include automated tools to help programmatically identify license compliance issues.
+
+Funding for the Linux Foundation comes primarily from its Platinum Members, who pay US$500,000 per year according to Schedule A in LF's bylaws, adding up to US$7.5 million. The Gold Members contribute a combined total of US$1.2 million and Silver members contribute between US$5,000 and US$20,000 based on the amount of employees, summing up to at least US$6,240,000.
+
+As of June 2024, the foundation collected annual fees worth at least US$14,940,000.
+
+By early 2018, the Linux Foundation's website stated that it "uses [donations] in part to help fund the infrastructure and fellows (like Linus Torvalds ) who help develop the Linux kernel."

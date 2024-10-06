@@ -1,0 +1,31 @@
+Hello, and welcome to WikiProject Reliability . This WikiProject is dedicated to improving the reliability of Wikipedia articles. We ensure that articles are supported by reliable sources , answer inquiries on the reliable sources noticeboard , and maintain a list of frequently discussed sources . This project works to achieve the goals of the verifiability and no original research policies. If you would like to help, please join the project, participate on the talk page and see the open tasks below.
+
+This WikiProject covers all articles on Wikipedia.
+
+If the article has only one reference or external link (that is related to the article content), use {{ one source }} to put the article in Category:Articles lacking sources .
+
+For an article with partial sources, add the templates {{ refimprove }} or {{ primary sources }} . This will automatically add the article to Category:Articles needing additional references or Category:Articles lacking reliable references .
+
+For an article with questionable resources, add the templates {{ verify source }} or {{ verify credibility }} to put the article in to Category:Wikipedia articles needing factual verification .
+
+For an article with small numbers of statements lacking references, add the template {{ citation needed }} or {{ citations missing }} . This will automatically add the article to Category:Articles with unsourced statements .
+
+Other maintenance templates are available at Category:Citation and verifiability maintenance templates .
+
+There are a number of different Wikipedia Backlog categories that help track the existing backlog of referencing activities. They fall into two major groups, Lacking references and Ensuring accuracy through existing references.
+
+At the moment, there are over 528,275 articles with "Citation needed" statements. They are some of the easiest referencing issues to solve, because you are frequently looking for a targeted and singular reference. You can browse the whole list of these articles at Category:All articles with unsourced statements .
+
+With 528,275 statements that need WP:Verification , sometimes it's hard to choose which article to work on. The tool Citation Hunt makes that easier by suggesting random articles, which you can sort by topical category membership.
+
+If you wish to join the project, please add your name to the list with: Join WikiProject Reliability
+
+The WikiProject Reliability userbox can be added with {{ User WikiProject Reliability }} , which shows:
+
+To invite a user to WikiProject Reliability, use {{ subst:WikiProject Reliability invite }} , which displays:
+
+Use {{ subst:WikiProject Reliability invite |heading=y}} to include a section heading before the message.
+
+To include a page under WikiProject Reliability, add {{ WikiProject Reliability }} to the top of the corresponding talk page, which shows:
+
+This also adds the page to Category:Wikipedia reliable sources .

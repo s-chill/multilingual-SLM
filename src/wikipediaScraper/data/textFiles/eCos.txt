@@ -1,0 +1,11 @@
+The Embedded Configurable Operating System ( eCos ) is a free and open-source real-time operating system intended for embedded systems and applications which need only one process with multiple threads . It is designed to be customizable to precise application requirements of run-time performance and hardware needs. It is implemented in the programming languages C and C++ and has compatibility layers and application programming interfaces for Portable Operating System Interface ( POSIX ) and The Real-time Operating system Nucleus ( TRON ) variant μITRON . eCos is supported by popular SSL/TLS libraries such as wolfSSL , thus meeting all standards for embedded security.
+
+eCos was designed for devices with memory sizes in the range of a few tens or several hundred kilobytes , or for applications with real-time requirements.
+
+eCos runs on a wide variety of hardware platforms, including ARM , CalmRISC, FR-V , Hitachi H8 , IA-32 , Motorola 68000 , Matsushita AM3x, MIPS , NEC V850 , Nios II , PowerPC , SPARC , and SuperH .
+
+The eCos distribution includes RedBoot , an open source application that uses the eCos hardware abstraction layer to provide bootstrap firmware for embedded systems .
+
+eCos was initially developed in 1997 by Cygnus Solutions which was later bought by Red Hat . In early 2002, Red Hat ceased development of eCos and laid off the staff of the project. Many of the laid-off staff continued to work on eCos and some formed their own companies providing services for the software. In January 2004, at the request of the eCos developers, Red Hat agreed to transfer the eCos copyrights to the Free Software Foundation in October 2005, a process finally completed in May 2008.
+
+The eCosPro real-time operating system is a commercial fork of eCos created by eCosCentric which incorporates proprietary software components. It is claimed as a "stable, fully tested, certified and supported version", with additional features that are not released as free software. On Pi Day 2017, eCosCentric announced they had ported eCosPro to all of the Raspberry Pi models, with demonstrations at the Embedded World trade fair in Nuremberg (Germany) and releases free for non-commercial uses to follow.

@@ -1,0 +1,79 @@
+Tcl (pronounced " tickle " or as an initialism ) is a high-level , general-purpose , interpreted , dynamic programming language . It was designed with the goal of being very simple but powerful. Tcl casts everything into the mold of a command , even programming constructs like variable assignment and procedure definition. Tcl supports multiple programming paradigms , including object-oriented , imperative , functional , and procedural styles.
+
+It is commonly used embedded into C applications, for rapid prototyping , scripted applications, GUIs, and testing. Tcl interpreters are available for many operating systems , allowing Tcl code to run on a wide variety of systems. Because Tcl is a very compact language, it is used on embedded systems platforms, both in its full form and in several other small-footprint versions.
+
+The popular combination of Tcl with the Tk extension is referred to as Tcl/Tk (pronounced "tickle teak" or as an initialism ) and enables building a graphical user interface (GUI) natively in Tcl. Tcl/Tk is included in the standard Python installation in the form of Tkinter .
+
+The Tcl programming language was created in the spring of 1988 by John Ousterhout while he was working at the University of California, Berkeley . Originally "born out of frustration", according to the author, with programmers devising their own languages for extending electronic design automation (EDA) software and, more specifically, the VLSI design tool Magic , which was a professional focus for John at the time. Later Tcl gained acceptance on its own. Ousterhout was awarded the ACM Software System Award in 1997 for Tcl/Tk.
+
+The name originally comes from T ool C ommand L anguage, but is conventionally written Tcl rather than TCL .
+
+Tcl conferences and workshops are held in both the United States and Europe. Several corporations, including FlightAware use Tcl as part of their products.
+
+Tcl's features include
+
+Safe-Tcl is a subset of Tcl that has restricted features so that Tcl scripts cannot harm their hosting machine or application. File system access is limited and arbitrary system commands are prevented from execution. It uses a dual interpreter model with the untrusted interpreter running code in an untrusted script. It was designed by Nathaniel Borenstein and Marshall Rose to include active messages in e-mail. Safe-Tcl can be included in e-mail when the application/safe-tcl and multipart/enabled-mail are supported. The functionality of Safe-Tcl has since been incorporated as part of the standard Tcl/Tk releases.
+
+The syntax and semantics of Tcl are covered by twelve rules known as the Dodekalogue.
+
+A Tcl script consists of a series of command invocations. A command invocation is a list of words separated by whitespace and terminated by a newline or semicolon. The first word is the name of a command, which may be built into the language, found in an available library , or defined in the script itself. The subsequent words serve as arguments to the command:
+
+The following example uses the puts (short for "put string") command to display a string of text on the host console:
+
+This sends the string "Hello, World!" to the standard output device along with an appended newline character.
+
+Variables and the results of other commands can be substituted into strings, such as in this example which uses the set and expr commands to store the result of a calculation in a variable (note that Tcl does not use = as an assignment operator), and then uses puts to print the result together with some explanatory text:
+
+The # character introduces a comment . Comments can appear anywhere the interpreter is expecting a command name.
+
+As seen in these examples, there is one basic construct in the language: the command. Quoting mechanisms and substitution rules determine how the arguments to each command are processed.
+
+One special substitution occurs before the parsing of any commands or arguments. If the final character on a line (i.e., immediately before a newline) is a backslash, then the backslash-newline combination (and any spaces or tabs immediately following the newline) are replaced by a single space. This provides a line continuation mechanism, whereby long lines in the source code can be wrapped to the next line for the convenience of readers.
+
+Continuing with normal argument processing, a word that begins with a double-quote character ( " ) extends to the next double-quote character. Such a word can thus contain whitespace and semicolons without those characters being interpreted as having any special meaning (i.e., they are treated as normal text characters). A word that begins with an opening curly-brace character ( { ) extends to the next closing curly-brace character ( } ). Inside curly braces all forms of substitution are suppressed except the previously mentioned backslash-newline elimination. Words not enclosed in either construct are known as bare words.
+
+In bare and double-quoted words, three types of substitution may occur:
+
+Substitution proceeds left-to-right in a single scan through each word. Any substituted text will not be scanned again for possible further substitutions. However, any number of substitutions can appear in a single word.
+
+From Tcl 8.5 onwards, any word may be prefixed by {*} , which causes the word to be split apart into its constituent sub-words for the purposes of building the command invocation (similar to the ,@ sequence of Lisp 's quasiquote feature).
+
+As a consequence of these rules, the result of any command may be used as an argument to any other command. Note that, unlike in Unix command shells , Tcl does not reparse any string unless explicitly directed to do so, which makes interactive use more cumbersome, but scripted use more predictable (e.g., the presence of spaces in filenames does not cause difficulties).
+
+The single equality sign ( = ) serves no special role in the language at all. The double equality sign ( == ) is the test for equality which is used in expression contexts such as the expr command and in the first argument to if . (Both commands are part of the standard library; they have no special place in the library and can be replaced if desired.)
+
+The majority of Tcl commands, especially in the standard library, are variadic , and the proc (the constructor for scripted command procedures) allows one to define default values for unspecified arguments and a catch-all argument to allow the code to process arbitrary numbers of arguments.
+
+Tcl is not statically typed: each variable may contain integers, floats, strings, lists, command names, dictionaries, or any other value; values are reinterpreted (subject to syntactic constraints) as other types on demand. However, values are immutable and operations that appear to change them actually just return a new value instead.
+
+The most important commands that refer to program execution and data operations are:
+
+The usual execution control commands are:
+
+Those above looping commands can be additionally controlled by the following commands:
+
+uplevel allows a command script to be executed in a scope other than the current innermost scope on the stack. Because the command script may itself call procedures that use the uplevel command, this has the net effect of transforming the call stack into a call tree.
+
+It was originally implemented to permit Tcl procedures to reimplement built-in commands (like for , if or while ) and still have the ability to manipulate local variables . For example, the following Tcl script is a reimplementation of the for command (omitting exception handling ):
+
+upvar arranges for one or more local variables in the current procedure to refer to variables in an enclosing procedure call or to global variables . The upvar command simplifies the implementation of call-by-name procedure calling and also makes it easier to build new control constructs as Tcl procedures.
+
+A decr command that works like the built-in incr command except it subtracts the value from the variable instead of adding it:
+
+Tcl 8.6 added a built-in dynamic object system, TclOO, in 2012. It includes features such as:
+
+Tcl did not have object oriented (OO) syntax until 2012, so various extension packages emerged to enable object-oriented programming. They are widespread in existing Tcl source code. Popular extensions include:
+
+TclOO was not only added to build a strong object oriented system, but also to enable extension packages to build object oriented abstractions using it as a foundation. After the release of TclOO, incr Tcl was updated to use TclOO as its foundation.
+
+Tcl Web Server is a pure-Tcl implementation of an HTTP protocol server. It runs as a script on top of a vanilla Tcl interpreter.
+
+Apache Rivet is an open source programming system for Apache HTTP Server that allows developers to use Tcl as a scripting language for creating dynamic web applications. Rivet is similar to PHP , ASP , and JSP . Rivet was primarily developed by Damon Courtney, David Welton, Massimo Manghi, Harald Oehlmann and Karl Lehenbauer . Rivet can use any of the thousands of publicly available Tcl packages that offer countless features such as database interaction (Oracle, PostgreSQL, MySQL, SQLite, etc.), or interfaces to popular applications such as the GD Graphics Library .
+
+Tcl interfaces natively with the C language. This is because it was originally written to be a framework for providing a syntactic front-end to commands written in C, and all commands in the language (including things that might otherwise be keywords , such as if or while ) are implemented this way. Each command implementation function is passed an array of values that describe the (already substituted) arguments to the command, and is free to interpret those values as it sees fit.
+
+Digital logic simulators often include a Tcl scripting interface for simulating Verilog , VHDL and SystemVerilog hardware languages .
+
+Tools exist (e.g. SWIG , Ffidl ) to automatically generate the necessary code to connect arbitrary C functions and the Tcl runtime, and Critcl does the reverse, allowing embedding of arbitrary C code inside a Tcl script and compiling it at runtime into a DLL .
+
+The Tcl language has always allowed for extension packages, which provide additional functionality, such as a GUI, terminal-based application automation, database access, and so on. Commonly used extensions include:

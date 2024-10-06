@@ -1,0 +1,67 @@
+ACE (advanced cryptographic engine) is the collection of units, implementing both a public key encryption scheme and a digital signature scheme. Corresponding names for these schemes — «ACE Encrypt» and «ACE Sign». Schemes are based on Cramer-Shoup public key encryption scheme and Cramer-Shoup signature scheme. Introduced variants of these schemes are intended to achieve a good balance between performance and security of the whole encryption system.
+
+All the algorithms, implemented in ACE are based on algorithms developed by Victor Shoup and Ronald Cramer. The full algorithms specification is written by Victor Shoup. Implementation of algorithms is done by Thomas Schweinberger and Mehdi Nassehi, its supporting and maintaining is done by Victor Shoup. Thomas Schweinberger participated in construction of ACE specification document and also wrote a user manual.
+
+Ronald Cramer currently stays in the university of Aarhus, Denmark . He worked on the project of  ACE Encrypt while his staying in ETH in Zürich , Switzerland .
+
+Mehdi Nassehi and Thomas Schweinberger worked on ACE project in the IBM research lab in Zürich , Switzerland . Victor Shoup works in the IBM research lab in Zürich , Switzerland .
+
+The encryption scheme in ACE can be proven secure under reasonable and natural
+intractability assumptions.
+These four assumptions are:
+
+Here we introduce some notations, being used in this article.
+
+Z {\displaystyle \mathbb {Z} } — The set of integers. F 2 [ T ] {\displaystyle F_{2}[T]} — The set of univariate polynomials with coefficients in the finite field F 2 {\displaystyle F_{2}} of cardinality 2. A rem ⁡ n {\displaystyle A\operatorname {rem} n} — integer r ∈ { 0 , … , n − 1 } {\displaystyle r\in \left\{0,\dots ,n-1\right\}} such that A ≡ r ( mod n ) {\displaystyle A\equiv r{\pmod {n}}} for integer n > 0 {\displaystyle n>0} and A ∈ Z {\displaystyle A\in \mathbb {Z} } . A rem ⁡ f {\displaystyle A\operatorname {rem} f} — polynomial r ∈ F 2 [ T ] {\displaystyle r\in F_{2}[T]} with deg ⁡ ( r ) < deg ⁡ ( f ) {\displaystyle \deg(r)<\deg(f)} such that A ≡ r ( mod f ) {\displaystyle A\equiv r{\pmod {f}}} with A , f ∈ F 2 [ T ] , f ≠ 0 {\displaystyle A,f\in F_{2}[T],f\neq 0} .
+
+A ∗ {\displaystyle A^{\ast }} — The set of all strings. A n {\displaystyle A^{n}} — The set of all strings with length n. For x ∈ A ∗ L ( x ) {\displaystyle x\in A^{\ast }L(x)} — length of string x {\displaystyle x} . The string of length zero is denoted λ A {\displaystyle \lambda _{A}} . For x , y ∈ A ∗ {\displaystyle x,y\in A^{\ast }} x ‖ y {\displaystyle x\|y} — the result of x {\displaystyle x} and y {\displaystyle y} concatenation.
+
+b = def { 0 , 1 } {\displaystyle b{\overset {\text{def}}{{}={}}}\left\{0,1\right\}} — The set of bits. Let us take all sets of form b , b n 1 , ( b n 1 ) n 2 , . . . {\displaystyle b,b^{n_{1}},(b^{n_{1}})^{n_{2}},...} . For such a set A we define the "zero element":
+
+We define B = d e f b 8 {\displaystyle B{\stackrel {\mathrm {def} }{{}={}}}b^{8}} as a set of bytes, and W = d e f b 32 {\displaystyle W{\stackrel {\mathrm {def} }{{}={}}}b^{32}} as a set of words.
+
+For x ∈ A ∗ {\displaystyle x\in A^{\ast }} with A ∈ { b , B , W } {\displaystyle A\in \left\{b,B,W\right\}} and l > 0 {\displaystyle l>0} we define a padding operator:
+
+Conversion operator I s r c d s t : s r c → d s t {\displaystyle I_{src}^{dst}:src\to dst} makes a conversion between elements Z , F 2 [ T ] , b ∗ , B ∗ , W ∗ {\displaystyle Z,F_{2}[T],b^{\ast },B^{\ast },W^{\ast }} .
+
+The encryption scheme employs two key types: ACE public key: ( P , q , g 1 , g 2 , c , d , h 1 , h 2 , k 1 , k 2 ) {\displaystyle (P,q,g_{1},g_{2},c,d,h_{1},h_{2},k_{1},k_{2})} . ACE private key: ( w , x , y , z 1 , z 2 ) {\displaystyle (w,x,y,z_{1},z_{2})} . For a given size parameter m {\displaystyle m} , such that 1024 ≤ m ≤ 16384 {\displaystyle 1024\leq m\leq 16384} , key components are defined as: q {\displaystyle q} — a 256-bit prime number. P {\displaystyle P} — a m-bit prime number, such that P ≡ 1 ( mod q ) {\displaystyle P\equiv 1{\pmod {q}}} . g 1 , g 2 , c , d , h 1 , h 2 {\displaystyle g_{1},g_{2},c,d,h_{1},h_{2}} — elements { 1 , … , P − 1 } {\displaystyle \left\{1,\dots ,P-1\right\}} (whose multiplicative order modulo P {\displaystyle P} divides q {\displaystyle q} ). w , x , y , z 1 , z 2 {\displaystyle w,x,y,z_{1},z_{2}} — elements { 0 , … , q − 1 } {\displaystyle \left\{0,\dots ,q-1\right\}} . k 1 , k 2 {\displaystyle k_{1},k_{2}} — elements B ∗ {\displaystyle B^{\ast }} with L ( k 1 ) = 20 l ′ + 64 {\displaystyle L(k_{1})=20l'+64} and L ( k 2 ) = 32 ⌈ l / 16 ⌉ + 40 {\displaystyle L(k_{2})=32\left\lceil l/16\right\rceil +40} , where l = ⌈ m / 8 ⌉ {\displaystyle l=\left\lceil m/8\right\rceil } and l ′ = L b ( ⌈ ( 2 ⌈ l / 4 ⌉ + 4 ) / 16 ⌉ ) {\displaystyle l'=L_{b}(\left\lceil (2\left\lceil l/4\right\rceil +4)/16\right\rceil )} .
+
+Algorithm. Key Generation for ACE encryption scheme. Input: a size parameter m {\displaystyle m} , such that 1024 ≤ m ≤ 16384 {\displaystyle 1024\leq m\leq 16384} . Output: a public/private key pair.
+
+A ciphertext of the ACE encryption scheme has the form
+
+where the components are defined as: u 1 , u 2 , v {\displaystyle u_{1},u_{2},v} — integers from { 1 , . . . , P − 1 } {\displaystyle \left\{1,...,P-1\right\}} (whose multiplicative order modulo P {\displaystyle P} divides q {\displaystyle q} ). s {\displaystyle s} — element W 4 {\displaystyle W^{4}} . e {\displaystyle e} — element B ∗ {\displaystyle B^{\ast }} . s , u 1 , u 2 , v {\displaystyle s,u_{1},u_{2},v} we call the preamble , and e {\displaystyle e} — the cryptogram . If a cleartext is a string consisting of l {\displaystyle l} байт, then the length of e {\displaystyle e} is equal to l + 16 ⌈ l / 1024 ⌉ {\displaystyle l+16\left\lceil l/1024\right\rceil } . We need to introduce the function C E n c o d e {\displaystyle CEncode} , which maps a ciphertext to its byte-string
+
+representation, and the corresponding inverse function C D e c o d e {\displaystyle CDecode} . For the integer l > 0 {\displaystyle l>0} , word string s ∈ W 4 {\displaystyle s\in W^{4}} , integers 0 ≤ u 1 , u 2 , v < 256 l {\displaystyle 0\leq u_{1},u_{2},v<256^{l}} , and byte string e ∈ B ∗ {\displaystyle e\in B^{\ast }} ,
+
+For integer l > 0 {\displaystyle l>0} , byte string ψ ∈ B ∗ {\displaystyle \psi \in B^{\ast }} , such that L ( ψ ) ≥ 3 l + 16 {\displaystyle L(\psi )\geq 3l+16} ,
+
+Algorithm. ACE asymmetric encryption operation. input: public key ( P , q , g 1 , g 2 , c , d , h 1 , h 2 , k 1 , k 2 ) {\displaystyle (P,q,g_{1},g_{2},c,d,h_{1},h_{2},k_{1},k_{2})} and byte string M ∈ B ∗ {\displaystyle M\in B^{\ast }} . Output: byte string — ciphertext ψ {\displaystyle \psi \ } of M {\displaystyle M} .
+
+Before starting off the symmetric encryption process, the input message M ∈ B ∗ {\displaystyle M\in B^{\ast }} is divided into blocks M 1 , . . . , M t {\displaystyle M_{1},...,M_{t}} , where each of the block, possibly except the last one, is of 1024 bytes. Each block is encrypted by the stream cipher. For each encrypted block E i {\displaystyle E_{i}} 16-byte message authentication code is computed. We get the cryptogram
+
+Note that if L ( M ) = 0 {\displaystyle L(M)=0} , then L ( e ) = 0 {\displaystyle L(e)=0} .
+
+Algorithm. ACE asymmetric encryption process. Input: ( k , s , M , m ) ∈ W 8 × W 4 × Z × B ∗ {\displaystyle (k,s,M,m)\in W^{8}\times W^{4}\times Z\times B^{\ast }} m > 0 {\displaystyle m>0} Output: e ∈ B l {\displaystyle e\in B^{l}} , l = L ( M ) + 16 ⌈ L ( N ) / m ⌉ {\displaystyle l=L(M)+16\left\lceil L(N)/m\right\rceil } .
+
+Algorithm. ACE decryption process. Input: public key ( P , q , g 1 , g 2 , c , d , h 1 , h 2 , k 1 , k 2 ) {\displaystyle (P,q,g_{1},g_{2},c,d,h_{1},h_{2},k_{1},k_{2})} and corresponding private key ( w , x , y , z 1 , z 2 ) {\displaystyle (w,x,y,z_{1},z_{2})} , byt e string ψ ∈ B ∗ {\displaystyle \psi \in B^{\ast }} . Output: Decrypted message M ∈ B ∗ ∪ R e j e c t {\displaystyle M\in B^{\ast }\cup {Reject}} .
+
+Algorithm. Decryption operation S D e c {\displaystyle SDec} . Input: ( k , s , m , e ) ∈ W 8 × W 4 × Z × B ∗ {\displaystyle (k,s,m,e)\in W^{8}\times W^{4}\times Z\times B^{\ast }} m > 0 {\displaystyle m>0} Output: Decrypted message M ∈ B ∗ ∪ R e j e c t {\displaystyle M\in B^{\ast }\cup {Reject}} .
+
+The signature scheme employs two key types: ACE Signature public key: ( N , h , x , e ′ , k ′ , s ) {\displaystyle (N,h,x,e',k',s)} . ACE Signature private key: ( p , q , a ) {\displaystyle (p,q,a)} . For the given size parameter m {\displaystyle m} , such that 1024 ≤ m ≤ 16384 {\displaystyle 1024\leq m\leq 16384} , key components are defined the following way: p {\displaystyle p} — ⌊ m / 2 ⌋ {\displaystyle \left\lfloor m/2\right\rfloor } -bit prime number with ( p − 1 ) / 2 {\displaystyle (p-1)/2} — is also a prime number. q {\displaystyle q} — ⌊ m / 2 ⌋ {\displaystyle \left\lfloor m/2\right\rfloor } -bit prime number with ( q − 1 ) / 2 {\displaystyle (q-1)/2} — is also a prime number. N {\displaystyle N} — N = p q {\displaystyle N=pq} and has either m {\displaystyle m} or m − 1 {\displaystyle m-1} бит. h , x {\displaystyle h,x} — elements { 1 , . . . , N − 1 } {\displaystyle \left\{1,...,N-1\right\}} (quadratic residues modulo N {\displaystyle N} ). e ′ {\displaystyle e'} — 161-bit prime number. a {\displaystyle a} — element { 0 , . . . , ( p − 1 ) ( q − 1 ) / 4 − 1 } {\displaystyle \left\{0,...,(p-1)(q-1)/4-1\right\}} k ′ {\displaystyle k'} — elements B 184 {\displaystyle B^{184}} . s {\displaystyle s} — elements B 32 {\displaystyle B^{32}} .
+
+Algorithm. Key generation for the ACE public-key signature scheme. Input: size parameter m {\displaystyle m} , such that 1024 ≤ m ≤ 16384 {\displaystyle 1024\leq m\leq 16384} . Output: public/private key pair.
+
+The signature in the ACE signature scheme has the form ( d , w , y , y ′ , k ~ ) {\displaystyle (d,w,y,y',{\tilde {k}})} , where the components are defined the following way: d {\displaystyle d} — element B 64 {\displaystyle B^{64}} . w {\displaystyle w} — integer, such that 2 160 ≤ w ≤ 2 161 {\displaystyle 2^{160}\leq w\leq 2^{161}} . y , y ′ {\displaystyle y,y'} — elements { 1 , . . . , N − 1 } {\displaystyle \left\{1,...,N-1\right\}} . k ~ {\displaystyle {\tilde {k}}} — element B ∗ {\displaystyle B^{\ast }} ;note that L ( k ~ ) = 64 + 20 L B ( ⌈ ( L ( M ) + 8 ) / 64 ⌉ ) {\displaystyle L({\tilde {k}})=64+20L_{B}(\left\lceil (L(M)+8)/64\right\rceil )} , where M {\displaystyle M} — message being signed.
+
+We need to introduce the S E n c o d e {\displaystyle SEncode} function, which maps a signature into its byte string representation, and the corresponding inverse function S D e c o d e {\displaystyle SDecode} . For integer l > 0 {\displaystyle l>0} , byte string d ∈ B 64 {\displaystyle d\in B^{64}} , integers 0 ≤ w ≤ 256 21 {\displaystyle 0\leq w\leq 256^{21}} and 0 ≤ y , y ′ < 256 l {\displaystyle 0\leq y,y'<256^{l}} , and byte string k ~ ∈ B ∗ {\displaystyle {\tilde {k}}\in B^{\ast }} ,
+
+For integer l > 0 {\displaystyle l>0} , byte string σ ∈ B ∗ {\displaystyle \sigma \in B^{\ast }} , where L ( σ ) ≥ 2 l + 53 {\displaystyle L(\sigma )\geq 2l+53} ,
+
+Algorithm. ACE Signature Generation Process. Input: public key ( N , h , x , e ′ , k ′ , s ) {\displaystyle (N,h,x,e',k',s)} and corresponding private key ( p , q , a ) {\displaystyle (p,q,a)} and byte string M ∈ B ∗ {\displaystyle M\in B^{\ast }} , 0 ≤ L ( M ) ≤ 2 64 {\displaystyle 0\leq L(M)\leq 2^{64}} . Output: byte string — digital signature σ ∈ B ∗ {\displaystyle \sigma \in B^{\ast }} .
+
+In the definition of ACE Encryption process and ACE Signature process some auxiliary function (e.g. UOWHash, ESHash and some other) are being used, definition of which goes beyond this article. More details about it can be found in в.
+
+ACE Encryption scheme is recommended by NESSIE (New European Schemes for Signatures, Integrity and Encryption) as asymmetric encryption scheme. Press-release is dated by February 2003.
+
+Both schemes were implemented in ANSI C, with the use of GNU GMP library. Tests were done on two platforms: Power PC 604 model 43P under AIX system and 266 MHz Pentium under Windows NT system. Result tables:

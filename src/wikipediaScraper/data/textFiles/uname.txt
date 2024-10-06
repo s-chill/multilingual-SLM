@@ -1,0 +1,7 @@
+uname (short for unix name ) is a computer program in Unix and Unix-like computer operating systems that prints the name, version and other details about the current machine and the operating system running on it.
+
+The uname system call and command appeared for the first time in PWB/UNIX . Both are specified by POSIX . The GNU version of uname is included in the "sh-utils" or "coreutils" packages. uname itself is not available as a standalone program. The version of uname bundled in GNU coreutils was written by David MacKenzie. The command is available as a separate package for Microsoft Windows as part of the GnuWin32 project and the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities.
+
+On a system running Darwin , the output from running uname with the -a command-line argument might look like the text below:
+
+The following table contains examples from various versions of uname on various platforms.

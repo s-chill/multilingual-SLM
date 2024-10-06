@@ -1,0 +1,31 @@
+In computing , sleep is a command in Unix , Unix-like and other operating systems that suspends program execution for a specified time.
+
+The sleep instruction suspends the calling process for at least the specified number of seconds (the default), minutes, hours or days.
+
+sleep for Unix-like systems is part of the X/Open Portability Guide since issue 2 of 1987. It was inherited into the first version of POSIX and the Single Unix Specification . It first appeared in Version 4 Unix .
+
+The version of sleep bundled in GNU coreutils was written by Jim Meyering and Paul Eggert. The command is also available in the OS-9 shell, in the KolibriOS Shell, and part of the FreeDOS Package group Utilities . The FreeDOS version was developed by Trane Francks and is licensed under the GPL .
+
+A sleep command is also part of ASCII 's MSX-DOS2 Tools for MSX-DOS version 2.
+
+In PowerShell , sleep is a predefined command alias for the Start-Sleep cmdlet which serves the same purpose. Microsoft also provides a sleep resource kit tool for Windows which can be used in batch files or the command prompt to pause the execution and wait for some time. Another native version is the timeout command which is part of current versions of Windows.
+
+The command is available as a separate package for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities. The sleep command has also been ported to the IBM i operating system.
+
+Where number is an integer number to indicate the time period in seconds. Some implementations support floating point numbers.
+
+None.
+
+Causes the current terminal session to wait 30 seconds.
+
+Causes the current terminal session to wait 5 hours
+
+Wait 3 hours then play the file foo.mp3
+
+Note that sleep 5h30m and sleep 5h 30m are illegal since sleep takes only one value and unit as argument. However, sleep 5.5h (a floating point ) is allowed. Consecutive executions of sleep can also be used.
+
+Sleep 5 hours, then sleep another 30 minutes.
+
+The GNU Project 's implementation of sleep (part of coreutils ) allows the user to pass an  arbitrary floating point or multiple arguments, therefore sleep 5h 30m (a space separating hours and minutes is needed) will work on any system which uses GNU sleep, including Linux .
+
+Possible uses for sleep include scheduling tasks and delaying execution to allow a process to start, or waiting until a shared network connection most likely has few users to wget a large file.

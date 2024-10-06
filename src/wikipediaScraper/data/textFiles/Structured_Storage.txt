@@ -1,0 +1,3 @@
+Structured storage is computer storage for structured data , often in the form of a distributed database . Computer software formally known as structured storage systems include Apache Cassandra , Google 's Bigtable and Apache HBase .
+
+The following is a comparison of notable structured storage systems.

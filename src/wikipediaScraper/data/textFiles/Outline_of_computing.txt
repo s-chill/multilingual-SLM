@@ -1,0 +1,17 @@
+The following outline is provided as an overview of and topical guide to computing:
+
+Computing – activity of using and improving computer hardware and computer software .
+
+Computer science – ( outline )
+
+See information processor for a high-level block diagram.
+
+After the commoditization of memory , attention turned to optimizing CPU performance at the instruction level. Various methods of speeding up the fetch-execute cycle include:
+
+The main goal of CbWN is to optimize the system performance of the flexible wireless network.
+
+There are several terms which describe classes , or categories, of computers:
+
+See also Open standard
+
+Major figures associated with making personal computers popular.

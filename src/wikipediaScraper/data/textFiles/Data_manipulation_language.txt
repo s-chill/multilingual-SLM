@@ -1,0 +1,19 @@
+A data manipulation language ( DML ) is a computer programming language used for adding (inserting), deleting, and modifying (updating) data in a database . A DML is often a sublanguage of a broader database language such as SQL , with the DML comprising some of the operators in the language. Read-only selecting of data is sometimes distinguished as being part of a separate data query language (DQL), but it is closely related and sometimes also considered a component of a DML; some operators may perform both selecting (reading) and writing.
+
+A popular data manipulation language is that of Structured Query Language (SQL), which is used to retrieve and manipulate data in a relational database . Other forms of DML are those used by IMS /DLI, CODASYL databases, such as IDMS and others.
+
+In SQL, the data manipulation language comprises the SQL-data change statements, which modify stored data but not the schema or database objects. Manipulation of persistent database objects, e.g., tables or stored procedures , via the SQL schema statements, rather than the data stored within them, is considered to be part of a separate data definition language (DDL). In SQL these two categories are similar in their detailed syntax, data types, expressions etc., but distinct in their overall function.
+
+The SQL-data change statements are a subset of the SQL-data statements; this also contains the SELECT query statement, which strictly speaking is part of the DQL, not the DML. In common practice though, this distinction is not made and SELECT is widely considered to be part of DML, so the DML consists of all SQL-data statements, not only the SQL-data change statements. The SELECT ... INTO ... form combines both selection and manipulation, and thus is strictly considered to be DML because it manipulates (i.e. modifies) data.
+
+Data manipulation languages have their functional capability organized by the initial word in a statement, which is almost always a verb .  In the case of SQL, these verbs are:
+
+For example, the command to insert a row into table employees :
+
+Most SQL database implementations extend their SQL capabilities by providing imperative , i.e. procedural languages.  Examples of these are Oracle 's PL/SQL and IBM Db2 's SQL_PL .
+
+Data manipulation languages tend to have many different flavors and capabilities between database vendors. There have been a number of standards established for SQL by ANSI , but vendors still provide their own extensions to the standard while not implementing the entire standard.
+
+Data manipulation languages are divided into two types, procedural programming and declarative programming .
+
+Data manipulation languages were initially only used within computer programs , but with the advent of SQL have come to be used interactively by database administrators.

@@ -1,0 +1,5 @@
+In kinematics , the Hoecken linkage (named for Karl Hoecken ) is a four-bar linkage that converts rotational motion to approximate straight-line motion . The Hoecken linkage is a cognate linkage of the Chebyshev linkage and Chebyshev's Lambda Mechanism .
+
+The linkage was first published in 1926.
+
+A generalization of the Hoecken linkage is Wittgenstein's rod .

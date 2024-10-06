@@ -1,0 +1,25 @@
+JUCE is an open-source cross-platform C++ application framework , used for the development of desktop and mobile applications. JUCE is used in particular for its GUI and plug-ins libraries. It is dual licensed under the GPLv3 and a commercial license.
+
+The aim of JUCE is to allow software to be written such that the same source code will compile and run identically on Windows , macOS and Linux platforms. It supports various development environments and compilers.
+
+JUCE resulted from a split-out of the underlying C++ code that was developed by Julian Storer to create Tracktion's (now Waveform) DAW graphic and audio capabilities. It was first released to the public in 2004. It is covered by a dual GPL /commercial license.
+
+JUCE and Raw Material Software were acquired in November 2014 by London-based hardware manufacturer ROLI for an undisclosed amount.
+
+In April 2020 it was announced that JUCE had been sold by ROLI to PACE Anti-Piracy Inc..
+
+JUCE is intended to be usable in exactly the same way on multiple platforms and compilers.  Raw Material Software gives the following list of platforms and compilers on which support is officially confirmed; others may work, but have not been officially tested.
+
+JUCE is supported on the following platforms.
+
+JUCE is officially confirmed to work properly with the following compilers.
+
+Like many other frameworks (e.g., Qt , wxWidgets , GTK , etc.), JUCE contains classes providing a range of functions that cover user-interface elements, graphics, audio, XML and JSON parsing, networking , cryptography , multi-threading , an integrated interpreter that mimics ECMAScript 's syntax, and various other commonly used features.  Application developers needing several third-party libraries may thus be able to consolidate and use only the JUCE library, or at least reduce the number of third-party libraries they use.  In this, the original inspiration was Java's JDK , and JUCE was intended to be "something similar for C++".
+
+A notable feature of JUCE when compared to other similar frameworks is its large set of audio functionality; this is because JUCE was originally developed as a framework for Tracktion , an audio sequencer, before being split off into a standalone product.  JUCE has support for audio devices (such as CoreAudio , ASIO , ALSA , JACK , WASAPI , DirectSound ) and MIDI playback, polyphonic synthesizers , built-in readers for common audio file formats (such as WAV , AIFF , FLAC , MP3 and Vorbis ), as well as wrappers for building various types of audio plugin, such as VST effects and instruments. This has led to its widespread use in the audio development community.
+
+JUCE comes with wrapper classes for building audio and browser plugins. When building an audio plugin, a single binary is produced that supports multiple plugin formats ( VST & VST3, RTAS , AAX , Audio Units ). Since all the platform and format-specific code is contained in the wrapper, a user can build Mac and Windows VST/VST3/RTAS/AAX/AUs from a single codebase. Since JUCE7 targeting, and hosting, of LV2 plugins is also possible. Previously this was done with the use of various forks.
+
+Browser plugins are handled in a similar way: a single binary is produced that functions as both an NPAPI and an ActiveX plugin.
+
+The "Projucer" is an IDE tool for creating and managing JUCE projects. When the files and settings for a JUCE project have been specified, the Projucer automatically generates a collection of 3rd-party project files to allow the project to be compiled natively on each target platform. It can currently generate Xcode projects, Visual Studio projects, Linux Makefiles , Android Ant builds and CodeBlocks projects. As well as providing a way to manage a project's files and settings, it also has a code editor, an integrated GUI editor, wizards for creating new projects and files, and a live coding engine useful for user interface design.

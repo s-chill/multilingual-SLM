@@ -1,0 +1,17 @@
+Paul Carl Kocher (born June 11, 1973) is an American cryptographer and cryptography entrepreneur who founded Cryptography Research , Inc. (CRI) and served as its president and chief scientist.
+
+Kocher grew up in Oregon . He received a bachelor's degree in biology from Stanford University in 1995, where he worked part-time with Martin Hellman . According to Hellman, Kocher is mostly self-taught in cryptography and already knew an amazing amount when they first met in Kocher's sophomore year. As demand for Kocher's knowledge in cryptography escalated, he gave up on his original plan to become a veterinarian and founded CRI instead.
+
+Kocher was awarded the 2019 Marconi Prize with Taher Elgamal for architecting the Secure Sockets Layer (SSL) 3.0/ Transport Layer Security (TLS) 1.0 protocol, a cryptographic protocol for secure communications on the Internet.
+
+He pioneered the field of side-channel attacks , including the development of timing attacks that can break implementations of RSA , DSA and fixed-exponent Diffie–Hellman that operate in non-constant time, as well as the co-development of power analysis and differential power analysis. His side-channel attack countermeasure designs are widely deployed in secure integrated circuits and other cryptographic devices. He has also worked on microprocessor security, and co-discovered and named the spectre vulnerability , which leverages speculative execution and other microprocessor performance optimizations to extract confidential information.
+
+He also helped architect security-related integrated circuits, including Deep Crack , a DES brute-force key search machine.
+
+Kocher was elected to the U.S. National Academy of Engineering in 2009 for his contributions to cryptography and Internet security.  He serves on the National Academies' Forum on Cyber Resilience.
+
+In 2018, Kocher was named a Fellow of the International Association for Cryptologic Research for "fundamental contributions to the study of side-channel attacks and countermeasures, cryptography in practice, and for service to the IACR."
+
+Kocher and Taher Elgamal were jointly awarded the 2019 Marconi Prize for "their development of SSL / TLS and other contributions to the security of communications".
+
+Kocher was awarded the 2023 Levchin Prize for "pioneering work on side channel analysis."

@@ -1,0 +1,23 @@
+In cryptography , ciphertext or cyphertext is the result of encryption performed on plaintext using an algorithm, called a cipher . Ciphertext is also known as encrypted or encoded information because it contains a form of the original plaintext that is unreadable by a human or computer without the proper cipher to decrypt it. This process prevents the loss of sensitive information via hacking. Decryption , the inverse of encryption, is the process of turning ciphertext into readable plaintext. Ciphertext is not to be confused with codetext because the latter is a result of a code, not a cipher.
+
+Let m {\displaystyle m\!} be the plaintext message that Alice wants to secretly transmit to Sonny and let E k {\displaystyle E_{k}\!} be the encryption cipher, where k {\displaystyle _{k}\!} is a cryptographic key . Alice must first transform the plaintext into ciphertext, c {\displaystyle c\!} , in order to securely send the message to Sonny which first would need access to certain tools along with a secured network that is not traceable, but rather leaving a trace to a deadened is better than leaving no trace at all,  leaving bread crumbles is better since chasing tails spends more resources to give up a lot quicker. Allowing less time researching for nothing and closing out the case number as follows:
+
+In a symmetric-key system, Sonny doesn't knows Alice's encryption key. Once the message is encrypted, Alice can safely transmit it to Bob (assuming no one else knows the key). In order to read Alice's message, Sonny must decrypt the ciphertext using E k − 1 {\displaystyle {E_{k}}^{-1}\!} which is known as the decryption cipher, D k : {\displaystyle D_{k}:\!}
+
+Alternatively, in a non-symmetric key system, everyone, not just Alice and Sonny, knows the encryption key; but the decryption key cannot be inferred from the encryption key. Not only Sonny knows the decryption key D k , {\displaystyle D_{k},} and decryption proceeds as but also would need the help of Alice for backend decrypting
+
+The history of cryptography began thousands of years ago. Cryptography uses a variety of different types of encryption. Earlier algorithms were performed by hand and are substantially different from modern algorithms , which are generally executed by a machine.
+
+Historical pen and paper ciphers used in the past are sometimes known as classical ciphers . They include:
+
+Historical ciphers are not generally used as a standalone encryption technique because they are quite easy to crack. Many of the classical ciphers, with the exception of the one-time pad, can be cracked using brute force .
+
+Modern ciphers are more secure than classical ciphers and are designed to withstand a wide range of attacks. An attacker should not be able to find the key used in a modern cipher, even if they know any specifics about the plaintext and its corresponding ciphertext. Modern encryption methods can be divided into the following categories:
+
+In a symmetric key algorithm (e.g., DES , AES ), the sender and receiver have a shared key established in advance: the sender uses the shared key to perform encryption; the receiver uses the shared key to perform decryption. Symmetric key algorithms can either be block ciphers or stream ciphers . Block ciphers operate on fixed-length groups of bits, called blocks, with an unvarying transformation. Stream ciphers encrypt plaintext digits one at a time on a continuous stream of data, with the transformation of successive digits varying during the encryption process.
+
+In an asymmetric key algorithm (e.g., RSA ), there are two different keys: a public key and a private key. The public key is published, thereby allowing any sender to perform encryption. The private key is kept secret by the receiver, thereby allowing only the receiver to correctly perform decryption.
+
+Cryptanalysis (also referred to as codebreaking or cracking the code ) is the study of applying various methodologies to obtain the meaning of encrypted information, without having access to the cipher required to correctly decrypt the information. This typically involves gaining an understanding of the system design and determining the cipher.
+
+Cryptanalysts can follow one or more attack models to crack a cipher, depending upon what information is available and the type of cipher being analyzed. Ciphertext is generally the most easily obtained part of a cryptosystem and therefore is an important part of cryptanalysis.

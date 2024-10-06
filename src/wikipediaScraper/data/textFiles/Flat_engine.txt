@@ -1,0 +1,53 @@
+A flat engine is a piston engine where the cylinders are located on either side of a central crankshaft . Flat engines are also known as horizontally opposed engines , however this is distinct from the less common opposed-piston engine design, whereby each cylinder has two pistons sharing a central combustion chamber.
+
+The most common configuration of flat engines is the boxer engine configuration, in which the pistons of each opposed pair of cylinders move inwards and outwards at the same time. The other configuration is effectively a V engine with a 180-degree angle between the cylinder banks; in this configuration each pair of cylinders shares a single crankpin, so that as one piston moves inward, the other moves outward.
+
+The first flat engine (Benz Contramotor) was built in 1897 by Karl Benz . Flat engines have been used in aviation, motorcycle and automobile applications. They are now less common in cars than straight engines (for engines with fewer than six cylinders) and V engines (for engines with six or more cylinders). Flat engines are more common in aircraft, where straight engines are a rarity and V engines have almost vanished except in historical aircraft. They have even replaced radial engines in many smaller installations.
+
+The advantages of flat engines are a short length, low centre of mass and suitability for air cooling .
+
+Compared with the more common straight engines , flat engines have better primary balance (resulting in less vibration); however the disadvantages are increased width and the need to have two cylinder heads. Compared with V engines — the most common layout for engines with six cylinders or more— flat engines have a lower centre of mass and better primary balance than V6 engines, however they typically have a larger width.
+
+The most common usages of flat engines are:
+
+Most flat engines use a "boxer" configuration, where each pair of opposing pistons move inwards and outwards at the same time, somewhat like boxing competitors punching their gloves together before a fight. Boxer engines have low vibrations, since they are the only common configuration that have no unbalanced forces regardless of the number of cylinders. Boxer engines therefore do not require a balance shaft or counterweights on the crankshaft to balance the weight of the reciprocating parts. However, a rocking couple is present, since each cylinder is slightly offset from its opposing pair, due to the distance between the crankpins along the crankshaft.
+
+An alternative configuration for flat engines is as a 180-degree V engine , which has been used on most twelve-cylinder flat engines. In this configuration, each pair of pistons shares a crankpin , rather than the boxer configuration where each piston has its own crankpin.
+
+In 1902, the Pearse monoplane (which would later become one of the first aircraft to achieve flight) was powered by a flat-twin engine. Amongst the first commercially produced aircraft to use a flat engine is the 1909 Santos-Dumont Demoiselle range of airplanes, which was powered by boxer-twin engines.
+
+Several boxer-four engines have been produced specifically for light aircraft. Several manufacturers produced boxer-six aircraft engines during the 1930s and 1940s.
+
+During World War II, boxer-twin engines called the "Riedel starter" were used as a starter motor/mechanical APU for the early German jet engines such as the Junkers Jumo 004 and BMW 003 . Designed by Norbert Riedel , these engines have a very oversquare stroke ratio of 2:1 so that they could fit within the intake diverter, directly forward of the turbine compressor.
+
+Flat engines offer several advantages for motorcycles including a low center of mass , low vibration, suitability for shaft drive, and even cooling of the cylinders (for air-cooled engines). The most common design of flat engines for motorcycles is the boxer-twin, beginning with the 1905 Fée manufactured by the Light Motors Company flat-twin, which was the first production motorcycle to use a flat engine. BMW Motorrad have a long history of boxer-twin motorcycles, beginning in 1923 with the BMW R32
+
+Several motorcycles have been produced with flat-four engines, such as the 1938-1939 Zündapp K800 and the 1974-1987 Honda Gold Wing . In 1987, the Honda Gold Wing engine was upsized to a flat-six design.
+
+When used in cars, advantages of flat engines are a low center of mass (which improves the handling of the car), short length, low vibration and suitability for air cooling (due to the well exposed, large surface area, cylinder heads and short length). However the larger width of flat engines (compared with the more common inline and V layouts) is a drawback, particularly when the engine is located between the steered wheels.
+
+Flat engines were used by various automobile manufacturers— mostly with a boxer-four design— up until the late 1990s. Since then, only Porsche and Subaru have remained as significant manufacturers of flat engines.
+
+Due to the short length of flat engines, locating a flat engine outside of the car's wheelbase results in minimal overhang. Therefore, many cars with flat engines have used a rear-engine, rear-wheel-drive layout . Examples include the flat-twin BMW 600 (1957–1959) and BMW 700 (1959–1965); the flat-four Tatra 97 (1936–1939), Volkswagen Beetle (1938–2003) and Porsche 356 (1948–1965); and the flat-six Chevrolet Corvair (1959–1969), Porsche 911 (1963-present), and Tucker 48 (1947–1948).
+
+The opposite layout, front-engine front-wheel drive , was also common for cars with flat engines. Examples include the Citroën 2CV (1948–1990), Panhard Dyna X (1948–1954), Lancia Flavia (1961–1970), Citroën GS (1970–1986), Alfa Romeo Alfasud (1971–1989) and Subaru Leone (1971–1994).
+
+Subaru have been producing cars with a front-engine, four-wheel-drive layout powered by flat engines (mostly boxer-four engines) since 1971. Examples include the Subaru Leone (1971–1994), Subaru Legacy (1989-present) and Subaru Impreza (1992–present). The front half-shafts come out of a front differential that is part of the gearbox. A rear driveshaft connects the gearbox to the rear half-shafts.
+
+The traditional front-engine, rear-wheel-drive layout is relatively uncommon for cars with flat engines, however some examples include the Toyota 86 / Subaru BRZ (2012–present), Jowett Javelin (1947–1953), Glas Isar (1958–1965) and the Tatra 11 (1923–1927).
+
+The first flat engine was produced in 1897 by German engineer Karl Benz . Called the kontra engine, it was a boxer-twin design. Early uses of flat engines in cars include the 1900 Lanchester 8 hp Phaeton boxer-twin, the 1901 Wilson-Pilcher boxer-four, the 1904 Wilson-Pilcher 18/24 HP boxer-six and the 1903 Ford Model A , the 1904 Ford Model C and the 1905 Ford Model F .
+
+In 1938, the Volkswagen Beetle (then called the "KdF-Wagen") was released with a rear-mounted flat-four engine. This Volkswagen air-cooled engine was produced for many years and also used in the Volkswagen Type 2 (Transporter, Kombi or Microbus), the Volkswagen Karmann Ghia sports car and the Volkswagen Type 3 compact car. A water-cooled version, known as the Wasserboxer , was introduced in 1982 and eventually replaced the air-cooled versions.
+
+The majority of sports cars throughout Porsche's history are powered by flat engines, beginning with its first car; the 1948-1965 Porsche 356 used an air-cooled boxer-four engine. Also using boxer-four engines were the 1969-1976 Porsche 914 , the 1965-1969 Porsche 912 and the 2016-present Porsche Boxster/Cayman (982) . The Porsche 911 has exclusively used boxer-six engines from its introduction in 1964 until the present. In 1997, the Porsche 911 switched from being air-cooled to water-cooled.
+
+Porsche flat-eight engines were used in various racing cars throughout the 1960s, such as the 1962 Porsche 804 Formula One car and the 1968-1971 Porsche 908 sports car. A flat-twelve engine was also produced by Porsche for the 1969-1973 Porsche 917 sports car.
+
+Chevrolet used a horizontally opposed air-cooled 6 cylinder engine in its Corvair line during its entire production run from 1960 to 1969 in various applications and power ratings, including one of the first uses of a turbocharger in a mass-produced automobile.
+
+The Subaru EA engine was introduced in 1966 and began Subaru 's line of boxer-four engines that remain in production to this day. Most of Subaru's models are powered by a boxer-four engine in either naturally aspirated or turbocharged form. A print ad for the 1973 Subaru GL coupe referred to the engine as "quadrozontal". The company also produced boxer-six engines from 1988 to 1996 and 2001–2019. In 2008, the Subaru EE engine became the world's first passenger car diesel boxer engine. This engine is a turbocharged boxer-four with common rail fuel injection.
+
+Ferrari used flat-twelve engines for various Formula One cars in the 1970s. A road car flat-twelve engine (using a 180-degree V12 configuration) was used for the 1973-1984 Ferrari Berlinetta Boxer , 1984-1996 Ferrari Testarossa and their derivatives.
+
+Toyota uses the designation Toyota 4U-GSE for the boxer-four engine in the Toyota-badged versions of the Toyota 86 / Subaru BRZ twins, although the engine is actually designed and built by Subaru as the Subaru FA20 engine.

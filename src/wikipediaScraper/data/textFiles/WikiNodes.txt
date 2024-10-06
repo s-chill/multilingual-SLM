@@ -1,0 +1,9 @@
+WikiNodes is an app for the Apple iPad built by IDEA.org . WikiNodes was the first tablet app for browsing Wikipedia using a radial tree approach to visualize how articles and subsections of articles are interrelated. The app displays  related items (articles or sections of an article), which spread on the screen, as a spiderweb of icons.
+
+The app uses the SpicyNodes visualization technique which was awarded a "best for teaching and learning" award in 2011 from American Association of School Librarians (AASL) , and voted #edchat's 35 Best Web 2.0 Classroom Tools in 2010.
+
+The user interface is based on two display modes:
+
+As of June 2011, the app supports the 36 top Wikipedia languages (by number of articles).
+
+The app was highlighted as a "Staff pick" by Apple's U.S. App Store , Week of May 28, 2011; as "New and Noteworthy" by Apple's U.S. App Store, Week of May 5, 2011; and at other times by Apple's app stores for non-US countries. It has been favorably covered by several bloggers, including those in the references below.

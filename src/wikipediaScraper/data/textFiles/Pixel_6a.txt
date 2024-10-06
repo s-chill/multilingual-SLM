@@ -1,0 +1,19 @@
+The Google Pixel 6a is an Android smartphone designed, developed, and marketed by Google as part of the Google Pixel product line. It serves as a mid-range variant of the Pixel 6 and Pixel 6 Pro . The device was announced on May 11, 2022 as part of Google I/O 's keynote speech.
+
+The Pixel 6a is built with an aluminum frame, a plastic back and Gorilla Glass 3 for the screen. The design includes a camera bar and two-tone color scheme on the back similar to the Pixel 6 and Pixel 6 Pro. The device is available in Chalk, Charcoal, and Sage. It has stereo loudspeakers, one located on the bottom edge and the other doubling as the earpiece. A USB-C port is used for charging and connecting other accessories.
+
+The Pixel 6a uses the Google Tensor system-on-chip, with 6 GB of RAM and 128 GB of non-expandable UFS 3.1 internal storage.
+
+The Pixel 6a has a 4410 mAh battery, and is capable of fast charging at up to 18 W. It has an IP67 water protection rating.
+
+The Pixel 6a features a 6.1-inch 1080p OLED display with HDR support. The display has a 20:9 aspect ratio, and a circular cutout in the upper center for the front-facing camera.
+
+The Pixel 6a includes dual rear-facing cameras. The wide 27 mm f/1.7 lens has the Sony Exmor IMX363 12.2-megapixel sensor, while the ultrawide 114 °F/2.2 lens has a 12-megapixel sensor; the front-facing camera uses an 8-megapixel sensor. It is capable of recording 4K video at 30 or 60 fps.
+
+The Pixel 6a ships with Android 12 at launch, coinciding with the stable release of Android 12 on the Android Open Source Project . It is expected to receive 3 years of major OS upgrades and 5 years of security updates. The device received an update with a bootloader to activate modding in the first weeks after its release.
+
+In the United States it was released on July 21, 2022. In India it was released on July 28, 2022.
+
+The Pixel 6a garnered overwhelming praise upon its release, with particular praise toward its value proposition, sustainability, design, cameras, and "flagship-level" performance through Google's proprietary Tensor system-on-chip. Reviewers, however, lamented the lack of a microSD card slot and a headphone jack, as well as the standard 60 Hz refresh rate screen which they felt was not competitive for its class. Some felt that Google did not deliver on the battery endurance as advertised, saying the device's battery would drain quickly within 24 hours of heavy use and was slow to charge. Likewise, others found that the device would run unusually hot both between charges and moderate to heavy use, during which they detected major thermal throttling both under a series of stress tests and when playing CPU-intensive titles, such as Genshin Impact .
+
+The fingerprint sensor had security issues where it recognized non-registered fingerprints. The device makes use of a different optical fingerprint sensor than the ones found on the Pixel 6 and Pixel 6 Pro devices, and the issue seems to be unique to the Pixel 6a in particular. A software update was released in mid-September 2022 to address these issues.

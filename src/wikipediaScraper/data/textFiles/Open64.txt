@@ -1,0 +1,21 @@
+Open64 is a free , open-source , optimizing compiler for the Itanium and x86-64 microprocessor architectures. It derives from the SGI compilers for the MIPS R10000 processor, called MIPSPro . It was initially released in 2000 as GNU GPL software under the name Pro64. The following year, University of Delaware adopted the project and renamed the compiler to Open64. It now mostly serves as a research platform for compiler and computer architecture research groups. Open64 supports Fortran 77/95 and C / C++ , as well as the shared memory programming model OpenMP . It can conduct high-quality interprocedural analysis , data-flow analysis , data dependence analysis , and array region analysis.  Development has ceased, although other projects can use the project's source.
+
+Its major components are the frontend for C/C++ (using GCC ) and Fortran 77/90 (using the CraySoft front-end and libraries), Interprocedural analysis (IPA), loop nest optimizer (LNO), global optimizer (WOPT), and code generator (CG). Despite being initially written for a single computer architecture, Open64 has proven that it can generate efficient code for CISC , RISC , and VLIW architectures, including MIPS , x86 , IA-64 , ARM , and others.
+
+A hierarchical intermediate representation (IR) with five main levels is used in this compiler to serve as the common interface among all the frontend and backend components.  This IR is named WHIRL.
+
+The original version of Open64 that was released in 2002 was missing its very advanced software pipelining code generator, and had only a rudimentary code generator for Itanium.  The entire original MIPSPro compiler, with this code generator, is available under a commercial license as the Blackbird compiler from Reservoir Labs.  The Showdown Paper documents the code generator that was not included in Open64.  The very advanced compiler from Tilera, for its 64-core TILE64 chip, is based on Blackbird.
+
+Open64 exists in many forks , each of which has different features and limitations. The "classic" Open64 branch is the Open Research Compiler (ORC), which produces code only for the Itanium (IA-64), and was funded by Intel . The ORC effort ended in 2003, and the current official branch (which originated from the Intel ORC project) is managed by Hewlett-Packard and the University of Delaware 's Computer Architecture and Parallel Systems Laboratory (CAPSL).
+
+Other important branches include the compilers from Tensilica and the AMD x86 Open64 Compiler Suite.
+
+Nvidia is also using an Open64 fork to optimize code in its CUDA toolchain.
+
+Open64 is used as the backend for the HPE NonStop OS compilers on the x86-64 platform.
+
+Open64 is also used in a number of research projects, such as the Unified Parallel C (UPC) and speculative multithreading work at various universities.  The 2010 Open64 Developers Forum describes projects done at Absoft , AMD , Chinese Academy of Sciences , Fudan University , HP , National Tsing Hua University , Nvidia , Tensilica , Tsinghua University , and University of Houston . The Chinese Academy of Sciences ported Open64 to the Loongson II platform.
+
+AMD has extended and productized Open64 with optimizations designed for x86 multi-core processor advancements and multi-threaded code development. AMD supports Open64 as a complementary compiler to GCC .
+
+The University of Houston's OpenUH project, which is based on Open64, released a new version of its compiler suite in November 2015.

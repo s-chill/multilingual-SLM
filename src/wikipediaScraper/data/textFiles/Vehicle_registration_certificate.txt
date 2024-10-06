@@ -1,0 +1,6 @@
+A vehicle registration certificate is an official 
+document providing proof of registration of a vehicle.  It is used primarily by governments as a means of ensuring that all road vehicles are on the national vehicle register , but is also used as a form of law enforcement and to facilitate change of ownership when buying and selling a vehicle.
+
+In the European Economic Area ( EU , Iceland , Liechtenstein and Norway ), vehicle registration certificates are governed by the European directive 1999/37/EC. They consist of two parts, and can be either a paper document or a smart card. The information contained in these registration certificates includes:
+
+In the UK the document is the V5C, also commonly called the "log book". The document is issued by the DVLA and tracks the registered keeper of the vehicle. When a vehicle is transferred, exported, scrapped or had major modification (new engine, chassis or factors affecting the taxation class) the form is returned to the DVLA with details of the required changes, who then issue a new document with the details amended.

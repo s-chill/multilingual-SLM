@@ -1,0 +1,20 @@
+A video signal generator is a type of signal generator which outputs predetermined video and/or television oscillation waveforms, and other signals used in the synchronization of television devices and to stimulate faults in, or aid in parametric measurements of, television and video systems. There are several different types of video signal generators in widespread use. Regardless of the specific type, the output of a video generator will generally contain synchronization signals appropriate for television, including horizontal and vertical sync pulses (in analog) or sync words (in digital). Generators of composite video signals (such as NTSC and PAL ) will also include a colorburst signal as part of the output.
+
+Video signal generators are primarily classed according to their function. In addition, they may be classified according to the video formats and interface standard they support—one generator may generate composite analog signals (typically NTSC , PAL , or both), another may generate CCIR 601 , and a third may generate MPEG streams over an ASI .
+
+Many manufacturers sell signal generation platforms, which can be populated with multiple modules providing the above capabilities (and supporting different formats). Many such platforms also include audio generation capability (as television includes audio as well as video), supporting either embedded audio or standalone audio formats.
+
+A test signal generator generates test patterns , and other useful test signals, for troubleshooting and analyzing television systems. These devices are generally intended for off-line use (test patterns are seldom broadcast, unless a station is not operating properly or is off the air at the time), as they output complete television signals. 
+Examples of signals output by such a device include:
+
+Some generators achieved a relative popularity, due to channels broadcasting test cards for long periods where no programming was scheduled. Patterns associated with Philips ( PM 5540 , PM 5552, PM 5544 , PM 5644 ), Grundig VG 1001 ( FuBk ) SMPTE ( Color Bars ),  or Snell & Wilcox (Zone Plate) generators are generally well known.
+
+A few specialized signals are used in digital environments:
+
+In addition, sophisticated signal generators may allow modification of the video timing, adjustment of the gains of the various components (including out of range), the introduction of jitter or bit errors (into digital signals), the introduction of motion, or other effects.
+
+A vertical interval test signal inserter , or VITS inserter inserts test patterns into the vertical interval of a television signal. Unlike test signal generators; a VITS inserter is used to insert the test signal into live programming, so that inline measurements of a transmission chain can be made while the chain is operational. (As the vertical interval is typically not visible on end-user televisions, this can be done without producing any artifacts noticeable to viewers). Since VITS signals can often be transmitted, it is also possible for a television station to receive its own on-air feed, and use the VITS to detect and troubleshoot problems in on-air transmission.
+
+A sync pulse generator (SPG) is a special type of generator which produces synchronization signals, with a high level of stability and accuracy. These devices are used to provide a master timing source for a video facility. The output of an SPG will typically be in one of several forms, depending on the needs of the facility:
+
+Logo inserters are devices used to insert a television station's logo, or other fixed graphics, into a live television signal. Often called a "Bug Generator."

@@ -1,0 +1,11 @@
+The farebox recovery ratio (also called fare recovery ratio , fare recovery rate or other terms) of a passenger transportation system is the fraction of operating expenses which are met by the fares paid by passengers. It is computed by dividing the system's total fare revenue by its total operating expenses.
+
+There are generally two types of fare structures: a simple, flat rate fare structure (pay a fixed fare regardless of time of day and/or travel distance) or a complex, variable rate fare structure (pay a variable fare depending on time of day and/or travel distance). A variable fare structure is typically associated with a higher recovery ratio, though it may simply be the case that such systems are implemented only on more profitable networks or modes such as commuter rail. Variable-rate fares require a higher initial investment in fare ticketing technologies such as the use of contactless smart cards , turnstiles or fare gates, automated ticket machines , as well as IT infrastructure.
+
+The farebox recovery ratio is the ratio of fare revenue to total transport expenses for a given system. These two figures can be found in the financial statements of the operators. Oftentimes the operator runs multiple modes of transport (e.g. subway and bus), and there is no data for individual modes (segment analysis). In this case the operator is considered as one system, or a group of modes are collectively considered one system.
+
+Fare revenue is not the same as "transport" or "operational" revenue, as there are often secondary sources of revenue such as lockers and paid restrooms and advertisement revenue. Fare revenue is a subset of transport revenue, which is in turn part of total revenue along with "non-transport" or "non-operational" revenue.
+
+Total "transport" or "operational" expenses are a part of total expenses along with "non-transport" or "non-operational" expenses. Total transport expenses may include expansion projects if they are paid for by the operator.
+
+Please note that, the " operating ratio " ( Japanese : 営業係数 Korean : 영업계수 ) commonly published by some Asian systems is different from farebox recovery ratio even after inverting the number to turn cost per unit revenue into revenue per unit cost, as that figure includes all operating revenue instead of only the fare revenue.

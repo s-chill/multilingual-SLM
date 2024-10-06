@@ -1,0 +1,21 @@
+Dipole field strength in free space , in telecommunications , is the electric field strength caused by a half wave dipole under ideal conditions. The actual field strength in terrestrial environments is calculated by empirical formulas based on this field strength.
+
+Let N be the effective power radiated from an isotropic antenna and p be the power density at a distance d from this source
+
+Power density is also defined in terms of electrical field strength;
+
+Let E be the electrical field and Z be the impedance of the free space
+
+The following relation is obtained by equating the two,
+
+or by rearranging the terms
+
+Impedance of free space is roughly 120 π Ω {\displaystyle 120\pi ~\Omega }
+
+Since a half wave dipole is used, its gain over an isotropic antenna ( 2.15 dBi = 1.64 {\displaystyle {\mbox{2.15 dBi}}=1.64} ) should also be taken into consideration,
+
+In this equation SI units are used.
+
+Expressing the same equation in:
+
+is equivalent to multiplying the expression on the right by 1000 {\displaystyle {\sqrt {1000}}} . In this case,

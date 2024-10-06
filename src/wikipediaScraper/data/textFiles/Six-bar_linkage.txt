@@ -1,0 +1,13 @@
+In mechanics , a six-bar linkage is a mechanism with one degree of freedom that is constructed from six links and seven joints . An example is the Klann linkage used to drive the legs of a walking machine.
+
+In general, each joint of a linkage connects two links, and a binary link supports two joints.  If we consider a hexagon constructed from six binary links with six of the seven joints forming its vertices, then the seventh joint can be added to connect two sides of the hexagon to form a six-bar linkage with two ternary links connected by one joint. This type of six-bar linkage is said to have the Watt topology .
+
+A six-bar linkage can also be constructed by first assembling five binary links into a pentagon , which uses five of the seven joints, and then completing the linkage by adding a binary link that connects two sides of the pentagon.  This again creates two ternary links that are now separated by one or more binary links.  This type of six-bar linkage is said to have the Stephenson topology .
+
+The Klann linkage has the Stephenson topology.
+
+Watt's parallel motion generator consists of the four-bar linkage that has a coupler curve that traces an approximately straight line trajectory, combined with a parallelogram linkage that copies this straight line movement to a desired location.  This configuration of six bars and seven joints has two four-bar loops.
+
+The six-bars and seven joints of the Stephenson linkage comprise one four-bar loop and one five-bar loop.  It has two ternary links that are separated by a binary link.  This means the two ternary links are not connected to each other by a joint as in the case of the Watt topology.
+
+The Stephenson has three forms depending on the link that is selected as the frame, which are denoted Stephenson I, II and III.

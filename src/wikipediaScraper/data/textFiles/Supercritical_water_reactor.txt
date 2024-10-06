@@ -1,0 +1,45 @@
+The supercritical water reactor ( SCWR ) is a concept Generation IV reactor , designed as a light water reactor (LWR) that operates at supercritical pressure (i.e. greater than 22.1 megapascals [3,210 psi]). The term critical in this context refers to the critical point of water, and should not be confused with the concept of criticality of the nuclear reactor.
+
+The water heated in the reactor core becomes a supercritical fluid above the critical temperature of 374 °C (705 °F), transitioning from a fluid more resembling liquid water to a fluid more resembling saturated steam (which can be used in a steam turbine ), without going through the distinct phase transition of boiling .
+
+In contrast, the well-established pressurized water reactors (PWR) have a primary cooling loop of liquid water at a subcritical pressure, transporting heat from the reactor core to a secondary cooling loop, where the steam for driving the turbines is produced in a boiler (called the steam generator ). Boiling water reactors (BWR) operate at even lower pressures, with the boiling process to generate the steam happening in the reactor core.
+
+The supercritical steam generator is a proven technology.
+
+The development of SCWR systems is considered a promising advancement for nuclear power plants because of its high thermal efficiency (~45 % vs. ~33 % for current LWRs) and simpler design. As of 2012 the concept was being investigated by 32 organizations in 13 countries.
+
+The super-heated steam cooled reactors operating at subcritical-pressure were experimented with in both Soviet Union and in the United States as early as the 1950s and 1960s such as Beloyarsk Nuclear Power Station , Pathfinder and Bonus of GE 's Operation Sunrise program. These are not SCWRs. SCWRs were developed from the 1990s onwards. Both a LWR-type SCWR with a reactor pressure vessel and a CANDU -type SCWR with pressure tubes are being developed.
+
+A 2010 book includes conceptual design and analysis methods such as core design, plant system, plant dynamics and control, plant startup and stability, safety, fast reactor design etc.
+
+A 2013 document saw the completion of a prototypical fueled loop test in 2015. A Fuel Qualification Test was completed in 2014.
+
+A 2014 book saw reactor conceptual design of a thermal spectrum reactor (Super LWR) and a fast reactor (Super FR) and experimental results of thermal hydraulics, materials and material-coolant interactions.
+
+The SCWR operates at supercritical pressure. The reactor outlet coolant is supercritical water . Light water is used as a neutron moderator and coolant. Above the critical point, steam and liquid become the same density and are indistinguishable, eliminating the need for pressurizers and steam generators ( PWR ), or jet /recirculation pumps, steam separators and dryers ( BWR ). Also, by avoiding boiling, SCWR does not generate chaotic voids (bubbles) with less density and moderating effect. In a LWR this can affect heat transfer and water flow, and the feedback can make the reactor power harder to predict and control. Neutronic and thermal hydraulic coupled calculation is needed to predict the power distribution. SCWR's simplification should reduce construction costs and improve reliability and safety.
+
+A LWR type SCWR adopts water rods with thermal insulation and a CANDU type SCWR keeps water moderator in a Calandria tank. A fast reactor core of the LWR type SCWR adopts tight fuel rod lattice as a high conversion LWR. The fast neutron spectrum SCWR has advantages of a higher power density, but needs plutonium and uranium mixed oxides fuel which will be available from reprocessing.
+
+SCWRs would likely have control rods inserted through the top, as is done in PWRs.
+
+The temperature inside an SCWR is higher than those in LWRs . Although supercritical fossil fuel plants have much experience in the materials, it does not include the combination of high temperature environment and intense neutron radiation . SCWRs need core materials (especially fuel cladding ) to resist the environment. R&D focuses on:
+
+In the once-through coolant cycles, such as SCWRs and supercritical fossil fired power plants, the entire reactor coolant is processed at low temperature after condensation . It is an advantage in managing water chemistry and stress corrosion cracking of structural materials. It is not possible in LWRs due to the recirculation of hot reactor coolant. Materials and water chemistry R&D should be done with the once-through characteristics in mind.
+
+However, it is not too high for stainless steel cladding. Safety analysis of LWR type SCWR showed that safety criteria are met with margins at accidents and abnormal transients including total loss of flow and loss of coolant accident. No double ended break occurs because of the once-through coolant cycle. Core is cooled by the induced flow at the loss of coolant accident.  The water inventory in the top dome of the reactor vessel serves as an in-vessel accumulator. The SCWR safety principle is not to maintain coolant inventory, but to maintain core coolant flow rate. It is easier to monitor than water level at accidents. There was an error in the water level signal in the Three Mile Island accident and the operators shut down the ECCS.
+
+However, a LWR type design, reactor pressure vessel inner wall is cooled by the inlet coolant as PWR. Outlet coolant nozzles are equipped with thermal sleeves. A pressure-tube design, where the core is divided up into smaller tubes for each fuel channel, has potentially fewer issues here, as smaller diameter tubing can be much thinner than massive single pressure vessels, and the tube can be insulated on the inside with inert ceramic insulation so it can operate at low (calandria water) temperature.
+
+However, a LWR type SCWR design adopts water rods in the fuel assemblies as BWRs.  The coolant density in water rods is kept high with thin thermal insulation, not fully insulated. Most designs of CANDU type SCWR use an internal calandria where part of the feedwater flow is guided through top tubes through the core, that provide the added moderation (feedwater) in that region. This has the added advantage of being able to cool the entire vessel wall with feedwater, but results in a complex and materially demanding (high temperature, high temperature differences, high radiation) internal calandria and plena arrangement. A pressure-tube design has the characteristics as most of the moderator is in the calandria at low temperature and pressure, reducing the coolant density effect on moderation, and the actual pressure tube can be kept cool by the calandria water.
+
+However, the entire SCWR coolant is cleaned after condensation. This is an advantage in managing water chemistry and Stress corrosion cracking of structural materials. It is not possible in LWRs where hot coolant circulates.
+
+However, Instability is managed by power to coolant flow rate ratio as a BWR. The coolant density change is smaller in SCWRs than BWRs.
+
+However, single coolant flow pass core is feasible.
+
+However, LWRs were developed in the 1950s based on the subcritical fossil fired power technologies. The success of LWRs is based on that experience. Supercritical fossil fired power plants were developed after 1950s. Components such as valves, piping, turbines, feedwater pumps and heaters for operation at turbine throttle pressure up to 30 MPa (4,400 psi) and temperature up to 630 °C (903 K; 1,166 °F) are present for commercial applications. SCWRs are natural evolution of LWRs. The competitiveness of LWRs in the electricity market is being challenged in the US due to Shale gas from historical summaries of U.S. Energy Information Administration ’s (EIA’s) Levelized cost of electricity (LCOE) projections (2010-2020) in Cost of electricity by source . LWRs are the dominant design with the largest share of nuclear power generation and are the current offering for new construction in the world. Innovation dynamics show that innovation does not come from companies with the largest market share. Comparing SCWRs and LWRs is not relevant in terms of innovation dynamics . If Small modular reactor (SMR) is competitive, a SMR version of SCWRs will increase its advantage.
+
+However, chemical shim cannot be used in SCWRs as well as BWRs, due to the positive coolant void coefficient. SCWRs use borated water as the secondary shut-down similar to BWRs.
+
+However, the Capacity factor of LWRs is already high in USA, over 90%. Pressure vessel type SCWRs do not require online refuelling.

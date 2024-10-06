@@ -1,0 +1,15 @@
+deb is the format, as well as filename extension of the software package format for the Debian Linux distribution and its derivatives .
+
+Debian packages are standard Unix ar archives that include two tar archives. One archive holds the control information and another contains the installable data.
+
+dpkg provides the basic functionality for installing and manipulating Debian packages. Generally end users don't manage packages directly with dpkg but instead use the APT package management software or other APT front-ends such as aptitude ( nCurses ) and synaptic ( GTK ).
+
+Debian packages can be converted into other package formats and vice versa using alien , and created from source code using checkinstall or the Debian Package Maker.
+
+Some core Debian packages are available as udeb s ("micro debs"), and are typically used only for bootstrapping a Debian installation. Although these files use the udeb filename extension, they adhere to the same structure specification as ordinary deb files. However, unlike their deb counterparts, udeb packages contain only essential functional files. In particular, documentation files are normally omitted. udeb packages are not installable on a standard Debian system, but are used in Debian-Installer .
+
+Prior to Debian 0.93, a package consisted of a file header and two concatenated gzip archives. Since Debian 0.93, a deb package is implemented as an ar archive . This archive contains three files in a specific order:
+
+The control archive contents can include the following files:
+
+Debian-based distributions support OpenPGP signature verification of signed Debian packages, but most (if not all) have this feature disabled by default. Instead packages are verified by signing the repository metadata (i.e. Release files). The metadata files in turn include checksums for the repository files as a means to verify authenticity of the files. Currently there are two different implementations for signing individual packages. The first is done via the debsigs / debsig-verify toolset, which is supported by dpkg . The second is done through the dpkg-sig program which is not supported by dpkg , so the packages have to be manually checked with the dpkg-sig program. Both formats add new sections to the ar archive to store the signature information, but the formats are not compatible with one another. Neither of the modifications to the package format are listed in the official Debian handbook or man page about the binary package format.

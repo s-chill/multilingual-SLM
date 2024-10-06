@@ -1,0 +1,9 @@
+In structural engineering , structural elements are used in structural analysis to split a complex structure into simple elements (each bearing a structural load ). Within a structure, an element cannot be broken down (decomposed) into parts of different kinds (e.g., beam or column).
+
+Structural elements can be lines, surfaces or volumes.
+
+Line elements:
+
+Surface elements:
+
+Volumes:

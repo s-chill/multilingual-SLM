@@ -1,0 +1,1 @@
+Energy-shaping control for energy systems considers the plant and its controller as energy-transformation devices. The control strategy is formulated in terms of interconnection (in a power-preserving manner) in order to achieve a desired behavior.

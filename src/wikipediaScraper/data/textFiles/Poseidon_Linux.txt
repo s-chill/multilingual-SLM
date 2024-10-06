@@ -1,0 +1,11 @@
+Poseidon Linux was a Linux operating system based on Ubuntu (originally based on Kurumin), it was maintained by developers located at the Rio Grande Federal University in Rio Grande do Sul , Brazil, and the MARUM institute in Germany.
+
+Poseidon Linux was aimed at the international scientific community , it came with a range of applications for fields such as GIS, 3D visualization, and statistics.
+
+The name Poseidon was chosen after the Greek God because many of the projects developers worked in Oceanology .
+
+The development team stated that after Poseidon 5.0, the distribution would focus on bathymetry, seafloor mapping, and GIS software . Many of the bundled CAD and scientific programs were removed, but may be separately available for download from compatible repositories.
+
+Around 2016 the 3 main Poseidon Linux domains (poseidon.furg.br, es.poseidonlinux.org, en.poseidonlinux.org) seemingly expired and their google site domain rebranded from " the Official Website of Poseidon Linux in English " to " The Official Website of Poseidon Linux "
+
+The project is seemingly dead with the last release having been in 2017.

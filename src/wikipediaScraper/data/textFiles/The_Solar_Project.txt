@@ -1,0 +1,27 @@
+34°52′19″N 116°50′03″W ﻿ / ﻿ 34.87187°N 116.83419°W ﻿ / 34.87187; -116.83419
+
+The SOLAR Project consists of the Solar One , Solar Two and Solar Tres solar thermal power plants based in the Mojave Desert , United States and Andalucía, Spain. The US Department of Energy (DOE) and a consortium of US utilities built the country's first two large-scale, demonstration solar power towers in the desert near Barstow, California.
+
+Solar One/Solar Two have been scrapped since 2009. Solar Tres (later renamed Gemasolar), the first commercial plant of the project, was opened in Spain in 2011.
+
+Solar One was a pilot solar-thermal project built in the Mojave Desert just east of Barstow , CA , USA. It was the first test of a large-scale thermal solar power tower plant. Solar One was designed by the Department of Energy (DOE) (led by Sandia National Laboratories in Livermore, California ), Southern California Edison, LA Dept of Water and Power, and California Energy Commission. It was located in Daggett , CA , about 10 miles (16 km) east of Barstow.
+
+Solar One's method of collecting energy was based on concentrating the sun's energy onto a common focal point to produce heat to run a steam turbine generator. It had hundreds of large mirror assemblies, or heliostats , that track the sun, reflecting the solar energy onto a 328 ft (100 m) tall tower where a black receiver absorbed the heat. High-temperature heat transfer fluid was used to carry the energy to a boiler on the ground where the steam was used to spin a series of turbines, much like a traditional power plant.
+
+In the late 1970s, a competition was held by the DoE to obtain the best heliostat design for the project. Several promising designs were selected and prototypes were built and shipped to the area for testing. Trade-offs involved simplicity of construction to minimize costs for high-volume manufacturing versus the need for a reliable, two-axis tracking system that could maintain focus on the tower. Rigidity of the structure was a major concern in terms of wind load resistance and durability, but shading of the mirrors by support structures was to be avoided.
+
+The project produced 7 MW of electricity using 1,818 heliostats of 40 m (430 ft ) reflective surface area each, with a total area of 72,650 m (782,000 ft ). Solar One was completed in 1981 and was operational from 1982 to 1986. Later redesigned and renamed Solar Two, it could be seen from Interstate 40 where it covered a 51 hectare (126 acre ) site, not including the administration building or rail yard facilities shared with a neighboring plant. Solar One/Two and other nearby solar projects are plainly visible via satellite imaging software at 34°52′18″N 116°50′03″W ﻿ / ﻿ 34.87167°N 116.83417°W ﻿ / 34.87167; -116.83417 .
+
+During times of high winds, blowing dust is sometimes illuminated by the reflected sunbeams to create an unusual atmospheric phenomenon in the vicinity of the power tower. These beams of light were depicted in several scenes, and a painting, in the 1987 movie Bagdad Cafe , which was filmed nearby.
+
+Nevada Solar One shares a similar name to Solar One, however it is quite different. It uses a solar thermal parabolic trough system and generates 64 MW.
+
+In 1995 Solar One was converted into Solar Two , by adding a second ring of 108 larger 95 m (1,000 ft ) heliostats around the existing Solar One, totaling 1926 heliostats with a total area of 82,750 m (891,000 ft ). This gave Solar Two the ability to produce 10 megawatts—enough to power an estimated 7,500 homes. Solar Two used molten salt, a combination of 60% sodium nitrate and 40% potassium nitrate , as an energy storage medium instead of oil or water as with Solar One. This helped in energy storage during brief interruptions in sunlight due to clouds. The molten salt also allowed the energy to be stored in large tanks for future use such as night time—Solar Two had sufficient capacity to continue running for up to three hours after the sun had set. Solar Two was decommissioned in 1999.
+
+In 2001, the University of California, Davis, received funding to convert it into an air Cherenkov telescope for measuring gamma rays hitting the atmosphere . The first astronomical observations were in the fall of 2004, and the last were in November 2005 This project was named C.A.C.T.U.S. The facility was operated by the University of California, Davis but owned by Southern California Edison .
+
+Solar Two's three primary participants were Southern California Edison (SCE), the Los Angeles Department of Water and Power (LADWP), and the U.S. Department of Energy (DOE).
+
+On November 25, 2009, after 10 years of not producing any energy, the Solar Two tower was demolished. The mothballed site was levelled and returned to vacant land by Southern California Edison. All heliostats and other hardware were removed.
+
+Due to the success of Solar Two, a commercial power plant, originally called Solar Tres Power Tower, now known as Gemasolar Thermosolar Plant built in Spain by Torresol Energy using Solar One and Solar Two's technology for commercial electrical production of 15 MW. Solar Tres is three times larger than Solar Two with 2,493 heliostats, each with a reflective surface of 96 m . The total reflective area will be 240,000 m (2.6 million ft ). They will be made of a highly reflective glass with metal back to cut costs by about 45%. A larger molten nitrate salt storage tank will be used giving the plant the ability to store 600 MWh, allowing the plant to run 24/7 during the summer.

@@ -1,0 +1,19 @@
+A snow gauge is a type of instrument used by meteorologists and hydrologists to gather and measure the amount of solid precipitation (as opposed to liquid precipitation, which is measured by a rain gauge ) over a set period of time.
+
+The first use of snow gauges were precipitation gauges that was widely used in 1247 during the Southern Song dynasty to gather meteorological data. The Song Chinese mathematician and inventor Qin Jiushao records the use of gathering rain and snowfall measurements in the Song mathematical treatise Mathematical Treatise in Nine Sections . The book discusses the use of large conical or barrel-shaped snow gauges made from bamboo situated in mountain passes and uplands, which are speculated to be first referenced to snow measurement.
+
+The snow gauge consists of two parts: a copper catchment container; and the funnel-shaped gauge itself. The actual gauge is mounted on a pipe outdoors and is approximately 1.5 m (150 cm; 59 in; 4 ft 11 in) in height, while the container is 51.5 cm (20.3 in; 1 ft 8.3 in) in length.
+
+When snow is collected, the container is removed and replaced with a spare one. The snow is then melted while it is still in the container, and then poured into a glass measuring graduate. While the depth of snow is normally measured in centimetres , the measurement of melted snow ( water equivalent ) is in millimetres .
+
+An estimate of the snow depth can be obtained by multiplying the water equivalent by a factor of 10. This multiplier can vary over a wide range, however, with many citing a range from 5 to 30, while the National Snow and Ice Data Center has quoted a range as wide as from 3 to 100. Any proposed factor depends on the water content of the snow (how "dry" it is), so this at best provides only a rough estimate of snow depth.
+
+The snow gauge suffers from the same problem as that of the rain gauge when conditions are windy. If the wind is strong enough, then the snow may be blown across the wind gauge, and the amount of snow fallen will be under-reported. However, due to the shape and size of the funnel, this is a minor problem.
+
+If the wind is very strong and a blizzard occurs, then extra snow may be blown into the gauge, and the amount of snow fallen will be over-reported. In this case the observer must judge how much of the water is from snow blown into the container and how much is fallen snow.
+
+Another problem occurs when both snow and rain fall before the observer has time to change the gauge. In all of these cases the observer must judge how much of the water is snow and how much is rain.
+
+Remote reading gauges, such as used by weather stations, work similarly to rain gauges. They have a large catch area (such as a drum sawn in half, top to bottom) which collects snow until a given weight is collected. When this critical weight is reached, it tips and empties the snow catch. This dumping trips a switch, sending a signal. The collection then repeats. If the catch container has a heater in it, it measures the snow weight accurately. It is also possible to tip based on volume instead of weight, with appropriate fill sensing.
+
+Another snow sensor called a snow pillow looks like a round bag lying on the ground. Inside the pillow is a liquid such as an environmentally safe antifreeze .  Usually the snow pillow will be connected to a manometer .  The manometer reading will vary based on how much snow is sitting on the pillow.  This type of sensor works well for many locations but is more difficult to use in areas of hard blowing snow.

@@ -1,0 +1,7 @@
+A paper key is a machine-readable print of a cryptographic key. The printed key can be used to decrypt data, e.g. archives or backup data. A  paper key can be the result of an offline private key protocol . The offline private key can also function as a token in two-factor authentication .
+
+The idea is that a digital key to decrypt and recover sensitive or personal data should have long-term durability and not be stored on any computer or network. The length of secure cryptographic keys restricts memorization, so the secret key takes the form of a 2D barcode , a machine-readable print. Early implementations of a paper key by the company Safeberg use a Data Matrix barcode . or human-readable base 16 digits.
+
+The user stores the printed key in a secure location. To avoid abuse, the key can only be used in combination with a ‘normal’ password.
+
+The user can extract the key by creating a digital photo or scan of their paper key and feeding it to cryptographic software that extracts the key to decrypt the data.

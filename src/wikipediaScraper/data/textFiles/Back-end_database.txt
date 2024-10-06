@@ -1,0 +1,7 @@
+A back-end database is a database that is accessed by users indirectly through an external application rather than by application programming stored within the database itself or by low level manipulation of the data (e.g. through SQL commands).
+
+A back-end database stores data but does not include end-user application elements such as stored queries, forms, macros or reports.
+
+The back-end database concept was invented by Microsoft in 1989.
+
+The term back-end database is not widely used among developers using larger or enterprise database systems. This is because enterprise database systems enforce the use of the client–server model and do not have the option to include the application programming within their databases. All such databases are used as back-end databases and so the term is redundant.

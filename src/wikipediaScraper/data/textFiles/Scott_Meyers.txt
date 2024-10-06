@@ -1,0 +1,13 @@
+Scott Douglas Meyers (born April 9, 1959) is an American author and software consultant, specializing in the C++ computer programming language . He is known for his Effective C++ book series. During his career, he was a frequent speaker at conferences and trade shows.
+
+He holds a Ph.D. in computer science from Brown University and an M.S. in computer science from Stanford University . He conceived and, with Herb Sutter , Andrei Alexandrescu , Dan Saks, and Steve Dewhurst, co-organized and presented the boutique (limited-attendance) conference, The C++ Seminar , which took place three times in 2001-2002.  He also conceived and, with Sutter and Alexandrescu, co-organized and presented another boutique conference, C++ and Beyond annually in 2010-2014.
+
+Meyers has expressed opposition to asking programmers to solve design or programming problems during job interviews:
+
+"I hate anything that asks me to design on the spot. That's asking to demonstrate a skill rarely required on the job in a high-stress environment, where it is difficult for a candidate to accurately prove their abilities. I think it's fundamentally an unfair thing to request of a candidate."
+
+In December 2015, Meyers announced his retirement from the world of C++.
+
+Meyers is known for his popular Effective C++ Software Development books.
+
+In March 2009, Meyers was awarded the 2009 Dr. Dobb's Excellence in Programming Award .

@@ -1,0 +1,7 @@
+Crossing-based interfaces are graphical user interfaces that use crossing gestures instead of, or in complement to, pointing . Where a pointing task involves moving a cursor inside a graphical object and pressing a button, a goal-crossing task involves moving a cursor beyond a boundary of a targeted graphical object to trigger an effect.
+
+Goal crossing has been little investigated, despite sometimes being used on today's interfaces (e.g., mouse-over effects, hierarchical menus navigation, auto-retractable taskbars and hot corners ). Still, several advantages of crossing over pointing have been identified:
+
+There are several other ways of triggering actions in user interfaces, either graphic ( gestures ) and non-graphic ( keyboard shortcuts , speech commands ).
+
+Variants of Fitts' law have been described for goal-crossing tasks (Accot and Zhai 2002). Fitts' law is seen as a Law of pointing , describing variability in the direction of the pointer's movement. The Law of crossing describes the allowed variability in the direction perpendicular to movement, and the steering law describes movement along a tunnel.

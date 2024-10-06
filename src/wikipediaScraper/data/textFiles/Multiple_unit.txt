@@ -1,0 +1,107 @@
+A multiple-unit train or simply multiple unit ( MU ) is a self-propelled train composed of one or more carriages joined, which when coupled to another multiple unit can be controlled by a single driver, with multiple-unit train control .
+
+Although multiple units consist of several carriages, single self-propelled carriages – also called railcars , rail motor coaches or railbuses – are in fact multiple-units when two or more of them are working connected through multiple-unit train control (regardless if passengers can walk between the units or not).
+
+Multiple-unit train control was first used in electric multiple units in the 1890s.
+
+The Liverpool Overhead Railway opened in 1893 with two-car electric multiple units, controllers in cabs at both ends directly controlling the traction current to motors on both cars.
+
+The multiple-unit traction control system was developed by Frank Sprague and first applied and tested on the South Side Elevated Railroad (now part of the Chicago 'L' ) in 1897. In 1895, derived from his company's invention and production of direct-current elevator control systems, Frank Sprague invented a multiple-unit controller for electric train operation. This accelerated the construction of electric-traction railways and trolley systems worldwide. Each car of the train has its own traction motors: by means of motor control relays in each car energized by train-line wires from the front car, all the traction motors in the train are controlled in unison.
+
+Most MUs are powered either by traction motors , receiving their power through a third rail or overhead wire ( EMU ), or by a diesel engine driving a generator producing electricity to drive traction motors.
+
+A MU has the same power and traction components as a locomotive , but instead of the components being concentrated in one car, they are spread throughout the cars that make up the unit. In many cases these cars can only propel themselves when they are part of the unit, so they are semi-permanently coupled. For example, in a DMU one car might carry the prime mover and traction motors , and another the engine for head-end power generation; an EMU might have one car carry the pantograph and transformer , and another car carry the traction motors.
+
+MU cars can be a motor or trailer car, it is not necessary for every one to be motorized. Trailer cars can contain supplementary equipment such as air compressors, batteries, etc.; they may also be fitted with a driving cab.
+
+In most cases, MU trains can only be driven/controlled from dedicated cab cars. However, in some MU trains, every car is equipped with a driving console, and other controls necessary to operate the train, therefore every car can be used as a cab car whether it is motorised or not, if on the end of the train. An example of this arrangement is the NJ Transit Arrows.
+
+Virtually all rapid-transit rolling stock, such as on the New York City Subway , the London Underground , the Paris Metro and other subway systems, are multiple-units, usually EMUs. Most trains in the Netherlands and Japan are MUs, being suitable for use in areas of high population density.
+
+Many high-speed rail trains are also multiple-units, such as the Japanese Shinkansen and the latest-generation German Intercity-Express ICE 3 high-speed trains . A new high-speed MU, the AGV , was unveiled by France's Alstom on 5 February 2008. It has a claimed service speed of 360 km/h (220 mph). India's ICF announced the country's first high-speed engine-less train named 'train 18', which would run at 250 km/h maximum speed.
+
+Multiple unit has been used, occasionally for freight traffic, such as carrying containers or for trains used for maintenance. The Japanese M250 series train has four front and end carriages that are EMUs, and has been operating since March 2004. The German CargoSprinter have been used in three countries since 2003.
+
+They are more energy-efficient than locomotive-hauled trains.
+
+They have better adhesion , as more of the train's weight is carried on driven wheels, rather than the locomotive having to haul the dead weight of unpowered coaches.
+
+They have a higher power-to-weight-ratio than a locomotive-hauled train since they don't have a heavy locomotive that does not itself carry passengers, but contributes to the total weight of the train. This is particularly important where train services make frequent stops, since the energy consumed for accelerating the train increases significantly with an increase in weight. Because of the energy efficiency and higher adhesive-weight-to-total-weight ratio values, they generally have higher acceleration ability than locomotive-type trains and are favored in urban trains and metro systems for frequent start/stop routines.
+
+Most of them have cabs at both ends, resulting in quicker turnaround times, reduced crewing costs, and enhanced safety. The faster turnaround time and the reduced size (due to higher frequencies) as compared to large locomotive -hauled trains, has made the MU a major part of suburban commuter rail services in many countries. MUs are also used by most rapid transit systems. However, the need to turn a locomotive is no longer a problem for locomotive-hauled trains due to the increasing use of push pull trains .
+
+Multiple units may usually be quickly made up or separated into sets of varying lengths. Several multiple units may run as a single train, then be broken at a junction point into shorter trains for different destinations. As there are multiple engines/motors, the failure of one engine does not prevent the train from continuing its journey. A locomotive-drawn train typically has only one power unit, whose failure will disable the train. However, some locomotive-hauled trains may contain more than one power unit and thus be able to continue at reduced speed after the failure of one.
+
+They have lighter axle loads, allowing operation on lighter tracks, where locomotives may be banned. Another side effect of this is reduced track wear, as traction forces can be provided through many axles, rather than just the four or six of a locomotive. They generally have rigid couplers instead of the flexible ones often used on locomotive-hauled trains. That means brakes/throttle can be more quickly applied without an excessive amount of jerk experienced in passenger coaches. In a locomotive-hauled train, if the number of cars is changed to meet the demand, acceleration and braking performance will also change. This calls for performance calculations to be done taking the heaviest train composition into account. This may sometimes cause some trains in off-peak periods to be overpowered with respect to the required performance. When 2 or more multiple units are coupled, train performance remains almost unchanged. However, in locomotive-hauled train compositions, using more powerful locomotives when a train is longer can solve this problem.
+
+It may be easier to maintain one locomotive than many self-propelled cars. In the past, it was often safer to locate the train's power systems away from passengers. This was particularly the case for steam locomotives, but still has some relevance for casualties than one with a locomotive (where the heavy locomotive would act as a "crumple zone").
+
+If a locomotive fails, it can be easily replaced with minimal shunting movements. There would be no need for passengers to evacuate the train. Failure of a multiple unit will often require a whole new train and time-consuming switching activities; also passengers would be asked to evacuate the failed train and board another one. However, if the train consists of more than one multiple unit they are often designed such that in the event of the failure of one unit others in the train can tow it in neutral if brakes and other safety systems are operational.
+
+Idle trains do not waste expensive motive power resources. Separate locomotives mean that the costly motive power assets can be moved around as needed and also used for hauling freight trains. A multiple unit arrangement would limit these costly motive power resources to use in passenger transportation.
+
+It is difficult to have gangway connections between coupled units and still retain an aerodynamic leading front end. Because of this, there is usually no passage between high-speed coupled units, though lower-speed coupled units frequently have connections between coupled units. This may require more crew members, so that ticket inspectors, for example, can be present in all of them. This leads to higher operating costs and lower use of crew resources. In a locomotive-hauled train, one crew can serve the train regardless of the number of cars in the train provided limits of individual workload are not exceeded. Likewise, in such instances, buffet cars and other shared passenger facilities may need to be duplicated in each unit, reducing efficiency.
+
+Large locomotives can be used instead of small locomotives where more power is needed. Also, different types of passenger cars (such as reclining-seats, compartment cars, couchettes, sleepers, restaurant cars, buffet cars, etc.) can be easily added to or removed from a locomotive-drawn train. This is not so easy for a multiple unit, since individual cars can be attached or detached only in a maintenance facility. This also allows a loco-hauled train to be flexible in terms of number of cars. Cars can be removed or added one by one, but on multiple units two or more units have to be coupled. This is not so flexible.
+
+The passenger environment of a multiple unit is often noticeably noisier than that of a locomotive-hauled train, due to the presence of underfloor machinery. The same applies to vibration. This is a particular problem with DMUs .
+
+Separating the motive power from the payload-carrying cars means that either can be replaced when obsolete without affecting the other.
+
+Algeria possesses 17 units of the Coradia El Djazaïr, a multiple unit train produced by Alstom. These units are similar to the French version of Régiolis, which belongs to the Coradia family.
+
+Metrorail , which provides commuter rail service in major urban areas of South Africa, operates most services using electric multiple unit train sets of the type 5M2A . These trains are being gradually refurbished and subsequently designated as 10M3 (Cape Town), 10M4 (Gauteng) or 10M5 (Durban). Metrorail services are split into four regions; Gauteng , KwaZulu-Natal , Eastern Cape and Western Cape .
+
+Gautrain , a commuter rail system in Johannesburg , operates with Bombardier Electrostar electric multiple units.
+
+The concept of multiple unit has entered the horizon of the Chinese since the 6th Speed-up Campaign of China Railway in 2007. With the upgrade of Jinghu Railway , North Jingguang Railway , Jingha Railway and Hukun Railway , and the construction of new Passenger Dedicated Lines (or Passenger Railways) completed, CRH (China Railway High-speed) trains have been put into service, mainly in North and Northeast China, and East China. All these CRH trains are electric multiple units. This was the beginning of the general service of multiple unit trains in China's national railway system.
+
+Far earlier than the introduction of CRH brand, multiple unit trains have been running on all major cities' metro lines in China.
+
+In Japan most passenger trains, including the high-speed Shinkansen , are of the multiple-unit (MU) type, with most locomotives now used solely in freight operations. Of the locomotive-hauled passenger services still in operation, the majority are tourist-oriented, such as the numerous steam-hauled trains operated seasonally on scenic lines throughout the country, as well as some of the luxury cruise trains.
+
+Japan is a country of high population density with a large number of railway passengers in relatively small urban areas, and frequent operation of short-distance trains has been required. Therefore, the high acceleration ability and quick turnaround times of MUs have advantages, encouraging their development in this country. Additionally, the mountainous terrain gives the MUs an advantage on grades steeper than those found in most countries, particularly on small private lines many of which run from coastal cities to small towns in the mountains.
+
+Most long-distance trains in Japan were operated by locomotives until the 1950s, but by utilizing and enhancing the technology of short-distance urban MU trains, long-distance express MU-type vehicles were developed and widely introduced starting in the mid-1950s. This work resulted in the original Shinkansen development which optimized all of the EMU's efficiencies to maximize speed. It was introduced upon completion of the Tokaido Shinkansen (literally "new trunk line") in 1964. By the 1970s, locomotive traction was regarded as slow and inefficient, and its use is now mostly limited to freight trains.
+
+From 1999, there have been development efforts in freight EMU technology, but it is currently used only for an express freight service on the Tokaido Main Line between Tokyo and Osaka. The government has been pushing for the adoption of freight EMU technology on energy efficiency grounds in the hope that widespread adoption could assist in meeting CO 2 emissions targets. The effort has been principally targeted at express package shipping that would otherwise travel by road.
+
+The first EMUs have been introduced in Belgium in the 1930s. Several models have followed since then, such as the AM75 .
+
+CIÉ introduced its first DMUs , the 2600-class, in 1951.
+
+Elektrichka ( ‹See Tfd› Russian : электри́чка , Ukrainian : електри́чка , romanized : elektrychka ) is an informal word for elektropoezd ( ‹See Tfd› Russian : электропо́езд ), a Soviet or post-Soviet regional (mostly suburban ) electrical multiple unit passenger train . Elektrichkas are widespread in Russia, Ukraine and some other countries of the former Soviet Union. The first elektrichka ride occurred in August 1929 between Moscow and Mytishchi .
+
+Swedish railroads have been privatized in steps for about 25 years, and today many different companies operate different types of multiple units. A majority of passenger trains today consists of multiple unit trains of which regional traffic exclusively use them.
+
+The Swiss Federal Railways use many multiple units, mainly on regional lines ( S-Bahn ).
+
+In the UK the use of modern diesel multiple units was pioneered in Northern Ireland, although a number of other railway companies also experimented with early DMUs (including the Great Western and the London Midland Scottish). Notable examples include the Sprinter and Voyager families, and the newer Javelin trains.
+
+The London Underground passenger system is operated exclusively by EMUs. Work trains on the Underground employ separate locomotives, some of which are dual battery/live rail powered.
+
+In Northern Ireland the majority of passenger services have been operated by diesel multiple units since the mid-1950s under the tenure of both the Ulster Transport Authority (1948–1966) and Northern Ireland Railways (since 1967).
+
+The first multiple unis in Australia were the Tait trains, wooden bodied Electric Multiple Unit train that operated in Melbourne , Victoria . They were originally introduced as steam locomotive hauled carriages but were converted to electric traction from 1919 during Melbourne’s electrification project.
+
+Indian Railways has recently introduced a semi-high-speed EMU named Vande Bharat Express , capable of running at 183 km/h (114 mph). And it continues to use diesel and electrical multiple units on its national network. All suburban and rapid transit lines are served by EMUs.
+
+Indonesia uses diesel since 1976 and electric MUs since 1925. Most of these MUs were built in Japan.
+
+The Manila Railroad Company (MRR) acquired its first multiple units in the 1930s. The locally-built MC class was initially powered by gasoline and was changed to diesel during World War II . Both the MRR and its successor, the Philippine National Railways (PNR), has since acquired various classes of diesel multiple units. All multiple units owned by MRR and all of the older MUs of the PNR were built by Japanese firms. On the other hand, its newer rolling stock were built in South Korea and Indonesia . There will also be DMUs that will be built in China .
+
+The first electric multiple units were acquired in 1984 for the LRT Line 1 built by La Brugeoise et Nivelles in Belgium . The first EMUs to be used outside of rapid transit will enter service between 2021 and 2022.
+
+Most trains in North America are locomotive-hauled and use Multiple Unit (MU) control to control multiple locomotives.  The control system of the leading locomotive connects to the other locomotives so that the engineer's control is repeated on all the additional locomotives. The locomotives are connected by multi-core cables. The Railway Technical Website , vol. US Locomotive MU Control This does not make these locomotives MUs for the purposes of this article. See locomotive consist .
+
+However, commuters, rapid transit , and light rail operations make extensive use of MUs. Most electrically powered trains are MUs.
+
+The Southeastern Pennsylvania Transportation Authority ( SEPTA ) Regional Rail Division uses EMUs almost exclusively — the exception being some of its peak express service. New Jersey Transit service on the Northeast Corridor Line is split between electric locomotives and EMUs.
+
+M2 , M4 , M6 and M8 EMUs which operate on the New Haven Line of Metro-North Railroad , are “ multi-system ” meaning they can draw power from either the third rail or from overhead lines . This allows operation under the wires between Pelham, NY and New Haven, CT , a section of track owned by Metro North but shared with Amtrak's Northeast Corridor service, and on third rail between Pelham and Grand Central Terminal . EMUs are used on AMT 's Montreal/Deux-Montagnes line .
+
+DMUs are less common, partly because new light rail operations are almost entirely electric, with many commuter routes already electrified, and also because of the difficulties posed by Federal Railway Administration rules limiting their use on shared passenger/freight corridors. When the Budd RDC was developed following World War II, it was adopted for many secondary passenger routes in the United States (especially on the Boston and Maine Railroad ) and Canada. These operations generally survived longer in Canada, but several were abandoned in the Via Rail cutbacks of the early 1990s. One that survives is Victoria - Courtenay train on Vancouver Island. DMU use in Canada has been resurrected in recent years, beginning with the opening of Union Pearson Express in 2015.
+
+While most DMUs need to comply with strict FRA crash requirements for simultaneous operation with freight railways, European-style DMUs are used with timesharing arrangements on several rail lines, including the RiverLINE in New Jersey. Only a handful of manufacturers in the United States produce or have produced FRA-compliant DMUs, including Colorado Railcar (now US Railcar ) and Nippon Sharyo / Sumitomo Corporation . NJ Transit has experimented with this DMU on the Princeton Branch line. In August 2006 it was announced that Amtrak wants the State of Vermont to experiment with DMUs on the state-subsidized Vermonter line from New Haven north to St. Albans to replace the less efficient diesel locomotive trainsets currently used.
+
+MU streetcars were used in Toronto by the Toronto Transportation Commission (later Toronto Transit Commission ) from 1949 to 1966 using 100 PCC A-7 built by St. Louis Car Company and Canadian Car and Foundry . These two car units ran along the Bloor Street route only beginning in 1950 and ceased operations after the opening of the Bloor–Danforth subway line in 1966. The A-7 units were later converted to single use.

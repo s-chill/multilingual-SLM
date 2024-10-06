@@ -1,0 +1,17 @@
+An XML database is a data persistence software system that allows data to be specified, and sometimes stored, in XML format. This data can be queried , transformed, exported and returned to a calling system. XML databases are a flavor of document-oriented databases which are in turn a category of NoSQL database.
+
+There are a number of reasons to directly specify data in XML or other document formats such as JSON . For XML in particular, they include:
+
+Steve O'Connell gives one reason for the use of XML in databases: the increasingly common use of XML for data transport , which has meant that "data is extracted from databases and put into XML documents and vice-versa". It may prove more efficient (in terms of conversion costs) and easier to store the data in XML format.  In content-based applications, the ability of the native XML database also minimizes the need for extraction or entry of metadata to support searching and navigation.
+
+XML-enabled databases typically offer one or more of the following approaches to storing XML within the traditional relational structure:
+
+RDBMS that support the ISO XML Type are:
+
+Typically an XML-enabled database is best suited where the majority of data are non-XML. For datasets where the majority of data are XML, a native XML database is better suited.
+
+Native XML databases are especially tailored for working with XML data. As managing XML as large strings would be inefficient, and due to the hierarchical nature of XML, custom optimized data structures are used for storage and querying. This usually increases performance both in terms of read-only queries and updates. XML nodes and documents are the fundamental unit of (logical) storage, just as a relational database has fields and rows.
+
+The standard for querying XML data per W3C recommendation is XQuery ; the latest version is XQuery 3.1. XQuery includes XPath as a sub-language and XML itself is a valid sub-syntax of XQuery. In addition to XPath, some XML databases support XSLT as a method of transforming documents or query results retrieved from the database.
+
+For data-centric XML datasets, the unique and distinct keyword search method, namely, XDMA for XML databases is designed and developed based on dual indexing and mutual summation.

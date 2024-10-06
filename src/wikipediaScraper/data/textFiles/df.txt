@@ -1,0 +1,19 @@
+df (abbreviation for d isk f ree ) is a standard Unix command used to display the amount of available disk space for file systems on which the invoking user has appropriate read access. df is typically implemented using the statfs or statvfs system calls .
+
+df for Unix-like systems is part of the X/Open Portability Guide since issue 2 of 1987. It was inherited into the first version of POSIX and the Single Unix Specification . It first appeared in Version 1 AT&T Unix .
+
+The version of df bundled in GNU coreutils was written by Torbjorn Granlund, David MacKenzie, and Paul Eggert. The command is available as a separate package for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities.
+
+The Single UNIX Specification specifications for df are:
+
+Most implementations of df in Unix and Unix-like operating systems include extra options. The BSD and GNU coreutils versions include -h , which lists free space in human readable format displaying units with the appropriate SI prefix (e.g. 10 MB ), -i , which lists inode usage, and -l , restricting display to only local filesystems. GNU df includes -T as well, listing filesystem type information, but the GNU df shows the sizes in 1K blocks by default.
+
+The Single Unix Specification (SUS) specifies by original space is reported in blocks of 512 bytes, and that at a minimum, the file system names and the amount of free space.
+
+The use of 512-byte units is historical practice and maintains compatibility with ls and other utilities. This does not mandate that the file system itself be based on 512-byte blocks. The -k option was added as a compromise measure. It was agreed by the standard developers that 512 bytes was the best default unit because of its complete historical consistency on System V (versus the mixed 512/1024-byte usage on BSD systems), and that a -k option to switch to 1024-byte units was a good compromise. Users who prefer the more logical 1024-byte quantity can easily alias df to df -k without breaking many historical scripts relying on the 512-byte units.
+
+The output with -P consists of one line of information for each specified file system. These lines are formatted as follows:
+
+In the following list, all quantities expressed in 512-byte units (1024-byte when -k is specified) will be rounded up to the next higher unit. The fields are:
+
+Example outputs of the df command:

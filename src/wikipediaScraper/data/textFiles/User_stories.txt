@@ -1,0 +1,62 @@
+In software development and product management , a user story is an informal, natural language description of features of a software system. They are written from the perspective of an end user or user of a system , and may be recorded on index cards, Post-it notes , or digitally in specific management software. Depending on the product, user stories may be written by different stakeholders like client, user, manager, or development team.
+
+User stories are a type of boundary object . They facilitate sensemaking and communication; and may help software teams document their understanding of the system and its context.
+
+User stories are written by or for users or customers to influence the functionality of the system being developed. In some teams, the product manager (or product owner in Scrum ), is primarily responsible for formulating user stories and organizing them into a product backlog . In other teams, anyone can write a user story. User stories can be developed through discussion with stakeholders, based on personas or are simply made up.
+
+User stories may follow one of several formats or templates.
+
+The most common is the Connextra template , stated below. Mike Cohn suggested the "so that" clause is optional although still often helpful.
+
+Chris Matts suggested that "hunting the value" was the first step in successfully delivering software, and proposed this alternative:
+
+Another template based on the Five Ws specifies:
+
+A template that's commonly used to improve security is called the "Evil User Story" or "Abuse User Story" and is used as a way to think like a hacker in order to consider scenarios that might occur in a cyber-attack. These stories are written from the perspective of an attacker attempting to compromise or damage the application, rather the typical personae found in a user story:
+
+A central part of many agile development methodologies, such as in extreme programming 's planning game , user stories describe what may be built in the software product. User stories are prioritized by the customer (or the product owner in Scrum ) to indicate which are most important for the system and will be broken down into tasks and estimated by the developers. One way of estimating is via a Fibonacci scale.
+
+When user stories are about to be implemented, the developers should have the possibility to talk to the customer about it. The short stories may be
+difficult to interpret, may require some background knowledge or the requirements may have changed since the story was written.
+
+User stories can be expanded to add detail based on these conversations. This can include notes, attachments and acceptance criteria.
+
+Mike Cohn defines acceptance criteria as "notes about what the story must do in order for the product owner to accept it as complete." They define the boundaries of a user story and are used to confirm when a story is completed and working as intended.
+
+The appropriate amount of information to be included in the acceptance criteria varies by team, program and project. Some may include 'predecessor criteria', "The user has already logged in and has already edited his information once". Some may write the acceptance criteria in typical agile format, Given-When-Then . Others may simply use bullet points taken from original requirements gathered from customers or stakeholders. In order for a story to be considered done or complete, all acceptance criteria must be met.
+
+There is no good evidence that using user stories increases software success or developer productivity. However, user stories facilitate sensemaking without undue problem structuring, which is linked to success.
+
+Limitations of user stories include:
+
+In many contexts, user stories are used and also summarized in groups for ontological, semantic and organizational reasons. Initiative is also referred to as Program in certain scaled agile frameworks. The different usages depend on the point-of-view, e.g. either looking from a user perspective as product owner in relation to features or a company perspective in relation to task organization.
+
+While some suggest to use 'epic' and 'theme' as labels for any thinkable kind of grouping of user stories, organization management tends to use it for strong structuring and uniting work loads. For instance, Jira seems to use a hierarchically organized to-do-list , in which they named the first level of to-do-tasks 'user-story', the second level 'epics' (grouping of user stories) and the third level 'initiatives' (grouping of epics). However, initiatives are not always present in product management development and just add another level of granularity. In Jira, 'themes' exist (for tracking purposes) that allow to cross-relate and group items of different parts of the fixed hierarchy .
+
+In this usage, Jira shifts the meaning of themes in an organization perspective: e.g how much time did we spent on developing theme "xyz". But another definition of themes is: a set of stories, epics, features etc for a user that forms a common semantic unit or goal . There is probably not a common definition because different approaches exist for different styles of product design and development. In this sense, some also suggest to not use any kind of hard groups and hierarchies.
+
+Multiple epics or many very large stories that are closely related are summarized as themes. A common explanation of epics is also: so much work that requires many sprints, or in scaled frameworks -- a Release Train or Solution Train.
+
+Multiple themes, epics, or stories grouped together hierarchically.
+
+Multiple themes or stories grouped together by ontology and/or semantic relationship.
+
+A story map organises user stories according to a narrative flow that presents the big picture of the product.  The technique was developed by Jeff Patton from 2005 to 2014 to address the risk of projects flooded with very detailed user stories that distract from realizing the product's main objectives.
+
+User story mapping uses workshops with users to identify first the main business activities.  Each of these main activities may involve several kind of users or personas.
+
+The horizontal cross-cutting narrative line is then drawn by identifying the main tasks of the individual user involved in these business activities. The line is kept throughout the project. More detailed user stories are gathered and collected as usual with the user story practice. But each new user story is either inserted into the narrative flow or related vertically to a main tasks.
+
+The horizontal axis corresponds to the coverage of the product objectives, and the vertical axis to the needs of the individual users.
+
+In this way it becomes possible to describe even large systems without losing the big picture.
+
+Story maps can easily provide a two-dimensional graphical visualization of the product backlog : At the top of the map are the headings under which stories are grouped, usually referred to as 'epics' (big coarse-grained user stories), 'themes' (collections of related user stories ) or 'activities'. These are identified by orienting at the user’s workflow or "the order you'd explain the behavior of the system". Vertically, below the epics, the actual story cards are allocated and ordered by priority. The first horizontal row is a "walking skeleton" and below that represents increasing sophistication.
+
+A user journey map intends to show the big picture but for a single user category.  Its narrative line focuses on the chronology of phases and actions that a single user has to perform in order to achieve their objectives.
+
+This allows to map the user experience beyond a set of user stories. Based on user feedback, the positive and negative emotions can be identified across the journey. Points of friction or unfulfilled needs can be identified on the map.  This technique is used to improve the design of a product, allowing to engage users in participatory approaches.
+
+A use case has been described as "a generalized description of a set of interactions between the system and one or more actors, where an actor is either a user or another system." While user stories and use cases have some similarities, there are several differences between them.
+
+Kent Beck , Alistair Cockburn , Martin Fowler and others discussed this topic further on the c2.com wiki (the home of extreme programming ).

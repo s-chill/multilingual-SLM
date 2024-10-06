@@ -1,0 +1,29 @@
+Computer-integrated manufacturing ( CIM ) is the manufacturing approach of using computers to control the entire production process. This integration allows individual processes to exchange information with each part. Manufacturing can be faster and less error-prone by the integration of computers. Typically CIM relies on closed-loop control processes based on real-time input from sensors. It is also known as flexible design and manufacturing .
+
+CIM is an example of the implementation of information and communication technologies (ICTs) in manufacturing.
+
+CIM implies that there are at least two computers exchanging information, e.g. the controller of an arm robot and a micro-controller.
+
+CIM is most useful where a high level of ICT is used in the company or facility, such as CAD/CAM systems, and the availability of process planning and its data.
+
+The idea of "digital manufacturing" became prominent in the early 1970s, with the release of Dr. Joseph Harrington's book, Computer Integrated Manufacturing. However, it was not until 1984 when computer-integrated manufacturing began to be developed and promoted by machine tool manufacturers and the Computer and Automated Systems Association and Society of Manufacturing Engineers (CASA/SME).
+
+There are three major challenges to development of a smoothly operating computer-integrated manufacturing system:
+
+A computer-integrated manufacturing system is not the same as a "lights-out factory" , which would run completely independent of human intervention, although it is a big step in that direction. Part of the system involves flexible manufacturing , where the factory can be quickly modified to produce different products, or where the volume of products can be changed quickly with the aid of computers. Some or all of the following subsystems may be found in a CIM operation:
+
+Computer-aided techniques:
+
+Devices and equipment required:
+
+Technologies:
+
+Others:
+
+CIMOSA (Computer Integrated Manufacturing Open System Architecture), is a 1990s European proposal for an open systems architecture for CIM developed by the AMICE Consortium as a series of ESPRIT projects. The goal of CIMOSA was "to help companies to manage change and integrate their facilities and operations to face world wide competition. It provides a consistent architectural framework for both enterprise modeling and enterprise integration as required in CIM environments".
+
+CIMOSA provides a solution for business integration with four types of products:
+
+CIMOSA according to Vernadat (1996), coined the term business process and introduced the process-based approach for integrated enterprise modeling based on a cross-boundaries approach, which opposed to traditional function or activity-based approaches. With CIMOSA also the concept of an " Open System Architecture " (OSA) for CIM was introduced, which was designed to be vendor-independent, and constructed with standardised CIM modules. Here to the OSA is "described in terms of their function, information, resource, and organizational aspects. This should be designed with structured engineering methods and made operational in a modular and evolutionary architecture for operational use".
+
+There are multiple areas of usage:

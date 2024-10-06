@@ -1,0 +1,534 @@
+This comparison of programming languages (associative arrays) compares the features of associative array data structures or array-lookup processing for over 40 computer programming languages .
+
+The following is a comparison of associative arrays (also "mapping", "hash", and "dictionary") in various programming languages.
+
+AWK has built-in, language-level support for associative arrays.
+
+For example:
+
+The following code loops through an associated array and prints its contents:
+
+The user can search for elements in an associative array, and delete elements from the array.
+
+The following shows how multi-dimensional associative arrays can be simulated in standard AWK using concatenation and the built-in string-separator variable SUBSEP:
+
+There is no standard implementation of associative arrays in C , but a 3rd-party library, C Hash Table, with BSD license, is available.
+
+Another 3rd-party library, uthash, also creates associative arrays from C structures. A structure represents a value, and one of the structure fields serves as the key.
+
+Finally, the GLib library also supports associative arrays, along with many other advanced data types and is the recommended implementation of the GNU Project.
+
+Similar to GLib , Apple 's cross-platform Core Foundation framework provides several basic data types. In particular, there are reference-counted CFDictionary and CFMutableDictionary.
+
+C# uses the collection classes provided by the .NET Framework . The most commonly used associative array type is System.Collections.Generic.Dictionary<TKey, TValue> , which is implemented as a mutable hash table. The  relatively new System.Collections.Immutable package, available in .NET Framework versions 4.5 and above, and in all versions of .NET Core , also includes the System.Collections.Immutable.Dictionary<TKey, TValue> type, which is implemented using an AVL tree . The methods that would normally mutate the object in-place instead return a new object that represents the state of the original object after mutation.
+
+The following demonstrates three means of populating a mutable dictionary:
+
+The dictionary can also be initialized during construction using a "collection initializer", which compiles to repeated calls to Add .
+
+Values are primarily retrieved using the indexer (which throws an exception if the key does not exist) and the TryGetValue method, which has an output parameter for the sought value and a Boolean return-value indicating whether the key was found.
+
+In this example, the sallyNumber value will now contain the string "555-9999" .
+
+A dictionary can be viewed as a sequence of keys, sequence of values, or sequence of pairs of keys and values represented by instances of the KeyValuePair<TKey, TValue> type, although there is no guarantee of order. For a sorted dictionary, the programmer could choose to use a SortedDictionary<TKey, TValue> or use the .Sort LINQ extension method when enumerating.
+
+The following demonstrates enumeration using a foreach loop :
+
+C++ has a form of associative array called std::map (see Standard Template Library#Containers ). One could create a phone-book map with the following code in C++:
+
+Or less efficiently, as this creates temporary std::string values:
+
+With the extension of initialization lists in C++11, entries can be added during a map's construction as shown below:
+
+You can iterate through the list with the following code (C++03):
+
+The same task in C++11:
+
+Using the structured binding available in C++17 :
+
+In C++, the std::map class is templated which allows the data types of keys and values to be different for different map instances. For a given instance of the map class the keys must be of the same base type. The same must be true for all of the values. Although std::map is typically implemented using a self-balancing binary search tree , C++11 defines a second map called std::unordered_map , which has the algorithmic characteristics of a hash table. This is a common vendor extension to the Standard Template Library (STL) as well, usually called hash_map , available from such implementations as SGI and STLPort.
+
+Initializing an empty dictionary and adding items in Cobra :
+
+Alternatively, a dictionary can be initialized with all items during construction:
+
+The dictionary can be enumerated by a for-loop, but there is no guaranteed order:
+
+A structure in ColdFusion Markup Language (CFML) is equivalent to an associative array:
+
+D offers direct support for associative arrays in the core language; such arrays are implemented as a chaining hash table with binary trees. The equivalent example would be:
+
+Keys and values can be any types, but all the keys in an associative array must be of the same type, and the same goes for dependent values.
+
+Looping through all properties and associated values, and printing them, can be coded as follows:
+
+A property can be removed as follows:
+
+Delphi supports several standard containers, including TDictionary<T>:
+
+Pre-2009 Delphi versions do not support associative arrays directly. Such arrays can be simulated using the TStrings class:
+
+Erlang offers many ways to represent mappings; three of the most common in the standard library are keylists, dictionaries, and maps.
+
+Keylists are lists of tuples , where the first element of each tuple is a key, and the second is a value. Functions for operating on keylists are provided in the lists module.
+
+Accessing an element of the keylist can be done with the lists:keyfind/3 function:
+
+Dictionaries are implemented in the dict module of the standard library. A new dictionary is created using the dict:new/0 function and new key/value pairs are stored using the dict:store/3 function:
+
+Such a serial initialization would be more idiomatically represented in Erlang with the appropriate function:
+
+The dictionary can be accessed using the dict:find/2 function:
+
+In both cases, any Erlang term can be used as the key. Variations include the orddict module, implementing ordered dictionaries, and gb_trees , implementing general balanced trees.
+
+Maps were introduced in OTP 17.0, and combine the strengths of keylists and dictionaries. A map is defined using the syntax #{ K1 => V1, ... Kn => Vn } :
+
+Basic functions to interact with maps are available from the maps module. For example, the maps:find/2 function returns the value associated with a key:
+
+Unlike dictionaries, maps can be pattern matched upon:
+
+Erlang also provides syntax sugar for functional updates—creating a new map based on an existing one, but with modified values or additional keys:
+
+At runtime, F# provides the Collections.Map<'Key,'Value> type, which is an immutable AVL tree .
+
+The following example calls the Map constructor, which operates on a list (a semicolon delimited sequence of elements enclosed in square brackets) of tuples (which in F# are comma-delimited sequences of elements).
+
+Values can be looked up via one of the Map members, such as its indexer or Item property (which throw an exception if the key does not exist) or the TryFind function, which returns an option type with a value of Some <result> , for a successful lookup, or None , for an unsuccessful one. Pattern matching can then be used to extract the raw value from the result, or a default value can be set.
+
+In both examples above, the sallyNumber value would contain the string "555-9999" .
+
+Because F# is a .NET language, it also has access to features of the .NET Framework , including the System . Collections . Generic . Dictionary < ' TKey , ' TValue > type (which is implemented as a hash table ), which is the primary associative array type used in C# and Visual Basic. This type may be preferred when writing code that is intended to operate with other languages on the .NET Framework, or when the performance characteristics of a hash table are preferred over those of an AVL tree.
+
+The dict function provides a means of conveniently creating a .NET dictionary that is not intended to be mutated; it accepts a sequence of tuples and returns an immutable object that implements IDictionary<'TKey,'TValue> .
+
+When a mutable dictionary is needed, the constructor of System . Collections . Generic . Dictionary < ' TKey , ' TValue > can be called directly. See the C# example on this page for additional information.
+
+IDictionary instances have an indexer that is used in the same way as Map , although the equivalent to TryFind is TryGetValue , which has an output parameter for the sought value and a Boolean return value indicating whether the key was found.
+
+F# also allows the function to be called as if it had no output parameter and instead returned a tuple containing its regular return value and the value assigned to the output parameter:
+
+A dictionary or map can be enumerated using Seq.map .
+
+Visual FoxPro implements mapping with the Collection Class.
+
+GetKey returns 0 if the key is not found.
+
+Go has built-in, language-level support for associative arrays, called "maps". A map's key type may only be a boolean, numeric, string, array, struct, pointer, interface, or channel type.
+
+A map type is written: map[keytype]valuetype
+
+Adding elements one at a time:
+
+A map literal:
+
+Iterating through a map:
+
+The Haskell programming language provides only one kind of associative container – a list of pairs:
+
+output:
+
+Note that the lookup function returns a "Maybe" value, which is "Nothing" if not found, or "Just 'result ' " when found.
+
+The Glasgow Haskell Compiler (GHC), the most commonly used implementation of Haskell, provides two more types of associative containers. Other implementations may also provide these.
+
+One is polymorphic functional maps (represented as immutable balanced binary trees):
+
+output:
+
+A specialized version for integer keys also exists as Data.IntMap.
+
+Finally, a polymorphic hash table:
+
+output:
+
+Lists of pairs and functional maps both provide a purely functional interface, which is more idiomatic in Haskell. In contrast, hash tables provide an imperative interface in the IO monad .
+
+In Java associative arrays are implemented as "maps", which are part of the Java collections framework . Since J2SE 5.0 and the introduction of generics into Java, collections can have a type specified; for example, an associative array that maps strings to strings might be specified as follows:
+
+The get method is used to access a key; for example, the value of the expression phoneBook.get("Sally Smart") is "555-9999" . This code uses a hash map to store the associative array, by calling the constructor of the HashMap class. However, since the code only uses methods common to the interface Map , a self-balancing binary tree could be used by calling the constructor of the TreeMap class (which implements the subinterface SortedMap ), without changing the definition of the phoneBook variable, or the rest of the code, or using other underlying data structures that implement the Map interface.
+
+The hash function in Java, used by HashMap and HashSet, is provided by the Object.hashCode() method. Since every class in Java inherits from Object , every object has a hash function. A class can override the default implementation of hashCode() to provide a custom hash function more in accordance with the properties of the object.
+
+The Object class also contains the equals(Object) method, which tests an object for equality with another object. Hashed data structures in Java rely on objects maintaining the following contract between their hashCode() and equals() methods:
+
+For two objects a and b ,
+
+In order to maintain this contract, a class that overrides equals() must also override hashCode() , and vice versa, so that hashCode() is based on the same properties (or a subset of the properties) as equals() .
+
+A further contract that a hashed data structure has with the object is that the results of the hashCode() and equals() methods will not change once the object has been inserted into the map. For this reason, it is generally a good practice to base the hash function on immutable properties of the object.
+
+Analogously, TreeMap, and other sorted data structures, require that an ordering be defined on the data type. Either the data type must already have defined its own ordering, by implementing the Comparable interface; or a custom Comparator must be provided at the time the map is constructed. As with HashMap above, the relative ordering of keys in a TreeMap should not change once they have been inserted into the map.
+
+JavaScript (and its standardized version, ECMAScript ) is a prototype-based object-oriented language.
+
+Modern JavaScript handles associative arrays, using the Map and WeakMap classes. A map does not contain any keys by default; it only contains what is explicitly put into it. The keys and values can be any type (including functions, objects, or any primitive).
+
+A map can be initialized with all items during construction:
+
+Alternatively, you can initialize an empty map and then add items:
+
+Accessing an element of the map can be done with the get method:
+
+In this example, the value sallyNumber will now contain the string "555-9999".
+
+The keys in a map are ordered. Thus, when iterating through it, a map object returns keys in order of insertion. The following demonstrates enumeration using a for-loop:
+
+A key can be removed as follows:
+
+An object is similar to a map—both let you set keys to values, retrieve those values, delete keys, and detect whether a value is stored at a key. For this reason (and because there were no built-in alternatives), objects historically have been used as maps.
+
+However, there are important differences that make a map preferable in certain cases. In JavaScript an object is a mapping from property names to values—that is, an associative array with one caveat: the keys of an object must be either a string or a symbol (native objects and primitives implicitly converted to a string keys are allowed). Objects also include one feature unrelated to associative arrays: an object has a prototype, so it contains default keys that could conflict with user-defined keys. So, doing a lookup for a property will point the lookup to the prototype's definition if the object does not define the property.
+
+An object literal is written as { property1: value1, property2: value2, ... } . For example:
+
+To prevent the lookup from using the prototype's properties, you can use the Object.setPrototypeOf function:
+
+As of ECMAScript 5 (ES5), the prototype can also be bypassed by using Object.create(null) :
+
+If the property name is a valid identifier, the quotes can be omitted, e.g.:
+
+Lookup is written using property-access notation, either square brackets, which always work, or dot notation, which only works for identifier keys:
+
+You can also loop through all enumerable properties and associated values as follows (a for-in loop):
+
+Or (a for-of loop):
+
+A property can be removed as follows:
+
+As mentioned before, properties are strings and symbols. Since every native object and primitive can be implicitly converted to a string, you can do:
+
+In modern JavaScript it's considered bad form to use the Array type as an associative array. Consensus is that the Object type and Map / WeakMap classes are best for this purpose. The reasoning behind this is that if Array is extended via prototype and Object is kept pristine, for and for-in loops will work as expected on associative 'arrays'. This issue has been brought to the fore by the popularity of JavaScript frameworks that make heavy and sometimes indiscriminate use of prototypes to extend JavaScript's inbuilt types.
+
+See JavaScript Array And Object Prototype Awareness Day for more information on the issue.
+
+In Julia , the following operations manage associative arrays.
+
+Declare dictionary:
+
+Access element:
+
+Add element:
+
+Delete element:
+
+Get keys and values as iterables :
+
+In KornShell 93, and compliant shells (ksh93, bash4...), the following operations can be used with associative arrays.
+
+Definition:
+
+Dereference:
+
+Lisp was originally conceived as a "LISt Processing" language, and one of its most important data types is the linked list, which can be treated as an association list ("alist").
+
+The syntax (x . y) is used to indicate a cons ed pair. Keys and values need not be the same type within an alist. Lisp and Scheme provide operators such as assoc to manipulate alists in ways similar to associative arrays.
+
+A set of operations specific to the handling of association lists exists for Common Lisp , each of these working non-destructively.
+
+To add an entry the acons function is employed, creating and returning a new association list. An association list in Common Lisp mimicks a stack, that is, adheres to the last-in-first-out (LIFO) principle, and hence prepends to the list head.
+
+This function can be construed as an accommodation for cons operations.
+
+Of course, the destructive push operation also allows inserting entries into an association list, an entry having to constitute a key-value cons in order to retain the mapping's validity.
+
+Searching for an entry by its key is performed via assoc , which might be configured for the test predicate and direction, especially searching the association list from its end to its front. The result, if positive, returns the entire entry cons, not only its value. Failure to obtain a matching key leads to a return of the NIL value.
+
+Two generalizations of assoc exist: assoc-if expects a predicate function that tests each entry's key, returning the first entry for which the predicate produces a non- NIL value upon invocation. assoc-if-not inverts the logic, accepting the same arguments, but returning the first entry generating NIL .
+
+The inverse process, the detection of an entry by its value, utilizes rassoc .
+
+The corresponding generalizations rassoc-if and rassoc-if-not exist.
+
+All of the previous entry search functions can be replaced by general list-centric variants, such as find , find-if , find-if-not , as well as pertinent functions like position and its derivates.
+
+Deletion, lacking a specific counterpart, is based upon the list facilities, including destructive ones.
+
+Iteration is accomplished with the aid of any function that expects a list.
+
+These being structured lists, processing and transformation operations can be applied without constraints.
+
+Because of their linear nature, alists are used for relatively small sets of data. Common Lisp also supports a hash table data type, and for Scheme they are implemented in SRFI 69. Hash tables have greater overhead than alists, but provide much faster access when there are many elements. A further characteristic is the fact that Common Lisp hash tables do not, as opposed to association lists, maintain the order of entry insertion.
+
+Common Lisp hash tables are constructed via the make-hash-table function, whose arguments encompass, among other configurations, a predicate to test the entry key. While tolerating arbitrary objects, even heterogeneity within a single hash table instance, the specification of this key :test function is confined to distinguishable entities: the Common Lisp standard only mandates the support of eq , eql , equal , and equalp , yet designating additional or custom operations as permissive for concrete implementations.
+
+The gethash function permits obtaining the value associated with a key.
+
+Additionally, a default value for the case of an absent key may be specified.
+
+An invocation of gethash actually returns two values: the value or substitute value for the key and a boolean indicator, returning T if the hash table contains the key and NIL to signal its absence.
+
+Use remhash for deleting the entry associated with a key.
+
+clrhash completely empties the hash table.
+
+The dedicated maphash function specializes in iterating hash tables.
+
+Alternatively, the loop construct makes provisions for iterations, through keys, values, or conjunctions of both.
+
+A further option invokes with-hash-table-iterator , an iterator-creating macro, the processing of which is intended to be driven by the caller.
+
+It is easy to construct composite abstract data types in Lisp, using structures or object-oriented programming features, in conjunction with lists, arrays, and hash tables.
+
+LPC implements associative arrays as a fundamental type known as either "map" or "mapping", depending on the driver. The keys and values can be of any type. A mapping literal is written as ([ key_1 : value_1, key_2 : value_2 ]) . Procedural code looks like:
+
+Mappings are accessed for reading using the indexing operator in the same way as they are for writing, as shown above. So phone_book["Sally Smart"] would return the string "555-9999", and phone_book["John Smith"] would return 0. Testing for presence is done using the function member(), e.g. if(member(phone_book, "John Smith")) write("John Smith is listed.\n");
+
+Deletion is accomplished using a function called either m_delete() or map_delete(), depending on the driver: m_delete(phone_book, "Sally Smart");
+
+LPC drivers of the Amylaar family implement multivalued mappings using a secondary, numeric index (other drivers of the MudOS family do not support multivalued mappings.) Example syntax:
+
+LPC drivers modern enough to support a foreach() construct use it to iterate through their mapping types.
+
+In Lua , "table" is a fundamental type that can be used either as an array (numerical index, fast) or as an associative array.
+
+The keys and values can be of any type, except nil. The following focuses on non-numerical indexes.
+
+A table literal is written as { value, key = value, [index] = value, ["non id string"] = value } . For example:
+
+If the key is a valid identifier (not a reserved word), the quotes can be omitted. Identifiers are case sensitive.
+
+Lookup is written using either square brackets, which always works, or dot notation, which only works for identifier keys:
+
+You can also loop through all keys and associated values with iterators or for-loops:
+
+An entry can be removed by setting it to nil:
+
+Likewise, you can overwrite values or add them:
+
+Mathematica and Wolfram Language use the Association expression to represent associative arrays.
+
+To access:
+
+If the keys are strings, the Key keyword is not necessary, so:
+
+To list keys: and values
+
+In MUMPS every array is an associative array. The built-in, language-level, direct support for associative arrays
+applies to private, process-specific arrays stored in memory called "locals" as well as to the permanent, shared, global arrays stored on disk which are available concurrently to multiple jobs. The name for globals is preceded by the circumflex "^" to distinguish them from local variables.
+
+Accessing the value of an element simply requires using the name with the subscript:
+
+You can also loop through an associated array as follows:
+
+Cocoa and GNUstep , written in Objective-C , handle associative arrays using NSMutableDictionary (a mutable version of NSDictionary ) class cluster. This class allows assignments between any two objects. A copy of the key object is made before it is inserted into NSMutableDictionary , therefore the keys must conform to the NSCopying protocol. When being inserted to a dictionary, the value object receives a retain message to increase its reference count. The value object will receive the release message when it will be deleted from the dictionary (either explicitly or by adding to the dictionary a different object with the same key).
+
+To access assigned objects, this command may be used:
+
+All keys or values can be enumerated using NSEnumerator :
+
+In Mac OS X 10.5+ and iPhone OS, dictionary keys can be enumerated more concisely using the NSFastEnumeration construct:
+
+What is even more practical, structured data graphs may be easily created using Cocoa , especially NSDictionary ( NSMutableDictionary ). This can be illustrated with this compact example:
+
+Relevant fields can be quickly accessed using key paths:
+
+The OCaml programming language provides three different associative containers. The simplest is a list of pairs:
+
+The second is a polymorphic hash table:
+
+The code above uses OCaml's default hash function Hashtbl.hash , which is defined automatically for all types. To use a modified hash function, use the functor interface Hashtbl.Make to create a module, such as with Map .
+
+Finally, functional maps (represented as immutable balanced binary trees):
+
+Note that in order to use Map , you have to provide the functor Map.Make with a module which defines the key type and the comparison function. The third-party library ExtLib provides a polymorphic version of functional maps, called PMap , which is given a comparison function upon creation.
+
+Lists of pairs and functional maps both provide a purely functional interface. By contrast, hash tables provide an imperative interface. For many operations, hash tables are significantly faster than lists of pairs and functional maps.
+
+The OptimJ programming language is an extension of Java 5. As does Java, Optimj provides maps; but OptimJ also provides true associative arrays. Java arrays are indexed with non-negative integers; associative arrays are indexed with any type of key.
+
+Of course, it is possible to define multi-dimensional arrays, to mix Java arrays and associative arrays, to mix maps and associative arrays.
+
+Perl 5 has built-in, language-level support for associative arrays. Modern Perl refers to associative arrays as hashes ; the term associative array is found in older documentation but is considered somewhat archaic. Perl 5 hashes are flat: keys are strings and values are scalars. However, values may be references to arrays or other hashes, and the standard Perl 5 module Tie::RefHash enables hashes to be used with reference keys.
+
+A hash variable is marked by a % sigil , to distinguish it from scalar, array, and other data types. A hash literal is a key-value list, with the preferred form using Perl's => token, which is semantically mostly identical to the comma and makes the key-value association clearer:
+
+Accessing a hash element uses the syntax $hash_name{$key} – the key is surrounded by curly braces and the hash name is prefixed by a $ , indicating that the hash element itself is a scalar value, even though it is part of a hash. The value of $phone_book{'John Doe'} is '555-1212' . The % sigil is only used when referring to the hash as a whole, such as when asking for keys %phone_book .
+
+The list of keys and values can be extracted using the built-in functions keys and values , respectively. So, for example, to print all the keys of a hash:
+
+One can iterate through (key, value) pairs using the each function:
+
+A hash "reference", which is a scalar value that points to a hash, is specified in literal form using curly braces as delimiters, with syntax otherwise similar to specifying a hash literal:
+
+Values in a hash reference are accessed using the dereferencing operator:
+
+When the hash contained in the hash reference needs to be referred to as a whole, as with the keys function, the syntax is as follows:
+
+Perl 6 , renamed as "Raku", also has built-in, language-level support for associative arrays, which are referred to as hashes or as objects performing the "associative" role. As in Perl 5, Perl 6 default hashes are flat: keys are strings and values are scalars. One can define a hash to not coerce all keys to strings automatically: these are referred to as "object hashes", because the keys of such hashes remain the original object rather than a stringification thereof.
+
+A hash variable is typically marked by a % sigil , to visually distinguish it from scalar, array, and other data types, and to define its behaviour towards iteration. A hash literal is a key-value list, with the preferred form using Perl's => token, which makes the key-value association clearer:
+
+Accessing a hash element uses the syntax %hash_name{$key} – the key is surrounded by curly braces and the hash name (note that the sigil does not change, contrary to Perl 5). The value of %phone-book{'John Doe'} is '555-1212' .
+
+The list of keys and values can be extracted using the built-in functions keys and values , respectively. So, for example, to print all the keys of a hash:
+
+By default, when iterating through a hash, one gets key–value pairs.
+
+It is also possible to get alternating key values and value values by using the kv method:
+
+Raku doesn't have any references. Hashes can be passed as single parameters that are not flattened. If you want to make sure that a subroutine only accepts hashes, use the % sigil in the Signature.
+
+In compliance with gradual typing , hashes may be subjected to type constraints, confining a set of valid keys to a certain type.
+
+PHP 's built-in array type is, in reality, an associative array. Even when using numerical indexes, PHP internally stores arrays as associative arrays. So, PHP can have non-consecutively numerically indexed arrays. The keys have to be of integer (floating point numbers are truncated to integer) or string type, while values can be of arbitrary types, including other arrays and objects. The arrays are heterogeneous: a single array can have keys of different types. PHP's associative arrays can be used to represent trees, lists, stacks, queues, and other common data structures not built into PHP.
+
+An associative array can be declared using the following syntax:
+
+PHP can loop through an associative array as follows:
+
+PHP has an extensive set of functions to operate on arrays.
+
+Associative arrays that can use objects as keys, instead of strings and integers, can be implemented with the SplObjectStorage class from the Standard PHP Library (SPL).
+
+Pike has built-in support for associative arrays, which are referred to as mappings. Mappings are created as follows:
+
+Accessing and testing for presence in mappings is done using the indexing operator. So phonebook["Sally Smart"] would return the string "555-9999" , and phonebook["John Smith"] would return 0.
+
+Iterating through a mapping can be done using foreach :
+
+Or using an iterator object:
+
+Elements of a mapping can be removed using m_delete , which returns the value of the removed index:
+
+In PostScript , associative arrays are called dictionaries. In Level 1 PostScript they must be created explicitly, but Level 2 introduced direct declaration using a double-angled-bracket syntax:
+
+Dictionaries can be accessed directly, using get , or implicitly, by placing the dictionary on the dictionary stack using begin :
+
+Dictionary contents can be iterated through using forall , though not in any particular order:
+
+Which may output:
+
+Dictionaries can be augmented (up to their defined size only in Level 1) or altered using put , and entries can be removed using undef :
+
+Some versions of Prolog include dictionary ("dict") utilities.
+
+In Python , associative arrays are called " dictionaries ". Dictionary literals are delimited by curly braces:
+
+Dictionary items can be accessed using the array indexing operator:
+
+Loop iterating through all the keys of the dictionary:
+
+Iterating through (key, value) tuples:
+
+Dictionary keys can be individually deleted using the del statement. The corresponding value can be returned before the key-value pair is deleted using the "pop" method of "dict" type:
+
+Python 2.7 and 3.x also support dict comprehensions (similar to list comprehensions ), a compact syntax for generating a dictionary from any iterator:
+
+Strictly speaking, a dictionary is a super-set of an associative array, since neither the keys or values are limited to a single datatype. One could think of a dictionary as an "associative list" using the nomenclature of Python. For example, the following is also legitimate:
+
+The dictionary keys must be of an immutable data type. In Python, strings are immutable due to their method of implementation.
+
+In Red the built-in map! datatype provides an associative array that maps values of word, string, and scalar key types to values of any type. A hash table is used internally for lookup.
+
+A map can be written as a literal, such as #(key1 value1 key2 value2 ...) , or can be created using make map! [key1 value1 key2 value2 ...] :
+
+In REXX , associative arrays are called "stem variables" or "Compound variables".
+
+Stem variables with numeric keys typically start at 1 and go up from there. The 0-key stem variable
+by convention contains the total number of items in the stem:
+
+REXX has no easy way of automatically accessing the keys of a stem variable; and typically the
+keys are stored in a separate associative array, with numeric keys.
+
+In Ruby a hash table is used as follows:
+
+Ruby supports hash looping and iteration with the following syntax:
+
+Ruby also supports many other useful operations on hashes, such as merging hashes, selecting or rejecting elements that meet some criteria, inverting (swapping the keys and values), and flattening a hash into an array.
+
+The Rust standard library provides a hash map ( std::collections::HashMap ) and a B-tree map ( std::collections::BTreeMap ). They share several methods with the same names, but have different requirements for the types of keys that can be inserted. The HashMap requires keys to implement the Eq ( equivalence relation ) and Hash (hashability) traits and it stores entries in an unspecified order, and the BTreeMap requires the Ord ( total order ) trait for its keys and it stores entries in an order defined by the key type. The order is reflected by the default iterators.
+
+The default iterators visit all entries as tuples. The HashMap iterators visit entries in an unspecified order and the BTreeMap iterator visits entries in the order defined by the key type.
+
+There is also an iterator for keys:
+
+S-Lang has an associative array type:
+
+You can also loop through an associated array in a number of ways:
+
+To print a sorted-list, it is better to take advantage of S-lang's strong
+support for standard arrays:
+
+Scala provides an immutable Map class as part of the scala.collection framework:
+
+Scala's type inference will decide that this is a Map[String, String] . To access the array:
+
+This returns an Option type, Scala's equivalent of the Maybe monad in Haskell.
+
+In Smalltalk a Dictionary is used:
+
+To access an entry the message #at: is sent to the dictionary object:
+
+Which gives:
+
+A dictionary hashes, or compares, based on equality and marks both key and value as strong references . Variants exist in which hash/compare on identity (IdentityDictionary) or keep weak references (WeakKeyDictionary / WeakValueDictionary).
+Because every object implements #hash, any object can be used as key (and of course also as value).
+
+SNOBOL is one of the first (if not the first) programming languages to use associative arrays. Associative arrays in SNOBOL are called Tables.
+
+The SML'97 standard of the Standard ML programming language does not provide any associative containers. However, various implementations of Standard ML do provide associative containers.
+
+The library of the popular Standard ML of New Jersey (SML/NJ) implementation provides a signature (somewhat like an "interface"), ORD_MAP , which defines a common interface for ordered functional (immutable) associative arrays. There are several general functors— BinaryMapFn , ListMapFn , RedBlackMapFn , and SplayMapFn —that allow you to create the corresponding type of ordered map (the types are a self-balancing binary search tree , sorted association list , red–black tree , and splay tree , respectively) using a user-provided structure to describe the key type and comparator. The functor returns a structure in accordance with the ORD_MAP interface. In addition, there are two pre-defined modules for associative arrays that employ integer keys: IntBinaryMap and IntListMap .
+
+SML/NJ also provides a polymorphic hash table:
+
+Monomorphic hash tables are also supported, using the HashTableFn functor.
+
+Another Standard ML implementation, Moscow ML , also provides some associative containers. First, it provides polymorphic hash tables in the Polyhash structure. Also, some functional maps from the SML/NJ library above are available as Binarymap , Splaymap , and Intmap structures.
+
+There are two Tcl facilities that support associative-array semantics. An "array" is a collection of variables.  A "dict" is a full implementation of associative arrays.
+
+If there is a space character in the variable name, the name must be grouped using either curly brackets (no substitution performed) or double quotes (substitution is performed).
+
+Alternatively, several array elements can be set by a single command, by presenting their mappings as a list (words containing whitespace are braced):
+
+To access one array entry and put it to standard output:
+
+Which returns this result:
+
+To retrieve the entire array as a dictionary:
+
+The result can be (order of keys is unspecified, not because the dictionary is unordered, but because the array is):
+
+To look up an item:
+
+To iterate through a dict:
+
+Visual Basic can use the Dictionary class from the Microsoft Scripting Runtime (which is shipped with Visual Basic 6). There is no standard implementation common to all versions:
+
+Visual Basic .NET uses the collection classes provided by the .NET Framework .
+
+The following code demonstrates the creation and population of a dictionary (see the C# example on this page for additional information):
+
+An alternate syntax would be to use a collection initializer , which compiles down to individual calls to Add :
+
+Example demonstrating access (see C# access ):
+
+Example demonstrating enumeration (see #C# enumeration ):
+
+Unlike many other command line interpreters , Windows PowerShell has built-in, language-level support for defining associative arrays:
+
+As in JavaScript, if the property name is a valid identifier, the quotes can be omitted:
+
+Entries can be separated by either a semicolon or a newline:
+
+Keys and values can be any .NET object type:
+
+It is also possible to create an empty associative array and add single entries, or even other associative arrays, to it later on:
+
+New entries can also be added by using the array index operator, the property operator, or the Add() method of the underlying .NET object:
+
+To dereference assigned objects, the array index operator, the property operator, or the parameterized property Item() of the .NET object can be used:
+
+You can loop through an associative array as follows:
+
+An entry can be removed using the Remove() method of the underlying .NET object:
+
+Hash tables can be added:
+
+Many data serialization formats also support associative arrays (see this table )
+
+In JSON , associative arrays are also referred to as objects. Keys can only be strings.
+
+YAML associative arrays are also called map elements or key-value pairs. YAML places no restrictions on the types of keys; in particular, they are not restricted to being scalar or string values.

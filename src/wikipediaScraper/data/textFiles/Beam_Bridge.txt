@@ -1,0 +1,11 @@
+Beam bridges are the simplest structural forms for bridge spans supported by an abutment or pier at each end. No moments are transferred throughout the support, hence their structural type is known as simply supported .
+
+The simplest beam bridge could be a log (see log bridge ), a wood plank , or a stone slab (see clapper bridge ) laid across a stream. Bridges designed for modern infrastructure will usually be constructed of steel or reinforced concrete , or a combination of both. The concrete elements may be reinforced or prestressed . Such modern bridges include girder , plate girder , and box girder bridges, all types of beam bridges.
+
+Types of construction could include having many beams side by side with a deck across the top of them, to a main beam either side supporting a deck between them. The main beams could be I-beams , trusses , or box girders . They could be half-through , or braced across the top to create a through bridge .
+
+Because no moments are transferred, thrust (as from an arch bridge ) cannot be accommodated, leading to innovative designs, such as lenticular trusses and bow string arches , which contain the horizontal forces within the superstructure .
+
+Beam bridges are not limited to a single span . Some viaducts such as the Feiyunjiang Bridge in China have multiple simply supported spans supported by piers. This is opposed to viaducts using continuous spans over the piers.
+
+Beam bridges are often only used for relatively short distances because, unlike truss bridges, they have no built in supports. The only supports are provided by piers. The farther apart its supports, the weaker a beam bridge gets. As a result, beam bridges rarely span more than 250 feet (80 m). This does not mean that beam bridges are not used to cross great distances; it only means that a series of beam bridges must be joined together, creating what is known as a continuous span.

@@ -1,0 +1,17 @@
+Armadillo is a linear algebra software library for the C++ programming language .  It aims to provide efficient and streamlined base calculations, while at the same time having a straightforward and easy-to-use interface.  Its intended target users are scientists and engineers.
+
+It supports integer, floating point ( single and double precision), complex numbers , and a subset of trigonometric and statistics functions. Dense and sparse matrices are supported. Various matrix decompositions are provided through optional integration with Linear Algebra PACKage ( LAPACK ), Automatically Tuned Linear Algebra Software (ATLAS), and ARPACK . High-performance BLAS/LAPACK replacement libraries such as OpenBLAS and Intel MKL can also be used.
+
+The library employs a delayed-evaluation approach (during compile time ) to combine several operations into one and reduce (or eliminate) the need for temporaries. Where applicable, the order of operations is optimised. Delayed evaluation and optimisation are achieved through template metaprogramming .
+
+Armadillo is related to the Boost Basic Linear Algebra Subprograms (uBLAS) library, which also uses template metaprogramming . However, Armadillo builds upon ATLAS and LAPACK libraries, thereby providing machine-dependent optimisations and functions not present in uBLAS.
+
+It is open-source software distributed under the permissive Apache License , making it applicable for the development of both open source and proprietary software. The project is supported by the NICTA research centre in Australia.
+
+An interface to the Python language is available through the PyArmadillo package, which facilitates prototyping of algorithms in Python followed by relatively straightforward conversion to C++.
+
+Armadillo is a core dependency of the mlpack machine learning library and the ensmallen C++ library for numerical optimization.
+
+Here is a trivial example demonstrating Armadillo functionality:
+
+Here is another trivial example in C++ 98:

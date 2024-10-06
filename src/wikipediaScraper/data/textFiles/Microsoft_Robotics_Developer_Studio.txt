@@ -1,0 +1,16 @@
+Microsoft Robotics Developer Studio (Microsoft RDS, MRDS ) is a discontinued Windows -based environment for robot control and simulation that was aimed at academic, hobbyist, and commercial developers and handled a wide variety of robot hardware. It requires a Microsoft Windows 7 operating system or later.
+
+RDS is based on Concurrency and Coordination Runtime (CCR): a .NET Framework -based concurrent library implementation for managing asynchronous parallel tasks. This technique involves using message-passing and a lightweight services-oriented runtime, Decentralized Software Services (DSS), which allows orchestrating multiple services to achieve complex behaviors.
+
+Features include: a visual programming tool, Microsoft Visual Programming Language (VPL) to create and debug robot applications, web-based and windows-based interfaces, 3D simulation (including hardware acceleration ), easy access to a robot's sensors and actuators . The primary programming language is C# .
+
+Microsoft Robotics Developer Studio includes support for packages to add other services to the suite. Those currently available include Soccer Simulation and Sumo Competition by Microsoft, and a community-developed Maze Simulator, a program to create worlds with walls that can be explored by a virtual robot , and a set of services for OpenCV .
+
+RDS has four main components:
+
+CCR and DSS are also available separately for use in commercial applications that require a high level of concurrency and/or must be distributed across multiple nodes in a network. This package is called the CCR and DSS Toolkit.
+
+The tools that allow developing an MRDS application contain a graphical environment (Microsoft Visual Programming Language (VPL)) command line tools allow working with Visual Studio projects (VS Express version is enough) in C#, and 3D simulation tools.
+
+Microsoft Robotics Developer Studio has not been updated or patched since version 4.0, which was released on March 8, 2012. 
+On September 22, 2014, as part of Microsoft's restructuring plan, the Robotics division of Microsoft Research was suspended, according to a tweet from Ashley Feniello, a principal developer at Microsoft Robotics division of Microsoft Research (MSR). It is now highly unlikely that MRDS will ever be updated again, however forum members (MVPs) may still offer limited support.

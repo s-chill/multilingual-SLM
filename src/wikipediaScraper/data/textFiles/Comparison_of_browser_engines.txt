@@ -1,0 +1,9 @@
+This article compares browser engines , especially actively- developed ones.
+
+Some of these engines have shared origins. For example, the WebKit engine was created by forking the KHTML engine in 2001. Then, in 2013, a modified version of WebKit was officially forked as the Blink engine.
+
+These tables summarize what actively-developed engines support.
+
+The operating systems that engines can run on without emulation.
+
+Notes

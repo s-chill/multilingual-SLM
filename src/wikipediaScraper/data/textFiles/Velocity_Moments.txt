@@ -1,0 +1,41 @@
+In the field of computer vision , velocity moments are weighted averages of the intensities of pixels in a sequence of images, similar to image moments but in addition to describing an object's shape also describe its motion through the sequence of images. Velocity moments can be used to aid automated identification of a shape in an image when information about the motion is significant in its description. There are currently two established versions of velocity moments: Cartesian and Zernike.
+
+A Cartesian moment of a single image is calculated by
+
+where M {\displaystyle M} and N {\displaystyle N} are the dimensions of the image, P x y {\displaystyle P_{xy}} is the intensity of the pixel at the point ( x , y ) {\displaystyle (x,y)} in the image, and x p y q {\displaystyle x^{p}y^{q}} is the basis function.
+
+Cartesian velocity moments are based on these Cartesian moments. A Cartesian velocity moment v m p q μ γ {\displaystyle vm_{pq\mu \gamma }} is defined by
+
+where M {\displaystyle M} and N {\displaystyle N} are again the dimensions of the image, i m a g e s {\displaystyle images} is the number of images in the sequence, and P i x y {\displaystyle P_{i_{xy}}} is the intensity of the pixel at the point ( x , y ) {\displaystyle (x,y)} in image i {\displaystyle i} .
+
+C ( i , p , q ) {\displaystyle C(i,p,q)} is taken from Central moments , added so the equation is translation invariant , defined as
+
+where x i ¯ {\displaystyle {\overline {x_{i}}}} is the x {\displaystyle x} coordinate of the centre of mass for image i {\displaystyle i} , and similarly for y {\displaystyle y} .
+
+U ( i , μ , γ ) {\displaystyle U(i,\mu ,\gamma )} introduces velocity into the equation as
+
+where x i − 1 ¯ {\displaystyle {\overline {x_{i-1}}}} is the x {\displaystyle x} coordinate of the centre of mass for the previous image, i − 1 {\displaystyle i-1} , and again similarly for y {\displaystyle y} .
+
+After the Cartesian velocity moment is calculated, it can be normalised by
+
+where A {\displaystyle A} is the average area of the object, in pixels, and I {\displaystyle I} is the number of images. Now the value is not affected by the number of images in the sequence or the size of the object.
+
+As Cartesian moments are non-orthogonal, so are Cartesian velocity moments, so different moments can be closely correlated. These velocity moments do however provide translation and scale invariance (unless the scale changes within the sequence of images).
+
+A Zernike moment of a single image is calculated by
+
+where ∗ {\displaystyle ^{*}} denotes the complex conjugate, m {\displaystyle m} is an integer between 0 {\displaystyle 0} and ∞ {\displaystyle \infty } , and n {\displaystyle n} is an integer such that m − | n | {\displaystyle m-|n|} is even and | n | < m {\displaystyle |n|<m} . For calculating Zernike moments, the image, or section of the image which is of interest is mapped to the unit disc , then P x y {\displaystyle P_{xy}} is the intensity of the pixel at the point ( x , y ) {\displaystyle (x,y)} on the disc and x 2 + y 2 ≤ 1 {\displaystyle x^{2}+y^{2}\leq 1} is a restriction on values of x {\displaystyle x} and y {\displaystyle y} . The coordinates are then mapped to polar coordinates , and r {\displaystyle r} and θ {\displaystyle \theta } are the polar coordinates of the point ( x , y ) {\displaystyle (x,y)} on the unit disc map.
+
+V m n ( r , θ ) {\displaystyle V_{mn}(r,\theta )} is derived from Zernike polynomials and is defined by
+
+Zernike velocity moments are based on these Zernike moments. A Zernike velocity moment A m n μ γ {\displaystyle A_{mn\mu \gamma }} is defined by
+
+where i m a g e s {\displaystyle images} is again the number of images in the sequence, and P i x y {\displaystyle P_{i_{xy}}} is the intensity of the pixel at the point ( x , y ) {\displaystyle (x,y)} on the unit disc mapped from image i {\displaystyle i} .
+
+U ( i , μ , γ ) {\displaystyle U(i,\mu ,\gamma )} introduces velocity into the equation in the same way as in the Cartesian velocity moments and [ V m n ( r , θ ) ] ∗ {\displaystyle [V_{mn}(r,\theta )]^{*}} is from the Zernike moments equation above.
+
+Like the Cartesian velocity moments, Zernike velocity moments can be normalised by
+
+where A {\displaystyle A} is the average area of the object, in pixels, and I {\displaystyle I} is the number of images.
+
+As Zernike velocity moments are based on the orthogonal Zernike moments, they produce less correlated and more compact descriptions than Cartesian velocity moments. Zernike velocity moments also provide translation and scale invariance (even when the scale changes within the sequence).

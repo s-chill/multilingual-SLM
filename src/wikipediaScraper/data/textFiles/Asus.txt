@@ -1,0 +1,137 @@
+This is an accepted version of this page
+
+ASUSTeK Computer Inc. ( / ˈ eɪ s uː s / , / eɪ ˈ s uː s / , / ɑː ˈ -/ , / ə ˈ -/ ; stylized as ASUSTeK or ASUS ) is a Taiwanese multinational computer, phone hardware and electronics manufacturer headquartered in Beitou District , Taipei , Taiwan . Its products include desktop computers , laptops , netbooks , mobile phones , networking equipment, monitors, Wi-Fi routers , projectors , motherboards , graphics cards , optical storage , multimedia products, peripherals, wearables , servers , workstations and tablet PCs. The company is also an original equipment manufacturer (OEM).
+
+As of 2024, Asus is the world's fifth-largest personal computer vendor by unit sales. Asus has a primary listing on the Taiwan Stock Exchange under the ticker code 2357 and formerly had a secondary listing on the London Stock Exchange under the ticker code ASKD .
+
+The company is usually referred to as ASUS or Huáshuò in Chinese ( Chinese : 華碩 , literally "Eminence by the Chinese" ). According to the company website, the name ASUS originates from Pegasus , the winged horse of Greek mythology. Only the last four letters of the word were used to give the name a high position in alphabetical listings. As its marketing taglines , Asus has used Rock Solid. Heart Touching (2003–2009) and subsequently Inspiring Innovation Persistent Perfection (2009–2013). Since 2013, the company's tagline has been In Search of Incredible.
+
+Asus was founded in Taipei in 1989 by T.H. Tung , Ted Hsu, Wayne Hsieh and M.T. Liao, all four having previously worked at Acer as hardware engineers . At this time, Taiwan had yet to establish a leading position in the computer hardware business. Intel Corporation would supply any new processors to more established companies like IBM first, and Taiwanese companies would have to wait for approximately six months after IBM received their engineering prototypes . According to company history, Asus created a motherboard prototype for using an Intel 486 , but it had to do so without access to the actual processor. When Asus approached Intel to request a processor to test it, Intel itself had a problem with its own 486 motherboard. Asus solved Intel's problem and it turned out that Asus' motherboard worked correctly without the need for further modification. Since then, Asus was receiving Intel engineering samples ahead of its competitors.
+
+In September 2005, Asus released the first PhysX accelerator card. In December 2005, Asus entered the LCD TV market with the TLW32001 model. In January 2006, Asus announced that it would cooperate with Lamborghini to develop the VX laptop series.
+
+On 9 March 2006, Asus was confirmed as one of the manufacturers of the first Microsoft Origami models, together with Samsung and Founder Technology . On 8 August 2006, Asus announced a joint venture with Gigabyte Technology . On 5 June 2007, Asus announced the launch of the Eee PC at Computex . On 9 September 2007, Asus indicated support for Blu-ray , announcing the release of a BD-ROM/DVD writer PC drive, BC-1205PT. ASUS subsequently released several Blu-ray based notebooks.
+
+In January 2008, Asus began a major restructuring of its operations, splitting into three independent companies: Asus (focused on applied first-party branded computers and electronics); Pegatron (focused on OEM manufacturing of motherboards and components); and Unihan Corporation (focused on non-PC manufacturing such as cases and molding). In the process of the restructuring, a highly criticized pension-plan restructuring effectively zeroed out the existing pension balances. The company paid out all contributions previously made by employees.
+
+On 9 December 2008, the Open Handset Alliance announced that Asus had become one of 14 new members of the organization. These "new members will either deploy compatible Android devices, contribute significant code to the Android Open-Source Project, or support the ecosystem through products and services that will accelerate the availability of Android-based devices."
+
+On 1 June 2010, Asus spun off Pegatron Corp.
+
+In October 2010, Asus and Garmin announced that they would be ending their smartphone partnership as a result of Garmin deciding to exit the product category. The two companies had produced six Garmin-ASUS branded smartphones over the prior two years.
+
+In December 2010, Asus launched the world's thinnest notebook, the Asus U36, with Intel processor voltage standard (not low voltage) Intel Core i3 or i5 with a thickness of only 19 mm.
+
+In January 2013, Asus officially ended production of its Eee PC series due to declining sales caused by consumers increasingly switching to tablets and Ultrabooks . In April 2022, the company unveiled its new logo.
+
+The key trends for ASUS are (as of the financial year ending 31 December):
+
+Asus has its headquarters in Beitou District , Taipei , Taiwan .
+
+As of 2009 , Asus had manufacturing facilities in Taiwan (Taipei, Luzhu , Nangang , Guishan ), mainland China ( Suzhou , Chongqing ), Mexico ( Ciudad Juárez ) and the Czech Republic ( Ostrava ). The Asus Hi-Tech Park, located in Suzhou , covers 540,000 m (5,800,000 sq ft).
+
+Asus operates around 50 service sites across 32 countries and has over 400 service partners worldwide.
+
+Asus' products include 2-in-1s, laptops, tablet computers, desktop computers, smartphones , personal digital assistants (PDAs), servers , computer monitors , motherboards , graphics cards, sound cards, DVD drives, computer networking devices , computer cases , computer components and computer cooling systems.
+
+One of Asus main lineup is the Vivo lineup consisting of laptops (VivoBooks), All-in-Ones (Vivo AiO), desktops (VivoPC), Stick PCs (VivoStick), Mini PCs (VivoMini), smartwatches (VivoWatch), computer mouse (VivoMouse) and tablets (VivoTab).
+
+Asus also launched many Android -based smartphones, predominantly with Intel rather than ARM processors and often with two sim slots. Asus is currently very influential in big mobile markets like India , China , and other Asian countries. It is known as the ZenFone series. Before the ZenFone line, Asus released feature phones such as the Asus v70 and smartphones running on Windows Mobile during the mid-2000s.
+
+First Generation (2014)
+
+Second Generation (2015)
+
+Third Generation (2016)
+
+Fourth Generation (2017)
+
+Fifth Generation (2018)
+
+Sixth Generation (2019)
+
+Additionally, Asus also produced some hybrid devices with smartphones that can be docked in a tablet screen, known as Padfone series. The product lineups are:
+
+Most of Asus' smartphones are powered by Intel Atom processors with the exceptions of a few Padfone series and some ZenFone 2 models that use Qualcomm Snapdragon , though later phones in the series now either use Qualcomm Snapdragon or MediaTek systems-on-chip.
+
+Seventh Generation (2020)
+
+Eighth Generation (2021)
+
+Ninth Generation (2022)
+
+Tenth Generation (2023)
+
+Eleventh Generation (2024)
+
+Discontinued series previously offered by Asus includes the EeeBook Series, K Series, X Series , E Series , Q Series, B Series, V Series, P Series, F Series , A Series, u2e Series and G Series.
+
+Two generations of the Nexus 7 , manufactured for and branded as Google , were announced on 27 June 2012 for release in July 2012. On 24 July 2013, Asus announced a successor to the Google Nexus 7 . Two days later, it was released. Asus has also been working with Microsoft in developing Windows 8 convertible tablets. In 2013, Asus revealed an Android-based tablet computer that, when attached to a keyboard, becomes a Windows 8 device, which it called the Transformer Book Trio. The keyboard can be attached to a third-party monitor, creating a desktop-like experience. Asus is also known for the following tablet computer lines:
+
+From its launch in October 2007 and until the line was discontinued in January 2013, the Eee PC netbook garnered numerous awards, including Forbes Asia's Product of the Year, Stuff Magazine's Gadget of the Year and Computer of the Year, NBC.com's Best Travel Gadget, Computer Shopper's Best Netbook of 2008, PC Pro's Hardware of the Year, PC World's Best Netbook, and DIME magazine's 2008 Trend Award Winner.
+
+Asus subsequently added several products to its Eee lineup, including:
+
+On 6 March 2009, Asus debuted its Eee Box B202, which PCMag saw as "the desktop equivalent of the ASUS EeePC", (the "Asus Eee Box" computer line was later renamed in 2010 to "ASUS EeeBox PC").
+
+Essentio is a line of desktop PCs. As of December 2011 the line consisted of the CG Series (designed for gaming), the CM series (for entertainment and home use) and the CS and CP slimline series.
+
+Asus sells digital media receivers under the name ASUS O!Play.
+
+Asus produces the R700T GPS device, which incorporates Traffic Message Channel .
+
+Republic of Gamers ( ROG ) is a brand used by ASUS since 2006, encompassing a range of computer hardware, personal computers, peripherals, and accessories.
+
+AMD graphics cards were marketed under the Arez brand due to the Nvidia 's GeForce Partner Program .
+
+In 2013 Asus launched the RAIDR Express, a PCI express-based RAID 0 SSD subsystem with two SSDs on one PCB.
+
+In January 2022, Asus announced the ROG Flow Z13 during ROG's CES 2022 launch event. Equipped with the high-performance Intel's Core i9 processor and Nvidia's GeForce RTX 3050 Ti graphic performance, making the biggest innovation breakthroughs in tablet markets. It is the world's first RTX 30 series computer in tablet form factor.
+
+In June 2023, Asus released the ROG Ally , a handheld device designed to compete with the Steam Deck . The Ally possesses a 7-inch (diagonal), 1080p touchscreen display with a 120 Hz refresh rate capability and a 16:9 aspect ratio , versus the Steam Deck's panel that only manages 800p and 60 Hz with a 16:10 aspect ratio .
+
+The Ultimate Force ( TUF ) is a brand used by ASUS since about 2010. The brand is for Asus affordable, mid-range gaming products.
+
+Asus released its first sound card, the Xonar DX, in February 2008. The Xonar DX was able to emulate the EAX 5.0 effects through the ASUS GX software while also supporting Open AL and DTS-connect. In July 2008 ASUS launched the Xonar D1, which offered largely similar features to the Xonar DX but connected to the motherboard through the PCI interface instead of the PCI-E ×1 connection of the Xonar DX. ASUS then released the Xonar HDAV 1.3, which was the first solution enabling loss-less HD audio bit streaming to AV receivers.
+
+In May 2009, Asus launched the Essence ST sound card, targeted at high-end audiophiles, and featuring 124 dB SNR rating and precision audio clock tuning. In the same month, Asus refreshed the HDAV family by releasing the HDAV 1.3 slim, a card targeted for HTPC users offering similar functionality to HDAV 1.3 but in a smaller form. During Computex 2010, ASUS introduced its Xonar Xense, an audio bundle composed of the Xense sound card and a special edition of the Sennheiser PC350 headset. In August 2010, ASUS released the Xonar DG sound card targeted at budget buyers and offering 5.1 surround sound support, 105 dB SNR rating, support for Dolby headphone and GX 2.5 support for emulating EAX 5.0 technology.
+
+Asus entered the box-PC market with the Vivo PC line in November 2013. ASUS VivoPCs come without a pre-installed Windows operating system.
+
+On 23 October 2013, ASUS launched two models of VivoPCs in India. VivoPC was initially announced with Intel Celeron processor equipped VM40B model. But in India, the company released VivoPC along with a new model called VC60 which is equipped with Intel Core series processors.
+
+In 2013, Asus released the MB168B, a USB 3.0-powered, portable external monitor. The base model shipped with a resolution of 1366 × 768 , while the MB168B+ had a resolution of 1920 × 1080 . At the time of its release, the MB168B+ was the only 1080p portable monitor. According to Asus, it is the "world's slimmest and lightest USB monitor".
+
+Asus motherboards sometimes include a Q-Connector which sits in between the motherboard front panel connectors and the front panel cables. The Q-Connector is marked with bigger text than the front panel connectors on the motherboard, as well as protruding from the motherboard, limiting obstruction from heatsinks and other connectors.
+
+The Q-connector allows the many front-panel connections to be removed as a single unit for maintenance. This greatly reduces the risk of incorrect connections when reassembling.
+
+Asus ROG has been an active advocate for esports , having established some of their very own professional gaming teams.
+
+In January 2021, ROG announced the establishment of a new esports academy in India , with plans to scout and train professional gamers for the Counter-Strike: Global Offensive (CS:GO) PC game. The initiative will provide shortlisted gamers with coaching, gaming equipment, and stipends to prepare them for competitive esports tournaments on both the national and international levels.
+
+In 2000, Asus launched Green ASUS, a company-wide sustainable computing initiative overseen by a steering committee led by Jonney Shih, the Chairman of Asus. According to the company, Asus pursues green policies in "Design, Procurement, Manufacturing, and Marketing."
+
+In 2006, Asus obtained IECQ (IEC Quality Assessment System for Electronic Components) and HSPM (Hazardous Substance Process Management) certification for its headquarters and all of its manufacturing sites.
+
+In 2007, Oekom Research, an independent research institute specializing in corporate responsibility assessment, recognized Asus as a "highly environmental friendly company" in the "Computers, Peripherals and Office Electronics Industry".
+
+In October 2008, Asus received 11 Electronic Product Environmental Assessment Tool ( EPEAT ) Gold Awards for its products, including four of its N-Series notebooks, namely the N10, N20, N50, and N80. In the following month, it received EU Flower certification for the same N-Series notebooks at an award ceremony held in Prague. In December 2008, Det Norske Veritas conferred the world's first EuP (Energy-using Product) certification for portable notebooks on these machines.
+
+In April 2008, Asus launched its "PC Recycling for a Brighter Future" program in collaboration with Intel and with Tsann Kuen Enterprise Co. The program collected more than 1,200 desktop computers, notebooks and CRT/ LCD monitors, refurbished them and donated them to 122 elementary and junior high schools, five aboriginal communities and the Tzu Chi Stem Cell Center.
+
+In September 2008, PC Pro discovered through a reader that Asus had accidentally shipped laptops that contained cracked and unlicensed software. Both physical machines and recovery CDs contained confidential documents from Microsoft and other organizations, internal Asus documents, and sensitive personal information including CVs . At the time, an Asus spokesperson promised an investigation at "quite a high level", but declined to comment on how the files got on the machines and recovery media. It was demonstrated that an unattended installation of Windows Vista could accidentally copy material from a flash drive with a parameter in the "unattend.xml" file on the personal flash drive being used to script the installation.
+
+In February 2014, a security vulnerability in the AiCloud functions on a number of Asus routers was compromised to distribute a text file warning of a vulnerability, disclosed in June 2013, allowing the ability to "traverse to any external storage plugged in through the USB ports on the back of the router" via the open internet. Before making the vulnerability public, the researcher was told by Asus that the behavior was "not an issue", but the vulnerability was reportedly patched shortly before the breach. The IP addresses of 12,937 routers, and 3,131 AiCloud accounts were also leaked by the hackers. The U.S. Federal Trade Commission issued a complaint about the breach for the company's "failure to employ reasonable security practices has subjected consumers to substantial injury", alleging that Asus had also failed to perform basic penetration tests , allowed users to maintain a default admin password for the AiDisk feature and failed to notify users of security updates in a timely fashion. As a result, it was also deemed that Asus had misled consumers over the security and protection that its routers provided. In February 2016, Asus settled the complaint, agreeing to implement a "comprehensive security program", including independent audits every two years for the next 20 years.
+
+In March 2019, Kaspersky Lab researchers disclosed a supply chain attack that affected the Asus Live Update software bundled on its laptops, dubbed ShadowHammer . Kaspersky stated that between June and November 2018, Asus servers had been compromised to distribute a modified version of Live Update, signed with an Asus signature , that contained a backdoor . It deployed a further payload if the device's network adapter matched an entry on an internal target list of around 600 MAC addresses . In response to ShadowHammer, Asus released a patched version of Live Update with improved security measures. Kaspersky and Symantec estimated that between 500,000 and 1 million devices were infected with the backdoor, although Asus attempted to downplay the severity of the breach by noting the extremely targeted nature of the attack. The breach did not affect the similar, identically named software associated with its motherboards.
+
+In April 2019, ESET disclosed that a group known as BlackTech had performed targeted attacks with malware known as Plead, distributed via the updater for the Asus WebStorage service. ESET stated that the group was likely using a man-in-the-middle attack via a vulnerability in routers, in combination with the updater using an unencrypted HTTP connection.
+
+In January 2022, Asus recalled some of its Z690 Maximus Hero motherboards due to a manufacturing flaw, where a RAM capacitor was installed backward—causing them to burn out associated MOSFETs and prevent the motherboard from detecting memory.
+
+Following the Russian invasion of Ukraine in 2022 , ASUS initially refused to join a widespread withdrawal of businesses from the Russian market. In mid-March, the company did announce it was halting its operations in Russia, following a social media boycott and government pressure.
+
+In April 2023, a post on the PCMasterRace subreddit began gaining popularity regarding the user's AMD Ryzen 7 7800X3D CPU, which had visible burning, along with the socket of the Asus motherboard. This sparked the attention of both people interested in PCs, who initially thought it was an issue with the 3D V-Cache Technology (as there had been previous user reports similar to this incident), as well as enthusiast YouTube channels such as Gamers Nexus, who ran tests to successfully recreate the burning of their CPU. They realised that the cause of the burning was due to a voltage error in the BIOS. In May, Asus responded to the incidents by releasing a Beta BIOS, which was supposed to fix the error. However, not only did the new BIOS not fix the issue; by installing it, the user voided their warranty as it was a Beta BIOS, which Asus clearly stated in the BIOS's description. Later that month, Asus responded to the public backlash by reversing course, releasing a statement informing users that they will continue to honor warranty on motherboards that have been updated to beta BIOS versions, as well as extend motherboard warranty coverage to uses of AMD EXPO , Intel XMP , and DOCP memory overclocking technologies.
+
+In May 2024, hardware reviewer Gamers Nexus sent a ROG Ally in for warranty repair due to a faulty thumbstick. Asus denied the warranty repair, claiming that the thumbstick issue was due to "customer-induced damage". Furthermore, Asus demanded a repair fee of US$191.47 for replacement of the LCD panel and the top case because of a "small mark" on the casing, despite it not being related to the original issue that the device was sent in under warranty for. Asus also stated that it would send the device back to Gamers Nexus in a "disassembled state" if it did not pay the repair fee. Several days later, Asus honoured the warranty and performed the repair of the original issue under pressure from Gamers Nexus, as well as subsequently apologised for the poor service.

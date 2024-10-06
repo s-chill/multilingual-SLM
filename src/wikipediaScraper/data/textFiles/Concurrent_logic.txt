@@ -1,0 +1,12 @@
+Concurrent logic programming is a variant of logic programming in which programs are sets of guarded Horn clauses of the form:
+
+The conjunction G 1 , … , G n is called the guard of the clause, and | is the commitment operator.
+
+Declaratively, guarded Horn clauses are read as ordinary logical implications:
+
+However, procedurally, when there are several clauses whose heads H match a given goal, then all of the clauses are executed in parallel , checking whether their  guards G 1 , … , G n hold. If the guards of more than one clause hold, then a committed choice is made to one of the clauses, and execution proceeds with the subgoals B 1 , …, B n of the chosen clause. These subgoals can also be executed in parallel. Thus concurrent logic programming implements a form of "don't care nondeterminism", rather
+than "don't know nondeterminism".
+
+The first concurrent logic programming language was the Relational Language of Keith L. Clark and Steve Gregory, which was an offshoot of IC-Prolog . Later versions of concurrent logic programming include Ehud Shapiro 's Concurrent Prolog and Ueda's Guarded Horn Clause language.
+
+The development of concurrent logic programming was given an impetus when Guarded Horn Clause was used to implement KL1 , the systems programming language of the Japanese Fifth Generation Project (FGCS) . The FGCS Project was a $400M initiative by Japan's Ministry of International Trade and Industry , begun in 1982, to use massively parallel computing /processing for artificial intelligence applications. The choice of concurrent logic programming as the “missing link” between the hardware and the applications was influenced by a visit to the FGCS Project in 1982 by Ehud Shapiro, who invented Concurrent Prolog.

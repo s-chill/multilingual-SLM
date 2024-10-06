@@ -1,0 +1,29 @@
+These tables compare features of multimedia container formats , most often used for storing or streaming digital video or digital audio content. To see which multimedia players support which container format, look at comparison of media players .
+
+In many ways, derived containers are similar to those on which they are based, sometimes extending them, sometimes limiting their capabilities.
+
+Support level legend: Full Indirect, lossless Partial Depends on setup None
+
+Some features are only supported by a few containers:
+
+Some common multimedia file formats are not completely distinct container formats. Some are containers for specific audio and video coding formats, such as WebM , a subset of Matroska . Some are combinations of common container formats and audio and video coding profiles, such as AVCHD and DivX formats . Although sometimes compared to DivX products, Xvid is neither a container format nor a video format, it is a software library that encodes video using specific coding profiles of the common MPEG-4 ASP video format. Those types of restrictions are intended to simplify the construction of multimedia recorders and players.
+
+Support level legend: Full Indirect, lossless Partial Depends on setup None
+
+Some containers only support a restricted set of video formats:
+
+Support level legend: Full Indirect, lossless Partial Depends on setup None
+
+Some containers only support a restricted set of audio formats:
+
+Audio-only content can sometimes be placed in a simpler audio-only container, such as Native FLAC for FLAC and ADTS for AAC .
+
+Support level legend: Full Indirect, lossless Partial, lossy Depends on setup None
+
+Some containers only support a restricted set of subtitle formats:
+
+Converting image subtitles to text formats is possible using third-party tools but relies on optical character recognition , which is not perfectly accurate and can at best extract basic formatting. Conversion of text to images is possible while preserving content and style. Round-trip format conversion between text formats may not be possible without losing some formatting features.
+
+Multimedia containers interleave data in media streams to enable efficient playback using fewer computational resources, such as time spent reading from the storage drive, memory needed to buffer selected media streams, and time spent decoding when seeking to a different position in time. In this sense, muxing overhead is the control information added by the container to carry interleaved streams. A smaller overhead results in a smaller file when carrying the same streams with the same data. Overhead is affected by the total number of packets and by the size of stream packet headers. In high bitrate encodings, the content payload is usually large enough to make the overhead data relatively insignificant, but in low bitrate encodings, the inefficiency of the overhead can significantly affect the resulting file size if the container uses large stream packet headers or a large number of packets.
+
+In general, Matroska requires the least overhead, followed by MP4 , AVI and Ogg .

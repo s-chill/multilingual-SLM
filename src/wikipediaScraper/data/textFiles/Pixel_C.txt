@@ -1,0 +1,13 @@
+The Pixel C is a 10.2-inch (260 mm) Android tablet developed and marketed by Google . The device was unveiled during a media event on September 29, 2015. On October 9, 2018, it was succeeded by the Pixel Slate .
+
+The Pixel C is powered by the Nvidia Tegra X1 quad-core system-on-a-chip. It features 3 GB of RAM and models are available with 32 GB and 64 GB of storage. The Pixel C features a 10.2 inches (260 mm) 2560×1800 resolution IPS panel with a pixel density of 308 ppi.
+
+An optional keyboard accessory is available for the Pixel C. The tablet can attach to the keyboard magnetically via a hinge (to use as a laplet ), or the keyboard can be attached to the front or back of the tablet for storage. The keyboard connects via Bluetooth and is battery powered; when the keyboard is snapped to the front of the tablet, it can be charged inductively by the tablet.
+
+The rear camera has eight megapixels and the front camera two. Both can record video at Full HD (1080p) resolution.
+
+The Pixel C shipped with Android 6.0.1 Marshmallow . Android 7.0 "Nougat" was released for the Pixel C, among other devices, on August 22. Google released Android 7.1.1 Nougat for the Pixel C (among other devices) in December 2016.
+
+Android 7.1.2 was released in March 2017; it added the Pixel Launcher and System UI, as well as a redesigned recent apps menu with a new grid-based layout. However, the Pixel Launcher that the Pixel C runs is reportedly separate from the launcher the Pixel phones run, even though they are visually extremely similar, if not identical.
+
+Google released Android 8.0 Oreo (without the Treble feature for device independent system updates) for the Pixel C, among other devices, in August 2017. Android 8.1 Oreo was released for the Pixel C, as well as some other devices, on December 5, 2017.

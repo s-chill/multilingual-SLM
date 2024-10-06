@@ -1,0 +1,29 @@
+A plumbing fixture is an exchangeable device which can be connected to a plumbing system to deliver and drain water.
+
+The most common plumbing fixtures are:
+
+Each of these plumbing fixtures has one or more water outlets and a drain .  In some cases, the drain has a device that can be manipulated to block the drain to fill the basin of the fixture.  Each fixture also has a flood rim , or level at which water will begin to overflow.  Most fixtures also have an overflow, which is a conduit for water to drain away, when the regular drain is plugged, before the water actually overflows at the flood rim level.  However, water closets and showers (that are not in bathtubs) usually lack this feature because their drains normally cannot be stopped.
+
+Each fixture usually has a characteristic means of connection.  Normal plumbing practice is to install a valve on each water supply line before the fixture, and this is most commonly termed a stop or "service valve".  The water supply to some fixtures is cold water only (such as water closets and urinals).  Most fixtures also have a hot water supply.  In some occasional cases, a sink may have both a potable (drinkable) and a non-potable water supply.
+
+Lavatories and water closets normally connect to the water supply by means of a supply , which is a tube, usually of nominal 3/8 in ( United States ) or 10 or 12 mm diameter ( Europe and Middle East ), which connects the water supply to the fixture, sometimes through a flexible ( braided ) hose.  For water closets, this tube usually ends in a flat neoprene washer that tightens against the connection, while for lavatories, the supply usually ends in a conical neoprene washer.  Kitchen sinks, tubs and showers usually have supply tubes built onto their valves which then are soldered or 'fast jointed' directly onto the water supply pipes.
+
+The actual initial drain part in a lavatory or sink is termed a strainer .  If  there is a removable strainer device that fits into the fixed strainer, it is termed a strainer basket .  The initial pipe that leads from the strainer to the trap is termed the tailpiece .
+
+Floor-mounted water closets seal to the toilet flange of the drain pipe by means of a wax ring. These are traditionally made out of beeswax. However, their proper sealing depends on proper seating of the water closet, on a firm and secure base (floor), and on proper installation of the closet bolts which secure the closet to the flange, which is in turn supposed to be securely fastened to the floor.
+
+All plumbing fixtures have traps in their drains; these traps are either internal or external to the fixtures.  Traps are pipes which curve down then back up; they "trap" a small amount of water to create a water seal between the ambient air space and the inside of the drain system .  This prevents sewer gas from entering buildings.
+
+Most water closets, bidets, and many urinals have the trap integral with the fixture itself.  The visible water surface in a toilet is the top of the trap's water seal.
+
+Each fixture drain, with exceptions, must be vented so that negative air pressure in the drain cannot siphon the trap dry, to prevent positive air pressure in the sewer from forcing gases past the water seal, and to prevent explosive sewer gas buildup.
+
+In public facilities, the trend is toward sensor-operated (automatic) fixtures that improve hygiene and save money.  For example, sensor operated automatic-flush urinals have fewer moving parts, reduce wear, and tend to last longer than manual-flush valves.  Also, they ensure fixtures are flushed only once per use.  Some contain intelligence that flushes them at different amounts of water flow depending on traffic patterns: e.g. , the fixture can detect a lineup of users and only give a full flush after the last person has used the urinal.  For the same purpose, dual- flush toilets are also becoming more popular. A combination of both technologies can allow for saved power and water.
+
+Automatic flush compensates for users who do not bother to flush.  Also, since the fixtures are always flushed, there is no need for a urinal cake , or other odor reduction.  Sensor-operated toilets also have automatic flush.  Sensor-operated faucets and showers save water. For example, while a user is lathering up with soap, the fixture shuts off and then resumes when the user needs it to.  Sensor-operated soap and shampoo dispensers reduce waste and spills that might otherwise represent a slippage hazard.
+
+However, many people, especially children, dislike or even fear automatic flush toilets, since they have the tendency to flush without warning, even while the user is still sitting on the toilet.  Some parents have started keeping track of public bathrooms that have manual flush toilets, or even carrying post-it notes or other devices with them to temporarily disable the automatic flush sensor.
+
+These fixtures typically cost more to install than conventional plumbing fixtures, because they require the services (or presence) of both a licensed plumber and a licensed electrician. Construction companies on cost-plus contracts may actually favor these fixtures for this reason, although their clients may not. The additional complexity of these fixtures also complicates repairs, particularly the diagnosis of malfunctions causing unexpected flushing. Few electricians, and fewer plumbers, understand microelectronics well enough for complex diagnosis.
+
+Some widely used standards for plumbing fittings and accessories located between the supply stop and the terminal fitting area are:

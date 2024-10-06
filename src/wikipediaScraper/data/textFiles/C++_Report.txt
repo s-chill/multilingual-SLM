@@ -1,0 +1,1 @@
+C++ Report was a bi-monthly professional computer magazine published by SIGS Publications Group . It was edited by Robert Murray, Stanley B. Lippman , Douglas C. Schmidt , Brad Appleton, Robert Cecil Martin , and Herb Sutter and aimed to cover various issues related to C++ programming language. It was recognized as an important publication related to C++.

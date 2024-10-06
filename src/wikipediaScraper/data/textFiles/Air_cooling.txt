@@ -1,0 +1,7 @@
+Air cooling is a method of dissipating heat . It works by expanding the surface area or increasing the flow of air over the object to be cooled, or both. An example of the former is to add cooling fins to the surface of the object, either by making them integral or by attaching them tightly to the object's surface (to ensure efficient heat transfer). In the case of the latter, it is done by using a fan blowing air into or onto the object one wants to cool. The addition of fins to a heat sink increases its total surface area, resulting in greater cooling effectiveness. There are two types of cooling pads that can be used for air cooling: one is the honeycomb design and another one is excelsior .
+
+In all cases, the air has to be cooler than the object or surface from which it is expected to remove heat. This is due to the second law of thermodynamics , which states that heat will only move spontaneously from a hot reservoir (the heat sink) to a cold reservoir (the air).
+
+When operating in an environment with lower air pressure like high altitude or airplane cabins, the cooling capacity has to be derated compared to that of sea level.
+
+A rule-of-thumb formula to note: 1 – (h/17500) = derating factor. Where h is the height over sea level in meters. And the result is the factor that should be multiplied with the cooling capacity in [W] to get the cooling capacity at the specified height over sea level.

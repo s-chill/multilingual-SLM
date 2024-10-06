@@ -1,0 +1,39 @@
+Gear inches is an imperial measure corresponding to the diameter in inches of the drive wheel of a penny-farthing bicycle with equivalent ( direct-drive ) gearing. A commonly used metric alternative is known as metres of development or rollout distance , which specifies how many metres a bicycle travels per revolution of the crank.
+
+In contrast to gear ratio which is a relative measure of bicycle gearing giving an indication of the mechanical advantage of different gears, which combined with the wheel diameter determines how far the bicycle advances per pedal or crank revolution.
+
+Typical gear ratios on bicycles range from very low or light gearing around 20 gear inches (1.6 metres per revolution), via medium gearing around 70 gear inches (5.6 m), to very high or heavy gearing around 125 gear inches (10 m). As in a car, low gearing is for going up hills and high gearing is for going fast.
+
+When the high wheeler or penny-farthing was the "ordinary" bicycle form, the comparative diameter in inches of the driven wheel was an indication of relative speed and effort. A 60-inch wheel propelled a bicycle faster than a 50-inch wheel when both were cranked at the same cadence . The technology of the high wheeler imposed a natural limit—a 60-inch wheel was about the maximum size that could be straddled by ordinary sized legs. When "safeties" replaced "ordinaries", chains and sprockets allowed small wheels to be turned faster than the pedal cranks. As result, a 28-inch wheel could be made to move a bicycle at the same speed as a 60-inch wheel. Such a bicycle was then said to be geared at 60 gear inches and pedalled similar to an ordinary with a 60-inch wheel. Thus on a bicycle geared at 72 gear inches one revolution of the pedals advances the bicycle the distance that a 72-inch wheel would in one revolution.
+
+Gear inches express gear ratios in terms of the diameter of an equivalent directly driven wheel, and is calculated as follows:
+
+This formula assumes that any hub gear is in direct drive. A further factor is needed for other gears (many online gear calculators have these factors built in for common hub gears).
+
+For simplicity, 'gear inches' is normally rounded to the nearest whole number.
+
+For example, suppose the drive wheel is actually 26 inches in diameter. If the front chainring and rear sprocket have equal numbers of teeth, one turn of the pedals produces exactly one turn of the drive wheel, just as if the pedals were directly driving the drive wheel. That combination of gears and wheel is said to be "26 gear inches." If the front chainring has 48 teeth and the rear sprocket has 24 teeth, then each turn of the pedals produces two turns of the rear wheel. This is equivalent to doubling the size of the drive wheel; that is, it is like a directly driven bicycle with a 52-inch wheel. That gear is said to be "52 gear inches."
+
+A bicycle with a 26-inch wheel, a 48-tooth chainring, and a cassette with gears ranging from 11 to 34 teeth has a lowest gear of 26 × 48 / 34 = 37 gear inches and a highest gear of 26 × 48 / 11 = 113 gear inches.
+
+For bicycles with 700c wheels, some cyclists quote gear inches based on a nominal wheel diameter of 27 inches, corresponding to the old British tire size of 27 x 1 + 1 ⁄ 4 " (ETRTO 630). Strictly speaking, the rolling diameter of a 700c wheel may be significantly higher or lower than 27", depending on the tire size, e.g. nearly 27.5" for a 700x38 tire, or just over 26" for a 700x20 tire. This can be the source of some confusion when comparing gears unless it is clear whether gear inches have been calculated using the actual wheel size or a conventionalised 27".
+
+One way to estimate wheel diameter is to add twice the nominal tyre cross-section to the rim diameter. For example, consider a 700c × 23 mm tire, which has a nominal cross-section of 23 mm. 700c wheels have a rim diameter of 622 mm. Hence the wheel diameter is (2 × 23 mm) + 622 mm = 668 mm which is equal to 26.3 inches (rounded to 1 decimal place). 26 inch mountain bicycle wheels have a rim diameter of 559 mm. This ignores factors that contribute to the actual rolling radius of the tyre and rim together: the vertical deflection of the tire above the contact patch and the difference between the manufacturer's stated size and the actual tire radius when mounted and inflated.
+
+Gear inches, along with cadence, can be converted to speed as follows:
+
+The rollout distance , also known as metres of development , is a measurement which specifies how many metres a bicycle travels per revolution of the crank. It can be calculated by the formula:
+
+or equivalently:
+
+Thus gear inches and development differ by a factor of π times imperial-to-metric conversion. To convert from gear inches to metres of development, multiply by 0.08 (more precisely: 0.0254π).
+
+The following theoretical table indicates the metres traveled per pedal revolution for a typical combination of a 622 mm (700C) rim with a 23 mm tire. In practice, the result will vary with the profile of the tire and other factors.
+
+Up until 2023, the UCI limited junior riders to a rollout distance of 7.93 metres (~99 gear inches).
+
+Some national cycling federations limit rollout distances for younger riders.
+
+For example, a common junior gearing until 2023 was 52 teeth on the largest ring at the crank, and 14 as the heaviest gear available in the rear wheel. Coupled with a 700c wheel (622 mm diameter) and a 23 mm tire size (which approximately adds 2×23 mm to the wheel diameter), this gives an approximate diameter of 0.645 metres (depending on various factors such as air pressure, tire and rim), resulting in an estimated rollout distance of: π ⋅ 0.668 m ⋅ 52 ⁄ 14 ~ 7.53 m
+
+Both "gear inches" and "metres of development" are concerned with the distance travelled per turn of the pedals, and are ultimately ways of indicating the mechanical advantage of the drivetrain, but neither of them take into account the length of the crankarm, which can vary from bike to bike. The crankarm is a lever arm. If two bicycles have different crank lengths but are otherwise identical, a longer lever arm gives a greater mechanical advantage. To take this into account, Sheldon Brown proposed a gear measurement system called gain ratio , which is calculated by the distance travelled by the bike divided by the distance of revolution of the pedal axle during one turn of the crank. He argued that it also has the advantage of being dimensionless .

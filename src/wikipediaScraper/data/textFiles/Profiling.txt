@@ -1,0 +1,17 @@
+Forensic profiling is the study of trace evidence in order to develop information which can be used by police authorities . This information can be used to identify suspects and convict them in a court of law.
+
+The term " forensic " in this context refers to "information that is used in court as evidence" ( Geradts & Sommer 2006 , p. 10). The traces originate from criminal or litigious activities themselves. However traces are information that is not strictly dedicated to the court. They may increase knowledge in broader domains linked to security that deal with investigation, intelligence, surveillance, or risk analysis ( Geradts & Sommer 2008 , p. 26).
+
+Forensic profiling is different from offender profiling , which only refers to the identification of an offender to the psychological profile of a criminal.
+
+In particular, forensic profiling should refer to profiling in the information sciences sense, i.e., to "The process of 'discovering' correlations between data in data bases that can be used to identify and represent a human or nonhuman subject (individual or group), and/or the application of profiles (sets of correlated data) to individuate and represent a subject or to identify a subject as a member of a group or category"  ( Geradts & Sommer 2006 , p. 41).
+
+Forensic profiling is generally conducted using datamining technology, as a means by which relevant patterns are discovered, and profiles are generated from large quantities of data.
+
+A distinction of forms of profiles that are used in a given context is necessary before evaluating applications of data mining techniques for forensic profiling.
+
+The data available to law enforcement agencies are divided into two categories ( Geradts & Sommer 2008 , p. 15):
+
+The use of profiling techniques represents threats to the privacy of the individual and to the protection of fundamental freedoms . Indeed, criminal data, i.e., data which are collected and processed for suppressing criminal offences, often consists of personal data. One of the issues is the re-use of personal data collected within one criminal investigation for another purpose than the one for which it was collected. An example from the book, “The Psychology and Sociology of Wrongful Convictions: Forensic Science Reform,” there was a profiling error, in which this woman was raped and slaughtered by a serial killer. The suspect was named the Boston Strangler and investigators worked hard in trying to gather a profile for this criminal. Experts eventually came up with the Boston Strangler being two people and that both men lived alone, most likely schoolteachers, and one of them was homosexual. The criminal finally confessed to the crime and his DNA matched up with the scene, but his profile didn’t fit the crime. The profile the experts came up with didn’t match any characteristics of the killer (pp.6). Creating profiles just creates tunnel vision because investigators will be focusing on finding a specific individual that the profile fits, when in reality, the profiling system is insanely flawed and is considered useless to the investigators.
+
+Several methods-including technical, legal, and behavioral-are available to address some of the issues associated with forensic profiling. For instance, in Europe the European Convention on Human Rights provides a number of instruments for the Protection of Individuals with regard to Automatic Processing of Personal Data.

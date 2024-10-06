@@ -1,0 +1,13 @@
+Lu Qi ( simplified Chinese : 陆奇 ; traditional Chinese : 陸奇 ; pinyin : Lù Qí ; born September 3, 1961) is a Chinese-American software executive and engineer who is the head of MiraclePlus , a startup incubator in China. Previously, Lu was the head of Y Combinator 's China until it was shut down. He was formerly the chief operating officer of Baidu until he stepped down in May, 2018. He has served as the executive vice president of Microsoft , leading development of Bing , Skype , and Microsoft Office , and software engineer and manager for Yahoo! 's search technology division.
+
+Lu was born in Shanghai , China, and was sent to live with his grandparents in a remote village in Jiangsu Province by his parents during the Cultural Revolution . Lu grew up without electricity, plumbing, and other basic amenities, eating meat only twice a year at Chinese New Year celebrations.
+
+Lu obtained undergraduate and master's degrees in computer science at Fudan University , where he joined the faculty. After attending a talk by Edmund M. Clarke , Lu was invited to apply for a PhD program at Carnegie Mellon . Lu arrived in Pittsburgh in 1988, becoming the second Chinese student to be admitted to the School of Computer Science. His doctoral research focused on distributed file systems that enable multiple users to share files on a computer network. He completed his PhD in computer science in 1996.
+
+Lu worked in one of IBM 's research labs on Internet-related projects from 1996 to 1998. He then joined Yahoo! as an engineer, eventually rising to executive vice president of engineering of search and advertising technology. His departure from Yahoo! in mid-2008 was long planned, and he was contemplating opportunities in venture capital and even thinking of returning to China. However, Steve Ballmer personally recruited him to join Microsoft, where Lu was instrumental in driving the launch of Bing . He later became an architect of Satya Nadella ’s strategy for artificial intelligence and bots at Microsoft.
+
+In 2010, Fast Company named Lu the tenth most creative person in business for 2010.
+
+In January 2017, Lu joined Baidu as group president and chief operating officer in charge of products, technology, sales, marketing and operations. He stepped down on May 18, 2018. In August 2018, he joined Y Combinator as the head of research and assumed control of YC China.
+
+In November 2019, Y Combinator decided to shut down YC China. Lu continues to fund startups under his new program, MiraclePlus. MiraclePlus operates out of its head office in Beijing, and invests checks of $300K USD for 7% into early stage startups around the world. Much like its parent Y Combinator, MiraclePlus operates two cohorts per year (one in the summer, and one in winter).

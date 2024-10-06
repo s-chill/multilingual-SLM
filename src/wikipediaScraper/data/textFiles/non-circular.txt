@@ -1,0 +1,17 @@
+A non-circular gear ( NCG ) is a special gear design with special characteristics and purpose. While a regular gear is optimized to transmit torque to another engaged member with minimum noise and wear and with maximum efficiency , a non-circular gear's main objective might be ratio variations, axle displacement oscillations and more. Common applications include textile machines, potentiometers , CVTs ( continuously variable transmissions ), window shade panel drives, mechanical presses and high torque hydraulic engines.
+
+A regular gear pair can be represented as two circles rolling together without slip. In the case of non-circular gears, those circles are replaced with anything different from a circle. For this reason NCGs in most cases are not round, but round NCGs that look like regular gears are also possible (small ratio variations result from meshing area modifications).
+
+Generally, NCGs should meet all the requirements of regular gearing but in some cases, for example variable axle distance, could prove impossible to support, and such gears require very tight manufacturing tolerances and assembling problems arise. Because of complicated geometry , NCGs are most likely spur gears and molding or electrical discharge machining technology is used instead of generation.
+
+Ignoring the gear teeth for the moment (i.e. assuming the gear teeth are very small), let r 1 ( θ 1 ) {\displaystyle r_{1}(\theta _{1})} be the radius of the first gear wheel as a function of angle from the axis of rotation θ 1 {\displaystyle \theta _{1}} , and let r 2 ( θ 2 ) {\displaystyle r_{2}(\theta _{2})} be the radius of the second gear wheel as a function of angle from its axis of rotation θ 2 {\displaystyle \theta _{2}} . If the axles remain fixed, the distance between the axles is also fixed:
+
+Assuming that the point of contact lies on the line connecting the axles, in order for the gears to touch without slipping, the velocity of each wheel must be equal at the point of contact and perpendicular to the line connecting the axles, which implies that:
+
+Each wheel must be cyclic in its angular coordinates. If the shape of the first wheel is known, the shape of the second can often be found using the above equations. If the relationship between the angles is specified, the shapes of both wheels can often be determined analytically as well.
+
+It is more convenient to use the circular variable z = e i θ {\displaystyle z=e^{i\theta }} when analyzing this problem. Assuming the radius of the first gear wheel is known as a function of z , and using the relationship d z = i z d θ {\displaystyle dz=iz\,d\theta } , the above two equations can be combined to yield the differential equation:
+
+where z 1 {\displaystyle z_{1}} and z 2 {\displaystyle z_{2}} describe the rotation of the first and second gears respectively. This equation can be formally solved as:
+
+where ln ⁡ ( K ) {\displaystyle \ln(K)} is a constant of integration.

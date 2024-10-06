@@ -1,0 +1,31 @@
+High-speed steel ( HSS or HS ) is a subset of tool steels , commonly used as cutting tool material .
+
+It is superior to high- carbon steel tools in that it can withstand higher temperatures without losing its temper (hardness). This property allows HSS to cut faster than high carbon steel, hence the name high-speed steel . At room temperature, in their generally recommended heat treatment, HSS grades generally display high hardness (above 60 Rockwell C ) and abrasion resistance compared with common carbon and tool steels . There are several different types of high speed steel, such as M42 and M2.
+
+In 1868, English metallurgist Robert Forester Mushet developed Mushet steel , considered the forerunner of modern high-speed steels. It consisted of 2% carbon , 2.5% manganese , and 7% tungsten . The major advantage of this steel was that it hardened when air cooled from a temperature at which most steels had to be quenched for hardening. Over the next 30 years, the most significant change was the replacement of manganese with chromium .
+
+In 1899 and 1900, Frederick Winslow Taylor and Maunsel White ( né Maunsel White III; 1856–1912; grandson of Maunsel White ; 1783–1863), working with a team of assistants at the Bethlehem Steel Company at Bethlehem, Pennsylvania , US, performed a series of experiments with heat treating existing high-quality tool steels, such as Mushet steel, heating them to much higher temperatures than were typically considered desirable in the industry. Their experiments were characterised by a scientific empiricism in that many different combinations were made and tested, with no regard for conventional wisdom or alchemic recipes, and detailed records kept of each batch. The result was a heat treatment process that transformed existing alloys into a new kind of steel that could retain its hardness at higher temperatures, allowing much higher speeds and rate of cutting when machining.
+
+The Taylor-White process was patented and created a revolution in machining industries. Heavier machine tools with higher rigidity were needed to use the new steel to its full advantage, prompting redesigns and replacement of installed plant machinery. The patent was contested and eventually nullified.
+
+The first alloy that was formally classified as high-speed steel is known by the AISI designation T1, which was introduced in 1910. It was patented by Crucible Steel Co. at the beginning of the 20th century.
+
+Although molybdenum -rich high-speed steels such as AISI M1 had seen some use since the 1930s, it was the material shortages and high costs caused by WWII that spurred development of less expensive alloys substituting molybdenum for tungsten. The advances in molybdenum-based high speed steel during this period put them on par with, and in certain cases better, than tungsten-based high speed steels. This started with the use of M2 steel instead of T1 steel.
+
+High speed steels are alloys that gain their properties from a variety of alloying metals added to carbon steel, typically including tungsten and molybdenum, or a combination of the two, often with other alloys as well. They belong to the Fe–C–X multi-component alloy system where X represents chromium , tungsten , molybdenum , vanadium , or cobalt . Generally, the X component is present in excess of 7%, along with more than 0.60% carbon .
+
+In the unified numbering system (UNS), tungsten-type grades (e.g. T1, T15) are assigned numbers in the T120xx series, while molybdenum (e.g. M2, M48) and intermediate types are T113xx. ASTM standards recognize 7 tungsten types and 17 molybdenum types.
+
+The addition of about 10% of tungsten and molybdenum in total maximises efficiently the hardness and toughness of high speed steels and maintains those properties at the high temperatures generated when cutting metals.
+
+Combining molybdenum, tungsten and chromium steel creates several alloys commonly called "HSS", with a hardness of 63 to 65 Rockwell C.
+
+The addition of cobalt increases heat resistance, and can give a hardness up to 70 Rockwell C.
+
+HSS drill bits formed by rolling are denoted HSS-R. Grinding is used to create HSS-G, cobalt and carbide drill bits.
+
+The main use of high-speed steels continues to be in the manufacture of various cutting tools: drills, taps , milling cutters , tool bits , hobbing (gear) cutters, saw blades, planer and jointer blades, router bits, etc., although usage for punches and dies is increasing.
+
+High speed steels also found a market in fine hand tools where their relatively good toughness at high hardness, coupled with high abrasion resistance, made them suitable for low speed applications requiring a durable keen (sharp) edge, such as files , chisels , hand plane blades, and damascus kitchen knives and pocket knives .
+
+High speed steel tools are the most popular for use in woodturning, as the speed of movement of the work past the edge is relatively high for handheld tools, and HSS holds its edge far longer than high carbon steel tools can.

@@ -1,0 +1,12 @@
+The coulomb (symbol: C ) is the unit of electric charge in the International System of Units (SI). It is equal to the electric charge delivered by a 1 ampere current in 1 second and is defined in terms of the elementary charge e , at about 6.241 509 × 10 e .
+
+The coulomb is named after Charles-Augustin de Coulomb . As with every SI unit named for a person, its symbol starts with an upper case letter (C), but when written in full, it follows the rules for capitalisation of a common noun ; i.e., coulomb becomes capitalised at the beginning of a sentence and in titles but is otherwise in lower case.
+
+By 1878, the British Association for the Advancement of Science had defined the volt, ohm, and farad, but not the coulomb. In 1881, the International Electrical Congress , now the International Electrotechnical Commission (IEC), approved the volt as the unit for electromotive force, the ampere as the unit for electric current, and the coulomb as the unit of electric charge. At that time, the volt was defined as the potential difference [i.e., what is nowadays called the "voltage (difference)"] across a conductor when a current of one ampere dissipates one watt of power.
+The coulomb (later "absolute coulomb" or " abcoulomb " for disambiguation) was part of the EMU system of units. The "international coulomb" based on laboratory specifications for its measurement was introduced by the IEC in 1908. The entire set of "reproducible units" was abandoned in 1948 and the "international coulomb" became the modern coulomb.
+
+The SI defines the coulomb by taking the value of the elementary charge e to be 1.602 176 634 × 10 C , but was previously defined in terms of the force between two wires. The coulomb was originally defined, using the latter definition of the ampere, as 1 A × 1 s . The 2019 redefinition of the ampere and other SI base units fixed the numerical value of the elementary charge when expressed in coulombs and therefore fixed the value of the coulomb when expressed as a multiple of the fundamental charge.
+
+One coulomb is approximately 6 241 509 074 460 762 607 .776 e (and is thus not an integer multiple of the elementary charge), where the number is the reciprocal of 1.602 176 634 × 10 C . The coulomb is exactly 1 C = 1 1.602 176 634 × 10 − 19 e . {\displaystyle 1~\mathrm {C} ={\frac {1}{1.602\,176\,634\times 10^{-19}}}~e.}
+
+Like other SI units, the coulomb can be modified by adding a prefix that multiplies it by a power of 10 .

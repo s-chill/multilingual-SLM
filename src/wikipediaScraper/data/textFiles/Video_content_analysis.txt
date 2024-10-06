@@ -1,0 +1,33 @@
+Video content analysis or video content analytics ( VCA ), also known as video analysis or video analytics ( VA ), is the capability of automatically analyzing video to detect and determine temporal and spatial events.
+
+This technical capability is used in a wide range of domains including entertainment, video retrieval and video browsing , health-care, retail, automotive, transport, home automation , flame and smoke detection, safety, and security. The algorithms can be implemented as software on general-purpose machines, or as hardware in specialized video processing units.
+
+Many different functionalities can be implemented in VCA. Video Motion Detection is one of the simpler forms where motion is detected with regard to a fixed background scene. More advanced functionalities include video tracking and egomotion estimation.
+
+Based on the internal representation that VCA generates in the machine, it is possible to build other functionalities, such as video summarization , identification , behavior analysis, or other forms of situation awareness .
+
+VCA relies on good input video, so it is often combined with video enhancement technologies such as video denoising , image stabilization , unsharp masking , and super-resolution .
+
+Several articles provide an overview of the modules involved in the development of video analytic applications. This is a list of known functionalities and a short description.
+
+VCA is a relatively new technology, with numerous companies releasing VCA-enhanced products in the mid-2000s. While there are many applications, the track record of different VCA solutions differ widely. Functionalities such as motion detection , people counting and gun detection are available as commercial off-the-shelf products and believed to have a decent track-record (for example, even freeware such as dsprobotics Flowstone can handle movement and color analysis). In response to the COVID-19 pandemic , many software manufacturers have introduced new public health analytics like face mask detection or social distancing tracking.
+
+In many domains VCA is implemented on CCTV systems, either distributed on the cameras (at-the-edge) or centralized on dedicated processing systems. Video Analytics and Smart CCTV are commercial terms for VCA in the security domain. In the UK the BSIA has developed an introduction guide for VCA in the security domain. In addition to video analytics and to complement it, audio analytics can also be used.
+
+Video management software manufacturers are constantly expanding the range of the video analytics modules available. With the new suspect tracking technology, it is then possible to track all of this subject's movements easily:  where they came from, and when, where, and how they moved. Within a particular surveillance system, the indexing technology is able to locate people with similar features who were within the cameras’ viewpoints during or within a specific period of time. Usually, the system finds a lot of different people with similar features and presents them in the form of snapshots. The operator only needs to click on those images and subjects which need to be tracked. Within a minute or so, it's possible to track all the movements of a particular person, and even to create a step-by-step video of the movements.
+
+Kinect is an add-on peripheral for the Xbox 360 gaming console that uses VCA for part of the user input.
+
+In retail industry, VCA is used to track shoppers inside the store. By this way, a heatmap of the store can be obtained, which is beneficial for store design and marketing optimisations. Other applications include dwell time when looking at a products and item removed/left detection.
+
+The quality of VCA in the commercial setting is difficult to determine. It depends on many variables such as use case , implementation , system configuration and computing platform . Typical methods to get an objective idea of the quality in commercial settings include independent benchmarking and designated test locations.
+
+VCA has been used for crowd management purposes, notably at The O2 Arena in London and The London Eye .
+
+Police and forensic scientists analyse CCTV video when investigating criminal activity. Police use software, such as Kinesense , which performs video content analysis to search for key events in video and find suspects. Surveys have shown that up to 75% of cases involve CCTV. Police use video content analysis software to search long videos for important events.
+
+Video content analysis is a subset of computer vision and thereby of artificial intelligence . Two major academic benchmark initiatives are TRECVID , which uses a small portion of i-LIDS video footage, and the PETS Benchmark Data. They focus on functionalities such as tracking, left luggage detection and virtual fencing. Benchmark video datasets such as the UCF101 enables action recognition researches incorporating temporal and spatial visual attention with convolutional neural network and long short-term memory . Video analysis software is also being paired with footage from body-worn and dashboard cameras in order to more easily redact footage for public disclosure and to identify events and people in videos.
+
+The EU is funding a FP7 project called P-REACT to integrate video content analytics on embedded systems with police and transport security databases.
+
+Artificial intelligence for video surveillance utilizes computer software programs that analyze the audio and images from video surveillance cameras in order to recognize humans, vehicles, objects and events. Security contractors program is the software to define restricted areas within the camera's view (such as a fenced off area, a parking lot but not the sidewalk or public street outside the lot) and program for times of day (such as after the close of business) for the property being protected by the camera surveillance . The artificial intelligence ("A.I.") sends an alert if it detects a trespasser breaking the "rule" set that no person is allowed in that area during that time of day.

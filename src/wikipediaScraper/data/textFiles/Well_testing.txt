@@ -1,0 +1,33 @@
+In the petroleum industry , a well test is the execution of a set of planned data acquisition activities. The acquired data is analyzed to broaden the knowledge and increase the understanding of the hydrocarbon properties therein and characteristics of the underground reservoir where the hydrocarbons are trapped.
+
+The test will also provide information about the state of the particular well used to collect data. The overall objective is identifying the reservoir's capacity to produce hydrocarbons, such as oil , natural gas and condensate .
+
+Data gathered during the test period includes volumetric flow rate and pressure observed in the selected well. Outcomes of a well test, for instance flow rate data and gas oil ratio data, may support the well allocation process for an ongoing production phase, while other data about the reservoir capabilities will support reservoir management.
+
+There are many flavours of well tests and various ways to categorize test types by its objectives, however two main categories only by objectives, these are productivity tests and descriptive tests. According to The Lease Pumper's Handbook of Oklahoma Commission on Marginally Producing Oil and Gas Wells, there are four basic well test types: potential tests, daily tests, productivity tests, and gas oil ratio tests, the latter three in the broader productivity test category.
+
+Test objectives will change throughout the different phases of a reservoir or oil field, from the exploration phase of wildcat and appraisal wells, through the field development phase and finally through the production phase, which may also have variations from the initial period of production to improved recovery by the end of the field lifecycle time.
+
+Professionals working with reservoir modelling may get information about the rock permeability from core samples . Other sources of information to the model are well log data and seismic data , but such data are complementary only, and for example, seismic data is insufficient to interpret whether a structural trap has been sealed. Information from well tests will supplement the amount of information with flow rate data, pressure data, and other, which is needed to build a rich reservoir model. The main objective in the exploration phase is to assess the size of a reservoir and state with a given certainty whether it has the properties for commercial exploitation and shall contribute to accounting for available reserves.
+
+Well testing taking place before permanent well completion is referred to as drill stem testing or formation testing - depending on the technology used.
+
+The reservoir model is further developed to support the field development planning and to advise for the optimal location for extra production wells to be drilled. Descriptive well tests are designed and performed in the new wells.
+
+This test has also been called daily test and may have various other namings. Often, and especially at offshore fields, a number of wells produce to a common separator , and flows from several separators or facilities may be headed into a commingled flow in pipeline that transports oil or gas for sale (export).
+
+The total flow rate of all wells in total are measured, but the contributions of the individual wells are unknown. It is important to know the individual contributions to account hydrocarbon material balance and for well monitoring and reservoir management.
+
+To obtain individual well flow rates, it is common to use a smaller test separator. This is an isolated and down-scaled processing system in parallel with the normal flows. Regularly, for example once a month per well, the flow from one and only one selected well is led into the test separator for determining well flow rate for the selected well. The separator divides the flow from the well into the streams of individual products which typically are oil, gas and water, but may include natural-gas condensate . Contamination may also be removed and fluid samples collected. This helps to allocate individual flow rate contributions, but the method has uncertainties. Flow rate, water cut, GOR and other parameters for the test system can deviate from production separators. This is generally taken into account by the allocation of products back to individual wells based on the field total, and by using data from the individual well tests.
+
+Another method to obtain individual well flow rates takes the state observer approach, where the states to be estimated as the unknown flow rates from individual wells. This approach allows the incorporation of other modes of measurements such as spin-cuts (manual water cut readings) and dynamometer card based inferred rates. The reconciliation of these measurements with the flow tests, along with a systematic mechanism to account for measurement noise, leads to improved per well rate estimation accuracy.
+
+Multiphase flow meters have to some degree reduced the need for flow tests and test separators. Multiphase flow meters are not suitable for all applications where clean-ups are required post workover. In the absence of accurate, robust and low-cost multi-phase flow meters, large oil fields with thousands of wells continue to rely on well tests as the primary source of information for production surveillance.
+
+The most common types of well tests include:
+
+– Drill stem tests (DSTs) : DSTs are conducted on exploration wells to assess the potential of a reservoir to produce oil or gas. DSTs involve lowering a series of tools into the well to temporarily isolate the reservoir and collect samples of the fluids.
+
+– Production tests : Production tests are conducted on producing wells to monitor reservoir performance and identify any potential problems. Production tests involve flowing the well at different rates and measuring the flow rates and pressures.
+
+– Buildup tests : Buildup tests are conducted on producing wells to measure reservoir pressure and permeability. Builtup tests involve shutting in the well after a production test and measuring the pressure as it builds back up.

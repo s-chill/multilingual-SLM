@@ -1,0 +1,69 @@
+tvOS (formerly Apple TV Software ) is an operating system developed by Apple Inc. for the Apple TV , a digital media player . In the first-generation Apple TV, Apple TV Software was based on Mac OS X. Starting with the second generation, the software is based on the iOS operating system and has many similar frameworks, technologies, and concepts.
+
+The second- and third-generation Apple TV have several built-in applications, but do not support third-party applications.
+
+On September 9, 2015, Apple announced the fourth-generation Apple TV , with support for third-party applications. Apple also changed the name of the Apple TV operating system to tvOS, adopting the camel case nomenclature that they were using for their other operating systems, iOS and watchOS .
+
+On October 30, 2015, the fourth-generation Apple TV became available; it shipped with tvOS 9.0. On November 9, 2015, tvOS 9.0.1 was released, primarily an update to address minor issues.
+
+tvOS 9.1 was released on December 8, 2015, along with OS X 10.11.2, iOS 9.2, and watchOS 2.1. Apple also updated the Remote apps on iOS and watchOS, enabling basic remote functionality for the fourth-generation Apple TV (previously, the app only worked with past versions of Apple TV).
+
+On November 25, 2015, Facebook debuted their SDK for tvOS, allowing applications to log into Facebook, share to Facebook, and use Facebook Analytics in the same way that iOS applications can.
+
+On December 2, 2015, Twitter debuted their login authentication service for tvOS – "Digits" – allowing users to log into apps and services with a simple, unique code available online.
+
+On June 13, 2016, at WWDC 2016, Apple SVP of Internet Services Eddy Cue announced tvOS 10. It brought new functionality, such as Siri search improvements, single sign-on for cable subscriptions, a dark mode, and a new Remote application for controlling the Apple TV; it was released on September 13, 2016, along with iOS 10 .
+
+On June 4, 2018, at WWDC 2018, tvOS 12 was announced. It brought support for Dolby Atmos E-AC3 and was released on September 17, 2018, along with iOS 12 .
+
+On April 13, 2020, it was discovered that Apple's Siri Smart Speaker HomePod began to run variants of the tvOS software.
+
+On June 22, 2020, at WWDC 2020, tvOS 14 was announced. It brought support for the Home app and 4K YouTube videos and was released on September 16, 2020, along with iOS 14 and iPadOS 14 .
+
+On June 7, 2021, at WWDC 2021, tvOS 15 was announced. It brought new features and improvements, including SharePlay, a new "Shared with You" section on the TV app, and the ability to play content via voice command. It was released on September 20, 2021, along with iOS 15 and iPadOS 15 .
+
+On June 6, 2022, at WWDC 2022, tvOS 16 was announced. It brought support for Nintendo Switch 's Joy-Con and Pro Controllers and additional Bluetooth and USB game controllers. It was released on September 12, 2022, along with iOS 16 .
+
+On June 5, 2023, at WWDC 2023, tvOS 17 was announced. tvOS 17 brings new features, such as support for FaceTime and video conferencing apps when paired with a iPhone or iPad, a redesigned control center interface, and third-party VPN support. It was released on September 18, 2023, along with iOS 17 and iPadOS 17 .
+
+On June 10, 2024, at WWDC 2024, tvOS 18 was announced. It was released on September 16, 2024, along with iOS 18 and iPadOS 18 .
+
+tvOS 9 shipped with several new features on the fourth-generation Apple TV. One major new feature was the ability to move through the interface with the new touchpad remote using multi-touch gestures. It also introduced a new App Store in which users can download and install new applications (such as apps and games) made available by developers for the Apple TV and tvOS. tvOS 9 adds support for Siri, which offers a multitude of features such as a cross-application search for a movie/TV show, rewind, fast forward, name and actor/director of the current movie, and skip back 15 seconds. tvOS added support for an application switcher on the Apple TV, more application customization options, cinematic screensavers, and control the TV using the included Siri Remote with the built-in support for HDMI-CEC in tvOS. In addition, tvOS allows the user to control the Apple TV in many different ways, such as using the included Siri Remote, pairing a third-party universal remote, pairing an MFi Gamepad to control games, using the Remote app on iOS , and pairing a Bluetooth keyboard to aid in the typing experience of the user.
+
+tvOS was designed based on iOS, as such tvOS inherited many of the accessibility features of iOS and macOS.
+
+tvOS includes the Apple technologies of VoiceOver , Zoom, and Siri to help the blind and those with impaired vision. VoiceOver, Apple's screen reader , is available in more than 30 languages and enables visually impaired users to know what is on the visual display and input responses to on-screen prompts. VoiceOver uses gestures similar to other Apple products (flicks, taps, and the rotor).
+
+Like other Apple products such as the iPhone with a three click sequence to the home button to activate accessibility features, with Apple TV's tvOS, a user can activate VoiceOver without any installation process. One needs only to triple-click the Menu button on the Siri Remote and the Apple TV will guide the user through the complete initial setup, a task that is non-trivial to the visually impaired in most comparable products on the market.
+
+Another accessibility feature is to increase contrast on the screen which acts by reducing the transparency of background elements on Movie and TV Show pages, menu tabs, and other parts of the operating system. High-contrast can also be turned on, with a cursor to better delineate the focused content. The user can also opt to turn on Reduce Motion which in some screen actions, such as moving between app icons on the Home screen and launching apps are visually simpler which is of benefit to reduce strain on the eyes.
+
+tvOS enables users to watch movies with audio descriptions of what is being shown on the screen. Movies with audio descriptions are displayed with the AD (Audio Description) icon in the iTunes Store for tvOS and in iTunes on a Macintosh or Windows PC.
+
+Pairing a Bluetooth keyboard with the tvOS on the Apple TV enables another accessibility feature that also is an incorporation of VoiceOver. When typing, VoiceOver mirrors with an audio voice, each character pressed on the keyboard and repeated again when it is entered. The Apple TV is designed to work with the Apple Wireless Keyboard or the Apple Magic Keyboard . It will work however with almost any brand of Bluetooth keyboard.
+
+Apple TV with and without tvOS supports closed captioning , so the deaf or hard of hearing can experience TV episodes and feature-length movies. Compatible episodes and movies are denoted with a CC (closed captioning) or SDH ( subtitles for the deaf or hard-of-hearing ) icon in the iTunes Store either on the Apple TV or in iTunes itself. The viewer can customize the captions in episodes or movies with styles and fonts that are more conducive to their hearing and/or visual impairment.
+
+The Touch surface on the Siri Remote is customizable. Tracking when set to Fast adjusts the thumb movements made to amplify the distance in relation to how far the thumb has moved on the glass touchpad. Conversely when tracking is set to slow, larger movements of the thumb on the touchpad will tune down the distance that is traversed on the screen. This can help people with disabilities.
+
+Apple's Remote app on iOS devices allows control of the Apple TV from an iPhone, iPad or iPod Touch. The iOS remote app increases the accessibility of the Apple TV by enabling Switch Control. Switch Control is a unique Apple technology that enables navigation sequentially through onscreen items and perform specific actions such as selecting, tapping, dragging, typing using third party Bluetooth-enabled switch hardware made for those with handicaps.
+
+tvOS 9 ships with all-new development tools for developers. tvOS adds support for an all-new SDK for developers to build apps for the TV including all of the APIs included in iOS 9 such as Metal . It also adds the tvOS App Store which allows users to browse, download, and install a wide variety of applications. In addition, developers can now use their own interface inside of their application rather than only being able to use Apple's interface. Since tvOS is based on iOS, it is easy to port existing iOS apps to the Apple TV with Xcode while making only a few refinements to the app to better suit the larger screen. Apple provides Xcode free of charge to all registered Apple developers. To develop for the new Apple TV, it is necessary to make a parallax image for the application icon. In order to do this, Apple provides a Parallax exporter and previewer in the development tools for the Apple TV.
+
+Information about software updates for Apple TV (2nd generation) onwards is published on Apple's support website.
+
+Apple TV software 1.0 presented the user with an interface similar to that of Front Row . Like Front Row on the Mac, it presents the user with seven options for consuming content. Movies, TV Shows, Music, Podcasts, Photos, Settings, and Sources. It was a modified version of Mac OS X 10.4 Tiger.
+
+In February 2008, Apple released a major and free upgrade to the Apple TV, labelled "Take Two" (2.0). This update did away with Front Row and introduced a new interface in which content was organized into six categories, all of which appeared in a large square box on the screen upon startup (movies, TV shows, music, YouTube , podcasts, and photos) and presented in the initial menu, along with a "Settings" option for configuration, including software updates.
+
+In October 2009, Apple released another update for the Apple TV called "Apple TV Software 3.0". This update replaced the interface in version 2.0 with a new interface which presented seven horizontal columns across the top of the screen for the different categories of content (Movies, TV Shows, Music, Podcasts, Photos, Internet, and Settings). This update also added features such as content filtering, iTunes Extras, new fonts, and a new Internet radio app. One new feature in particular was the 'Genius' playlist option allowing for easier and more user friendly playlist creating.
+
+Apple TV Software 4, based on iOS 4 and 5, was the first version of Apple TV Software available on the Apple TV (2nd generation). It ended support for the Apple TV (1st generation). Apple TV Software 4.4 brought My Photo Stream, AirPlay mirroring (from iPhone 4S and iPad 2), NHL, Wall Street Journal, slideshow themes and Netflix subtitles. Contrary to rumors and code found in iOS 5, the release did not bring support for Bluetooth or apps to the Apple TV (2nd generation).
+
+On September 24, 2012, Apple TV (2nd generation) onwards received the Apple TV Software 5 software update, based on iOS 5 and 6, with Shared Photo Streams, iTunes account switching, better AirPlay functionality, and Trailers searching, among other smaller improvements.
+
+On September 20, 2013, Apple TV (second generation) onwards received the Apple TV Software 6 software update, based on iOS 7, with iTunes Radio and AirPlay from iCloud.
+
+On September 18, 2014, the third generation Apple TV received the Apple TV Software 7.0 software update based on iOS 8, with a redesigned UI, Family Sharing and peer-to-peer AirPlay.  This release dropped support for the second generation Apple TV.
+
+tvOS 9 is based on iOS 9 , with adaptations made for a television interface. It was announced on September 9, 2015, alongside the new iPad Pro and iPhone 6S . Tim Cook introduced tvOS, saying that it was time for the Apple TV to gain a modern OS with support for apps, as they are "the future of TV." It will only be available on the Apple TV (4th generation), released in October 2015. It adds a native SDK to develop apps, an App Store to distribute them, support for Siri, and universal search across multiple apps.

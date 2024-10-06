@@ -1,0 +1,21 @@
+The Neighbor Discovery Protocol ( NDP ), or simply Neighbor Discovery ( ND ), is a protocol of the Internet protocol suite used with Internet Protocol Version 6 (IPv6). It operates at the internet layer of the Internet model , and is responsible for gathering various information required for network communication, including the configuration of local connections and the domain name servers and gateways.
+
+The protocol defines five ICMPv6 packet types to perform functions for IPv6 similar to the Address Resolution Protocol (ARP) and Internet Control Message Protocol (ICMP) Router Discovery and Router Redirect protocols for IPv4 . It provides many improvements over its IPv4 counterparts. For example, it includes Neighbor Unreachability Detection (NUD), thus improving robustness of packet delivery in the presence of failing routers or links, or mobile nodes.
+
+The Inverse Neighbor Discovery ( IND ) protocol extension allows nodes to determine and advertise an IPv6 address corresponding to a given link-layer address, similar to Reverse ARP for IPv4.
+
+The Secure Neighbor Discovery Protocol (SEND), a security extension of NDP, uses Cryptographically Generated Addresses (CGA) and the Resource Public Key Infrastructure (RPKI) to provide an alternative mechanism for securing NDP with a cryptographic method that is independent of IPsec . Neighbor Discovery Proxy (ND Proxy) provides a service similar to IPv4 Proxy ARP and allows bridging multiple network segments within a single subnet prefix when bridging cannot be done at the link layer.
+
+NDP defines five ICMPv6 packet types for the purpose of router solicitation, router advertisement, neighbor solicitation, neighbor advertisement, and network redirects.
+
+These messages are used to provide the following functionality:
+
+IANA maintains a list of all current NDP options as they are published.
+
+Two computers in an office ( Computer 1 and Computer 2 ) are connected to each other in a local area network by Ethernet cables and network switches , with no intervening gateways or routers . Computer 1 has a packet to send to Computer 2 . Through DNS, it determines that Computer 2 has the IP address 2001:db8::55 .
+
+To send the message, it also requires Computer 2's MAC address . First, Computer 1 uses a cached NDP table to look up 2001:db8::55 for any existing records of Computer 2's MAC address ( 00:EB:24:B2:05:AC ). If the MAC address is found, it sends an Ethernet frame containing the IP packet onto the link with the destination address 00:EB:24:B2:05:AC . If the cache did not produce a result for 2001:db8::55 , Computer 1 has to create a solicited-node multicast address by taking the least-significant 24 bits of Computer 2's address and appending them to the prefix ff02::1:ff00:0 / 104 , which is ff02::1:ff00:55 , and create a solicited-node multicast MAC address by taking the least-significant 24 bits of Computer 2's solicited-node multicast address and appending them to the prefix 33:33:FF:xx:xx:xx , which is 33:33:FF:00:00:55 , and send a neighbor solicitation message requesting an answer for 2001:db8::55 (destination ff02::1:ff00:55 IP address and destination 33:33:FF:00:00:55 MAC address), which is accepted by Computer 2 which is listening on its own solicited-node multicast address on the local network.
+
+Computer 2 responds with a neighbor advertisement message containing its MAC and IP addresses. As part of fielding the request, Computer 2 may insert an entry for Computer 1 into its NDP table for future use.
+
+Computer 1 receives and caches the response information in its NDP table and can now send the packet.

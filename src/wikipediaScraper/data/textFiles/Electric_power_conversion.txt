@@ -1,0 +1,35 @@
+In electrical engineering , power conversion is the process of converting electric energy from one form to another.
+
+A power converter is an electrical device for converting electrical energy between alternating current (AC) and direct current (DC). It can also change the voltage or frequency of the current.
+
+Power Converters can include simpler tools such as transformer or more complex like a resonant converter . The term can also refer to a class of electrical machinery that is used to convert one frequency of alternating current into another. Power conversion systems often incorporate redundancy and voltage regulation .
+
+Power converters are classified based on the type of power conversion they perform. One way of classifying power conversion systems is based on whether the input and output is alternating current or direct current.
+
+The following devices can convert DC to DC:
+
+The following devices can convert DC to AC:
+
+The following devices can convert AC to DC:
+
+The following devices can convert AC to AC:
+
+There are also devices and methods to convert between power systems designed for single and three-phase operation.
+
+The standard power voltage and frequency vary from country to country and sometimes within a country. In North America and northern South America, it is usually 120 volts, 60 hertz (Hz), but in Europe, Asia, Africa, and many other parts of the world, it is usually 230 volts, 50 Hz. Aircraft often use 400 Hz power internally, so 50 Hz or 60 Hz to 400 Hz frequency conversion is needed for use in the ground power unit used to power the airplane while it is on the ground. Conversely, internal 400 Hz internal power may be converted to 50 Hz or 60 Hz for convenience power outlets available to passengers during flight.
+
+Certain specialized circuits can also be considered power converters, such as the flyback transformer subsystem powering a CRT , generating high voltage at approximately 15 kHz.
+
+Consumer electronics usually include an AC adapter (a type of power supply ) to convert mains-voltage AC current to low-voltage DC suitable for consumption by microchips. Consumer voltage converters (also known as "travel converters") are used when traveling between countries that use ~120 V versus ~240 V AC mains power. (There are also consumer "adapters" which merely form an electrical connection between two differently shaped AC power plugs and sockets , but these change neither voltage nor frequency.)
+
+Transformers are used in power converters to incorporate electrical isolation and Voltage step-down or step up.
+
+The secondary circuit is floating, when you touch the secondary circuit, you merely drag its potential to your body's potential or the earth's potential. There will be no current flowing through your body. That's why you can use your cellphone safely when it is being charged, even if your cellphone has a metal shell and is connected to the secondary circuit.
+
+Operating at high frequency and supplying low power, power converters have much smaller transformers as compared with those of fundamental frequency, high power applications. Usually, in power systems, transformers transmit power simultaneously, no charge!
+
+The current in the primary winding of a transformer help to sets up the mutual flux in accordance with Ampere's law and balances the demagnetizing effect of the load current in the secondary winding.
+
+Flyback converter's transformer works differently, like an inductor. In each cycle, the flyback converter's transformer first gets charged and then releases its energy to the load. Accordingly, the flyback converter's transformer air gap has two functions. It not only determines inductance but also stores energy. For the flyback converter, the transformer gap can have the function of energy transmission through cycles of charging and discharging.
+
+The core's relative permeability μ r {\displaystyle \mu _{r}} can be > 1,000, even > 10,000. While the air gap features much lower permeability, accordingly has higher energy density.

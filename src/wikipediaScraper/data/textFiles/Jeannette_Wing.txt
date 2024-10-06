@@ -1,0 +1,15 @@
+Jeannette Marie Wing is Avanessians Director of the Data Science Institute at Columbia University , where she is also a professor of computer science . Until June 30, 2017, she was Corporate Vice President of Microsoft Research with oversight of its core research laboratories around the world and Microsoft Research Connections. Prior to 2013, she was the President's Professor of Computer Science at Carnegie Mellon University , Pittsburgh , Pennsylvania , United States . She also served as assistant director for Computer and Information Science and Engineering at the NSF from 2007 to 2010. She was appointed the Columbia University executive vice president for research in 2021.
+
+Wing earned her S.B. and S.M. in Electrical Engineering and Computer Science at MIT in June 1979. Her advisers were Ronald Rivest and John Reiser. In 1983, she earned her Ph.D. in Computer Science at MIT under John Guttag . She is a fourth-degree black belt in Tang Soo Do .
+
+Wing was on the faculty of the University of Southern California from 1982 to 1985 and then the faculty of Carnegie Mellon from 1985 to 2012. She served as the head of the Computer Science Department from 2004 to 2007 and from 2010 to 2012. In January 2013, she took a leave from Carnegie Mellon to work at Microsoft Research.
+
+Wing has been a leading member of the formal methods community, especially in the area of Larch . She has led many research projects and has published widely.
+
+With Barbara Liskov , she developed the Liskov substitution principle , published in 1993.
+
+She has also been a strong promoter of computational thinking , expressing the algorithmic problem-solving and abstraction techniques used by computer scientists and how they might be applied in other disciplines.
+
+She is a member of the editorial board of the following journals:
+
+Wing was named a Fellow of the IEEE in 2003, "for contributions to methods for software systems".

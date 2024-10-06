@@ -1,0 +1,22 @@
+An email hosting service is an Internet hosting service that operates email servers.
+
+Email hosting services usually offer premium email as opposed to advertisement-supported free email or free webmail . Email hosting services thus differ from typical end-user email providers such as webmail sites.  They cater mostly to demanding email users and small and medium-sized ( SME ) businesses, while larger enterprises usually run their own email hosting services on their own equipment using software such as Microsoft Exchange Server , IceWarp , Zoho or Postfix . Hosting providers can manage a user's own domain name , including any email authentication scheme that the domain owner wishes to enforce to convey the meaning that using a specific domain name identifies and qualifies email senders.
+
+There are various types of email hosting services. These vary according to the storage space available, location of the mail boxes and functionality.
+
+Various hosting providers offer this service through two models. A traditional email hosting or per mailbox hosting. Traditional email hosting charges a set amount for a certain number of mail boxes whereas the per mail box model charges per mail box needed.
+
+These include:
+
+Free Email Services using a public domain such as Gmail ; Yahoo . These are more suitable for individual and personal use.
+
+Shared Hosting Email Services are large mailboxes that are hosted on a server. People on a shared hosting email service share IP addresses as they are hosted on the same server.
+
+Cloud Email Services are suitable for small companies and SMEs. These mailboxes are hosted externally utilizing a cloud service provider. Examples of these are Gsuite by Gmail and Microsoft Exchange Emails by Microsoft .
+
+Enterprise Email Solutions are suitable for SMEs and large corporations that host several mailboxes. In some cases these are located on dedicated servers on the premises however they can be located on a cloud based server that can scale horizontally.
+
+Most email hosting providers offer advanced premium email solutions hosted on dedicated custom email platforms. The technology and offerings of different email hosting providers can, therefore, vary with different needs. The email offered by most web hosting companies is usually more basic standardized POP3 -based email and webmail based on open source webmail applications like Horde , RoundCube , or SquirrelMail . Almost all web hosting providers offer standard email hosting.
+
+Email hosting services come in a variety of forms. These differ depending on the available storage space, the location of the mailboxes, and the functioning. Different email hosting servers provide tremendous benefits to businesses and ensure that communication channels are safe and secure. Various hosting companies offer this service in two different ways. Traditional email hosting or mailbox-by-mailbox hosting are also options. The per mailbox approach charges only the user mailboxes, unlike traditional email hosting, which charges a fixed rate for a predetermined amount of mailboxes.
+Among them are:

@@ -1,0 +1,13 @@
+Ubuntu MATE is a free and open-source Linux distribution and an official derivative of Ubuntu . Its main differentiation from Ubuntu is that it uses the MATE desktop environment as its default user interface (based on GNOME 2 ), instead of the GNOME 3 desktop environment that is the default user interface for Ubuntu.
+
+The Ubuntu MATE project was founded by Martin Wimpress and Alan Pope and began as an unofficial derivative of Ubuntu, using an Ubuntu 14.10 base for its first release; a 14.04 LTS release followed shortly. As of February 2015, Ubuntu MATE gained the official Ubuntu flavour status from Canonical as per the release of 15.04 Beta 1. In addition to IA-32 and x86-64 which were the initial supported platforms, Ubuntu MATE also supports PowerPC and ARMv7 (on the Raspberry Pi 2 and 3 as well as the ODROID XU4 ).
+
+In April 2015, Ubuntu MATE announced a partnership with British computer reseller Entroware, enabling Entroware customers to purchase laptop and desktop computers with Ubuntu MATE preinstalled with full support. Several other hardware deals were announced later.
+
+In Ubuntu MATE 18.10, 32-bit support was dropped.
+
+In a May 2016 review Jesse Smith of DistroWatch concluded, "despite my initial problems getting Ubuntu MATE installed and running smoothly, I came away with a positive view of the distribution. The project is providing a very friendly desktop experience that requires few hardware resources by modern standards. I also want to tip my hat to the default theme used on Ubuntu MATE."
+
+Dedoimedo reviewed Ubuntu MATE in July 2018, and wrote that "[Ubuntu MATE offers] a wealth of visual and functional changes…You really have the ability to implement anything and everything, and all of it natively, from within the system's interface".
+
+Starting with the 22.04 LTS release, Ubuntu MATE included AI-generated wallpapers. These were warmly received by popular tech blogs, with OMG! Ubuntu exclaiming "I'm blown away by the quality of this AI-produced artwork" for the 22.04 release, and IT's FOSS News proclaiming the "beautiful" wallpapers were "a big highlight" of the 22.10 release".

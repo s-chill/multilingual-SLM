@@ -1,0 +1,19 @@
+Software Freedom Conservancy, Inc. (also known as " Conservancy ") is an organization that provides a non-profit home, infrastructure support, and legal support for free and open source software projects. The organization was established in 2006, and as of June 2022, had over 40 member projects.
+
+In 2007 Conservancy started coordinating GNU General Public License compliance and enforcement actions, primarily for the BusyBox project.
+
+In October 2010, Conservancy hired its first executive director , Bradley M. Kuhn and a year later, its first General Counsel , Tony Sebro. In May 2012, Conservancy took on GPL compliance and enforcement for several other member projects, as well as for a number of individual Linux kernel developers. In March 2014, Conservancy appointed Karen Sandler as its Executive Director, with Bradley M. Kuhn taking on the role as Distinguished Technologist.
+
+In February 2015, the Outreachy program (formerly the Free and Open Source Software Program for Women) announced that it was moving from The GNOME Project to become part of Conservancy.
+
+By July 2015 Conservancy had reached 30 member projects, including QEMU , Boost , BusyBox , Git , Inkscape , Samba , Sugar Labs and Wine .
+
+In May 2016, Yorba Foundation assigned the copyrights of the projects it developed to Conservancy, including Shotwell , Geary , Valencia, and gexiv2.
+
+In November 2017, Conservancy reported that the Software Freedom Law Center had demanded the invalidation of the SFC's trademark .
+
+In June 2022, in reaction to the GitHub Copilot licensing controversy , Conservancy introduced their "Give Up GitHub" campaign. The campaign urged open source developers to move away from GitHub to Codeberg or Sourcehut , or to self-hosted platforms.
+
+In July 2010, Conservancy announced it had prevailed in court against Westinghouse Digital , receiving an injunction as part of a default judgement.
+
+In March 2015, Conservancy announced it was funding litigation by Christoph Hellwig against VMware for violation of his copyrights in its ESXi product. The case was taken up by the district court of Hamburg, Germany, where it was dismissed on procedural grounds, and then the same on appeal. Since by that point VMware was about to remove the copyleft material from its product for reasons unrelated to the litigation, Hellwig decided not to appeal further.

@@ -1,0 +1,10 @@
+The following outline is provided as an overview of and topical guide to C++:
+
+C++ is a statically typed , free-form , multi-paradigm , compiled , general-purpose programming language . It is regarded as an intermediate-level language, as it comprises a combination of both high-level and low-level language features. It was developed by Bjarne Stroustrup starting in 1979 at Bell Labs as an enhancement to the C language .
+
+C++ can be described as all of the following:
+
+The C++ standard library is a collection of utilities that are shipped with C++ for use by any C++ programmer.
+It includes input and output, multi-threading, time, regular expressions, algorithms for common tasks, and less common ones (find, for_each, swap, etc.) and lists, maps and hash maps (and the equivalent for sets) and a class called vector that is a resizable array. Many other functions are provided by the standard library, but mainly in a form designed for building on top of to create third party libraries.
+
+The C++ standardisation committee discourages dialects (with a preference that the problem is solved by new functionality in the standard library, as is done with items like multi-threading for parallel programming), however some dialects have been created, for various reasons (to remove features that are harder to implement, response to a programming trend, etc.):

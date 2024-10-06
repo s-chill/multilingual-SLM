@@ -1,0 +1,42 @@
+In software engineering , a design pattern describes a relatively small, well-defined aspect (i.e. functionality) of a computer program in terms of how to write the code .
+
+Using a pattern is intended to leverage an existing concept rather than re-inventing it. This can decrease the time to develop software and increase the quality of the resulting program.
+
+Notably, a pattern does not consist of a software artifact . Most development resources that a programmer uses involve configuring the codebase to use an artifact; for example a library . In contrast, to use a pattern, a programmer writes code as described by the pattern. The result is unique every time even though the result may be recognizable as based on the pattern.
+
+Some consider using patterns to be best practice for software design .
+Some consider using design patterns as a structured approach  to computer programming .
+
+Conceptually, design pattern may be described as more specific than programming paradigm and less specific than algorithm .
+
+Patterns originated as an architectural concept by Christopher Alexander as early as 1977 in A Pattern Language (c.f. his article, "The Pattern of Streets," JOURNAL OF THE AIP, September, 1966, Vol. 32, No. 5, pp. 273–278). In 1987, Kent Beck and Ward Cunningham began experimenting with the idea of applying patterns to programming – specifically pattern languages – and presented their results at the OOPSLA conference that year. In the following years, Beck, Cunningham and others followed up on this work.
+
+Design patterns gained popularity in computer science after the book Design Patterns: Elements of Reusable Object-Oriented Software was published in 1994  by the so-called "Gang of Four" (Gamma et al.), which is frequently abbreviated as "GoF". That same year, the first Pattern Languages of Programming Conference was held, and the following year the Portland Pattern Repository was set up for documentation of design patterns. The scope of the term remains a matter of dispute. Notable books in the design pattern genre include:
+
+Although design patterns have been applied practically for a long time, formalization of the concept of design patterns languished for several years.
+
+Design patterns can speed up the development process by providing proven development paradigms. Effective software design requires considering issues that may not become apparent until later in the implementation. Freshly written code can often have hidden, subtle issues that take time to be detected; issues that sometimes can cause major problems down the road. Reusing design patterns can help to prevent such issues, and enhance code readability for those familiar with the patterns.
+
+Software design techniques are difficult to apply to a broader range of problems. Design patterns provide general solutions, documented in a format that does not require specifics tied to a particular problem.
+
+In 1996, Christopher Alexander was invited to give a Keynote Speech to the 1996 OOPSLA Convention.  Here he reflected on how his work on Patterns in Architecture had developed and his hopes for how the Software Design community could help Architecture extend Patterns to create living structures that use generative schemes that are more like computer code.
+
+A pattern describes a design motif , a.k.a. prototypical micro-architecture , as a set of program constituents (e.g., classes, methods...) and their relationships. A developer adapts the motif to their codebase to solve the problem described by the pattern. The resulting code has structure and organization similar to the chosen motif.
+
+Efforts have also been made to codify design patterns in particular domains, including the use of existing design patterns as well as domain-specific design patterns. Examples include user interface design patterns, information visualization , secure design, "secure usability", Web design and business model design.
+
+The annual Pattern Languages of Programming Conference proceedings include many examples of domain-specific patterns.
+
+Object-oriented design patterns typically show relationships and interactions between classes or objects , without specifying the final application classes or objects that are involved. Patterns that imply mutable state may be unsuited for functional programming languages. Some patterns can be rendered unnecessary in languages that have built-in support for solving the problem they are trying to solve, and object-oriented patterns are not necessarily suitable for non-object-oriented languages.
+
+Design patterns can be organized into groups based on what kind of problem they solve. Creational patterns create objects. Structural patterns organize classes and objects to form larger structures that provide new functionality. Behavioral patterns provide communication between objects and realizing these patterns.
+
+The documentation for a design pattern describes the context in which the pattern is used, the forces within the context that the pattern seeks to resolve, and the suggested solution. There is no single, standard format for documenting design patterns. Rather, a variety of different formats have been used by different pattern authors. However, according to Martin Fowler , certain pattern forms have become more well-known than others, and consequently become common starting points for new pattern-writing efforts. One example of a commonly used documentation format is the one used by Erich Gamma , Richard Helm , Ralph Johnson , and John Vlissides in their book Design Patterns . It contains the following sections:
+
+Some suggest that design patterns may be a sign that features are missing in a given programming language ( Java or C++ for instance). Peter Norvig demonstrates that 16 out of the 23 patterns in the Design Patterns book (which is primarily focused on C++) are simplified or eliminated (via direct language support) in Lisp or Dylan . Related observations were made by Hannemann and Kiczales who implemented several of the 23 design patterns using an aspect-oriented programming language (AspectJ) and showed that code-level dependencies were removed from the implementations of 17 of the 23 design patterns and that aspect-oriented programming could simplify the implementations of design patterns. See also Paul Graham's essay "Revenge of the Nerds".
+
+Inappropriate use of patterns may unnecessarily increase complexity.
+
+By definition, a pattern must be programmed anew into each application that uses it. Since some authors see this as a step backward from software reuse as provided by components , researchers have worked to turn patterns into components. Meyer and Arnout were able to provide full or partial componentization of two-thirds of the patterns they attempted.
+
+In order to achieve flexibility, design patterns may introduce additional levels of indirection , which may complicate the resulting design and decrease runtime performance.

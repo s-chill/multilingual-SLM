@@ -1,0 +1,15 @@
+An Internet hosting service is a service that runs servers connected to the Internet , allowing organizations and individuals to serve content or host services connected to the Internet.
+
+A common kind of hosting is web hosting . Most hosting providers offer a combination of services – e-mail hosting , website hosting, and database hosting, for example. DNS hosting service , another type of service usually provided by hosting providers, is often bundled with domain name registration .
+
+Dedicated server hosts, provide a server , usually housed in a datacenter and connected to the Internet where clients can run anything they want (including web servers and other servers). The hosting provider ensures that the servers have Internet connections with good upstream bandwidth and reliable power sources.
+
+Another popular kind of hosting service is shared hosting. This is a type of web hosting service, where the hosting provider provisions hosting services for multiple clients on one physical server and share the resources between the clients. Virtualization is key to making this work effectively.
+
+Full-featured hosting services include:
+
+Limited or application-specific hosting services include:
+
+Internet hosting services include the required Internet connection; they may charge a flat rate per month or charge per bandwidth used – a common payment plan is to sell a predetermined amount of bandwidth and charge for any 'overage' (Usage above the predetermined limit) the customer may incur on a per GB (Gigabyte) basis. The overage charge would be agreed upon at the start of the contract.
+
+Web hosting technology has been causing some controversy, as Web.com claims that it holds patent rights to some common hosting technologies, including the use of a web-based control panel to manage the hosting service, with its 19 patents. In addition, Web.com sued GoDaddy as well for similar patent infringement.

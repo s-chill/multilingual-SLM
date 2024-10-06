@@ -1,0 +1,89 @@
+The meet-in-the-middle attack ( MITM ), a known plaintext attack, is a generic space–time tradeoff cryptographic attack against encryption schemes that rely on performing multiple encryption operations in sequence. The MITM attack is the primary reason why Double DES is not used and why a Triple DES key (168-bit) can be brute-forced by an attacker with 2 space and 2 operations.
+
+When trying to improve the security of a block cipher, a tempting idea is to encrypt the data several times using multiple keys. One might think this doubles or even n -tuples the security of the multiple-encryption scheme, depending on the number of times the data is encrypted, because an exhaustive search on all possible combinations of keys (simple brute force) would take 2 attempts if the data is encrypted with k -bit keys n times.
+
+The MITM is a generic attack which weakens the security benefits of using multiple encryptions by storing intermediate values from the encryptions or decryptions and using those to improve the time required to brute force the decryption keys. This makes a Meet-in-the-Middle attack (MITM) a generic space–time tradeoff cryptographic attack.
+
+The MITM attack attempts to find the keys by using both the range (ciphertext) and domain (plaintext) of the composition of several functions (or block ciphers) such that the forward mapping through the first functions is the same as the backward mapping (inverse image) through the last functions, quite literally meeting in the middle of the composed function. For example, although Double DES encrypts the data with two different 56-bit keys, Double DES can be broken with 2 encryption and decryption operations.
+
+The multidimensional MITM (MD-MITM) uses a combination of several simultaneous MITM attacks like described above, where the meeting happens in multiple positions in the composed function.
+
+Diffie and Hellman first proposed the meet-in-the-middle attack on a hypothetical expansion of a block cipher in 1977. Their attack used a space–time tradeoff to break the double-encryption scheme in only twice the time needed to break the single-encryption scheme.
+
+In 2011, Bo Zhu and Guang Gong investigated the multidimensional meet-in-the-middle attack and presented new attacks on the block ciphers GOST , KTANTAN and Hummingbird-2 .
+
+Assume someone wants to attack an encryption scheme with the following characteristics for a given plaintext P and ciphertext C :
+
+where ENC is the encryption function, DEC the decryption function defined as ENC (inverse mapping) and k 1 and k 2 are two keys.
+
+The naive approach at brute-forcing this encryption scheme is to decrypt the ciphertext with every possible k 2 , and decrypt each of the intermediate outputs with every possible k 1 , for a total of 2 × 2 (or 2 ) operations.
+
+The meet-in-the-middle attack uses a more efficient approach. By decrypting C with k 2 , one obtains the following equivalence:
+
+The attacker can compute ENC k 1 ( P ) for all values of k 1 and DEC k 2 ( C ) for all possible values of k 2 , for a total of 2 + 2 (or 2 , if k 1 and k 2 have the same size) operations. If the result from any of the ENC k 1 ( P ) operations matches a result from the DEC k 2 ( C ) operations, the pair of k 1 and k 2 is possibly the correct key. This potentially-correct key is called a candidate key . The attacker can determine which candidate key is correct by testing it with a second test-set of plaintext and ciphertext.
+
+The MITM attack is one of the reasons why Data Encryption Standard (DES) was replaced with Triple DES and not Double DES. An attacker can use a MITM attack to bruteforce Double DES with 2 operations and 2 space, making it only a small improvement over DES. Triple DES uses a "triple length" (168-bit) key and is also vulnerable to a meet-in-the-middle attack in 2 space and 2 operations, but is considered secure due to the size of its keyspace.
+
+Compute the following:
+
+When a match is found, keep k f 1 , k b 1 {\displaystyle k_{f_{1}},k_{b_{1}}} as candidate key-pair in a table T . Test pairs in T on a new pair of ⁠ ( P , C ) {\displaystyle (P,C)} ⁠ to confirm validity. If the key-pair does not work on this new pair, do MITM again on a new pair of ⁠ ( P , C ) {\displaystyle (P,C)} ⁠ .
+
+If the keysize is k , this attack uses only 2 encryptions (and decryptions) and O (2 ) memory to store the results of the forward computations in a lookup table , in contrast to the naive attack, which needs 2 encryptions but O (1) space.
+
+While 1D-MITM can be efficient, a more sophisticated attack has been developed: multidimensional meet-in-the-middle attack , also abbreviated MD-MITM . 
+This is preferred when the data has been encrypted using more than 2 encryptions with different keys.
+Instead of meeting in the middle (one place in the sequence), the MD-MITM attack attempts to reach several specific intermediate states using the forward and backward computations at several positions in the cipher.
+
+Assume that the attack has to be mounted on a block cipher, where the encryption and decryption is defined as before:
+
+that is a plaintext P is encrypted multiple times using a repetition of the same block cipher
+
+The MD-MITM has been used for cryptanalysis of, among many, the GOST block cipher , where it has been shown that a 3D-MITM has significantly reduced the time complexity for an attack on it.
+
+Compute the following:
+
+For each possible guess on the intermediate state s 1 {\displaystyle s_{1}} compute the following:
+
+Use the found combination of sub-keys ( k f 1 , k b 1 , k f 2 , k b 2 , . . . , k f n + 1 , k b n + 1 ) {\displaystyle (k_{f_{1}},k_{b_{1}},k_{f_{2}},k_{b_{2}},...,k_{f_{n+1}},k_{b_{n+1}})} on another pair of plaintext/ciphertext to verify the correctness of the key.
+
+Note the nested element in the algorithm. The guess on every possible value on s j is done for each guess on the previous s j -1 . 
+This make up an element of exponential complexity to overall time complexity of this MD-MITM attack.
+
+Time complexity of this attack without brute force, is 2 | k f 1 | + 2 | k b n + 1 | + 2 | s 1 | {\displaystyle 2^{|k_{f_{1}}|}+2^{|k_{b_{n+1}}|}+2^{|s_{1}|}} ⋅ ( 2 | k b 1 | + 2 | k f 2 | + 2 | s 2 | {\displaystyle (2^{|k_{b_{1}}|}+2^{|k_{f_{2}}|}+2^{|s_{2}|}} ⋅ ( 2 | k b 2 | + 2 | k f 3 | + ⋯ ) ) {\displaystyle (2^{|k_{b_{2}}|}+2^{|k_{f_{3}}|}+\cdots ))}
+
+Regarding the memory complexity, it is easy to see that T 2 , T 3 , . . . , T n {\displaystyle T_{2},T_{3},...,T_{n}} are much smaller than the first built table of candidate values: T 1 {\displaystyle T_{1}} as i increases, the candidate values contained in T i {\displaystyle T_{i}} must satisfy more conditions thereby fewer candidates will pass on to the end destination T n {\displaystyle T_{n}} .
+
+An upper bound of the memory complexity of MD-MITM is then
+
+where k denotes the length of the whole key (combined).
+
+The data complexity depends on the probability that a wrong key may pass (obtain a false positive), which is 1 / 2 | l | {\displaystyle 1/2^{|l|}} , where l is the intermediate state in the first MITM phase.  The size of the intermediate state and the block size is often the same!
+Considering also how many keys that are left for testing after the first MITM-phase, it is 2 | k | / 2 | l | {\displaystyle 2^{|k|}/2^{|l|}} .
+
+Therefore, after the first MITM phase, there are 2 | k | − b ⋅ 2 − b = 2 | k | − 2 b {\displaystyle 2^{|k|-b}\cdot 2^{-b}=2^{|k|-2b}} , where | b | {\displaystyle |b|} is the block size.
+
+For each time the final candidate value of the keys are tested on a new plaintext/ciphertext-pair, the number of keys that will pass will be multiplied by the probability that a key may pass which is 1 / 2 | b | {\displaystyle 1/2^{|b|}} .
+
+The part of brute force testing (testing the candidate key on new ⁠ ( P , C ) {\displaystyle (P,C)} ⁠ -pairs, have time complexity 2 | k | − b + 2 | k | − 2 b + 2 | k | − 3 b + 2 | k | − 4 b ⋯ {\displaystyle 2^{|k|-b}+2^{|k|-2b}+2^{|k|-3b}+2^{|k|-4b}\cdots } , clearly for increasing multiples of b in the exponent, number tends to zero.
+
+The conclusion on data complexity is by similar reasoning restricted by that around ⌈ | k | / n ⌉ {\displaystyle \lceil |k|/n\rceil } ⁠ ( P , C ) {\displaystyle (P,C)} ⁠ -pairs.
+
+Below is a specific example of how a 2D-MITM is mounted:
+
+This is a general description of how 2D-MITM is mounted on a block cipher encryption.
+
+In two-dimensional MITM (2D-MITM) the method is to reach 2 intermediate states inside the multiple encryption of the plaintext. See below figure:
+
+Compute the following:
+
+For each possible guess on an intermediate state s between S u b C i p h e r 1 {\displaystyle {\mathit {SubCipher}}_{1}} and S u b C i p h e r 2 {\displaystyle {\mathit {SubCipher}}_{2}} compute the following:
+
+Use the found combination of sub-keys ( k f 1 , k b 1 , k f 2 , k b 2 ) {\displaystyle (k_{f_{1}},k_{b_{1}},k_{f_{2}},k_{b_{2}})} on another pair of plaintext/ciphertext to verify the correctness of the key.
+
+Time complexity of this attack without brute force, is
+
+where |⋅| denotes the length.
+
+Main memory consumption is restricted by the construction of the sets A and B where T is much smaller than the others.
+
+For data complexity see subsection on complexity for MD-MITM .

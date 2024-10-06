@@ -1,0 +1,107 @@
+CarPlay is an Apple standard that enables a car radio or head unit to be a display and controller for an iOS device. It is available on iPhone 5 and later models running iOS 7 .1 or later.
+
+More than 800 car models support CarPlay, according to Apple. Vehicle owners can add support by installing certain aftermarket vehicle audio products.
+
+Most CarPlay systems connect to iOS through USB , some are wireless, and wireless support can be added through aftermarket dongles.
+
+Apple's CarPlay-enabled apps include:
+
+Developers must obtain permission from Apple to develop CarPlay-enabled apps. Such apps fall into five categories:
+
+To discourage distracted driving , Siri is used extensively, providing voice turn-by-turn navigation guidance and voice-input for text messages. Newscast-style weather and stock results are announced instead of displayed. Requests that bring up visual information may be blocked when the car is in gear, and most native CarPlay apps deliver audio content with minimal interaction.
+
+CarPlay-enabled apps installed on the device appear on the CarPlay home screen unless disabled by the user. The inclusion or exclusion and order of app appearance can be changed on a per-vehicle basis.
+
+Most of the CarPlay software runs on the connected iPhone, and the CarPlay interface provides the audio and display connection to the car's infotainment system. CarPlay adapts to various display sizes and control interfaces for each vehicle: touch screen, rotary dials, buttons, steering-wheel controls, and hands-free microphones.
+
+Aftermarket head units may support CarPlay or Android Auto , usually both.
+
+The iPhone can connect to the car through a USB cable or wirelessly.
+
+Wireless CarPlay works by having the phone exchange network credentials with a supporting CarPlay receiver over Bluetooth, establishing a two-way Wi-Fi connection .
+
+Alternatively, it is possible to use a third-party dongle adapter  plugged into the car infotainment system's USB port enable a wireless connection. This still requires a car infotainment system that supports standard (wired) CarPlay.
+
+In 2008, one year after the release of the iPhone, Mercedes vehicles were first to sell an audio system incorporating both the iPod and iPhone, equipped with 30-pin iOS input jacks. The new 2008 Harman Kardon NTG 2.5 featured full audio streaming, syncing, charging and control integrated into the steering wheel controls, instrument panel, and head unit. Apple was working with Mercedes to develop iOS compatible audio systems into their cars first only a year after iPhone launch. With an Apple Lightning-to-30-pin adapter, iPhones/iPods remain backwards-compatible with the Harman Kardon 2.5 and later models. This is the earliest audio system specifically engineered for iPod/iPhone integration, which predated CarPlay and every other manufacturer incorporating iOS into vehicles.
+
+The concept of CarPlay was based on the iOS 4 feature called "iPod Out" which was produced through several years of joint development by Apple and the BMW Group's Technology Office USA. iPod Out enabled vehicles with the necessary infrastructure to "host" the analog video and audio from a supporting iOS device while receiving inputs, such as button presses and knob rotations, from a car's infotainment system, to drive the "hosted" user interface in the vehicle's built-in display. It was announced at WWDC 2010 and first shipped in BMW Group vehicles in early 2011. The BMW and Mini option was called "PlugIn" and paved the way for the first cross-OEM platforms, introducing the concept of requiring a car-specific interface for apps (as opposed to MirrorLink's simple and insufficient mirroring of what was shown on the smartphone's screen).
+
+CarPlay's codename was Stark . Apple's Eddy Cue announced it as iOS in the Car at WWDC 2013. In January 2014, it was reported that Apple's hardware-oriented corporate culture had led to release delays. iOS in the Car was then rebranded and launched as CarPlay with significant design changes at the Geneva Motor Show in March 2014 with Ferrari , Kia , Mercedes-Benz , and Volvo among the first car manufacturers.
+
+At WWDC 2022, Apple introduced an all-new version of CarPlay (informally known as CarPlay 2) which can control vehicle functions, access vehicle stats, and take over multiple vehicle screens completely. The projected release date from Apple for this new CarPlay is late 2024. Manufacturers that are planning to adopt the new CarPlay include: Audi, Acura, Ford, Honda, Infiniti, Jaguar, Land Rover, Lincoln, Mercedes-Benz, Nissan, Polestar, Porsche, Renault, and Volvo.
+
+June 2013: Apple introduced iOS in the Car; an early version of CarPlay that never got publicly released, at WWDC 2013.
+
+June 2013: BMW officials announced their cars would not support iOS in the Car; they later changed their minds.
+
+November 2013: Siri Eyes Free mode was offered as a dealer-installed accessory in the US to some Honda Accord and Acura RDX & ILX models. In December, Honda offered additional integration, featuring new HondaLink services, on some US and Canada models of the Civic and the Fit.
+
+March 2014: Apple introduced CarPlay, which was renamed from iOS in the Car with significant design changes, at the 2014 Geneva Motor Show with automakers Ferrari , Mercedes-Benz and Volvo .
+
+September 2014: A Ferrari FF was the first car with a full version of CarPlay.
+
+November 2014: Hyundai announced the Sonata sedan would be their first model with available CarPlay by the end of the first quarter of 2015.
+
+January 2015: Volkswagen announced CarPlay support would be coming later in 2015 and would be either standard or available on the majority of their 2016 model year lineup.
+
+May 2015: General Motors announced CarPlay would be available starting with 14 different 2016 model year Chevrolet vehicles.
+
+July 2015: Honda announced CarPlay would be available in their vehicles starting with the 2016 Honda Accord .
+
+December 2015: Volvo implemented CarPlay in the 2016 Volvo XC90 as their first vehicle with CarPlay support.
+
+December 2015: Mercedes-Benz confirmed that CarPlay would be available starting with select 2016 model year vehicles.
+
+January 2016: Apple released a list detailing the car models which support CarPlay.
+
+January 2016: Ford announced CarPlay would be available on all 2017 Ford/ Lincoln model year vehicles equipped with the Sync 3 infotainment system.
+
+January 2016: FCA (now a part of Stellantis ) announced CarPlay would be available on their UConnect infotainment system starting with select 2016 model year vehicles.
+
+March 2016: Subaru announces the beginning of CarPlay and Android Auto support starting with the 2017 Impreza .
+
+June 2016: Nissan announced CarPlay would be available in their vehicles beginning with the 2017 Nissan Maxima .
+
+September 2016: BMW adds CarPlay as a standalone option in most of their vehicles.
+
+February 2017: Harman announced the first implementation of wireless CarPlay which made its debut in the 2017 BMW 5 series .
+
+April 2017: The new generation Scania range became the first heavy duty truck in Europe to support CarPlay.
+
+July 2017: The new Volvo VNL became the first heavy duty truck in the United States to support CarPlay.
+
+October 2017: The 2018 Honda Gold Wing became the first motorcycle to support CarPlay.
+
+January 2018: Toyota , which was, up until this point, a notable holdout for Apple CarPlay, began to implement CarPlay starting with the 2019 Toyota Avalon .
+
+July 2018: Mazda began to implement CarPlay starting with the 2018 Mazda6 . Mazda also began offering a CarPlay retrofit to support previous vehicles that are 2014 model year or newer and are equipped with the MZD-Connect system.
+
+August 2018: Harley-Davidson CarPlay support was added to 2019 Touring models equipped with Boom! Box GTS radio.
+
+December 2019: BMW no longer requires a subscription to use CarPlay.
+
+June 2022: Apple introduced an all-new version of CarPlay at WWDC 2022 which can control vehicle functions and take over multiple vehicle screens. The projected release date from Apple for the new CarPlay is late 2023.
+
+March 2023: General Motors announced plans to phase out CarPlay support in their electric vehicles in favor of a new Android Automotive system. This CarPlay phase out will start with the 2024 Chevrolet Blazer EV. New GM vehicles that are not electric vehicles, as well as any GM electric vehicle model that was released before the Blazer EV, will retain CarPlay support for the time being.
+
+July 2023: Porsche announced tighter CarPlay integration with vehicle functions through the My Porsche App. These added functions include control of the vehicle’s HVAC system, ambient lighting, radio and sound controls. While having similar features, this is not yet the all-new CarPlay Apple showed at WWDC 2022.
+
+December 2023: Porsche and Aston Martin were the first automakers to preview vehicles running the next-generation of CarPlay (informally CarPlay 2), Aston Martin confirmed next-generation CarPlay will be launched sometime in 2024, starting with their DB12 sports car. Porsche did not state a timeline for their next-generation CarPlay rollout.
+
+The Open Automotive Alliance 's Android Auto is a similar implementation used for Android devices.
+
+Some vehicle manufacturers have their own systems for syncing the car with smartphones, for example: BMW ConnectedDrive , NissanConnect , Hyundai Blue Link , iLane , MyFord Touch , Ford SYNC , OnStar , and Toyota Entune .
+
+General Motors has released an API to allow the development of apps which interact with vehicle software systems.
+
+MirrorLink is a standard for car-smartphone connectivity, currently implemented in vehicles by Honda, Volkswagen, SEAT, Buick, Skoda, Mercedes-Benz, Citroën, and Smart with phones by manufacturers including Apple, HTC, Samsung, and Sony.
+
+Tesla and Rivian 's infotainment systems notably exclude support for CarPlay and Android Auto.
+
+Huawei 's HiCar has similar implementation used for Huawei EMUI Android and HarmonyOS smartphones with various domestic and international car partners.
+
+In April 2023, General Motors announced that it would gradually stop including Apple CarPlay and Android Auto in its electric vehicles so that it could collect and monetize more driver data and deliver a better user experience. For instance, GM executive Scott Miller said, company-made software could warm up the electric automobile's battery before driving, something Apple software cannot do. The company said drivers would still be able to connect smartphones to their car with Bluetooth.
+
+The announcement was widely panned by consumers; the Detroit Free Press reported that some longtime GM customers said the lack of CarPlay would lead them to look at buying a Ford vehicle instead. The move was widely interpreted by the press as promoting its partnership with Google and cutting off revenue streams to Apple at the expense of its customers. Some noted that the move would severely inhibit customers' data privacy .
+
+Ford , a GM rival, announced that its vehicles would continue to offer CarPlay. Ford noted that GM's announcement meant that Ford's inclusion of CarPlay further distinguished itself among EV manufacturers because Tesla and Rivian have historically not included CarPlay.

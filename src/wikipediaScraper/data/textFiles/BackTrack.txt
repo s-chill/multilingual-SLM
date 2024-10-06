@@ -1,0 +1,13 @@
+BackTrack was a Linux distribution that focused on security, based on the Knoppix Linux distribution aimed at digital forensics and penetration testing use. In March 2013, the Offensive Security team rebuilt BackTrack around the Debian distribution and released it under the name Kali Linux .
+
+The BackTrack distribution originated from the merger of two formerly competing distributions which focused on penetration testing :
+
+On January 9, 2010, BackTrack 4 improved hardware support, and added official FluxBox support. The overlap with Auditor and WHAX in purpose and in collection of tools partly led to the merger. The overlap was done based on Ubuntu Lucid LTS starting from BackTrack 5.
+
+BackTrack provided users with easy access to a comprehensive and large collection of security-related tools ranging from port scanners to Security Audit. Support for Live CD and Live USB functionality allowed users to boot BackTrack directly from portable media without requiring installation, though permanent installation to hard disk and network was also an option.
+
+BackTrack included many well known security tools including:
+
+BackTrack arranged tools into 12 categories:
+
+Whenever a new version of BackTrack was released, older versions would lose their support and service from the BackTrack development team. There are currently no supported versions of BackTrack.

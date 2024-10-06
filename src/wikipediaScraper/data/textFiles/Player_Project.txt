@@ -1,0 +1,7 @@
+The Player Project (formerly Player/Stage Project ) creates free and open-source software for research into robotics and sensor systems. Its components include the Player network server and the Stage platform robotics simulators . Although accurate statistics are hard to obtain, Player is one of the most popular open-source robot interfaces in research and post-secondary education.
+
+The Player Project is an umbrella under which two robotics-related software projects are currently developed. These include the Player networked robotics server, and the Stage 2D robot simulation environment. The project was founded in 2000 by Brian Gerkey, Richard Vaughan and Andrew Howard at the University of Southern California at Los Angeles, and is widely used in robotics research and education . It releases its software under the GNU General Public License with documentation under the GNU Free Documentation License .
+
+The Player is set of application programming interfaces ( APIs , e.g., position2d, bumper, ir, speech, power) that can be implemented by a robot chassis ( Roomba , Khephera, etc.), or over serial line or network, or by Stage (2D simulator) or Gazebo (3D simulator).
+
+The Gazebo 3D robot simulator was a component in the Player Project from 2004 through 2011. Gazebo integrated the Open Dynamics Engine (ODE) physics engine, OpenGL rendering, and support code for sensor simulation and actuator control. In 2011, Gazebo became an independent project support by Willow Garage .

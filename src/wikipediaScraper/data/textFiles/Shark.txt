@@ -1,0 +1,5 @@
+In cryptography , SHARK is a block cipher identified as one of the predecessors of Rijndael (the Advanced Encryption Standard ).
+
+SHARK has a 64-bit block size and a 128-bit key size . It is a six-round SP-network which alternates a key mixing stage with linear and non-linear transformation layers. The linear transformation uses an MDS matrix representing a Reed–Solomon error correcting code in order to guarantee good diffusion . The nonlinear layer is composed of eight 8×8-bit S-boxes based on the function F(x) = x over GF(2 ) .
+
+Five rounds of a modified version of SHARK can be broken using an interpolation attack (Jakobsen and Knudsen, 1997).

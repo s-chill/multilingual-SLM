@@ -1,0 +1,3 @@
+Android Honeycomb is the codename for the third major version of Android , designed for devices with larger screen sizes, particularly tablets , however has been unofficially ported to the Nexus One . It is the eighth version of Android and is no longer supported. Honeycomb debuted with the Motorola Xoom in February 2011. Besides the addition of new features, Honeycomb introduced a new so-called "holographic" user interface theme and an interaction model that built on the main features of Android, such as multitasking, notifications and widgets.
+
+New features introduced in Honeycomb include the following:

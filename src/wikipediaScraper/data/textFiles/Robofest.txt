@@ -1,0 +1,11 @@
+Robofest is an autonomous robotics competition for 4th - 12th graders. It is similar to FIRST Lego League (FLL), but while FLL limits the student's robots to Lego Mindstorms robots, Robofest allows the student to use any robotics system, parts, materials, or even custom electronics, in some of the events. Note that FLL students are required to use parts manufactured by Lego only, preventing the use of such aids as string or glue. Another important difference is that Robofest games have UTF (Unknown Tasks and Factors) components. Students must solve the unveiled tasks and factors within 30 minutes work-time without external help.  
+Lawrence Tech's Robofest was founded by Computer Science Professor Dr. Chan-Jin Chung (or popularly known as CJ Chung) in 1999–2000 academic year and is sponsored by Lawrence Technological University and other sponsors. LTU's Robofest is also held internationally, in countries including Brazil , Canada , China , Colombia , Ecuador , Egypt , Ethiopia , England , France , Ghana , Greece , Hong Kong , Hungary , India , Kenya , Lebanon , Macau , Malawi , Mexico , Morocco , Nigeria , Philippines , Saudi Arabia , Singapore , South Africa , South Korea , Taiwan , Jordan , and UAE . Teams who win their regional event are welcome to participate at the worldwide tournament held at Lawrence Technological University in Michigan. ROBOFEST is a registered trademark of Lawrence Technological University.
+Robofest is one of the largest University led robotics competitions in the world for pre college students.
+
+Grants are available from the Michigan Department of Education (MDE) robotics competition program , funded through section 99h of the State School Aid Act for LTU Robofest teams in Michigan.
+
+There are a total of eight different competition categories in Robofest.
+
+Retired competition categories include:
+
+The word RoboFest was used for a robot event by the Robot Group of Austin, Texas, at least as early as 1989. The Robot Group had a yearly RoboFest through the 1990s. There are various other Robofests not connected to Lawrence Tech's Robofest:

@@ -1,0 +1,21 @@
+The Sieve C++ Parallel Programming System is a C++ compiler and parallel runtime designed and released by Codeplay that aims to simplify the parallelization of code so that it may run efficiently on multi-processor or multi-core systems.  It is an alternative to other well-known parallelisation methods such as OpenMP , the RapidMind Development Platform and Threading Building Blocks (TBB).
+
+Sieve is a C++ compiler that will take a section of serial code, which is annotated with sieve markers, and parallelize it automatically. The programmer wraps code they wish to parallelise inside a lexical scope , which is tagged as 'sieve'. Inside this scope, referred to commonly as a 'sieve block', certain rules apply [1] :
+
+Delaying side-effects removes many small dependencies which would usually impede automatic parallelization. Reads and writes can be safely reordered by the compiler as to allow better use of various data movement mechanisms, such as Direct Memory Access (DMA). In addition, alias analysis and dataflow analysis can be simplified [2] . The compiler can then split up code within the sieve block much easier, to exploit parallelism.
+
+This separation of scopes also means the Sieve System can be used in non-uniform memory architectures. Multi-core CPUs such as the Cell microprocessor used in the PlayStation 3 are of this type, in which the fast cores have local memories that must be utilized to exploit performance inherent in the system. It is also able to work on shared memory systems, like x86, meaning it can run on various architectures. Sieve blocks can also be nested [3] for systems with a hierarchy of different memories and processing elements.
+
+The sieve compiler can split code within a sieve block into chunks either implicitly or explicitly though a 'splithere' statement. For instance, the following example shows parallelizing a loop:
+
+The compiler will implicitly add a splitpoint above the for loop construct body, as an entry point. Similarly one will be added after as an exit point.
+
+In the Sieve System, only local variables to the sieve block scope may have dependencies. However, these dependencies must not cross splitpoints; they will generate compiler warnings . In order to parallelize this loop, a special 'Iterator' class may be used in place of a standard integer looping counter. It is safe for parallelization, and the programmer is free to create new Iterator classes at will [4] .  In addition to these Iterator classes, the programmer is free to implement classes called 'Accumulators' which are used to carry out reduction operations.
+
+The way the Iterator classes are implemented opens up various means for scalability. The Sieve Parallel Runtime employs dynamic speculative execution when executing on a target platform. This can yield very good speedups, however running on a single core machine can incur overheads [5] .
+
+Determinism is an unusual feature of the Sieve System. If executing a parallel Sieve program on a multi core machine yields a bug, the bug will not disappear when run on a single core to aid debugging [6] [7] . This has the advantage of eliminating race conditions , one of the most common bugs in concurrent programming . The removal of the need to consider concurrency control structures within a sieve block can speed up development time and results in safer code.
+
+The system is designed for hierarchical based systems with homogeneous or heterogeneous CPU cores which have local memories, connected via DMA engines or similar memory transfer models.
+
+Sieve has been shown [8] successfully operating on multi-core x86 systems, the Ageia PhysX Physics Processing Unit , and the IBM Cell microprocessor . ANSI C is generated if a compiler code generator is not available for a certain target platform. This allows for autoparallelization using existing C compilation toolkits [9] .

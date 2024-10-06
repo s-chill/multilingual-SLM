@@ -1,0 +1,27 @@
+The Geneva drive or Geneva mechanism is a gear mechanism that translates a continuous rotation movement into intermittent rotary motion.
+
+The rotating drive wheel is usually equipped with a pin that reaches into a slot located in the other wheel ( driven wheel ) that advances it by one step at a time. The drive wheel also has an elevated circular blocking disc that "locks" the rotating driven wheel in position between steps.
+
+The name, Geneva drive, is derived from the device's earliest application in mechanical watches , which were popularized in Geneva . The mechanism is frequently used in mechanical watches , since it can be made on a small scale and is able to withstand substantial mechanical stress.
+
+The Geneva drive is also called a " Maltese cross mechanism" due to the visual resemblance when the rotating wheel has four spokes .
+
+In the most common arrangement of the Geneva drive, the client wheel has four slots and thus advances the drive by one step at a time (each step being 90 degrees ) for each full rotation of the master wheel. If the steered wheel has n slots, it advances by 360°/ n per full rotation of the propeller wheel. The minimum number of slots in a practical Geneva drive is 3; it is rare to find a mechanism with more than 18 slots.
+
+Because the mechanism needs to be well lubricated, it is often enclosed in an oil capsule.
+
+One application of the Geneva drive is in film movie projectors and movie cameras, where the film is pulled through an exposure gate with periodic starts and stops. The film advances frame by frame, each frame standing still in front of the lens for a portion of the frame cycle (typically at a rate of 24 cycles per second), and rapidly accelerating, advancing, and decelerating during the rest of the cycle. This intermittent motion is implemented by a Geneva drive, which in turn actuates a claw that engages sprocket holes in the film.  The Geneva drive also provides a precisely repeatable stopped position, which is critical to minimizing jitter in the successive images. (Modern film projectors may also use an electronically controlled indexing mechanism or stepper motor , which allows for fast-forwarding the film.) The first uses of the Geneva drive in film projectors date to 1896, with the projectors of Oskar Messter and Max Gliewe and the Teatrograph of Robert William Paul . Previous projectors, including Thomas Armat 's projector, marketed by Edison as the Vitascope , had used a "beater mechanism", invented by Georges Demenÿ in 1893, to achieve intermittent film transport.
+
+Geneva wheels having the form of the driven wheel were also used in mechanical watches , but not in a drive, rather to limit the tension of the spring , such that it would operate only in the range where its elastic force is nearly linear. If one of the slots of the driven wheel is occluded, the number of rotations the drive wheel can make is limited. In watches, the "drive" wheel is the one that winds up the spring, and the Geneva wheel with four or five spokes and one closed slot prevents overwinding (and also complete unwinding) of the spring.  This so-called Geneva stop or "Geneva stop work" was the invention of 17th or 18th century watchmakers.
+
+Other applications of the Geneva drive include the pen change mechanism in plotters , automated sampling devices, banknote counting machines, and many forms of indexable equipment used in manufacturing (such as the tool changers in CNC machines; the turrets of turret lathes , screw machines , and turret drills; some kinds of indexing heads and rotary tables ; and so on). The Iron Ring Clock uses a Geneva mechanism to provide intermittent motion to one of its rings.
+
+A Geneva drive was used to change filters in the Dawn mission framing camera used to image the asteroid 4 Vesta in 2011. It was selected to ensure that should the mechanism fail at least one filter would be usable.
+
+An internal Geneva drive is a variant on the design. The axis of the drive wheel of the internal drive can have a bearing only on one side. The angle by which the drive wheel has to rotate to effect one step rotation of the driven wheel is always smaller than 180° in an external Geneva drive and always greater than 180° in an internal one, where the switch time is therefore greater than the time the driven wheel stands still.
+
+The external form is the more common, as it can be built smaller and can withstand higher mechanical stresses .
+
+Another variant is the spherical Geneva drive.
+
+The figure shows the motion curves for an external four-slot Geneva drive, in arbitrary units. A discontinuity appears in the acceleration when the drive pin enters and leaves the slot, occurring at the instant the rigid bearing surfaces make contact or separate. This generates an "infinite" peak of jerk ( Dirac peak ), and therefore vibrations.

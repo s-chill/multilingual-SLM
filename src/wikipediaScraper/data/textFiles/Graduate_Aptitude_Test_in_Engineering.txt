@@ -1,0 +1,101 @@
+The Graduate Aptitude Test in Engineering ( GATE ) is an entrance examination conducted in India that tests the undergraduate subjects of engineering and sciences for admission to technical postgraduate programs. GATE is conducted jointly by the Indian Institute of Science and seven Indian Institutes of Technologies at Roorkee , Delhi , Guwahati , Kanpur , Kharagpur , Chennai (Madras) and Mumbai (Bombay) on behalf of the National Coordination Board – GATE, Department of Higher Education , Ministry of Education (MoE), Government of India .
+
+The GATE score of a candidate reflects the relative performance level of a candidate. The score is used for admissions to various post-graduate education programs (e.g. Master of Engineering, Master of Technology, Master of Architecture, Doctor of Philosophy) in Indian higher education institutes, with financial assistance provided by MoE and other government agencies. GATE scores are also used by several Indian public sector undertakings for recruiting graduate engineers in entry-level positions. It is one of the most competitive examinations in India. GATE is also recognized by various institutes outside India, such as Nanyang Technological University in Singapore.
+
+The GATE is used as a requirement for financial assistance (e.g. scholarships) for a number of programs, though criteria differ by admitting institution. In December 2015, the University Grants Commission and MHRD announced that the scholarship for GATE-qualified master's degree students is increased by 55% from ₹ 8,000 (US$96) per month to ₹ 12,400 (US$150) per month.
+
+The following students are eligible to take GATE:
+
+-year integrated master's degree programs (Post-B.Sc.) in Engineering / Technology.
+
+There is no age limit criterion defined by the exam conducting authority to appear in GATE.
+
+At present, GATE is conducted in the following 30 disciplines. A candidate can select any one or two of these subjects relevant to his/her discipline.
+
+From 2022, 2 new papers were introduced: GE (Geomatics Engineering) and NM (Naval Architecture and Marine Engineering).
+
+The paper sections under XE*, XL** and XH*** are defined by some dedicated codes which are mentioned in the following table-
+
+The examination is of 3 hours duration, and contains a total of 65 questions worth a maximum of 100 marks. The examination for all the papers is carried out in an online Computer Based Test (CBT) mode where the candidates are shown the questions in a random sequence on a computer screen. The questions consist of some Multiple Choice Questions or MCQs (four answer options out of which only ONE is correct, which has to be chosen). Remaining questions may be of Multiple Select Questions or MSQs (four answer options out of which ONE or MORE than ONE is/are correct, hence correct options need to be chosen) and/or Numerical Answer Type questions or NATs (answer is a real number, to be entered via an on-screen keypad and computer mouse).
+
+The examination will consist of totally 65 questions, segregated as One-mark and Two-mark questions. Out of 65 questions, 10 questions will be from General Aptitude (Verbal and Numerical ability) and 55 questions will be Technical, based on the Paper chosen. The General Aptitude section will have 5 One-mark questions and 5 Two-mark questions, accounting for about 15% of total marks. The Technical section and Engineering Mathematics section will combinedly have 25 One-mark questions and 30 Two-mark questions, accounting for about 85% of total marks. Further, all the sections may have some Multiple Choice Questions or MCQs, while remaining questions may be Multiple Select Questions or MSQs and/or Numerical Answer Type questions or NATs. The examination awards negative marks for wrong MCQ answers. Usually, 1/3rd of original marks will be deducted for wrong MCQ answers (i.e. -0.33 for wrong One-mark answers and -0.66 for wrong Two-mark answers) while there are no negative marks for MSQs and NATs. Also there is NO partial credit for MSQs and NATs.
+
+GATE results are usually declared about one month after the examinations are over. The results show the total marks scored by a candidate, the GATE score, the all-India rank (AIR) and the cut off marks for various categories in the candidate's paper. The score is valid for 3 years from the date of announcement of the GATE results. The score cards are issued only to qualified candidates.
+
+Calculation of "normalized marks" for subjects held in multiple sessions (CE, CS, EC, EE and ME):
+
+From 2014 onward, examination for CE, CS, EC, ME and EE subjects is being held in multiple sessions. Hence, for these subjects, a suitable normalization is applied to take into account any variation in the difficulty levels of the question sets across different sessions. The normalization is done based on the fundamental assumption that "in all multi-session GATE papers, the distribution of abilities of candidates is the same across all the sessions" . According to the GATE committee, this assumption is justified since "the number of candidates appearing in multi-session subjects in GATE 2014 is large and the procedure of allocation of session to candidates is random. Further it is also ensured that for the same multi-session subject, the number of candidates allotted in each session is of the same order of magnitude."
+
+Based on the above, and considering various normalization methods, the committee arrived at the following formula for calculating the normalized marks, for CE, CS, EC, EE and ME subjects:
+
+Normalized mark ( ︿ M ij ) of j candidate in i session, is given by
+
+M ^ i j = M ¯ t g − M q g M t i − M i q ( M i j − M i q ) + M q g {\displaystyle {\hat {M}}_{ij}={\frac {{\bar {M}}_{t}^{g}-M_{q}^{g}}{M_{ti}-M_{iq}}}(M_{ij}-M_{iq})+M_{q}^{g}} where,
+
+After evaluation of the answers, normalized marks based on the above formula will be calculated using the raw (actual) marks obtained by a candidate in the CE, CS, EC, EE or ME subject. The "score" will be calculated using these normalized marks. For all other subjects (whose tests are conducted in a single session), the actual marks obtained by the candidates will be used in calculating the score.
+
+Calculation of GATE Score for all subjects (single-session and multiple-session):
+
+From GATE 2014 onward (and year 2014-15 of the 2-year validity period of GATE 2013 score), a candidate's GATE score is computed by the following new formula. S = S q + ( S t − S q ) M − M q M ¯ t − M q {\displaystyle S=S_{q}+(S_{t}-S_{q}){\frac {M-M_{q}}{{\overline {M}}_{t}-M_{q}}}} where,
+
+Percentile:
+
+A candidate's percentile denotes the percentage of candidates scoring lower than that particular candidate. It is calculated as:
+
+Percentile = ( 1 - ⁠ All India rank / No. of candidates in that subject ⁠ ) x 100%
+
+Till GATE 2012 (and year 2013-14 of the 2-year validity period of GATE 2013 score), the score was calculated using the formula:
+
+GATE score = 10 ( a g + s g m − a S ) {\displaystyle 10(a_{g}+s_{g}{\frac {m-a}{S}})}
+
+where,
+
+The rules for qualifying marks have varied from year to year. The qualifying marks (out of 100) are different for different subjects as well as categories.
+
+Here μ is the average (i.e., arithmetic mean) of marks of all candidates in the subject (with negative marks converted to zero) and σ is the standard deviation of all marks in that subject.
+
+Usually, the general category's qualifying mark is in the 25 to 50 range.
+
+The Government of India implemented reservations for other backward classes in college admissions and public sector job recruitment in the year 2008. Before that, all OBC candidates were included in the "general" category. There was no separate OBC category then.
+
+Sources:
+
+The following line chart shows the number of candidates registered, appeared, and qualified (total of all subjects).
+
+Precise figures unavailable right now.
+
+The following line chart shows the variation of the number of candidates appeared in the 5 subjects with the largest numbers of appeared candidates, since GATE 2010:
+
+Precise figures unavailable right now.
+
+Unlike undergraduate admissions in India, candidates must apply individually to each institute after the institute has published its M.Tech. notification (usually in the month of March). There is no separate counselling held. For admissions in NITs and IIITs, CCMT is held every year and the notification is released around April of each year.
+
+Some institutions specify GATE qualification as mandatory even for admission of self-financing students to postgraduate programs. GATE qualified candidates are also eligible for the award of Junior Research Fellowship in CSIR Laboratories and CSIR sponsored projects. Top rank holders in some GATE papers are entitled to apply for "Shyama Prasad Mukherjee Fellowship" awarded by CSIR. Some government organizations prescribe GATE qualification as a requirement for applying to the post of a Scientist/Engineer.
+
+In recent years, various academics have recognized GATE as being one of the toughest exams in its category. Some non-Indian universities like the National University of Singapore , Nanyang Technological University in Singapore and some technical universities in Germany also identify GATE score as a parameter for judging the quality of the candidates for admission into their Masters and Ph.D. programs.
+
+Some management institutes like NITIE, Mumbai offer admission to Post Graduate Diploma in Industrial Engineering on the basis of GATE score.
+
+Most Indian institutes do not specify cut-off marks for previous years. But in the recent years IIT Kharagpur and IIT Guwahati have been specifying last year cut-off mark list. Typically the Indian Institute of Science and Indian Institutes of Technology are the most selective followed by National Institutes of Technology , BITS Pilani and others. Even within the top institutes, the selection criteria varies widely across departments and programs depending on expertise areas. The Directorate of Technical Education of Maharashtra state has also started conducting CAP round from the year 2013 for GATE and non-GATE candidates in all institutes in Maharashtra that offer M.E./M.Tech. programs.
+
+The Council of Scientific and Industrial Research (CSIR) introduced the Junior Research Fellowship (JRF) - GATE scheme in 2002 to allow GATE-qualified engineering graduates and GPAT -qualified pharmaceutical graduates to pursue research through suitable Ph.D. programs at CSIR laboratories.
+
+Stipend and tenure:
+
+The fellowship amount is ₹ 31,000 (US$370) per month plus HRA (house rent allowance). In addition, contingency grant of ₹ 20,000 (US$240) per annum (calculated on pro-rata basis for fraction of a year) is also provided. On completion of 2 years as JRF - GATE, the fellowship may be upgraded to SRF (Senior Research Fellowship) - GATE and stipend may be increased to ₹ 35,000 (US$420) per month in the subsequent years, on the basis of assessment of CSIR JRF-NET guidelines.
+
+The total duration of the fellowship is 5 years, within which the candidate is expected to complete the Ph.D. degree.
+
+Common Offer Acceptance Portal (COAP) is an online portal that allows candidates clearing GATE to register and get call letters from various IITs and PSUs for interviews. After the declaration of GATE results, candidates must apply through COAP, as its the only platform from which you can book your seat in post graduate programs in various institutes like the IITs.
+
+Public sector undertakings (PSUs) in India, for long, have had troubles conducting their recruitment processes with more than 100,000 students taking the exams for less than 1000 jobs (a selection rate of less than 1%). After sensing the exponential rise in the number of engineering graduates in India who wish to get a PSU job, the PSUs have decided that a GATE score shall be the primary criteria for initial shortlisting. This change was the primary cause for the rapid increase in applicants for GATE 2012.
+
+Indian Oil Corporation was the first PSU which successfully tested out this system and was followed two years later by National Thermal Power Corporation , Bharat Heavy Electricals , Bharat Electronics & PowerGrid Corporation of India .
+
+Usually these companies release their recruitment notifications right after GATE notification, indicating that candidates have to take GATE to be considered for a job in their organizations.
+
+Many companies have signed Memorandums of Understanding (MoUs) with the GATE organizing committee, for using the GATE score as a screening tool for recruiting engineers at entry-level positions.
+
+The syllabus for the GATE exam and its preparation remains the same, irrespective of whether one is applying for a job at a PSU or seeking admission for post-graduation in engineering.
+
+Each year's GATE is organized by any one of 8 institutes: IISc and 7 IITs . The overall coordination and responsibility of conducting GATE lies with this institute, which is designated as the Organizing Institute (OI) for GATE of that year. GATE coaching institutes often make speculations regarding the topics to focus upon depending upon the institute that is the OI of that year.

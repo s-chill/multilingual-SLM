@@ -1,0 +1,104 @@
+Joomla ( / ˈ dʒ uː m . l ɑː / ), also styled Joomla! (with an exclamation mark) and sometimes abbreviated as J! , is a free and open-source content management system (CMS) for publishing web content on websites . Web content applications include discussion forums , photo galleries , e-Commerce and user communities , and numerous other web-based applications. Joomla is developed by a community of volunteers supported with the legal, organisational and financial resources of Open Source Matters, Inc .
+
+Joomla is written in PHP , uses object-oriented programming techniques, simple software design patterns , and stores data in a Structured Query Language ( MySQL / MariaDB ) database. Joomla includes features such as page caching , RSS feeds , blogs , search, and support for language internationalisation . It is built on a model–view–controller web application framework that can be used independently of the CMS.
+
+There are over 5,000 third-party extensions listed in the Joomla! Extensions Directory.
+
+Among CMSes, Joomla ranks fifth or sixth in global market share.
+
+Joomla was the outcome of a fork of Mambo on August 17, 2005. At that time, the Mambo name was a trademark of Miro International Pvt. Ltd., which formed a non-profit foundation with the stated purpose of funding the project and protecting it from lawsuits. The Joomla development team claimed that many of the provisions of the foundation structure violated previous agreements made by the elected Mambo Steering Committee, lacked the necessary consultation with key stakeholders, and included provisions that violated core open source values.
+
+Joomla's original co-founders, Andrew Eddie, Brian Teeman, Johan Janssens, Jean-Marie Simonet, et al. , established Open Source Matters, Inc. (OSM) to distribute information to the software community. Project leader Eddie wrote a letter that appeared on the announcements section of the public forum at mamboserver.com. Over a thousand people joined OpenSourceMatters.org within a day, most posting words of encouragement and support. Miro CEO Peter Lamont responded publicly to the development team in an article titled "The Mambo Open Source Controversy—20 Questions With Miro". This event created controversy within the free software community about the definition of open source . Forums of other open-source projects were active with postings about the actions of both sides.
+
+In the two weeks following Eddie's announcement, teams were reorganised, and the community continued to grow. Eben Moglen and the Software Freedom Law Center (SFLC) assisted the Joomla core team beginning in August 2005, as indicated by Moglen's blog entry from that date and a related OSM announcement. The SFLC continues to provide legal guidance to the Joomla Project as one of OSM's partners.
+
+On August 18, Eddie called for community input to suggest a name for the project. The core team reserved the right to make the final naming decision and chose a name not suggested by the community. On September 22, the new name, Joomla!, was announced. It is the anglicised spelling of the Swahili word jumla , meaning "all together" or "as a whole," which also has a similar meaning in at least Amharic , Arabic , Turkic languages and Urdu . On September 26, the development team called for logo submissions from the community and invited the community to vote on the logo; the team announced the community's decision on September 29. Beginning in October 2005, guidelines covering branding, licensing, and use of the registered trademark were published.
+
+On January 28, 2008, the first major revision to Joomla was announced:
+
+Joomla 1.5 was popular but criticised for its inflexible and limited approach to access control. Independently of the project, Andrew Eddie and Louis Landry created a company called JXtended to continue the development of Control —an ACL component—that could integrate with Joomla 1.5. In July 2009, Eddie presented his ideas to the Joomla User Group Brisbane.
+
+In July 2009 of that year, the Joomla project announced a restructuring of its management: a new Joomla Leadership Team replacing the Core Team that had originally led the project. This redefined the role of the team leading the project and structured it more around community involvement in events, the Google Summer of Code projects, and other activities; the intention of the new approach to team-building was also an effort to increase community participation in the development process instead of relying upon a small group of coders to do most of the work.
+
+According to Google Trends , interest in Joomla peaked around the period 2009–2010. In January 2011—largely as the result of the collaboration between Eddie and Landry—a second major revision of Joomla was released: Joomla 1.6.
+
+Prior to the stable release of Joomla 1.6, Eddie relinquished his roles on OSM's board and project leadership; Louis Landry announced his retirement from the project the following year. Following Eddie's departure in September 2011, OSM sought feedback from the community, including the possibility of constituting the governing body under a new name, to restructure the board's membership and project leadership.
+
+In 2010, with preparations for Joomla 1.6 nearly completed, Amy Stephen, Klas Berlic, Marco Barbosa, Matt Thomas, et al. started a project to refactor the Joomla code. Code-named Molajo (an anagram of Joomla), the group felt that the existing Joomla CMS hindered end-users and developers adopting Joomla because (a) the Joomla CMS did not offer a range of packages containing themed sets of web applications—like other CMS products had been doing for some time—and (b) the traditional MVC approach decreased developers' productivity in creating new components for Joomla.
+
+Community reaction to Molajo was mixed. Some commentators claimed that it was a fork of the Joomla CMS—a claim strongly rejected by Stephen—while others contended that its activities would undermine the future of the Joomla CMS. Against these headwinds, Molajo made its public debut at the J and Beyond conference in the Netherlands in 2011.
+
+Lacking support from OSM, an enthusiastic following from the Joomla community, and unable to progress beyond pre-Alpha status, Molajo collapsed around the middle of 2015.
+
+In January 2012, another major revision was announced: Joomla 2.5 (essentially bringing together the two previous minor releases from the preceding year). Joomla 2.5 brought much sought-after enhancements, a new API making it easier for novice users, additional multilanguage capability and the ability for users to update with "one-click".
+
+Shortly after the release of Joomla 2.5, work was under way on Joomla 3. x . Joomla 3. x was focused on mobile-friendly websites on the front-end as well as a more intuitive back-end. With greater ease in site navigation and a more user-friendly means of editing Joomla site content, Joomla 3. x became the most popular version of the CMS, eventually making all previous versions obsolete.
+
+In March 2014, after seeking community feedback and a submission from the Production Leadership Team, a newly constituted OSM board approved changing the licensing for the framework from GPLv2 to LGPL . Although the proposal only affected the licensing of the framework and not the CMS, the decision sparked a fierce debate within the community. In the end, the framework did not adopt LGPL and is still licensed under GPLv2.
+
+In August 2014, the Joomla CMS development team released a plan for new version releases.
+
+Towards the end of 2014—three years after calling for feedback about ways to reorganise the project and with Joomla 3. x into its fourth minor revision—the community discussed the leadership structure changes. Eddie, although no longer an active contributor to the project, argued that the code for Joomla 3. x was "too fat and heavy to maintain with the current level of contribution"; he recommended mothballing the current CMS series and developing a less cumbersome Joomla 4. Eddie went further to criticise OSM's vision , entrepreneurship , and management of the project. Other commentators also expressed their opinion that OSM had become dysfunctional.
+
+Criticism mounted about the plan for future development of the Joomla CMS. An opinion written in May 2015 by Nicholas Dionysopoulos (founder of Akeeba Ltd.) shared some of Eddie's earlier observations about OSM's lack of vision, entrepreneurship, and ability to manage the project. Dionysopoulos disagreed with Eddie about the major cause of problems with Joomla 3. x ; it was Dionysopoulos' view that the cause of most problems with Joomla 3. x lay within "the processes of Joomla! the organisation".
+
+Dionysopoulos' views gathered momentum within the community and led to the formation of the Joomla 4 working group (which later became the Joomla X working group).
+
+In March 2017, the project announced the retirement of Joomla 3 and unveiled its plans to develop Joomla 4. This effectively brought an end to the work of the Joomla X working group (although it would be another two years before that Joomla X working group's activity was placed in "archived" status).
+
+In an effort to improve the relationship with the community, the development team revised the 2014 plan and, in June 2018, produced a new roadmap with the expectation that Joomla 4.0 would be released in a stable form before the end of 2018. During the period 2017-2018, the developers created six alpha test releases for Joomla 4.
+
+In January 2019, the developers released an updated plan revising previously announced estimated time frames; the roadmap was revised several times during 2020.
+
+Community concerns intensified about the handling of the Joomla project—two years after announcing plans to retire Joomla 3 (but having already released two minor versions with plans for a third)—and by the end of 2019, a further six alpha test releases of Joomla 4 were produced for public discussion. On one hand, some people questioned whether the community had lost its influence in driving the project, while, from the developers' viewpoint, the other side defended the project by observing that things would be more productive if the community had been more actively engaged in testing, rather than criticising, the alpha releases. These discussions revealed a growing sense of division between developers on one side and end users on the other.
+
+A lengthy debate that started in March 2019 and initially focused on the aesthetics and usability of the Joomla 4 backend interface highlighted an overall sense of disappointment with management and progress of the project. Although the debate was weighted heavily on criticising the backend aesthetics, people on all sides of the discussion aired their dissenting opinions about why the Joomla 4 project had become distracted by feature creep , software bloat , eventual cost overrun and lack of trust.
+
+Against a background of unrelenting criticism from within the community and declining popular interest in Joomla at the time a conference was held in January 2020 to develop a strategy for the future. The conference identified several key areas for further work but basically accepted the premise that faults related mainly to the project's organisational framework rather than the quality of the product.
+
+On May 28, 2020, the Joomla team disclosed that a data breach had occurred that potentially affected 2,700 users by exposing their personal details. The incident was discovered by an internal audit of the website that also highlighted the presence of superuser accounts owned by individuals outside OSM. Although no evidence was found of any unauthorised access to personal information, action was immediately taken to mitigate the risk, including a requirement for all users to change their passwords.
+
+The COVID-19 pandemic impacted Joomla's planned events, resulting in the cancellation of the main world-wide conferences.
+
+On 21 June 2020 OSM President Rowan Hoskyns Abrahall resigned citing personal difficulties. It later transpired that OSM Board had not been publicly forthcoming about matters relating to the several claims for reimbursement of Abrahall's expenses that were deemed to be outside OSM's financial policy and, further, that Abrahall now owed money to OSM; the matter received some independent coverage and analysis. This matter caused a chain of events: Abrahall declared bankruptcy in order to forfend her debt to OSM; Abrahall commenced defamation proceedings against OSM; Abrahall's successor, Brian Mitchell, was dismissed.
+
+Following Mitchell's departure as President, OSM reorganised its board structure removing three of its director roles.  The increasing use social media —especially for microblogging —impacted the uptake of CMS technology to build websites.  The Joomla project also lost a significant part of its volunteer base as a result of an ageing population, continuing disillusionment about the future direction and a perceived absence of transparency about the board's activities.
+
+On 17 August 2021, Joomla version 4.0 was released (some six years after work had begun). This was a major milestone release for the Joomla project.
+
+In April 2022 Abrahall commenced defamation action against OSM; the case ended in March 2023 with the plaintiff voluntarily withdrawing her lawsuit.
+
+The Joomla 4 project did not live up to developers' expectations; work soon commenced on Joomla 5—released on 17 October 2023—in appearance, Joomla 4 with some of its legacy code removed.
+
+Joomla 5 uptake was slow (compared to previous releases) and user criticism further intensified.  Joomla users had problems because their web hosting providers did not meet more restrictive minimum technical requirements; furthermore, upgrading from previous releases resulted in users having to forego their reliance on third-party extensions and rebuild their websites.  Criticism was especially heaviest among third-party developers.
+
+Joomla remained popular with its adherents but, as the continuing downward trend showed, confined to small niche market amongst hobbyists and SMBs , unsuited to large corporate use.
+
+A future version (Joomla 6) has been proposed.
+
+Joomla is maintained as an open-source project by a community of volunteers and licensed under the GNU General Public License on an "as is" basis, without any warranty of any kind, including implied warranties of merchantability and fitness for a particular purpose. The source code of Joomla is maintained on GitHub . The top three most popular public forums for discussing Joomla and seeking technical advice are The Joomla Forum , Joomla on Stack Exchange , and Mattermost .
+
+Overall responsibility for planning and release of new software is vested in OSM.
+
+It has a software dependency on some Symfony components and other open source libraries including the Joomla Framework components.
+
+Joomla adopted a new development strategy with the introduction of 1.6. The basic idea was to facilitate a continuous publication of Standard Support Release (SSR) intended to ensure that user requests were incorporated into the Joomla core more quickly and stabilised for the benefit of future releases. Many users were critical of the rapid change between major releases, especially when complex applications had been independently developed for a Joomla website and the website owner had to update the core in order to receive current security updates.
+
+In April 2014 the developers announced that the previous system consisting of different LTR (Long Term Release) and STR (Short Term Release) version rails would be abandoned in favour of a linear version cycle. The first release after this change was version 3.3.1.
+
+Joomla installations are repeatedly the target of attacks, especially in the form of so-called defacements , but probably no more so when compared to other websites on the internet. Third-party extensions can add additional security risks that may be exploited by malicious actors: a list of vulnerable extensions is maintained on an ad hoc basis. While programming-related security flaws occur, the majority of security issues arise from people failing to perform regular maintenance as opposed to the intentional exploitation by the malicious actions of others. Joomla addresses reported security concerns through its Security Strike Team .
+
+The Joomla project manages its activities (e.g. trademarking, licensing, marketing, software development, documentation, media releases, etc.) through dedicated teams under the umbrella of Open Source Matters, Inc. Membership of these teams is voluntary but admission is tightly controlled. Only approved team members are allowed to elect team leaders and the members of OSM Board.
+
+In a broad sense, the Joomla project is aligned with WordPress , Drupal and Typo3 to address their concerns with the EU Cyber Resilience Act .
+
+J and Beyond was an annual conference primarily catering to Joomla developers and site integrators. Hosted in Europe typically around May, it served as a key gathering for professionals involved in Joomla-related projects. The 2024 conference was cancelled owing to poor ticket sales.
+
+Joomla is primarily funded by private sponsorships that offset OSM's operational costs; these costs include taxes, accounting, presence at ground events, operation of domains, and so forth. The project receives the rest of its revenue from website advertising, commissions, examination fees, and Google Summer of Code .
+
+There are two types of templates used in the Joomla CMS:  frontend templates and backend templates. The frontend template presents the website to the user viewing the  content. The backend template presents a panel of controls for website administration.
+Templates are installed as extensions to Joomla and may be customised with source code overrides and/or CSS . Standard templates are included upon installation while other, third-party templates can be installed later.  In general, templates designed for each major version of Joomla are not interoperable with other major versions of Joomla.  The following table lists the standard templates installed with each major Joomla release.
+
+Independently of the Joomla development team, other people have created additional software—collectively called extensions—to extend the range of applications that Joomla website owners may require. As with all third-party software products—some of which may be offered free-of-charge or licensed under conditions that may vary from the core Joomla CMS—there can be further complications (e.g incompatibility with higher versions of Joomla). Extensions that were developed for older versions of the Joomla CMS are often a reason why website owners are unable to upgrade their existing CMS to a higher version. The Joomla project does not endorse or recommend extensions created independently of the CMS development team nor does it offer any support for problems that may arise through the use of these products.
+
+Local communities of Joomla users and developers exist around the world to share news, assist people with problems and organise events.

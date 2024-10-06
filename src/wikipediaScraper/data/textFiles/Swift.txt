@@ -1,0 +1,143 @@
+OpenStack is a free , open standard cloud computing platform. It is mostly deployed as infrastructure-as-a-service (IaaS) in both public and private clouds where virtual servers and other resources are made available to users. The software platform consists of interrelated components that control diverse, multi-vendor hardware pools of processing, storage, and networking resources throughout a data center . Users manage it either through a web-based dashboard, through command-line tools, or through RESTful web services.
+
+OpenStack began in 2010 as a joint project of Rackspace Hosting and NASA . As of 2012 , it was managed by the OpenStack Foundation , a non-profit corporate entity established in September 2012 to promote OpenStack software and its community. By 2018, more than 500 companies had joined the project. In 2020 the foundation announced it would be renamed the Open Infrastructure Foundation in 2021.
+
+In July 2010, Rackspace Hosting and NASA announced an open-source cloud-software initiative known as OpenStack. The mission statement was "to produce the ubiquitous Open Source Cloud Computing platform that will meet the needs of public and private clouds regardless of size, by being simple to implement and massively scalable".
+
+The project intended to help organizations offer cloud-computing services running on standard hardware. The community's first official release, code-named Austin, appeared three months later on 21 October 2010 ( 2010-10-21 ) , with plans to release regular updates of the software every few months. The early code came from NASA's Nebula platform as well as from Rackspace's Cloud Files platform . The cloud stack and open stack modules were merged and released as open source by the NASA Nebula team in concert with Rackspace.
+
+In 2011, developers of the Ubuntu Linux distribution adopted OpenStack with an unsupported technology preview of the OpenStack "Bexar" release for Ubuntu 11.04 " Natty Narwhal ". Ubuntu's sponsor Canonical then introduced full support for OpenStack clouds, starting with OpenStack's Cactus release.
+
+OpenStack became available in Debian Sid from the Openstack "Cactus" release in 2011, and the first release of Debian including OpenStack was Debian 7.0 (code name "Wheezy"), including OpenStack 2012.1 (code name: "Essex").
+
+In October 2011, SUSE announced the public preview of the industry's first fully configured OpenStack powered appliance based on the "Diablo" OpenStack release. In August 2012, SUSE announced its commercially supported enterprise OpenStack distribution based on the "Essex" release.
+
+In 2012, Red Hat announced a preview of their OpenStack distribution, beginning with the "Essex" release. After another preview release, Red Hat introduced commercial support for OpenStack with the "Grizzly" release, in July 2013.
+
+The OpenStack organization has grown rapidly and is supported by more than 540 companies.
+
+In 2012 NASA withdrew from OpenStack as an active contributor, and instead made the strategic decision to use Amazon Web Services for cloud-based services. In July 2013, NASA released an internal audit citing lack of technical progress and other factors as the agency's primary reason for dropping out as an active developer of the project and instead focus on the use of public clouds. This report is contradicted in part by remarks made by Ames Research Center CIO, Ray O'Brien. As of Nov 2021, NASA continues to utilize OpenStack in IAAS and PAAS support of the Discover supercomputer cluster. The OpenStack environment is called "Explore" and operates in the NASA Center for Climate Simulation at Goddard Space Flight Center.
+
+In November 2012, The UK's Government Digital Service (GDS) launched Inside Government based on the OpenNASA v2.0 Government as a Platform (GaaP) model.
+
+In December 2013, Oracle announced it had joined OpenStack as a Sponsor and planned to bring OpenStack to Oracle Solaris, Oracle Linux, and many of its products. It followed by announcing Oracle OpenStack distributions for Oracle Solaris and for Oracle Linux using Icehouse on 24 September 2014.
+
+In May 2014, HP announced HP Helion and released a preview of HP Helion OpenStack Community, beginning with the IceHouse release. HP has operated HP Helion Public Cloud on OpenStack since 2012.
+
+At the 2014 Interop and Tech Field Day , software-defined networking was demonstrated by Avaya using Shortest path bridging and OpenStack as an automated campus, extending automation from the data center to the end device, and removing manual provisioning from service delivery.
+
+As of November 2021 , NASA hosts the Explore OpenStack private cloud in support of the Discover HPC.
+
+As of September 2022 , China Mobile uses OpenStack as the foundation of its 5G network. Red Hat claims that its platform is deployed on over 30 percent of production LTE networks.
+
+The OpenStack cloud at CERN requires over 300,000 cores to meet the needs of the Large Hadron Collider .
+
+Several OpenStack projects changed names due to trademark issues.
+
+The OpenStack community collaborates around a six-month, time-based release cycle with frequent development milestones.
+
+During the planning phase of each release, the community would gather for an OpenStack Design Summit to facilitate developer working sessions and to assemble plans. These Design Summits would coincide with the OpenStack Summit conference.
+
+Starting with the Pike development cycle the design meetup activity has been separated out into a separate Project Teams Gathering (PTG) event. This was done to avoid the developer distractions caused by presentations and customer meetings that were happening at the OpenStack Summit and to allow the design discussions to happen ahead of the start of the next cycle.
+
+Recent OpenStack Summits have taken place in Shanghai on 4–6 November 2019, Denver on 29 April-1 May 2019, Berlin on 13–19 November 2018, Vancouver on 21–25 May 2018, Sydney on 6–8 November 2017, Boston on 8–11 May 2017, Austin on 25–29 April 2016, and Barcelona on 25–28 October 2016. Earlier OpenStack Summits have taken place also in Tokyo in October 2015, Vancouver in May 2015, and Paris in November 2014. The summit in May 2014 in Atlanta drew 4,500 attendees – a 50% increase from the Hong Kong summit six months earlier.
+
+OpenStack has a modular architecture with various code names for its components.
+
+Nova is the OpenStack project that provides a way to provision compute instances as virtual machines, real hardware servers (through the use of ironic), and has limited support for system containers. Nova runs as a set of daemons on top of existing Linux servers to provide that service.
+
+Nova is written in Python . It uses many external Python libraries such as Eventlet (concurrent networking library), Kombu ( AMQP messaging framework), and SQLAlchemy (SQL toolkit and Object Relational Mapper). Nova is designed to be horizontally scalable . Rather than switching to larger servers, you procure more servers and simply install identically configured services.
+
+Due to its widespread integration into enterprise-level infrastructures, monitoring OpenStack performance in general, and Nova performance in particular, scaling became an increasingly important issue. Monitoring end-to-end performance requires tracking metrics from Nova, Keystone, Neutron, Cinder, Swift and other services, in addition to monitoring RabbitMQ which is used by OpenStack services for message passing. All these services generate their own log files, which, especially in enterprise-level infrastructures, also should be monitored.
+
+Neutron is an OpenStack project to provide "network connectivity as a service" between interface devices (e.g., vNICs) managed by other OpenStack services (e.g., nova). It implements the OpenStack Networking API.
+
+It manages all networking facets for the Virtual Networking Infrastructure (VNI) and the access layer aspects of the Physical Networking Infrastructure (PNI) in the OpenStack environment. OpenStack Networking enables projects to create advanced virtual network topologies which may include services such as a firewall, and a virtual private network (VPN).
+
+Neutron allows dedicated static IP addresses or DHCP . It also allows Floating IP addresses to let traffic be dynamically rerouted.
+
+Users can use software-defined networking (SDN) technologies like OpenFlow to support multi-tenancy and scale. OpenStack networking can deploy and manage additional network services—such as intrusion detection systems (IDS), load balancing , firewalls , and virtual private networks (VPN).
+
+Cinder is the OpenStack Block Storage service for providing volumes to Nova virtual machines, Ironic bare metal hosts, containers and more. Some of the goals of Cinder are to be/have:
+
+Cinder volumes provide persistent storage to guest virtual machines - known as instances,  that are managed by OpenStack Compute software. Cinder can also be used independent of other OpenStack services as stand-alone software-defined storage. The block storage system manages the creation, replication, snapshot management, attaching and detaching of the block devices to servers.
+
+Keystone is an OpenStack service that provides API client authentication, service discovery, and distributed multi-tenant authorization by implementing OpenStack's Identity API. It is the common authentication system across the cloud operating system. Keystone can integrate with directory services like LDAP . It supports standard username and password credentials, token-based systems and AWS-style (i.e. Amazon Web Services ) logins. The OpenStack keystone service catalog allows API clients to dynamically discover and navigate to cloud services.
+
+The Image service (glance) project provides a service where users can upload and discover data assets that are meant to be used with other services. This currently includes images and metadata definitions.
+
+Glance image services include discovering, registering, and retrieving virtual machine (VM) images. Glance has a RESTful API that allows querying of VM image metadata as well as retrieval of the actual image. VM images made available through Glance can be stored in a variety of locations from simple filesystems to object-storage systems like the OpenStack Swift project.
+
+Glance hosts a metadefs catalog. This provides the OpenStack community with a way to programmatically determine various metadata key names and valid values that can be applied to OpenStack resources.
+
+Swift is a distributed, eventually consistent object/blob store. The OpenStack Object Store project, known as Swift, offers cloud storage software so that you can store and retrieve lots of data with a simple API. It's built for scale and optimized for durability, availability, and concurrency across the entire data set. Swift is ideal for storing unstructured data that can grow without bound.
+
+In August 2009, Rackspace started the development of the precursor to OpenStack Object Storage, as a complete replacement for the Cloud Files product. The initial development team consisted of nine developers. SwiftStack , an object storage software company, is currently the leading developer for Swift with significant contributions from Intel , Red Hat , NTT , HP , IBM , and more.
+
+Horizon is the canonical implementation of OpenStack's Dashboard, which provides a web based user interface to OpenStack services including Nova, Swift, Keystone, etc. Horizon ships with three central dashboards, a "User Dashboard", a "System Dashboard", and a "Settings" dashboard. Between these three they cover the core OpenStack applications and deliver on Core Support.
+The Horizon application also ships with a set of API abstractions for the core OpenStack projects in order to provide a consistent, stable set of reusable methods for developers. Using these abstractions, developers working on Horizon don't need to be intimately familiar with the APIs of each OpenStack project.
+
+Heat is a service to orchestrate multiple composite cloud applications using templates, through both an OpenStack-native REST API and a CloudFormation-compatible Query API.
+
+Mistral is a service that manages workflows. User typically writes a workflow using workflow language based on YAML and uploads the workflow definition to Mistral via its REST API. Then user can start this workflow manually via the same API or configure a trigger to start the workflow on some event.
+
+OpenStack Telemetry (Ceilometer) provides a Single Point Of Contact for billing systems, providing all the counters they need to establish customer billing, across all current and future OpenStack components. The delivery of counters is traceable and auditable, the counters must be easily extensible to support new projects, and agents doing data collection should be independent of the overall system.
+
+Trove is a database-as-a-service provisioning relational and a non-relational database engine.
+
+Sahara is a component to easily and rapidly provision Hadoop clusters. Users will specify several parameters like the Hadoop version number, the cluster topology type, node flavor details (defining disk space, CPU and RAM settings), and others. After a user provides all of the parameters, Sahara deploys the cluster in a few minutes. Sahara also provides means to scale a preexisting Hadoop cluster by adding and removing worker nodes on demand.
+
+Ironic is an OpenStack project that provisions bare metal machines instead of virtual machines. It was initially forked from the Nova Baremetal driver and has evolved into a separate project. It is best thought of as a bare-metal hypervisor API and a set of plugins that interact with the bare-metal machines managed by Ironic. By default, it will use PXE and IPMI or Redfish in concert to provision and manage physical machines, but Ironic supports and can be extended with vendor-specific plugins to implement additional functionality.
+
+Since the inception of Ironic, it has spawned several sub-projects to help support additional use cases and capabilities. Some of the more commonly leveraged of these projects include Ironic-Inspector, Bifrost, Sushy, and networking-generic-switch. Ironic-inspector supplies hardware information collection and hardware discovery. Bifrost focuses on the use case of operating without other OpenStack components, and is highlighted on the website ironicbaremetal.org. Sushy is a lightweight Redfish API client library. Networking-generic-switch is a plugin which supports managing switchport configuration for bare metal machines.
+
+Zaqar is a multi-tenant cloud messaging service for Web developers. The service features a fully RESTful API, which developers can use to send messages between various components of their SaaS and mobile applications by using a variety of communication patterns. Underlying this API is an efficient messaging engine designed with scalability and security in mind. Other OpenStack components can integrate with Zaqar to surface events to end users and to communicate with guest agents that run in the "over-cloud" layer.
+
+OpenStack Shared File System (Manila) provides an open API to manage shares in a vendor agnostic framework. Standard primitives include the ability to create, delete, and give/deny access to a share and can be used standalone or in a variety of different network environments. Commercial storage appliances from EMC, NetApp, HP, IBM, Oracle, Quobyte, INFINIDAT and Hitachi Data Systems are supported as well as filesystem technologies such as Red Hat GlusterFS or Ceph.
+
+Designate is a multi-tenant REST API for managing DNS. This component provides DNS as a Service and is compatible with many backend technologies, including PowerDNS and BIND. It doesn't provide a DNS service as such as its purpose is to interface with existing DNS servers to manage DNS zones on a per tenant basis.
+
+The project is no longer actively maintained.
+
+Searchlight provides advanced and consistent search capabilities across various OpenStack cloud services. It accomplishes this by offloading user search queries from other OpenStack API servers by indexing their data into Elasticsearch . Searchlight is being integrated into Horizon and also provides a Command-line interface .
+
+Barbican is a REST API designed for the secure storage, provisioning and management of secrets. It is aimed at being useful for all environments, including large ephemeral Clouds.
+
+Magnum is an OpenStack API service developed by the OpenStack Containers Team making container orchestration engines such as Docker Swarm, Kubernetes, and Apache Mesos available as first class resources in OpenStack. Magnum uses Heat to orchestrate an OS image which contains Docker and Kubernetes and runs that image in either virtual machines or bare metal in a cluster configuration.
+
+Vitrage is the OpenStack RCA (Root Cause Analysis) service for organizing, analyzing and expanding OpenStack alarms & events, yielding insights regarding the root cause of problems and deducing their existence before they are directly detected.
+
+This alarming service enables the ability to trigger actions based on defined rules against metric or event data collected by Ceilometer or Gnocchi.
+
+OpenStack does not strive for compatibility with other clouds' APIs. However, there is some amount of compatibility driven by various members of the OpenStack community for whom such things are important.
+
+OpenStack is governed by the OpenInfra foundation and its board of directors. The board of directors is made up of Platinum sponsors, members of the Gold sponsors and members elected by the Foundation individual members. The OpenStack Technical Committee is the governing body of the OpenStack open source project. It is an elected group that represents the contributors to the project, and has oversight on all technical matters. This includes developers, operators and end users of the software.
+
+An OpenStack Appliance is the name given to software that can support the OpenStack cloud computing platform on either physical devices such as servers or virtual machines or a combination of the two. Typically a software appliance is a set of software capabilities that can
+function without an operating system. Thus, they must contain enough of the essential underlying operating system components to work. Therefore, a strict definition might be: an application that is designed to offer OpenStack capability without the necessity of an underlying operating system. However, applying this strict definition may not be helpful, as there is not really a clear distinction between an appliance and a distribution . It could be argued that the term appliance is something of a misnomer because OpenStack itself is referred to as a cloud operating system so using the term OpenStack appliance could be a misnomer if one is being pedantic.
+
+If we look at the range of Appliances and Distributions one could make the distinction that distributions are those toolsets which attempt to provide a wide coverage of the OpenStack project scope, whereas an Appliance will have a more narrow focus, concentrating on fewer projects. Vendors have been heavily involved in OpenStack since its inception, and have since developed and are marketing a wide range of appliances, applications and distributions.
+
+A large number of vendors offer OpenStack solutions, meaning that an organization wishing to deploy the technology has a complex task in
+selecting the vendor offer that best matches its business requirements. Barb Darrow offered this overview in Fortune on 27 May 2015, pointing out that there may be some consolidation in the market that will clarify those decisions.
+
+There are other aspects that users need to consider, for example, the real costs involved. Some vendors will make an offer which encompasses most of the OpenStack projects; others will only offer certain components. Other considerations include the extent of proprietary code used to manage a lack of maturity in an OpenStack component, and to what extent that encourages vendor lock-in.
+
+The most authoritative information on vendor products is at the Open Infrastructure Foundation website.
+
+OpenStack is a complex entity, and adopters face a range of challenges when trying to implement OpenStack in an organisation. For many organisations trying to implement their own projects, a key issue is the lack of skills available. In an article on The New Stack , Atul Jha identifies five challenges any organization wishing to deploy OpenStack will face.
+
+OpenStack is a suite of projects rather than a single product, and because each of the various applications needs to be configured to
+suit the user's requirements, installation is complex and requires a range of complementary skill-sets for an optimum set-up. One obvious solution would be to take a complete vendor supplied package containing hardware and software, although due diligence is essential.
+
+This is more a function of the nature of documentation with open source products than OpenStack per se, but with more than 25 projects, managing document quality is always going to be challenging.
+
+One of the main objectives of using cloud type infrastructure is to offers users not only high reliability but also high availability, something that public cloud suppliers will offer in service-level agreements .
+
+Due to OpenStack's multi-project development approach, the complexity involved in synchronising the different projects during an upgrade may mean that downtime is unavoidable .
+
+It's quite common for a business to keep using an earlier release of software for some time after it has been upgraded. The reasons for this are pretty obvious and referred to above. However, there is little incentive for developers in an open source project to provide support for superseded code. In addition, OpenStack itself has formally discontinued support for some old releases.
+
+Given the above challenges the most appropriate route for an organization wishing to implement OpenStack would be to go with a vendor, and source an OpenStack appliance or distribution.
+
+As the OpenStack project has matured, vendors have pioneered multiple ways for customers to deploy OpenStack:

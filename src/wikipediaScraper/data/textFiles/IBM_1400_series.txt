@@ -1,0 +1,26 @@
+The IBM 1400 series are second-generation ( transistor ) mid-range business decimal computers that IBM marketed in the early 1960s. The computers were offered to replace tabulating machines like the IBM 407 . The 1400-series machines stored information in magnetic cores as variable-length character strings separated on the left by a special bit, called a "wordmark," and on the right by a "record mark." Arithmetic was performed digit-by-digit. Input and output support included punched card , magnetic tape , and high-speed line printers . Disk storage was also available.
+
+Many members of the series could be used as independent systems, as extensions to IBM punched-card equipment , or as auxiliary equipment to other computer systems.  Some, however, were intended for specific applications or were economical only as independent systems.
+
+The 1401 , announced on October 5, 1959, is the first member of the IBM 1400 series. It was the first computer to deploy over 10,000 units. The IBM 1410 has a similar design, but with a larger address space . The IBM 1460 is logically, but not physically, identical to a 1401 with all of the options, with 16,000 characters of memory, and twice as fast. The 1240 is a banking system, equivalent to the 1440 system with MICR support.  The IBM 7010 is logically, but not physically, identical to a 1410, and twice as fast.
+
+Members of the 1400 series include:
+
+Peripherals used with 1400 series machines included:
+
+IBM provided several models compatible (or nearly so) with the 1401.
+
+Honeywell's Honeywell 200 provided approximate 1401 compatibility through a combination of architectural similarity and software support.
+
+With the 1400 series, the smallest addressable unit in core-storage is called a character.
+The 1400 stores alphameric characters internally in binary-coded decimal (BCD) form, spanning six bits called BA8421. When the character is an operation code or is the first character in a field, another bit, called the "word mark", is included. An odd parity bit , called "C", is also included.
+
+Arithmetic is 10-based with the one's position at the high- and the most-significant decimal digit at the low-address end of a multi-digit field, thus of ″big-endian″ style. This pertains for both, the (possibly indexed) address calculation for the access of operands and for the various operands of the arithmetic instructions. Whereas an address field in an instruction, designating an operand, is of fixed length (which depends on the size of the storage), the numeric operands of arithmetic instructions may be of arbitrary (positive) length. The word mark approach allows the 1410 to access a field (depending on the instruction to be performed) at either end, so that the most efficient access can be chosen. This way, the compiler of a higher-level programming language has to take care of the initial increment of the operand address (by operand length minus 1) for example, for add, subtract, or multiply instructions.
+
+Programming languages for the 1400 series included Symbolic Programming System (SPS, an assembly language ), Autocoder (a more fully featured assembly language), COBOL , FORTRAN , Report Program Generator (RPG), and FARGO .
+
+The 1400 series was replaced by System/360 and, later, by low-end machines like the IBM System/3 , System/32 , System/34 , System/36 , System/38 , and AS/400 .
+
+The 1400s were officially withdrawn in the early 1970s, however some 1400-series peripherals were still marketed with third-generation systems.
+
+Two 1401 computers have been restored to full operational status at the Computer History Museum .

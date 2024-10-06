@@ -1,0 +1,14 @@
+In the fields of computing and computer vision , pose (or spatial pose ) represents the position and orientation of an object, usually in three dimensions . Poses are often stored internally as transformation matrices . The term “pose” is largely synonymous with the term “transform”, but a transform may often include scale , whereas pose does not.
+
+In computer vision, the pose of an object is often estimated from camera input by the process of pose estimation . This information can then be used, for example, to allow a robot to manipulate an object or to avoid moving into the object based on its perceived position and orientation in the environment. Other applications include skeletal action recognition.
+
+The specific task of determining the pose of an object in an image (or stereo images, image sequence) is referred to as pose estimation . Pose estimation problems can be solved in different ways depending on the image sensor configuration, and choice of methodology. Three classes of methodologies can be distinguished:
+
+Camera resectioning is the process of estimating the parameters of a pinhole camera model approximating the camera that produced a given photograph or video; it determines which incoming light ray is associated with each pixel on the resulting image. Basically, the process determines the pose of the pinhole camera.
+
+Usually, the camera parameters are represented in a 3 × 4 projection matrix called the camera matrix .
+The extrinsic parameters define the camera pose (position and orientation) while the intrinsic parameters specify the camera image format (focal length, pixel size, and image origin).
+
+This process is often called geometric camera calibration or simply camera calibration, although that term may also refer to photometric camera calibration or be restricted for the estimation of the intrinsic parameters only. Exterior orientation and interior orientation refer to the determination of only the extrinsic and intrinsic parameters, respectively.
+
+The classic camera calibration requires special objects in the scene, which is not required in camera auto-calibration .

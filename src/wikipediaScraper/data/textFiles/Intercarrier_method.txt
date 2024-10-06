@@ -1,0 +1,19 @@
+The intercarrier method is a system in television that reduces the cost of transmitters and receiver sets by processing audio and video signals together and minimizing the number of separate stages for audio and video signals.
+
+In television , unlike monophonic radio, at least two signals should be transmitted; audio (AF) and video (VF) signals.
+
+Transmitting those signals by means of separate transmitters and antenna systems is a very costly solution, because every stage must be used twice, one for AF and one for VF. Two separate transmitters, a high power combiner and a common antenna system, known as the split sound system , is also quite costly. But if the signals are combined at an earlier stage, the number of costly outer stages is reduced.
+
+The same logic also applies to receiver sets. If the modulated signal is separated just before the picture tube the number of separate stages for AF and VF is minimized.
+
+This common signal processing system is known as the intercarrier system.
+
+In TV transmitters, both AF and VF modulate intermediate frequency (IF) carriers. (The frequency difference between the two carriers is 4.5 MHz in System M and 5.5 MHz in System B/G ) Then the modulated IF signals are added either at the output of the vision modulator or at the output of the vestigial sideband stage. In both cases, the added signals are low level signals and no special combining circuitry is required.
+
+Frequency conversion and amplification is common. So a frequency converter (or a mixer) and a series of amplifiers for aural signal as well as an output combiner are spared, which reduce the cost of the transmitter and electricity consumption of the amplifiers considerably. Although a notch filter to suppress the intermodulation products  is used at the output of the intercarrier transmitter, the cost of the notch filter is not comparable to the cost of extra amplifiers and the output combiner. (See the subsection Intermodulation products below)
+
+In TV receivers, the received radio frequency signal is converted to IF in tuner and then demodulated. The output of the demodulator consists of  a VF and an aural signal which is in fact an FM subcarrier modulated by AF. (The subcarrier is 5.5 MHz in system B and 4.5 MHz in system M ) The aural signal and the VF are separated by a simple filter.  The only extra stage needed for AF  (other than the loudspeaker ) is an FM demodulator . The intercarrier receiver system makes for easier tuning of a TV station.  The viewer could fine tune such a set to get the best picture reception, and not lose sound reception. (Although AF VF signals are combined in the IF stages of the transmitters, they are separated in baseband stages of the receivers.)
+
+When VF and the aural signal  modulate the same carrier the  inevitable non-linearity of the electronic circuits cause unwanted signals which are called intermodulation products. The unwanted signals appear on RF spectrum at regular intervals, the interval being equal to the frequency difference of the visual and aural carriers.
+
+In TV broadcasting the intermodulation products of the aural subcarrier and the main carrier appear out of the RF band of the TV channel . However, out of band product means an unwanted transmission in the neighbour TV channels. For example, intermodulation products of channel 7 appear in channel 5,6, 8 and 9. That is why notch filters are used in intercarrier system.

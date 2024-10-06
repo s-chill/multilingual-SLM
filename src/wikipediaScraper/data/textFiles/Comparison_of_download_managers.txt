@@ -1,0 +1,1 @@
+This comparison contains download managers , and also file sharing applications that can be used as download managers (using the http, https and ftp-protocol). For pure file sharing applications see the Comparison of file sharing applications .

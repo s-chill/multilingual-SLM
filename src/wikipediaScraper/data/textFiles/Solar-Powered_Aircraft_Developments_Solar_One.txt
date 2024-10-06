@@ -1,0 +1,19 @@
+The Solar-Powered Aircraft Developments Solar One is a British mid-wing , experimental , crewed solar-powered aircraft that was designed by David Williams and produced by Solar-Powered Aircraft Developments under the direction of Freddie To. On 13 June 1979 it became one of the first solar-powered aircraft to fly, after the uncrewed AstroFlight Sunrise and the crewed Mauro Solar Riser , and the first successful British solar-powered aircraft.
+
+Freddie To was a member of the Kremer prize committee who started his own project to produce a human-powered aircraft to compete for the prize. Its structure comprised a wooden frame covered with heat-shrunk Solarfilm model aircraft film. The wing was built in three sections, a centre section and two outer wing panels to simplify storage and transport. The wing spar is a laminated spruce girder box-spar design. The tail surfaces are quickly removable for storage. The resulting aircraft, at 230 lb (104 kg), proved too heavy for human-powered flight and so To converted it to solar power.
+
+A nose-mounted pod powerplant was installed consisting of four 1 hp (1 kW) permanent magnet 36 V DC , 12 A Bosch electric motors, powered by a 65 lb (29 kg) Nickel-cadmium battery pack of 24 cells with a total capacity of 25 AH, connected in series to give a maximum (open-circuit) output voltage of approximately 29 V. The motors drive a 63 in (160 cm) two-bladed propeller via a 3:1 bicycle-chain reduction gear. The propeller turns at a maximum of 1,100 rpm, decreasing with battery discharge. Power is controlled with a simple on/off switch.
+
+To recharge the batteries, 750 solar cells of 3 inch diameter were installed at a cost of £6,000. At that time solar cells were very expensive. They were the most costly part of the aircraft and had to be limited in capacity to remain within the project budget of £ 16,000.
+
+The output from the solar cells is not sufficient to sustain flight. Before flight they are used to charge the batteries. The batteries then provide power for takeoff and initial climb. The installed batteries provide for a climb of eight minutes plus a two-minute cruise allowance.
+
+The first flight attempt took place at Lasham Airfield , Hampshire , United Kingdom on 19 December 1978. The propeller pitch was incorrectly set and the attempt achieved only a short hop. At the hands of pilot Ken Stewart, a successful flight took place on 13 June 1979, covering just under 0.75 mi (1.2 km). The aircraft lifted off at 18 to 20 kn (33 to 37 km/h) and reached 35 kn (65 km/h) and 80 ft (24 m) in height. A second flight on the same day by Bill Maidment achieved a speed of 42 kn (78 km/h). All flights were made on battery power that had been supplied on the ground from the installed solar cells.
+
+A planned flight across the English Channel was abandoned when it was found that the aircraft did not meet its endurance targets.
+
+Data from History of Solar Flight and Flight Global
+
+General characteristics
+
+Performance

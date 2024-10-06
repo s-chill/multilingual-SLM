@@ -1,0 +1,13 @@
+The Australian Information Security Association (AISA) is an Australian-based professional membership association, charity, not-for-profit and peak industry body that seeks to facilitate the development of a robust information security sector by building the capacity of professionals in Australia and advancing the cyber security and safety of the Australian public as well as businesses and governments in Australia.
+
+Established in 1999, AISA has a membership of over 11,500 individuals. AISA is an organisation for individuals rather than companies and aims to maintain an unbiased view of information security in Australia.
+
+AISA seeks to cater to all domains of the information security industry with a particular focus on sharing expertise from the field at meetings, focus groups and networking opportunities around Australia.
+
+AISA works towards a vision where people, businesses and governments are educated about the risks and dangers of cyber attacks and data theft, and to enable them to take all reasonable precautions to protect themselves.
+
+AISA has branches in all Australian states and territories, including Sydney , Melbourne , Canberra , Brisbane , Perth , Adelaide , Darwin and Hobart. AISA also hosts a 'cloud' branch that caters for individuals who are unable to attend in-person branch events. Meetings occur in each state every month and attract information security professionals, IT professionals, professionals from privacy, law and risk management, as well as enthusiasts and students from a wide cross-section of organisations.
+
+AISA hosts two major conferences annually, The Australian Cyber Conference. Conferences are hosted in Canberra and Melbourne every year. In addition, smaller conferences take place in Sydney, Perth, Brisbane and Adelaide.
+
+AISA works closely with international cyber security and auditing organisations such as (ISC)² , ISACA , and IAPP .

@@ -1,0 +1,9 @@
+In statistics , the Bingham distribution , named after Christopher Bingham , is an antipodally symmetric probability distribution on the n -sphere . It is a generalization of the Watson distribution and a special case of the Kent and Fisher–Bingham distributions.
+
+The Bingham distribution is widely used in paleomagnetic data analysis, and has been used in the field of computer vision .
+
+Its probability density function is given by
+
+which may also be written
+
+where x is an axis (i.e., a unit vector), M is an orthogonal orientation matrix, Z is a diagonal concentration matrix, and 1 F 1 ( ⋅ ; ⋅ , ⋅ ) {\displaystyle {}_{1}F_{1}(\cdot ;\cdot ,\cdot )} is a confluent hypergeometric function of matrix argument . The matrices M and Z are the result of diagonalizing the positive-definite covariance matrix of the Gaussian distribution that underlies the Bingham distribution.

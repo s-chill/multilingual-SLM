@@ -1,0 +1,13 @@
+basename is a standard computer program on Unix and Unix-like operating systems . When basename is given a pathname , it will delete any prefix up to the last slash ( '/' ) character and return the result. basename is described in the Single UNIX Specification and is primarily used in shell scripts .
+
+basename was introduced in X/Open Portability Guidelines issue 2 of 1987. It was inherited into the first version of POSIX and the Single Unix Specification . It first appeared in 4.4BSD.
+
+The version of basename bundled in GNU coreutils was written by David MacKenzie.
+
+The command is available as a separate package for Microsoft Windows as part of the GnuWin32 project and the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities.
+
+The Single UNIX Specification for basename is.
+
+basename will retrieve the last name from a pathname ignoring any trailing slashes
+
+basename can also be used to remove the end of the base name, but not the complete base name

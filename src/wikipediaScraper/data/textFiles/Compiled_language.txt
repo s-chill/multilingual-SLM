@@ -1,0 +1,11 @@
+A compiled language is a programming language for which source code is typically compiled ; not interpreted .
+
+The term is vague since, in principle, any language can be compiled or interpreted and in practice some languages are both (in different environments). In some environments, source code is first compiled (to an intermediate form; often bytecode ) and then interpreted.
+
+Programs compiled to native code tend run faster than if interpreted due to translation overhead. Environments with a bytcode intermediate form tend toward intermediate speed. Just-in-time compilation allows for native execution speed with a one-time startup processing time cost.
+
+Low-level programming languages , such as assembly and C , are typically compiled, especially when efficiency is the main concern, rather than cross-platform support. For such languages, there are more one-to-one correspondences between the source code and the resulting machine code , making it easier for programmers to control the use of hardware.
+
+It is possible to write compilers even for commonly interpreted languages . For example, Common Lisp can be compiled to Java bytecode (then interpreted by the Java virtual machine ), C code (then compiled to native machine code), or directly to native code.
+
+Environments that support multiple compilation output languages provide developers control to choose either execution speed or cross-platform compatibility.

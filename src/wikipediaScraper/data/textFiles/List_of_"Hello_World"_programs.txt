@@ -1,0 +1,512 @@
+The following is a list of Hello, world! programs.
+
+Hello, world! programs make the text "Hello, world!" appear on a computer screen. It is usually the first program encountered when learning a programming language. Otherwise, it's a basic sanity check for an installation of a new programming language. If "Hello World" does not run, one must not try to develop complex programs before fixing the issues with the installation.
+
+For even more languages have a look at the Hello World Collection .
+
+It should be noted that the 4DOS/4NT batch language is a superset of the MS-DOS batch language.
+
+The example below makes use of the singleton pattern and outputs the text in a message box instead of a classic list output.
+
+This will output to the output window only, which an end user would not see.
+
+This version will be visible to the end user.
+
+The ALGOL 68 standard requires that reserved-words , types and operators are in a different typeface.
+Hence programs are typically published in either bold or an underline typeface, e.g.:
+
+In the popular upper-case stropping convention for bold words:
+
+or using a wikitext like quote stropping, this is especially suitable on computers with only 6 bits per character (hence only have UPPERCASE):
+
+or minimally using the "brief symbol" form of begin and end .
+
+This program sends the message out via the Diagnostics Interface after start-up.
+
+When the function is executed by typing its name the APL interpreter assigns the text vector to the variable R, but since we have not used this value in another function, primitive, or assignment statement the interpreter returns it to the terminal, thus displaying the words on the next line below the function invocation.
+
+The session would look like this
+
+While not a program, if you simply supplied the text vector to the interpreter but did not assign it to a variable it would return it to the terminal as output.  Note that user input is automatically indented 6 spaces by the interpreter while results are displayed at the beginning of a new line.
+
+or:
+
+or
+
+or
+
+See the example program in the Wikipedia PDP-8 article .
+
+See the example section of the Nova article.
+
+Example of making 32-bit PE program as raw code and data:
+
+Using FASM import macro, unicode (MessageBoxW is one of few unicode functions 'supported' by Windows 9x/ME) and section sharing, no relocation (not required for 32-bit Windows NT executables, recommended for DOS-based Windows, required for x64), no heap - Not a beginners example but only 1024 instead of 3072 bytes:
+
+or the even smaller version (from qUE);
+
+(The comma after the command name is optional.)
+
+This is the first known Hello, world! program ever written: [1]
+
+Also known as Triton Tools on older versions.  On Baan ERP you can create a program on 3GL or 4GL mode.
+
+On this last case you should press the Continue button to show the message.
+
+or
+
+or using the C preprocessor
+
+The following example works for any ANSI/ISO-compliant BASIC implementation, as well as most implementations built into or distributed with microcomputers in the 1970s and 1980s (usually some variant of Microsoft BASIC):
+
+Note that the "END" statement is optional in many implementations of BASIC.
+
+Some implementations could also execute instructions in an immediate mode when line numbers are omitted.  The following examples work without requiring a RUN instruction.
+
+Later implementations of BASIC allowed greater support for structured programming and did not require line numbers for source code.  The following example works when RUN for the vast majority of modern BASICs.
+
+Again, the "END" statement is optional in many BASICs.
+
+or
+
+Note: In the "classic" Dark Basic the WAIT KEY command is optional as the console goes up when the program has finished.
+
+or
+
+or
+
+or
+
+To write to the main window:
+
+Or drawn in a graphics window:
+
+or, the typical microcontroller Hello, world! program equivalent with the only output device present being a light-emitting diode (LED) (in this case attached to the seventh output pin):
+
+or
+
+or
+
+Same for QBasic
+
+On TI calculators of the TI-80 through TI-86 range:
+
+Note: "!" character is not on the keypad.  It can be accessed from "Catalog" menu, "Probability" menu, or "Math" menu (as factorial notation).
+
+On TI-89/TI-89 Titanium/TI-92(+)/Voyage 200 calculators:
+
+or
+
+or
+
+Alternatively, copy this into a New Form:
+
+In addition to the ANSI syntax at the head of this article, most Pick operating system flavors of Dartmouth BASIC support extended syntax allowing cursor placement and other terminfo type functions for VDT's
+
+X, Y positioning (colon ":" is the concatenation instruction):
+
+Will display the string "Hello, world!" roughly centered in a 80X24 CRT.
+
+Other functions:
+
+Will clear the screen before displaying the string "Hello, world!" roughly centered in a 80X24 CRT.
+
+Syntax variants:
+
+Supporting the "@" functions above, the CRT statement ignores previous PRINTER statements and always sends output to the screen.
+
+Some Pick operating system environments such as OpenQM support the DISPLAY variant of PRINT. This variant in addition to the "@" functions maintains pagination based upon the settings of the TERM variable:
+
+or
+
+or
+
+or
+
+or, with the newline
+
+See also GUI section .
+
+This program will work on the Avasmath 80 online programmable calculator.
+
+This program will work on the fx-9750 graphing calculator and compatibles.
+
+or
+
+The above C code can run in Ch as examples. The simple one in Ch is:
+
+or
+
+or
+
+The above is a very abbreviated and condensed version, which omits the author name and source and destination computer types.
+
+CoffeeScript is a language that compiles into JavaScript. Like JavaScript, it does not have native (built in) input or output routines, instead relying on the facilities provided by its host environment.
+
+Using an alert that uses a standard Web browser's window object (window.alert)
+
+or, from Firebug , Apple Safari , or Google Chrome debug console, or Node.js console
+
+or
+
+The '|' represents the separation of the two text fields in the Cube standard IDE.
+
+See also GUI section .
+
+Tango version:
+
+Or,
+
+or
+
+In the second example, DC stores the decimal number as a sequence of bits, and then the "P" tells DC to interpret those bits as a string and print it.
+
+This would be a pure system call
+
+See also GUI section .
+
+or gui version
+
+or
+
+or instead of compiling a new routine, one can type directly in the Forth interpreter console
+
+or
+
+See also GUI section .
+
+In the draw event of some object:
+
+Or to show a splash screen message:
+
+or
+
+or
+
+(Handheld Hewlett-Packard RPN-based scientific calculator.)
+
+(Handheld Hewlett-Packard RPN-based alphanumeric engineering calculators.)
+
+or
+
+or
+
+See also GUI section .
+
+(disassembler output of javap -c HelloWorld )
+
+JavaFX Script was a scripting language formerly called F3 for Form Follows Function. It was discontinued by Oracle in 2010.
+
+This program can also be written in this way:
+
+A simple console output version would be:
+
+Or even simpler (with a built-in function):
+
+JavaScript does not have native (built in) input or output routines. Instead it relies on the facilities provided by its host environment.
+
+Using a standard Web browser's document object
+
+or with an alert, using a standard Web browser's window object (window.alert)
+
+or, from the Mozilla command line implementation
+
+or, from the Windows Script Host
+
+or, from Firebug , Apple Safari , or Google Chrome debug console
+
+or just
+
+or literally
+
+or
+
+or simply
+
+or
+
+Linden Scripting Language is the scripting language used within Second Life
+
+Lisp has many dialects that have appeared over its almost fifty-year history.
+
+or
+
+or in the REPL:
+
+(As a string (enclosed in quotes) it evaluates to itself, so is printed.)
+
+or:
+
+or
+
+In MSWLogo only
+
+or
+
+or
+
+or simply:
+
+or
+
+or with a GUI
+
+or
+
+This requires that you be the player or a wizard:
+
+This is specific to the implementation of the core used for the moo, but works on most well known moos, such as LambdaCore or JH-Core:
+
+(with the standard command.com interpreter. The @ symbol is optional and prevents the system from repeating the command before executing it. The @ symbol must be omitted on versions of MS-DOS prior to 3.0.). It's very common for batchfiles to start with two lines of "@echo off" and "cls".
+
+For MS-DOS 3.0 or lower
+
+or
+
+The easiest way to get Nemerle print "Hello, world!" would be that:
+
+however, in bigger applications the following code would be probably more useful:
+
+or
+
+Oberon is both the name of a programming language and an operating system.
+
+Program written for the Oberon operating system:
+
+Freestanding Oberon program using the standard Oakwood library:
+
+Message to the user in the form:
+
+Entry into the log:
+
+or without using course.lib
+
+See also GUI section .
+
+or
+
+(the semicolon is optional)
+
+or
+
+PHP is a templating language and will echo any text not within PHP tags directly, so the simplest form is:
+
+Using actual PHP statements, it can be written:
+
+or use short-hand echoing, syntaxed as such:
+
+this will also work:
+
+See also page description language section .
+
+or
+
+or
+
+or
+
+or
+
+This also works on Python 2.4 or later, but in an unintuitive way. In Python 3, it calls the print function with the string "Hello, world!" . In Python 2, it executes the print statement with the expression ("Hello, world!") , which evaluates to the string "Hello, world!" .
+
+In Python 2.6 or later:
+
+'Hello, world!' (with quotation marks) can be attained through:
+
+As Python's Flask web microframework
+
+or
+
+or
+
+See also GUI section .
+
+See also GUI section .
+
+(This works the same for Transcript or xTalk)
+
+With this syntax, a constant has to be used because the message must be placed in positions 12 to 25, between apostrophes.
+
+Using the internal message window, a simple Hello, world! program can be rendered thus:
+
+An additional way to render text is by using the built in text() function.
+
+See also GUI section .
+
+(On Hewlett-Packard HP-28, HP-48 and HP-49 series graphing calculators.)
+
+See also GUI section .
+
+or
+
+or
+
+or
+
+App was introduced since Scala 2.1, and Application was deprecated since Scala 2.9.0. Use Application instead of App for versions below 2.1.
+
+(Note: requires at least one line of input)
+
+alternative:
+
+Spin is the high level language from Parallax Inc. used to program their Propeller multi-core micro-controllers.
+
+The program assumes that the software UART object, provided with the Propeller IDE, is used to deliver the message over a serial line.
+
+or (for EnterpriseDB's Stored Procedure Language (SPL))
+
+or (e.g. Oracle dialect)
+
+or (for Oracle's PL/SQL proprietary procedural language)
+
+or (e.g. MySQL or PostgreSQL dialect)
+
+or (for PostgreSQL's PL/pgSQL Procedural language)
+
+or (e.g. T-SQL dialect)
+
+or (for KB-SQL dialect)
+
+Define program in script (.do-file) or at command line:
+
+Or, interactively at the command line:
+
+or, for interactive prompt,
+
+See also GUI section .
+
+Or the English version:
+
+or, simpler variations:
+
+or using an inline 'here document'
+
+or
+
+or for a curses interface:
+
+or (a little more complicated)
+
+OR as a VBscript file
+
+XC is a C like language from XMOS Ltd offering features supporting Communicating Sequential Processes on their multi-threaded, multi-core processors.
+This example shows some of those features.
+
+or
+
+Note: The semicolon is optional.
+
+Programming language with commands in Polish. Webpage
+
+Functional equivalent of C# program below.
+
+Simply, using Message Box:
+
+Or:
+
+The simplest way to achieve this is with the built in message function that is similar to the windows messageBox().
+
+A more real world example uses a Clarion structure to declare a window and the Clarion Accept loop to process events from that window.
+
+or
+
+One way of invoking this would be to enter hello_world:hello(). in the Erlang shell; another would be to run from a command line:
+
+MS-Windows only - basic.
+
+MS-Windows only - using Win32Lib library
+
+Using WindowsForms, at the F# interactive prompt:
+
+This creates a window labeled "Hello, world!" with a button labeled "Hello, world!".
+
+This creates a message box saying "Hello, world!".
+
+Uses lablgtk
+
+(On Psion Series 3 and later compatible PDAs.)
+
+or
+
+Patch as ASCII-art:
+
+Patch as sourcecode:
+
+Using PyQt:
+
+Kivy multi-platform framework
+
+or
+
+or
+
+(On Hewlett-Packard HP-48G and HP-49G series calculators.)
+
+Evaluate in a workspace:
+
+Using the Morphic GUI toolkit of Squeak Smalltalk:
+
+Using wxSqueak:
+
+and the same in one line
+
+or
+
+Note that the previous example will only work when the code is entered as part of a Form Load Event, such as the one created by default when generating a new project in the Visual Studio programming environment. Equivalently, the following code is roughly equivalent to the traditional Visual Basic 6 code by disabling the Application Framework and setting 'Sub Main' as the entry point for the application:
+
+or using a class;
+
+This uses the Windows API to create a full window containing the text.
+
+In the Open event handler of the default window:
+
+The following sequence of characters, expressed in hexadecimal notation (with carriage return and newline characters at end of sequence):
+
+The following sequence of characters, expressed as binary numbers (with cr/nl as above, and the same ordering of bytes):
+
+(Using UTF-8 character set.)
+
+The <html> and <body> tags are not necessary for informal testing.
+Simply write it as text without tags.
+
+The first paragraph of the W3C Recommendation on The global structure of an HTML document also features this example.
+
+This is the smallest legal version, leaving out all optional tags
+
+This is a valid PDF only if the text file has CRLF line endings.
+
+(Creates a video with default properties)
+
+Outputs the string to the message window if placed in a single movie frame. Alternatively, to display an alert box stating the message you could use
+
+This page shows the Hello, world! program in esoteric programming languages — that is, working programming languages that were designed as experiments or jokes and were not intended for serious use.
+
+As documented at http://www.ioccc.org/2012/tromp/hint.html (any of the 16 ASCII characters from ' ' to '/' can be used at the start)
+
+From Eric Raymond's interpreter package (changed to use upper case as in the book).
+
+Hello, world! Souffle by David Morgan-Mar.
+
+Later Mike Worth wrote tastier and actually functional recipe .
+
+The newline before the terminating quote mark is necessary.
+
+Not really an esoteric language, but this code uses obfuscation :
+
+Piet programming language uses only colors.
+
+Modular SNUSP:
+
+Note: actually prints "What do you want, universe?" in Klingon.
+
+Note that whitespace has been highlighted ( Space , Tab )
+
+A code language that draws in binary on a braille plotter.
+
+The OO language looks like C.
+
+Copy this and paste in ChatGPT, on a new chat:
+
+A longer version, which still prints "Hello, world!":
+
+Note: The first method is tested and it's working. I don't know about the second one!

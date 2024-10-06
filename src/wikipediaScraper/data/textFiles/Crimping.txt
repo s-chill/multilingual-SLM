@@ -1,0 +1,55 @@
+Crimping is a method of joining two or more pieces of metal or other ductile material by deforming one or both of them to hold the other. The bend or deformity is called the crimp . Crimping tools are used to create crimps.
+
+Crimping is used extensively in metalworking , including to contain bullets in cartridge cases , for electrical connections , and for securing lids on metal food cans . Because it can be a cold-working technique, crimping can also be used to form a strong bond between the workpiece and a non-metallic component. It is also used to connect two pieces of food dough .
+
+A crimping tool or crimp tool is used to created crimps.Crimping tools range in size from small handheld devices, to benchtop machines used for industrial purposes, to large fully-automatic wire processing machines for high-volume production.
+
+For electrical crimps, a wide variety of crimping tools exist, and they are generally designed for a specific type and size of terminal. Handheld tools (sometimes called crimping pliers ) are common. These often use a ratcheting mechanism to ensure sufficient crimping force has been applied. Apart from handheld tools, crimping tools can also include sophisticated electrically powered hydraulic types and  battery operated tools that cover the entire size range and type of conductors, designed for mass production operations.
+
+An electrical crimp is a type of solderless electrical connection which uses physical pressure to join the contacts. Crimp connectors are typically used to terminate stranded wire. Stripped wire is inserted through the correctly sized opening of the connector, and a crimper is used to tightly squeeze the opening against the wire. Depending on the type of connector used, it may be attached to a metal plate by a separate screw or bolt or it could be simply screwed on using the connector itself to make the attachment like an F connector .
+
+The benefits of crimping over soldering and wire wrapping include:
+
+Crimping is normally performed by first inserting the terminal into the crimp tool . The terminal must be placed into the appropriately sized crimp barrel. The wire is then inserted into the terminal with the end of the wire flush with the exit of the terminal to maximize cross-sectional contact. Finally, the handles of the crimp tool are used to compress and reshape the terminal until it is cold-welded onto the wire.
+
+The resulting connection may appear loose at the edges of the terminal, but this is desirable so as to not have sharp edges that could cut the outer strands of the wire. If executed properly, the middle of the crimp will be swaged or cold-formed.
+
+More specialized crimp connectors are also used, for example as signal connectors on coaxial cables in applications at high radio frequencies ( VHF , UHF ) ( see below ). These often require specialised crimping tools to form the proper crimp.
+
+Crimped contacts are permanent (i.e. the connectors and wire ends cannot be reused).
+
+Crimp-on connectors are attached by inserting the stripped end of a stranded wire into a portion of the connector, which is then mechanically deformed by compressing ( crimping ) it tightly around the wire. The crimping is usually accomplished with special crimping tool such as crimping pliers . A key idea behind crimped connectors is that the finished connection should be gas-tight .
+
+Effective crimp connections deform the metal of the connector past its yield point so that the compressed wire causes tension in the surrounding connector, and these forces counter each other to create a high degree of static friction which holds the cable in place. Due to the elastic nature of the metal in crimped connections, they are highly resistant to vibration and thermal shock .
+
+Two main classes of wire crimps exist:
+
+In addition to their shape, crimped connectors can also be characterized by their insulation (insulated or non-insulated), and whether they crimp onto the conductor(s) of a wire ( wire crimp ) or its insulation ( insulation crimp ).
+
+Crimped connections are common alternatives to soldered connections. There are complex considerations for determining which method is appropriate – crimp connections are sometimes preferred for these reasons:
+
+Crimped connectors fulfill numerous uses, including termination of wires to screw terminals , blade terminals , ring/spade terminals , wire splices , or various combinations of these. A tube-shaped connector with two crimps for splicing wires in-line is called a butt splice connector.
+
+Single-wire crimp terminals include:
+
+Crimping is also a common technique to join wires to a multipin connector, such as in Molex connectors or modular connectors .
+
+Circular connectors using crimp contacts can be classified as rear release or front release , referring to the side of the connector where the pins are anchored:
+
+Crimp connections are used typically to attach RF connectors, such as BNC connectors , to coaxial cables quickly, as an alternative to soldered connections. Typically the male connector is crimp-fitted to a cable, and the female attached, often using soldered connections, to a panel on equipment. A special power or manual tool is used to fit the connector. Wire strippers which strip outer jacket, shield braid, and inner insulation to the correct lengths in one operation are used to prepare the cable for crimping.
+
+A crimped connection will only be reliable if a number of criteria are met:
+
+Micrographs of the crimped connections can be prepared to illustrate good and bad crimps for training and quality assurance purposes.  The assembled connection is cut in cross-section, polished and  washed in nitric acid to dissolve any copper dust that may be filling voids leading to a false indication of a good crimp.
+
+Crimping is most extensively used in metalworking . Crimping is commonly used to fix bullets in their cartridge cases , for rapid but lasting electrical connections , for securing lids on metal food cans , and for many other applications.
+
+In jewelry manufacture, crimp beads , or crimp tubes , are used to make secure joints in fine wire, such as used in clasps or tie loops. A crimped lead (or other soft metal) seal is attached to secure wires used to secure fasteners in aircraft, or to provide visual evidence of tampering when securing a utility meter or as a seal on cargo containers.
+
+In plumbing , there is a trend in some jurisdictions towards the use of crimped fittings to join metallic pipes, replacing the traditional soldering or "sweating" of joints. This trend is driven in part by increased restrictions or bans of processes involving open flames, which may now require costly special permits.
+
+When joining segments of tubular sheet metal pipe, such as for smoke pipes for wood stoves, downspouts for rain gutters, or for installation of ventilation ducting, one end of a tube is treated with a crimping tool to make a slip joint into the next section of duct. The joint will not be liquid-tight but will be adequate for conveying low pressure fluids. Crimp joints may be arranged to prevent accumulation of dirt.
+
+Crimping is often used around the edges of pies and filled pasta like ravioli to seal the insides by connecting the top and bottom dough layers. This can be done with fingers, a fork, or a crimping tool. A jagging iron, also known as a crimping wheel, or jagger, consists of a handle and a wheel with a wavy pattern. There are also crimping tongs.
+
+The technique of soldering wires has remained common for at least a century, however crimp terminals came into use in the middle of the 20th century. In 1953, AMP Incorporated (now TE Connectivity ) introduced crimp barrel terminals , and in 1957 Cannon Brothers experimented with machined contacts integrating crimp barrels. During the 1960s, several standards for crimp connectors were published, including MS3191-1, MS3191-4 and MIL-T-22520. In 2010, the predominant standard for crimp connectors changed to MIL-DTL-22520.

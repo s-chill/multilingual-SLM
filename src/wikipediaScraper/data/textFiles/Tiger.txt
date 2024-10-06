@@ -1,0 +1,25 @@
+In cryptography , Tiger is a cryptographic hash function designed by Ross Anderson and Eli Biham in 1995 for efficiency on 64-bit platforms. The size of a Tiger hash value is 192 bits. Truncated versions (known as Tiger/128 and Tiger/160) can be used for compatibility with protocols assuming a particular hash size. Unlike the SHA-2 family, no distinguishing initialization values are defined; they are simply prefixes of the full Tiger/192 hash value.
+
+Tiger2 is a variant where the message is padded by first appending a byte with the hexadecimal value of 0x80 as in MD4 , MD5 and SHA , rather than with the hexadecimal value of 0x01 as in the case of Tiger. The two variants are otherwise identical.
+
+Tiger is based on Merkle–Damgård construction . The one-way compression function operates on 64-bit words, maintaining 3 words of state and processing 8 words of data. There are 24 rounds, using a combination of operation mixing with XOR and addition/subtraction, rotates, and S-box lookups, and a fairly intricate key scheduling algorithm for deriving 24 round keys from the 8 input words.
+
+Although fast in software, Tiger's large S-boxes (four S-boxes, each with 256 64-bit entries totaling 8 KiB ) make implementations in hardware or microcontrollers difficult.
+
+Tiger is frequently used in Merkle hash tree form, where it is referred to as TTH ( Tiger Tree Hash ). TTH is used by many clients on the Direct Connect and Gnutella file sharing networks, and can optionally be included in the BitTorrent metafile for better content availability.
+
+Tiger was considered for inclusion in the OpenPGP standard, but was abandoned in favor of RIPEMD -160.
+
+RFC 2440 refers to TIGER as having no OID , whereas the GNU Coding Standards list TIGER as having OID 1.3.6.1.4.1.11591.12.2 . In the IPSEC subtree, HMAC-TIGER is assigned OID 1.3.6.1.5.5.8.1.3 . No OID for TTH has been announced yet.
+
+The specification of Tiger does not define the way its output should be printed but only defines the result to be three ordered 64-bit integers. The "testtiger" program at the author's homepage was intended to allow easy testing of the test source code, rather than to define any particular print order. The protocols Direct Connect and ADC as well as the program tthsum use little-endian byte order, which is also preferred by one of the authors.
+
+In the example below, the 192-bit (24-byte) Tiger hashes are represented as 48 hexadecimal digits in little-endian byte order. The following demonstrates a 43-byte ASCII input and the corresponding Tiger hashes:
+
+Even a small change in the message will (with very high probability) result in a completely different hash, e.g. changing d to c :
+
+The hash of the zero-length string is:
+
+Unlike MD5 or SHA-0/1, there are no known effective attacks on the full 24-round Tiger except for pseudo-near collision. While MD5 processes its state with 64 simple 32-bit operations per 512-bit block and SHA-1 with 80, Tiger updates its state with a total of 144 such operations per 512-bit block, additionally strengthened by large S-box look-ups.
+
+John Kelsey and Stefan Lucks have found a collision-finding attack on 16-round Tiger with a time complexity equivalent to about 2 compression function invocations and another attack that finds pseudo-near collisions in 20-round Tiger with work less than that of 2 compression function invocations. Florian Mendel et al. have improved upon these attacks by describing a collision attack spanning 19 rounds of Tiger, and a 22-round pseudo-near-collision attack. These attacks require a work effort equivalent to about 2 and 2 evaluations of the Tiger compression function, respectively.

@@ -1,0 +1,11 @@
+A beam axle , rigid axle , or solid axle is a dependent suspension design in which a set of wheels is connected laterally by a single beam or shaft. Beam axles were once commonly used at the rear wheels of a vehicle, but historically, they have also been used as front axles in four-wheel-drive vehicles. In most automobiles, beam axles have been replaced with front (IFS) and rear independent suspensions (IRS).
+
+With a beam axle, the camber angle between the wheels is the same regardless of its location in the travel of the suspension.
+
+A beam axle's location in the fore and aft directions is constrained by one of several suspension components, including trailing arms , semi-trailing arms, radius rods, and leaf springs . The lateral location can be constrained by a Panhard rod , a Scott Russell linkage , a Watt's linkage , or some other arrangement, most commonly by the leaf springs. Shock absorbers and either leaf springs, coil springs , or air bags are used to control vertical movement.
+
+A live axle is a type of beam axle in which the shaft (or, commonly, shafts connected to move as a single unit) also transmits power to the wheels; a beam axle that does not also transmit power is sometimes called a dead axle . While typically used in vehicles with Hotchkiss drive , this suspension system can also be used with other types of power transmission.
+
+An axle truss is typically a six-millimeter thick steel plate bent into a "Π"-shaped beam and welded with the open side facing the top of the differential or axle housing. It reinforces a solid axle so that it does not bend or break when the axle's load rating is exceeded. A larger/thicker axle is stronger, but also comes with increased cost, unsprung weight, and more compatibility issues (drivetrain, suspension, steering geometries, body mount locations, clearances) on smaller vehicles.
+
+eAxle or E-axle is a solid axle with electric motors attached to the differential, either end, or elsewhere. Inverters, power electronics , gearboxes, transfer cases (including low-range gearing), and transmissions may also be attached to the motors and/or axle. All components move with the axle as unsprung weight.

@@ -1,0 +1,21 @@
+A liquid rocket booster ( LRB ) uses liquid fuel and oxidizer to give a liquid-propellant or hybrid rocket an extra boost at take-off, and/or increase the total payload that can be carried. It is attached to the side of a rocket. Unlike solid rocket boosters , LRBs can be throttled down if the engines are designed to allow it, and can be shut down safely in an emergency for additional escape options in human spaceflight .
+
+By 1926, US scientist Robert Goddard had constructed and successfully tested the first rocket using liquid fuel at Auburn, Massachusetts .
+
+For the Cold War era R-7 Semyorka missile, which later evolved into the Soyuz rocket , this concept was chosen because it allowed all of its many rocket engines to be ignited and checked for function while on the launch pad .
+
+The Soviet Energia rocket of the 1980s used four Zenit liquid fueled boosters to loft both the Buran and the experimental Polyus space battlestation in two separate launches.
+
+Two versions of the Japanese H-IIA space rocket would have used one or two LRBs to be able to carry extra cargo to higher geostationary orbits, but it was replaced by the H-IIB .
+
+The Ariane 4 space launch vehicle could use two or four LRBs, the 42L, 44L, and 44LP configurations.  As an example of the payload increase that boosters provide, the basic Ariane 40 model without boosters could launch around 2,175 kilograms into Geostationary transfer orbit , while the 44L configuration could launch 4,790 kg to the same orbit with four liquid boosters added.
+
+Various LRBs were considered early in the Space Shuttle development program and after the Challenger accident , but the Shuttle continued flying its Space Shuttle Solid Rocket Booster until retirement.
+
+After the Space Shuttle retired, Pratt & Whitney Rocketdyne and Dynetics entered the "advanced booster competition" for NASA's next human rated vehicle, the Space Launch System (SLS), with a booster design known as " Pyrios ", which would use two more advanced F-1B booster engines derived from the Rocketdyne F-1 LOX/RP-1 engine that powered the first stage of the Saturn V vehicle in the Apollo program . In 2012, it was determined that if the dual-engined Pyrios booster was selected for the SLS Block 2, the payload could be 150 metric tons (t) to Low Earth Orbit, 20 t more than the congressional minimum requirement of 130 t to LEO for SLS Block 2. In 2013, it was reported that in comparison to the F-1 engine, the F-1B engine was to have improved efficiency, be more cost effective and have fewer engine parts. Each F-1B was to produce 1,800,000 lbf (8.0 MN) of thrust at sea level, an increase over the 1,550,000 lbf (6.9 MN) of thrust of the initial F-1 engine.
+
+Many Chinese launch vehicles have been using liquid boosters. These include China's man-rated Long March 2F which uses four liquid rocket boosters each powered by a single YF-20B hypergolic rocket engine. The retired Long March 2E variant also used similar four liquid boosters. as did Long March 3B and Long March 3C variants. China developed semi-cryogenic boosters for the Long March 7 and Long March 5 , its newest series of launch vehicles as of 2017 .
+
+The Delta IV Heavy consists of a central Common Booster Core (CBC), with two additional CBCs as LRBs instead of the GEM-60 solid rocket motors used by the Delta IV Medium+ versions. At lift off, all three cores operate at full thrust, and 44 seconds later the center core throttles down to 55% to conserve fuel until booster separation. The Angara A5V and Falcon Heavy are conceptually similar to Delta IV Heavy.
+
+The Falcon Heavy was originally designed with a unique "propellant crossfeed" capability, whereby the center core engines would be supplied with fuel and oxidizer from the two side cores until their separation . Operating all engines at full thrust from launch, with fuel supplied mainly from the side boosters, would deplete the side boosters sooner, allowing their earlier separation to reduce the mass being accelerated. This would leave most of the center core propellant available after booster separation. Musk stated in 2016 that crossfeed would not be implemented. Instead, the center booster throttles down shortly after liftoff to conserve fuel, and resumes full thrust after the side boosters have separated.

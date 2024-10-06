@@ -1,0 +1,77 @@
+In computer programming , machine code is computer code consisting of machine language instructions , which are used to control a computer's central processing unit (CPU). For conventional binary computers machine code is "the binary representation of a computer program which is actually read and interpreted by the computer. A program in machine code consists of a sequence of machine instructions (possibly interspersed with data)."
+
+Each machine code instruction causes the CPU to perform a very specific task. Examples of tasks include:
+
+In general, each architecture family (e.g., x86 , ARM ) has its own instruction set architecture (ISA), and hence its own specific machine code language. There are exceptions, such as the VAX architecture, which includes optional support of the PDP-11 instruction set; the IA-64 architecture, which includes optional support of the IA-32 instruction set; and the PowerPC 615 microprocessor, which can natively process both PowerPC and x86 instruction sets.
+
+Machine code is a strictly numerical language, and it is the lowest-level interface to the CPU intended for a programmer. Assembly language provides a direct map between the numerical machine code and a human-readable mnemonic. In assembly, numerical opcodes and operands are replaced with mnemonics and labels. For example, the x86 architecture has available the 0x90 opcode; it is represented as NOP in the assembly source code . While it is possible to write programs directly in machine code, managing individual bits and calculating numerical addresses is tedious and error-prone. Therefore, programs are rarely written directly in machine code. However, an existing machine code program may be edited if the assembly source code is not available.
+
+The majority of programs today are written in a high-level language . A high-level program may be translated into machine code by a compiler .
+
+Every processor or processor family has its own instruction set . Instructions are patterns of bits , digits, or characters that correspond to machine commands. Thus, the instruction set is specific to a class of processors using (mostly) the same architecture . Successor or derivative processor designs often include instructions of a predecessor and may add new additional instructions. Occasionally, a successor design will discontinue or alter the meaning of some instruction code (typically because it is needed for new purposes), affecting code compatibility to some extent; even compatible processors may show slightly different behavior for some instructions, but this is rarely a problem. Systems may also differ in other details, such as memory arrangement, operating systems, or peripheral devices . Because a program normally relies on such factors, different systems will typically not run the same machine code, even when the same type of processor is used.
+
+A processor's instruction set may have fixed-length or variable-length instructions. How the patterns are organized varies with the particular architecture and type of instruction. Most instructions have one or more opcode fields that specify the basic instruction type (such as arithmetic, logical, jump , etc.), the operation (such as add or compare), and other fields that may give the type of the operand (s), the addressing mode (s), the addressing offset(s) or index, or the operand value itself (such constant operands contained in an instruction are called immediate ).
+
+Not all machines or individual instructions have explicit operands. On a machine with a single accumulator , the accumulator is implicitly both the left operand and result of most arithmetic instructions. Some other architectures, such as the x86 architecture, have accumulator versions of common instructions, with the accumulator regarded as one of the general registers by longer instructions. A stack machine has most or all of its operands on an implicit stack. Special purpose instructions also often lack explicit operands; for example, CPUID in the x86 architecture writes values into four implicit destination registers. This distinction between explicit and implicit operands is important in code generators, especially in the register allocation and live range tracking parts. A good code optimizer can track implicit and explicit operands which may allow more frequent constant propagation , constant folding of registers (a register assigned the result of a constant expression freed up by replacing it by that constant) and other code enhancements.
+
+A much more human-friendly rendition of machine language, named assembly language , uses mnemonic codes to refer to machine code instructions, rather than using the instructions' numeric values directly, and uses symbolic names to refer to storage locations and sometimes registers . For example, on the Zilog Z80 processor, the machine code 00000101 , which causes the CPU to decrement the B general-purpose register , would be represented in assembly language as DEC B .
+
+The IBM 704, 709, 704x and 709x store one instruction in each instruction word; IBM numbers the bit from the left as S, 1, ..., 35. Most instructions have one of two formats:
+
+For all but the IBM 7094 and 7094 II, there are three index registers designated A, B and C; indexing with multiple 1 bits in the tag subtracts the logical or of the selected index registers and loading with multiple 1 bits in the tag loads all of the selected index registers. The 7094 and 7094 II have seven index registers, but after powering on the are in multiple tag mode and require a Leave Multiple Tag Mode ( LMTM ) instruction in order to access the other four index registers.
+
+The effective address is normally Y-C(T), where C(T) is either 0 for a tag of 0, the logical or of the selected index regisrs in multiple tag mode or the selected index register if not in multiple tag mode. However, the effective address for index register control instructions is just Y.
+
+A flag with both bits 1 selects indirect addressing; the indirect address word has both a tag and a Y field.
+
+In addition to transfer (branch) instructions, these machines have skip instruction that conditionally skip one or two words, e.g., Compare Accumulator with Storage (CAS) does a three way compare and conditionally skips to NSI, NSI+1 or NSI+2, depending on the result.
+
+The MIPS architecture provides a specific example for a machine code whose instructions are always 32 bits long. The general type of instruction is given by the op (operation) field, the highest 6 bits. J-type (jump) and I-type (immediate) instructions are fully specified by op . R-type (register) instructions include an additional field funct to determine the exact operation. The fields used in these types are:
+
+rs , rt , and rd indicate register operands; shamt gives a shift amount; and the address or immediate fields contain an operand directly.
+
+For example, adding the registers 1 and 2 and placing the result in register 6 is encoded:
+
+Load a value into register 8, taken from the memory cell 68 cells after the location listed in register 3:
+
+Jumping to the address 1024:
+
+On processor architectures with variable-length instruction sets (such as Intel 's x86 processor family) it is, within the limits of the control-flow resynchronizing phenomenon known as the Kruskal count , sometimes possible through opcode-level programming to deliberately arrange the resulting code so that two code paths share a common fragment of opcode sequences. These are called overlapping instructions , overlapping opcodes , overlapping code , overlapped code , instruction scission , or jump into the middle of an instruction .
+
+In the 1970s and 1980s, overlapping instructions were sometimes used to preserve memory space. One example were in the implementation of error tables in Microsoft 's Altair BASIC , where interleaved instructions mutually shared their instruction bytes. The technique is rarely used today, but might still be necessary to resort to in areas where extreme optimization for size is necessary on byte-level such as in the implementation of boot loaders which have to fit into boot sectors .
+
+It is also sometimes used as a code obfuscation technique as a measure against disassembly and tampering.
+
+The principle is also used in shared code sequences of fat binaries which must run on multiple instruction-set-incompatible processor platforms.
+
+This property is also used to find unintended instructions called gadgets in existing code repositories and is used in return-oriented programming as alternative to code injection for exploits such as return-to-libc attacks .
+
+In some computers, the machine code of the architecture is implemented by an even more fundamental underlying layer called microcode , providing a common machine language interface across a line or family of different models of computer with widely different underlying dataflows . This is done to facilitate porting of machine language programs between different models. An example of this use is the IBM System/360 family of computers and their successors. With dataflow path widths of 8 bits to 64 bits and beyond, they nevertheless present a common architecture at the machine language level across the entire line.
+
+Using microcode to implement an emulator enables the computer to present the architecture of an entirely different computer. The System/360 line used this to allow porting programs from earlier IBM machines to the new family of computers, e.g. an IBM 1401/1440/1460 emulator on the IBM S/360 model 40.
+
+Machine code is generally different from bytecode (also known as p-code), which is either executed by an interpreter or itself compiled into machine code for faster (direct) execution. An exception is when a processor is designed to use a particular bytecode directly as its machine code, such as is the case with Java processors .
+
+Machine code and assembly code are sometimes called native code when referring to platform-dependent parts of language features or libraries.
+
+From the point of view of the CPU, machine code is stored in RAM, but is typically also kept in a set of caches for performance reasons. There may be different caches for instructions and data, depending on the architecture.
+
+The CPU knows what machine code to execute, based on its internal program counter. The program counter points to a memory address and is changed based on special instructions which may cause programmatic branches. The program counter is typically set to a hard coded value when the CPU is first powered on, and will hence execute whatever machine code happens to be at this address.
+
+Similarly, the program counter can be set to execute whatever machine code is at some arbitrary address, even if this is not valid machine code. This will typically trigger an architecture specific protection fault.
+
+The CPU is oftentimes told, by page permissions in a paging based system, if the current page actually holds machine code by an execute bit — pages have multiple such permission bits (readable, writable, etc.) for various housekeeping functionality. E.g. on Unix-like systems memory pages can be toggled to be executable with the mprotect() system call, and on Windows, VirtualProtect() can be used to achieve a similar result. If an attempt is made to execute machine code on a non-executable page, an architecture specific fault will typically occur. Treating data as machine code , or finding new ways to use existing machine code, by various techniques, is the basis of some security vulnerabilities.
+
+Similarly, in a segment based system, segment descriptors can indicate whether a segment can contain executable code and in what rings that code can run.
+
+From the point of view of a process , the code space is the part of its address space where the code in execution is stored. In multitasking systems this comprises the program's code segment and usually shared libraries . In multi-threading environment, different threads of one process share code space along with data space, which reduces the overhead of context switching considerably as compared to process switching.
+
+Various tools and methods exist to decode machine code back to its corresponding source code .
+
+Machine code can easily be decoded back to its corresponding assembly language source code because assembly language forms a one-to-one mapping to machine code. The assembly language decoding method is called disassembly .
+
+Machine code may be decoded back to its corresponding high-level language under two conditions:
+
+The first condition is to accept an obfuscated reading of the source code. An obfuscated version of source code is displayed if the machine code is sent to a decompiler of the source language.
+
+The second condition requires the machine code to have information about the source code encoded within. The information includes a symbol table that contains debug symbols . The symbol table may be stored within the executable, or it may exist in separate files. A debugger can then read the symbol table to help the programmer interactively debug the machine code in execution .

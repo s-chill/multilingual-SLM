@@ -1,0 +1,71 @@
+The Advanced Gas-cooled Reactor ( AGR ) is a type of nuclear reactor designed and operated in the United Kingdom. These are the second generation of British gas-cooled reactors , using graphite as the neutron moderator and carbon dioxide as coolant. They have been the backbone of the UK's nuclear power generation fleet since the 1980s.
+
+The AGR was developed from the Magnox reactor, the UK's first-generation reactor design. The first Magnox design had been optimised for generating plutonium , and for this reason it had features that were not the most economic for power generation. Primary among these was the requirement to run on natural uranium , which required a coolant with a low neutron cross section , in this case carbon dioxide , and an efficient neutron moderator , graphite . The Magnox design also ran relatively cool gas temperatures compared to other power-producing designs, which resulted in less efficient steam conditions.
+
+The AGR design retained the Magnox's graphite moderator and carbon dioxide coolant but increased the cooling gas operating temperature to improve steam conditions. These were made identical to those  of a coal fired plant, allowing the same design of turbines and generation equipment to be used. During the initial design stages it was found necessary to switch the fuel cladding from beryllium to stainless steel . However, steel has a higher neutron cross section and this change required the use of enriched uranium fuel to compensate. This change resulted in a higher burnup of 18,000 MW t -days per tonne of fuel, enabling less frequent refuelling.
+
+The prototype AGR became operational at Windscale in 1962, but the first commercial AGR did not come on-line until 1976. A total of fourteen AGR reactors at six sites were built between 1976 and 1988. All of these are configured with two reactors in a single building, and each reactor has a design thermal power output of 1,500 MW t driving a 660 MW e turbine-alternator set. The various AGR stations produce outputs in the range 555 MWe to 670 MWe though some run at lower than design output due to operational restrictions.
+
+The AGR was designed such that the final steam conditions at the boiler stop valve were identical to that of conventional coal-fired power stations , thus the same design of turbo-generator plant could be used. The mean temperature of the hot coolant leaving the reactor core was designed to be 648 °C (1,198 °F). In order to obtain these high temperatures, yet ensure useful graphite core life (graphite reacts with CO 2 at high temperature) a re-entrant flow of coolant at the lower boiler outlet temperature of 278 °C is utilised to cool the graphite, ensuring that the graphite core temperatures do not vary too much from those seen in a Magnox station. The superheater outlet temperature and pressure were designed to be 2,485 psi (170 bar) and 543 °C.
+
+The fuel is uranium dioxide pellets, enriched to 2.5-3.5%, in stainless steel tubes. The original design concept of the AGR was to use a beryllium based cladding. When this proved unsuitable due to brittle fracture, the enrichment level of the fuel was raised to allow for the higher neutron capture losses of stainless steel cladding. This significantly increased the cost of the power produced by an AGR.  The carbon dioxide coolant circulates through the core, reaching 640 °C (1,184 °F) and a pressure of around 40 bar (580 psi), and then passes through boiler (steam generator) assemblies outside the core but still within the steel-lined, reinforced concrete pressure vessel. Control rods penetrate the graphite moderator and a secondary system involves injecting nitrogen into the coolant to absorb thermal neutrons to stop the fission process if the control rods fail to enter the core. A tertiary shutdown system which operates by injecting boron beads into the reactor is included in case the reactor has to be depressurized with insufficient control rods lowered. This would mean that nitrogen pressure cannot be maintained.
+
+The AGR was designed to have a high thermal efficiency (electricity generated/heat generated ratio) of about 41%, which is better than a modern pressurized water reactor (PWR) with a typical thermal efficiency of 34%. This is due to the higher coolant outlet temperature of about 640 °C (1,184 °F) practical with gas cooling, compared to about 325 °C (617 °F) for PWRs.
+However the reactor core has to be larger for the same power output, and the fuel burnup of 27,000 MW(th) days per tonne for type 2 fuel and up to 34,000 MW(th) days per tonne for robust fuel at discharge is lower than the 40,000 MW(th) days per ton of PWRs so the fuel is used less efficiently, countering the thermal efficiency advantage.
+
+Like the Magnox, CANDU and RBMK reactors, and in contrast to light water reactors , AGRs are designed to be refuelled without being shut down first (see Online refuelling ). This on-load refuelling was an important part of the economic case for choosing the AGR  over other reactor types, and in 1965 allowed the Central Electricity Generating Board (CEGB) and the government to claim that the AGR would produce electricity cheaper than the best coal-fired power stations. However, fuel assembly vibration problems arose during on-load refuelling at full power, so in 1988 full power refuelling was suspended until the mid-1990s, when further trials led to a fuel rod becoming stuck in a reactor core. Only refuelling at part load or when shut down is now undertaken at AGRs.
+
+The pre-stressed concrete pressure vessel contains the reactor core and the boilers. To minimise the number of penetrations into the vessel (and thus reduce the number of possible breach sites) the boilers are of the once through design where all boiling and superheating is carried out within the boiler tubes. This necessitates the use of ultra pure water to minimise the buildup of salts in the evaporator and subsequent corrosion problems.
+
+The AGR was intended to be a superior British alternative to American light water reactor designs. It was promoted as a development of the operationally (if not economically) successful Magnox design, and was chosen from a multitude of competing British alternatives - the helium cooled Very-high-temperature reactor , the Steam Generating Heavy Water Reactor and the Fast Breeder Reactor - as well as the American light water pressurised and boiling water reactors (PWR and BWR) and Canadian CANDU designs. The CEGB conducted a detailed economic appraisal of the competing designs and concluded that the AGR proposed for Dungeness B would generate the cheapest electricity, cheaper than any of the rival designs and the best coal-fired stations.
+
+There were great hopes for the AGR design. An ambitious construction programme of five twin reactor stations, Dungeness B , Hinkley Point B , Hunterston B , Hartlepool and Heysham was quickly rolled out, and export orders were eagerly anticipated.
+
+For political reasons the CEGB was instructed to spread the 'first generation' orders between three different 'design & build' consortia and a variety of major subcontractors.  In consequence the first three CEGB stations, whilst sharing the same design concept and the same fuel pin design, were completely different in detail design. This also resulted in the three consortia having to compete for the same limited number of expert staff, the need for each design to have a unique (and very complex) safety case, and the need to support for the life of the programme three (later four) different AGR reactor designs.
+
+The AGR stations proved to be complex and difficult to construct. Notoriously bad labour relations at the time added to the problems. The lead station, Dungeness B, was ordered in 1965 with a target completion date of 1970. After problems with nearly every aspect of the reactor design it finally began generating electricity in 1983, 13 years late.
+
+The following reactor designs at Hinkley Point and Hunterston, ordered a year or two later, proved to be significantly better than the Dungeness design, and indeed were commissioned ahead of Dungeness. The next AGR design, built at Heysham 1 and Hartlepool, sought to reduce overall cost of design by reducing the footprint of the station and the number of ancillary systems. However this led to difficulties in construction.
+
+The final two AGRs at Torness and Heysham 2 returned to a modified and 'debugged' Hinkley design with much greater seismic margin, and have proved to be the most successful performers of the fleet. Former Treasury Economic Advisor, David Henderson , described the AGR programme as one of the two most costly British government-sponsored project errors, the other being Concorde .
+
+When the government started on privatising the electricity generation industry in the 1980s, a cost analysis for potential investors revealed that true operating costs had been obscured for many years. Decommissioning costs especially had been significantly underestimated. These uncertainties caused nuclear power to be omitted from the privatisation at that time.
+
+The small-scale prototype AGR at Sellafield (Windscale) has been decommissioned as of 2010 – the core and pressure vessel decommissioned leaving only the building "Golf Ball" visible. This project was also a study of what is required to decommission a nuclear reactor safely.
+
+In October 2016 it was announced that super-articulated control rods would be installed at Hunterston B and Hinkley Point B because of concerns about the stability of the reactors' graphite cores. 
+In early 2018 a slightly higher rate of new keyway root cracks than modelled was observed in Hunterston B Reactor 3 during a scheduled outage, and EDF announced in May 2018 that the outage would be extended for further investigation, analysis and modelling.
+
+In 2018 inspections ordered by the ONR at Dungeness B showed that seismic restraints, pipework and storage vessels were "corroded to an unacceptable condition", and that would have been the state when the reactor was operating. The ONR classified this as a level 2 incident on the International Nuclear Event Scale .
+
+As of August 2022, there are four nuclear generating stations each with two operating AGRs in the United Kingdom, all of which are owned and operated by EDF Energy :
+
+In 2005 British Energy announced a 10-year life extension at Dungeness B, that would see the station continue operating until 2018, and in 2007 announced a 5-year life extension of Hinkley Point B and Hunterston B until 2016. Life extensions at other AGRs will be considered at least three years before their scheduled closure dates.
+
+From 2006 Hinkley Point B and Hunterston B have been restricted to about 70% of normal MWe output because of boiler-related problems requiring that they operate at reduced boiler temperatures. In 2013 these two stations' power increased to about 80% of normal output following some plant modifications.
+
+In 2006 AGRs made the news when documents were obtained under the Freedom of Information Act 2000 by The Guardian which claimed that British Energy were unaware of the extent of the cracking of graphite bricks in the cores of their reactors. It was also claimed that British Energy did not know why the cracking had occurred and that they were unable to monitor the cores without first shutting down the reactors. British Energy later issued a statement confirming that cracking of graphite bricks is a known symptom of extensive neutron bombardment and that they were working on a solution to the monitoring problem. Also, they stated that the reactors were examined every three years as part of "statutory outages".
+
+On 17 December 2010, EDF Energy announced a 5-year life extension for both Heysham 1 and Hartlepool to enable further generation until 2019.
+
+In February 2012 EDF announced it expected 7-year life extensions on average across all AGRs, including the recently life-extended Heysham 1 and Hartlepool. These life extensions are subject to detailed review and approval, and are not included in the table above.
+
+On 4 December 2012 EDF announced that Hinkley Point B and Hunterston B had been given 7-year life extensions, from 2016 to 2023.
+
+On 5 November 2013 EDF announced that Hartlepool had been given a 5-year life extension, from 2019 to 2024.
+
+In 2013 a defect was found by a regular inspection in one of the eight pod boilers of Heysham reactor A1. The reactor resumed operation at a lower output level with this pod boiler disabled, until June 2014 when more detailed inspections confirmed a crack in the boiler spine. As a precaution Heysham A2 and the sister Hartlepool station were also closed down for an eight weeks' inspection.
+
+In October 2014 a new kind of crack in the graphite moderator bricks was found at the Hunterston B reactor. This keyway root crack has been previously theorised but not observed. The existence of this type of crack does not immediately affect the safety of a reactor – however if the number of cracks exceed a threshold the reactor would be decommissioned, as the cracks cannot be repaired.
+
+In January 2015 Dungeness B was given a ten-year life extension, with an upgrade to control room computer systems and improved flood defences, taking the accounting closure date to 2028.
+
+In February 2016, EDF extended the life of four of its eight nuclear power plants in the UK. Heysham 1 and Hartlepool had their life extended by five years until 2024, while Heysham 2 and Torness had their closure dates pushed back by seven years to 2030.
+
+On 7 June 2021, EDF announced that Dungeness B, which had been in an extended outage since September 2018, would move into the defuelling phase with immediate effect.
+
+On 15 December 2021 EDF announced that Heysham 2 and Torness are expected to close in March 2028.
+
+On 7 January 2022 Hunterston B reactor 4 was shut down for the last time, ending production after nearly 47 years. Reactor 3 had moved to the defuelling phase in November 2021.
+
+On 1 August 2022 Hinkley Point B Reactor 3 was shut down, Reactor 4 was shut down on 6 July 2022.

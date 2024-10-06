@@ -1,0 +1,15 @@
+In cryptography , XTEA ( eXtended TEA ) is a block cipher designed to correct weaknesses in TEA . The cipher 's designers were David Wheeler and Roger Needham of the Cambridge Computer Laboratory , and the algorithm was presented in an unpublished technical report in 1997 (Needham and Wheeler, 1997). It is not subject to any patents .
+
+Like TEA, XTEA is a 64-bit block Feistel cipher with a 128-bit key and a suggested 64 rounds. Several differences from TEA are apparent, including a somewhat more complex key-schedule and a rearrangement of the shifts, XORs , and additions.
+
+This standard C source code, adapted from the reference code released into the public domain by David Wheeler and Roger Needham, encrypts and decrypts using XTEA:
+
+The changes from the reference source code are minor:
+
+The recommended value for the "num_rounds" parameter is 32, not 64, as each iteration of the loop does two Feistel-cipher rounds. To additionally improve speed, the loop can be unrolled by pre-computing the values of sum+key[].
+
+In 2004, Ko et al. presented a related-key differential attack on 27 out of 64 rounds of XTEA, requiring 2 chosen plaintexts and a time complexity of 2 .
+
+In 2009, Lu presented a related-key rectangle attack on 36 rounds of XTEA, breaking more rounds than any previously published cryptanalytic results for XTEA. The paper presents two attacks, one without and with a weak key assumption, which corresponds to 2 bytes of data and 2 operations, and 2 bytes of data and 2 operations respectively.
+
+Presented along with XTEA was a variable-width block cipher termed Block TEA , which uses the XTEA round function, but Block TEA applies it cyclically across an entire message for several iterations. Because it operates on the entire message, Block TEA has the property that it does not need a mode of operation . An attack on the full Block TEA was described by Saarinen, which also details a weakness in Block TEA's successor, XXTEA .

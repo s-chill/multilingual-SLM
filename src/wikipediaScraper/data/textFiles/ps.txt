@@ -1,0 +1,17 @@
+In most Unix and Unix-like operating systems , the ps ( process status ) program displays the currently-running processes .  The related Unix utility top provides a real-time view of the running processes.
+
+KolibriOS includes an implementation of the ps command . The ps command has also been ported to the IBM i operating system. In Windows PowerShell , ps is a predefined command alias for the Get-Process cmdlet, which essentially serves the same purpose.
+
+Users can pipeline ps with other commands, such as less to view the process status output one page at a time:
+
+Users can also utilize the ps command in conjunction with the grep command (see the pgrep and pkill commands) to find information about a single process, such as its id:
+
+The use of pgrep simplifies the syntax and avoids potential race conditions:
+
+To see every process running as root in user format:
+
+* = Often abbreviated
+
+ps has many options. On operating systems that support the SUS and POSIX standards, ps commonly runs with the options -ef , where "-e" selects e very process and "-f" chooses the " f ull" output format. Another common option on these systems is -l , which specifies the " l ong" output format.
+
+Most systems derived from BSD fail to accept the SUS and POSIX standard options because of historical conflicts. (For example, the "e" or "-e" option will display environment variables .) On such systems, ps commonly runs with the non-standard options aux , where "a" lists all processes on a terminal , including those of other users, "x" lists all processes without controlling terminals and "u" adds a column for the controlling user for each process. For maximum compatibility, there is no "-" in front of the "aux". "ps auxww" provides complete information about the process, including all parameters.

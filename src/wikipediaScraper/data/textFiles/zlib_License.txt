@@ -1,0 +1,9 @@
+The zlib license is a permissive software license which defines the terms under which the zlib software library can be distributed. It is also used by many other open-source packages. The libpng library uses a similar license, libpng license , sometimes referred interchangeably as zlib/libpng license .
+
+The zlib license has been approved by the Free Software Foundation (FSF) as a free software license , and by the Open Source Initiative (OSI) as an open source license . It is compatible with the GNU General Public License .
+
+The license only has the following points to be accounted for:
+
+The license does not require source code to be made available if distributing binary code.
+
+The license terms are as follows:

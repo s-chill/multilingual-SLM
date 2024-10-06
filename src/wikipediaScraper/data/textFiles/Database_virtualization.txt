@@ -1,0 +1,11 @@
+Database virtualization is the decoupling of the database layer, which lies between the storage and application layers within the application stack. Virtualization of the database layer enables a shift away from the physical, toward the logical or virtual.
+
+Virtualization enables compute and storage resources to be pooled and allocated on demand. This enables both the sharing of single server resources for multi-tenancy, as well as the pooling of server resources into a single logical database or cluster. In both cases, database virtualization provides increased flexibility, more granular and efficient allocation of pooled resources, and more scalable computing.
+
+The act of partitioning data stores as a database grows has been in use for several decades. There are two primary ways that data has been partitioned inside legacy data management systems:
+
+In virtual partitioning, logical data is abstracted from physical data by autonomously creating and managing large numbers of data partitions (100s to 1000s). Because they are autonomously maintained, the resources required to manage the partitions are minimal. This kind of massive partitioning results in:
+
+“Shared-data” and “shared-nothing” architectures allow scalability through multiple data partitions and cross-partition querying and transaction processing without full partition scanning.
+
+Partitioning database sources from consumers is a fundamental concept.  With greater numbers of database sources, inserting a horizontal data virtualization layer between the sources and consumers helps address this complexity. Rick van der Lans, the author of multiple books on SQL and relational databases, has defined data virtualization as "the process of offering data consumers a data access interface that hides the technical aspects of stored data, such as location, storage structure, API, access language, and storage technology."

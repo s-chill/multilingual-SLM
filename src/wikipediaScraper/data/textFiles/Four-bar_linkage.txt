@@ -1,0 +1,61 @@
+In the study of mechanisms , a four-bar linkage , also called a four-bar , is the simplest closed- chain movable linkage . It consists of four bodies , called bars or links , connected in a loop by four joints . Generally, the joints are configured so the links move in parallel planes, and the assembly is called a planar four-bar linkage . Spherical and spatial four-bar linkages also exist and are used in practice.
+
+Planar four-bar linkages are constructed from four links connected in a loop by four one- degree-of-freedom joints. A joint may be either a revolute joint – also known as a pin joint or hinged joint – denoted by R, or a prismatic joint – also known as a sliding pair – denoted by P.
+
+A link that is fixed in place relative to the viewer is called a ground link. A link connecting to the ground by a revolute joint that can perform a complete revolution is called a crank link . A link connecting to the ground by a revolute joint that cannot perform a complete revolution is called a rocker link. A link connecting to a ground line by a prismatic joint is called a slider. Sliders are sometimes considered to be cranks that have a hinged pivot at an infinitely long distance away perpendicular to the travel of the slider. A link connecting to two other links is called a floating link or coupler. A coupler connecting a crank and a slider in a single slider crank mechanism is often called a connecting rod , however, it has also been used to refer to any type of coupler.
+
+There are three basic types of planar four-bar linkage, depending on the use of revolute or prismatic joints:
+
+Planar four-bar linkages can be designed to guide a wide variety of movements, and are often the base mechanisms found in many machines . Because of this, the kinematics and dynamics of planar four-bar linkages are also important topics in mechanical engineering .
+
+Planar quadrilateral linkage, RRRR or 4R linkages have four rotating joints. One link of the chain is usually fixed, and is called the ground link , fixed link , or the frame . The two links connected to the frame are called the grounded links and are generally the input and output links of the system, sometimes called the input link and output link . The last link is the floating link , which is also called a coupler or connecting rod because it connects an input to the output.
+
+Assuming the frame is horizontal there are four possibilities for the input and output links:
+
+Some authors do not distinguish between the types of rocker.
+
+The Grashof condition for a four-bar linkage states: If the sum of the shortest and longest link of a planar quadrilateral linkage is less than or equal to the sum of the remaining two links, then the shortest link can rotate fully with respect to a neighboring link. In other words, the condition is satisfied if S + L ≤ P + Q , where S is the shortest link, L is the longest, and P and Q are the other links.
+
+The movement of a quadrilateral linkage can be classified into eight cases based on the dimensions of its four links. Let a, b, g and h denote the lengths of the input crank, the output crank, the ground link and floating link, respectively. Then, we can construct the three terms:
+
+The movement of a quadrilateral linkage can be classified into eight types based on the positive and negative values for these three terms, T 1 , T 2 , and T 3 .
+
+The cases of T 1 = 0, T 2 = 0, and T 3 = 0 are interesting because the linkages fold. If we distinguish folding quadrilateral linkage, then there are 27 different cases .
+
+The figure shows examples of the various cases for a planar quadrilateral linkage.
+
+The configuration of a quadrilateral linkage may be classified into three types: convex, concave, and crossing. In the convex and concave cases no two links cross over each other. In the crossing linkage two links cross over each other. In the convex case all four internal angles are less than 180 degrees, and in the concave configuration one internal angle is greater than 180 degrees. There exists a simple geometrical relationship between the lengths of the two diagonals of the quadrilateral. For convex and crossing linkages, the length of one diagonal increases if and only if the other decreases. On the other hand, for nonconvex non-crossing linkages, the opposite is the case; one diagonal increases if and only if the other also increases.
+
+The synthesis, or design, of four-bar mechanisms is important when aiming to produce a desired output motion for a specific input motion. In order to minimize cost and maximize efficiency, a designer will choose the simplest mechanism possible to accomplish the desired motion. When selecting a mechanism type to be designed, link lengths must be determined by a process called dimensional synthesis. Dimensional synthesis involves an iterate-and-analyze methodology which in certain circumstances can be an inefficient process; however, in unique scenarios, exact and detailed procedures to design an accurate mechanism may not exist.
+
+The time ratio ( Q ) of a four-bar mechanism is a measure of its quick return and is defined as follows:
+
+With four-bar mechanisms there are two strokes , the forward and return, which when added together create a cycle. Each stroke may be identical or have different average speeds. The time ratio numerically defines how fast the forward stroke is compared to the quicker return stroke. The total cycle time ( Δt cycle ) for a mechanism is:
+
+Most four-bar mechanisms are driven by a rotational actuator, or crank, that requires a specific constant speed. This required speed ( ω crank )is related to the cycle time as follows:
+
+Some mechanisms that produce reciprocating, or repeating, motion are designed to produce symmetrical motion. That is, the forward stroke of the machine moves at the same pace as the return stroke. These mechanisms, which are often referred to as in-line design, usually do work in both directions, as they exert the same force in both directions.
+
+Examples of symmetrical motion mechanisms include:
+
+Other applications require that the mechanism-to-be-designed has a faster average speed in one direction than the other. This category of mechanism is most desired for design when work is only required to operate in one direction. The speed at which this one stroke operates is also very important in certain machine applications. In general, the return and work-non-intensive stroke should be accomplished as fast as possible. This is so the majority of time in each cycle is allotted for the work-intensive stroke. These quick-return mechanisms are often referred to as offset .
+
+Examples of offset mechanisms include:
+
+With offset mechanisms, it is very important to understand how and to what degree the offset affects the time ratio. To relate the geometry of a specific linkage to the timing of the stroke, an imbalance angle ( β ) is used. This angle is related to the time ratio, Q , as follows:
+
+Through simple algebraic rearrangement, this equation can be rewritten to solve for β :
+
+Timing charts are often used to synchronize the motion between two or more mechanisms. They graphically display information showing where and when each mechanism is stationary or performing its forward and return strokes. Timing charts allow designers to qualitatively describe the required kinematic behavior of a mechanism.
+
+These charts are also used to estimate the velocities and accelerations of certain four-bar links. The velocity of a link is the time rate at which its position is changing, while the link's acceleration is the time rate at which its velocity is changing. Both velocity and acceleration are vector quantities, in that they have both magnitude and direction ; however, only their magnitudes are used in timing charts. When used with two mechanisms, timing charts assume constant acceleration . This assumption produces polynomial equations for velocity as a function of time. Constant acceleration allows for the velocity vs. time graph to appear as straight lines, thus designating a relationship between displacement ( ΔR ), maximum velocity ( v peak ), acceleration ( a ), and time( Δt ). The following equations show this.
+
+Given the displacement and time, both the maximum velocity and acceleration of each mechanism in a given pair can be calculated.
+
+A slider-crank linkage is a four-bar linkage with three revolute joints and one prismatic, or sliding, joint. The rotation of the crank drives the linear movement the slider, or the expansion of gases against a sliding piston in a cylinder can drive the rotation of the crank.
+
+There are two types of slider-cranks: in-line and offset.
+
+If the linkage has four hinged joints with axes angled to intersect in a single point, then the links move on concentric spheres and the assembly is called a spherical four-bar linkage . The input-output equations of a spherical four-bar linkage can be applied to spatial four-bar linkages when the variables are replaced by dual numbers . Note that the cited conference paper incorrectly conflates Moore-Penrose pseudoinverses with one-sided inverses of matrices, falsely claiming that the latter are unique whenever they exist. This is contradicted by the fact that ( 1 , 0 ) T {\displaystyle (1,0)^{T}} admits the set of matrices { ( 1 , x ) ∣ x ∈ C } {\displaystyle \{(1,x)\mid x\in \mathbb {C} \}} as all its left inverses .
+
+Bennett's linkage is a spatial four-bar linkage with hinged joints that have their axes angled in a particular way that makes the system movable.

@@ -1,0 +1,19 @@
+Philipp Forchheimer (7 August 1852 – 2 October 1933) was an Austrian engineer, a pioneer in the field of civil engineering and practical hydraulics , who also contributed to the archaeological study of Byzantine water supply systems. He was professor in Istanbul , Aachen , and Graz .
+
+Forchheimer introduced mathematical methodology to the study of hydraulics, thus establishing a scientific basis for the field. He graduated as engineer from the Technische Hochschule Zürich in 1873, received his doctoral degree from the University of Tübingen , and completed habilitation at the Technische Hochschule Aachen . He was the rector of the Graz University of Technology until 1897 . In addition to his teaching, he worked as a consultant for underground construction projects. He made proposals for the construction of a tunnel under the English Channel.
+
+In 1891, he took up a parallel appointment in Constantinople at the Ottoman School of Engineering , which he successfully re-organised in 1914. His work in Turkey led to a study of the Byzantine cisterns with the archaeologist Josef Strzygowski . In 1897 or 1898, he spent a month researching aqueduct systems at the Austrian excavations in Ephesus .
+
+Forchheimer proposed a modification to Darcy's Law , describing fluid flow through packed beds in 1901. This also had a significant influence on the development of the Ergun equation .
+
+− d P d x = μ K u + b ρ | u | u {\displaystyle -{dP \over dx}={\mu  \over K}u+b\rho |u|u}
+
+where:
+
+d P {\displaystyle dP} is the pressure drop across the bed, μ {\displaystyle \mu } is the viscosity of the fluid, K {\displaystyle K} permeability (const.), u {\displaystyle u} is the (area-averaged) velocity of the fluid, b {\displaystyle b} is an empirical constant, ρ {\displaystyle \rho } is the density of the fluid.
+
+A more general expression of the friction factor follows from Forchheimers modification:
+
+f = 1 R e + C {\displaystyle f={1 \over Re}+C}
+
+where R e {\displaystyle Re} is the Reynolds number and C is a constant.

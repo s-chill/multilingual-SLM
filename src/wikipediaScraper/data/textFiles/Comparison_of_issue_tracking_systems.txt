@@ -1,0 +1,3 @@
+Notable issue tracking systems , including bug tracking systems , help desk and service desk issue tracking systems, as well as asset management systems, include the following. The comparison includes client-server application, distributed and hosted systems.
+
+System names listed with a light purple background are no longer in active development.

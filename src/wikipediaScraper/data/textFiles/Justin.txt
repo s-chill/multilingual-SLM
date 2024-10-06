@@ -1,0 +1,39 @@
+Justin (also known as Rollin' Justin ) is an autonomous and programmable humanoid robot with two arms, developed by the German Aerospace Center (DLR) at the Institute of Robotics and Mechatronics, located in Wessling , Germany. Introduced in 2009, this wireless robot is controllable through telepresence , a type of technology that allows a person to feel as if they were present from a location other than their true location.
+
+Justin is intended to be mounted on its own satellite, maneuver in orbit, and repair other satellites. However, it can also be used on Earth to perform simple tasks. The European Space Agency (ESA) planned to have astronauts aboard the International Space Station teleoperating Justin by 2014.
+
+Rollin' Justin has some variations depending on its intended purpose. For example, some versions of Justin may not have wheels. DLR also created Agile Justin—an upgraded version of Rollin’ Justin, and in 2013 TORO—which is similar to Rollin' Justin, except with legs instead of wheels.
+
+The main goal in creating Justin was to make new space robots that are not only light in weight but also have multiple senses and can be controlled from earth. DLR stated that they want to establish robots from "powerful telerobotic concepts and man-machine- interfaces ." Eventually, DLR hopes for Justin the robot to be self-controlling; however, not much has been said about what Justin would be able to do if it were self-controlling.
+
+Justin has many features and characteristics that make it different from other robots.
+
+Rollin' Justin does have some variations; however, Justin is always equipped with two hands, two high-definition cameras, PMD sensors , a head, and a torso.
+
+Justin is equipped with two four-finger hands that provide human-like maneuvers. Justin's arms and hands are made with software algorithms , or step-by-step procedures for calculations, that allow it to interact with the environment, avoid collision with the other arm or hand, and perform tasks. The head of the robot has two high-definition cameras that give a sense of depth when manipulating the arms. Likewise, the cameras are also equipped with object-recognition software .
+
+Rollin' Justin, the one meant for daily tasks on earth, has a mobile platform that allows for mobility. Independently operated by the system, Justin is able to freely travel long distances. The mobile platform includes four spring born wheels (wheels made from springs) that create easy mobility. These wheels are independently mobile, which match the requirements needed by Justin's upper body when executing tasks.
+
+The Justin version meant for space would only be equipped with the head, torso, arms, and no wheels. As a result, the spring born wheels and mobile platform would be removed and Justin would be mounted on a spaceship.
+
+In addition to fixing satellites, Rollin' Justin has many unique abilities which separate it from other robots. For example, Justin has the ability to catch flying objects with an 80 percent success rate. It can do this because of the cameras on its head, tracking software, and precision grasping. Justin's arms are made of carbon-fiber , which allow up to 31 pounds to be lifted on each arm. Justin is also able to make tea and coffee and hold a paper cup without splashing the liquid all over its hands. Not only can it make coffee, Justin can also do a dance from Pulp Fiction .
+
+Justin's upper body has 43 total controllable degrees of freedom , which is the number of independent factors that define the robot's configuration. It can not only pick things up from the ground, but can also reach items at a height of about 2 meters. The robot also has torque sensors (a device that measures the tendency of a force to rotate an object about an axis) in its joints that allow it to manipulate its arms and hands. If Justin were to go to space, it could be controlled here on earth by someone wearing an exoskeleton , which is a combination of an arm and glove that has force feedback (a sense of touch through forces, vibrations, or motions to the user). With Justin's unique software, one can use basic programming tools like Matlab or Simulink for control. Similarly, if Justin were to be in a household environment, humans would be able to control it via an iPad .
+
+Workspace :
+
+Weight:
+
+Payload :
+
+Degrees of freedom :
+
+Sensors :
+
+3DMo - Sensor head :
+
+The Justin robot can have some variations applied to it. As mentioned earlier, the Justin robot that is meant to be mounted on a satellite would have no wheels and only be equipped with the head, torso, and arms with no mobile platform. However, it would still have the same software capabilities as the Justin with the wheels, just not the mobility. In addition, DLR recently developed two new versions of Rollin' Justin—Agile Justin and Torque Controlled Humanoid Robot, or TORO.
+
+In 2012, DLR developed a new and improved version of Rollin' Justin called Agile Justin. The most noticeable difference between Agile Justin and Rollin' Justin is that Agile Justin is able to throw a ball. Rollin' Justin first created a stir in the world of technology when it was able to catch flying objects, but as a step up DLR developed Agile Justin to be able to throw objects. Through different gear ratios, Agile Justin now has 1.5x faster arms and is equipped with new bus architecture and wheel electronics. Bus architecture is a system that transfers data between components inside or between computers, while wheel electronics is a MIDI (hardware used to control performance) network that is designed to connect modulation (process of varying one or more properties of a periodic signal) wheels. Agile Justin seems to be the next step towards a humanoid robot that has full-body control and can coordinate the arms, hands, torso, and legs (mobile platform)—making robots move more similarly to humans. Because Agile Justin is now able to throw objects and Rollin' Justin is able to catch flying objects, the two can come together and have a game of catch.
+
+In addition to Agile Justin, DLR in 2013 showcased Torque Controlled Humanoid Robot, or TORO. TORO is a huge upgrade from Rollin' Justin and Agile Justin. The biggest difference between TORO and both Agile and Rollin' Justin is that TORO now comes with a pair of legs, making it look more like a human than a robot. Likewise, TORO is now equipped with a new head, slimmer torso, light-weight arms, and simplified hands. When compared to other humanoids that are able to walk, TORO has smaller feet. This was purposely made as a challenge by DLR, since it would result in the humanoid robot being able to climb obstacles more easily. The next goal DLR has for TORO is to be able to make movements with "foresight and fluency," like opening a heavy door or climbing stairs. These actions can be done through a dynamic process and will be part of TORO's software programs. Since TORO is a newly showcased humanoid robot, it will take a few years before these things can be finalized and perfected.

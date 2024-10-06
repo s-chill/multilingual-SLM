@@ -1,0 +1,47 @@
+Lucy is a NASA space probe on a twelve-year journey to eight different asteroids . It is slated to visit two main belt asteroids as well as six Jupiter trojans – asteroids that share Jupiter 's orbit around the Sun , orbiting either ahead of or behind the planet. All target encounters will be flyby encounters. The Lucy spacecraft is the centerpiece of a US$981 million mission. It was launched on 16 October 2021.
+
+On 4 January 2017, Lucy was chosen, along with the Psyche mission , as NASA's Discovery Program missions 13 and 14 respectively.
+
+The mission is named after the Lucy hominin fossils , because study of the trojans could reveal the "fossils of planet formation": materials that clumped together in the early history of the Solar System to form planets and other bodies. The hominid was named after the 1967 Beatles song " Lucy in the Sky with Diamonds ". The spacecraft carries a disc made of lab-grown diamonds for its L'TES instrument .
+
+Lucy was launched from Cape Canaveral SLC-41 on 16 October 2021, at 09:34 UTC on the 401 variant of a United Launch Alliance Atlas V launch vehicle. It gained one gravity assist from Earth a year later on 16 October 2022, and after making a flyby of the asteroid 152830 Dinkinesh in 2023, it will gain another gravity assist from Earth in 2024. In 2025, it will fly by the inner main-belt asteroid 52246 Donaldjohanson , which was named after the discoverer of the Lucy hominin fossil. In 2027, it will arrive at the L 4 Trojan cloud (the Greek camp of asteroids that orbits about 60° ahead of Jupiter), where it will fly by four Trojans, 3548 Eurybates (with its satellite), 15094 Polymele , 11351 Leucus , and 21900 Orus . After these flybys, Lucy will return to Earth in 2031 for another gravity assist toward the L 5 Trojan cloud (the Trojan camp which trails about 60° behind Jupiter), where it will visit the binary Trojan 617 Patroclus with its satellite Menoetius in 2033. The mission may end with the Patroclus–Menoetius flyby, but at that point Lucy will be in a stable, 6-year orbit between the L4 and L5 clouds, and a mission extension will be possible.
+
+Three instruments comprise the payload: a high-resolution visible imager, an optical and near-infrared imaging spectrometer, and a thermal infrared spectrometer. Harold F. Levison of the Southwest Research Institute in Boulder, Colorado is the principal investigator , with Simone Marchi of Southwest Research Institute as the mission's deputy principal investigator. NASA's Goddard Space Flight Center executes the mission under the direction of the Planetary Missions Program Office at Marshall Space Flight Center for the Planetary Science Division -Science Mission Directorate at NASA HQ.
+
+Exploration of Jupiter Trojans is one of the high-priority goals outlined in the Planetary Science Decadal Survey . Jupiter Trojans have been observed by ground-based telescopes and the Wide-field Infrared Survey Explorer to be "dark with... surfaces that reflect little sunlight". Jupiter is 5.2 AU (780 × 10 ^ km; 480 × 10 ^ mi) from the Sun, or about five times the Earth-Sun distance. The Jupiter Trojans are at a similar distance but can be somewhat farther or closer to the Sun depending on where they are in their orbits. There may be as many Trojans as there are Main-belt asteroids .
+
+NASA selected Lucy through the Discovery Program Announcement of Opportunity (AO) released on 5 November 2014. Lucy was submitted as part of a call for proposals for the next mission(s) for Discovery Program that closed in February 2015. Proposals had to be ready to launch by the end of 2021. Twenty-eight proposals were received in all.
+
+On 30 September 2015, Lucy was selected as one of five finalist missions, each of which received US$3 million to produce more in-depth concept design studies and analyses. Its fellow finalists were DAVINCI , NEOCam , Psyche and VERITAS . On 4 January 2017, Lucy and Psyche were selected for development and launch.
+
+On 31 January 2019, NASA announced that Lucy would launch in October 2021 on an Atlas V 401 launch vehicle from Cape Canaveral , Florida . The total cost for the launch was estimated to be US$148.3 million. On 11 February 2019, SpaceX protested the contract award, claiming that it could launch Lucy into the same orbit at a "significantly cheaper cost". On 4 April 2019, SpaceX withdrew the protest.
+
+On 28 August 2020, NASA announced that Lucy had passed its Key Decision Point-D (KDP-D) with a "green light" to assemble and test the spacecraft and its instruments. The spacecraft instruments arrived beginning with L'LORRI on 26 October 2020. On 30 July 2021, the spacecraft was transported on a C-17 transport aircraft to Florida for launch preparations, and Lucy was encapsulated into the rocket fairing on 30 September 2021.
+
+Lucy was launched on 16 October 2021 at 09:34 UTC at the opening of its 23-day launch window.
+
+The science payload includes:
+
+Onboard the spacecraft is a golden plaque that contains its launch date, the positions of the planets at the launch date, the continents of Earth at the time of launch, its nominal trajectory, and twenty speeches, poems, and song lyrics from people such as Martin Luther King Jr. , Carl Sagan , The Beatles , and more. Because the spacecraft will not leave the Solar System or be intentionally crashed into a planetary body, there is a chance that future generations of humanity will be able to recover it.
+
+The specific objects that are targeted for flyby observation passes performed by the spacecraft include:
+
+Lucy has several different engines:
+
+Nammo LEROS 1c:
+
+Aerojet Rocketdyne MR-103J:
+
+Aerojet Rocketdyne MR-106L:
+
+Although the Lucy concept originated in late 2014, and was selected for funding in 2015, the Lucy spaceflight began on 16 October 2021 with the launch of the Lucy spacecraft aboard a United Launch Alliance Atlas V 401 launch vehicle into a stable parking orbit . During the next hour, the second stage reignited to place Lucy on an interplanetary trajectory in a heliocentric orbit on a twelve-year mission to two groups of Sun-Jupiter Trojan asteroids as well as close flybys of main belt asteroids during one of three planned passes through the asteroid belt . If the spacecraft remains operational during the 12-year planned duration, it is likely the mission will be extended and directed to additional asteroid targets.
+
+On 16 October 2021 Lucy began to unfurl its two solar arrays. While the initial deployment of the arrays appeared to go smoothly, it was later discovered that one of the solar arrays failed to latch securely into open position. Thomas Zurbuchen , NASA's associate administrator for science, stressed the spacecraft remained "safe and stable". Later testing on 26 October indicated the affected array was between 75 and 95 percent of full deployment. As of January 2022 , the spacecraft is in cruise mode. NASA has stated they are reviewing a range of potential options, including simply letting the array remain as it is. In late January 2022 NASA announced that they had found the cause for the failure of one of the solar arrays to fully deploy and then latch open securely. At the time, the agency's view was that there were two options to proceed: try to redeploy the solar array by further running of the array deployment motor, or leave the array as is, i.e. make no further attempt to fully open and latch it. Even with one solar array only partially deployed, the spacecraft was generating enough power for the mission. NASA said it would consider thoroughly its options and only take action at a (much) later time, as the issue was not an imminent risk to the mission.
+
+On 9 May 2022 Lucy executed its first step in completing the deployment of the unlatched solar array. This was not intended to fully deploy and latch the array but simply to validate that the team's ground testing adequately represented the array-latch problem. After reviewing the data, the next planned step was for another deployment effort.
+
+By 5 August 2022, NASA reported that solar array is between 353 degrees and 357 degrees open (out of 360 degrees) but not latched, making it stable enough for the spacecraft to operate as needed for mission operations.
+
+After the attempt on 13 December 2022, the team suspended further work with the solar panels.
+
+On 1 November 2023, Lucy successfully flew by its first target, the main-belt asteroid 152830 Dinkinesh , at a relative speed of 4.5 km/s (2.8 mi/s). On the following day, NASA released images from the flyby and announced the discovery of a small satellite orbiting Dinkinesh. The first images from the flyby showed that Dinkinesh is approximately 790 m (2,590 ft) in diameter, while the satellite is approximately 220 m (720 ft) in diameter. Later images showed that the satellite was actually two objects in direct contact, known as a contact binary . The discovery of Dinkinesh's satellite brought the total number of Lucy ' s planned asteroid visits up to eleven.

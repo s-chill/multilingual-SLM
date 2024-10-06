@@ -1,0 +1,135 @@
+The Butterworth filter is a type of signal processing filter designed to have a frequency response that is as flat as possible in the passband . It is also referred to as a maximally flat magnitude filter . It was first described in 1930 by the British engineer and physicist Stephen Butterworth in his paper entitled "On the Theory of Filter Amplifiers".
+
+Butterworth had a reputation for solving very complex mathematical problems thought to be 'impossible'. At the time, filter design required a considerable amount of designer experience due to limitations of the theory then in use . The filter was not in common use for over 30 years after its publication. Butterworth stated that:
+
+"An ideal electrical filter should not only completely reject the unwanted frequencies but should also have uniform sensitivity for the wanted frequencies".
+
+Such an ideal filter cannot be achieved, but Butterworth showed that successively closer approximations were obtained with increasing numbers of filter elements of the right values. At the time, filters generated substantial ripple in the passband, and the choice of component values was highly interactive. Butterworth showed that a low-pass filter could be designed whose gain as a function of frequency (i.e., the magnitude of its frequency response ) is:
+
+where ω {\displaystyle \omega } is the angular frequency in radians per second and n {\displaystyle n} is the number of poles in the filter—equal to the number of reactive elements in a passive filter. Its cutoff frequency (the half-power point of approximately −3 dB or a voltage gain of 1/ √ 2 ≈ 0.7071) is normalized to 𝜔 = 1 radian per second. Butterworth only dealt with filters with an even number of poles in his paper, though odd-order filters can be created with the addition of a single-pole filter applied to the output of the even-order filter. He built his higher-order filters from 2-pole filters separated by vacuum tube amplifiers. His plot of the frequency response of 2-, 4-, 6-, 8-, and 10-pole filters is shown as A, B, C, D, and E in his original graph.
+
+Butterworth solved the equations for two-pole and four-pole filters, showing how the latter could be cascaded when separated by vacuum tube amplifiers and so enabling the construction of higher-order filters despite inductor losses. In 1930, low-loss core materials such as molypermalloy had not been discovered and air-cored audio inductors were rather lossy. Butterworth discovered that it was possible to adjust the component values of the filter to compensate for the winding resistance of the inductors.
+
+He used coil forms of 1.25″ diameter and 3″ length with plug-in terminals. Associated capacitors and resistors were contained inside the wound coil form. The coil formed part of the plate load resistor. Two poles were used per vacuum tube and RC coupling was used to the grid of the following tube.
+
+Butterworth also showed that the basic low-pass filter could be modified to give low-pass , high-pass , band-pass and band-stop functionality.
+
+The frequency response of the Butterworth filter is maximally flat (i.e., has no ripples ) in the passband and rolls off towards zero in the stopband . When viewed on a logarithmic Bode plot , the response slopes off linearly towards negative infinity. A first-order filter's response rolls off at −6 dB per octave (−20 dB per decade ) (all first-order lowpass filters have the same normalized frequency response). A second-order filter decreases at −12 dB per octave, a third-order at −18 dB and so on. Butterworth filters have a monotonically changing magnitude function with ω {\displaystyle \omega } , unlike other filter types that have non-monotonic ripple in the passband and/or the stopband.
+
+Compared with a Chebyshev Type I/Type II filter or an elliptic filter , the Butterworth filter has a slower roll-off , and thus will require a higher order to implement a particular stopband specification, but Butterworth filters have a more linear phase response in the passband than Chebyshev Type I/Type II and elliptic filters can achieve.
+
+A transfer function of a third-order low-pass Butterworth filter design shown in the figure on the right looks like this:
+
+A simple example of a Butterworth filter is the third-order low-pass design shown in the figure on the right, with C 2 {\displaystyle C_{2}} = 4/3 F, R 4 {\displaystyle R_{4}} = 1 Ω, L 1 {\displaystyle L_{1}} = 3/2 H, and L 3 {\displaystyle L_{3}} = 1/2 H. Taking the impedance of the capacitors C {\displaystyle C} to be 1 / ( C s ) {\displaystyle 1/(Cs)} and the impedance of the inductors L {\displaystyle L} to be L s {\displaystyle Ls} , where s = σ + j ω {\displaystyle s=\sigma +j\omega } is the complex frequency, the circuit equations yield the transfer function for this device:
+
+The magnitude of the frequency response (gain) G ( ω ) {\displaystyle G(\omega )} is given by
+
+obtained from
+
+and the phase is given by
+
+The group delay is defined as the negative derivative of the phase shift with respect to angular frequency and is a measure of the distortion in the signal introduced by phase differences for different frequencies. The gain and the delay for this filter are plotted in the graph on the left. There are no ripples in the gain curve in either the passband or the stopband.
+
+The log of the absolute value of the transfer function H ( s ) {\displaystyle H(s)} is plotted in complex frequency space in the second graph on the right. The function is defined by the three poles in the left half of the complex frequency plane.
+
+These are arranged on a circle of radius unity , symmetrical about the real s {\displaystyle s} axis. The gain function will have three more poles on the right half-plane to complete the circle.
+
+By replacing each inductor with a capacitor and each capacitor with an inductor, a high-pass Butterworth filter is obtained.
+
+A band-pass Butterworth filter is obtained by placing a capacitor in series with each inductor and an inductor in parallel with each capacitor to form resonant circuits. The value of each new component must be selected to resonate with the old component at the frequency of interest.
+
+A band-stop Butterworth filter is obtained by placing a capacitor in parallel with each inductor and an inductor in series with each capacitor to form resonant circuits. The value of each new component must be selected to resonate with the old component at the frequency that is to be rejected.
+
+Like all filters, the typical prototype is the low-pass filter, which can be modified into a high-pass filter, or placed in series with others to form band-pass and band-stop filters, and higher order versions of these.
+
+The gain G ( ω ) {\displaystyle G(\omega )} of an n {\displaystyle n} th-order Butterworth low-pass filter is given in terms of the transfer function H ( s ) {\displaystyle H(s)} as
+
+where n {\displaystyle n} is the order of filter, ω c {\displaystyle \omega _{c}} is the cutoff frequency (approximately the −3 dB frequency), and G 0 {\displaystyle G_{0}} is the DC gain (gain at zero frequency).
+
+It can be seen that as n {\displaystyle n} approaches infinity, the gain becomes a rectangle function and frequencies below ω c {\displaystyle \omega _{c}} will be passed with gain G 0 {\displaystyle G_{0}} , while frequencies above ω c {\displaystyle \omega _{c}} will be suppressed. For smaller values of n {\displaystyle n} , the cutoff will be less sharp.
+
+We wish to determine the transfer function H ( s ) {\displaystyle H(s)} where s = σ + j ω {\displaystyle s=\sigma +j\omega } (from Laplace transform ). Because | H ( s ) | 2 = H ( s ) H ( s ) ¯ {\displaystyle \left|H(s)\right|^{2}=H(s){\overline {H(s)}}} and, as a general property of Laplace transforms at s = j ω {\displaystyle s=j\omega } , H ( − j ω ) = H ( j ω ) ¯ {\displaystyle H(-j\omega )={\overline {H(j\omega )}}} , if we select H ( s ) {\displaystyle H(s)} such that:
+
+then, with s = j ω {\displaystyle s=j\omega } , we have the frequency response of the Butterworth filter.
+
+The n {\displaystyle n} poles of this expression occur on a circle of radius ω c {\displaystyle \omega _{c}} at equally-spaced points, and symmetric around the negative real axis. For stability, the transfer function, H ( s ) {\displaystyle H(s)} , is therefore chosen such that it contains only the poles in the negative real half-plane of s {\displaystyle s} . The k {\displaystyle k} -th pole is specified by
+
+and hence
+
+The transfer (or system) function may be written in terms of these poles as
+
+where ∏ {\displaystyle \textstyle {\prod }} is the product of a sequence operator. The denominator is a Butterworth polynomial in s {\displaystyle s} .
+
+The Butterworth polynomials may be written in complex form as above, but are usually written with real coefficients by multiplying pole pairs that are complex conjugates, such as s 1 {\displaystyle s_{1}} and s n {\displaystyle s_{n}} . The polynomials are normalized by setting ω c = 1 {\displaystyle \omega _{c}=1} . The normalized Butterworth polynomials then have the general product form
+
+Factors of Butterworth polynomials of order 1 through 10 are shown in the following table (to six decimal places).
+
+Factors of Butterworth polynomials of order 1 through 6 are shown in the following table (Exact).
+
+where the Greek letter phi ( φ {\displaystyle \varphi } or ϕ {\displaystyle \phi } ) represents the golden ratio . It is an irrational number that is a solution to the quadratic equation x 2 − x − 1 = 0 , {\displaystyle x^{2}-x-1=0,} with a value of
+
+The n {\displaystyle n} th Butterworth polynomial can also be written as a sum
+
+with its coefficients a k {\displaystyle a_{k}} given by the recursion formula
+
+and by the product formula
+
+where
+
+Further, a k = a n − k {\displaystyle a_{k}=a_{n-k}} . The rounded coefficients a k {\displaystyle a_{k}} for the first 10 Butterworth polynomials B n ( s ) {\displaystyle B_{n}(s)} are:
+
+The normalized Butterworth polynomials can be used to determine the transfer function for any low-pass filter cut-off frequency ω c {\displaystyle \omega _{c}} , as follows
+
+Transformation to other bandforms are also possible, see prototype filter .
+
+Assuming ω c = 1 {\displaystyle \omega _{c}=1} and G 0 = 1 {\displaystyle G_{0}=1} , the derivative of the gain with respect to frequency can be shown to be
+
+which is monotonically decreasing for all ω {\displaystyle \omega } since the gain G {\displaystyle G} is always positive. The gain function of the Butterworth filter therefore has no ripple. The series expansion of the gain is given by
+
+In other words, all derivatives of the gain up to but not including the 2 n {\displaystyle n} -th derivative are zero at ω = 0 {\displaystyle \omega =0} , resulting in "maximal flatness". If the requirement to be monotonic is limited to the passband only and ripples are allowed in the stopband, then it is possible to design a filter of the same order, such as the inverse Chebyshev filter , that is flatter in the passband than the "maximally flat" Butterworth.
+
+Again assuming ω c = 1 {\displaystyle \omega _{c}=1} , the slope of the log of the gain for large ω {\displaystyle \omega } is
+
+In decibels , the high-frequency roll-off is therefore 20 n {\displaystyle n} dB/decade, or 6 n {\displaystyle n} dB/octave (the factor of 20 is used because the power is proportional to the square of the voltage gain; see 20 log rule .)
+
+To design a Butterworth filter using the minimum required number of elements, the minimum order of the Butterworth filter may be calculated as follows.
+
+where:
+
+The cutoff attenuation for Butterworth filters is usually defined to be −3.01 dB. If it is desired to use a different attenuation at the cutoff frequency, then the following factor may be applied to each pole, whereupon the poles will continue to lie on a circle, but the radius will no longer be unity. The cutoff attenuation equation may be derived through algebraic manipulation of the Butterworth defining equation stated at the top of the page.
+
+where:
+
+There are several different filter topologies available to implement a linear analogue filter. The most often used topology for a passive realisation is the Cauer topology, and the most often used topology for an active realisation is the Sallen–Key topology.
+
+The Cauer topology uses passive components (shunt capacitors and series inductors) to implement a linear analog filter. The Butterworth filter having a given transfer function can be realised using a Cauer 1-form. The k -th element is given by
+
+The filter may start with a series inductor if desired, in which case the L k are k odd and the C k are k even. These formulae may usefully be combined by making both L k and C k equal to g k . That is, g k is the immittance divided by s .
+
+These formulae apply to a doubly terminated filter (that is, the source and load impedance are both equal to unity) with ω c = 1. This prototype filter can be scaled for other values of impedance and frequency. For a singly terminated filter (that is, one driven by an ideal voltage or current source) the element values are given by
+
+where
+
+and
+
+Voltage driven filters must start with a series element and current driven filters must start with a shunt element. These forms are useful in the design of diplexers and multiplexers .
+
+The Sallen–Key topology uses active and passive components (noninverting buffers, usually op amps , resistors, and capacitors) to implement a linear analog filter. Each Sallen–Key stage implements a conjugate pair of poles; the overall filter is implemented by cascading all stages in series. If there is a real pole (in the case where n {\displaystyle n} is odd), this must be implemented separately, usually as an RC circuit , and cascaded with the active stages.
+
+For the second-order Sallen–Key circuit shown to the right the transfer function is given by
+
+We wish the denominator to be one of the quadratic terms in a Butterworth polynomial. Assuming that ω c = 1 {\displaystyle \omega _{c}=1} , this will mean that
+
+and
+
+This leaves two undefined component values that may be chosen at will.
+
+Butterworth lowpass filters with Sallen–Key topology of third and fourth order, using only one op amp , are described by Huelsman, and further single-amplifier Butterworth filters also of higher order are given by Jurišić et al.
+
+Digital implementations of Butterworth and other filters are often based on the bilinear transform method or the matched Z-transform method , two different methods to discretize an analog filter design. In the case of all-pole filters such as the Butterworth, the matched Z-transform method is equivalent to the impulse invariance method. For higher orders, digital filters are sensitive to quantization errors, so they are often calculated as cascaded biquad sections , plus one first-order or third-order section for odd orders.
+
+Properties of the Butterworth filter are:
+
+Here is an image showing the gain of a discrete-time Butterworth filter next to other common filter types. All of these filters are fifth-order.
+
+The Butterworth filter rolls off more slowly around the cutoff frequency than the Chebyshev filter or the Elliptic filter , but without ripple.

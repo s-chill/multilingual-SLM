@@ -1,0 +1,112 @@
+Solar power is a major contributor to electricity supply in Australia . As of December 2023, Australia's over 3.69 million solar PV installations had a combined capacity of 34.2 GW photovoltaic (PV) solar power. In 2019, 59 solar PV projects with a combined capacity of 2,881 MW were either under construction, constructed or due to start construction having reached financial closure. Solar accounted for 12.4% (or 28.6 TWh) of Australia's total electrical energy production in 2021.
+
+The sudden rise in solar PV installations in Australia since 2018 dramatically propelled the country from being considered a relative laggard to a strong leader by mid-2019. Australia has the highest per capita solar capacity , now at more than 1kW per capita.
+
+The installed PV capacity in Australia increased 10-fold between 2009 and 2011, and quadrupled between 2011 and 2016. 
+The first commercial-scale PV power plant, the 1 MW Uterne Solar Power Station , was opened in 2011. Greenough River Solar Farm opened in 2012 with a capacity of 10 MW. The price of photovoltaics has been decreasing and, in January 2013, was less than half the cost of using grid electricity in Australia. Using solar to supply all the energy needed would use less than 0.1% of land.
+
+The largest share of solar PV installations in 2018 was from grid-connected distributed sources totalling 8,030 MW. These are rooftop systems in the residential, commercial and industrial sectors. For the purposes of the data, residential grid connect are systems <9.5 kW, commercial are systems between 9.5 and 99.9 kW and industrial are 100 kW to 5 MW. Grid connected-centralised plants was the next largest sector in 2018 with 3,272 MW installed, representing utility scale ground mounted solar with a power rating > 5 MW. Off-grid solar PV was the smallest segment at 284 MW in 2018.
+
+Growth accelerated dramatically during 2018 in both rooftop distributed solar and utility-scale solar which became a significant component by the end of the year.
+
+By year end 2018, Australia had 1.96 million residential rooftop solar systems and 78,000 commercial and industrial rooftop solar systems, for a total of 2.04 million total rooftop PV systems. Over 200,000 were installed in 2018 alone and the country was on track to install as many again in 2019. Australia leads the world in residential uptake of solar, with a nation-wide average of free-standing households with a PV system at over 20%. By early 2020, Australia had 10.7 GW of rooftop solar in 2.4 million systems. By 2021, Australia had 13 GW of rooftop solar. Where new inverters ( solar or batteries ) are installed, they are required to have certain functions such as low voltage ride through and grid support to handle local grid issues and improve power quality. As per AS/NZS 3000 Wiring Rules assembly performed without a licensed electrician must be extra low voltage setups not exceeding 50 V AC or 120 V ripple-free DC.
+
+Australia has an abundance of solar energy resource that is likely to be used for energy generation on a large scale. The combination of Australia's dry climate and latitude give it high benefits and potential for solar energy production. Most of the Australian continent receives in excess of 4 kilowatt-hours (14 MJ) per square metre per day of insolation during winter months, with a region in the north exceeding 6 kilowatt-hours (22 MJ) per square metre per day. Western and Northern Australia have the maximum potential for PV production. Insolation greatly exceeds the average values in Europe, Russia, and most of North America. Comparable levels are found in desert areas of northern and southern Africa, south western United States and adjacent area of Mexico, and regions on the Pacific coast of South America. However, the areas of highest insolation are distant to Australia's population centres.
+
+According to The Institute for Sustainable Futures, the School of Photovoltaic and Renewable Energy Engineering (SPREE) at the University of New South Wales (UNSW) Australia has the potential to install 179 GW of solar power on roofs across the nation. At the end of 2018 Australia had just over 8 GW of rooftop solar.
+
+Even though Australia had a world-leading solar uptake, the study found the country was using less than 5% of its potential capacity for rooftop solar as of June 2019. According to the study, the combined annual output from rooftop solar could theoretically reach 245 TWh, more than the current annual grid consumption of just under 200 TWh per year.
+
+The Solar Homes and Communities Plan was a rebate provided by the Australian Government of up to A$8,000 for installing solar panels on homes and community use buildings (other than schools). This rebate was phased out on 8 June 2009, to be replaced by the Solar Credits Program, where an installation of a solar system would receive five times as many Renewable Energy Certificates for the first 1.5 kilowatts of capacity under the Renewable Energy Target (see below).
+
+Schools were eligible to apply for grants of up to A$50,000 to install 2 kW solar panels and other measures through the National Solar Schools Program beginning on 1 July 2008, which replaced the Green Vouchers for Schools program. Applications for the program ended 21 November 2012. A total of 2,870 schools have installed solar panels. The output of each array can be viewed, and compared with that of up to four other schools.
+
+Victorian state government is assisting homeowners and tenants by providing a rebate of up to $1,888 and an interest-free loan of an equivalent amount to their Solar PV panel rebate amount.
+
+The Australian Government has financial incentives for installing solar systems in the form of Small-Scale Technology Certificates , also referred to as STC's. Australia is broken up into 4 zones and depending on the zone they lives, the applicant will receive a certain number of STC's per kilowatt for an eligible solar system. Each STC is worth $35 – $40 AUD and amounts to a saving of about 25 – 30%. This government rebate on solar brings the cost per watt from $1.56 down to $1.12.
+
+This government initiative is set to slowly phase out giving a reduced number of STC's each year per kW installed until the initiative ends on 31 December 2030. The number of Small-scale Technology Certificates to be issued is calculated based on the following formula: System size in kW x Deeming period year x Postcode zone rating.
+
+Similar incentives are available to residents in some states for the installation of solar batteries and solar hot water systems as well as wind power
+
+A number of states have set up schemes to encourage the uptake of solar PV power generation involving households installing solar panels and selling excess electricity to electricity retailers to put into the electricity grid, widely called "feed-in". Each scheme involves the setting of feed in tariffs , which can be classified by a number of factors including the price paid, whether it is on a net or gross export basis, the length of time payments are guaranteed, the maximum size of installation allowed and the type of customer allowed to participate. Many Australian state feed-in tariffs were net export tariffs, whereas conservation groups argued for gross feed-in tariffs. In March 2009, the Australian Capital Territory (ACT) started a solar gross feed-in tariff. For systems up to 10 kW the payment was 50.05 cents per kWh. For systems from 10 kW to 30 kW the payment was 40.04 cents per kWh. The payment was revised downward once before an overall capacity cap was reached and the scheme closed. Payments are made quarterly based on energy generated and the payment rate is guaranteed for 20 years.
+
+In South Australia , a solar feed-in tariff was introduced for households and an educational program that involved installing solar PV on the roofs of major public buildings such as the Adelaide Airport, State Parliament, Museum, Art Gallery and several hundred public schools. In 2018, the Queensland government introduced the Affordable Energy Plan offering interest free loans for solar panels and solar storage in an effort to increase the uptake of solar energy in the state. In 2008 Premier Mike Rann announced funding for $8 million worth of solar panels on the roof of the new Goyder Pavilion at the Royal Adelaide Showgrounds , the largest rooftop solar installation in Australia, qualifying it for official "power station" status. South Australia has the highest per capita take up of household solar power in Australia.
+
+To determine the daily energy production per kilowatt, we can use the average sunlight hours. For example the power output per kilowatt of a solar panel in Sydney can be estimated using average solar radiation data, usually measured during peak hours of sunlight. Sydney receives an average of about 4.5 to 5.0 peak sun hours per day throughout the year. This means, on average, each kilowatt solar panel receives 4.5 to 5.0 hours of full sunlight per day.
+
+For example, if you have a 10kW solar system in Australia, the total daily energy production can be estimated as follows: 10 kW×5 hours/day=50 kWh/day
+
+Over 90% of solar panels sold in Australia are made in China —a situation not unique to Australia, since China manufactures some 75% of the world's solar modules. However, despite a worldwide shift towards greater diversity in manufacturing locations, concerns have been raised about the security of supply of imported panels as demand for photovoltaics increases.
+
+As of 2024, Australia has one company producing solar modules: Tindo solar, with a capacity of 160MW per year.
+
+In 2001, the Australian government introduced a mandatory renewable energy target (MRET) designed to ensure renewable energy achieves a 20% share of electricity supply in Australia by 2020. The MRET was to increase new generation from 9,500 gigawatt-hours to 45,000 gigawatt-hours by 2020. The MRET requires wholesale purchasers of electricity (such as electricity retailers or industrial operations) to purchase renewable energy certificates (RECs), created through the generation of electricity from renewable sources, including wind, hydro, landfill gas and geothermal, as well as solar PV and solar thermal. The objective is to provide a stimulus and additional revenue for these technologies. The scheme was proposed to continue until 2030.
+
+After the MRET was divided into large-scale and small-scale goals in 2011 and reductions by the Abbott government, Australia has a goal of 33,000 GWh of renewable energy from large sources by 2020, or 23.5% of electricity.
+
+The Solar Flagships program sets aside $1.6 billion for solar power over six years. The government funding is for 4 new solar plants that produce coal plant scale power (in total up to 1000 MW – coal plants typically produce 500 to 2,000 MW). This subsidy would need additional funding from the plant builders and/or operators. As a comparison Abengoa Solar, a company currently constructing solar thermal plants, put the cost of a 300 MW plant at €1.2 billion in 2007. In 2009, the Arizona state government announced a 200 MW plant for US$1 billion.
+
+Download coordinates as:
+
+Projects with a power rating less than 100 MW are not listed.
+
+A 20 MWp solar power plant has been built on 50 hectares of land in Royalla , a rural part of the Australian Capital Territory south of Canberra . It is powered by 83,000 solar panels, and can power 4,400 homes. It was officially opened on 3 September 2014. It is the first solar plant facility in the Australian capital, and at the time of building the largest such plant in Australia. The facility was built by a Spanish company, Fotowatio Renewable Ventures (FRV).
+
+Solar farms in New South Wales earn significantly more for their size than solar farms in other states. Two new solar farms with capacity to produce enough energy to supply 50,000 homes are currently being developed by Hanwha Energy Australia .
+
+2021 Amp Energy closes funding for 120MW solar project in New South Wales.
+
+There are 30 solar concentrator dishes at three locations in the Northern Territory : Hermannsburg , Yuendumu and Lajamanu . Solar Systems and the Federal government were involved in the projects.
+
+The solar concentrator dish power stations together generate 720 kW and 1,555,000 kWh per year, representing a saving of 420,000 litres (110,000 US gallons) of diesel and 1,550 tonnes (3.4 million pounds) of greenhouse gas emissions .
+
+The solar power stations at these three remote indigenous communities in Australia's Northern Territory are constructed using Solar Systems' CS500 concentrator dish systems. The project cost A$7M, offset by a grant from the Australian and Northern Territory Governments under their Renewable Remote Power Generation Program.
+
+The project won a prestigious Engineering Excellence award in 2005.
+
+The Federal Government has funded over 120 innovative small-scale standalone solar systems in remote indigenous communities, designed by Bushlight, a division of the Centre for Appropriate Technology , incorporating sophisticated demand side management systems with user-friendly interfaces.
+
+Over 2GW of solar farms were completed or under construction in Queensland as of 2018.
+
+The 100 MW Clare Solar Farm , located 35 km southwest of Ayr in north Queensland, began exporting to the grid in May 2018.
+
+The 50 MW AC Kidston Solar Project has been built on the site of the Kidston Gold Mine . This is phase 1 of a planned solar energy and pumped storage combination. Kidston is owned by Genex Power and was constructed by UGL .
+
+The Lilyvale Solar Farm , with a capacity of 130 MW AC, is under construction by Spanish companies GRS and Acciona , after an EPC contract was signed with Fotowatio Renewable Ventures (FRV). It will be located in Lilyvale , which is around 50 km northeast of Emerald , and commercial operations are expected to start in late 2018.
+
+The Hamilton Solar Farm is a 69.0 MW DC single-axis tracking project located a few kilometres north of Collinsville in North Queensland . Its owners are Edify Energy and Wirsol . The solar farm came online in July 2018.
+
+There are 2 more solar projects under construction by Edify Energy in Collinsville due to come on line in late 2018. The Hayman Solar Farm which is a 60.0 MW DC single-axis tracking project and the Daydream Solar Farm which is a 180.0 MW DC single-axis tracking project.
+
+Barcaldine Solar Farm is a 2 * 10 MW AC single-axis tracking project located within 10 km of Barcaldine .
+
+Bungala Solar Power Project north of Port Augusta is the first grid-scale facility in South Australia. Stage 1 is rated at 110 MW. It has a contract to provide electricity to Origin Energy .
+
+Sundrop Farms concentrated solar power plant has a generating capacity of 40 MW, and is the first of its kind to be commissioned in the state. It was completed in 2016. A floating array of solar PV panels is in place at Jamestown wastewater treatment plant, with a generating capacity of 3.5 MW.
+
+The largest rooftop solar PV array in South Australia was installed in 2017 at Yalumba Wine Company across three Barossa locations. Total generating capacity is 1.39 MW generating approximately 2,000 MWh per annum. Previous significant installations include Flinders University with 1.8MW across a solar carpark and building rooftops (it has announced plans for further investment to become carbon positive), Adelaide Airport , with a generating capacity of 1.17 MW, and the Adelaide Showground , with a generating capacity of 1 MW. The showgrounds array was the first PV station in Australia to reach a generating capacity of 1 MW and was expected to generate approximately 1,400 Megawatt-hours of electricity annually.
+
+On 29 November 2017 the state government announced a new round of finance for renewable energy projects which included a Planet Arc Power – Schneider Electric development of a $13.9m solar PV and battery project at a major distribution centre in Adelaide's north. The project includes a micro-grid management system optimising 5.7 MW of solar PV coupled with 2.9 MWh of battery storage. The University of South Australia will develop 1.8 MW of ground and roof mounted solar PV at its Mawson Lakes campus. At the Heathgate Resources Beverley mine there are plans for a relocatable 1 MW of solar PV paired with a 1 MW/0.5 MWh battery which will be integrated with an existing on-site gas power plant.
+
+In 2019, a ground-mounted solar PV farm was constructed by AGL and commissioned by Santos at Port Bonython with a 2.12 MW capacity.
+
+The Aurora Solar Thermal Power Project was proposed for near Port Augusta, it was cancelled in 2019.
+
+South Australia sometimes produce more solar power than demand. Rooftop solar may be restricted to export 1.5 kW, or be managed by the grid supplier. After September 2020, South Australia requires all new facilities, including home solar, to have low voltage ride through and remote disconnect.
+
+The 100 MW PV Mildura Solar Concentrator Power Station , formerly expected to be completed in 2017, is now cancelled. It was expected to be the biggest and most efficient solar photovoltaic power station in the world. The power station was expected to concentrate the sun by 500 times onto the solar cells for ultra high power output. The Victorian power station would have generated electricity directly from the sun to meet the annual needs of over 45,000 homes with on-going zero greenhouse gas emissions .
+
+The Gannawarra Solar Farm is a 60.0 MW DC single-axis tracking project located west of Kerang in north-west Victoria. It is the first large-scale solar farm to be constructed in Victoria.
+
+Bannerton Solar Park , is an 88 MWAC DC single-axis tracking project located in Bannerton , southeast of Robinvale in the Sunraysia district of Victoria . It generates up to 88MW of electricity to the National Electricity Market (NEM). It is funded by the Clean Energy Finance Corporation and Hanwha Energy Australia , parent company of Nectr.
+
+Western Australia's first major large scale solar farm, the Greenough River Solar Farm , is at Walkaway , 70 km SE of Geraldton . It was opened in October 2012. The 10 MW field has 150,000 solar panels. The 20 MW Emu Downs Solar Farm became the largest solar farm in WA when opened in March 2018. Emu Downs Solar Farm is co-located with the Emu Downs Wind Farm .
+
+The largest rooftop solar PV array in Western Australia was completed in 2021 by Solgen and AGF Electrical at Ellenbrook city shopping centre, with a total generating capacity of 2.8 MW.
+
+The proposed Asian Renewable Energy Hub , combining solar and wind power, will generate up to 26 gigawatts of power to produce green hydrogen .
+
+Solar Cities is a demonstration program designed to promote solar power, smart meters, and energy conservation in urban locations throughout Australia. One such location is Townsville , Queensland .
+
+The Council of Sydney is attempting to make the city run 100% on renewable energy by 2030. This plan was announced earlier in 2014 with the blueprints made public on their website. This ambitious plan was recently awarded the 2014 Eurosolar prize in the category of "Towns/municipalities, council districts and public utilities".

@@ -1,0 +1,33 @@
+Metal fabrication is the creation of metal structures by cutting, bending and assembling processes. It is a value-added process involving the creation of machines, parts, and structures from various raw materials.
+
+Typically, a fabrication shop bids on a job, usually based on engineering drawings , and if awarded the contract, builds the product. Large fab shops employ a multitude of value-added processes, including welding, cutting, forming and machining.
+
+As with other manufacturing processes, both human labor and automation are commonly used. A fabricated product may be called a fabrication , and shops specializing in this type of work are called fab shops . The end products of other common types of metalworking, such as machining , metal stamping , forging , and casting , may be similar in shape and function, but those processes are not classified as fabrication.
+
+Fabrication comprises or overlaps with various metalworking specialties:
+
+Standard metal fabrication materials are:
+
+A variety of tools are used to cut raw material. The most common cutting method is shearing .
+
+Special band saws for cutting metal have hardened blades and feed mechanisms for even cutting. Abrasive cut-off saws, also known as chop saws, are similar to miter saws but have a steel-cutting abrasive disks. Cutting torches can cut large sections of steel with little effort.
+
+Burn tables are CNC (computer-operated) cutting torches, usually powered by natural gas. Plasma and laser cutting tables, and water jet cutters , are also common. Plate steel is loaded on the table and the parts are cut out as programmed. The support table consists of a grid of bars that can be replaced when worn. Higher-end burn tables may include CNC punch capability using a carousel of punches and taps. In fabrication of structural steel by plasma and laser cutting , robots move the cutting head in three dimensions around the cut material.
+
+Forming converts flat sheet metal into 3-D parts by applying force without adding or removing material. The force must be great enough to change the metal's initial shape. Forming can be controlled with tools such as punches and dies. Machinery can regulate force magnitude and direction. Machine-based forming can combine forming and welding to produce lengths of fabricated sheeting (e.g. linear grating for water drainage). Most metallic materials, being at least somewhat ductile and capable of considerable permanent deformation without cracking or breaking, lend themselves particularly well to these techniques.
+
+Proper design and use of tools with machinery creates a repeatable form that can be used to create products for many industries, including jewelry, aerospace, automotive, construction, civil and architectural.
+
+Machining is a specialized trade of removing material from a block of metal to make it a desired shape. Fab shops generally have some machining capability, using metal lathes , mills , drills , and other portable machining tools. Most solid components, such as gears, bolts, screws and nuts, are machined.
+
+Welding is the main focus of steel fabrication. Formed and machined parts are assembled and tack-welded in place, then rechecked for accuracy. If multiple weldments have been ordered, a fixture may be used to locate parts for welding. A welder then finishes the work according to engineering drawings (for detailed welding) or by their own experience and judgement (if no details are provided).
+
+Special measures may be needed to prevent or correct warping of weldments due to heat. These may include redesigning the piece to require less welding, employing staggered welding, using a stout fixture, covering the weldment in sand as it cools, and post-weld straightening.
+
+Straightening of warped steel weldments is done with an oxyacetylene torch . In this highly specialized work, heat is selectively applied to the steel in a slow, linear sweep, causing the steel to contract in the direction of the sweep as it cools. A highly skilled welder can remove significant warpage this way.
+
+Steel weldments are occasionally annealed in a low-temperature oven to relieve residual stresses . Such weldments, particularly those for engine blocks, may be line-bored after heat treatment.
+
+After the weldment has cooled, seams are usually ground clean, and the assembly can be sandblasted , primed and painted. Any additional manufacturing is then performed, and the finished product is inspected and shipped.
+
+Many fabrication shops offer specialty processes, including :

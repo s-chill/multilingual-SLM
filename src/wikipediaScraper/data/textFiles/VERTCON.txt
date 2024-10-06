@@ -1,0 +1,3 @@
+VERTCON is a computer program that computes the modeled difference in orthometric height between the North American Vertical Datum of 1988 (NAVD 88) and the National Geodetic Vertical Datum of 1929 (NGVD 29) for a location in the contiguous United States . The parameters required are the latitude and longitude of the location.
+
+The program was created by the National Geodetic Survey (NGS) in 1994 and is available as an online tool, or PC executable package. The package contains the Perl source code. The NGS is the government agency charged with responsibility for the National Spatial Reference System .

@@ -1,0 +1,17 @@
+Ian Avrum Goldberg (born March 31, 1973) is a cryptographer and cypherpunk . He is best known for breaking Netscape's implementation of SSL (with David Wagner ), and for his role as chief scientist of Radialpoint (formerly Zero Knowledge Systems ), a Canadian software company. Goldberg is currently a professor at the Faculty of Mathematics of the David R. Cheriton School of Computer Science within the University of Waterloo , and the Canada Research Chair in Privacy Enhancing Technologies. He was formerly Tor Project board of directors chairman, and is one of the designers of off the record messaging .
+
+Goldberg attended high school at the University of Toronto Schools , graduating in 1991. In 1995, he received a B.Math from the University of Waterloo in pure mathematics and computer science. He obtained a Ph.D. from the University of California, Berkeley in December 2000. His thesis was entitled A Pseudonymous Communications Infrastructure for the Internet . His advisor was Eric Brewer .
+
+As a high school student, Goldberg was a member of Canada's team to the International Math Olympiad from 1989 to 1991, where he received a bronze, silver, and gold medal respectively. He was also a member of University of Waterloo team that won the ACM International Collegiate Programming Contest in 1994. In 1998, Wired Magazine chose him as a member of the "Wired 25". In 2011 he won the EFF Pioneer Award . In 2019, he won the USENIX Security Test of Time Award along with his colleagues David Wagner and Randi Thomas and former PhD supervisor Eric Brewer. In 2023, he was named an ACM Fellow .
+
+In 1995, Goldberg with David Wagner discovered a flaw in the random number generator used for temporary key generation in the SSL implementation of Netscape Navigator .
+
+One of the first cryptanalyses on the WEP wireless encryption protocol was conducted by Goldberg with Nikita Borisov and David Wagner, revealing serious flaws in its design.
+
+Goldberg was a co-author of the Off-the-Record instant messaging encryption protocol. He is also the author of the Perl script included in the novel Cryptonomicon by Neal Stephenson .
+
+In 2009 Goldberg was co-author of the Sphinx Mix Format, which is nowadays implemented with the extension of a per-hop payload to increase the privacy of both payer and payee while routing Bitcoin payments through the Lightning Network .
+
+Vitalik Buterin , co-founder of Ethereum , was a research assistant of Goldberg while a student at the University of Waterloo .
+
+Goldberg is a member of the Cryptography, Security and Privacy group as well as the Cybersecurity and Privacy Institute (CPI). He has been collaborating with the CPI works on the development of a new interdisciplinary research and education program.

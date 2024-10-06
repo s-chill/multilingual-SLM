@@ -1,0 +1,27 @@
+Visual words , as used in image retrieval systems, refer to small parts of an image that carry some kind of information related to the features (such as the color, shape, or texture) or changes occurring in the pixels such as the filtering, low-level feature descriptors ( SIFT or SURF ).
+
+The approaches of text retrieval system (or information retrieval IR system ) which were developed over 40 years, are based on keywords or Term. The advantage of these approaches is that they are effective and fast. Text-search engines are able to quickly find documents from hundreds or millions (by using a vector space model ). At the same time, text retrieval systems have huge successes, whereas the standard image retrieval systems (like simple search by colors or shapes) have a large number of limitations. Consequently, researchers try to take advantage of text retrieval techniques to apply them to image retrieval . That can be accomplished by a new kind of vision to understand images as textual documents , which is the visual words approach.
+
+Consider that the pixels of an image, which are the smallest parts of a digital image and cannot be divided into smaller ones, are like the letters of an alphabetical language. Then, a set of pixels in an image (a patch or arrays of pixels) is a word. Each word can then be reprocessed into a morphological system to extract a term related to that word. Then, several words can share the same meaning, each one will refer to the same term (like in any language). Multiple words share the same meaning and belong to the same term (have the same information). By this view, researchers can take advantage from text retrieval techniques to apply them to image retrieval system.
+
+This principle can be applied to games to find what words and terms will be in our images. The idea is to try to understand the images with a collection of "visual words".
+
+A small patch on the image which can carry any information in any feature space, such as color changes or texture changes.
+
+In general visual words (VWs) exist in a feature space of continuous values implying a huge number of words and therefore a huge language. Since image retrieval systems need to use text retrieval techniques that are dependent on natural languages, which have a limit to the number of terms and words, there is a need to reduce the number of visual words.
+
+A number of solutions exist to solve this problem, such as dividing the feature space into ranges, each having common characteristics (which can be considered as the same word). Nonetheless, this solution carries many issues, like the division strategy and the size of the range in the feature space. Another solution proposed by researchers is using a clustering mechanism to classify and merge words carrying common information in a finite number of terms.
+
+The clustering result in the feature space (centers of the clusters). More than one patch can give the nearest information in feature space, so we can consider it in the same term.
+
+As the Term in a text (the infinity verb, nouns, and articles) refer to many common words having the same characteristics, the visual term (with its clustering result) will refer to all common words which shared the same information in a feature space.
+
+Lastly, if all images refer to the same set of visual terms, then all images can speak the same language (or visual language ).
+
+A set of visual words and visual terms. Considering the visual terms alone is the “Visual Vocabulary” which will be the reference and retrieval system that will depend on it for retrieving images.
+
+All images will be represented with this visual language as a collection of visual words, or bag of visual words.
+
+A collection of visual words which together give information on the meaning of part or all of the image.
+
+Based on this kind of image representation, it is possible to use text retrieval techniques to design an image retrieval system. However, since all text retrieval systems depend on terms, the user's query images must be converted into a set of visual terms in the system. Then, it will compare these visual terms with all visual terms in the database.

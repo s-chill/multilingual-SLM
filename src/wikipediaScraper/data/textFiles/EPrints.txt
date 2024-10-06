@@ -1,0 +1,15 @@
+EPrints is a free and open-source software package for building open access repositories that are compliant with the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH). It shares many of the features commonly seen in document management systems , but is primarily used for institutional repositories and scientific journals . EPrints has been developed at the University of Southampton School of Electronics and Computer Science and released under the GPL-3.0-or-later license.
+
+The EPrints software is not to be confused with " Eprints " (or "e-prints"), which are preprints (before peer review ) and postprints (after peer review), of research journal articles (eprints = preprints + postprints).
+
+EPrints was created in 2000 as a direct outcome of the 1999 Santa Fe meeting that launched what eventually became the OAI-PMH .
+
+The EPrints software was enthusiastically received and became the first and one of the most widely used free open access, institutional repository software, and it has since inspired the development of other software that fulfil a similar purpose, notably DSpace .
+
+Version 3 of the software was officially released on 24 January 2007 at the Open Repositories 2007 Conference and was described by its developers as "a major leap forward in functionality, giving even more control and flexibility to repository managers, depositors, researchers and technical administrators".
+
+EPrints is a Web and command-line application based on the LAMP architecture (but is written in Perl rather than PHP ). It has been successfully run under Linux , Solaris and Mac OS X . A version for Microsoft Windows was released 17 May 2010.
+
+Version 3 of the software introduced a (Perl-based) plugin architecture for importing and exporting data, converting objects (for search engine indexing) and user interface widgets .
+
+Configuring an EPrints repository involves modifying configuration files written in Perl or XML . The appearance of a repository is controlled by HTML templates, CSS stylesheets and inline images. While EPrints is shipped with an English translation it has been translated to other languages through (redistributable) language-specific XML phrase files. Existing translations include Bulgarian, French, German, Hungarian, Italian, Japanese, Russian, Spanish and Ukrainian.

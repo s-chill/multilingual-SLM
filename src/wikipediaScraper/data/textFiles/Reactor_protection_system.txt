@@ -1,0 +1,5 @@
+A reactor protection system ( RPS ) is a set of nuclear safety and security components in a nuclear power plant designed to safely shut down the reactor and prevent the release of radioactive materials.  The system can "trip" automatically (initiating a scram ), or it can be tripped by the operators.  Trips occur when the parameters meet or exceed the limit setpoint. A trip of the RPS results in full insertion (by gravity in pressurized water reactors or high-speed injection in boiling water reactors) of all control rods and shutdown of the reactor.
+
+Some of the measured parameters for US pressurized water plants would include:
+
+Each parameter is measured by independent channels such that actuation of any two channels would result in an automatic SCRAM or reactor shutdown. The system also allows manual actuation by the operator.

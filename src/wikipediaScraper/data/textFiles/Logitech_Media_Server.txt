@@ -1,0 +1,33 @@
+Lyrion Music Server (formerly Logitech Media Server, SlimServer, SqueezeCenter and Squeezebox Server) is a streaming audio server supported by the LMS community and formerly supported by Logitech , developed in particular to support their Squeezebox range of digital audio receivers.
+
+The software is designed for streaming music over a network, allowing users to play their music collections from virtually anywhere there is an Internet connection.  It supports PCM audio formats including MP3 , FLAC , WAV , Ogg , Opus , and AAC , as well as transcoding . It also supports DSD audio formats such as DSF, DFF and DSD WavPack . It can stream to both software and hardware receivers, including the various Squeezebox models, as well as any media player capable of playing MP3 streams. Plugins from Logitech and third-party sources are also supported, allowing additional functionality to be added. Lyrion Music Server supports grouping clients in order to synchronize playback among all clients within a group.
+
+Lyrion Music Server is free software , released under the terms of the GNU General Public License .  While no longer distributed in conjunction with any Logitech hardware product, LMS continues to be developed.
+
+Logitech's own Squeezebox hardware players existed in a variety of configurations, offering wired and wireless Ethernet , analog and digital audio outputs, touchscreen interfaces and a variety of remote controlled options. Logitech discontinued their hardware players in 2012.
+
+Lyrion Music Server also works with networked music players , such as the Roku SoundBridge M1001, although Logitech does not officially support these competing products. Chumby devices also support streaming music from a Lyrion Music Server, as does the Rio Receiver when running replacement software to emulate the SliMP3 device, although it is limited to modest bitrates (<128kps). In late 2015 support was added via a plugin to use Google's Chromecast Audio device as a headless player which can then be connected to any audio system or powered speakers.
+
+Recently the O2 Joggler has proven a popular device for running Logitech's open source SqueezePlay software, providing a similar interface to the Squeezebox Touch on a 7" display.
+
+The Raspberry PI, using the piCorePlayer streams from LMS and in some cases LMS is run on the Raspberry PI too.
+
+SqueezeAMP, a free open source hardware player.
+
+SqueezePlay is based on SqueezeOS, the operating system that drives the hardware devices Squeezebox Duet, Radio and Touch. Written in Lua , it is also open-source software and sees regular updates through Logitech's SVN releases. There is also a free software emulator version of the Squeezebox, called Softsqueeze, which is written in Java and can be run easily as an applet inside a web page. A third player, SqueezeSlave, is also available, which operates similarly but without any display. SqueezeSlave is designed to be run on a server connected to an amplifier/speakers, and can be controlled through the standard Lyrion Music Server web interface. At this time, SqueezeSlave is incompatible with Logitech's Spotify plugin due to a lack of support for 'direct streaming'.
+
+In 2012, work began on Squeezelite , a cross-platform, headless, LMS client that supports playback synchronization, gapless playback, direct streaming (for use with Spotify, etc.), and playback at various sampling rates.
+
+In 2019, Squeezelite has been ported to the ESP32 WiFi/BT chipset and works on WROVER and ESP-A1S module or any board that includes an ESP32 and 4MB of SRAM (e.g. SqueezeAMP)
+
+There is as well three free open source "bridges" that allow UPnP/DLNA, ChromeCast and AirPlay devices to appear as regular SB players. AirPlay devices can be synchronized with other SB players. Chromecast groups are recognized as well as Sonos (UPnP) group, but they can only play synchronously within their own respective brand.
+
+The Lyrion Music Server software is written in Perl , and will run on Linux , Microsoft Windows , Apple Macintosh , BSD , and piCorePlayer platforms.
+
+Lyrion Music Server itself can run on a number of NAS devices , such as QNAP Turbo NAS, Synology Disk Station, Netgear ReadyNAS, Buffalo Linkstation , Linksys NSLU2 , Thecus N5200 & N7700, Xtreamer eTRAYz and any device running FreeNAS software. Lyrion Music Server also comes pre-installed on the VortexBox Linux distribution and VortexBox appliance. This generally results in lower energy consumption than running Lyrion Music Server on a personal computer , whilst offering the same feature set (albeit with a slightly less responsive web interface under certain circumstances).  Some NAS devices may require more effort than others to get Lyrion Music Server running, though. Logitech only supported the Netgear ReadyNAS NAS devices.
+
+It is possible to customize the user interface using skins by installing a plugin. The Material Skin for LMS provides a fully responsive HTML5/Javascript user interface for Lyrion Music Server, suitable for both mobile and desktop usage.
+
+There are numerous plug-ins and device drivers available for Lyrion Music Server, which include features such as support for automation systems from Clare Controls, AMX LLC and Crestron Electronics . Plugins also provide access to additional services, such as the live radio and 'listen-again' features of BBC Sounds in the UK.
+
+As of September 2019, Lyrion Music Server is controllable by a full-function Alexa skill (called 'MediaServer' ) available in the en-US and en-GB locales. In addition to allowing voice control of hardware and software Squeezebox players, this also allows streaming audio from LMS to an Amazon Echo device for playback.

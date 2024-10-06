@@ -1,0 +1,13 @@
+GendBuntu is a version of Ubuntu adapted for use by France's National Gendarmerie . The Gendarmerie have pioneered the use of open source software on servers and personal computers since 2005 when it adopted the OpenOffice.org office suite, making the OpenDocument .odf format its nationwide standard.
+
+The GendBuntu project derives from Microsoft's decision to end the development of Windows XP , and its inevitable replacement with Windows Vista or a later edition of Windows on government computers. This meant that the Gendarmerie would have incurred large expenses for staff retraining even if it had continued to use proprietary software.
+
+One of the main aims of the GendBuntu project was for the organisation to become independent from proprietary software distributors and editors, and achieve significant savings in software costs (estimated to be around two million euros per year).
+
+Around 90% of the 10,000 computers purchased by the Gendarmerie per year are bought without an operating system, and have GendBuntu installed by the Gendarmerie's technical department. This has become one of the major incentives of the scheme for staff; transferring to GendBuntu from a proprietary system means the staff member receives a new computer with a widescreen monitor.
+
+The main goal is to migrate 80,000 computers by the end of 2014, a date which coincides with the end of support for Microsoft Windows XP. 35,000 GendBuntu desktops and laptops have been deployed as of November 2011.
+
+A major technical problem encountered during the development of the project was keeping the existing computer system online while the update took place, not only in metropolitan France but also in overseas Departments and Regions. It was solved partly by redistributing dedicated servers or workstations on local area networks (depending on the number of employees working on each LAN) and with the use of an ITIL-compliant qualifying process.
+
+An IT Support team helped to implement the changes. This included the "core team" at Gendarmerie headquarters at Issy-les-Moulineaux and the "running team" of four located at the Gendarmerie data center at Rosny-sous-Bois .

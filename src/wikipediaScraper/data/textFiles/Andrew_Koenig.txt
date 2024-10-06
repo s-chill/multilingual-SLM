@@ -1,0 +1,9 @@
+Andrew Richard Koenig ( IPA: [ˈkøːnɪç] ; born June 1952) is a former AT&T and Bell Labs researcher and programmer. He is the author of C Traps and Pitfalls and co-author (with Barbara Moo ) of Accelerated C++ and Ruminations on C++ , and his name is associated with argument-dependent name lookup , also known as "Koenig lookup", though he is not its inventor. He served as the Project Editor of the ISO/ANSI standards committee for C++, and has authored over 150 papers on C++ .
+
+Koenig was born in New York City and is the son of the physicist Dr. Seymour H. Koenig, a former director of the IBM Watson Laboratory , and Harriet Koenig, an author and collector of Native American Indian art.
+
+He graduated from The Bronx High School of Science in 1968 and went on to receive a Bachelor of Science degree and a Master of Science degree from Columbia University in New York. He was a prominent member of the Columbia University Center for Computing Activities (CUCCA) in the late 1960s and 1970s. He wrote the first e-mail program used at the university.
+
+In 1977, he joined the technical staff of Bell Labs in Murray Hill, New Jersey , from which he later retired.
+
+The first book he authored, in 1987, C Traps and Pitfalls , had been motivated by his prior paper and work, mostly as a staff member at Columbia University, on a different computer language, PL/I . In 1977, as a recently hired staff member at Bell Labs, he presented a paper called "PL/I Traps and Pitfalls" at a SHARE meeting in Washington, D.C.

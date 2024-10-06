@@ -1,0 +1,9 @@
+Android 1.6 Donut is the fourth version of the open source Android mobile operating system developed by Google.
+
+Among the more prominent features introduced with this update were added support for CDMA smartphones , additional screen sizes , a battery usage indicator, and a text-to-speech engine .
+
+After the public release of Donut —its official dessert-themed code name , the convention employed by Google to designate major Android versions— carriers were quick to follow with its roll out to customers in the form of an over-the-air (OTA) update for compatible smartphones.
+
+On September 27, 2021, Google announced it would no longer allow signing in on Android devices that run Android 2.3.7 Gingerbread or older, requiring Android 3.0 (on tablets) or 4.0 (phone and tablets) or higher to log in.
+
+New features introduced by Donut include the following:

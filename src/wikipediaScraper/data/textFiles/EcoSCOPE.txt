@@ -1,0 +1,19 @@
+The ecoSCOPE is an optical sensor system, deployed from a small remotely operated vehicle ( ROV ) or fibre optic cable, to investigate behavior and microdistribution of small organisms in the ocean.
+
+Although an ROV may be very small and quiet, it is impossible to approach feeding herring closer than 40 cm. The ecoSCOPE allows observation of feeding herring from a distance of only 4 cm. From 40 cm, the herrings' prey ( copepods ) in front of the herring are invisible due to the deflection of light by phytoplankton and microparticles in highly productive waters where herring live. With the ecoSCOPE, the predators are illuminated by natural light, the prey by a light sheet, projected via a second endoscope from strobed LEDs (2 ms, 100% relative intensity at 700 nm, 53% at 690 nm, 22% at 680 nm, 4% at 660 nm, 0% at 642 nm).
+
+By imitating the long, thin snout of the garfish protruding into the security sphere of the alert herrings, an endoscope with a tip diameter of 11 mm is used. The endoscope is camouflaged to reduce the brightness-contrast against the background: the top is black and the sides are silvery. Additionally, the front of the ROV is covered by a mirror, reflecting a light gradient resembling the natural scene and making the instrument body virtually invisible to the animals.  A second sensor images other copepods, phytoplankton and particles at very high magnification. Another advantage of these small "optical probes" is the minimal disruption of the current-field in the measuring volume, allowing for less disturbed surveys of microturbulence and shear.
+
+Another video can be seen in the article for Atlantic herring .
+
+An ecoSCOPE was also deployed to measure the dynamics of particles in a polluted estuary: see image on Particle (ecology) , another as an underwater environmental monitoring system, utilizing the orientation capacity of juvenile glasseel.
+
+The ecoSCOPE is a product of the new initiative of "Ocean Online Biosensors": a synthesis of IT-sensoric and the sensing capability of ocean organisms.
+
+Depicted in the image on the right is the central unit. On all four corners are small entrances, through which water from different sources enters (in this case, rivers and creeks in New Jersey ).  It flows through a small labyrinth and mixes in the central chamber. It exits through a small tube in the middle. The glasseels migrate through this small tube heading into the current. In the middle is the entrance for the eels. They test the different water qualities and migrate toward the corner, where they exit.
+
+It is the opinion of many scientists that eels have developed the finest nose on the planet. They can sense concentrations of one part in 19 trillion . This is the same concentration as one glass of alcohol in the waters of all America's Great Lakes . For the eels the sensory impressions are probably as diverse as the colors visible for us.
+
+The system is submerged, and a digital camera observes the exits. The dynIMAGE software monitors the frequency of decisions per exit. Many thousand of glasseels pass through the system on a single day. The three exits in the left lower corner carry water from polluted sources (one is a drinking water reservoir).
+
+EcoSCOPE systems have already been tracking water pollution and its effect on fish and plankton behavior in Europe and the United States). For the future it is anticipated to deploy ecoSCOPEs continuously online, within the project LEO Projekt off New York City , visible for the public. Tests have also been performed with different qualities of drinking water and with solutions of runoff juice from different samples of fish .

@@ -1,0 +1,29 @@
+Space Launch Complex 40 (SLC-40) , sometimes referred to as " Slick Forty ," is a launch pad located at Cape Canaveral Space Force Station in Florida. Initially opened as Launch Complex 40 ( LC-40 ) and used by the United States Air Force for 55 launches of rockets from the Titan family between 1965 and 2005. In 2007, SpaceX acquired a lease for SLC-40 and has since transformed the complex into a high-volume launch site for the Falcon 9 rocket. As of August 2024, the pad has hosted over 200 Falcon 9 launches.
+
+A major setback occurred in 2016 when a catastrophic explosion during a static fire test heavily damaged the facility. After extensive repairs and upgrades, SLC-40 returned to service in December 2017. To further enhance its capabilities, a tower and access arm were added in 2023 to support SpaceX's crewed missions.
+
+Originally designated Launch Complex 40, SLC-40 hosted its inaugural launch for the United States Air Force in June 1965, a Titan IIIC rocket equipped with two transtage upper stages for testing purposes.
+
+Notably, the pad served as the launch site for two interplanetary missions: the failed Mars Observer in September 1992 and the successful Cassini–Huygens mission to Saturn in October 1997.
+
+Over its lifetime, SLC-40 supported a total of 55 Titan launches, including 26 Titan IIICs, eight Titan 34Ds , four Commercial Titan IIIs , and 17 Titan IVs . The final Titan launch from SLC-40 was the Lacrosse-5 reconnaissance satellite carried on a Titan IV-B on April 30, 2005.
+
+Following the conclusion of Titan operations, the launch complex underwent significant transformation. The tower was dismantled in early 2008, followed by the controlled demolition of the Mobile Service Structure later that year.
+
+SpaceX leased SLC-40 from the U.S. Air Force in April 2007 to launch its Falcon 9 rocket. Ground facility construction began the following year, including a rocket and payload preparation hangar and new fuel tanks. A spherical liquid oxygen tank previously used at LC-34 was purchased from NASA.
+
+The first Falcon 9 arrived in late 2008, with the inaugural launch in June 2010 carrying a dummy payload. A Dragon spacecraft demonstration flight followed in December. Starting in 2012, SLC-40 became the primary launch site for the Dragon cargo vehicle providing provide two-way logistics to and from the International Space Station, a role previously filled by the Space Shuttle until its retirement in 2011.
+
+To accommodate the heavier Falcon 9 v1.1 rocket, the launch pad was modified in 2013. Launch frequency gradually increased from 2014, with a mix of Dragon and satellite missions.
+
+A catastrophic explosion occurred at SLC-40 in September 2016 during a static fire test, destroying a Falcon 9 rocket and its payload, the AMOS-6 satellite. The incident caused significant damage to the launch pad. After a thorough investigation and cleanup, repairs and upgrades began in early 2017. SLC-40 returned to service in December 2017 with the successful launch of CRS-13.
+
+SpaceX had leased Launch Complex 39A (LC-39A) at the nearby Kennedy Space Center from NASA in April 2014, which allowed launches to continue to from Florida during the reconstruction of SLC-40. In August 2018, LC-39A received an access arm, allowing crew to be loaded onto Crew Dragon 2 capsules along with late payload changes on Cargo Dragon 2 capsules. Because SLC-40 lacked an access arm, Dragon missions were paused after the original Dragon 1 capsule was retired in 2020.
+
+In the 2020s, SLC-40 would become SpaceX’s "workhorse" launch pad, hosting less complex satellite launch missions as frequently as every week, completing 50 launches of this launch pad alone in 2023. Meanwhile, LC-39A was used less, being reserved for Dragon crew and cargo flights, Falcon Heavy missions, and other complex missions.
+
+To add additional operational flexibility and reduce reliance on LC-39A, in early 2023, SpaceX began constructing an access arm at SLC-40. In February 2024, SpaceX tested its new emergency escape system for future crewed missions, which uses an evacuation slide instead of the slidewire baskets used at LC-39A .
+
+The arm was first used ahead of in early 2024 to accommodate late loading of supplies into cargo spacecraft. SLC-40 is scheduled to be used to launch its first crewed mission in September 2024, SpaceX Crew-9 . The mission had been slated to use LC-39A, but was shifted to SLC-40 when the launch was delayed due to issues with the Boeing Starliner Calypso spacecraft that was docked to the ISS. The September launch of Crew-9 was uncomfortably close to the launch NASA's Europa Clipper mission, which must launch from LC-39A during a 21-day window in early October.
+
+As of September 28, 2024

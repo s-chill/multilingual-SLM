@@ -1,0 +1,55 @@
+Photonics is a branch of optics that involves the application of generation , detection , and manipulation of light in the form of photons through emission , transmission , modulation , signal processing , switching, amplification , and sensing . Photonics is closely related to quantum electronics, where quantum electronics deals with the theoretical part of it while photonics deal with its engineering applications. Though covering all light's technical applications over the whole spectrum , most photonic applications are in the range of visible and near- infrared light. The term photonics developed as an outgrowth of the first practical semiconductor light emitters invented in the early 1960s and optical fibers developed in the 1970s.
+
+The word 'Photonics' is derived from the Greek word "phos" meaning light (which has genitive case "photos" and in compound words the root "photo-" is used); it appeared in the late 1960s to describe a research field whose goal was to use light to perform functions that traditionally fell within the typical domain of electronics, such as telecommunications, information processing, etc.
+
+An early instance of the word was in a December 1954 letter from John W. Campbell to Gotthard Gunther :
+
+Incidentally, I’ve decided to invent a new science — photonics. It bears the same relationship to Optics that electronics does to electrical engineering. Photonics, like electronics, will deal with the individual units; optics and EE deal with the group-phenomena! And note that you can do things with electronics that are impossible in electrical engineering!
+
+Photonics as a field began with the invention of the maser and laser in 1958 to 1960. Other developments followed: the laser diode in the 1970s, optical fibers for transmitting information, and the erbium-doped fiber amplifier . These inventions formed the basis for the telecommunications revolution of the late 20th century and provided the infrastructure for the Internet .
+
+Though coined earlier, the term photonics came into common use in the 1980s as fiber-optic data transmission was adopted by telecommunications network operators. At that time, the term was used widely at Bell Laboratories . Its use was confirmed when the IEEE Lasers and Electro-Optics Society established an archival journal named Photonics Technology Letters at the end of the 1980s.
+
+During the period leading up to the dot-com crash circa 2001, photonics was a field focused largely on optical telecommunications. However, photonics covers a huge range of science and technology applications, including laser manufacturing, biological and chemical sensing, medical diagnostics and therapy, display technology, and optical computing . Further growth of photonics is likely if current silicon photonics developments are successful.
+
+Photonics is closely related to optics . Classical optics long preceded the discovery that light is quantized, when Albert Einstein famously explained the photoelectric effect in 1905. Optics tools include the refracting lens , the reflecting mirror , and various optical components and instruments developed throughout the 15th to 19th centuries. Key tenets of classical optics, such as Huygens Principle , developed in the 17th century, Maxwell's Equations and the wave equations, developed in the 19th, do not depend on quantum properties of light.
+
+Photonics is related to quantum optics , optomechanics , electro-optics , optoelectronics and quantum electronics . However, each area has slightly different connotations by scientific and government communities and in the marketplace. Quantum optics often connotes fundamental research, whereas photonics is used to connote applied research and development.
+
+The term photonics more specifically connotes:
+
+The term optoelectronics connotes devices or circuits that comprise both electrical and optical functions, i.e., a thin-film semiconductor device. The term electro-optics came into earlier use and specifically encompasses nonlinear electrical-optical interactions applied, e.g., as bulk crystal modulators such as the Pockels cell , but also includes advanced imaging sensors.
+
+An important aspect in the modern definition of Photonics is that there is not necessarily a widespread agreement in the perception of the field boundaries. Following a source on optics.org, the response of a query from the publisher of Journal of Optics: A Pure and Applied Physics to the editorial board regarding streamlining the name of the journal reported significant differences in the way the terms "optics" and "photonics" describe the subject area, with some description proposing that "photonics embraces optics". In practice, as the field evolves, evidences that "modern optics" and Photonics are often used interchangeably are very diffused and absorbed in the scientific jargon.
+
+Photonics also relates to the emerging science of quantum information and quantum optics. Other emerging fields include:
+
+Applications of photonics are ubiquitous. Included are all areas from everyday life to the most advanced science, e.g. light detection, telecommunications , information processing , photovoltaics , photonic computing , lighting , metrology , spectroscopy , holography , medicine (surgery, vision correction, endoscopy, health monitoring), biophotonics , military technology , laser material processing, art diagnostics (involving InfraRed Reflectography, Xrays , UltraViolet fluorescence, XRF ), agriculture , and robotics .
+
+Just as applications of electronics have expanded dramatically since the first transistor was invented in 1948, the unique applications of photonics continue to emerge. Economically important applications for semiconductor photonic devices include optical data recording, fiber optic telecommunications, laser printing (based on xerography), displays, and optical pumping of high-power lasers. The potential applications of photonics are virtually unlimited and include chemical synthesis, medical diagnostics, on-chip data communication, sensors, laser defense, and fusion energy , to name several interesting additional examples.
+
+Microphotonics and nanophotonics usually includes photonic crystals and solid state devices .
+
+The science of photonics includes investigation of the emission , transmission, amplification , detection, and modulation of light.
+
+Photonics commonly uses semiconductor-based light sources, such as light-emitting diodes (LEDs), superluminescent diodes , and lasers. Other light sources include single photon sources , fluorescent lamps , cathode ray tubes (CRTs), and plasma screens . Note that while CRTs, plasma screens, and organic light-emitting diode displays generate their own light, liquid crystal displays (LCDs) like TFT screens require a backlight of either cold cathode fluorescent lamps or, more often today, LEDs.
+
+Characteristic for research on semiconductor light sources is the frequent use of III-V semiconductors instead of the classical semiconductors like silicon and germanium . This is due to the special properties of III-V semiconductors that allow for the implementation of light emitting devices . Examples for material systems used are gallium arsenide (GaAs) and aluminium gallium arsenide (AlGaAs) or other compound semiconductors . They are also used in conjunction with silicon to produce hybrid silicon lasers .
+
+Light can be transmitted through any transparent medium. Glass fiber or plastic optical fiber can be used to guide the light along a desired path. In optical communications optical fibers allow for transmission distances of more than 100 km without amplification depending on the bit rate and modulation format used for transmission. A very advanced research topic within photonics is the investigation and fabrication of special structures and "materials" with engineered optical properties. These include photonic crystals , photonic crystal fibers and metamaterials .
+
+Optical amplifiers are used to amplify an optical signal. Optical amplifiers used in optical communications are erbium-doped fiber amplifiers , semiconductor optical amplifiers , Raman amplifiers and optical parametric amplifiers . A very advanced research topic on optical amplifiers is the research on quantum dot semiconductor optical amplifiers.
+
+Photodetectors detect light. Photodetectors range from very fast photodiodes for communications applications over medium speed charge coupled devices ( CCDs ) for digital cameras to very slow solar cells that are used for energy harvesting from sunlight . There are also many other photodetectors based on thermal, chemical , quantum, photoelectric and other effects.
+
+Modulation of a light source is used to encode information on a light source. Modulation can be achieved by the light source directly. One of the simplest examples is to use a flashlight to send Morse code . Another method is to take the light from a light source and modulate it in an external optical modulator .
+
+An additional topic covered by modulation research is the modulation format. On-off keying has been the commonly used modulation format in optical communications. In the last years more advanced modulation formats like phase-shift keying or even orthogonal frequency-division multiplexing have been investigated to counteract effects like dispersion that degrade the quality of the transmitted signal.
+
+Photonics also includes research on photonic systems. This term is often used for optical communication systems. This area of research focuses on the implementation of photonic systems like high speed photonic networks. This also includes research on optical regenerators , which improve optical signal quality.
+
+Photonic integrated circuits (PICs) are optically active integrated semiconductor photonic devices. The leading commercial application of PICs are optical transceivers for data center optical networks. PICs were fabricated on III-V indium phosphide semiconductor wafer substrates were the first to achieve commercial success; PICs based on silicon wafer substrates are now also a commercialized technology.
+
+Key Applications for Integrated Photonics include:
+
+Biophotonics employs tools from the field of photonics to the study of biology . Biophotonics mainly focuses on improving medical diagnostic abilities (for example for cancer or infectious diseases) but can also be used for environmental or other applications. The main advantages of this approach are speed of analysis, non-invasive diagnostics, and the ability to work in-situ .

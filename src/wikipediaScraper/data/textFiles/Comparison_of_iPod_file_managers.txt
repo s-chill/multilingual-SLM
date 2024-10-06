@@ -1,0 +1,3 @@
+This is a list of iPod file managers , i.e. software that permits the transferring of media files . In the case of iPod file managers, this takes place between an iPod and a computer or vice versa.
+
+iTunes is the official iPod managing software, but 3rd parties have created alternatives to work around restrictions in the program, or for those avoiding known issues with iTunes.

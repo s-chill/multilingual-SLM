@@ -1,0 +1,33 @@
+Android Cupcake is the third version of the Android operating system, developed by Google , being the successor to Android 1.1 . It was released on April 27, 2009 and succeeded by Android Donut on September 15, 2009.
+
+Android Cupcake introduces a new virtual keyboard , marking a departure from the physical keyboard present on the HTC Dream and support for stereo Bluetooth . Cupcake improved features to its in-built apps; videos can be directly uploaded to YouTube , as can photos to Picasa , the Gmail app supports batch actions, and the web browser was updated to include a new JavaScript engine and copy and pasting. Android Cupcake was the first major release of Android to use a confectionary-themed naming scheme, a scheme that continued until the release of Android 10 in 2019.
+
+By July 2010, Android Cupcake constituted less than a quarter of active devices running Android. User adoption of Android Cupcake began to decrease in the following months, with 4.7% of devices using Android Cupcake by January 2011. On June 30, 2017, Google ceased support for Android Market on Cupcake.
+
+In December 2008, the Android source was updated, making the "cupcake" branch public. The branch included support for stereo Bluetooth and fixed various issues with Android's email client. Around this time, reports emerged that the HTC Dream would receive an update for Android Cupcake. The cupcake branch was continuously updated in the months following its release, with an on-screen keyboard and notepad app being added in January 2009. The HTC Magic was unveiled in February as the first device to launch with Cupcake, notably lacking a physical keyboard.
+
+Android Cupcake was officially released on April 27, 2009. In the days following Cupcake's release, select HTC Dreams began receiving an over-the-air update for Android Cupcake.
+
+Stereo Bluetooth was added, and Bluetooth support for in-car kits was fixed. Auto-pairing was added in Android Cupcake. The Advanced Audio Distribution and Audio/Video Remote Control Bluetooth profiles were also added.
+
+A virtual keyboard was added, similar to the iPhone . The virtual keyboard feature is necessary for devices lacking a physical keyboard, such as the HTC Magic . The virtual keyboard supports autocorrect , predictive text , custom dictionaries, and third-party keyboard layouts.
+
+Slight adjustments to Android Cupcake's user interface were made, including the inclusion of transparency.
+
+Widgets can now be added to the home screen. Built-in widgets include a calendar and music player, although developers can create their own widgets.
+
+Other features added in Android Cupcake include the saving of MMS attachments, support for pausing and resuming of downloads, support for MPEG-4 and 3GP videos, and SD card filesystem checking. The underlying kernel of the Android operating system, the Linux kernel , was updated to 2.6.27.
+
+Browsing categories and filters were added to Android Market , Android Cupcake's app store.
+
+Users can upload videos from the camera directly to YouTube . Photos can also be directly uploaded to Picasa . Startup times for the camera app were improved.
+
+User pictures can now be added to contacts. Google Talk integration was added to the contacts app. Similarly, the call log shows specific date and time stamps for events.
+
+The Gmail app was updated to allow batch operations, such as deleting or archiving multiple emails at once.
+
+Android Cupcake's web browser uses the Squirrelfish JavaScript engine, and supports searching within a page and copy and pasting . Other features added include tabbed bookmarks and history features.
+
+Android Cupcake provides APIs for developers to use. Between Android 1.1 and Cupcake, there were over 1,000 changes to the Android API between Android 1.1 and Cupcake. Developers can:
+
+Android Cupcake also added support for the OpenGL graphics API.

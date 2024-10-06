@@ -1,0 +1,9 @@
+This is a comparison of online backup services .
+
+Online backup is a special kind of online storage service; however, various products that are designed for file storage may not have features or characteristics that others designed for backup have. Online Backup usually requires a backup client program. A browser-only online storage service is usually not considered a valid online backup service.
+
+Online folder sync services can be used for backup purposes. However, some Online Folder Sync services may not provide a safe Online Backup. If a file is accidentally locally corrupted or deleted, it depends on the versioning features of a Folder Sync service, whether this file will still be retrievable.
+
+Any changes can be undone, and files can be undeleted.
+
+Other notable limitations or features.

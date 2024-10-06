@@ -1,0 +1,63 @@
+In computing, umask is a command that determines the settings of a mask that controls how file permissions are set for newly created files. It may also affect how the file permissions are changed explicitly. umask is also a function that sets the mask, or it may refer to the mask itself, which is formally known as the file mode creation mask . The mask is a grouping of bits , each of which restricts how its corresponding permission is set for newly created files. The bits in the mask may be changed by invoking the umask command.
+
+In Unix-like systems, each file has a set of attributes that control who can read, write or execute it. When a program creates a file, the file permissions are restricted by the mask. If the mask has a bit set to "1", then the corresponding initial file permission will be disabled . A bit set to "0" in the mask means that the corresponding permission will be determined by the program and the file system . In other words, the mask acts as a last-stage filter that strips away permissions as a file is created; each bit that is set to a "1" strips away its corresponding permission. Permissions may be changed later by users and programs using chmod .
+
+Each program (technically called a process ) has its own mask and is able to change its settings using a function call. When the process is a shell , the mask is set with the umask command. When a shell or process launches a new process, the child process inherits the mask from its parent process. Generally, the mask only affects file permissions during the creation of new files and has no effect when file permissions are changed in existing files; however, the chmod command will check the mask when the mode options are specified using symbolic mode and a reference to a class of users is not specified.
+
+The mask is stored as a group of bits. It may be represented as binary , octal or symbolic notation. The umask command allows the mask to be set as octal (e.g. 0754 ) or symbolic (e.g. u=,g=w,o=wx ) notation.
+
+The umask command is used with Unix-like operating systems, and the umask function is defined in the POSIX.1 specification.
+
+The mask, the umask command and the umask function were not part of the original implementation of UNIX . The operating system evolved in a relatively small computer-center environment, where security was not an issue. It eventually grew to serve hundreds of users from different organizations. At first, developers made creation modes for key files more restrictive, especially for cases of actual security breaches, but this was not a general solution. The mask and the umask command were introduced around 1978, in the seventh edition of the operating system, so it could allow sites, groups and individuals to choose their own defaults. The mask has since been implemented in most, if not all, of the contemporary implementations of Unix-like operating systems.
+
+In a shell, the mask is set by using the umask command. The syntax of the command is:
+
+(The items within the brackets are optional.)
+
+If the umask command is invoked without any arguments, it will display the current mask. The output will be in either octal or symbolic notation, depending on the OS.
+
+In most shells , but not the C shell , the -S argument (i.e. umask -S ) will instruct umask to display using symbolic notation. For example:
+
+If the umask command is invoked with an octal argument, it will directly set the bits of the mask to that argument:
+
+If fewer than 4 digits are entered, leading zeros are assumed. An error will result if the argument is not a valid octal number or if it has more than 4 digits. The three rightmost octal digits address the "owner", "group" and "other" user classes respectively.  If a fourth digit is present, the leftmost (high-order) digit addresses three additional attributes, the setuid bit , the setgid bit and the sticky bit .
+
+When umask is invoked using symbolic notation, it will modify or set the flags as specified by the maskExpression with the syntax:
+
+Note that this syntax does not work when using the C shell due to the different behaviour of its built-in umask command.
+
+Multiple maskExpressions are separated by commas.
+
+A space terminates the maskExpression (s).
+
+The permissions are applied to different user classes:
+
+The operator specifies how the permission modes of the mask should be adjusted.
+
+The permission-symbols indicate which file permission settings are to be allowed or prohibited by the mask.
+
+For example:
+
+Prohibit w rite permission from being set for the u ser. The rest of the flags in the mask are unchanged.
+
+Example of multiple changes:
+
+This would set the mask so that it would:
+
+Here are more examples of using the umask command to change the mask:
+
+Example showing effect of umask :
+
+The mask is applied whenever a file is created. If the mask has a bit set to "1", that means the corresponding file permission will always be disabled when files are subsequently created. A bit set to "0" in the mask means that the corresponding permission will be determined by the requesting process and the OS when files are subsequently created. In other words, the mask acts as a last-stage filter that strips away permissions as a file is created; each bit that is set to a "1" strips away that corresponding permission for the file.
+
+Programmatically, the mask is applied by the OS by first negating (complementing) the mask, and then performing a logical AND with the requested file mode. In the [probably] first UNIX manual to describe its function, the manual says,
+
+the actual mode... of the newly-created file is the logical and of the given mode and the complement of the argument. Only the low-order 9 bits of the mask (the protection bits) participate. In other words, the mask shows [indicates] the bits to be turned off when files are created.
+
+Many operating systems do not allow a file to be created with execute permissions. In these environments, newly created files will always have execute permission disabled for all users.
+
+The mask is generally only applied to functions that create a new file; however, there are exceptions. For example, when using UNIX and GNU versions of chmod to set the permissions of a file, and symbolic notation is used, and no user is specified, then the mask is applied to the requested permissions before they are applied to the file. For example:
+
+Each process has its own mask, which is applied whenever the process creates a new file. When a shell, or any other process, spawns a new process, the child process inherits the mask from its parent process. When the process is a shell , the mask is changed by the umask command. As with other processes, any process launched from the shell inherits that shell's mask.
+
+In the Linux kernel , the fat , hfs , hpfs , ntfs , and udf file system drivers support a umask mount option , which controls how the disk information is mapped to permissions. This is not the same as the per-process mask described above, although the permissions are calculated in a similar way. Some of these file system drivers also support separate masks for files and directories, using mount options such as fmask .

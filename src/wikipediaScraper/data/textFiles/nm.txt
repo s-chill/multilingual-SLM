@@ -1,0 +1,11 @@
+nm ( name mangling ) is a Unix command used to dump the symbol table and their attributes from a binary executable file (including libraries , compiled object modules , shared-object files, and standalone executables ).
+
+The output from nm distinguishes between various symbol types. For example, it differentiates between a function that is supplied by an object module and a function that is required by it. nm is used as an aid for debugging , to help resolve problems arising from name conflicts and C++ name mangling, and to validate other parts of the toolchain .
+
+This command is shipped with a number of later versions of Unix and similar operating systems including Plan 9 . The GNU Project ships an implementation of nm as part of the GNU Binutils package.
+
+If the previous code is compiled with the gcc C compiler, the output of the nm command is the following:
+
+When the C++ compiler is used, the output differs:
+
+The differences between the outputs also show an example of solving the name mangling problem by using extern "C" in C++ code.

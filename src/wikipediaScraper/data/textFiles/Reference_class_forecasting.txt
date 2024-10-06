@@ -1,0 +1,29 @@
+Reference class forecasting or comparison class forecasting is a method of predicting the future by looking at similar past situations and their outcomes. The theories behind reference class forecasting were developed by Daniel Kahneman and Amos Tversky . The theoretical work helped Kahneman win the Nobel Prize in Economics .
+
+Reference class forecasting is so named as it predicts the outcome of a planned action based on actual outcomes in a reference class of similar actions to that being forecast.
+
+Discussion of which reference class to use when forecasting a given situation is known as the reference class problem .
+
+Kahneman and Tversky found that human judgment is generally optimistic due to overconfidence and insufficient consideration of distributional information about outcomes.
+
+People tend to underestimate the costs, completion times, and risks of planned actions, whereas they tend to overestimate the benefits of those same actions. Such error is caused by actors taking an " inside view ", where focus is on the constituents of the specific planned action instead of on the actual outcomes of similar ventures that have already been completed.
+
+Kahneman and Tversky concluded that disregard of distributional information, i.e. risk, is perhaps the major source of error in forecasting. On that basis they recommended that forecasters "should therefore make every effort to frame the forecasting problem so as to facilitate utilizing all the distributional information that is available". Using distributional information from previous ventures similar to the one being forecast is called taking an " outside view ".  Reference class forecasting is a method for taking an outside view on planned actions.
+
+Reference class forecasting for a specific project involves the following three steps:
+
+The reference class problem , also known as reference class tennis, is the discussion of which reference class to use when forecasting a given situation.
+
+Suppose someone were trying to predict how long it would take to write a psychology textbook. Reference class tennis would involve debating whether we should take the average of all books (closest to an outside view), just all textbooks, or just all psychology textbooks (closest to an inside view).
+
+Whereas Kahneman and Tversky developed the theories of reference class forecasting, Flyvbjerg and COWI (2004) developed the method for its practical use in policy and planning, which was published as an official Guidance Document in June 2004 by the UK Department for Transport .
+
+The first instance of reference class forecasting in practice is described in Flyvbjerg (2006). This forecast was part of a review of the Edinburgh Tram Line 2 business case, which was carried out in October 2004 by Ove Arup and Partners Scotland. At the time, the project was forecast to cost a total of £320 million, of which £64 million – or 25% – was allocated for contingency. Using the newly implemented reference class forecasting guidelines, Ove Arup and Partners Scotland calculated the 80th percentile value (i.e., 80% likelihood of staying within budget) for total capital costs to be £400 million, which equaled 57% contingency. Similarly, they calculated the 50th percentile value (i.e., 50% likelihood of staying within budget) to be £357 million, which equaled 40% contingency. The review further acknowledged that the reference class forecasts were likely to be too low because the guidelines recommended that the uplifts should be applied at the time of decision to build, which the project had not yet reached, and that the risks therefore would be substantially higher at this early business case stage. On this basis, the review concluded that the forecasted costs could have been underestimated. The Edinburgh Tram Line 2 opened three years late in May 2014 with a final outturn cost of £776 million, which equals £628 million in 2004-prices.
+
+Since the Edinburgh forecast, reference class forecasting has been applied to numerous other projects in the UK, including the £15 (US$29) billion Crossrail project in London. After 2004, The Netherlands, Denmark, and Switzerland have also implemented various types of reference class forecasting.
+
+Before this, in 2001 (updated in 2011), AACE International (the Association for the Advancement of Cost Engineering) included Estimate Validation as a distinct step in the recommended practice of Cost Estimating (Estimate Validation is equivalent to Reference class forecasting in that it calls for separate empirical-based evaluations to benchmark the base estimate):
+
+The estimate should be benchmarked or validated against or compared to historical experience and/or past estimates of the enterprise and of competitive enterprises to check its appropriateness, competitiveness, and to identify improvement opportunities...Validation examines the estimate from a different perspective and using different metrics than are used in estimate preparation.
+
+In the process industries (e.g., oil and gas, chemicals, mining, energy, etc. which tend to dominate AACE's membership), benchmarking (i.e., "outside view") of project cost estimates against the historical costs of completed projects of similar types, including probabilistic information, has a long history. A method combining reference class forecasting and competitive crowdsourcing, Human Forest, has also been used in the life sciences, to estimate the likelihood that vaccines and treatments will successfully progress through clinical trial phases.

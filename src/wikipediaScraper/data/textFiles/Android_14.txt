@@ -1,0 +1,31 @@
+Android 14 is the fourteenth major release and the 21st version of Android , the mobile operating system developed by the Open Handset Alliance led by Google . It was released to the public and the Android Open Source Project (AOSP) on October 4, 2023. The first devices to ship with Android 14 were the Pixel 8 and Pixel 8 Pro .
+
+Android 14 (internally codenamed Upside Down Cake ), was announced on February 8, 2023. A developer preview was released immediately for the Pixel 6 and 7 series, as well as a roadmap with the dates of updates. This contained another developer preview, which was published on March 8, as well as four monthly beta versions. The first beta was released on April 12, which received a hotfix to Beta 1.1 on April 26. The second beta was released on May 10, which also received a hotfix to Beta 2.1 on May 25. The third beta version was released on June 7, now reaching platform stability, which later received a hotfix to Beta 3.1 on June 14. The fourth beta version was released on July 11. Android 14 had 1 year, 1 month, 2 weeks and 5 days between Android 13's August 15, 2022 release, surpassing the Android 9–10 duration of 1 year and 4 weeks.
+
+The beta versions are available for Pixel devices that are guaranteed Android version updates, the Pixel 4a (5G) or newer devices. Pixel 7a can also beta test Android 14 since Beta 3. The Pixel Tablet and Pixel Fold have been able to beta test Android 14 since Beta 4.
+
+Building on the new option added in Android 13 to set languages individually for apps, this feature has been expanded and is easier to implement for developers. Furthermore, a new "Grammatical Inflection API" has been added to gender users according to their preferred grammatical gender.
+
+Android 14 will provide the ability to increase the font size up to 200% compared to 130% in previous versions, combined with nonlinear font scaling to prevent large text elements on screen from scaling too large. It is now possible to specify which temperature unit ( Fahrenheit , Celsius , or Kelvin ) to use in applications.
+
+The Material You design language, introduced in Android 12 and supplemented in Android 13 , gets revised default colors in Android 14. Android 14 also introduces additional lock screen customization options, such as multiple clock and weather styles.
+
+For devices with a larger screen, such as tablets, the taskbar is expanded in Android 14 and now shows the names of the pinned apps.
+
+Android 14 allows a phone to be configured as a webcam when plugged into a computer or another Android device.
+
+Android 14 adds support for the new image format Ultra HDR, to take and display high dynamic range photos with HDR compatible cameras and displays. The Ultra HDR format is backwards compatible with JPEG on standard dynamic range displays.
+
+Google rewrote parts of Android's Settings app to use its Jetpack Compose framework in Android 14.
+
+Android system processes are more efficient, which provides battery life improvements. In addition, there is now the option to choose directly between battery-saver mode and extreme battery-saver mode.
+
+The screen time since the last full charge is now displayed in the battery settings. The battery consumption is shown separately from system and user applications. This feature was replaced with the launch of Android 12 by showing battery usage over the past 24 hours.
+
+Android 14 blocks the installation of apps that target versions of Android below Marshmallow (6.0) . The change is intended to curb the spread of malware, which intentionally targets old versions of Android to bypass security restrictions introduced in newer versions. An Android Debug Bridge (ADB) install flag has been added to bypass the restriction.
+
+In order to improve privacy, the user can select which images an application may access, using a photo picker.
+
+There is also a small change for guest mode or multiuser mode, where the "Allow guest to use phone" option has been moved to the top level menu. Previously, this option was behind the guest account itself.
+
+Incorporating Health Connect as one of the new features of Android 14, users can now access it through the all-new Pixel's settings menu. Health Connect collaborates with apps like Fitbit, Samsung Health, and Google Fit.

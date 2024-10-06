@@ -1,0 +1,7 @@
+The human action cycle is a psychological model which describes the steps humans take when they interact with computer systems . The model was proposed by Donald A. Norman , a scholar in the discipline of human–computer interaction . The model can be used to help evaluate the efficiency of a user interface (UI). Understanding the cycle requires an understanding of the user interface design principles of affordance , feedback , visibility and tolerance.
+
+The human action cycle describes how humans may form goals and then develop a series of steps required to achieve that goal, using the computer system. The user then executes the steps, thus the model includes both cognitive activities and physical activities.
+
+The model is divided into three stages of seven steps in total, and is (approximately) as follows:
+
+Typically, an evaluator of the user interface will pose a series of questions for each of the cycle's steps, an evaluation of the answer provides useful information about where the user interface may be inadequate or unsuitable. These questions might be:

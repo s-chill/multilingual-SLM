@@ -1,0 +1,25 @@
+In computer vision and image processing , motion estimation is the process of determining motion vectors that describe the transformation from one 2D image to another; usually from adjacent frames in a video sequence. It is an ill-posed problem as the motion happens in three dimensions (3D) but the images are a projection of the 3D scene onto a 2D plane. The motion vectors may relate to the whole image ( global motion estimation ) or specific parts, such as rectangular blocks, arbitrary shaped patches or even per pixel . The motion vectors may be represented by a translational model or many other models that can approximate the motion of a real video camera, such as rotation and translation in all three dimensions and zoom.
+
+More often than not, the term motion estimation and the term optical flow are used interchangeably. It is also related in concept to image registration and stereo correspondence . In fact all of these terms refer to the process of finding corresponding points between two images or video frames. The points that correspond to each other in two views (images or frames) of a real scene or object are "usually" the same point in that scene or on that object. Before we do motion estimation, we must define our measurement of correspondence, i.e., the matching metric, which is a measurement of how similar two image points are. There is no right or wrong here; the choice of matching metric is usually related to what the final estimated motion is used for as well as the optimisation strategy in the estimation process.
+
+Each motion vector is used to represent a macroblock in a picture based on the position of this macroblock (or a similar one) in another picture, called the reference picture.
+
+The H.264/MPEG-4 AVC standard defines motion vector as:
+
+motion vector: a two-dimensional vector used for inter prediction that provides an offset from the coordinates in the decoded picture to the coordinates in a reference picture.
+
+The methods for finding motion vectors can be categorised into pixel based methods ("direct") and feature based methods ("indirect"). A famous debate resulted in two papers from the opposing factions being produced to try to establish a conclusion.
+
+Indirect methods use features, such as corner detection , and match corresponding features between frames, usually with a statistical function applied over a local or global area. The purpose of the statistical function is to remove matches that do not correspond to the actual motion.
+
+Statistical functions that have been successfully used include RANSAC .
+
+It can be argued that almost all methods require some kind of definition of the matching criteria. The difference is only whether you summarise over a local image region first and then compare the summarisation (such as feature based methods),  or you compare each pixel first (such as squaring the difference) and then summarise over a local image region (block base motion and filter based motion). An emerging type of matching criteria summarises a local image region first for every pixel location (through some feature transform such as Laplacian transform), compares each summarised pixel and summarises over a local image region again. Some matching criteria have the ability to exclude points that do not actually correspond to each other albeit producing a good matching score, others do not have this ability, but they are still matching criteria.
+
+Affine motion estimation is a technique used in computer vision and image processing to estimate the motion between two images or frames. It assumes that the motion can be modeled as an affine transformation (translation + rotation + zooming), which is a linear transformation followed by a translation.
+
+Applying the motion vectors to an image to synthesize the transformation to the next image is called motion compensation . It is most easily applied to discrete cosine transform (DCT) based video coding standards , because the coding is performed in blocks.
+
+As a way of exploiting temporal redundancy, motion estimation and compensation are key parts of video compression . Almost all video coding standards use block-based motion estimation and compensation such as the MPEG series including the most recent HEVC .
+
+In simultaneous localization and mapping , a 3D model of a scene is reconstructed using images from a moving camera.

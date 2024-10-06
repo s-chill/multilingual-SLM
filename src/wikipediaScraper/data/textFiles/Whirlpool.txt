@@ -1,0 +1,41 @@
+In computer science and cryptography , Whirlpool (sometimes styled WHIRLPOOL ) is a cryptographic hash function . It was designed by Vincent Rijmen (co-creator of  the Advanced Encryption Standard ) and Paulo S. L. M. Barreto , who first described it in 2000.
+
+The hash has been recommended by the NESSIE project. It has also been adopted by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) as part of the joint ISO/IEC 10118-3 international standard .
+
+Whirlpool is a hash designed after the Square block cipher , and is considered to be in that family of block cipher functions.
+
+Whirlpool is a Miyaguchi-Preneel construction based on a substantially modified Advanced Encryption Standard (AES).
+
+Whirlpool takes a message of any length less than 2 bits and returns a 512-bit message digest .
+
+The authors have declared that
+
+The original Whirlpool will be called Whirlpool-0 , the first revision of Whirlpool will be called Whirlpool-T and the latest version will be called Whirlpool in the following test vectors.
+
+The Whirlpool hash function is a Merkle–Damgård construction based on an AES -like block cipher W in Miyaguchi–Preneel mode.
+
+The block cipher W consists of an 8×8 state matrix S {\displaystyle S} of bytes, for a total of 512 bits.
+
+The encryption process consists of updating the state with four round functions over 10 rounds. The four round functions are SubBytes (SB), ShiftColumns (SC), MixRows (MR) and AddRoundKey (AK). During each round the new state is computed as S = A K ∘ M R ∘ S C ∘ S B ( S ) {\displaystyle S=AK\circ MR\circ SC\circ SB(S)} .
+
+The SubBytes operation applies a non-linear permutation (the S-box) to each byte of the state independently. The 8-bit S-box is composed of 3 smaller 4-bit S-boxes.
+
+The ShiftColumns operation cyclically shifts each byte in each column of the state. Column j has its bytes shifted downwards by j positions.
+
+The MixRows operation is a right-multiplication of each row by an 8×8 matrix over G F ( 2 8 ) {\displaystyle GF({2^{8}})} . The matrix is chosen such that the branch number (an important property when looking at resistance to differential cryptanalysis ) is 9, which is maximal.
+
+The AddRoundKey operation uses bitwise xor to add a key calculated by the key schedule to the current state. The key schedule is identical to the encryption itself, except the AddRoundKey function is replaced by an AddRoundConstant function that adds a predetermined constant in each round.
+
+The Whirlpool algorithm has undergone two revisions since its original 2000 specification.
+
+People incorporating Whirlpool will most likely use the most recent revision of Whirlpool; while there are no known security weaknesses in earlier versions of Whirlpool, the most recent revision has better hardware implementation efficiency characteristics, and is also likely to be more secure. As mentioned earlier, it is also the version adopted in the ISO/IEC 10118-3 international standard .
+
+The 512-bit (64-byte) Whirlpool hashes (also termed message digests ) are typically represented as 128-digit hexadecimal numbers. The following demonstrates a 43-byte ASCII input (not including quotes) and the corresponding Whirlpool hashes:
+
+The authors provide reference implementations of the Whirlpool algorithm, including a version written in C and a version written in Java . These reference implementations have been released into the public domain.
+
+Research on the security analysis of the Whirlpool function however, has revealed that on average, the introduction of 8 random faults is sufficient to compromise the 512-bit Whirlpool hash message being processed and the secret key of HMAC-Whirlpool within the context of Cloud of Things (CoTs). This emphasizes the need for increased security measures in its implementation.
+
+Two of the first widely used mainstream cryptographic programs that started using Whirlpool were FreeOTFE , followed by TrueCrypt in 2005.
+
+VeraCrypt (a fork of TrueCrypt ) included Whirlpool (the final version) as one of its supported hash algorithms.

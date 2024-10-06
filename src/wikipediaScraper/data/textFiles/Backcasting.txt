@@ -1,0 +1,23 @@
+Backcasting is a planning method that starts with defining a desirable future and then works backwards to identify policies and programs that will connect that specified future to the present. The fundamentals of the method were outlined by John B. Robinson from the University of Waterloo in 1990. The fundamental question of backcasting asks: "if we want to attain a certain goal, what actions must be taken to get there?"
+
+While forecasting involves predicting the future based on current trend analysis, backcasting approaches the challenge of discussing the future from the opposite direction; it is "a method in which the future desired conditions are envisioned and steps are then defined to attain those conditions, rather than taking steps that are merely a continuation of present methods extrapolated into the future".
+
+In statistics and data analysis, backcasting can be considered to be the opposite of forecasting; thus:
+
+Backcasting, a term first coined by John B. Robinson in 1982, involves establishing the description of a very definite and very specific future situation. It then involves an imaginary moving backwards in time, step-by-step, in as many stages as are considered necessary, from the future to the present to reveal the mechanism through which that particular specified future could be attained from the present.
+
+Backcasting is not concerned with predicting the future:
+
+According to Jansen (1994, p. 503):
+
+Backcasting is increasingly used in urban planning and resource management of water and energy. It was used by Peter Gleick and colleagues at the Pacific Institute in a 1995 study on California water policy, as an alternative to traditional California water planning approaches. In 2006, the Capital Regional District Water Services, which services the greater Victoria area in British Columbia , Canada , committed to backcasting to the year 2050 as a formal element of all future strategic water planning initiatives.
+
+Backcasting is a key component of the soft energy path , a concept developed by Amory Lovins after the shock of the 1973 energy crisis in the United States.
+
+Backcasting from principles is used within the world of creation, design, policy, strategy, science and are seen as principles or constraints which define success . Contrary to backcasting from scenarios, which uses defined scenario's or visuals of a future, it uses principles to be met to define a desired future. It allows those working towards success to iteratively test whether their creation or solution is moving in the right direction. Especially when dealing with long-term transformations and transitions, working with principles is like working with a Compass , or a North Star .
+
+Backcasting from Sustainability Principles , or System conditions of sustainability is a key concept of the "Framework for Strategic Sustainable Development" (FSSD) pioneered by Karl-Henrik Robèrt , founder of The Natural Step , an international nonprofit organization dedicated to applied research for sustainability, in cooperation with a global academic Alliance for Strategic Sustainable Development which links universities which cooperate with businesses, and other NGOs. It has been refined and tested by peer-review and application within businesses (widely known examples are: Interface, Nike, Whistler, Volvo).
+
+Specific sustainability-related topics, such as climate mitigation, poverty elevation, biodiversity loss, may also be approached by backcasting from principles, but often with principles related to the topic only. This risks creating solutions that create new sustainability problems later, or elsewhere as they are not taken into account when thinking of the solution.
+
+Backcasting is used in climate reconstruction or cosmology to determine the conditions (i.e., values of unknown independent variables) that existed in the distant past based on known (more accurately estimated) values of past dependent variables.

@@ -1,0 +1,9 @@
+Ameca is a female robotic humanoid created in 2021 by Engineered Arts .
+
+The first generation of Ameca was developed at Engineered Arts headquarters in Falmouth, Cornwall UK. The project started in February 2021, with the first video revealed publicly on 1 December 2021. Ameca gained widespread attention on Twitter and TikTok ahead of her first public demonstration at CES 2022 , where she was covered by CNET and other news outlets.
+
+In 2022, Ameca presented an Alternative Christmas message by Channel 4 for Christmas Day . Ameca is currently associated with the Museum of the Future 's robotic family, where she can interact with visitors.
+
+Ameca is primarily designed as a platform for further developing robotics technologies involving human-robot interaction. She utilizes embedded microphones, binocular eye mounted cameras, a chest camera and facial recognition software to interact with the public. Interactions can be governed by either GPT-3 or human telepresence . It also features articulated motorized arms, fingers, neck and facial features.
+
+Ameca's appearance features grey rubber skin on the face and hands, and is specifically designed to appear genderless.

@@ -1,0 +1,37 @@
+Trip generation is the first step in the conventional four-step transportation forecasting process used for forecasting travel demands. It predicts the number of trips originating in or destined for a particular traffic analysis zone (TAZ). Trip generation analysis focuses on residences and residential trip generation is thought of as a function of the social and economic attributes of households . At the level of the traffic analysis zone, residential land uses "produce" or generate trips. Traffic analysis zones are also destinations of trips, trip attractors. The analysis of attractors focuses on non-residential land uses.
+
+This process is followed by trip distribution , mode choice , and route assignment .
+
+A forecasting activity, such as one based on the concept of economic base analysis , provides aggregate measures of population and activity growth. Land use forecasting distributes forecast changes in activities in a disaggregate-spatial manner among zones.  The next step in the transportation planning process addresses the question of the frequency of origins and destinations of trips in each zone:  for short, trip generation.
+
+The first zonal trip generation (and its inverse, attraction) analysis in the Chicago Area Transportation Study (CATS) followed the “decay of activity intensity with distance from the central business district (CBD)” thinking current at the time. Data from extensive surveys were arrayed and interpreted on a distance-from-CBD scale. For example, commercial land use in ring 0 (the CBD and vicinity) was found to generate 728 vehicle trips per day in 1956. That same land use in ring 5 (about 17 km (11 mi) from the CBD) generated about 150 trips per day.
+
+The case of trip destinations will illustrate use of the concept of activity decline with intensity (as measured by distance from CBD) worked.  Destination data are arrayed:
+
+The land use analysis provides information on how land uses will change from an initial year (say t = 0) to some forecast year (say t = 20).  Suppose we are examining a zone.  We take the mix of land uses projected, say, for year t = 20 and apply the trip destination rates for the ring in which the zone is located.  That is, there will this many acres of commercial land use, that many acres of public open space, etc., in the zone.  The acres of each use type are multiplied by the ring specific destination rates.  The result is summed to yield the zone’s trip destinations. The CATS assumed that trip destination rates would not change over time.
+
+As was true for land use analysis, the approach developed at CATS was considerably modified in later studies.  The conventional four-step paradigm evolved as follows:  Types of trips are considered.  Home-based (residential) trips are divided into work and other, with major attention given to work trips.  Movement associated with the home end of a trip is called trip production, whether the trip is leaving or coming to the home.  Non-home-based or non-residential trips are those a home base is not involved.  In this case, the term production is given to the origin of a trip and the term attraction refers to the destination of the trip.
+
+Residential trip generation analysis is often undertaken using statistical regression .  Person, transit, walking, and auto trips per unit of time are regressed on variables thought to be explanatory, such as:  household size, number of workers in the household, persons in an age group, type of residence (single family, apartment, etc.), and so on.  Usually, measures on five to seven independent variables are available; additive causality is assumed.
+
+Regressions are also made at the aggregate/zone level. Variability among households within a zone isn’t measured when data are aggregated. High correlation coefficients are found when regressions are run on aggregate data, about 0.90, but lower coefficients, about 0.25, are found when regressions are made on observation units such as households.  In short, there is much variability that is hidden by aggregation.
+
+Sometimes cross-classification techniques are applied to residential trip generation problems.  The CATS procedure described above is a cross-classification procedure.
+
+Classification techniques are often used for non-residential trip generation.  First, the type of land use is a factor influencing travel, it is regarded as a causal factor.  A list of land uses and associated trip rates illustrated a simple version of the use of this technique:
+
+Such a list can be improved by adding information.  Large, medium, and small might be defined for each activity and rates given by size.  Number of employees might be used:  for example, <10, 10-20, etc.  Also, floor space is used to refine estimates.
+
+In other cases, regressions, usually of the form
+trip rate = f(number of employees, floor area of establishment),
+are made for land use types.
+
+Special treatment is often given major trip generators:  large shopping centers, airports, large manufacturing plants, and recreation facilities.
+
+The theoretical work related to trip generation analysis is grouped under the rubric travel demand theory, which treats trip generation-attraction, as well as mode choice , route selection, and other topics.
+
+The Institute of Transportation Engineers 's Trip Generation Manual provides trip generation rates for various land use and building types. The planner can add local adjustment factors and treat mixes of uses with ease. Ongoing work is adding to the stockpile of numbers; over 4000 studies were aggregated for the latest edition.
+
+ITE Procedures estimate the number of trips entering and exiting a site at a given time. ITE Rates are functions of type of development based on independent variables such as square footage of the gross leasable area , number of gas pumps, number of dwelling units, or other standard measurable things, usually produced in site plans. They are typically of the form T r i p s = a + b ∗ A r e a {\displaystyle Trips=a+b*Area} or T r i p s = a + b l n ( A r e a ) {\displaystyle Trips=a+bln(Area)} . They do not consider location, competitors, complements, the cost of transportation, or other factors. The trip generation estimates are provided through data analysis . Many localities require their use to ensure adequate public facilities for growth management and subdivision approval.
+
+In the United Kingdom and Ireland, the TRICS database is commonly used to calculate trip generation.

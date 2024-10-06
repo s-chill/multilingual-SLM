@@ -1,0 +1,19 @@
+A central tire inflation system ( CTIS ) is a system to provide control over the air pressure in each of a vehicle's tires as a way to improve performance on different surfaces.
+
+Lowering the air pressure in a tire creates a larger contact patch between the tire and the ground, and makes driving on softer ground much easier. It also does less damage to the tire surface. This is important on work sites and in agricultural fields; by giving the driver direct control over the air pressure in each tire, maneuverability is greatly improved. Softer tires also cushion against rough terrain and road damage, such as washboarding , more effectively. Reducing tire pressure also reduces the extent to which the tires grind against loose surfaces, significantly reducing dust and silt.
+
+Another function of CTIS is to maintain tire pressure if there is a slow leak or puncture. In this case, the system controls inflation automatically based on the selected pressure the driver has set.
+
+CTIS also extends truck, tire, and drive train life, by significantly reducing vibration and shock loading. Feedback from Australian logging contractors show a doubling of transmission and differential life.
+
+The technology is extensively used in many off-road transport operations. In many countries, especially Australia, New Zealand and South Africa, CTIS is used in logging, mining, and power line maintenance, as it significantly reduces environmental impact when transporting logs, or travelling on gravel or dirt roads.
+
+From 1984, General Motors offered CTIS for the Chevrolet Blazer and various pickups .
+
+There have been attempts at employing central tire inflation systems on aircraft landing wheels (notably on the Soviet Antonov An-22 military transport) to improve their preparedness for unpaved runways .
+
+CTIS was first used in production on the American DUKW amphibious truck , which was introduced in 1942.
+
+The Czech Tatra T813 's central inflation and deflation system was designed to maintain pressure even after multiple bullet punctures. Military-spec Tatra trucks are equipped with CTIS as standard.
+
+Several trucks used by the U.S. military, such as the HMMWV , HEMTT , and FMTV , are equipped with CTIS. The feature is also common in Soviet and Russian military trucks.

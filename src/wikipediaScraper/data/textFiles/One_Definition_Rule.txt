@@ -1,0 +1,49 @@
+The One Definition Rule ( ODR ) is an important rule of the C++ programming language that prescribes that classes/structs and non-inline functions cannot have more than one definition in the entire program and template and types cannot have more than one definition by translation unit . It is defined in the ISO C++ Standard ( ISO/IEC 14882 ) 2003, at section 3.2. Some other programming languages have similar but differently defined rules towards the same objective.
+
+In short, the ODR states that:
+
+Some violations of the ODR must be diagnosed by the compiler . Other violations, particularly those that span translation units, are not required to be diagnosed.
+
+In general, a translation unit shall contain no more than one definition of any class type. In this example, two definitions of the class type C occur in the same translation unit . This typically occurs if a header file is included twice by the same source file without appropriate header guards .
+
+In the following, forming a pointer to S or defining a function taking a reference to S are examples of legal constructs, because they do not require the type of S to be complete . Therefore, a definition is not required.
+
+Defining an object of type S, a function taking an argument of type S, or using S in a sizeof expression are examples of contexts where S must be complete, and therefore require a definition.
+
+In certain cases, there can be more than one definition of a type or a template. A program consisting of multiple header files and source files will typically have more than one definition of a type, but not more than one definition per translation unit.
+
+If a program contains more than one definition of a type, then each definition must be equivalent.
+
+In pre-standard C++, all static data members required a definition outside of their class. However, during the C++ standardization process it was decided to lift this requirement for static const integral members. The intent was to allow uses such as:
+
+without a namespace scope definition for N .
+
+Nevertheless, the wording of the 1998 C++ standard still required a definition if the member was used in the program. This included the member appearing anywhere except as the operand to sizeof or typeid , effectively making the above ill-formed.
+
+This was identified as a defect, and the wording was adjusted to allow such a member to appear anywhere a constant expression is required, without requiring an out-of-class definition. This includes array bounds, case expressions , static member initializers, and nontype template arguments .
+
+However, using a static const integral member anywhere except where an integral constant-expression is required, requires a definition:
+
+This requirement was relaxed in a later standard, C++11 .
+
+We need 4 files: "odr.h", "main.cpp", "odr1.cpp", "odr2.cpp"
+
+The acronym "odr" here is short for "One Definition Rule".
+
+odr.h:
+
+main.cpp
+
+odr1.cpp
+
+odr2.cpp
+
+Under a Linux shell to try out, compile with:
+
+Under a Windows Visual Studio "Build Tools Command Prompt", compile with:
+
+When executed the expected output is:
+
+But you very likely get:
+
+The problem is, that the C++ linker has to figure out how to build the virtual method table for the (two different) "CDummy" classes, and that only works if the class names are different.

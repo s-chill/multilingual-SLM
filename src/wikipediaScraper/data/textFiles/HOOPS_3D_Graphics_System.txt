@@ -1,0 +1,13 @@
+HOOPS Visualize is a 3D computer graphics software designed to render graphics across both mobile and desktop platforms. HOOPS Visualize provides 3D Graphics API to render CAD models. It's part of the HOOPS 3D Application Framework SDK. Since June 2018 it's licensed via Siemens PLM Software.
+
+The HOOPS 3D Graphics System was originally developed in the mid-1980s in the CADIF Lab at Cornell University . Ithaca Software later formed to commercialize the technology. Subsequently, HOOPS was widely adopted for Computer-Aided Design (CAD), Computer-Aided Manufacturing (CAM) and Computer-Aided Engineering (CAE) software.
+
+In 1993, Autodesk, Inc. acquired Ithaca Software. In 1996, HOOPS was spun out of Autodesk by Tech Soft 3D, Inc., which continues to develop and sell the HOOPS 3D Graphics System under the name HOOPS Visualize. The software is made available free of charge to educational institutions.
+
+The program features a unified API that allows users to add interactive 3D visualization to both desktop and mobile applications. HOOPS Visualize provides a hierarchical scene management engine capable of handling a range of graphics entities, together with a graphics pipeline and interaction handling algorithms. It includes clash detection, multi-plane sectioning, and large model visualization, along with many other features.
+
+Features include:
+
+Internally it uses OpenGL or DirectX (Windows). Tech Soft 3D has developed its own framework for event handling.
+
+The graphics kernel (Core Graphics) is based on the hierarchichal scene graph data structures.

@@ -1,0 +1,75 @@
+In physics and chemistry , ionization energy ( IE ) is the minimum energy required to remove the most loosely bound electron of an isolated gaseous atom , positive ion , or molecule . The first ionization energy is quantitatively expressed as
+
+where X is any atom or molecule, X is the resultant ion when the original atom was stripped of a single electron, and e is the removed electron. Ionization energy is positive for neutral atoms, meaning that the ionization is an endothermic process . Roughly speaking, the closer the outermost electrons are to the nucleus of the atom , the higher the atom's ionization energy.
+
+In physics, ionization energy is usually expressed in electronvolts (eV) or joules (J). In chemistry, it is expressed as the energy to ionize a mole of atoms or molecules, usually as kilojoules per mole (kJ/mol) or kilocalories per mole (kcal/mol).
+
+Comparison of ionization energies of atoms in the periodic table reveals two periodic trends which follow the rules of Coulombic attraction :
+
+The latter trend results from the outer electron shell being progressively farther from the nucleus, with the addition of one inner shell per row as one moves down the column.
+
+The n th ionization energy refers to the amount of energy required to remove the most loosely bound electron from the species having a positive charge of ( n − 1). For example, the first three ionization energies are defined as follows:
+
+The most notable influences that determine ionization energy include:
+
+Minor influences include:
+
+The term ionization potential is an older and obsolete term for ionization energy, because the oldest method of measuring ionization energy was based on ionizing a sample and accelerating the electron removed using an electrostatic potential .
+
+The ionization energy of atoms, denoted E i , is measured by finding the minimal energy of light quanta ( photons ) or electrons accelerated to a known energy that will kick out the least bound atomic electrons. The measurement is performed in the gas phase on single atoms. While only noble gases occur as monatomic gases , other gases can be split into single atoms. Also, many solid elements can be heated and vaporized into single atoms. Monatomic vapor is contained in a previously evacuated tube that has two parallel electrodes connected to a voltage source. The ionizing excitation is introduced through the walls of the tube or produced within.
+
+When ultraviolet light is used, the wavelength is swept down the ultraviolet range.  At a certain wavelength (λ) and frequency of light (ν=c/λ, where c is the speed of light), the light quanta, whose energy is proportional to the frequency, will have energy high enough to dislodge the least bound electrons. These electrons will be attracted to the positive electrode, and the positive ions remaining after the photoionization will get attracted to the negatively charged electrode. These electrons and ions will establish a current through the tube. The ionization energy will be the energy of photons hν i ( h is the Planck constant ) that caused a steep rise in the current: E i = hν i .
+
+When high-velocity electrons are used to ionize the atoms, they are produced by an electron gun inside a similar evacuated tube. The energy of the electron beam can be controlled by the acceleration voltages. The energy of these electrons that gives rise to a sharp onset of the current of ions and freed electrons through the tube will match the ionization energy of the atoms.
+
+Generally, the ( N +1)th ionization energy of a particular element is larger than the N th ionization energy (it may also be noted that the ionization energy of an anion is generally less than that of cations and neutral atom for the same element). When the next ionization energy involves removing an electron from the same electron shell, the increase in ionization energy is primarily due to the increased net charge of the ion from which the electron is being removed. Electrons removed from more highly charged ions experience greater forces of electrostatic attraction; thus, their removal requires more energy. In addition, when the next ionization energy involves removing an electron from a lower electron shell, the greatly decreased distance between the nucleus and the electron also increases both the electrostatic force and the distance over which that force must be overcome to remove the electron. Both of these factors further increase the ionization energy.
+
+Some values for elements of the third period are given in the following table:
+
+Large jumps in the successive molar ionization energies occur when passing noble gas configurations. For example, as can be seen in the table above, the first two molar ionization energies of magnesium (stripping the two 3s electrons from a magnesium atom) are much smaller than the third, which requires stripping off a 2p electron from the neon configuration of Mg . That 2p electron is much closer to the nucleus than the 3s electrons removed previously.
+
+Ionization energy is also a periodic trend within the periodic table. Moving left to right within a period , or upward within a group , the first ionization energy generally increases, with exceptions such as aluminium and sulfur in the table above. As the nuclear charge of the nucleus increases across the period, the electrostatic attraction increases between electrons and protons, hence the atomic radius decreases, and the electron cloud comes closer to the nucleus because the electrons, especially the outermost one, are held more tightly by the higher effective nuclear charge.
+
+On moving downward within a given group, the electrons are held in higher-energy shells with higher principal quantum number n, further from the nucleus and therefore are more loosely bound so that the ionization energy decreases. The effective nuclear charge increases only slowly so that its effect is outweighed by the increase in n.
+
+There are exceptions to the general trend of rising ionization energies within a period. For example, the value decreases from beryllium ( 4 Be : 9.3 eV) to boron ( 5 B : 8.3 eV), and from nitrogen ( 7 N : 14.5 eV) to oxygen ( 8 O : 13.6 eV). These dips can be explained in terms of electron configurations.
+
+Boron has its last electron in a 2p orbital, which has its electron density further away from the nucleus on average than the 2s electrons in the same shell. The 2s electrons then shield the 2p electron from the nucleus to some extent, and it is easier to remove the 2p electron from boron than to remove a 2s electron from beryllium, resulting in a lower ionization energy for B.
+
+In oxygen, the last electron shares a doubly occupied p-orbital with an electron of opposing spin . The two electrons in the same orbital are closer together on average than two electrons in different orbitals, so that they shield each other from the nucleus more effectively and it is easier to remove one electron, resulting in a lower ionization energy.
+
+Furthermore, after every noble gas element, the ionization energy drastically drops. This occurs because the outer electron in the alkali metals requires a much lower amount of energy to be removed from the atom than the inner shells. This also gives rise to low electronegativity values for the alkali metals.
+
+The trends and exceptions are summarized in the following subsections:
+
+Ionization energy values tend to decrease on going to heavier elements within a group as shielding is provided by more electrons and overall, the valence shells experience a weaker attraction from the nucleus, attributed to the larger covalent radius which increase on going down a group Nonetheless, this is not always the case. As one exception, in Group 10 palladium ( 46 Pd : 8.34 eV) has a higher ionization energy than nickel ( 28 Ni : 7.64 eV), contrary to the general decrease for the elements from technetium 43 Tc to xenon 54 Xe . Such anomalies are summarized below:
+
+The ionization energy of the hydrogen atom ( Z = 1 {\displaystyle Z=1} ) can be evaluated in the Bohr model , which predicts that the atomic energy level n {\displaystyle n} has energy
+
+R H is the Rydberg constant for the hydrogen atom. For hydrogen in the ground state Z = 1 {\displaystyle Z=1} and n = 1 {\displaystyle n=1} so that the energy of the atom before ionization is simply E = − 13.6 e V {\displaystyle E=-13.6\ \mathrm {eV} }
+
+After ionization, the energy is zero for a motionless electron infinitely far from the proton, so that the ionization energy is
+
+According to the more complete theory of quantum mechanics , the location of an electron is best described as a probability distribution within an electron cloud , i.e. atomic orbital . The energy can be calculated by integrating over this cloud. The cloud's underlying mathematical representation is the wavefunction , which is built from Slater determinants consisting of molecular spin orbitals. These are related by Pauli's exclusion principle to the antisymmetrized products of the atomic or molecular orbitals .
+
+There are two main ways in which ionization energy is calculated. In general, the computation for the N th ionization energy requires calculating the energies of Z − N + 1 {\displaystyle Z-N+1} and Z − N {\displaystyle Z-N} electron systems. Calculating these energies exactly is not possible except for the simplest systems (i.e. hydrogen and hydrogen-like elements), primarily because of difficulties in integrating the electron correlation terms. Therefore, approximation methods are routinely employed, with different methods varying in complexity (computational time) and accuracy compared to empirical data.  This has become a well-studied problem and is routinely done in computational chemistry . The second way of calculating ionization energies is mainly used at the lowest level of approximation, where the ionization energy is provided by Koopmans' theorem , which involves the highest occupied molecular orbital or " HOMO " and the lowest unoccupied molecular orbital or " LUMO ", and states that the ionization energy of an atom or molecule is equal to the negative value of energy of the orbital from which the electron is ejected. This means that the ionization energy is equal to the negative of HOMO energy, which in a formal equation can be written as:
+
+Ionization of molecules often leads to changes in molecular geometry , and two types of (first) ionization energy are defined – adiabatic and vertical .
+
+The adiabatic ionization energy of a molecule is the minimum amount of energy required to remove an electron from a neutral molecule, i.e. the difference between the energy of the vibrational ground state of the neutral species (v" = 0 level) and that of the positive ion (v' = 0). The specific equilibrium geometry of each species does not affect this value.
+
+Due to the possible changes in molecular geometry that may result from ionization, additional transitions may exist between the vibrational ground state of the neutral species and vibrational excited states of the positive ion. In other words, ionization is accompanied by vibrational excitation . The intensity of such transitions is explained by the Franck–Condon principle , which predicts that the most probable and intense transition corresponds to the vibrationally excited state of the positive ion that has the same geometry as the neutral molecule. This transition is referred to as the "vertical" ionization energy since it is represented by a completely vertical line on a potential energy diagram (see Figure).
+
+For a diatomic molecule, the geometry is defined by the length of a single bond . The removal of an electron from a bonding molecular orbital weakens the bond and increases the bond length. In Figure 1, the lower potential energy curve is for the neutral molecule and the upper surface is for the positive ion. Both curves plot the potential energy as a function of bond length. The horizontal lines correspond to vibrational levels with their associated vibrational wave functions . Since the ion has a weaker bond, it will have a longer bond length. This effect is represented by shifting the minimum of the potential energy curve to the right of the neutral species. The adiabatic ionization is the diagonal transition to the vibrational ground state of the ion. Vertical ionization may involve vibrational excitation of the ionic state and therefore requires greater energy.
+
+In many circumstances, the adiabatic ionization energy is often a more interesting physical quantity since it describes the difference in energy between the two potential energy surfaces. However, due to experimental limitations, the adiabatic ionization energy is often difficult to determine, whereas the vertical detachment energy is easily identifiable and measurable.
+
+While the term ionization energy is largely used only for gas-phase atomic, cationic, or molecular species, there are a number of analogous quantities that consider the amount of energy required to remove an electron from other physical systems.
+
+Electron binding energy is a generic term for the minimum energy needed to remove an electron from a particular electron shell for an atom or ion, due to these negatively charged electrons being held in place by the electrostatic pull of the positively charged nucleus. For example, the electron binding energy for removing a 3p 3/2 electron from the chloride ion is the minimum amount of energy required to remove an electron from the chlorine atom when it has a charge of −1. In this particular example, the electron binding energy has the same magnitude as the electron affinity for the neutral chlorine atom. In another example, the electron binding energy refers to the minimum amount of energy required to remove an electron from the dicarboxylate dianion O 2 C(CH 2 ) 8 CO 2 .
+
+The graph to the right shows the binding energy for electrons in different shells in neutral atoms. The ionization energy is the lowest binding energy for a particular atom (although these are not all shown in the graph).
+
+Work function is the minimum amount of energy required to remove an electron from a solid surface, where the work function W for a given surface is defined by the difference
+
+where − e is the charge of an electron , ϕ is the electrostatic potential in the vacuum nearby the surface, and E F is the Fermi level ( electrochemical potential of electrons) inside the material.

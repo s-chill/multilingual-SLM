@@ -1,0 +1,73 @@
+Blue Sky Solar Racing is a student-run team at the University of Toronto that designs and constructs solar powered vehicles to race in international competitions.
+
+The team was founded in 1997 and has produced eight vehicles that have competed in a total of nine international solar car racing competitions. Their most recent vehicle, Horizon, was ranked 12th at World Solar Challenge 2015, and 1st in Canada . In 2016, Horizon raced in the American Solar Challenge and finished 3rd place overall, and 1st in Canada.
+
+In addition to racing, the Blue Sky team also actively participates in community events to promote environmental awareness and innovation in technology.
+
+The team is composed of undergraduate, graduate students and alumni volunteers from the Faculty of Applied Science & Engineering , the Faculty of Arts & Science , and the Joseph L. Rotman School of Management at the University of Toronto.
+
+In 1997, the Blue Sky Solar Racing Team produced its first solar powered vehicle named Blue Sky Project. Being the very first car, Blue Sky Project served as a test bed to work out the organizational and operational relationships required to build a car that was capable of qualifying and participating in competition.
+
+The team used this vehicle to compete in the Florida SunDay Challenge 1997 and ranked 3rd overall in the competition.
+
+Blue Sky Solar Racing Team's Blue II competed in SunRayce '99 in Orlando, Florida and finished 9th in the qualifying rounds. The race was however struck with poor weather conditions throughout the competition and recharging the solar vehicle became a great challenge for the team. The team was forced to adjust their racing strategy and optimize their power usage under the new weather constraints so they did not exhaust the battery. Despite such poor weather conditions, Blue II traveled over 2250 km over a span of 9 days and ranked 20th overall in the competition. The team was also awarded "Best Rookie Team" in recognition of their achievements in the race.
+
+With the team's third generation solar vehicle, Faust, the team competed at the World Solar Challenge . Faust ran a perfect race without a single mishap and not once was there an emergency during the racing that required Faust to be pulled over. For 5 days straight, the team drove for 8 hours through the Australian continent covering 3010 km in total. The team ranked 14th overall in the competition.
+
+The team also competed in the American Solar Challenge in 2001. This competition was very difficult for the vehicle's handling and stability due to long stretches of rough terrain over seven states. The rough road conditions of the Great Plains and Rocky Mountains created damage to the suspension system in the vehicle and caused a cascade effect throughout other systems. Temporary fixes were implemented when breakdowns occurred during official race hours, and long nights of repair would ensue at the end of each race day.  The team completed the 3595 km race in 79 hours 8 minutes and 57 seconds, which included 10 hours of penalties. The team ranked 12th in the competition and was one of the few teams that were able to fully complete the race.
+
+The team returned to the American Solar Challenge in 2003 with Faust II, the successor to Blue Sky's vehicle in the 2001 American Solar Challenge. Traveling over across 8 states from Chicago , Illinois , to Los Angeles , California , Faust II proved to be an extremely capable race car. In contrast to American Solar Challenge 2001, Faust II was able to traverse the grueling terrain with no major on-road difficulties due to the improvements made to the vehicle. Logging 79 hours, 51 minutes, and 39 seconds of race time, Blue Sky captured 11th place overall and placed first out of all teams of equivalent solar array technology. The team was also presented with the American Solar Challenge Safety Award for outstanding safety practices during the competition.
+
+Blue Sky Solar Racing Team's fifth generation solar vehicle, Cerulean, participated in the Panasonic World Solar Challenge 2007. Traveling 3000 km across the Australian outback, Cerulean completed the race in 46 hours and 19 minutes with a top speed of 118 km/h. The team ranked 5th in the Adventure class which was the highest placing amongst all Canadian teams in the competition.
+
+In 2011, Blue Sky Solar entered the World Solar Challenge for the first time in four years. Their sixth generation vehicle, Azure, placed 24th in the Challenger class of the race.
+
+B-7, the team's seventh generation vehicle, placed eighth in the World Solar Challenge 2013, 2nd among North American teams, and first among Canadian teams, in the Challenger class.
+
+Horizon, the eighth generation vehicle competed in the World Solar Challenge 2015 and finished 12th.
+
+For the first time in 13 years, Blue Sky Solar Racing took part in the American Solar Challenge. Racing with their eight generation car, Horizon, Blue Sky Solar Racing completed the race with a 3rd-place finish.
+
+As Blue Sky Solar Racing's first project, Blue Sky Project served as an experimental effort for the team to learn more about the production of solar vehicles. The vehicle was designed as a single-seated four-wheeler with a weight of 850 lbs. The project was completed in 1997 and was immediately put to test at the Florida SunDay Challenge 1997. The vehicle achieved extremely encouraging results for the rookie team and created a solid foundation and strong motivation for the team to continue developing solar vehicles.
+
+Weight:     850 lbs Power:      650 watts, 14% silicon solar cells Batteries:  Lead-acid Competitions: Florida SunDay Challenge 1997 – 3rd Place
+
+Upon the success of the Blue Sky Project, Blue Sky Solar Racing decided to immediately begin production of an improved solar vehicle – Blue II.  With a much greater power output than the Blue Sky Project, Blue II was capable of achieving a top speed of 110 km/h and it was as a key milestone in the technical development of the team. Blue II was completed in 1999 and competed in SunRayce '99. After the vehicle was decommissioned, it served for several years as the main display in the team's community education events in recognition of its milestone achievements.
+
+Weight:     968 lbs Power:      750 watts, 15% silicon solar cells Batteries:  Lead-acid Competitions: SunRayce '99 – 20th Place + Top Rookie Award
+
+After learning from the experiences of their previous experimental vehicles, Blue Sky Solar Racing was prepared to make a splash on the international stage. In the design of their third generation vehicle – Faust – the team focused on several key concepts to produce a solar vehicle that was competitive in international competitions; mainly, to minimize drag and weight. This led to several drastic departures in their design traditions. First of all, in contrast to Blue II, Faust was designed as a three-wheeler to minimize rolling resistance and decrease the overall weight of the vehicle. Secondly, the chassis for Faust was made of an extremely lightweight hollow tube aluminum space frame which decreased the overall weight of the vehicle to only 440 lbs, nearly half of the weight of Blue II. These departures in design lead to vast performance improvements which made it possible for the vehicle to achieve a top speed of 140 km/h. Construction Faust was completed in 2001 and it participated in two competitions in the same year.
+
+Weight:     620 lbs Power:      950 watts, 16.2% silicon solar cells Batteries:  Lithium ion-polymer Competitions: World Solar Challenge 2001 – 12th place, American Solar Challenge 2001 – 14th place
+
+Looking to improve upon the success of Faust, its successor – Faust II – aimed primarily to strengthen the build of the body and reduce weight, thus allowing it to achieve faster speeds. Learning from the damage that the grueling road conditions in the American Solar Challenge 2001 brought to Faust, the team fitted Faust II with a composite fiber cloth body which made it extremely durable while also reducing the vehicle's body weight by 40 lbs. Several other improvements were also made to the battery and motor of the vehicle. Production of Faust II was completed in 2003 and it participated in the American Solar Challenge 2003.
+
+The Faust II vehicle was involved in a fatal collision during a promotional tour in August 2004 which resulted in the death of its driver, a 3rd-year engineering student at the University of Toronto. The accident occurred on the outskirts of Kitchener-Waterloo, Ontario when the prototype vehicle lost control and swerved into oncoming traffic. The car was participating in a multi-university tour through Ontario and Quebec to promote sustainable energy, but this tour was cancelled following the crash. The incident prompted the University of Toronto to conduct a review the team's safety culture and operations.
+
+Weight:     600 lbs Power:      1050 watts, 16.8% silicon solar cells Batteries:  Lithium ion-polymer Competitions: American Solar Challenge 2003 – 11th Place + Safety Award
+
+While in the production phase of Faust II, Blue Sky Solar Racing began design on their fifth generation vehicle – Cerulean. Unlike its predecessors, Cerulean was designed as a double-seater vehicle; this allowed the team challenge themselves by attempting a new solar vehicle design with entirely different specifications and constraints.
+
+As a double-seater vehicle, the team was allowed to double the solar array output to 2300W and the motor power output to 13.4 hp. The team was also capable of keeping the vehicle lightweight by constructing a chassis from carbon board rails, thus minimizing the weight at 500 lbs. Despite being their first attempt at constructing a double-seater solar vehicle, Cerulean proved to be their most successful vehicle to date. With construction complete in 2007, Cerulean participated in the World Solar Challenge 2007 and placed 5th in its class, ranking it the highest amongst all Canadian teams.
+
+Weight:     230 kg (without driver) Power:      2000 W 27% GaAs solar cells Batteries:  Lithium polymer Competitions: World Solar Challenge 2007 – 5th Place in Adventure Class
+
+Blue Sky Solar Racing's sixth generation vehicle, Azure, placed 24th in the World Solar Challenge 2011, in the Challenger Class. The design of the vehicle was guided by three requirements: The vehicle must be able to achieve high speeds yet have low power consumption, exhibit great stability at high speeds yet have a low drag value, and have a great safety margin in critical components yet remain lightweight. The vehicle was officially unveiled on August 6, 2011.
+
+Weight:     250 kg (without driver) Power:      22% silicon solar cells Batteries:  Lithium ion-polymer Competitions: World Solar Challenge 2011 - 24th Place in Challenger Class
+
+On July 28, 2013, Blue Sky Solar unveiled its seventh generation vehicle, B-7. The car features a five-fairing design.  B-7 placed eighth in the World Solar Challenge 2013, 2nd among North American teams, and first among Canadian teams, in the Challenger class.
+
+Weight:     230 kg (without driver) Power:      1.3 kW, 22.5% silicon monocrystalline solar cells Batteries:  Lithium ion-polymer Competitions: World Solar Challenge 2013 - 8th Place in Challenger Class
+
+Blue Sky Solar Racing eighth generation solar powered vehicle - Horizon has an asymmetrical design and a catamaran-shaped aerobody. Horizon placed 12th in the Challenger class in the World Solar Challenge 2015. 3rd in North America and 1st in Canada. In the American Solar Challenge 2016, Horizon placed 3rd overall and 1st in Canada.
+
+Weight:     239 kg (without driver) Power:      1.4 kW, 23.9% silicon monocrystalline solar cells Batteries:  Lithium ion-polymer Competitions: World Solar Challenge 2015 - 12th Place in Challenger Class, American Solar Challenge 2016 - 3rd Place
+
+Similar to Horizon, the ninth generation solar powered vehicle - Polaris has an asymmetrical design and a catamaran-shaped aerobody. Polaris participated at the 2017 Bridgestone World Solar Challenge, placing 11th out of over 30 teams.
+
+Weight: 300 kg (without driver) Power: 390 24.3% Efficiency Silicon solar cells Batteries: Lithium ion Competitions: World Solar Challenge 2017 - 11th Place in Challenger Class
+
+Viridian is the team's 10th generation solar car design, built for the 2019 Bridgestone World Solar Challenge.
+
+Borealis is the team's 11th generation solar car design, built for the 2023 Bridgestone World Solar Challenge.

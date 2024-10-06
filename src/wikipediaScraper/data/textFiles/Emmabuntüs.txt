@@ -1,0 +1,7 @@
+Emmabuntüs is a Linux distribution derived from Debian (previously Ubuntu ) and designed to facilitate the restoration of computers donated to humanitarian organizations like the Emmaüs Communities.
+
+The name Emmabuntüs is a portmanteau of Emmaüs and Ubuntu .
+
+The desktop environment is Xfce with Cairo-Dock. LXQt is also included.
+
+Multiple applications are installed that perform the same task in order to provide a choice for each user that uses the system. Here are some examples:

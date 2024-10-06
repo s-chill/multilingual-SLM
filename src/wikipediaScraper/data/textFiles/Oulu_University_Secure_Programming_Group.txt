@@ -1,0 +1,13 @@
+The Oulu University Secure Programming Group ( OUSPG ) is a research group at the University of Oulu that studies, evaluates and develops methods of implementing and testing application and system software in order to prevent, discover and eliminate implementation level security vulnerabilities in a pro-active fashion. The focus is on implementation level security issues and software security testing .
+
+OUSPG has been active as an independent academic research group in the Computer Engineering Laboratory in the Department of Electrical and Information Engineering in the University of Oulu since summer 1996.
+
+OUSPG is most known for its participation in protocol implementation security testing, which they called robustness testing , using the PROTOS mini-simulation method.
+
+The PROTOS was co-operated project with VTT and number of industrial partners. The project developed different approaches of testing implementations of protocols using black-box (i.e. functional) testing methods. The goal was to support pro-active elimination of faults with information security implications, promote awareness in these issues and develop methods to support customer driven evaluation and acceptance testing of implementations. Improving the security robustness of products was attempted through supporting the development process.
+
+The most notable result of the PROTOS project was the result of the c06-snmp test suite, which discovered multiple vulnerabilities in SNMP .
+
+The work done in PROTOS is continued in PROTOS-GENOME, which applies automatic structure inference combined with domain specific reasoning capabilities to enable automated black-box program robustness testing tools without having prior knowledge of the protocol grammar. This work has resulted in a large number of vulnerabilities being found in archive file and antivirus products .
+
+The group has produced two spin-off companies, Codenomicon continues the work of the PROTOS  and Clarified Networks the work in FRONTIER.

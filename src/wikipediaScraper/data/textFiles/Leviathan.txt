@@ -1,0 +1,3 @@
+LEVIATHAN is a stream cipher submitted to NESSIE by Scott Fluhrer and David McGrew.  It is a seekable stream cipher, which means that the user may efficiently skip forward to any part of the keystream , much like CTR mode or Salsa20 , but unlike those ciphers generating contiguous blocks of the keystream is made especially efficient by LEVIATHAN's unique tree structure based stream generation.  LEVIATHAN achieves around 11 cycles per byte on a Pentium II processor.
+
+LEVIATHAN is considered broken due to distinguishing attacks which require 2 bytes of output and comparable effort.

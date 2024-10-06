@@ -1,0 +1,24 @@
+The Computer Measurement Group (CMG) , founded in 1974, is a worldwide non-profit organization of data processing professionals whose work involves measuring and managing the performance of computing systems. In this context, performance is understood to mean the response time of software applications of interest, and the overall capacity (or throughput ) characteristics of the system, or of some part of the system.
+
+CMG members are primarily concerned with evaluating and maximizing the performance of existing computer systems and networks , and with capacity management , in which planned enhancements to existing systems or the designs of new systems are evaluated to find the necessary resources required to provide adequate performance at a reasonable cost.
+
+CMG's purpose is to promote the exchange of technical information among Information Technology (IT) professionals through regional groups, technical publications, and an annual conference. In common with other user groups devoted to a broad range of products or technologies (for example SHARE or DECUS ), CMG provides education, networking, and leadership opportunities for its members.
+
+The association's activities provide:
+
+With over thirty regional and international groups , CMG's wide reaching structure emphasizes an extensive information and peer network. Regional groups hold local educational meetings, typically three or four times a year, and many publish informational newsletters. Regional meetings may span a half-day, a full day (the most common), or occasionally two days. International CMG groups also hold their own annual conferences and publish their own conference proceedings .
+
+In the US, Regional CMG groups cover the following areas: Boston, Connecticut, Florida, Greater Atlanta, Kansas City, Midwest, Minneapolis, National Capital Area, New York, Northern California,  Northwest, Ohio Valley,  Philadelphia, Rocky Mountain, St Louis, Salt Lake City, Southern, Southern California, and South West.
+
+International CMG groups exist in Australia , Austria and Eastern Europe (CMG AE), Canada, Central Europe (CECMG), Italy , China, the Netherlands South Africa, India and the United Kingdom ( UKCMG )
+
+CMG allows members to exchange information about the measurement, management and performance of Information technology systems. Topics of particular concern among CMG members include:
+
+At its annual conference, CMG presents several awards recognizing outstanding contributions to the field of computer measurement and performance evaluation:
+
+CMG produces a number of both print and electronic publications.  Currently there are four unique publications, the CMG Journal, the CMG Proceedings, the CMG Bulletin and MeasureIT.  Membership in CMG is required to obtain copies of the publications with the exception of MeasureIT.  In addition, some libraries and Universities have copies of the CMG Journal available for reference use.
+
+The free electronic newsletter, MeasureIT, is written by computer and performance professionals and is distributed around the second Tuesday of every month.  Anyone may subscribe to MeasureIT by visiting the CMG MeasureIT homepage .
+
+CMG holds an annual conference for performance professionals from around the world. CMG'11 was held in Washington, D.C. , United States, 5–9 December 2011.
+In 2013 the annual conference was renamed Performance and Capacity 2013 by CMG Conference and held in La Jolla, CA , United States, 4–8 November 2013.

@@ -1,0 +1,25 @@
+LiVES ( L iVES E diting S ystem) / ˈ l aɪ v z / is a free and open-source video editing software and VJ tool, released under the GNU General Public License version 3 or later. There are binary versions available for most popular Linux distributions (including Debian , Ubuntu , Fedora , Suse , Gentoo , Slackware , Arch Linux , Mandriva and Mageia ). There are also ports for BSD , and it will run under Solaris and IRIX . It has been compiled under OS X Leopard , but not thoroughly tested on that platform. In early 2019, a version for Microsoft Windows was announced, with a release slated for in the second half of 2019.
+
+The main developer of LiVES is Gabriel Finch (a.k.a. Salsaman), who is also a video artist and international VJ.
+
+The project began in late 2002, and the 1.0.0 version was released in July 2009.
+
+On the Freecode site, LiVES is listed as the most popular non-linear video editing software.
+
+LiVES was nominated for the category of Best Project for Multimedia in the SourceForge Community Choice Awards 2009.
+
+The LiVES application allows the user to manipulate video in realtime and in non-realtime. The application also has features which go beyond traditional video editing applications - for example, it can be controlled and monitored remotely over a network, and it has facilities for streaming to and from another copy of LiVES. It is resolution and frame rate independent.
+
+LiVES uses a system of plugins for effects, decoders, encoders and video playback. The APIs for these are now well defined, and the application can be easily extended.
+
+Actual Version 3.2 is based on GTK+ 2.16+ or 3.
+
+LiVES has two main interfaces: the clip editor, which serves as a repository of video and audio material, and the multitrack window, where multiple clips can be positioned on the timeline.
+
+The clip editor allows free playback at variable play rates, applying of multiple realtime effects and mixing of clips. This mode is mainly used by VJs. Video editors can also use this interface to prepare the clips before entering into multitrack mode.
+
+In multitrack mode, the individual clips can be arranged in layers on the timeline. Further effects and transitions can be applied here, and the audio can be mixed down. The entire timeline can then be rendered , creating a new clip.
+
+Rendering previews are shown in real time.
+
+LiVES' features include:

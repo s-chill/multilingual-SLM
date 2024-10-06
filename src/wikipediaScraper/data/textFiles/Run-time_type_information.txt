@@ -1,0 +1,29 @@
+In computer programming, run-time type information or run-time type identification ( RTTI ) is a feature of some programming languages (such as C++ , Object Pascal , and Ada ) that exposes information about an object's data type at runtime . Run-time type information may be available for all types or only to types that explicitly have it (as is the case with Ada). Run-time type information is a specialization of a more general concept called type introspection .
+
+In the original C++ design, Bjarne Stroustrup did not include run-time type information, because he thought this mechanism was often misused.
+
+In C++, RTTI can be used to do safe typecasts using the dynamic_cast<> operator, and to manipulate type information at runtime using the typeid operator and std::type_info class. In Object Pascal, RTTI can be used to perform safe type casts with the as operator, test the class to which an object belongs with the is operator, and manipulate type information at run time with classes contained in the RTTI unit (i.e. classes: TRttiContext , TRttiInstanceType , etc.). In Ada, objects of tagged types also store a type tag, which permits the identification of the type of these object at runtime. The in operator can be used to test, at runtime, if an object is of a specific type and may be safely converted to it.
+
+RTTI is available only for classes that are polymorphic , which means they have at least one virtual method . In practice, this is not a limitation because base classes must have a virtual destructor to allow objects of derived classes to perform proper cleanup if they are deleted from a base pointer.
+
+Some compilers have flags to disable RTTI. Using these flags may reduce the overall size of the application, making them especially useful when targeting systems with a limited amount of memory.
+
+The typeid reserved word (keyword) is used to determine the class of an object at runtime. It returns a reference to std::type_info object, which exists until the end of the program. The use of typeid , in a non-polymorphic context, is often preferred over dynamic_cast< class_type > in situations where just the class information is needed, because typeid is always a constant-time procedure, whereas dynamic_cast may need to traverse the class derivation lattice of its argument at runtime. Some aspects of the returned object are implementation-defined, such as std::type_info::name() , and cannot be relied on across compilers to be consistent.
+
+Objects of class std::bad_typeid are thrown when the expression for typeid is the result of applying the unary * operator on a null pointer . Whether an exception is thrown for other null reference arguments is implementation-dependent. In other words, for the exception to be guaranteed, the expression must take the form typeid(*p) where p is any expression resulting in a null pointer.
+
+Output (exact output varies by system and compiler):
+
+The dynamic_cast operator in C++ is used for downcasting a reference or pointer to a more specific type in the class hierarchy . Unlike the static_cast , the target of the dynamic_cast must be a pointer or reference to class . Unlike static_cast and C-style typecast (where type check occurs while compiling), a type safety check is performed at runtime. If the types are not compatible, an exception will be thrown (when dealing with references ) or a null pointer will be returned (when dealing with pointers ).
+
+A Java typecast behaves similarly; if the object being cast is not actually an instance of the target type, and cannot be converted to one by a language-defined method, an instance of java.lang.ClassCastException will be thrown.
+
+Suppose some function takes an object of type A as its argument, and wishes to perform some additional operation if the object passed is an instance of B , a subclass of A . This can be done using dynamic_cast as follows.
+
+Console output:
+
+A similar version of MyFunction can be written with pointers instead of references :
+
+In Object Pascal and Delphi , the operator is is used to check the type of a class at runtime. It tests the belonging of an object to a given class, including classes of individual ancestors present in the inheritance hierarchy tree (e.g. Button1 is a TButton class that has ancestors: TWinControl → TControl → TComponent → TPersistent → TObject , where the latter is the ancestor of all classes). The operator as is used when an object needs to be treated at run time as if it belonged to an ancestor class.
+
+The RTTI unit is used to manipulate object type information at run time. This unit contains a set of classes that allow you to: get information about an object's class and its ancestors, properties, methods and events, change property values and call methods. The following example shows the use of the RTTI module to obtain information about the class to which an object belongs, creating it, and to call its method. The example assumes that the TSubject class has been declared in a unit named SubjectUnit.

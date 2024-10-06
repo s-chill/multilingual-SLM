@@ -1,0 +1,1 @@
+Notable software applications that can access or manipulate disk image files are as follows, comparing their disk image handling features.

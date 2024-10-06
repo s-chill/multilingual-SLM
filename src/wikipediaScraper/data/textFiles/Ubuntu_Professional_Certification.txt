@@ -1,0 +1,5 @@
+Ubuntu Professional Certification which was introduced in May 2006, was a computer based examination about the Ubuntu operating system.
+
+The test was administered by the LPI (Linux Professional Institute) and the certification was part of the LPIC (Linux Professional Institute Certification) as an added module/exam to LPI 117-101 and LPI 117-102 certs. The LPI UCP exam code was LPI 117-199. The testee needed to pass all three exams (117-101,117-102 and 117-199) in order to receive a UCP certification. The 101 and 102 exams could be taken before or after the UCP exam(199).
+
+This certification has been discontinued as of October 2010.

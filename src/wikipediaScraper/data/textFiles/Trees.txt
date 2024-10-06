@@ -1,0 +1,58 @@
+In graph theory , a tree is an undirected graph in which any two vertices are connected by exactly one path , or equivalently a connected acyclic undirected graph. A forest is an undirected graph in which any two vertices are connected by at most one path, or equivalently an acyclic undirected graph, or equivalently a disjoint union of trees.
+
+A directed tree, oriented tree, polytree , or singly connected network is a directed acyclic graph (DAG) whose underlying undirected graph is a tree. A polyforest (or directed forest or oriented forest) is a directed acyclic graph whose underlying undirected graph is a forest.
+
+The various kinds of data structures referred to as trees in computer science have underlying graphs that are trees in graph theory, although such data structures are generally rooted trees. A rooted tree may be directed, called a directed rooted tree, either making all its edges point away from the root—in which case it is called an arborescence or out-tree —or making all its edges point towards the root—in which case it is called an anti-arborescence or in-tree. A rooted tree itself has been defined by some authors as a directed graph. A rooted forest is a disjoint union of rooted trees. A rooted forest may be directed, called a directed rooted forest, either making all its edges point away from the root in each rooted tree—in which case it is called a branching or out-forest—or making all its edges point towards the root in each rooted tree—in which case it is called an anti-branching or in-forest.
+
+The term tree was coined in 1857 by the British mathematician Arthur Cayley .
+
+A tree is an undirected graph G that satisfies any of the following equivalent conditions:
+
+If G has finitely many vertices, say n of them, then the above statements are also equivalent to any of the following conditions:
+
+As elsewhere in graph theory, the order-zero graph (graph with no vertices) is generally not considered to be a tree: while it is vacuously connected as a graph (any two vertices can be connected by a path), it is not 0-connected (or even (−1)-connected) in algebraic topology, unlike non-empty trees, and violates the "one more vertex than edges" relation. It may, however, be considered as a forest consisting of zero trees.
+
+An internal vertex (or inner vertex) is a vertex of degree at least 2. Similarly, an external vertex (or outer vertex, terminal vertex or leaf) is a vertex of degree 1. A branch vertex in a tree is a vertex of degree at least 3.
+
+An irreducible tree (or series-reduced tree) is a tree in which there is no vertex of degree 2 (enumerated at sequence A000014 in the OEIS ).
+
+A forest is an undirected acyclic graph or equivalently a disjoint union of trees.  Trivially so, each connected component of a forest is a tree. As special cases, the order-zero graph (a forest consisting of zero trees), a single tree, and an edgeless graph, are examples of forests.
+Since for every tree V − E = 1 , we can easily count the number of trees that are within a forest by subtracting the difference between total vertices and total edges. V − E = number of trees in a forest.
+
+A polytree (or directed tree or oriented tree or singly connected network ) is a directed acyclic graph (DAG) whose underlying undirected graph is a tree. In other words, if we replace its directed edges with undirected edges, we obtain an undirected graph that is both connected and acyclic.
+
+Some authors restrict the phrase "directed tree" to the case where the edges are all directed towards a particular vertex, or all directed away from a particular vertex (see arborescence ).
+
+A polyforest (or directed forest or oriented forest) is a directed acyclic graph whose underlying undirected graph is a forest. In other words, if we replace its directed edges with undirected edges, we obtain an undirected graph that is acyclic.
+
+As with directed trees, some authors restrict the phrase "directed forest" to the case where the edges of each connected component are all directed towards a particular vertex, or all directed away from a particular vertex (see branching ).
+
+A rooted tree is a tree in which one vertex has been designated the root. The edges of a rooted tree can be assigned a natural orientation, either away from or towards the root, in which case the structure becomes a directed rooted tree. When a directed rooted tree has an orientation away from the root, it is called an arborescence or out-tree ; when it has an orientation towards the root, it is called an anti-arborescence or in-tree . The tree-order is the partial ordering on the vertices of a tree with u < v if and only if the unique path from the root to v passes through u . A rooted tree T that is a subgraph of some graph G is a normal tree if the ends of every T -path in G are comparable in this tree-order ( Diestel 2005 , p. 15). Rooted trees, often with an additional structure such as an ordering of the neighbors at each vertex, are a key data structure in computer science; see tree data structure .
+
+In a context where trees typically have a root, a tree without any designated root is called a free tree .
+
+A labeled tree is a tree in which each vertex is given a unique label. The vertices of a labeled tree on n vertices (for nonnegative integers n ) are typically given the labels 1, 2, …, n . A recursive tree is a labeled rooted tree where the vertex labels respect the tree order (i.e., if u < v for two vertices u and v , then the label of u is smaller than the label of v ).
+
+In a rooted tree, the parent of a vertex v is the vertex connected to v on the path to the root; every vertex has a unique parent, except the root has no parent. A child of a vertex v is a vertex of which v is the parent. An ascendant of a vertex v is any vertex that is either the parent of v or is (recursively) an ascendant of a parent of v . A descendant of a vertex v is any vertex that is either a child of v or is (recursively) a descendant of a child of v . A sibling to a vertex v is any other vertex on the tree that shares a parent with v . A leaf is a vertex with no children. An internal vertex is a vertex that is not a leaf.
+
+The height of a vertex in a rooted tree is the length of the longest downward path to a leaf from that vertex. The height of the tree is the height of the root. The depth of a vertex is the length of the path to its root ( root path ). The depth of a tree is the maximum depth of any vertex. Depth is commonly needed in the manipulation of the various self-balancing trees, AVL trees in particular. The root has depth zero, leaves have height zero, and a tree with only a single vertex (hence both a root and leaf) has depth and height zero. Conventionally, an empty tree (a tree with no vertices, if such are allowed) has depth and height −1.
+
+A k -ary tree (for nonnegative integers k ) is a rooted tree in which each vertex has at most k children. 2-ary trees are often called binary trees , while 3-ary trees are sometimes called ternary trees .
+
+An ordered tree (alternatively, plane tree or positional tree ) is a rooted tree in which an ordering is specified for the children of each vertex. This is called a "plane tree" because an ordering of the children is equivalent to an embedding of the tree in the plane, with the root at the top and the children of each vertex lower than that vertex. Given an embedding of a rooted tree in the plane, if one fixes a direction of children, say left to right, then an embedding gives an ordering of the children. Conversely, given an ordered tree, and conventionally drawing the root at the top, then the child vertices in an ordered tree can be drawn left-to-right, yielding an essentially unique planar embedding.
+
+Cayley's formula states that there are n trees on n labeled vertices. A classic proof uses Prüfer sequences , which naturally show a stronger result: the number of trees with vertices 1, 2, …, n of degrees d 1 , d 2 , …, d n respectively, is the multinomial coefficient
+
+A more general problem is to count spanning trees in an undirected graph , which is addressed by the matrix tree theorem . (Cayley's formula is the special case of spanning trees in a complete graph .) The similar problem of counting all the subtrees regardless of size is #P-complete in the general case ( Jerrum (1994) ).
+
+Counting the number of unlabeled free trees is a harder problem. No closed formula for the number t ( n ) of trees with n vertices up to graph isomorphism is known. The first few values of t ( n ) are
+
+Otter (1948) proved the asymptotic estimate
+
+with C ≈ 0.534949606... and α ≈ 2.95576528565... (sequence A051491 in the OEIS ). Here, the ~ symbol means that
+
+This is a consequence of his asymptotic estimate for the number r ( n ) of unlabeled rooted trees with n vertices:
+
+with D ≈ 0.43992401257... and the same α as above (cf. Knuth (1997) , chap. 2.3.4.4 and Flajolet & Sedgewick (2009) , chap. VII.5, p. 475).
+
+The first few values of r ( n ) are

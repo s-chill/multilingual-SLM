@@ -1,0 +1,5 @@
+Grammatik was the first grammar checking program developed for home computer systems. Aspen Software of Albuquerque, NM , released the earliest version of this diction and style checker for personal computers. It was first released no later than 1981, and was inspired by the Writer's Workbench .
+
+Grammatik was first available for a Radio Shack - TRS-80 , and soon had versions for CP/M and the IBM PC . Reference Software International of San Francisco , California, acquired Grammatik in 1985. Development of Grammatik continued, and it became an actual grammar checker that could detect writing errors beyond simple style checking.
+
+Subsequent versions were released for the MS-DOS , Windows , Macintosh and Unix platforms. Grammatik was ultimately acquired by WordPerfect Corporation and is integrated in the WordPerfect word processor .

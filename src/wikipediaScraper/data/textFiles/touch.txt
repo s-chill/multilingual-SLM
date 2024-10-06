@@ -1,0 +1,11 @@
+In computing , touch is a command used to update the access date and/or modification date of a computer file or directory . It is included in Unix and Unix-like operating systems , TSC 's FLEX , Digital Research / Novell DR DOS , the AROS shell, the Microware OS-9 shell, and ReactOS . The command is also available for FreeDOS and Microsoft Windows .
+
+In its default usage, it is the equivalent of creating or opening a file and saving it without any change to the file contents. touch avoids opening, saving, and closing the file.  Instead it simply updates the dates associated with the file or directory.  An updated access or modification date can be important for a variety of other programs such as backup utilities or the make command-line interface programming utility.  Typically these types of programs are only concerned with files which have been created or modified after the program was last run. The touch command can also be useful for quickly creating files for programs or scripts that require a file with a specific name to exist for successful operation of the program, but do not require the file to have any specific content.
+
+The Single Unix Specification (SUS) specifies that touch should change the access times, modification times, or both, for a file. The file is identified by a pathname supplied as a single argument. It also specifies that if the file identified does not exist, the file is created and the access and modification times are set as specified. If no new timestamps are specified, touch uses the current time.
+
+A touch utility first appeared in Version 7 AT&T UNIX . Today, the command is available for a number of different operating systems, including many Unix and Unix-like systems, DOS , Microsoft Windows and the classic Mac OS .
+
+The version of touch bundled in GNU coreutils was written by Paul Rubin, Arnold Robbins, Jim Kingdon, David MacKenzie, and Randy Smith.
+
+The command is available as a separate package for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities. The FreeDOS version was developed by Kris Heidenstrom and is licensed under the GPL . DR DOS 6.0 and KolibriOS include an implementation of the touch command. The touch command has also been ported to the IBM i operating system.

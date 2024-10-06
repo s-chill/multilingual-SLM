@@ -1,0 +1,25 @@
+Claude Chappe ( French: [klod ʃap] ; 25 December 1763 – 23 January 1805) was a French inventor who in 1792 demonstrated a practical semaphore system that eventually spanned all of France .  His system consisted of a series of towers, each within line of sight of others, each supporting a wooden mast with two crossarms on pivots that could be placed in various positions.  The operator in a tower moved the arms to a sequence of positions, spelling out text messages in semaphore code.  The operator in the next tower read the message through a telescope , then passed it on to the next tower. This was the first practical telecommunications system of the industrial age , and was used until the 1850s when electric telegraph systems replaced it.
+
+Claude Chappe was born in Brûlon, Sarthe , France, the son of Ignace Chappe, a contrôleur ( intendant ) of the Crown lands for Laval , and his wife Marie Devernay, daughter of a physician of Laval. He was raised for church service, but lost his sinecure during the French Revolution . He was educated at the Lycée Pierre Corneille in Rouen .
+
+His uncle was the astronomer Jean-Baptiste Chappe d'Auteroche , famed for his observations of the Transit of Venus in 1761 and again in 1769. The first book Claude read in his youth was his uncle's journal of the 1761 trip, "Voyage en Siberie". His brother, Abraham, wrote "Reading this book greatly inspired him, and gave him a taste for the physical sciences. From this point on, all his studies, and even his pastimes, were focused on that subject." Because of his astronomer uncle, Claude may also have become familiar with the properties of telescopes.
+
+He and his four unemployed brothers decided to develop a practical system of semaphore relay stations, a task proposed in antiquity, yet never realized.
+
+Claude's brother, Ignace Chappe (1760–1829) was a member of the Legislative Assembly during the French Revolution . With his help, the Assembly supported a proposal to build a relay line from Paris to Lille (fifteen stations, about 120 miles), to carry dispatches from the war.
+
+The Chappe brothers determined by experiment that the angles of a rod were easier to see than the presence or absence of panels. Their final design had two arms connected by a cross-arm. Each arm had seven positions, and the cross-arm had four more, permitting a 196-combination code. The arms were from three to thirty feet long, black, and counterweighted, moved by only two handles. Lamps mounted on the arms proved unsatisfactory for night use. The relay towers were placed from 12 to 25 km (10 to 20 miles) apart. Each tower had a telescope pointing both up and down the relay line.
+
+Chappe initially called his invention a tachygraph ("fast writer"). However, the Army preferred to use the word telegraph ("far writer"), which was coined by French statesman André François Miot de Mélito . Today, in order to distinguish it from subsequent telegraph systems, the French name for Chappe's semaphore telegraph system is named after him, and thus is known as a Telegraph Chappe . Alternatively, Chappe coined the phrase semaphore , from the Greek elements σῆμα (sêma, "sign"); and from φορός (phorós, "carrying"), or φορά (phorá, "a carrying") from φέρειν (phérein, "to bear").
+
+In 1794, the first messages were successfully sent between Paris and Lille . In 1794 the semaphore line informed Parisians of the capture of Condé-sur-l'Escaut from the Austrians less than an hour after it occurred. Other lines were built, including a line from Paris to Toulon. The system was widely copied by other European states, and was used by Napoleon to coordinate his empire and army.
+
+In 1805, Claude Chappe killed himself . He was said to be depressed by illness, and claims by rivals that he had plagiarized from military semaphore systems.
+
+In 1824 Ignace Chappe attempted to increase interest in using the semaphore line for commercial messages, such as commodity prices; however, the business community resisted.
+
+From 1844, the government of France funded trials of a new system of electric telegraph lines and committed to fully replacing the Chappe telegraph in 1846. Many contemporaries warned of the ease of sabotage and interruption of service by cutting a wire. The extent of the French optical telegraph meant that it took some time for the replacement to be completed. The two systems existed side-by-side for about a decade.  One of the last messages sent over the Chappe telegraph was news of the fall of Sevastopol in 1855.
+
+The Chappe semaphore figures prominently in Alexandre Dumas ' The Count of Monte Cristo . The Count bribes an underpaid operator to transmit a false message.
+
+Rue Chappe in the 18th arrondissement of Paris , is named after Chappe. A bronze sculpture of him was erected at the crossing of Rue du Bac and Boulevard Raspail in Paris. As many statues displeased or offended Hitler, it was removed and melted down during the Nazi occupation of Paris , in 1941 or 1942.

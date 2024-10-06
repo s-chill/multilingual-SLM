@@ -1,0 +1,55 @@
+A solar still distills water with substances dissolved in it by using the heat of the Sun to evaporate water so that it may be cooled and collected, thereby purifying it. They are used in areas where drinking water is unavailable, so that clean water is obtained from dirty water or from plants by exposing them to sunlight.
+
+Still types include large scale concentrated solar stills and condensation traps . In a solar still, impure water is contained outside the collector, where it is evaporated by sunlight shining through a transparent collector. The pure water vapour condenses on the cool inside surface and drips into a tank.
+
+Distillation replicates the way nature makes rain. The sun's energy heats water to the point of evaporation. As the water evaporates, its vapour rises, condensing into water again as it cools. This process leaves behind impurities, such as salts and heavy metals, and eliminates microbiological organisms. The result is pure (potable) water.
+
+Condensation traps have been in use since the pre- Incan peoples inhabited the Andes .
+
+In 1952, the United States military developed a portable solar still for pilots stranded in the ocean. It featured an inflatable 610-millimetre (24 in) floating plastic ball, with a flexible tube in the side. An inner bag hangs from attachment points on the outer bag. Seawater is poured into the inner bag from an opening in the ball's neck. Fresh water is taken out using the side tube. Output ranged from 1.4 litres (1.5 US qt) to 2.4 litres (2.5 US qt) of fresh water per day. Similar stills are included in some life raft survival kits , though manual reverse osmosis desalinators have mostly replaced them.
+
+Today, a method for gathering water in moisture traps is taught within the Argentinian Army for use by specialist units expected to conduct extended patrols of more than a week's duration in the Andes' arid border areas.
+
+A collector is placed at the bottom of a pit. Branches are placed vertically in the pit. The branches are long enough to extend over the edge of the pit and form a funnel to direct the water into the collector. A lid is then built over this funnel, using more branches, leaves, grasses, etc. Water is collected each morning.
+
+This method relies on the formation of dew or frost on the receptacle, funnel, and lid. Forming dew collects on and runs down the outside of the funnel and into the receptacle. This water would typically evaporate with the morning sun and thus vanish, but the lid traps the evaporating water and raises the humidity within the trap, reducing the amount of lost water. The shade produced by the lid also reduces the temperature within the trap, which further reduces the rate of water loss to evaporation.
+
+A solar still can be constructed with two–four stones, plastic film or transparent glass , a central weight to make the funnel and a container for the condensate. Better materials improve efficiency. A single sheet of plastic can replace the branches and leaves. Greater efficiency arises because the plastic is waterproof, preventing water vapour from escaping. The sheet is attached to the ground on all sides with stones or earth. Weighting the centre of the sheet forms the funnel. Condensate runs down it into the receptacle. One study of pit distillation found that angling the lid at 30 degrees angle captured the most water. The optimal water depth was about 25 millimetres (1 in).
+
+During photosynthesis plants release water through transpiration . Water can be obtained by enclosing a leafy tree branch in clear plastic, capturing water vapour released by the tree. The plastic allows photosynthesis to continue.
+
+In a 2009 study, variations to the angle of plastic and increasing the internal temperature versus the outside temperature improved output volumes.
+
+Unless relieved the vapour pressure around the branch can rise so high that the leaves can no longer transpire, requiring the water to be removed frequently.
+
+Alternatively, clumps of grass or small bushes can be placed inside the bag. The foliage must be replaced at regular intervals, particularly if the foliage is uprooted.
+
+Efficiency is greatest when the bag receives maximum sunshine. Soft, pulpy roots yield the greatest amount of liquid for the least amount of effort.
+
+The wick type solar still is a vapour-tight glass-topped box with an angled roof. Water is poured in from the top. It is heated by sunlight and evaporates. It condenses on the underside of the glass and runs into the connecting pipe at the bottom. Wicks separate the water into banks to increase surface area. The more wicks, the more heat reaches the water.
+
+To aid in absorbing more heat, wicks can be blackened. Glass absorbs less heat than plastic at higher temperatures, although glass is not as flexible.
+
+A plastic net can catch the water before it falls into the container and give it more time to heat.
+
+When distilling brine or other polluted water, adding a dye can increase the amount of solar radiation absorbed.
+
+A reverse still uses the temperature difference between solar-heated ambient air and the device to condense ambient water vapour. One such device produces water without external power. It features an inverted cone on top to deflect ambient heat in the air, and to keep sunlight off the upper surface of the box. This surface is a sheet of glass coated with multiple layers of a polymer and silver.
+
+It reflects sunlight to reduce surface heating. Residual heat that is not  reflected is reemitted in a specific ( infrared ) wavelength so that it passes through the atmosphere into space. The box can be as much as 15 °C (27 °F) cooler than the ambient temperature. That stimulates condensation, which gathers on the ceiling. This ceiling is coated in a superhydrophobic material, so that the condensate forms into droplets and falls into a collector. A test system yielded 4.6 ml (0.16 US fl oz) of water per day, using a 10 cm (3.9 in) surface or approximately 1.3 L/m (0.28 gal/ft per day.
+
+Condensation traps are sources for extending or supplementing existing water sources or supplies. A trap measuring 40 cm (16 in) in diameter by 30 cm (12 in) deep yields around 100 to 150 mL (3.4 to 5.1 US fl oz) per day.
+
+Urinating into the pit before adding the receptacle allows some of the urine's water content to be recovered.
+
+A pit still may be too inefficient as a survival still, because of the energy/water required for construction. In desert environments water needs can exceed 3.8 litres (1 US gal) per day for a person at rest, while still production may average only 240 millilitres (8 US fl oz). Several days of water collection may be required to equal the water lost during construction.
+
+Solar stills are used in cases where rain, piped, or well water is impractical, such as in remote homes or during power outages. In subtropical hurricane target areas that can lose power for days, solar distillation can provide an alternative source of clean water.
+
+Solar-powered desalination systems can be installed in remote locations where there is little or no infrastructure or energy grid. Solar is still affordable, eco-friendly, and considered an effective method amongst other conventional distillation techniques. Solar still is very effective, especially for supplying fresh water for islanders. This makes them ideal for use in rural areas or developing countries where access to clean water is limited.
+
+Solar stills have been used by ocean-stranded pilots and included in life raft emergency kits.
+
+Using a condensation trap to distill urine will remove the urea and salt, recycling the body's water.
+
+Solar stills have also been used for the treatment of municipal wastewater , the dewatering of sewage sludge as well as for olive mill wastewater management.

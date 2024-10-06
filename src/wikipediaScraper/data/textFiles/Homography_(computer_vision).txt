@@ -1,0 +1,17 @@
+In the field of computer vision , any two images of the same planar surface in space are related by a homography (assuming a pinhole camera model ).  This has many practical applications, such as image rectification , image registration , or camera motion—rotation and translation—between two images.   Once camera resectioning has been done from an estimated homography matrix, this information may be used for navigation, or to insert models of 3D objects into an image or video, so that they are rendered with the correct perspective and appear to have been part of the original scene (see Augmented reality ).
+
+We have two cameras a and b , looking at points P i {\displaystyle P_{i}} in a plane.
+Passing from the projection b p i = ( b u i ; b v i ; 1 ) {\displaystyle {}^{b}p_{i}=\left({}^{b}u_{i};{}^{b}v_{i};1\right)} of P i {\displaystyle P_{i}} in b to the projection a p i = ( a u i ; a v i ; 1 ) {\displaystyle {}^{a}p_{i}=\left({}^{a}u_{i};{}^{a}v_{i};1\right)} of P i {\displaystyle P_{i}} in a :
+
+where a z i {\displaystyle {}^{a}z_{i}} and b z i {\displaystyle {}^{b}z_{i}} are the z coordinates of P in each camera frame and where the homography matrix H a b {\displaystyle H_{ab}} is given by
+
+R {\displaystyle R} is the rotation matrix by which b is rotated in relation to a ; t is the translation vector from a to b ; n and d are the normal vector of the plane and the distance from origin to the plane respectively. K a and K b are the cameras' intrinsic parameter matrices.
+
+The figure shows camera b looking at the plane at distance d .
+Note: From above figure, assuming n T P i + d = 0 {\displaystyle n^{T}P_{i}+d=0} as plane model, n T P i {\displaystyle n^{T}P_{i}} is the projection of vector P i {\displaystyle P_{i}} along n {\displaystyle n} , and equal to − d {\displaystyle -d} . So t = t ⋅ 1 = t ( − n T P i d ) {\displaystyle t=t\cdot 1=t\left(-{\frac {n^{T}P_{i}}{d}}\right)} . And we have H a b P i = R P i + t {\displaystyle H_{ab}P_{i}=RP_{i}+t} where H a b = R − t n T d {\displaystyle H_{ab}=R-{\frac {tn^{T}}{d}}} .
+
+This formula is only valid if camera b has no rotation and no translation. In the general case where R a , R b {\displaystyle R_{a},R_{b}} and t a , t b {\displaystyle t_{a},t_{b}} are the respective rotations and translations of camera a and b , R = R a R b T {\displaystyle R=R_{a}R_{b}^{T}} and the homography matrix H a b {\displaystyle H_{ab}} becomes
+
+where d is the distance of the camera b to the plane.
+
+When the image region in which the homography is computed is small or the image has been acquired with a large focal length, an affine homography is a more appropriate model of image displacements. An affine homography is a special type of a general homography whose last row is fixed to

@@ -1,0 +1,5 @@
+A peripheral  device , or simply peripheral , is an auxiliary hardware device that a computer uses to transfer information externally. A peripheral is a hardware component that is accessible to and controlled by a computer but is not a core component of the computer.
+
+A peripheral can be categorized based on the direction in which information flows relative to the computer:
+
+Many modern electronic devices, such as Internet-enabled digital watches , video game consoles , smartphones , and tablet computers , have interfaces for use as a peripheral.

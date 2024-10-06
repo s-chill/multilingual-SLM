@@ -1,0 +1,9 @@
+A security bug or security defect is a software bug that can be exploited to gain unauthorized access or privileges on a computer system. Security bugs introduce security vulnerabilities by compromising one or more of:
+
+Security bugs do not need be identified nor exploited to be qualified as such and are assumed to be much more common than known vulnerabilities in almost any system.
+
+Security bugs, like all other software bugs , stem from root causes that can generally be traced to either absent or inadequate:
+
+Security bugs generally fall into a fairly small number of broad categories that include:
+
+See software security assurance .

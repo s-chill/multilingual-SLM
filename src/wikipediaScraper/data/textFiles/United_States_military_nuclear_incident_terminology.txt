@@ -1,0 +1,31 @@
+The United States Armed Forces uses a number of terms to define the magnitude and extent of nuclear and radiation accidents and incidents in order to reduce the time taken to report the type of incident, thus streamlining the radio communications in the wake of the event.
+
+United States Department of Defense directive 5230.16, Nuclear Accident and Incident Public Affairs (PA) Guidance , Chairman Joint Chiefs of Staff Manual 3150.03B Joint Reporting Structure Event and Incident Reporting , and the United States Air Force Operation Reporting System, as set out in Air Force Instruction 10-206 detail a number of terms for reporting nuclear incidents internally and externally (including in press releases). They are used by the United States of America, and are neither NATO nor global standards.
+
+Pinnacle is a Chairman of the Joint Chiefs of Staff OPREP-3 (Operational Event/Incident Report) reporting flagword used in the United States National Command Authority structure. The term "Pinnacle" denotes an incident of interest to the Major Commands , Department of Defense and National Command Authority, in that it:
+
+All of the following reporting terms are classified Pinnacle , with the exception of Bent Spear , Faded Giant and Dull Sword . AFI 10-206 notes that the flagword Pinnacle may be added to Bent Spear or Faded Giant to expedite reporting to the National Military Command Center (NMCC).
+
+Bent Spear refers to incidents involving nuclear weapons, warheads, components or vehicles transporting nuclear material that are of significant interest but are not categorized as Pinnacle – Nucflash or Pinnacle – Broken Arrow . Bent Spear incidents include violations or breaches of handling and security regulations.
+
+An example of a Bent Spear incident occurred on the August 2007 flight of a B-52 bomber from Minot AFB to Barksdale AFB which mistakenly carried six cruise missiles with live nuclear warheads.
+
+Broken Arrow refers to an accidental event that involves nuclear weapons, warheads or components that does not create a risk of nuclear war. These include:
+
+The US Department of Defense has officially recognized at least 32 "Broken Arrow" incidents from 1950 to 1980. Examples of these events include:
+
+Unofficially, the Defense Atomic Support Agency (now known as the Defense Threat Reduction Agency (DTRA)) has detailed hundreds of "Broken Arrow" incidents.
+
+Nucflash refers to detonation or possible detonation of a nuclear weapon which creates a risk of an outbreak of nuclear war . Events which may be classified Nucflash include:
+
+This term is a report that has the highest precedence in the OPREP-3 reporting structure. All other reporting terms such as Broken Arrow , Empty Quiver , etc., while very important, are secondary to this report.
+
+Emergency Disablement refers to operations involving the emergency destruction of nuclear weapons.
+
+Emergency Evacuation refers to operations involving the emergency evacuation of nuclear weapons.
+
+Empty Quiver refers to the seizure, theft, or loss of a functioning nuclear weapon.
+
+Faded Giant refers to an event involving a military nuclear reactor or other radiological accident not involving nuclear weapons, such as the SL-1 reactor explosion .
+
+Dull Sword refers to reports of minor incidents involving nuclear weapons, components or systems, or which could impair their deployments. This could include actions involving vehicles capable of carrying nuclear weapons but with no nuclear weapons on board at the time of the accident. This also is used in reports of damage or deficiencies with equipment, tools, or diagnostic testers that are designed for use on nuclear weapons or the nuclear weapon release systems of nuclear-capable aircraft.

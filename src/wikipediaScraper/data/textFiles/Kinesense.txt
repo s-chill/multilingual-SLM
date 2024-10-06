@@ -1,0 +1,5 @@
+Kinesense is computer vision and video analytics company based in Dublin , Ireland . The company is one of largest suppliers of computer vision products to the UK police , who use the technology to search CCTV content in the course of criminal investigations .
+
+Kinesense was founded in Dublin in 2009 and received early investment from the Irish government's venture capital fund Enterprise Ireland .
+
+Kinesense technology is a combination of motion detection and deep learning algorithms that have been adapted for CCTV analysis. The company also develops blockchain technology for chain of evidence The company has also worked with the London Zoo to monitor animal exhibits.

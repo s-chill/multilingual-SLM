@@ -1,0 +1,27 @@
+du (abbreviated from d isk u sage ) is a standard Unix program used to estimate file space usage—space used under a particular directory or files on a file system . A Windows commandline version of this program is part of Sysinternals suite by Mark Russinovich .
+
+The du utility first appeared in version 1 of AT&T UNIX . The version of du bundled in GNU coreutils was written by Torbjorn Granlund, David MacKenzie, Paul Eggert, and Jim Meyering. The command is also available for FreeDOS .
+
+By default, the Single UNIX Specification (SUS) specifies that du is to display the file space allocated to each file and directory contained in the current directory. Links will be displayed as the size of the link file, not what is being linked to; the size of the content of directories is displayed, as expected.
+
+As du reports allocation space and not absolute file space, the amount of space on a file system shown by du may vary from that shown by df if files have been deleted but their blocks not yet freed. Also the minfree setting that allocates datablocks for the filesystem and the super user processes creates a discrepancy between total blocks and the sum of used and available blocks. The minfree setting is usually set to about 5% of the total filesystem size. For more info see core utils faq .
+
+du takes a single argument, specifying a pathname for du to work; if it is not specified, the current directory is used. The SUS mandates for du the following options:
+
+Other Unix and Unix-like operating systems may add extra options. For example, BSD and GNU du specify a -h option, displaying disk usage in a format easier to read by the user, adding units with the appropriate SI prefix (e.g. 10 MB ).
+
+Sum of directories (-s) in kilobytes (-k):
+
+Sum of directories (-s) in human-readable format (-h : Byte, Kilobyte, Megabyte, Gigabyte, Terabyte and Petabyte):
+
+disk usage of all subdirectories and files including hidden files within the current directory (sorted by filesize) :
+
+disk usage of all subdirectories and files including hidden files within the current directory (sorted by reverse filesize) :
+
+The weight (size) of each subdirectory under the current directory (-d 1) with a sum total at the end (-c) all displayed in human-readable format (-h):
+
+or with du from GNU:
+
+The weight (size) of subdirectories under the root directory (-d 1, trailing /) with a sum total at the end (-c), all displayed in human-readable format (-h) without traversing into other filesystems (-x). Useful when /var /tmp or other directories are on separate storage from the root directory:
+
+or with du from GNU:

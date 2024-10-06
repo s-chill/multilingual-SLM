@@ -1,0 +1,55 @@
+Robert Stirling (25 October 1790 – 6 June 1878) was a Scottish clergyman and engineer . He invented the Stirling engine and was inducted into the Scottish Engineering Hall of Fame in 2014.
+
+Robert Stirling was born at Cloag Farm, a location in Scotland near the village of Methven , Perthshire . A member of the Dublane side of the Stirling family, Robert was born to Patrick and Agnes Stirling. He was one of eight children that Patrick and Agnes shared.
+
+His grandfather was Michael Stirling, most famously known for his invention of the threshing machine . Robert's father, Patrick, also spent time experimenting and innovating with industrial agricultural equipment.
+
+Though Robert, like his father and grandfather, had a natural inclination for engineering, he began attending Edinburgh University in 1805 at the age of fifteen to study divinity in hopes of becoming a minister. His brother James, who would play a major role in Stirling's future engineering endeavours, also attended Edinburgh at the age of 14.
+
+He finished his studies at University of Edinburgh and continued in November 1809 to study at Glasgow University where, according to Keith Laidler, he studied the classics, philosophy, theology and mathematics, but probably very little science. In 1814, he returned to Edinburgh University studying divinity for a final time.
+
+Robert was licensed to preach in the Church of Scotland in 1816 by the Presbytery of Dumbarton . In September 1816, the commissioner of the Duke of Portland granted Stirling the title of Minister as the second charge for the Laigh Kirk parish in Kilmarnock. Finally, in February 1824, Stirling was appointed as the minister of nearby Galston Parish Church where he continued his ministry until 1878.
+
+In July 1819, Robert Stirling married Jane Rankine. Together, they had seven children, five sons and two daughters.
+
+Robert Stirling is considered as one of the fathers of hot air engines. Few before him ventured to build air engines, Guillaume Amontons being the first one to build a working hot air engine in 1699.
+
+Amontons was followed in 1807 by George Cayley whose engine was of those in which the fire is enclosed, and fed by air pumped in beneath the grate in sufficient quantity to maintain combustion, while by far the largest portion of the air enters above the fire, to be heated and expanded; the whole, together with the products of combustion, then acts on the piston, and passes through the working cylinder; and the operation being one of simple mixture only, no heating surface of metal is required, the air to be heated being brought into immediate contact with the fire.
+
+Stirling came up with a first patent for an air engine in 1816. The principle of the Stirling Air Engine differs from Cayley's, in which the air is forced through the furnace and exhausted, whereas in Stirling's engine the air works in a closed circuit. It was to it that the inventor devoted most of his attention. A two horse-power Stirling hot air engine, built in 1818 for pumping water at an Ayrshire quarry, continued to work for some time, until a careless attendant allowed the heater to become overheated. This experiment proved to the inventor that, owing to the low working pressure obtainable, the engine could only be adapted to small powers for which there was at that time no demand.
+
+The Stirling 1816 patent was also about an " Economiser ", the predecessor of the regenerator. In this patent (# 4081) he describes the "economiser" technology and several applications where such technology can be used. Out of them came a new arrangement for a hot air engine. In 1818, one engine was built to pump water from a quarry in Ayrshire, but due to technical issues, the engine was abandoned for a time.
+
+Stirling patented a second hot air engine, together with his brother James , in 1827. They inverted the design so that the hot ends of the displacers were underneath the machinery and they added a compressed air pump so the air within could be increased in pressure to around 20 atmospheres.
+
+The two Stirling brothers were followed shortly after in 1828 by Parkinson & Crossley and in 1829 and Arnott. These precursors, to whom John Ericsson should be added, have brought to the world the hot air engine technology and its enormous advantages over the steam engine. Each of them came with his own specific technology, and although the Stirling engine and the Parkinson & Crossley engines were quite similar, Robert Stirling distinguished himself by inventing the regenerator, the first example of a Regenerative heat exchanger .
+
+Parkinson and Crosley introduced the principle of using air of greater density than that of the atmosphere, and so obtained an engine of greater power in the same compass. James Stirling followed this same idea when he built the famous Dundee engine.
+
+The Stirling patent of 1827 has been the base of the Stirling third patent of 1840. The changes against the 1827 patent were minor but essential. It was this third patent that gave the birth to the Dundee engine.
+
+James Stirling gave a presentation of his engine before the Institution of Civil Engineers in 1845. The first engine of this kind which, after various modifications, was efficiently constructed and heated, had a cylinder of 12 inches (approx. 30 cm) in diameter, with a length of stroke of 2 feet (approx. 61 cm), and made 40 strokes or revolutions in a minute (40 rpm). This engine moved all the machinery at the Dundee Foundry Company's works for eight or ten months, and was previously found capable of raising 700,000 lbs one foot in a minute (approx. 21 HP).
+
+Finding this power insufficient for their works, the Dundee Foundry Company erected the second engine, with a cylinder of 16 inches (approx. 40 cm) in diameter, a stroke of 4 feet (approx. 1.20 m), and making 28 strokes in a minute. This engine has now been in continual operation for upwards of two years, and has not only performed the work of the foundry in the most satisfactory manner, but has been tested (by a friction brake on a third mover) to the extent of lifting nearly 1,500,000 lbs (approx. 45 HP).
+
+This gives a consumption of 2.7 lbs. (approx. 1.22 kg) per horse-power per hour; but when the engine was not fully burdened, the consumption was considerably under 2.5 lbs. (approx. 1.13 kg) per horse-power per hour. This performance was at the level of the best steam engines whose efficiency was about 10%. After James Stirling, such efficiency was possible only thanks to the use of the economiser (or regenerator).
+
+Robert Stirling's best known invention is the heat engine now referred to as the Stirling engine . In 1816 the Stirling brothers applied for a patent in both Scotland and England for a device they invented, a Heat Economiser. The function of this invention was to store and release heat as air circulated through its mechanisms. This differed from most heat engines which used steam as their method of storing and releasing energy.
+
+While in Kilmarnock, he collaborated with another inventor, Thomas Morton, who provided workshop facilities for Stirling's research. By 1818 Stirling had incorporated this Heat Economiser into a piston engine that created a closed cycle heat engine, which was powered by air, a contrast to the steam engines that were predominant at the time. This updated version of the heat engine was used to pump water from a quarry. Stirling's heat engine was able to run well but was limited by the weaker metals available at the time. Due to the flimsiness of the materials used, the air vessels were eventually crushed by the high pressure of the heated air.
+
+In 1824 Stirling sought to improve the efficiency of the heat engine by attempting to separate the air present in the economizer. This was done by making the plungers in the air engine from thin plates of metal. This was to improve airflow and offer better heating and cooling of the engine. Although this idea received a patent, it was ultimately unsuccessful in improving the heat engine's overall efficiency.
+
+In 1840 Stirling received another patent for the heat engine after altering the design in a new attempt to increase durability. The improvements added by Stirling included the addition of rods or plates in the passage through which hot air travelled to the cold section of the engine. By having these surfaces, the air was able to be cooled to a lower temperature when travelling from the hot section of the engine to the cold section of the engine. Additionally, Stirling added cupped leather collars around the piston rods to seal gaps and minimize the leakage of air from the engine. After developing these improvements, Stirling built two of these heat engines to use at an iron foundry he managed in Dundee. One of these air engines was started in March 1843 where it ran until December 1845 when an air vessel failed. The air vessel failure could be attributed to the metals being unable to withstand the high temperatures at which the engine was running. After replacing the air vessel a couple times, the air engine was dismantled in 1847 after Stirling left the Dundee iron foundry.
+
+In 1876 Robert Stirling wrote a letter acknowledging the importance of Henry Bessemer 's new invention, the Bessemer process for the manufacture of steel. Stirling was optimistic that the new steel would improve the performance of the air engines.
+
+Robert Stirling's development of the hot air engine was in part motivated by safety. His engine was designed to fail far less catastrophically than the steam engines of the time while obtaining greater efficiency. Though the Stirling engine is rarely used today, its seemingly perpetual motion capability continues to draw the interest of research institutions like Los Alamos National Laboratory and NASA .
+
+On 10 July 1819, Stirling married Jane Rankine at Kilmarnock. They had seven children:
+
+Rev. Robert Stirling died in Galston, East Ayrshire on 6 June 1878. He is buried in Galston Cemetery where a new gravestone was erected in December 2014 by public subscription replacing the original stone which was in a ruined state. It was rededicated on Sunday 3 May 2015.
+
+On 11 January 1840, Stirling was awarded the title Doctor of Divinity by the University of St. Andrews for his excellence in ministry.
+
+On 3 October 2014 Stirling was inducted into the Scottish Engineering Hall of Fame.

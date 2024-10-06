@@ -1,0 +1,42 @@
+Vector control , also called field-oriented control (FOC), is a variable-frequency drive (VFD) control method in which the stator currents of a three-phase AC or brushless DC electric motor are identified as two orthogonal components that can be visualized with a vector. One component defines the magnetic flux of the motor, the other the torque. The control system of the drive calculates the corresponding current component references from the flux and torque references given by the drive's speed control. Typically proportional-integral (PI) controllers are used to keep the measured current components at their reference values. The pulse-width modulation of the variable-frequency drive defines the transistor switching according to the stator voltage references that are the output of the PI current controllers.
+
+FOC is used to control AC synchronous and induction motors . It was originally developed for high-performance motor applications that are required to operate smoothly over the full speed range, generate full torque at zero speed, and have high dynamic performance including fast acceleration and deceleration . However, it is becoming increasingly attractive for lower performance applications as well due to FOC's motor size, cost and power consumption reduction superiority. It is expected that with increasing computational power of the microprocessors it will eventually nearly universally displace single-variable scalar control ( volts -per- Hertz , V/f control).
+
+Technische Universität Darmstadt's K. Hasse and Siemens' F. Blaschke pioneered vector control of AC motors starting in 1968 and in the early 1970s. Hasse in terms of proposing indirect vector control, Blaschke in terms of proposing direct vector control. Technical University Braunschweig's Werner Leonhard further developed FOC techniques and was instrumental in opening up opportunities for AC drives to be a competitive alternative to DC drives .
+
+Yet it was not until after the commercialization of microprocessors , that is in the early 1980s, that general purpose AC drives became available. Barriers to use FOC for AC drive applications included higher cost and complexity and lower maintainability compared to DC drives, FOC having until then required many electronic components in terms of sensors, amplifiers and
+so on.
+
+The Park transformation has long been widely used in the analysis and study of synchronous and induction machines. The transformation is by far the single most important concept needed for an understanding of how FOC works, the concept having been first conceptualized in a 1929 paper authored by Robert H. Park . Park's paper was ranked second most important in terms of impact from among all power engineering related papers ever published in the twentieth century. The novelty of Park's work involves his ability to transform any related machine's linear differential equation set from one with time varying coefficients to another with time invariant coefficients resulting in a linear time-invariant system or LTI system.
+
+Overview of key competing VFD control platforms:
+
+While the analysis of AC drive controls can be technically quite involved ("See also" section), such analysis invariably starts with modeling of the drive-motor circuit involved along the lines of accompanying signal flow graph and equations.
+
+In vector control, an AC induction or synchronous motor is controlled under all operating conditions like a separately excited DC motor. That is, the AC motor behaves like a DC motor in which the field flux linkage and armature flux linkage created by the respective field and armature (or torque component) currents are orthogonally aligned such that, when torque is controlled, the field flux linkage is not affected, hence enabling dynamic torque response.
+
+Vector control accordingly generates a three-phase PWM motor voltage output derived from a complex voltage vector to control a complex current vector derived from motor's three-phase stator current input through projections or rotations back and forth between the three-phase speed and time dependent system and these vectors' rotating reference-frame two- coordinate time invariant system.
+
+Such complex stator current space vector can be defined in a (d,q) coordinate system with orthogonal components along d (direct) and q (quadrature) axes such that field flux linkage component of current is aligned along the d axis and torque component of current is aligned along the q axis. The induction motor's (d,q) coordinate system can be superimposed to the motor's instantaneous (a,b,c) three-phase sinusoidal system as shown in accompanying image (phases b & c not shown for clarity). Components of the (d,q) system current vector allow conventional control such as proportional and integral, or PI, control , as with a DC motor.
+
+Projections associated with the (d,q) coordinate system typically involve:
+
+The idea of using the park transform is to convert the system of three phase currents and voltages into a two coordinate linear time-invariant system. By making the system LTI is what enables the use of simple and easy to implement PI controllers, and also simplifies the control of flux and torque producing currents.
+
+However, it is not uncommon for sources to use combined transform three-to-two, (a,b,c)-to-(d,q) and inverse projections.
+
+While (d,q) coordinate system rotation can arbitrarily be set to any speed, there are three preferred speeds or reference frames:
+
+Decoupled torque and field currents can thus be derived from raw stator current inputs for control algorithm development.
+
+Whereas magnetic field and torque components in DC motors can be operated relatively simply by separately controlling the respective field and armature currents, economical control of AC motors in variable speed application has required development of microprocessor-based controls with all AC drives now using powerful DSP ( digital signal processing ) technology.
+
+Inverters can be implemented as either open-loop sensorless or closed-loop FOC, the key limitation of open-loop operation being minimum speed possible at 100% torque, namely, about 0.8 Hz compared to standstill for closed-loop operation.
+
+There are two vector control methods, direct or feedback vector control (DFOC) and indirect or feedforward vector control (IFOC), IFOC being more commonly used because in closed-loop mode such drives more easily operate throughout the speed range from zero speed to high-speed field-weakening. In DFOC, flux magnitude and angle feedback signals are directly calculated using so-called voltage or current models. In IFOC, flux space angle feedforward and flux magnitude signals first measure stator currents and rotor speed for then deriving flux space angle proper by summing the rotor angle corresponding to the rotor speed and the calculated reference value of slip angle corresponding to the slip frequency.
+
+Sensorless control (see Sensorless FOC Block Diagram) of AC drives is attractive for cost and reliability considerations. Sensorless control requires derivation of rotor speed information from measured stator voltage and currents in combination with open-loop estimators or closed-loop observers.
+
+Significant aspects of vector control application:
+
+Although the vector control algorithm is more complicated than the Direct Torque Control (DTC), the algorithm need not be calculated as frequently as the DTC algorithm. Also the current sensors need not be the best in the market. Thus the cost of the processor and other control hardware is lower making it suitable for applications where the ultimate performance of DTC is not required.

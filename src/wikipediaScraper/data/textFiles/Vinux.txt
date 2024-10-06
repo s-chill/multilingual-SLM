@@ -1,0 +1,5 @@
+Vinux was a Linux distribution which was specially designed for blind and partially sighted users. Specifically it was a remastered version of the Ubuntu distribution and provided users with two screen readers , two full-screen magnifiers , global font-size and colour changing facilities. The system also supported USB Braille displays .
+
+Vinux was originally developed in 2008 by Tony Sales, Technical Support at the Royal National College for the Blind in Hereford , United Kingdom . It was first listed on DistroWatch on 1 June 2010 as Vinux 3.0.
+
+Vinux allowed blind and visually impaired computer users to install a version of Ubuntu independently. It included Orca (a screen reader and magnifier), Speakup (a console screen reader), Compiz (a magnifier based on 3d technology), and support for Braille displays. Braille displays operate automatically when connected and support grade 1 and 2 Braille . Vinux could run from a live CD or live USB without making any changes to a current operating system. It could be installed to a USB or hard drive alongside a current operating system or as a complete replacement.

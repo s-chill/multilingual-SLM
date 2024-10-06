@@ -1,0 +1,13 @@
+Varian Data Machines was a division of Varian Associates which sold minicomputers . It entered the market in 1967 through acquisition of Decision Control Inc. (DCI) in Newport Beach, California . It met stiff competition and was bought by Sperry Corporation in June 1977 who merged it into their Sperry UNIVAC division as the Sperry UNIVAC Minicomputer Operation.
+
+The DCI 1966 DATA/620 was a parallel, binary 16-bit general-purpose digital computer with magnetic-core memory expandable to 32,768 words . An 18-bit word length (for data, not addresses) was optionally available. A basic machine cycle took 1.8 microseconds , and the core memory read time was 700 nanoseconds . The computers use two's complement arithmetic and had four main registers - accumulator A, accumulator extension B, an index register X and a program counter register. Addressing modes were direct, immediate and indexed. The instruction set had more than one hundred arithmetic, logic and control instructions and some variants supported microprogramming . These models used a hardware front panel console that allowed starting and stopping the machine, examining memory and registers and changing memory or registers with front-panel switches.  It used "Versalogic" (discrete transistorized) circuits with a bit-sliced architecture.
+
+The 620/i shipped in June 1967; it and subsequent series were made with integrated circuit transistor–transistor logic from the 7400 series . The system was packaged in a 19-inch rack and consumed 340 watts at 120 V AC. The 620/F was a variation with a faster machine cycle time of 750 nanoseconds.
+
+The ruggedized R-620/i was announced in 1968.
+
+A lower cost 520/i shipped in October 1968
+
+The 620/L-100 was released in 1973. It had a cycle time of 950 nanoseconds and a more compact system chassis than the 620/F. The Sperry V70 series had semiconductor memory , but could also support magnetic core . Various models were released between 1972 and 1977.
+
+Varian V72 computer systems were installed at Bruce Nuclear Generating Station on the eastern shore of Lake Huron in Ontario , Canada , as the digital control computer system that monitors and controls the major reactor and power plant functions. As of February 2017 these were still in operation and scheduled to be replaced by more modern systems in 2018 and 2019.

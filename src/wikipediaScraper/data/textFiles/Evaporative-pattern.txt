@@ -1,0 +1,11 @@
+Evaporative-pattern casting is a type of casting process that uses a pattern made from a material that will evaporate when the molten metal is poured into the molding cavity. The most common evaporative-pattern material used is polystyrene foam .
+
+The two major evaporative-pattern casting processes are:
+
+The main difference is that lost-foam casting uses an unbonded sand and full-mold casting uses a bonded sand (or green sand). Because this difference is quite small there is much overlap in the terminology. Non-proprietary terms that have been used to describe these processes include: cavityless casting, evaporative foam casting, foam vaporization casting, lost pattern casting, the castral process, and expanded polystyrene molding. Proprietary terms included Styro-cast, Foam Cast, Replicast, Policast. and Lost Foam Sintered Shell (LFSS)
+
+The first patent for an evaporative-pattern casting process was filed in April 1956, by Harold F. Shroyer. He patented the use of foam patterns embedded in traditional green sand for metal casting . In his patent, a pattern was machined from a block of expanded polystyrene (EPS), and supported by bonded sand during pouring. This process is now known as the full mold process.
+
+In 1964, M.C. Flemmings used unbonded sand for the process. The first North American foundry to use evaporative-pattern casting was the Robinson Foundry at Alexander City , Alabama . General Motors ' first product using these processes was the 4.3 L, V-6 diesel cylinder head , which were made in 1981 at Massena , New York .
+
+A study found in 1997 that evaporative-pattern casting processes accounted for approximately 140,000 tons of aluminium casting in the United States. The same survey forecast that evaporative-pattern casting processes would account for 29% of the aluminium, and 14% of the ferrous casting markets by 2010.

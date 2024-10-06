@@ -1,0 +1,23 @@
+A clevis fastener is a two-piece fastener system consisting of a clevis and a clevis pin head .
+
+The clevis is a U-shaped piece that has holes at the end of the prongs to accept the clevis pin. The clevis pin is similar to a bolt , but is either partially threaded or unthreaded with a cross-hole for a split pin . A tang is a piece that is sometimes fitted in the space within the clevis and is held in place by the clevis pin. The combination of a simple clevis fitted with a pin is commonly called a shackle , although a clevis and pin is only one of the many forms a shackle may take.
+
+Clevises are used in a wide variety of fasteners used in farming equipment and sailboat rigging , as well as the automotive , aircraft and construction industries. They are also widely used to attach control surfaces and other accessories to servo controls in airworthy model aircraft . As a part of a fastener, a clevis provides a method of allowing rotation in some axes while restricting rotation in others.
+
+There are two main types of clevis pins: threaded and unthreaded. Unthreaded clevis pins have a domed head at one end and a cross-hole at the other end. A cotter pin (US usage) or split pin is used to keep the clevis pin in place. Threaded clevis pins have a partially threaded shank on one end and a formed head on the other. The formed head has a lip, which acts as a stop when threading the pin into the shackle, and a flattened tab with a cross-hole. The flattened tab allows for easy installation of the pin and the cross-hole allows the pin to be moused .
+
+A bolt can function as a clevis pin, but a bolt is not intended to take the lateral stress that a clevis pin must handle. Normal bolts are manufactured to handle tension loads, whereas clevis pins and bolts are designed to withstand shearing forces . The sheering strength of a threaded bolt is determined by its inner thread diameter.
+
+Clevis pins should be closely fitted to the holes in the clevis to limit wear and reduce the failure rate of either the pin or the clevis.
+
+A twist shackle provides a loop at a right angle to the axis of rotation. Older farming implements intended to be pulled by a team of draft animals often require a twist shackle to be hitched.
+
+A clevis hanger consists of one U-shaped clevis and a second V-shaped clevis with a hole in a flattened section at the base of the V, joined together with a bolt or pin. Clevis hangers are used as a pipe attachment providing vertical adjustment for pipes.
+
+A clevis bracket generally takes the form of a solid metal piece with a flat rectangular base, fitted with holes for bolts or machine screws, and two rounded wings in parallel forming a clevis. Commonly used in aircraft and cars, clevis brackets allow mounting of rods to flat surfaces.
+
+A clevis hook is a hook, with or without a snap lock, with a clevis and bolt or pin at the base. The clevis is used to fasten the hook to a bracket or chain.
+
+A clevis rod end is a folded or machined piece formed into a clevis and fitted with a hole at its base to which a rod is attached. In machined pieces, the hole is most often threaded.
+
+A twin clevis is a solid piece with two clevises directly opposite one another, each fitted with a pin. Twin clevises are commonly used to join two lengths of chain .

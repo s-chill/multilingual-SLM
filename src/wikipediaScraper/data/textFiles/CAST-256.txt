@@ -1,0 +1,7 @@
+In cryptography , CAST-256 (or CAST6 ) is a symmetric-key block cipher published in June 1998. It was submitted as a candidate for the Advanced Encryption Standard (AES); however, it was not among the five AES finalists . It is an extension of an earlier cipher, CAST-128 ; both were designed according to the "CAST" design methodology invented by Carlisle Adams and Stafford Tavares . Howard Heys and Michael Wiener also contributed to the design.
+
+CAST-256 uses the same elements as CAST-128, including S-boxes , but is adapted for a block size of 128 bits – twice the size of its 64-bit predecessor. (A similar construction occurred in the evolution of RC5 into RC6 ). Acceptable key sizes are 128, 160, 192, 224 or 256 bits. CAST-256 is composed of 48 rounds, sometimes described as 12 "quad-rounds", arranged in a generalized Feistel network .
+
+In RFC 2612, the authors state that, "The CAST-256 cipher described in this document is available worldwide on a royalty-free and licence-free basis for commercial and non-commercial uses."
+
+Currently, the best public cryptanalysis of CAST-256 in the standard single secret key setting that works for all keys is the zero-correlation cryptanalysis breaking 28 rounds with 2 time and 2 data.

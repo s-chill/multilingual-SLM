@@ -1,0 +1,7 @@
+The ceiling projector or cloud searchlight is used to measure the height of the base of clouds (called the ceiling) above the ground. It is used in conjunction with an alidade , usually positioned 1000 ft (300 m) away and wherever possible set at the same level.
+
+The projector is normally set at 90°, although 71° 31' may be used, in relation to the terrain. The projector consists of a 430-watt incandescent bulb set in a weatherproof housing. Inside the housing are two mirrors ; the first, above the bulb, reflects the light downwards to the second mirror, that then reflects the light upwards to the cloud. Both mirrors are focused to produce a high intensity beam of light that renders a visible spot on the base of the cloud.
+
+The alidade is mounted on a post at a height of 5 ft (1.5 m) from the ground. It consists of an arm with a pointer and open sight at one end and a rubber eyepiece at the other. The arm is mounted onto a curved scale that is marked both in meters and the coded cloud height (feet). The observer looks through the eyepiece and sets the sight onto the spot projected on the cloud and reads the height from the attached scale.
+
+When the cloud is thin the beam of light may penetrate into the cloud. The observer should read the scale where the light first enters the cloud and not at the top. However, a remark may be made as to how far into the cloud the light was able to penetrate as this may be useful. In the case of fog or blizzard conditions the observer should read the scale where the beam disappears.

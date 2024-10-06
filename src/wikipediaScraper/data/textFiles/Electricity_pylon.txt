@@ -1,0 +1,122 @@
+A transmission tower (also electricity pylon , hydro tower , or pylon ) is a tall structure , usually a lattice tower made of steel that is used to support an overhead power line . In electrical grids , transmission towers carry high-voltage transmission lines that transport bulk electric power from generating stations to electrical substations , from which electricity is delivered to end consumers; moreover, utility poles are used to support lower-voltage sub-transmission and distribution lines that transport electricity from substations to electricity customers.
+
+There are four categories of transmission towers: (i) the suspension tower , (ii) the dead-end terminal tower, (iii) the tension tower , and (iv) the transposition tower . The heights of transmission towers typically range from 15 to 55 m (49 to 180 ft), although when longer spans are needed, such as for crossing water, taller towers are sometimes used. More transmission towers are needed to mitigate climate change , and as a result, transmission towers became politically important in the 2020s.
+
+Transmission tower is the name for the structure used in the industry in the United States and some other English-speaking countries. In Europe and the U.K., the terms electricity pylon and pylon derive from the basic shape of the structure, an obelisk with a tapered top. In Canada, the term hydrotower is used, because hydroelectricity is the principal source of electricity for the country.
+
+Three-phase electric power systems are used for high voltage (66- or 69-kV and above) and extra-high voltage (110- or 115-kV and above; most often 138- or 230-kV and above in contemporary systems) AC transmission lines. In some European countries, e.g. Germany, Spain or Czech Republic, smaller lattice towers are used for medium voltage (above 10 kV) transmission lines too. The towers must be designed to carry three (or multiples of three) conductors. The towers are usually steel lattices or trusses (wooden structures are used in Australia, Canada, Germany, and Scandinavia in some cases) and the insulators are either glass or porcelain discs or composite insulators using silicone rubber or EPDM rubber material assembled in strings or long rods whose lengths are dependent on the line voltage and environmental conditions.
+
+Typically, one or two ground wires , also called "guard" wires, are placed on top to intercept lightning and harmlessly divert it to ground.
+
+Towers for high- and extra-high voltage are usually designed to carry two or more electric circuits. If a line is constructed using towers designed to carry several circuits, it is not necessary to install all the circuits at the time of construction. Indeed, for economic reasons, some transmission lines are designed for three (or four) circuits, but only two (or three) circuits are initially installed.
+
+Some high voltage circuits are often erected on the same tower as 110 kV lines. Paralleling circuits of 380 kV, 220 kV and 110 kV-lines on the same towers is common. Sometimes, especially with 110 kV circuits, a parallel circuit carries traction lines for railway electrification .
+
+High-voltage direct current (HVDC) transmission lines are either monopolar or bipolar systems. With bipolar systems, a conductor arrangement with one conductor on each side of the tower is used. On some schemes, the ground conductor is used as electrode line or ground return. In this case, it had to be installed with insulators equipped with surge arrestors on the pylons in order to prevent electrochemical corrosion of the pylons. For single-pole HVDC transmission with ground return, towers with only one conductor can be used. In many cases, however, the towers are designed for later conversion to a two-pole system. In these cases, often conductors on both sides of the tower are installed for mechanical reasons. Until the second pole is needed, it is either used as electrode line or joined in parallel with the pole in use. In the latter case, the line from the converter station to the earthing (grounding) electrode is built as underground cable, as overhead line on a separate right of way or by using the ground conductors.
+
+Electrode line towers are used in some HVDC schemes to carry the power line from the converter station to the grounding electrode. They are similar to structures used for lines with voltages of 10–30 kV, but normally carry only one or two conductors.
+
+AC transmission towers may be converted to full or mixed HVDC use, to increase power transmission levels at a lower cost than building a new transmission line.
+
+Towers used for single-phase AC railway traction lines are similar in construction to those towers used for 110 kV three-phase lines. Steel tube or concrete poles are also often used for these lines. However, railway traction current systems are two-pole AC systems, so traction lines are designed for two conductors (or multiples of two, usually four, eight, or twelve). These are usually arranged on one level, whereby each circuit occupies one half of the cross arm. For four traction circuits, the arrangement of the conductors is in two levels and for six electric circuits, the arrangement of the conductors is in three levels.
+
+Transmission towers must withstand various external forces, including wind, ice, and seismic activity, while supporting the weight of heavy conductors.
+
+Different shapes of transmission towers are typical for different countries. The shape also depends on voltage and number of circuits.
+
+Delta pylons are the most common design for single circuit lines, because of their stability. They have a V-shaped body with a horizontal arm on the top, which forms an inverted delta . Larger Delta towers usually use two guard cables.
+
+Portal pylons are widely used in the USA, Ireland, Scandinavia and Canada. They stand on two legs with one cross arm, which gives them a H-shape. Up to 110 kV they often were made from wood, but higher voltage lines use steel pylons.
+
+Smaller single circuit pylons may have two small cross arms on one side and one on the other.
+
+One level pylons only have one cross arm carrying 3 cables on each side. Sometimes they have an additional cross arm for the protection cables. They are frequently used close to airports due to their reduced height.
+
+Danube pylons or Donaumasten got their name from a line built in 1927 next to the Danube river . They are the most common design in central European countries like Germany or Poland. They have two cross arms, the upper arm carries one and the lower arm carries two cables on each side. Sometimes they have an additional cross arm for the protection cables.
+
+Ton shaped towers are the most common design, they have 3 horizontal levels with one cable very close to the pylon on each side. In the United Kingdom the second level is often (but not always) wider than the other ones while in the United States all cross arms have the same width.
+
+In 2021 the first T-pylon, a new tubular T-shaped design, was installed in United Kingdom for a new power line to Hinkley Point C nuclear power station , carrying two high voltage 400 kV power lines. The design features electricity cables strung below a cross-arm atop a single pole which reduces the visual impact on the environment compared to lattice pylons. These 36 T-pylons were the first major UK redesign since 1927, designed by Danish company Bystrup , winner of a 2011 competition from more than 250 entries held by the Royal Institute of British Architects and Her Majesty's Government .
+
+Y-pylons are a newer concept for electrical transmission towers.  They usually have a guy-wire or support beam to help support the "Y" shape in the tower.
+
+Christmas-tree-shaped towers for 4 or even 6 circuits are common in Germany and have 3 cross arms where the highest arm has each one cable, the second has two cables and the third has three cables on each side. The cables on the third arm usually carry circuits for lower high voltage.
+
+Special designed pylons are necessary to introduce branching lines, e.g. to connect nearby substations.
+
+Towers may be self-supporting and capable of resisting all forces due to conductor loads, unbalanced conductors, wind and ice in any direction. Such towers often have approximately square bases and usually four points of contact with the ground.
+
+A semi-flexible tower is designed so that it can use overhead grounding wires to transfer mechanical load to adjacent structures, if a phase conductor breaks and the structure is subject to unbalanced loads. This type is useful at extra-high voltages, where phase conductors are bundled (two or more wires per phase). It is unlikely for all of them to break at once, barring a catastrophic crash or storm.
+
+A guyed mast has a very small footprint and relies on guy wires in tension to support the structure and any unbalanced tension load from the conductors. A guyed tower can be made in a V shape, which saves weight and cost.
+
+Poles made of tubular steel generally are assembled at the factory and placed on the right-of-way afterward. Because of its durability and ease of manufacturing and installation, many utilities in recent years prefer the use of monopolar steel or concrete towers over lattice steel for new power lines and tower replacements.
+
+In Germany steel tube pylons are also established predominantly for medium voltage lines, in addition, for high voltage transmission lines or two electric circuits for operating voltages by up to 110 kV. Steel tube pylons are also frequently used for 380 kV lines in France , and for 500 kV lines in the United States .
+
+A lattice tower is a framework construction made of steel or aluminium sections. Lattice towers are used for power lines of all voltages, and are the most common type for high-voltage transmission lines. Lattice towers are usually made of galvanized steel. Aluminium is used for reduced weight, such as in mountainous areas where structures are placed by helicopter. Aluminium is also used in environments that would be corrosive to steel. The extra material cost of aluminium towers will be offset by lower installation cost. Design of aluminium lattice towers is similar to that for steel, but must take into account aluminium's lower Young's modulus .
+
+A lattice tower is usually assembled at the location where it is to be erected. This makes very tall towers possible, up to 100 m (328 ft) (and in special cases even higher, as in the Elbe crossing 1 and Elbe crossing 2 ). Assembly of lattice steel towers can be done using a crane . Lattice steel towers are generally made of angle-profiled steel beams (L-beam or T-beams ). For very tall towers, trusses are often used.
+
+Wood is a material which is limited in use in high-voltage transmission. Because of the limited height of available trees, the maximum height of wooden pylons is limited to approximately 30 m (98 ft). Wood is rarely used for lattice framework. Instead, they are used to build multi-pole structures, such as H-frame and K-frame structures. The voltages they carry are also limited, such as in other regions, where wood structures only carry voltages up to approximately 30 kV.
+
+In countries such as Canada or the United States, wooden towers carry voltages up to 345 kV; these can be less costly than steel structures and take advantage of the surge voltage insulating properties of wood. As of 2012 , 345 kV lines on wood towers are still in use in the US and some are still being constructed on this technology. Wood can also be used for temporary structures while constructing a permanent replacement.
+
+Concrete pylons are used in Germany normally only for lines with operating voltages below 30 kV. In exceptional cases, concrete pylons are used also for 110 kV lines, as well as for the public grid or for the railway traction current grid. Concrete poles for medium-voltage are also used in Canada and the United States.
+
+In Switzerland, concrete pylons with heights of up to 59.5 metres (world's tallest pylon of prefabricated concrete at Littau ) are used for 380 kV overhead lines. In Argentina and some other south american countries, many overhead power lines, except the ultra-high voltage grid, were placed on tubular concrete pylons. Also in former soviet countries, concrete pylons are common, though with crossarms made of steel.
+
+Concrete pylons, which are not prefabricated, are also used for constructions taller than 60 metres. One example is a 61.3 m (201 ft) tall pylon of a 380 kV powerline near Reuter West Power Plant in Berlin. In China some pylons for lines crossing rivers were built of concrete. The tallest of these pylons belong to the Yangtze Powerline crossing at Nanjing with a height of 257 m (843 ft).
+
+Sometimes (in particular on steel lattice towers for the highest voltage levels) transmitting plants are installed, and antennas mounted on the top above or below the overhead ground wire . Usually these installations are for mobile phone services or the operating radio of the power supply firm, but occasionally also for other radio services, like directional radio. Thus transmitting antennas for low-power FM radio and television transmitters were already installed on pylons. On the Elbe Crossing 1 tower, there is a radar facility belonging to the Hamburg water and navigation office.
+
+For crossing broad valleys, a large distance between the conductors must be maintained to avoid short-circuits caused by conductor cables colliding during storms. To achieve this, sometimes a separate mast or tower is used for each conductor. For crossing wide rivers and straits with flat coastlines, very tall towers must be built due to the necessity of a large height clearance for navigation. Such towers and the conductors they carry must be equipped with flight safety lamps and reflectors.
+
+Two well-known wide river crossings are the Elbe Crossing 1 and Elbe Crossing 2 . The latter has the tallest overhead line masts in Europe, at 227 m (745 ft) tall. In Spain, the overhead line crossing pylons in the Spanish bay of Cádiz have a particularly interesting construction. The main crossing towers are 158 m (518 ft) tall with one crossarm atop a frustum framework construction. The longest overhead line spans are the crossing of the Norwegian Sognefjord Span (4,597 m (15,082 ft) between two masts) and the Ameralik Span in Greenland (5,376 m (17,638 ft)). In Germany, the overhead line of the EnBW AG crossing of the Eyachtal has the longest span in the country at 1,444 m (4,738 ft).
+
+In order to drop overhead lines into steep, deep valleys, inclined towers are occasionally used. These are utilized at the Hoover Dam , located in the United States, to descend the cliff walls of the Black Canyon of the Colorado . In Switzerland, a pylon inclined around 20 degrees to the vertical is located near Sargans , St. Gallens . Highly sloping masts are used on two 380 kV pylons in Switzerland, the top 32 meters of one of them being bent by 18 degrees to the vertical.
+
+Power station chimneys are sometimes equipped with crossbars for fixing conductors of the outgoing lines. Because of possible problems with corrosion by flue gases, such constructions are very rare.
+
+There exist also a variety of pylons and powerline poles mounted on buildings. The most common forms are small rooftop poles used in some countries like Germany for the realization of overhead 400/230 volt grids for the power supply of homes [1] .
+
+However, there are also roof-mounted support structures for high-voltage. Some thermal power plants in Poland like Połaniec Power Station and in the former Soviet Union like Lukoml Power Station use portal pylons on the roof of the power station building for the high voltage line from the machine transformer to the switchyard. Also other industrial buildings may have a rooftop powerline support structure. One can find such a device at a steel work in Dnipro, Ukraine at 48°28'57"N 34°58'43"E and at a steel work in Freital, Germany at 50°59'53"N 13°38'26"E.
+In the United States such device may be more common as in other countries [2] , [3] There are also real rooftop high voltage towers on industry buildings as at a steel plant in Piombino, Italy [4] and on a roof on an industrial building at Cherepovets, Russia at 59°8'52"N 37°51'55"E. Until 2015, on a residential highrise building in Dazhou, China at 31°11'28"N 107°30'43"E a powerline tower stood.
+
+Beside this, it is also possible that the lower parts of an electricity pylon stand in a building. Such a structure a person, who cannot have a view of the interior of the building, cannot distinguish from a real rooftop pylon. A structure of this type is Tower 9108 of a 110 kV high-voltage traction power line in Fulda [5] , File:Mast9108-Fundament.jpg .
+
+A new type of pylon, called Wintrack pylons, will be used in the Netherlands starting in 2010. The pylons were designed as a minimalist structure by Dutch architects Zwarts and Jansma. The use of physical laws for the design made a reduction of the magnetic field possible. Also, the visual impact on the surrounding landscape is reduced.
+
+Two clown-shaped pylons appear in Hungary, on both sides of the M5 motorway , near Újhartyán .
+
+The Pro Football Hall of Fame in Canton, Ohio, U.S., and American Electric Power paired to conceive, design, and install goal post -shaped towers located on both sides of Interstate 77 near the hall as part of a power infrastructure upgrade.
+
+The Mickey pylon is a Mickey Mouse shaped transmission tower on the side of Interstate 4 , near Walt Disney World in Orlando, FL . Bog Fox is a design pylon in Estonia south of Risti at 58° 59′ 33.44″ N, 24° 3′ 33.19″ E.
+
+In Russia several pylons designed as artwork were built [6]
+
+Before transmission towers are even erected, prototype towers are tested at tower testing stations . There are a variety of ways they can then be assembled and erected:
+
+The International Civil Aviation Organization issues recommendations on markers for towers and the conductors suspended between them. Certain jurisdictions will make these recommendations mandatory, for example that certain power lines must have overhead wire markers placed at intervals, and that warning lights be placed on any sufficiently high towers, this is particularly true of transmission towers which are in close vicinity to airports .
+
+Electricity pylons often have an identification tag marked with the name of the line (either the terminal points of the line or the internal designation of the power company) and the tower number. This makes identifying the location of a fault to the power company that owns the tower easier.
+
+Transmission towers, much like other steel lattice towers including broadcasting or cellphone towers, are marked with signs which discourage public access due to the danger of the high voltage. Often this is accomplished with a sign warning of the high voltage. At other times, the entire access point to the transmission corridor is marked with a sign. Sign warning of the high voltage may also state the name of the company who built the structures, and acquired and designated lands where the transmission structures stand and line segments or right of way.
+
+Tower structures can be classified by the way in which they support the line conductors. Suspension structures support the conductor vertically using suspension insulators. Strain structures resist net tension in the conductors and the conductors attach to the structure through strain insulators. Dead-end structures support the full weight of the conductor and also all the tension in it, and also use strain insulators.
+
+Structures are classified as tangent suspension, angle suspension, tangent strain, angle strain, tangent dead-end and angle dead-end. Where the conductors are in a straight line, a tangent tower is used. Angle towers are used where a line must change direction.
+
+Generally three conductors are required per AC 3-phase circuit, although single-phase and DC circuits are also carried on towers. Conductors may be arranged in one plane, or by use of several cross-arms may be arranged in a roughly symmetrical, triangulated pattern to balance the impedances of all three phases. If more than one circuit is required to be carried and the width of the line right-of-way does not permit multiple towers to be used, two or three circuits can be carried on the same tower using several levels of cross-arms. Often multiple circuits are the same voltage, but mixed voltages can be found on some structures.
+
+Insulators electrically isolate the live side of the transmission cables from the tower structure and earth. They are either glass or porcelain discs or composite insulators using silicone rubber or EPDM rubber material. They are assembled in strings or long rods whose lengths are dependent on the line voltage and environmental conditions. By using disks the shortest surface electrical path between the ends is maximised which reduces the chance of a leakage in moist conditions.
+
+Stockbridge dampers are added to the transmission lines a meter or two from the tower. They consist of a short length of cable clamped in place parallel to the line itself and weighted at each end. The size and dimensions are carefully designed to damp any buildup of mechanical oscillation of the lines that could be induced by mechanical vibrations most likely caused by wind. Without them it's possible for a standing wave to become established that grows in magnitude and destroys the line or the tower.
+
+Arcing horns are sometimes added to the ends of the insulators in areas where voltage surges may occur. These may be caused by either lightning strikes or in switching operations. They protect power line insulators from damage due to arcing. They can be seen as rounded metal pipework at either end of the insulator and provide a path to earth in extreme circumstances without damaging the insulator.
+
+Towers will have a level of physical security to prevent members of the public or climbing animals from ascending them. This may take the form of a security fence or climbing baffles added to the supporting legs. Some countries require that lattice steel towers be equipped with a barbed wire barrier approximately 3 m (9.8 ft) above ground in order to deter unauthorized climbing. Such barriers can often be found on towers close to roads or other areas with easy public access, even where there is not a legal requirement. In the United Kingdom, all such towers are fitted with barbed wire.
+
+Some electricity pylons, especially for voltages above 100 kV, carry transmission antennas. In most cases these are cellphone antennas and antennas for radio relay links adjoined with them, but it is also possible that antennas of radio relay systems of power companies or antenna for small broadcasting transmitters in the VHF-/UHF-range are installed. The northern tower of Elbekreuzung 1 carries in a height of 30 metres a radar station for monitoring ship traffic on Elbe river on its structure. The Tower 93 of Facility 4101 , a strainer at Hürth south of Cologne, Germany carried from 1977 to 2010 a public observation deck, which was accessible by a staircase.
+
+The following electricity transmission towers are notable due to their enormous height, unusual design, unusual construction site or their use in artworks. Bold type denotes structure which was at one time the tallest transmission tower(s) in the world.

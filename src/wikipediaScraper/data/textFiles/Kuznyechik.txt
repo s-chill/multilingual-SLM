@@ -1,0 +1,65 @@
+Kuznyechik ( ‹See Tfd› Russian : Кузнечик , literally "grasshopper") is a symmetric block cipher . It has a block size of 128 bits and key length of 256 bits. It is defined in the National Standard of the Russian Federation GOST R 34.12-2015 and also in RFC 7801.
+
+The name of the cipher can be translated from Russian as grasshopper , however, the standard explicitly says that the English name for the cipher is Kuznyechik ( / k ʊ z n ˈ ɛ tʃ ɪ k / ). The designers claim that by naming the cipher Kuznyechik they follow the trend of difficult to pronounce algorithm names set up by Rijndael and Keccak . There is also a rumor that the cipher was named after its creators: A. S. Kuzmin, A. A. Nechaev and Company (Russian: Куз ьмин, Неч аев и К омпания).
+
+The standard GOST R 34.12-2015 defines the new cipher in addition to the old GOST block cipher (now called Magma) as one and does not declare the old cipher obsolete.
+
+Kuznyechik is based on a substitution–permutation network , though the key schedule employs a Feistel network .
+
+F {\displaystyle \mathbb {F} } — Finite field G F ( 2 8 ) {\displaystyle GF(2^{8})} x 8 + x 7 + x 6 + x + 1 {\displaystyle x^{8}+x^{7}+x^{6}+x+1} .
+
+B i n 8 : Z p → V 8 {\displaystyle Bin_{8}:\mathbb {Z} _{p}\rightarrow V_{8}} — Z p {\displaystyle \mathbb {Z} _{p}} ( p = 2 8 {\displaystyle p=2^{8}} )
+
+B i n 8 − 1 : V 8 → Z p {\displaystyle {Bin_{8}}^{-1}:V_{8}\rightarrow \mathbb {Z} _{p}} — B i n 8 {\displaystyle Bin_{8}} .
+
+δ : V 8 → F {\displaystyle \delta :V_{8}\rightarrow \mathbb {F} } — F {\displaystyle \mathbb {F} } .
+
+δ − 1 : F → V 8 {\displaystyle \delta ^{-1}:\mathbb {F} \rightarrow V_{8}} — δ {\displaystyle \delta }
+
+For encryption, decryption and key generation, the following functions:
+
+A d d 2 [ k ] ( a ) = k ⊕ a {\displaystyle Add_{2}[k](a)=k\oplus a} , where k {\displaystyle k} , a {\displaystyle a} are binary strings of the form a = a 15 | | {\displaystyle a=a_{15}||} ... | | a 0 {\displaystyle ||a_{0}} ( | | {\displaystyle ||} is string concatenation ).
+
+N ( a ) = S ( a 15 ) | | {\displaystyle N(a)=S(a_{15})||} ... | | S ( a 0 ) . N − 1 ( a ) {\displaystyle ||S(a_{0}).~~N^{-1}(a)} is a reversed transformation of N ( a ) {\displaystyle N(a)} .
+
+G ( a ) = γ ( a 15 , {\displaystyle G(a)=\gamma (a_{15},} ... , a 0 ) | | a 15 | | {\displaystyle ,a_{0})||a_{15}||} ... | | a 1 . {\displaystyle ||a_{1}.}
+
+G − 1 ( a ) {\displaystyle G^{-1}(a)} — reversed transformation of G ( a ) {\displaystyle G(a)} , G − 1 ( a ) = a 14 | | a 13 | | {\displaystyle G^{-1}(a)=a_{14}||a_{13}||} ... | | a 0 | | γ ( a 14 , a 13 , {\displaystyle ||a_{0}||\gamma (a_{14},a_{13},} ... , a 0 , a 15 ) . {\displaystyle ,a_{0},a_{15}).}
+
+H ( a ) = G 16 ( a ) {\displaystyle H(a)=G^{16}(a)} , where G 16 {\displaystyle G^{16}} — composition of transformations G 15 {\displaystyle G^{15}} and G {\displaystyle G} etc.
+
+F [ k ] ( a 1 , a 0 ) = ( H N A d d 2 [ k ] ( a 1 ) ⊕ a 0 , a 1 ) . {\displaystyle F[k](a_{1},a_{0})=(HNAdd_{2}[k](a_{1})\oplus a_{0},a_{1}).}
+
+Non-linear transformation is given by substituting S = Bin 8 S' Bin 8 .
+
+Values of the substitution S' are given as array S' = (S'(0), S'(1), ..., S'(255)) :
+
+S ′ = ( 252 , 238 , 221 , 17 , 207 , 110 , 49 , 22 , 251 , 196 , 250 , 218 , 35 , 197 , 4 , 77 , 233 , {\displaystyle S'=(252,238,221,17,207,110,49,22,251,196,250,218,35,197,4,77,233,} 119 , 240 , 219 , 147 , 46 , 153 , 186 , 23 , 54 , 241 , 187 , 20 , 205 , 95 , 193 , 249 , 24 , 101 , {\displaystyle 119,240,219,147,46,153,186,23,54,241,187,20,205,95,193,249,24,101,} 90 , 226 , 92 , 239 , 33 , 129 , 28 , 60 , 66 , 139 , 1 , 142 , 79 , 5 , 132 , 2 , 174 , 227 , 106 , 143 , {\displaystyle 90,226,92,239,33,129,28,60,66,139,1,142,79,5,132,2,174,227,106,143,} 160 , 6 , 11 , 237 , 152 , 127 , 212 , 211 , 31 , 235 , 52 , 44 , 81 , 234 , 200 , 72 , 171 , 242 , 42 , {\displaystyle 160,6,11,237,152,127,212,211,31,235,52,44,81,234,200,72,171,242,42,} 104 , 162 , 253 , 58 , 206 , 204 , 181 , 112 , 14 , 86 , 8 , 12 , 118 , 18 , 191 , 114 , 19 , 71 , 156 , {\displaystyle 104,162,253,58,206,204,181,112,14,86,8,12,118,18,191,114,19,71,156,} {\displaystyle } 183 , 93 , 135 , 21 , 161 , 150 , 41 , 16 , 123 , 154 , 199 , 243 , 145 , 120 , 111 , 157 , 158 , 178 , {\displaystyle 183,93,135,21,161,150,41,16,123,154,199,243,145,120,111,157,158,178,} 177 , 50 , 117 , 25 , 61 , 255 , 53 , 138 , 126 , 109 , 84 , 198 , 128 , 195 , 189 , 13 , 87 , 223 , {\displaystyle 177,50,117,25,61,255,53,138,126,109,84,198,128,195,189,13,87,223,} 245 , 36 , 169 , 62 , 168 , 67 , 201 , 215 , 121 , 214 , 246 , 124 , 34 , 185 , 3 , 224 , 15 , 236 , {\displaystyle 245,36,169,62,168,67,201,215,121,214,246,124,34,185,3,224,15,236,} 222 , 122 , 148 , 176 , 188 , 220 , 232 , 40 , 80 , 78 , 51 , 10 , 74 , 167 , 151 , 96 , 115 , 30 , 0 , {\displaystyle 222,122,148,176,188,220,232,40,80,78,51,10,74,167,151,96,115,30,0,} 98 , 68 , 26 , 184 , 56 , 130 , 100 , 159 , 38 , 65 , 173 , 69 , 70 , 146 , 39 , 94 , 85 , 47 , 140 , 163 , {\displaystyle 98,68,26,184,56,130,100,159,38,65,173,69,70,146,39,94,85,47,140,163,} 165 , 125 , 105 , 213 , 149 , 59 , 7 , 88 , 179 , 64 , 134 , 172 , 29 , 247 , 48 , 55 , 107 , 228 , 136 , {\displaystyle 165,125,105,213,149,59,7,88,179,64,134,172,29,247,48,55,107,228,136,} 217 , 231 , 137 , 225 , 27 , 131 , 73 , 76 , 63 , 248 , 254 , 141 , 83 , 170 , 144 , 202 , 216 , 133 , {\displaystyle 217,231,137,225,27,131,73,76,63,248,254,141,83,170,144,202,216,133,} 97 , 32 , 113 , 103 , 164 , 45 , 43 , 9 , 91 , 203 , 155 , 37 , 208 , 190 , 229 , 108 , 82 , 89 , 166 , {\displaystyle 97,32,113,103,164,45,43,9,91,203,155,37,208,190,229,108,82,89,166,} 116 , 210 , 230 , 244 , 180 , 192 , 209 , 102 , 175 , 194 , 57 , 75 , 99 , 182 ) . {\displaystyle 116,210,230,244,180,192,209,102,175,194,57,75,99,182).}
+
+γ {\displaystyle \gamma } : γ ( a 15 , {\displaystyle \gamma (a_{15},} ... , a 0 ) = δ − 1 ( 148 ∗ δ ( a 15 ) + 32 ∗ δ ( a 14 ) + 133 ∗ δ ( a 13 ) + 16 ∗ δ ( a 12 ) + {\displaystyle ,a_{0})=\delta ^{-1}~(148*\delta (a_{15})+32*\delta (a_{14})+133*\delta (a_{13})+16*\delta (a_{12})+} 194 ∗ δ ( a 11 ) + 192 ∗ δ ( a 10 ) + 1 ∗ δ ( a 9 ) + 251 ∗ δ ( a 8 ) + 1 ∗ δ ( a 7 ) + 192 ∗ δ ( a 6 ) + {\displaystyle 194*\delta (a_{11})+192*\delta (a_{10})+1*\delta (a_{9})+251*\delta (a_{8})+1*\delta (a_{7})+192*\delta (a_{6})+} 194 ∗ δ ( a 5 ) + 16 ∗ δ ( a 4 ) + 133 ∗ δ ( a 3 ) + 32 ∗ δ ( a 2 ) + 148 ∗ δ ( a 1 ) + 1 ∗ δ ( a 0 ) ) , {\displaystyle 194*\delta (a_{5})+16*\delta (a_{4})+133*\delta (a_{3})+32*\delta (a_{2})+148*\delta (a_{1})+1*\delta (a_{0})),}
+
+operations of addition and multiplication are carried out in the field F {\displaystyle \mathbb {F} } .
+
+The key generation algorithm uses iterative constant C i = H ( B i n 128 ( i ) ) {\displaystyle C_{i}=H(Bin_{128}(i))} , i=1,2,...32 and sets the shared key as follows: K = k 255 | | {\displaystyle K=k_{255}||} ... | | k 0 {\displaystyle ||k_{0}} .
+
+Iterated keys:
+
+K 1 = k 255 | | {\displaystyle K_{1}=k_{255}||} ... | | k 128 {\displaystyle ||k_{128}}
+
+K 2 = k 127 | | {\displaystyle K_{2}=k_{127}||} ... | | k 0 {\displaystyle ||k_{0}}
+
+( K 2 i + 1 , K 2 i + 2 ) = F [ C 8 ( i − 1 ) + 8 ] {\displaystyle (K_{2i+1},K_{2i+2})=F[C_{8(i-1)+8}]} ... F [ C 8 ( i − 1 ) + 1 ] ( K 2 i − 1 , K 2 i ) , i = 1 , 2 , 3 , 4. {\displaystyle F[C_{8(i-1)+1}](K_{2i-1},K_{2i}),i=1,2,3,4.}
+
+E ( a ) = A d d 2 [ K 10 ] H N A d d 2 [ K 9 ] {\displaystyle E(a)=Add_{2}[K_{10}]HNAdd_{2}[K_{9}]} ... H N A d d 2 [ K 2 ] H N A d d 2 [ K 1 ] ( a ) , {\displaystyle HNAdd_{2}[K_{2}]HNAdd_{2}[K_{1}](a),} where a — 128-bit string.
+
+D ( a ) = A d d 2 [ K 1 ] N − 1 H − 1 A d d 2 [ K 2 ] {\displaystyle D(a)=Add_{2}[K_{1}]N^{-1}H^{-1}Add_{2}[K_{2}]} ... N − 1 H − 1 A d d 2 [ K 9 ] N − 1 H − 1 A d d 2 [ K 10 ] ( a ) . {\displaystyle N^{-1}H^{-1}Add_{2}[K_{9}]N^{-1}H^{-1}Add_{2}[K_{10}](a).}
+
+Riham AlTawy and Amr M. Youssef describe a meet-in-the-middle attack on the 5-round reduced Kuznyechik which enables recovery of the key with a time complexity of 2 , memory complexity of 2 , and data complexity of 2 .
+
+Alex Biryukov , Leo Perrin, and Aleksei Udovenko published a paper in which they show that the S-boxes of Kuznyechik and Streebog were not created pseudo-randomly but by using a hidden algorithm which they were able to reverse engineer .
+
+Later Leo Perrin and Aleksei Udovenko published two alternative decompositions of the S-box and proved its connection to the S-box of the Belarusian cipher BelT. The authors of the paper note that while the reason for using such a structure remains unclear, generating S-boxes by a hidden algorithm contradicts the concept of nothing-up-my-sleeve numbers which could prove that no weaknesses were intentionally introduced in their design.
+
+Riham AlTawy, Onur Duman, and Amr M. Youssef published two fault attacks on Kuznyechik which show the importance of protecting the implementations of the cipher.
+
+VeraCrypt (a fork of TrueCrypt ) included Kuznyechik as one of its supported encryption algorithms.

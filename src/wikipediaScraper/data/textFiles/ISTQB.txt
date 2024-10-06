@@ -1,0 +1,29 @@
+The International Software Testing Qualifications Board ( ISTQB ) is a software testing certification board that operates internationally. Founded in Edinburgh in November 2002, the ISTQB is a non-profit association legally registered in Belgium.
+
+ISTQB Certified Tester is a standardized qualification for software testers and the certification is offered by the ISTQB. The qualifications are based on a syllabus, and there is a hierarchy of qualifications and guidelines for accreditation and examination. More than 1 million ISTQB exams have been delivered and over 721,000 certifications issued; the ISTQB consists of 67 member boards worldwide representing more than 100 countries as of April 2021.
+
+Current ISTQB product portfolio follows a matrix approach characterized by
+
+ISTQB streams focus on:
+
+Pre-conditions relate to certification exams and provide a natural progression through the ISTQB Scheme which helps people pick the right certificate and informs them about what they need to know.
+
+The ISTQB Core Foundation is a pre-condition for any other certification.
+
+Additional rules for ISTQB pre-conditions are summarized in the following:
+
+Such rules are depicted from a graphical point of view in the ISTQB Product Portfolio map.
+
+ISTQB provides a list of referenced books from some previous syllabi online.
+
+The Foundation and Advanced exams consist of multiple choice tests.
+
+Certification is valid for life (Foundation Level and Advanced Level), and there is no requirement for recertification.
+
+ISTQB Member boards are responsible for the quality and the auditing of the examination. Worldwide there are testing boards in 67 countries (date: April 2021). Authorized exam providers are also able to offer exams including e-exams. The current list of exam provider you can fine on the dedicated page.
+
+The current ISTQB Foundation Level certification is based on the 2018 syllabus. The Foundation Level qualification is suitable for anyone who needs to demonstrate practical knowledge of the fundamental concepts of software testing including people in roles such as testers, test analysts, test engineers, test consultants, test managers, user acceptance testers and software developers.
+
+It is also appropriate for individuals who need a basic understanding of software testing including project managers, quality managers, software development managers, business analysts, IT directors and management consultants.
+
+The different Advanced Level exams are more practical and require deeper knowledge in special areas. Test Manager deals with planning and control of the test process . Test Analyst concerns, among other things, reviews and black box testing methods. Technical Test Analyst includes component tests (also called unit test ), requiring knowledge of white box testing and non-functional testing methods – this section also includes test tools .

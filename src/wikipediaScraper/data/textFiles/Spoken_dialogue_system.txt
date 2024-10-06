@@ -1,0 +1,7 @@
+A spoken dialog system ( SDS ) is a computer system able to converse with a human with voice. It has two essential components that do not exist in a written text dialog system : a speech recognizer and a text-to-speech module (written text dialog systems usually use other input systems provided by an OS). It can be further distinguished from command and control speech systems that can respond to requests but do not attempt to maintain continuity over time.
+
+Spoken dialog systems vary in their complexity. Directed dialog systems are very simple and require that the developer create a graph (typically a tree) that manages the task but may not correspond to the needs of the user. Information access systems, typically based on forms, allow users some flexibility (for example in the order in which retrieval constraints are specified, or in the use of optional constraints) but are limited in their capabilities. Problem-solving dialog systems may allow human users to engage in a number of different activities that may include information access, plan construction and possible execution of the latter.
+
+Some examples of systems include:
+
+Pionieers in dialogue systems are companies like AT&T (with its speech recognizer system in the Seventies) and CSELT laboratories, that led some European research projects during the Eighties (e.g. SUNDIAL) after the end of the DARPA project in the US.

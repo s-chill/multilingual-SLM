@@ -1,0 +1,3 @@
+The Gerard Salton Award is presented by the Association for Computing Machinery (ACM) Special Interest Group on Information Retrieval (SIGIR) every three years to an individual who has made "significant, sustained and continuing contributions to research in information retrieval". SIGIR also co-sponsors (with SIGWEB ) the Vannevar Bush Award , for the best paper at the Joint Conference on Digital Libraries .
+
+Source: SIGIR

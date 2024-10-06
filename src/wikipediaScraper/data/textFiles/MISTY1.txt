@@ -1,0 +1,15 @@
+In cryptography , MISTY1 (or MISTY-1 ) is a block cipher designed in 1995 by Mitsuru Matsui and others for Mitsubishi Electric .
+
+MISTY1 is one of the selected algorithms in the European NESSIE project, and has been among the cryptographic techniques recommended for Japanese government use by CRYPTREC in 2003; however, it was dropped to "candidate" by CRYPTREC revision in 2013. However, it was successfully broken in 2015 by Yosuke Todo using integral cryptanalysis ; this attack was improved in the same year by Achiya Bar-On.
+
+"MISTY" can stand for "Mitsubishi Improved Security Technology"; it is also the initials of the researchers involved in its development: Matsui Mitsuru, Ichikawa Tetsuya, Sorimachi Toru, Tokita Toshio, and Yamagishi Atsuhiro.
+
+MISTY1 is covered by patents, although the algorithm is freely available for academic (non-profit) use in RFC 2994, and there's a GPLed implementation by Hironobu Suzuki (used by, e.g. Scramdisk ).
+
+MISTY1 is a Feistel network with a variable number of rounds (any multiple of 4), though 8 are recommended. The cipher operates on 64-bit blocks and has a key size of 128 bits. MISTY1 has an innovative recursive structure; the round function itself uses a 3-round Feistel network. MISTY1 claims to be provably secure against linear and differential cryptanalysis .
+
+KASUMI is a successor of the MISTY1 cipher which was supposed to be stronger than MISTY1 and has been adopted as the standard encryption algorithm for European mobile phones . In 2005, KASUMI was broken, and in 2010 a new paper was published (explained below) detailing a practical attack on the cipher; see the article for more details.
+
+In the paper "Block Ciphers and Stream Ciphers" by Alex Biryukov , it is noted that KASUMI, also termed A5/3, is a strengthened version of block cipher MISTY1 running in a Counter mode.
+
+However, in 2010 Dunkelman, Keller, and Shamir showed that KASUMI is not as strong as MISTY1; the KASUMI attack will not work against MISTY1.

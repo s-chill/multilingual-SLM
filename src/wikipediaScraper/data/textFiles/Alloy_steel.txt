@@ -1,0 +1,24 @@
+Alloy steel is steel that is alloyed with a variety of elements in amounts between 1.0% and 50% by weight, typically to improve its mechanical properties .
+
+Alloy steels divide into two groups: low and high alloy. The boundary between the two is disputed. Smith and Hashemi define the difference at 4.0%, while Degarmo, et al. , define it at 8.0%. Most alloy steels are low-alloy.
+
+The simplest steels are iron (Fe) alloyed with (0.1% to 1%) carbon (C) and nothing else (excepting slight impurities); these are called carbon steels . However, alloy steel encompasses steels with additional (metal) alloying elements. Common alloyants include manganese (Mn) (the most common), nickel (Ni), chromium (Cr), molybdenum (Mo), vanadium (V), silicon (Si), and boron (B). Less common alloyants include aluminum (Al), cobalt (Co), copper (Cu), cerium (Ce), niobium (Nb), titanium (Ti), tungsten (W), tin (Sn), zinc (Zn), lead (Pb), and zirconium (Zr).
+
+Alloy steels variously improve strength , hardness , toughness , wear resistance , corrosion resistance , hardenability , and hot hardness . To achieve these improved properties the metal may require specific heat treating , combined with strict cooling protocols.
+
+Although alloy steels have been made for centuries, their metallurgy was not well understood until the advancing chemical science of the nineteenth century revealed their compositions. Alloy steels from earlier times were expensive luxuries made on the model of "secret recipes" and forged into tools such as knives and swords. Machine age alloy steels were developed as improved tool steels and as newly available stainless steels . Alloy steels serve many applications, from hand tools and flatware to turbine blades of jet engines and in nuclear reactors.
+
+Because of iron's ferromagnetic properties, some alloys find important applications where their responses to magnetism are very important, including in electric motors and in transformers.
+
+Alloying elements are added to achieve specific properties in the result. The alloying elements can affect multiple properties—flexibility, strength, formability, and hardenability. As a guideline, alloying elements are added in lower percentages (less than 5%) to increase strength or hardenability, or in larger percentages (over 5%) to achieve properties such as corrosion resistance or extreme temperature stability.
+
+The alloying elements tend to form either solid solutions or compounds or carbides.
+
+Alloying elements also have an effect on the eutectoid temperature of the steel.
+
+The properties of steel depend on its microstructure: the arrangement of different phases , some harder, some with greater ductility . At the atomic level, the four phases of auto steel include martensite (the hardest yet most brittle), bainite (less hard), ferrite (more ductile), and austenite (the most ductile). The phases are arranged by steelmakers by manipulating intervals (sometimes by seconds only) and temperatures of the heating and cooling process.
+
+TRIP steels transform under deformation from relatively ductile to relatively hard under deformation such as a car crash. Such deformation transforms austenitic microstructure to martensitic microstructure. TRIP steels use relatively high carbon content to create the austenitic microstructure. Relatively high silicon/aluminum content suppresses carbide precipitation in the bainite region and helps accelerate ferrite/bainite formation. This helps retain carbon to support austenite at room temperature. A specific cooling process reduces the austenite/martensite transformation during forming. TRIP steels typically require an isothermal hold at an intermediate temperature during cooling, which produces some bainite. The additional silicon/carbon requirements requires weld cycle modification, such as the use of pulsating welding or dilution welding.
+
+In one approach steel is heated to a high temperature, cooled somewhat, held stable for an interval and then quenched. This produces islands of austenite surrounded by a matrix of softer ferrite, with regions of harder bainite and martensite. The resulting product can absorb energy without fracturing, making it useful for auto parts such as bumpers and pillars.
+Three generations of advanced, high-strength steel are available. The first was created in the 1990s, increasing strength and ductility. A second generation used new alloys to further increase ductility, but were expensive and difficult to manufacture. The third generation is beginning to be adopted. Refined heating and cooling patterns increase both strength at some cost in ductility (vs 2nd generation). These steels are claimed to approach nearly ten times the strength of earlier steels; and are much cheaper to manufacture.

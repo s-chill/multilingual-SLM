@@ -1,0 +1,9 @@
+The Digital Media Access Protocol ( DMAP ) is the family of proprietary protocols introduced by Apple that are used by iTunes , iPhoto , Remote and other software to share media across a local network.
+
+DMAP addresses the same problems for Apple as the UPnP AV standards address for members of the Digital Living Network Alliance (DLNA).
+
+The DMAP protocol is a specialized HTTP protocol, which performs two functions. It sends a list of items and it streams requested items to clients. There are also provisions to notify the client of changes to the server. Requests are sent to the server by the client in form of URLs and are responded to with data in application/x-dmap-tagged mime-type. Services such as iTunes and iPhoto uses the zeroconf (also known as Bonjour ) service to announce itself and discover DMAP services on a local subnet .
+
+A range of open- and closed-sourced applications have successfully reversed engineered parts of the protocol
+
+The combined DACP , DAAP and DAAP services can be expressed in terms of a WADL interface which documents the URL 's that are accessible.

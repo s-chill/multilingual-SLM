@@ -1,0 +1,29 @@
+Metal is a low-level, low-overhead hardware-accelerated 3D graphic and compute shader API created by Apple , debuting in iOS 8 . Metal combines functions similar to OpenGL and OpenCL in one API. It is intended to improve performance by offering low-level access to the GPU hardware for apps on iOS , iPadOS , macOS , and tvOS . It can be compared to low-level APIs on other platforms such as Vulkan and DirectX 12 .
+
+Metal is an object-oriented API that can be invoked using the Swift , Objective-C or C++17 programming languages .  Full-blown GPU execution is controlled via the Metal Shading Language. According to Apple promotional materials: "MSL [Metal Shading Language] is a single, unified language that allows tighter integration between the graphics and compute programs. Since MSL is C++-based, you will find it familiar and easy to use."
+
+Metal aims to provide low-overhead access to the GPU. Commands are encoded beforehand and then submitted to the GPU for asynchronous execution. The application controls when to wait for the execution to complete thus allowing application developers to increase throughput by encoding other commands while commands are executed on the GPU or save power by explicitly waiting for GPU execution to complete. Additionally, command encoding is CPU independent thus applications can encode commands to each CPU thread independently. Lastly, render states are pre-computed beforehand, allowing the GPU driver to know in advance how to configure and optimize the render pipeline before command execution.
+
+Metal improves the capabilities of GPGPU programming by using compute shaders . Metal uses a specific shading language based on C++14 , implemented using Clang and LLVM .
+
+Metal allows application developers to create Metal resources such as buffers, textures. Resources can be allocated on the CPU, GPU, or both and provides facilities to update and synchronize allocated resources. Metal can also enforce a resource's state during a command encoder's lifetime.
+
+On macOS, Metal can provide application developers the discretion to specify which GPU to execute. Application developers can choose between the low-power integrated GPU of the CPU, the discrete GPU (on certain MacBooks and Macs) or an external GPU connected through Thunderbolt. Application developers also have the preference on how GPU commands are executed on which GPUs and provides suggestion on which GPU a certain command is most efficient to execute (commands to render a scene can be executed by the discrete GPU while post-processing and display can be handled by the integrated GPU).
+
+Metal Performance Shaders is a highly optimized library of graphics functions that can help application developers achieve great performance at the same time decrease work on maintaining GPU family specific functions. It provides functions including:
+
+Metal has been available since June 2, 2014 on iOS devices powered by Apple A7 or later, and since June 8, 2015 on Macs (2012 models or later) running OS X El Capitan .
+
+On June 5, 2017, at WWDC , Apple announced the second version of Metal, to be supported by macOS High Sierra , iOS 11 and tvOS 11 . Metal 2 is not a separate API from Metal and is supported by the same hardware. Metal 2 enables more efficient profiling and debugging in Xcode , accelerated machine learning , lower CPU workload, support for virtual reality on macOS, and specificities of the Apple A11 GPU, in particular.
+
+At the 2020 WWDC , Apple announced the migration of the Mac to Apple silicon . Macs using Apple silicon will feature Apple GPUs with a feature set combining what was previously available on macOS and iOS, and will be able to take advantage of features tailored to the tile based deferred rendering (TBDR) architecture of Apple GPUs.
+
+At the 2022 WWDC , Apple announced the third version of Metal (Metal 3), which would debut with the release of macOS Ventura , iOS 16 and iPadOS 16 . Metal 3 introduces the MetalFX upscaling framework, which renders complex scenes in less time per frame with high-performance upscaling and anti-aliasing, mesh shaders support. Also announced possibility to use C/C++ for Metal API.
+
+The first version of Metal supports the following hardware and software:
+
+The second version of Metal supports the following hardware and software:
+
+The third version of Metal supports the following hardware and software:
+
+According to Apple, more than 148,000 applications use Metal directly, and 1.7 million use it through high-level frameworks , as of June 2017. macOS games using Metal for rendering are listed below.

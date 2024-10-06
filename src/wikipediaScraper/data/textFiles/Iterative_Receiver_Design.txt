@@ -1,0 +1,1 @@
+Iterative Receiver Design is a 2007 engineering book by Henk Wymeersch published  by Cambridge University Press . The book provides a framework for developing iterative algorithms for digital receivers, exploiting the power of factor graphs.

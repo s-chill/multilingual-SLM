@@ -1,0 +1,5 @@
+The following tables compare general and technical information for several packet analyzer software utilities, also known as network analyzers or packet sniffers. Please see the individual products' articles for further information.
+
+Basic general information about the software—creator/company, license/price, etc.
+
+The utilities can run on these operating systems .

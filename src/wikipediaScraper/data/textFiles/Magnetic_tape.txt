@@ -1,0 +1,27 @@
+Magnetic tape is a medium for magnetic storage made of a thin, magnetizable coating on a long, narrow strip of plastic film . It was developed in Germany in 1928, based on the earlier magnetic wire recording from Denmark. Devices that use magnetic tape can with relative ease record and play back audio, visual, and binary computer data.
+
+Magnetic tape revolutionized sound recording and reproduction and broadcasting. It allowed radio, which had always been broadcast live, to be recorded for later or repeated airing. Since the early 1950s, magnetic tape has been used with computers to store large quantities of data and is still used for backup purposes.
+
+Magnetic tape begins to degrade after 10–20 years and therefore is not an ideal medium for long-term archival storage. The exception is data tape formats like LTO which are specifically designed for long-term archiving.
+
+Information in magnetic tapes is often recorded in tracks which are narrow and long areas of information recorded magnetically onto the tape, which are separate from each other and often spaced apart from adjacent tracks. Tracks are often parallel to the length of the tape, in which case they are known as longitudinal tracks, or diagonal relative to the length of the tape in helical scan . There are also transverse scan and arcuate scanning, used in Quadruplex videotape . Azimuth recording is used to reduce or eliminate the spacing that exists between adjacent tracks.
+
+While good for short-term use, magnetic tape is highly prone to disintegration. Depending on the environment, this process may begin after 10–20 years.
+
+Over time, magnetic tape made in the 1970s and 1980s can suffer from a type of deterioration called sticky-shed syndrome . It is caused by hydrolysis of the binder in the tape and can render the tape unusable.
+
+Since the introduction of magnetic tape, other technologies have been developed that can perform the same functions, and therefore, replace it. Such as for example, hard disk drives in computers replacing cassette tape readers such as the Atari Program Recorder and the Commodore Datasette for software, CDs and MiniDiscs replacing cassette tapes for audio, and DVDs replacing VHS tapes. Despite this, technological innovation continues. As of 2014 Sony and IBM continue to advance tape capacity.
+
+Magnetic tape was invented for recording sound by Fritz Pfleumer in 1928 in Germany.
+
+Because of escalating political tensions and the outbreak of World War II, these developments in Germany were largely kept secret. Although the Allies knew from their monitoring of Nazi radio broadcasts that the Germans had some new form of recording technology, its nature was not discovered until the Allies acquired German recording equipment as they invaded Europe at the end of the war. It was only after the war that Americans, particularly Jack Mullin , John Herbert Orr , and Richard H. Ranger , were able to bring this technology out of Germany and develop it into commercially viable formats. Bing Crosby , an early adopter of the technology, made a large investment in the tape hardware manufacturer Ampex .
+
+A wide variety of audiotape recorders and formats have been developed since. Some magnetic tape-based formats include:
+
+Videotape is magnetic tape used for storing video and usually sound in addition. Information stored can be in the form of either an analog or digital signal . Videotape is used in both video tape recorders (VTRs) and, more commonly, videocassette recorders (VCRs) and camcorders . Videotapes have also been used for storing scientific or medical data, such as the data produced by an electrocardiogram .
+
+Some magnetic tape-based formats include:
+
+Magnetic-tape data storage is a system for storing digital information on magnetic tape using digital recording .
+
+Tape was an important medium for primary data storage in early computers, typically using large open reels of 7-track , later 9-track tape. Modern magnetic tape is most commonly packaged in cartridges and cassettes, such as the widely supported Linear Tape-Open (LTO) and IBM 3592 series. The device that performs the writing or reading of data is called a tape drive . Autoloaders and tape libraries are often used to automate cartridge handling and exchange. Compatibility was important to enable transferring data.

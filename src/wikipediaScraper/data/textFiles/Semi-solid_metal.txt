@@ -1,0 +1,29 @@
+Semi-solid metal casting ( SSM ) is a near net shape variant of die casting . The process is used today with non-ferrous metals, such as aluminium , copper , and magnesium . It can work with higher temperature alloys that lack suitable die materials. The process combines the advantages of casting and forging .The process is named after the fluid property thixotropy , which is the phenomenon that allows this process to work. Thixotropic fluids flow when sheared, but thicken when standing. The potential for this type of process was first recognized in the early 1970s. Its three variants are thixocasting, rheocasting, and thixomolding. SIMA refers to a specialized process to prepare aluminum alloys for thixocasting using hot and cold working.
+
+SSM is done at a temperature that puts the metal between its liquidus and solidus temperature, ideally 30 to 65% solid. The mixture must have low viscosity to be usable, and to reach this low viscosity the material needs a globular primary surrounded by the liquid phase. The temperature range depends on the material and for aluminum alloys can be as much as 50 °C, but for narrow melting range copper alloys can be only several tenths of a degree.
+
+SSM is typically used for high-end applications. For aluminum alloys, typical parts include structural medical and aerospace parts, pressure containing parts, defense parts, engine mounts, air manifold sensor harnesses, engine blocks, and oil pump filter housings.
+
+Thixomolding was invented by Dow Chemical in the 1980s by converting a plastic extruder. They transferred their 1987 patent in 1990 to Thixomat Inc. Japan Steel Works Ltd. and Husky Injection Molding Systems Ltd. licensed the technology.
+
+As of 2024, the most significant thixomolded auto part was the spare tire carrier of the Jeep Wrangler .
+
+However, in 2024 Idra launched its thixomolding machines that adopted thixotropic piston injection (TPI).
+
+Four techniques involve semi-solid castings. For aluminum alloys the more common processes are thixocasting, rheocasting, and SIMA.
+
+With magnesium alloys, the most common process is thixomolding.
+
+Thixocasting utilizes a pre-cast billet with a non-dendritic microstructure that is normally produced by vigorously stirring the melt as the bar is being cast. Induction heating is normally used to re-heat the billets to the semi-solid temperature range, and die casting machines are used to inject the semi-solid material into hardened steel dies. Thixocasting is employed commercially. Thixocasting can produce high quality components due to the product consistency that results from using pre-cast billets manufactured under the same ideal continuous processing conditions that are employed to make forging or rolling stock. The main disadvantage is that it is expensive due to the specialized billets, although facilities with in house magnetohydrodynamic continuous casting capabilities can recycle 100% of in-house returns. Other disadvantages include support for a limited number of alloys, and in-house magnetohydrodynamic casting capability to directly reuse scrap.
+
+Rheocasting develops the semi-solid slurry from the molten metal produced in a typical die casting furnace. This allows less expensive feedstock, in the form of typical die casting alloys, and allows for direct recycling. However, rheocasting also poses process control issues such that after an initial surge of activity, very little material is processed via rheocasting.
+
+For magnesium alloys, thixomolding uses a machine similar to injection molding. In a single step process, room temperature magnesium alloy chips are fed into the back end of a heated barrel through a volumetric feeder. The barrel maintains an argon atmosphere to prevent oxidation. A screw conveyor located inside the barrel feeds the magnesium chips forward as they are heated into the semi-solid temperature range. The screw rotation provides the necessary shearing force to generate the globular structure needed for semi-solid casting. Once enough slurry has accumulated, the screw moves forward to inject the slurry into a steel die. The flow of the material is less  turbulent, creating near-zero porosity. The slower velocity of the material into the die extends die life by more than 2x.
+
+Thixotropic piston injection adds the slurry-forming screw as a module for traditional die casting machines. It retains the use of the existing injection piston to provide sufficient pressure, while using the screw to prepare (semi-melt) the metal. It further eliminates holding and melting furnaces (that otherwise melt the metal), preventing alloy separation during holding.
+
+In the SIMA method the material is first heated to the SMM temperature. As it nears the solidus temperature the grains recrystallize to form a fine grain structure. After the solidus temperature is passed the grain boundaries melt to form the SSM microstructure. For this method to work the material should be extruded or cold rolled in the half-hard tempered state. This method supports bar diameters only smaller than 37 mm (1.5 in).
+
+High consolidation pressures are used to produce high integrity parts. The advantages of semi-solid casting are:
+
+Production facilities require a higher degree of control over process conditions,

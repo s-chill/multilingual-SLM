@@ -1,0 +1,21 @@
+Nuclear engineering is the engineering discipline concerned with designing and applying systems that utilize the energy released by nuclear processes. The most prominent application of nuclear engineering is the generation of electricity. Worldwide, some 440 nuclear reactors in 32 countries generate 10 percent of the world's energy through nuclear fission . In the future, it is expected that nuclear fusion will add another nuclear means of generating energy. Both reactions make use of the nuclear binding energy released when atomic nucleons are either separated (fission) or brought together (fusion). The energy available is given by the binding energy curve , and the amount generated is much greater than that generated through chemical reactions. Fission of 1 gram of uranium yields as much energy as burning 3 tons of coal or 600 gallons of fuel oil, without adding carbon dioxide to the atmosphere.
+
+Nuclear engineers work in such areas as the following:
+
+Many chemical , electrical and mechanical and other types of engineers also work in the nuclear industry, as do many scientists and support staff. In the U.S., nearly 100,000 people directly work in the nuclear industry. Including secondary sector jobs, the number of people supported by the U.S. nuclear industry is 475,000.
+
+Nuclear engineering was born in 1938, with the discovery of nuclear fission. The first artificial nuclear reactor, CP-1, was designed by a team of physicists who were concerned that Nazi Germany might also be seeking to build a bomb based on nuclear fission. (The earliest known nuclear reaction on Earth occurred naturally , 1.7 billion years ago, in Oklo, Gabon, Africa.) The second artificial nuclear reactor, the X-10 Graphite Reactor , was also a part of the Manhattan Project , as were the plutonium -producing reactors of the Hanford Engineer Works . The first nuclear bomb was code named Gadget which was used in the Trinity Nuclear Test . The weapon was believed to have a yield of around 20 kilotons of TNT.
+
+The first nuclear reactor to generate electricity was Experimental Breeder Reactor I (EBR-I), which did so near Arco , Idaho, in 1951. EBR-I was a standalone facility, not connected to a grid, but a later Idaho research reactor in the BORAX series did briefly supply power to the town of Arco in 1955.
+
+The first commercial nuclear power plant, built to be connected to an electrical grid, is the Obninsk Nuclear Power Plant , which began operation in 1954. The second appears to be the Shippingport Atomic Power Station , which produced electricity in 1957.
+
+For a brief chronology, from the discovery of uranium to the current era, see Outline History of Nuclear Energy or History of Nuclear Power .
+
+See List of Commercial Nuclear Reactors for a comprehensive listing of nuclear power reactors and IAEA Power Reactor Information System (PRIS) for worldwide and country-level statistics on nuclear power generation.
+
+In the United States, nuclear engineers are employed as follows:
+
+Worldwide, job prospects for nuclear engineers are likely best in those countries that are active in or exploring nuclear technologies :
+
+Organizations that provide study and training in nuclear engineering include the following:

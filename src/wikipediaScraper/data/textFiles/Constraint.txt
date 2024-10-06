@@ -1,0 +1,62 @@
+Constraint programming (CP) is a paradigm for solving combinatorial problems that draws on a wide range of techniques from artificial intelligence , computer science , and operations research . In constraint programming, users declaratively state the constraints on the feasible solutions for a set of decision variables. Constraints differ from the common primitives of imperative programming languages in that they do not specify a step or sequence of steps to execute, but rather the properties of a solution to be found. In addition to constraints, users also need to specify a method to solve these constraints. This typically draws upon standard methods like chronological backtracking and constraint propagation , but may use customized code like a problem-specific branching heuristic .
+
+Constraint programming takes its root from and can be expressed in the form of constraint logic programming , which embeds constraints into a logic program . This variant of logic programming is due to Jaffar and Lassez, who extended in 1987 a specific class of constraints that were introduced in Prolog II . The first implementations of constraint logic programming were Prolog III , CLP(R) , and CHIP .
+
+Instead of logic programming, constraints can be mixed with functional programming , term rewriting , and imperative languages .
+Programming languages with built-in support for constraints include Oz (functional programming) and Kaleidoscope (imperative programming). Mostly, constraints are implemented in imperative languages via constraint solving toolkits , which are separate libraries for an existing imperative language.
+
+Constraint programming is an embedding of constraints in a host language. The first host languages used were logic programming languages, so the field was initially called constraint logic programming . The two paradigms share many important features, like logical variables and backtracking . Today most Prolog implementations include one or more libraries for constraint logic programming.
+
+The difference between the two is largely in their styles and approaches to modeling the world. Some problems are more natural (and thus, simpler) to write as logic programs, while some are more natural to write as constraint programs.
+
+The constraint programming approach is to search for a state of the world in which a large number of constraints are satisfied at the same time. A problem is typically stated as a state of the world containing a number of unknown variables. The constraint program searches for values for all the variables.
+
+Temporal concurrent constraint programming (TCC) and non-deterministic temporal concurrent constraint programming (MJV) are variants of constraint programming that can deal with time.
+
+A constraint is a relation between multiple variables that limits the values these variables can take simultaneously.
+
+Definition — A constraint satisfaction problem on finite domains (or CSP) is defined by a triplet ( X , D , C ) {\displaystyle ({\mathcal {X}},{\mathcal {D}},{\mathcal {C}})} where:
+
+Three categories of constraints exist:
+
+Definition — An assignment (or model) A {\displaystyle {\mathcal {A}}} of a CSP P = ( X , D , C ) {\displaystyle P=({\mathcal {X}},{\mathcal {D}},{\mathcal {C}})} is defined by the couple A = ( X A , V A ) {\displaystyle {\mathcal {A}}=({\mathcal {X_{\mathcal {A}}}},{\mathcal {V_{\mathcal {A}}}})} where:
+
+Assignment is the association of a variable to a value from its domain. A partial assignment is when a subset of the variables of the problem has been assigned. A total assignment is when all the variables of the problem have been assigned.
+
+Property — Given A = ( X A , V A ) {\displaystyle {\mathcal {A}}=({\mathcal {X_{\mathcal {A}}}},{\mathcal {V_{\mathcal {A}}}})} an assignment (partial or total) of a CSP P = ( X , D , C ) {\displaystyle P=({\mathcal {X}},{\mathcal {D}},{\mathcal {C}})} , and C i = ( X i , R i ) {\displaystyle C_{i}=({\mathcal {X}}_{i},{\mathcal {R}}_{i})} a constraint of P {\displaystyle P} such as X i ⊆ X A {\displaystyle {\mathcal {X}}_{i}\subseteq {\mathcal {X_{\mathcal {A}}}}} , the assignment A {\displaystyle {\mathcal {A}}} satisfies the constraint C i {\displaystyle C_{i}} if and only if all the values V A i = { v i ∈ V A tel que x i ∈ X i } {\displaystyle {\mathcal {V}}_{{\mathcal {A}}_{i}}=\{v_{i}\in {\mathcal {V}}_{\mathcal {A}}{\mbox{ tel que }}x_{i}\in {\mathcal {X}}_{i}\}} of the variables of the constraint C i {\displaystyle C_{i}} belongs to R i {\displaystyle {\mathcal {R}}_{i}} .
+
+Definition — A solution of a CSP is a total assignment that satisfies all the constraints of the problem.
+
+During the search of the solutions of a CSP, a user can wish for:
+
+A constraint optimization problem (COP) is a constraint satisfaction problem associated to an objective function.
+
+An optimal solution to a minimization (maximization) COP is a solution that minimizes (maximizes) the value of the objective function .
+
+During the search of the solutions of a COP, a user can wish for:
+
+Languages for constraint-based programming follow one of two approaches:
+
+Constraint propagation in constraint satisfaction problems is a typical example of a refinement model, and formula evaluation in spreadsheets are a typical example of a perturbation model.
+
+The refinement model is more general, as it does not restrict variables to have a single value, it can lead to several solutions to the same problem. However, the perturbation model is more intuitive for programmers using mixed imperative constraint object-oriented languages.
+
+The constraints used in constraint programming are typically over some specific domains. Some popular domains for constraint programming are:
+
+Finite domains is one of the most successful domains of constraint programming. In some areas (like operations research ) constraint programming is often identified with constraint programming over finite domains.
+
+Local consistency conditions are properties of constraint satisfaction problems related to the consistency of subsets of variables or constraints. They can be used to reduce the search space and make the problem easier to solve. Various kinds of local consistency conditions are leveraged, including node consistency , arc consistency , and path consistency .
+
+Every local consistency condition can be enforced by a transformation that changes the problem without changing its solutions. Such a transformation is called constraint propagation . Constraint propagation works by reducing domains of variables, strengthening constraints, or creating new ones. This leads to a reduction of the search space, making the problem easier to solve by some algorithms. Constraint propagation can also be used as an unsatisfiability checker, incomplete in general but complete in some particular cases.
+
+There are three main algorithmic techniques for solving constraint satisfaction problems: backtracking search, local search, and dynamic programming.
+
+Backtracking search is a general algorithm for finding all (or some) solutions to some computational problems , notably constraint satisfaction problems , that incrementally builds candidates to the solutions, and abandons a candidate ("backtracks") as soon as it determines that the candidate cannot possibly be completed to a valid solution.
+
+Local search is an incomplete method for finding a solution to a problem . It is based on iteratively improving an assignment of the variables until all constraints are satisfied. In particular, local search algorithms typically modify the value of a variable in an assignment at each step. The new assignment is close to the previous one in the space of assignment, hence the name local search .
+
+Dynamic programming is both a mathematical optimization method and a computer programming method. It refers to simplifying a complicated problem by breaking it down into simpler sub-problems in a recursive manner. While some decision problems cannot be taken apart this way, decisions that span several points in time do often break apart recursively. Likewise, in computer science, if a problem can be solved optimally by breaking it into sub-problems and then recursively finding the optimal solutions to the sub-problems, then it is said to have optimal substructure .
+
+The syntax for expressing constraints over finite domains depends on the host language. The following is a Prolog program that solves the classical alphametic puzzle SEND+MORE=MONEY in constraint logic programming:
+
+The interpreter creates a variable for each letter in the puzzle. The operator ins is used to specify the domains of these variables, so that they range over the set of values {0,1,2,3, ..., 9}. The constraints S#\=0 and M#\=0 means that these two variables cannot take the value zero. When the interpreter evaluates these constraints, it reduces the domains of these two variables by removing the value 0 from them. Then, the constraint all_different(Digits) is considered; it does not reduce any domain, so it is simply stored. The last constraint specifies that the digits assigned to the letters must be such that "SEND+MORE=MONEY" holds when each letter is replaced by its corresponding digit. From this constraint, the solver infers that M=1. All stored constraints involving variable M are awakened: in this case, constraint propagation on the all_different constraint removes value 1 from the domain of all the remaining variables. Constraint propagation may solve the problem by reducing all domains to a single value, it may prove that the problem has no solution by reducing a domain to the empty set, but may also terminate without proving satisfiability or unsatisfiability. The label literals are used to actually perform search for a solution.

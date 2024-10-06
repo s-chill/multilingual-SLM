@@ -1,0 +1,118 @@
+An environment variable is a user-definable value that can affect the way running processes will behave on a computer. Environment variables are part of the environment in which a process runs. For example, a running process can query the value of the TEMP environment variable to discover a suitable location to store temporary files , or the HOME or USERPROFILE variable to find the directory structure owned by the user running the process.
+
+They were introduced in their modern form in 1979 with Version 7 Unix , so are included in all Unix operating system flavors and variants from that point onward including Linux and macOS . From PC DOS 2.0 in 1982, all succeeding Microsoft operating systems, including Microsoft Windows , and OS/2 also have included them as a feature, although with somewhat different syntax, usage and standard variable names.
+
+In all Unix and Unix-like systems, as well as on Windows, each process has its own separate set of environment variables . By default, when a process is created, it inherits a duplicate run-time environment of its parent process, except for explicit changes made by the parent when it creates the child. At the API level, these changes must be done between running fork and exec . Alternatively, from command shells such as bash , a user can change environment variables for a particular command invocation by indirectly invoking it via env or using the ENVIRONMENT_VARIABLE=VALUE <command> notation. A running program can access the values of environment variables for configuration purposes.
+
+Shell scripts and batch files use environment variables to communicate data and preferences to child processes . They can also be used to store temporary values for reference later in a shell script. However, in Unix, non-exported variables are preferred for this as they do not leak outside the process.
+
+In Unix, an environment variable that is changed in a script or compiled program will only affect that process and possibly child processes. The parent process and any unrelated processes will not be affected. Similarly, changing or removing a variable's value inside a DOS or Windows batch file will change the variable for the duration of COMMAND.COM or CMD.EXE 's existence, respectively.
+
+In Unix, the environment variables are normally initialized during system startup by the system init startup scripts , and hence inherited by all other processes in the system. Users can, and often do, augment them in the profile script for the command shell they are using. In Microsoft Windows, each environment variable's default value is stored in the Windows Registry or set in the AUTOEXEC.BAT file.
+
+On Unix , a setuid program is given an environment chosen by its caller, but it runs with different authority from its caller. The dynamic linker will usually load code from locations specified by the environment variables $LD_LIBRARY_PATH and $LD_PRELOAD and run it with the process's authority. If a setuid program did this, it would be insecure, because its caller could get it to run arbitrary code and hence misuse its authority. For this reason, libc unsets these environment variables at startup in a setuid process. setuid programs usually unset unknown environment variables and check others or set them to reasonable values.
+
+In general, the collection of environment variables function as an associative array where both the keys and values are strings. The interpretation of characters in either string differs among systems. When data structures such as lists need to be represented, it is common to use a colon (common on Unix and Unix-like) or semicolon-delineated (common on Windows and DOS) list.
+
+The variables can be used both in scripts and on the command line . They are usually referenced by putting special symbols in front of or around the variable name.
+
+It is conventional for environment-variable names to be chosen to be in all upper cases. In programming code generally, this helps to distinguish environment variables from other kinds of names in the code. Environment-variable names are case sensitive on Unix-like operating systems but not on DOS, OS/2, and Windows.
+
+In most Unix and Unix-like command-line shells , an environment variable's value is retrieved by placing a $ sign before the variable's name. If necessary, the name can also be surrounded by braces.
+
+To display the user home directory, the user may type:
+
+In Unix and Unix-like systems, the names of environment variables are case-sensitive.
+
+The command env displays all environment variables and their values. The command printenv can also be used to print a single variable by giving that variable name as the sole argument to the command.
+
+In DOS, OS/2 and Windows command-line interpreters such as COMMAND.COM and CMD.EXE , an environment variable is retrieved by placing a % sign before and after it.
+
+In DOS, OS/2 and Windows command-line interpreters as well as their API , upper or lower case is not distinguished for environment variable names.
+
+The environment variable named HOMEDRIVE contains the drive letter (plus its trailing : colon) of the user's home directory, whilst HOMEPATH contains the full path of the user's home directory within that drive.
+
+So to see the home drive and path, the user may type this:
+
+The command SET (with no arguments) displays all environment variables and their values. In Windows NT and later set can also be used to print all variables whose name begins with a given prefix by giving the prefix as the sole argument to the command.
+
+In Windows PowerShell , the user may type any of the following:
+
+In PowerShell, upper or lower case is not distinguished for environment variable names.
+
+The following command displays all environment variables and their values:
+
+The commands env and set can be used to set environment variables and are often incorporated directly into the shell.
+
+The following commands can also be used, but are often dependent on a certain shell.
+
+A few simple principles govern how environment variables achieve their effect.
+
+Environment variables are local to the process in which they were set. If two shell processes are spawned and the value of an environment variable is changed in one, that change will not be seen by the other.
+
+When a child process is created, it inherits all the environment variables and their values from the parent process. Usually, when a program calls another program, it first creates a child process by forking , then the child adjusts the environment as needed and lastly the child replaces itself with the program to be called. This procedure gives the calling program control over the environment of the called program.
+
+In Unix shells, variables may be assigned without the export keyword. Variables defined in this way are displayed by the set command, but are not true environment variables, as they are stored only by the shell and are unknown to all other processes. The printenv command will not display them, and child processes do not inherit them.
+
+The prefix syntax exports a "true" environment variable to a child process without affecting the current process:
+
+The persistence of an environment variable can be session-wide or system-wide.
+
+unset is a builtin command implemented by both the Bourne shell family ( sh , ksh , bash , etc.) and the C shell family (csh, tcsh, etc.) of Unix command line shells . It unsets a shell variable, removing it from memory and the shell's exported environment. It is implemented as a shell builtin , because it directly manipulates the internals of the shell. Read-only shell variables cannot be unset. If one tries to unset a read-only variable, the unset command will print an error message and return a non-zero exit code.
+
+In DOS, OS/2 and Windows command-line interpreters such as COMMAND.COM and CMD.EXE , the SET command is used to assign environment variables and values using the following arguments:
+
+An environment variable is removed via:
+
+The SET command without any arguments displays all environment variables along with their values; SET " " , zero or more spaces, will include internal variables too. In CMD.EXE , it is possible to assign local variables that will not be global using the SETLOCAL command and ENDLOCAL to restore the environment.
+
+Use the switch /? to display the internal documentation , or use the viewer help :
+
+In PowerShell , the assignment follows a syntax similar to Unix:
+
+Examples of environment variables include:
+
+Under DOS, the master environment is provided by the primary command processor, which inherits the pre-environment defined in CONFIG.SYS when first loaded. Its size can be configured through the COMMAND /E:n parameter between 160 and 32767 bytes. Local environment segments inherited to child processes are typically reduced down to the size of the contents they hold. Some command-line processors (like 4DOS ) allow to define a minimum amount of free environment space that will be available when launching secondary shells. While the content of environment variables remains unchanged upon storage, their names (without the " % ") are always converted to uppercase, with the exception of pre-environment variables defined via the CONFIG.SYS directive SET under DR DOS 6.0 and higher (and only with SWITCHES=/L (for "allow lowercase names") under DR-DOS 7.02 and higher). In principle, MS-DOS 7.0 and higher also supports lowercase variable names ( %windir% ), but provides no means for the user to define them. Environment variable names containing lowercase letters are stored in the environment just like normal environment variables, but remain invisible to most DOS software, since they are written to expect uppercase variables only. Some command processors limit the maximum length of a variable name to 80 characters. While principally only limited by the size of the environment segment , some DOS and 16-bit Windows programs do not expect the contents of environment variables to exceed 128 characters. DR-DOS COMMAND.COM supports environment variables up to 255, 4DOS even up to 512 characters. Since COMMAND.COM can be configured (via /L:128..1024 ) to support command lines up to 1024 characters internally under MS-DOS 7.0 and higher, environment variables should be expected to contain at least 1024 characters as well. In some versions of DR-DOS, the environment passed to drivers, which often do not need their environment after installation, can be shrunken or relocated through SETENV or INSTALL[HIGH] / LOADHIGH options /Z (zero environment), /D[: loaddrive ] (substitute drive, e.g. B:TSR.COM ) and /E (relocate environment above program) in order to minimize the driver's effectively resulting resident memory footprint .
+
+In batch mode, non-existent environment variables are replaced by a zero-length string.
+
+Standard environment variables or reserved environment variables include:
+
+The DR-DOS family supports a number of additional standard environment variables including:
+
+Datalight ROM-DOS supports a number of additional standard environment variables as well including:
+
+%TZ% , %COMM% , %SOCKETS% , %HTTP_DIR% , %HOSTNAME% and %FTPDIR% are also used by ROM-DOS.
+
+These environment variables refer to locations of critical operating system resources, and as such generally are not user-dependent.
+
+User management variables store information related to resources and settings owned by various user profiles within the system. As a general rule, these variables do not refer to critical system resources or locations that are necessary for the OS to run.
+
+Optional System variables are not explicitly specified by default but can be used to modify the default behavior of certain built-in console commands. These variables also do not need to be explicitly specified as command line arguments.
+
+The following tables shows typical default values of certain environment variables under English versions of Windows as they can be retrieved under CMD .
+
+(Some of these variables are also defined when running COMMAND.COM under Windows, but differ in certain important details: Under COMMAND.COM , the names of environment variable are always uppercased. Some, but not all variables contain short 8.3 rather than long file names . While some variables present in the CMD environment are missing, there are also some variables specific to the COMMAND environment.)
+
+In this list, there is no environment variable that refers to the location of the user's My Documents directory, so there is no standard method for setting a program's home directory to be the My Documents directory.
+
+The command processors in DOS and Windows also support pseudo-environment variables. These are values that are fetched like environment variables, but are not truly stored in the environment but computed when requested.
+
+Besides true environment variables, which are statically stored in the environment until changed or deleted, a number of pseudo-environment variables exist for batch processing.
+
+The so-called replacement parameters or replaceable parameters (Microsoft / IBM terminology) aka replacement variables (Digital Research / Novell / Caldera terminology) or batch file parameters (JP Software terminology) %1 .. %9 and %0 can be used to retrieve the calling parameters of a batchjob, see SHIFT . In batchjobs, they can be retrieved just like environment variables, but are not actually stored in the environment.
+
+Some command-line processors (like DR-DOS COMMAND.COM , Multiuser DOS MDOS.COM / TMP.EXE (Terminal Message Process), JP Software 4DOS , 4OS2 , 4NT , Take Command and Windows cmd.exe ) support a type of pseudo-environment variables named system information variables (Novell / Caldera terminology) or internal variables (JP Software terminology), which can be used to retrieve various possibly dynamic, but read-only information about the running system in batch jobs. The returned values represent the status of the system in the moment these variables are queried; that is, reading them multiple times in a row may return different values even within the same command; querying them has no direct effect on the system. Since they are not stored in the environment, they are not listed by SET and do not exist for external programs to retrieve. If a true environment variable of the same name is defined, it takes precedence over the corresponding variable until the environment variable is deleted again. They are not case-sensitive.
+While almost all such variables are prefixed with an underscore (" _ ") by 4DOS etc. by convention (f.e. %_SECOND% ), they are not under DR-DOS COMMAND.COM (f.e. %OS_VERSION% ).
+
+In addition, 4DOS, 4OS2, 4NT, and Take Command also support so called variable functions , including user-definable ones. They work just like internal variables , but can take optional parameters (f.e. %@EVAL[]% ) and may even change the system status depending on their function.
+
+System information variables supported by DR-DOS COMMAND.COM :
+
+System information variables supported by DR-DOS COMMAND.COM with networking loaded:
+
+Dynamic environment variables (also named internal variables or system information variables under DOS) are pseudo-environment variables supported by CMD.EXE when command-line extensions are enabled, and they expand to various discrete values whenever queried, that is, their values can change when queried multiple times even within the same command. While they can be used in batch jobs and at the prompt, they are not stored in the environment. Consequently, they are neither listed by SET nor do they exist for external programs to read. They are not case-sensitive.
+
+Indirectly, they are also supported under Windows' COMMAND.COM , which has been modified to internally call CMD.EXE to execute the commands.
+
+Unix-like shells have similar dynamically generated variables, bash's $RANDOM being a well-known example. However, since these shells have a concept of local variables, they are described as special local variables instead.

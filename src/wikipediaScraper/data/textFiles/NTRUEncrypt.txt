@@ -1,0 +1,122 @@
+The NTRUEncrypt public key cryptosystem , also known as the NTRU encryption algorithm , is an NTRU lattice-based alternative to RSA and elliptic curve cryptography (ECC) and is based on the shortest vector problem in a lattice (which is not known to be breakable using quantum computers ).
+
+It relies on the presumed difficulty of factoring certain polynomials in a truncated polynomial ring into a quotient of two polynomials having very small coefficients.  Breaking the cryptosystem is strongly related, though not equivalent, to the algorithmic problem of lattice reduction in certain lattices . Careful choice of parameters is necessary to thwart some published attacks.
+
+Since both encryption and decryption use only simple polynomial multiplication, these operations are very fast compared to other asymmetric encryption schemes, such as RSA, ElGamal and elliptic curve cryptography . However, NTRUEncrypt has not yet undergone a comparable amount of cryptographic analysis in deployed form.
+
+A related algorithm is the NTRUSign digital signature algorithm.
+
+Specifically, NTRU operations are based on objects in a truncated polynomial ring R = Z [ X ] / ( X N − 1 ) {\displaystyle \ R=\mathbb {Z} [X]/(X^{N}-1)} with convolution multiplication and all polynomials in the ring have integer coefficients and degree at most N -1:
+
+That X N = 1 {\displaystyle X^{N}=1} in this ring has the effect that multiplying a polynomial by X {\displaystyle X} rotates the coefficients of the polynomial. A map of the form f ↦ f g {\displaystyle f\mapsto fg} for a fixed g ∈ R {\displaystyle g\in R} thus produces a new polynomial f g {\displaystyle fg} where every coefficient depends on as many coefficients from f {\displaystyle f} as there are nonzero coefficients in g {\displaystyle g} .
+
+NTRU has three integer parameters ( N , p , q ), where N is the polynomial degree bound, p is called the small modulus, and q is called the large modulus; it is assumed that N is prime , q is always (much) larger than p , and p and q are coprime . Plaintext messages are polynomials modulo p but ciphertext messages are polynomials modulo q . Concretely the ciphertext consists of the plaintext message plus a randomly chosen multiple of the public key, but the public key may itself be regarded as a multiple of the small modulus p , which allows the holder of the private key to extract the plaintext from the ciphertext.
+
+The NTRUEncrypt Public Key Cryptosystem is a relatively new cryptosystem.
+The first version of the system, which was simply called NTRU, was developed around 1996 by three mathematicians ( Jeffrey Hoffstein , Jill Pipher , and Joseph H. Silverman ). In 1996 these mathematicians together with Daniel Lieman founded the NTRU Cryptosystems, Inc. and were given a patent (now expired) on the cryptosystem.
+
+During the last ten years people have been working on improving the cryptosystem. Since the first presentation of the cryptosystem, some changes were made to improve both the performance of the system and its security. Most performance improvements were focused on speeding up the process. Up till 2005 literature can be found that describes the decryption failures of the NTRUEncrypt. As for security, since the first version of the NTRUEncrypt, new parameters have been introduced that seem secure for all currently known attacks and reasonable increase in computation power.
+
+Now the system is fully accepted to IEEE P1363 standards under the specifications for lattice-based public-key cryptography ( IEEE P1363.1 ).
+Because of the speed of the NTRUEncrypt Public Key Cryptosystem (see http://bench.cr.yp.to for benchmarking results) and its low memory use (see below ) , it can be used in applications such as mobile devices and Smart-cards .
+In April 2011, NTRUEncrypt was accepted as a X9.98 Standard, for use in the financial services industry.
+
+Sending a secret message from Alice to Bob requires the generation of a public and a private key. The public key is known by both Alice and Bob and the private key is only known by Bob. To generate the key pair two polynomials f and g , with degree at most N − 1 {\displaystyle \ N-1} and with coefficients in {-1,0,1} are required. They can be considered as representations of the residue classes of polynomials modulo X N − 1 {\displaystyle \ X^{N}-1} in R . The polynomial f ∈ L f {\displaystyle {\textbf {f}}\in L_{f}} must satisfy the additional requirement that the inverses modulo q and modulo p (computed using the Euclidean algorithm ) exist, which means that f ⋅ f p = 1 ( mod p ) {\displaystyle \ {\textbf {f}}\cdot {\textbf {f}}_{p}=1{\pmod {p}}} and f ⋅ f q = 1 ( mod q ) {\displaystyle \ {\textbf {f}}\cdot {\textbf {f}}_{q}=1{\pmod {q}}} must hold.
+So when the chosen f is not invertible, Bob has to go back and try another f .
+
+Both f and f p {\displaystyle \ \mathbf {f} _{p}} (and g {\displaystyle g} ) are Bob's private key. The public key h is generated computing the quantity
+
+Example :
+In this example the parameters ( N , p , q ) will have the values N = 11, p = 3 and q = 32 and therefore the polynomials f and g are of degree at most 10. The system parameters ( N , p , q ) are known to everybody. The polynomials are randomly chosen, so suppose they are represented by
+
+Using the Euclidean algorithm the inverse of f modulo p and modulo q , respectively, is computed
+
+Which creates the public key h (known to both Alice and Bob) computing the product
+
+Alice, who wants to send a secret message to Bob, puts her message in the form of a polynomial m with coefficients in [ − p / 2 , p / 2 ] {\displaystyle [-p/2,p/2]} . In modern applications of the encryption, the message polynomial can be translated in a binary or ternary representation.
+After creating the message polynomial, Alice chooses randomly a polynomial r with small coefficients (not restricted to the set {-1,0,1}), that is meant to obscure the message.
+
+With Bob's public key h the encrypted message e is computed:
+
+This ciphertext hides Alice's messages and can be sent safely to Bob.
+
+Example :
+Assume that Alice wants to send a message that can be written as polynomial
+
+and that the randomly chosen ‘blinding value’ can be expressed as
+
+The ciphertext e that represents her encrypted message to Bob will look like
+
+Anybody knowing r could compute the message m by evaluating e - rh ; so r must not be revealed by Alice. In addition to the publicly available information, Bob knows his own private key. Here is how he can obtain m : 
+First he multiplies the encrypted message e and part of his private key f
+
+By rewriting the polynomials, this equation is actually representing the following computation:
+
+Instead of choosing the coefficients of a between 0 and q – 1 they are chosen in the interval [- q /2, q /2] to prevent that the original message may not be properly recovered since Alice chooses the coordinates of her message m in the interval [- p /2, p /2]. This implies that all coefficients of p r ⋅ g + f ⋅ m {\displaystyle \ p{\textbf {r}}\cdot {\textbf {g}}+{\textbf {f}}\cdot {\textbf {m}}} already lie within the interval [- q /2, q /2] because the polynomials r , g , f and m and prime p all have coefficients that are small compared to q . This means that all coefficients are left unchanged during reducing modulo q and that the original message may be recovered properly.
+
+The next step will be to calculate a modulo p :
+
+because p r ⋅ g ( mod p ) = 0 {\displaystyle \ p{\textbf {r}}\cdot {\textbf {g}}{\pmod {p}}=0} .
+
+Knowing b Bob can use the other part of his private key ( f p ) {\displaystyle \ \left({\textbf {f}}_{p}\right)} to recover Alice's message by multiplication of b and f p {\displaystyle \ {\textbf {f}}_{p}}
+
+because the property f ⋅ f p = 1 ( mod p ) {\displaystyle \ {\textbf {f}}\cdot {\textbf {f}}_{p}=1{\pmod {p}}} was required for f p {\displaystyle \ {\textbf {f}}_{p}} .
+
+Example : 
+The encrypted message e from Alice to Bob is multiplied with polynomial f
+
+where Bob uses the interval [- q /2, q /2] instead of the interval [0, q – 1]  for the coefficients of polynomial a to prevent that the original message may not be recovered correctly.
+
+Reducing the coefficients of a mod p results in
+
+which equals b = f ⋅ m ( mod 3 ) {\displaystyle \ {\textbf {b}}={\textbf {f}}\cdot {\textbf {m}}{\pmod {3}}} .
+
+In the last step the result is multiplied with f p {\displaystyle \ {\textbf {f}}_{p}} from Bob's private key to end up with the original message m
+
+Which indeed is the original message Alice has sent to Bob!
+
+Since the proposal of NTRU several attacks on the NTRUEncrypt public key cryptosystem have been introduced. Most attacks are focused on making a total break by finding the secret key f instead of just recovering the message m .
+If f is known to have very few non-zero coefficients Eve can successfully mount a brute force attack by trying all values for f . When Eve wants to know whether f ´ is the secret key, she simply calculates f ′ ⋅ h ( mod q ) {\displaystyle \ {\textbf {f}}'\cdot {\textbf {h}}{\pmod {q}}} . If it has small coefficients it might be the secret key f , and Eve can test if f ´ is the secret key by using it to decrypt a message she encrypted herself.
+Eve could also try values of g and test if g ′ ⋅ h − 1 ( mod q ) {\displaystyle \ {\textbf {g}}'\cdot {\textbf {h}}^{-1}{\pmod {q}}} has small values.
+
+It is possible to mount a meet-in-the-middle attack which is more powerful. It can cut the search time by square root. The attack is based on the property that f ⋅ h = p g ( mod q ) {\displaystyle \ {\textbf {f}}\cdot {\textbf {h}}=p{\textbf {g}}{\pmod {q}}} .
+
+Eve wants to find f 1 {\displaystyle \ {\textbf {f}}_{1}} and f 2 {\displaystyle \ {\textbf {f}}_{2}} such that f = f 1 + f 2 {\displaystyle \ {\textbf {f}}={\textbf {f}}_{1}+{\textbf {f}}_{2}} holds and such that they have the  property
+
+If f has d one's and N - d zero's, then Eve creates all possible f 1 {\displaystyle \ {\textbf {f}}_{1}} and f 2 {\displaystyle \ {\textbf {f}}_{2}} in which they both have length 1 2 N {\displaystyle \ {\frac {1}{2}}N} (e.g. f 1 {\displaystyle \ {\textbf {f}}_{1}} covers the 1 2 N {\displaystyle \ {\frac {1}{2}}N} lowest coefficients of f and f 2 {\displaystyle \ {\textbf {f}}_{2}} the highest)
+with d /2 one's. Then she computes f 1 ⋅ h ( mod q ) {\displaystyle {\textbf {f}}_{1}\cdot {\textbf {h}}{\pmod {q}}} for all f 1 {\displaystyle \ {\textbf {f}}_{1}} and orders them in bins based on the first k coordinates. After that she computes all − f 2 ⋅ h ( mod q ) {\displaystyle \ -{\textbf {f}}_{2}\cdot {\textbf {h}}{\pmod {q}}} and orders them in bins not only based on the first k coordinates, but also based on what happens if you add 1 to the first k coordinates. Then you check the bins that contain both f 1 {\displaystyle \ {\textbf {f}}_{1}} and f 2 {\displaystyle \ {\textbf {f}}_{2}} and see if the property f 1 ⋅ h = g − f 2 ⋅ h ( mod q ) {\displaystyle \ {\textbf {f}}_{1}\cdot {\textbf {h}}={\textbf {g}}-{\textbf {f}}_{2}\cdot {\textbf {h}}{\pmod {q}}} holds.
+
+The lattice reduction attack is one of the best known and one of the most practical methods to break the NTRUEncrypt. In a way it can be compared to the factorization of the modulus in RSA. The most used algorithm for the lattice reduction attack is the Lenstra-Lenstra-Lovász algorithm .
+Because the public key h contains both f and g one can try to obtain them from h . It is however too hard to find the secret key when the NTRUEncrypt parameters are chosen secure enough. The lattice reduction attack becomes harder if the dimension of the lattice gets bigger and the shortest vector gets longer.
+
+The chosen ciphertext attack is also a method which recovers the secret key f and thereby results in a total break. In this attack Eve tries to obtain her own message from the ciphertext and thereby tries to obtain the secret key. In this attack Eve doesn't have any interaction with Bob.
+
+How it works :
+
+First Eve creates a ciphertext e = c h + c {\displaystyle \ {\textbf {e}}=c{\textbf {h}}+c} such that c = 0 ( mod p ) , c < q 2 {\displaystyle \ c=0{\pmod {p}},c<{\frac {q}{2}}} and 2 c > q 2 {\displaystyle \ 2c>{\frac {q}{2}}} When Eve writes down the steps to decipher e (without actually calculating the values since she does not know f) she finds a = f ⋅ e ( mod q ) {\displaystyle \ {\textbf {a}}={\textbf {f}}\cdot {\textbf {e}}{\pmod {q}}} :
+
+In which K = ∑ k i x i {\displaystyle \ K=\sum k_{i}x^{i}} such that
+
+Example :
+
+Then K becomes K = − 1 + X 2 − X 10 {\displaystyle \ K=-1+X^{2}-X^{10}} .
+
+Reducing the coefficients of a mod p really reduces the coefficients of c g + c f − q K ( mod p ) {\displaystyle \ c{\textbf {g}}+c{\textbf {f}}-qK{\pmod {p}}} . After multiplication with f p {\displaystyle \ {\textbf {f}}_{p}} , Eve finds:
+
+Because c was chosen to be a multiple of p , m can be written as
+
+Which means that f = − q K ⋅ m − 1 ( mod p ) {\displaystyle \ {\textbf {f}}=-qK\cdot {\textbf {m}}^{-1}{\pmod {p}}} .
+
+Now if f and g have few coefficients which are the same at the same factors, K has few non zero coefficients and is thereby small. By trying different values of K the attacker can recover f .
+
+By encrypting and decrypting a message according to the NTRUEncrypt the attacker can check whether the function f is the correct secret key or not.
+
+Using the latest suggested parameters (see below ) the NTRUEncrypt public key cryptosystem is secure to most attacks. There continues however to be a struggle between performance and security. It is hard to improve the security without slowing down the speed, and vice versa.
+
+One way to speed up the process without damaging the effectiveness of the algorithm, is to make some changes in the secret key f .
+First, construct f such that f = 1 + p F {\displaystyle \ {\textbf {f}}=1+p{\textbf {F}}} , in which F is a small polynomial (i.e. coefficients {-1,0, 1}). By constructing f this way, f is invertible mod p . In fact f − 1 = 1 ( mod p ) {\displaystyle \ {\textbf {f}}^{-1}=1{\pmod {p}}} , which means that Bob does not have to actually calculate the inverse and that Bob does not have to conduct the second step of decryption. Therefore, constructing f this way saves a lot of time but it does not affect the security of the NTRUEncrypt because it is only easier to find f p {\displaystyle \ {\textbf {f}}_{p}} but f is still hard to recover.
+In this case f has coefficients different from -1, 0 or 1, because of the multiplication by p . But because Bob multiplies by p to generate the public key h , and later on reduces the ciphertext modulo p , this will not have an effect on the encryption method.
+
+Second, f can be written as the product of multiple polynomials, such that the polynomials have many zero coefficients. This way fewer calculations have to be conducted.
+
+According to the 2020 NTRU NIST submission the following parameters are considered secure:

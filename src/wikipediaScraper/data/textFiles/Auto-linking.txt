@@ -1,0 +1,3 @@
+Auto-linking is a mechanism for automatically determining which libraries to link to while building a C, C++ or Obj-C program. It is activated by means of #pragma comment(lib, <name>) statements in the header files of the library, or @import <name> , depending on the compiler.
+
+Most Windows compilers support auto-linking, as does Clang , while GCC does not support auto-linking.

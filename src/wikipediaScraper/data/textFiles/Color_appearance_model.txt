@@ -1,0 +1,72 @@
+A color appearance model ( CAM ) is a mathematical model that seeks to describe the perceptual aspects of human color vision , i.e. viewing conditions under which the appearance of a color does not tally with the corresponding physical measurement of the stimulus source. (In contrast, a color model defines a coordinate space to describe colors, such as the RGB and CMYK color models.)
+
+A uniform color space ( UCS ) is a color model that seeks to make the color-making attributes perceptually uniform, i.e. identical spatial distance between two colors equals identical amount of perceived color difference. A CAM under a fixed viewing condition results in a UCS; a UCS with a modeling of variable viewing conditions results in a CAM. A UCS without such modelling can still be used as a rudimentary CAM.
+
+Color originates in the mind of the observer; “objectively”, there is only the spectral power distribution of the light that meets the eye. In this sense, any color perception is subjective. However, successful attempts have been made to map the spectral power distribution of light to human sensory response in a quantifiable way. In 1931, using psychophysical measurements, the International Commission on Illumination (CIE) created the XYZ color space which successfully models human color vision on this basic sensory level.
+
+However, the XYZ color model presupposes specific viewing conditions (such as the retinal locus of stimulation, the luminance level of the light that meets the eye, the background behind the observed object, and the luminance level of the surrounding light). Only if all these conditions stay constant will two identical stimuli with thereby identical XYZ tristimulus values create an identical color appearance for a human observer. If some conditions change in one case, two identical stimuli with thereby identical XYZ tristimulus values will create different color appearances (and vice versa: two different stimuli with thereby different XYZ tristimulus values might create an identical color appearance).
+
+Therefore, if viewing conditions vary, the XYZ color model is not sufficient, and a color appearance model is required to model human color perception.
+
+The basic challenge for any color appearance model is that human color perception does not work in terms of XYZ tristimulus values, but in terms of appearance parameters ( hue , lightness , brightness , chroma, colorfulness and saturation ). So any color appearance model needs to provide transformations (which factor in viewing conditions) from the XYZ tristimulus values to these appearance parameters (at least hue, lightness and chroma).
+
+This section describes some of the color appearance phenomena that color appearance models try to deal with.
+
+Chromatic adaptation describes the ability of human color perception to abstract from the white point (or color temperature ) of the illuminating light source when observing a reflective object. For the human eye, a piece of white paper looks white no matter whether the illumination is blueish or yellowish. This is the most basic and most important of all color appearance phenomena, and therefore a chromatic adaptation transform (CAT) that tries to emulate this behavior is a central component of any color appearance model.
+
+This allows for an easy distinction between simple tristimulus-based color models and color appearance models. A simple tristimulus-based color model ignores the white point of the illuminant when it describes the surface color of an illuminated object; if the white point of the illuminant changes, so does the color of the surface as reported by the simple tristimulus-based color model. In contrast, a color appearance model takes the white point of the illuminant into account (which is why a color appearance model requires this value for its calculations); if the white point of the illuminant changes, the color of the surface as reported by the color appearance model remains the same.
+
+Chromatic adaptation is a prime example for the case that two different stimuli with thereby different XYZ tristimulus values create an identical color appearance . If the color temperature of the illuminating light source changes, so do the spectral power distribution and thereby the XYZ tristimulus values of the light reflected from the white paper; the color appearance , however, stays the same (white).
+
+Several effects change the perception of hue by a human observer:
+
+Several effects change the perception of contrast by a human observer:
+
+There is an effect which changes the perception of colorfulness by a human observer:
+
+There is an effect which changes the perception of brightness by a human observer:
+
+Spatial phenomena only affect colors at a specific location of an image, because the human brain interprets this location in a specific contextual way (e.g. as a shadow instead of gray color). These phenomena are also known as optical illusions . Because of their contextuality, they are especially hard to model; color appearance models that try to do this are referred to as image color appearance models (iCAM) .
+
+Since the color appearance parameters and color appearance phenomena are numerous and the task is complex, there is no single color appearance model that is universally applied; instead, various models are used.
+
+This section lists some of the color appearance models in use. The chromatic adaptation transforms for some of these models are listed in LMS color space .
+
+In 1976, the CIE set out to replace the many existing, incompatible color difference models by a new, universal model for color difference. They tried to achieve this goal by creating a perceptually uniform color space (UCS), i.e. a color space where identical spatial distance between two colors equals identical amount of perceived color difference. Though they succeeded only partially, they thereby created the CIELAB (“L*a*b*”) color space which had all the necessary features to become the first color appearance model. While CIELAB is a very rudimentary color appearance model, it is one of the most widely used because it has become one of the building blocks of color management with ICC profiles . Therefore, it is basically omnipresent in digital imaging.
+
+One of the limitations of CIELAB is that it does not offer a full-fledged chromatic adaptation in that it performs the von Kries transform method directly in the XYZ color space (often referred to as “wrong von Kries transform”), instead of changing into the LMS color space first for more precise results. ICC profiles circumvent this shortcoming by using the Bradford transformation matrix to the LMS color space (which had first appeared in the LLAB color appearance model ) in conjunction with CIELAB.
+
+Due to the "wrong" transform, CIELAB is known to perform poorly when a non-reference white point is used, making it a poor CAM even for its limited inputs. The wrong transform also seems responsible for its irregular blue hue, which bends towards purple as L changes, making it also a non-perfect UCS.
+
+The Nayatani et al. color appearance model focuses on illumination engineering and the color rendering properties of light sources.
+
+The Hunt color appearance model focuses on color image reproduction (its creator worked in the Kodak Research Laboratories ). Development already started in the 1980s and by 1995 the model had become very complex (including features no other color appearance model offers, such as incorporating rod cell responses) and allowed to predict a wide range of visual phenomena. It had a very significant impact on CIECAM02 , but because of its complexity the Hunt model itself is difficult to use.
+
+RLAB tries to improve upon the significant limitations of CIELAB with a focus on image reproduction. It performs well for this task and is simple to use, but not comprehensive enough for other applications.
+
+Unlike CIELAB, RLAB uses a proper von Kries step. It also allows for tuning the degree of adaptation by allowing a customized D value. "Discounting-the-illuminant" can still be used by using a fixed value of 1.0.
+
+LLAB is similar to RLAB , also tries to stay simple, but additionally tries to be more comprehensive than RLAB. In the end, it traded some simplicity for comprehensiveness, but was still not fully comprehensive. Since CIECAM97s was published soon thereafter, LLAB never gained widespread usage.
+
+After starting the evolution of color appearance models with CIELAB , in 1997, the CIE wanted to follow up itself with a comprehensive color appearance model. The result was CIECAM97s, which was comprehensive, but also complex and partly difficult to use. It gained widespread acceptance as a standard color appearance model until CIECAM02 was published.
+
+Ebner and Fairchild addressed the issue of non-constant lines of hue in their color space dubbed IPT . The IPT color space converts D65 -adapted XYZ data (XD65, YD65, ZD65) to long-medium-short cone response data (LMS) using an adapted form of the Hunt–Pointer–Estevez matrix (M HPE(D65) ).
+
+The IPT color appearance model excels at providing a formulation for hue where a constant hue value equals a constant perceived hue independent of the values of lightness and chroma (which is the general ideal for any color appearance model, but hard to achieve). It is therefore well-suited for gamut mapping implementations.
+
+ITU-R BT.2100 includes a color space called ICtCp , which improves the original IPT by exploring higher dynamic
+range and larger colour gamuts. ICtCp can be transformed into an approximately uniform color space by scaling Ct by 0.5. This transformed color space is the basis of the Rec. 2124 wide gamut color difference metric ΔE ITP .
+
+After the success of CIECAM97s , the CIE developed CIECAM02 as its successor and published it in 2002. It performs better and is simpler at the same time. Apart from the rudimentary CIELAB model, CIECAM02 comes closest to an internationally agreed upon “standard” for a (comprehensive) color appearance model.
+
+Both CIECAM02 and CIECAM16 have some undesirable numerical properties when implemented to the letter of the specification.
+
+iCAM06 is an image color appearance model . As such, it does not treat each pixel of an image independently, but in the context of the complete image.  This allows it to incorporate spatial color appearance parameters like contrast, which makes it well-suited for HDR images.  It is also a first step to deal with spatial appearance phenomena .
+
+The CAM16 is a successor of CIECAM02 with various fixes and improvements. It also comes with a color space called CAM16-UCS. It is published by a CIE workgroup, but is not CIE standard. CIECAM16 standard was released in 2022 and is slightly different.
+
+CAM16 is used in the Material Design color system in a cylindrical version called "HCT" (hue, chroma, tone). The hue and chroma values are identical to CAM16. The "tone" value is CIELAB L*.
+
+A 2020 UCS designed for normal dynamic range color. Same structure as CIELAB, but fitted with improved data (CAM16 output for lightness and chroma; IPT data for hue). Meant to be easy to implement and use (especially from sRGB), just like CIELAB and IPT were, but with improvements to uniformity.
+
+As of September 2023, it is part of the CSS color level 4 draft and it is supported by recent versions of all major browsers.

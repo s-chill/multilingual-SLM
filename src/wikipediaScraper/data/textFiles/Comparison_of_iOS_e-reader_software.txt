@@ -1,0 +1,3 @@
+The following tables compare general and technical features for a number of iOS e-book reader software . Each section corresponds to a major area of functionality in an e-book reader software. The comparisons are based on the latest released version.
+
+See Comparison of e-book formats for details on the file formats.

@@ -1,0 +1,9 @@
+The cleanroom software engineering process is a software development process intended to produce software with a certifiable level of reliability . The central principles are software development based on formal methods, incremental implementation under statistical quality control, and statistically sound testing.
+
+The cleanroom process was originally developed by Harlan Mills and several of his colleagues including Alan Hevner at IBM .
+
+The cleanroom process first saw use in the mid to late 1980s. Demonstration projects within the military began in the early 1990s. Recent work on the cleanroom process has examined fusing cleanroom with the automated verification capabilities provided by specifications expressed in CSP .
+
+The focus of the cleanroom process is on defect prevention rather than defect removal. The name "cleanroom" was chosen to evoke the cleanrooms used in the electronics industry to prevent the introduction of defects during the fabrication of semiconductors .
+
+The basic principles of the cleanroom process are

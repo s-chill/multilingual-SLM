@@ -1,0 +1,41 @@
+A flat-file database is a database stored in a file called a flat file .  Records follow a uniform format, and there are no structures for indexing or recognizing relationships between records.  The file is simple.  A flat file can be a plain text file (e.g. csv , txt or tsv ), or a binary file .  Relationships can be inferred from the data in the database, but the database format itself does not make those relationships explicit.
+
+The term has generally implied a small database, but very large databases can also be flat.
+
+Plain text files usually contain one record per line.
+
+Examples of flat files include /etc/passwd and /etc/group on Unix-like operating systems. Another example of a flat file is a name-and-address list with the fields Name , Address , and Phone Number .
+
+A list of names, addresses, and phone numbers written by hand on a sheet of paper is a flat-file database. This can also be done with any typewriter or word processor . A spreadsheet or text editor program may be used to implement a flat-file database, which may then be printed or used online for improved search capabilities.
+
+Flat files are typically either delimiter-separated (such as comma-separated values (CSV) ) or fixed-width (each column has a fixed width).
+
+In delimiter-separated values files, fields are separated by a character or string called the delimiter . Common variants are CSV (delimiter is , ), tab-separated values (TSV) (delimiter is the tab character), space-separated values, and vertical-bar-separated values (delimiter is | ).
+
+If the delimiter is allowed inside a field, there needs to be a way to distinguish delimiters characters or strings that are meant literally. For example, consider the sentence "If I have to, I'll do it myself.". To encode it in CSV, there needs to be a way to prevent the comma from splitting the field. Several strategies to prevent delimiter collision exist.
+
+With fixed-width formats, each column has a fixed length, and fields are padded with spaces as needed. The fixed lengths can be predefined and known ahead of time (i.e. stated in the format's specification), or parsed from a header .
+
+With predefined lengths, fields are limited to a maximum length. The need for longer fields may appear sometime after the format is defined. Possible workarounds include abbreviating phrases, replacing values with links (e.g. a URI pointing to the value), and splitting a file into multiple files.
+
+With delimiter-separated formats, determining the field boundaries requires finding the delimiters, which incurs some computational overhead . This is not needed for fixed-width formats. However, fixed-width formats can lead to unnecessarily large file sizes if fields tend to be shorter than the lengths reserved for them.
+
+Delimiters can be used alongside a notation stating the length of each field. For example, 5apple|9pineapple specifies the length (5 and 9) of each field. This is called declarative notation . It has low overhead and trivially avoids delimiter collisions, but it is brittle when edited manually and is rarely used.
+
+Herman Hollerith 's work for the US Census Bureau first exercised in the 1890 United States Census , involving data tabulated via hole punches in paper cards, is sometimes considered the first computerized flat-file database, as it included no cards indexing other cards, or otherwise relating the individual cards to one another, save by their group membership.
+
+In the 1980s, configurable flat-file database computer applications were popular on the IBM PC and the Macintosh . These programs were designed to make it easy for individuals to design and use their own databases, and were almost on par with word processors and spreadsheets in popularity. Examples of flat-file database software include early versions of FileMaker and the shareware PC-File and the popular dBase .
+
+Flat-file databases are common and ubiquitous because they are easy to write and edit, and suit myriad purposes in an uncomplicated way.
+
+Linear stores of NoSQL data, JSON data, primitive spreadsheets (perhaps comma-separated or tab-delimited), and text files can all be seen as flat-file databases because they lack integrated indexes, built-in references between data elements, and complex data types. Programs to manage collections of books or appointments and address books may use single-purpose flat-file databases, storing and retrieving information from flat files unadorned with indexes or pointing systems.
+
+While a user can write a table of contents into a text file, the text file format itself does not include a concept of a table of contents. While a user may write "friends with Kathy" in the "Notes" section for John's contact information, this is interpreted by the user rather than a built-in feature of the database.  When a database system begins to recognize and codify relationships between records, it begins to drift away from being "flat," and when it has a detailed system for describing types and hierarchical relationships, it is now too structured to be considered "flat."
+
+The following example illustrates typical elements of a flat-file database. The data arrangement consists of a series of columns and rows organized into a tabular format . This specific example uses only one table.
+
+The columns include: name (a person's name, second column); team (the name of an athletic team supported by the person, third column); and a numeric unique ID , (used to uniquely identify records, first column).
+
+Here is an example textual representation of the described data:
+
+This type of data representation is quite standard for a flat-file database, although there are some additional considerations that are not readily apparent from the text:

@@ -1,0 +1,13 @@
+LEMON is an open source graph library written in the C++ language providing implementations of common data structures and algorithms with focus on combinatorial optimization tasks connected mainly with graphs and networks. The library is part of the COIN-OR project.
+
+LEMON is an abbreviation of L ibrary for E fficient M odeling and O ptimization in N etworks .
+
+LEMON employs genericity in C++ by using templates . The tools of the library are designed to be versatile, convenient and highly efficient. They can be combined easily to solve complex real-life optimization problems. For example, LEMON’s graphs can differ in many ways (depending on the representation and other specialities), but all have to satisfy one or more graph concepts, which are standardized interfaces to work with the rest of the library.
+
+LEMON provides
+
+LEMON also contains some metaheuristic optimization tools and provides a general high-level interface for several LP and MIP solvers, such as GLPK , ILOG CPLEX , CLP , CBC , SoPlex .
+
+LEMON has its own graph storing format, the so called Lemon Graph Format and includes general EPS drawing methods and special graph exporting tools.
+
+LEMON also includes several miscellaneous tools. For example, it provides simple tools for measuring the performance of algorithms, which can be used to compare different implementations of the same problem.

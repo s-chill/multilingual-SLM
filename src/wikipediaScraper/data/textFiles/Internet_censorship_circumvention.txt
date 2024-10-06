@@ -1,0 +1,83 @@
+Internet censorship circumvention , also referred to as going over the wall ( Chinese : 翻墙 ; pinyin : fān qiáng ) or scientific browsing ( Chinese : 科学上网 ; pinyin : kēxué shàngwǎng ) in China , is the use of various methods and tools to bypass internet censorship .
+
+There are many different techniques to bypass such censorship, each with unique challenges regarding ease of use, speed, and security risks. Examples of commonly used tools include Lantern and Psiphon, which combine various approaches to bypass multiple types of safeguards. Some methods, such as the use of alternate DNS servers , use false addresses or address lookup systems to evade less sophisticated blocking tools while the user accesses the site. The drawback of this method is that many censors block the IP address of restricted domains in addition to the DNS, rendering the bypass ineffective. Other tools circumvent the tunnel network traffic to proxies from other jurisdictions that do not fall under the same censorship laws. Through the use of technology such as pluggable transports, traffic obscuration, website mirrors , or archive sites , copies of the site available at other locations can be accessed within regions under internet censorship.
+
+An arms race has developed between censors and developers of circumvention software, resulting in more sophisticated blocking techniques by censors and the development of harder-to-detect tools by tool developers. Estimates of adoption of circumvention tools vary substantially and are disputed, but are widely understood to be in the tens of millions of monthly active users. Barriers to adoption can include usability issues, difficulty finding reliable and trustworthy information about circumvention, lack of desire to access censored content, and risks from breaking the law.
+
+There are many methods available that may allow the circumvention of Internet filtering, which can widely vary in terms of implementation difficulty, effectiveness, and resistance to detection.
+
+Filters may block specific domain names, either using DNS hijacking or URL filtering. Sites are sometimes accessible through alternate names and addresses that may not be blocked.
+
+Some websites may offer the same content at multiple pages or domain names. For example, the English Wikipedia is available at Main Page , and there is also a mobile-formatted version at Wikipedia, the free encyclopedia .
+
+If DNS resolution is disrupted but the site is not blocked in other ways, it may be possible to access a site directly through its IP address or modifying the host file . Using alternative DNS servers, or public recursive name servers (especially when used through an encrypted DNS client), may bypass DNS-based blocking.
+
+Censors may block specific IP addresses. Depending on how the filtering is implemented, it may be possible to use different forms of the IP address, such as by specifying the address in a different base. For example, the following URLs all access the same site, although not all browsers will recognize all forms: http://1.1.1.1/ (dotted decimal), http://16843009/ (decimal), http://0001.0001.0001.0001/ (dotted octal), [1] (hexadecimal), and http://0x01.0x01.0x01.0x01/ (dotted hexadecimal).
+
+Blockchain technology is an attempt to decentralize namespaces outside the control of a single entity. Decentralized namespaces enable censorship resistant domains. The BitDNS discussion began in 2010 with a desire to achieve names that are decentralized, secure and human readable.
+
+Cached pages: Some search engines keep copies of previously indexed webpages, or cached pages , which are often hosted by search engines and may not be blocked. For example, Google allows the retrieval of cached pages by entering "cache: some-url " as a search request.
+
+Mirror and archive sites: Copies of web sites or pages may be available at mirror or archive sites such as the Internet Archive's Wayback Machine or Archive.today . The Docker Registry Image Repository is a centralized storage, application stateless, and node scalable HTTP public service and has a performance bottleneck in the multinational upload and download scenario. Decentralized Docker Registry avoids this centralization drawback. DDR uses a network-structured P2P network to store and query mirror manifest file and blob routing, while each node serves as an independent mirror repository to provide mirror upload and download for the entire network.
+
+RSS aggregators: RSS aggregators such as Feedly may be able to receive and pass on RSS feeds that are blocked when accessed directly.
+
+Decentralized Hosting: Content creators may publish to an alternative platform which is willing to host ones content. Napster was the first peer to peer platform but was closed due to centralized bootstrapping vulnerabilities. Gnutella was the first sustainable platform hosting by decentralization. Freenet's model is that "true freedom requires true anonymity." Later, BitTorrent was developed to allocate resources with high performance and fairness. ZeroNet was the first DHT to support dynamic and updateable webpages. YaCy is the leading distributed search.
+
+Anonymity Networks: The anonymity Tor network and I2P provides leads to more willingness to host content that would otherwise be censored. However hosting implementation and location may bring issues, and the content is still hosted by a single entity which can be controlled.
+
+Federated: Being semi-decentralized, federated platforms such as Nextcloud and IRC make it easier for users to find an instance where they are welcomed. Providers with a different policy: Some platforms relying on the Cloud may have more lax TOS . However nothing by design keeps it so.
+
+See: Darknets
+
+Web proxies : Proxy websites are configured to allow users to load external web pages through the proxy server , permitting the user to load the page as if it is coming from the proxy server and not the (blocked) source. However, depending on how the proxy is configured, a censor may be able to determine the pages loaded and/or determine that the user is using a proxy server.
+
+For example, the mobile Opera Mini browser uses a proxy-based approach employing encryption and compression in order to speed up downloads. This has the side effect of allowing it to circumvent several approaches to Internet censorship. In 2009 this led the government of China to ban all but a special Chinese version of the browser.
+
+Domain fronting: Circumvention software can implement a technique called domain fronting , where the destination of a connection is hidden by passing the initial requests through a content delivery network or other popular site which censors may be unwilling to block. This technique was used by messaging applications including Signal and Telegram. Tor's meek uses Microsoft's Azure cloud. However, large cloud providers such as Amazon Web Services and Google Cloud no longer permit its use. Website owners can use a free account to use a Cloudflare domain for fronting.
+
+SSH tunneling: By establishing an SSH tunnel , a user can forward all their traffic over an encrypted channel, so both outgoing requests for blocked sites and the response from those sites are hidden from the censors, for whom it appears as unreadable SSH traffic.
+
+Virtual private network (VPN) : Using a VPN , a user who experiences internet censorship can create a secure connection to a more permissive country, and browse the internet as if they were situated in that country. Some services are offered for a monthly fee; others are ad-supported. According to GlobalWebIndex in 2014 there were over 400 million people using virtual private networks to circumvent censorship or for increased level of privacy, although this number is not verifiable.
+
+Tor : More advanced tools such as Tor route encrypted traffic through multiple servers to make the source and destination of traffic less traceable. It can in some cases be used to avoid censorship, especially when configured to use traffic obfuscation techniques.
+
+A censor may be able to detect and block use of circumvention tools through Deep Packet Inspection . There are efforts to make circumvention tools less detectable by randomizing the traffic, attempting to mimic a whitelisted protocol or tunneling traffic through a whitelisted site by using techniques including domain fronting or Meek. Tor and other circumvention tools have adopted multiple obfuscation techniques that users can use depending on the nature of their connection, which are sometimes called "Pluggable Transports".
+
+Functionality that people may be after might overlap with non-internet services, such as traditional mail , Bluetooth, or walkie-talkies . The following are some detailed examples:
+
+Datacasting allows transmission of Web pages and other information via satellite broadcast channels bypassing the Internet entirely. This requires a satellite dish and suitable receiver hardware but provides a powerful means of avoiding censorship. Because the system is entirely receive only for the end user, a suitably air-gapped computer can be impossible to detect.
+
+A sneakernet is the transfer of electronic information, especially computer files, by physically carrying data on storage media from one place to another. A sneakernet can move data regardless of network restrictions simply by not using the network at all. One example of a widely adopted sneakernet network is El Paquete Semanal in Cuba.
+
+Circumvention tools have seen spikes in adoption in response to high-profile blocking attempts, however, studies measuring adoption of circumvention tools in countries with persistent and widespread censorship report mixed results.
+
+Measures and estimates of circumvention tool adoption have reported widely divergent results. A 2010 study by Harvard University researchers estimated that very few users use censorship circumvention tools—likely less than 3% of users even in countries that consistently implement widespread censorship. Other studies have reported substantially larger estimates, but have been disputed.
+
+In China, anecdotal reports suggest that adoption of circumvention tools is particularly high in certain communities, such as universities, and a survey by Freedom House found that users generally did not find circumvention tools to be difficult to use. Market research firm GlobalWebIndex has reported that there are over 35 million Twitter users and 63 million Facebook users in China (both services are blocked). However, these estimates have been disputed; Facebook's advertising platform estimates 1 million users in China, and other reports of Twitter adoption estimate 10 million users. Other studies have pointed out that efforts to block circumvention tools in China have reduced adoption of those tools; the Tor network previously had over 30,000 users connecting from China but as of 2014 had only approximately 3,000 Chinese users.
+
+In Thailand , internet censorship has existed since 2002, and there is sporadic and inconsistent filtering. In a small-scale survey of 229 Thai internet users, a research group at the University of Washington found that 63% of surveyed users attempted to use circumvention tools, and 90% were successful in using those tools. Users often made on-the-spot decisions about use of circumvention tools based on limited or unreliable information, and had a variety of perceived threats, some more abstract and others more concrete based on personal experiences.
+
+In response to the 2014 blocking of Twitter in Turkey , information about alternate DNS servers was widely shared, as using another DNS server such as Google Public DNS allowed users to access Twitter. The day after the block, the total number of posts made in Turkey was up 138%, according to Brandwatch , an internet measurement firm.
+
+After an April 2018 ban on the Telegram messaging app in Iran, web searches for VPN and other circumvention software increased as much as 48x for some search terms, but there was evidence that users were downloading unsafe software. As many as a third of Iranian internet users used the Psiphon tool in the days immediately following the block, and in June 2018 as many as 3.5 million Iranian users continued to use the tool.
+
+Circumvention and anonymity are different. Circumvention systems are designed to bypass blocking, but they do not usually protect identities. Anonymous systems protect a user's identity, and while they can contribute to circumvention, that is not their primary function. Open public proxy sites do not provide anonymity and can view and record the location of computers making requests as well as the websites accessed.
+
+In many jurisdictions accessing blocked content is a serious crime , particularly content that is considered to be child pornography , a threat to national security , or an incitement of violence. Thus it is important to understand the circumvention technologies and the protections they do or do not provide and to use only tools that are appropriate in a particular context. Great care must be taken to install, configure, and use circumvention tools properly. Individuals associated with high-profile rights organizations, dissident , protest, or reform groups should take extra precautions to protect their online identities.
+
+Circumvention sites and tools should be provided and operated by trusted third parties located outside the censoring jurisdiction that do not collect identities and other personal information. Trusted family and friends personally known to the circumventor are best, but when family and friends are not available, sites and tools provided by individuals or organizations that are only known by their reputations or through the recommendations and endorsement of others may need to be used. Commercial circumvention services may provide anonymity while surfing the Internet, but could be compelled by law to make their records and users' personal information available to law enforcement.
+
+There are five general types of Internet censorship circumvention software:
+
+CGI proxies use a script running on a web server to perform the proxying function. A CGI proxy client sends the requested url embedded within the data portion of an HTTP request to the CGI proxy server. The CGI proxy server pulls the ultimate destination information from the data embedded in the HTTP request, sends out its own HTTP request to the ultimate destination, and then returns the result to the proxy client. A CGI proxy tool's security can be trusted as far as the operator of the proxy server can be trusted. CGI proxy tools require no manual configuration of the browser or client software installation, but they do require that the user use an alternative, potentially confusing browser interface within the existing browser.
+
+HTTP proxies send HTTP requests through an intermediate proxying server. A client connecting through a HTTP proxy sends exactly the same HTTP request to the proxy as it would send to the destination server unproxied. The HTTP proxy parses the HTTP request; sends its own HTTP request to the ultimate destination server; and then returns the response back to the proxy client. An HTTP proxy tool's security can be trusted as far as the operator of the proxy server can be trusted. HTTP proxy tools require either manual configuration of the browser or client side software that can configure the browser for the user. Once configured, an HTTP proxy tool allows the user transparently to use his normal browser interface.
+
+Application proxies are similar to HTTP proxies, but support a wider range of online applications.
+
+Peer-to-peer systems store content across a range of participating volunteer servers combined with technical techniques such as re-routing to reduce the amount of trust placed on volunteer servers or on social networks to establish trust relationships between server and client users. Peer-to-peer system can be trusted as far as the operators of the various servers can be trusted or to the extent that the architecture of the peer-to-peer system limits the amount of information available to any single server and the server operators can be trusted not to cooperate to combine the information they hold.
+
+Re-routing systems send requests and responses through a series of proxying servers, encrypting the data again at each proxy, so that a given proxy knows at most either where the data came from or is going to, but not both. This decreases the amount of trust required of the individual proxy hosts.
+
+Below is a list of different Internet censorship circumvention software:

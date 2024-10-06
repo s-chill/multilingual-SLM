@@ -1,0 +1,12 @@
+ISAAC ( indirection, shift, accumulate, add, and count ) is a cryptographically secure pseudorandom number generator and a stream cipher designed by Robert J. Jenkins Jr. in 1993. The reference implementation source code was dedicated to the public domain .
+
+"I developed (...) tests to break a generator, and I developed the generator to pass the tests. The generator is ISAAC."
+
+The ISAAC algorithm has similarities with RC4 . It uses an array of 256 four-octet integers as the internal state, writing the results to another 256 four-octet integer array, from which they are read one at a time until empty, at which point they are recomputed. The computation consists of altering i -element with ( i ⊕128)-element, two elements of the state array found by indirection, an accumulator, and a counter, for all values of i from 0 to 255. Since it only takes about 19 32-bit operations for each 32-bit output word, it is very fast on 32-bit computers.
+
+Cryptanalysis has been undertaken by Marina Pudovkina (2001). Her attack can recover the initial state with a complexity that is approximated to be less than the time needed for searching through the square root of all possible initial states. In practice this means that the attack needs 4.67 × 10 1240 {\displaystyle 4.67\times 10^{1240}} instead of 10 2466 {\displaystyle 10^{2466}} . This result has had no practical impact on the security of ISAAC.
+
+In 2006 Jean-Philippe Aumasson discovered several sets of weak states. The fourth presented (and smallest) set of weak states leads to a highly biased output for the first round of ISAAC and allows the derivation of the internal state, similar to a weakness in RC4 . It is not clear if an attacker can tell from just the output whether the generator is in one of these weak states or not. He also shows that a previous attack is flawed, since the Paul - Preneel attack is based on an erroneous algorithm rather than the real ISAAC.
+An improved version of ISAAC is proposed, called ISAAC+.
+
+Many implementations of ISAAC are so fast that they can compete with other high speed PRNGs, even with those designed primarily for speed not for security. Only a few other generators of such high quality and speed exist in usage. ISAAC is used in the Unix tool shred to securely overwrite data. Also ISAAC algorithm is implemented in Java Apache Commons Math library.

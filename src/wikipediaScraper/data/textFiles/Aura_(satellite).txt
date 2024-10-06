@@ -1,0 +1,25 @@
+Aura ( EOS CH-1 ) is a multi-national NASA scientific research satellite in orbit around the Earth , studying the Earth's ozone layer , air quality and climate . It is the third major component of the Earth Observing System (EOS) following on Terra (launched 1999) and Aqua (launched 2002). Aura follows on from the Upper Atmosphere Research Satellite (UARS) . Aura is a joint mission between NASA, the Netherlands, Finland, and the U.K. The Aura spacecraft is healthy and is expected to operate until at least 2023, likely beyond.
+
+The name " Aura " comes from the Latin word for air. The satellite was launched from Vandenberg Air Force Base on July 15, 2004, aboard a Delta II 7920-10L rocket .
+
+The Aura spacecraft has a mass of about  1,765 kg (3,891 lb). The body is 6.9 m (23 ft) long with the extended single solar panel about 15 m (49 ft) long.
+
+Aura flies in a Sun-synchronous orbit , in formation with three other satellites, collectively known as the " A Train "; it is last in the formation. The other satellites in the formation are:
+
+All satellites have an equatorial crossing time at about 1:30 in the afternoon, thus the name 'A (Afternoon) Train'.
+
+As of 2015, there had been 1589 Aura-related journal articles. The scientific findings of these studies address key NASA research objectives related to stratospheric composition, air quality, and climate change.
+
+Aura has suffered some minor, non-mission ending anomalies.
+
+On January 12, 2005, a solar array connector partially "unzipped" losing temperature telemetry and power from part of the solar array. On March 12, 2010, Aura lost power from one-half of one of the 11 solar panels and this was attributed to a Micrometeoroid Orbital Debris (MMOD) strike. These events, and 9 other anomalies in the array regulation electronics (ARE), have resulted in an estimated loss of 33 out of 132 solar strings. Nonetheless, the mission is estimated to have ample power capabilities to supply the mission until fuel runs out.
+
+A Formatter Multiplexer Unit (FMU) / Solid State Recorder (SSR) anomaly was first detected in December 2007. New symptoms were detected in January 2017 and starting on March 21, 2017, Aura no longer recorded housekeeping data to partition 31.
+
+In December 2016, reaction wheel #3 spun down. It was recovered 10 days later.
+
+On January 31, 2018, the TES instrument was decommissioned due to degrading operations. A mechanical arm on the instrument began stalling intermittently in 2010, affecting TES's ability to collect data continuously. Despite the adaptations of TES operators, the degradation got worse with time and in 2017 the instrument lost operations for approximately half the year. It will continue to receive enough power to keep it from getting too cold which could affect the two remaining functioning instruments.
+
+As of 2020, the expected constellation exit date is December 2023. An extended mission, below the A-train could push decommissioning back to late 2025 or as far as 2036. Predicted re-entry would be 2048.
+
+Aura carries four instruments for studies of atmospheric chemistry:

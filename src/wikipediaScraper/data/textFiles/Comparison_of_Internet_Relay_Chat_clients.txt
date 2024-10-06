@@ -1,0 +1,19 @@
+The following tables compare general and technical information between a number of notable IRC client programs which have been discussed in independent, reliable prior published sources.
+
+Basic general information about the notableclients: creator/company, license, etc. Clients listed on a light purple background are no longer in active development.
+
+A brief overview of the release history.
+
+The operating systems on which the clients can run natively (without emulation).
+
+Unix and Unix-like operating systems:
+
+What IRC related protocols and standards are supported by each client.
+
+The Direct Client-to-Client Protocol (DCC) has been the primary method of establishing connections directly between IRC clients for a long time now. Once established, DCC connections bypass the IRC network and servers, allowing for all sorts of data to be transferred between clients including files and direct chat sessions.
+
+This software is compliant natively; other software may be compliant with extensions.
+
+IRC SASL authentication primarily uses the same mechanisms as SASL in other protocols. Most commonly:
+
+Information on what features each of the clients support.

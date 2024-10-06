@@ -1,0 +1,7 @@
+A Meinü robot is a Chinese fembot that was reported on in Chinese news sources in 2006. In Mandarin, Měinǚ Jīqìrén 美女机器人 literally means "beautiful-woman robot" and is officially translated "beauty robot".  The first Meinü was later named Miss Rong Cheng .
+
+The unit is capable of locomotion, using visual navigation to avoid obstacles, speech recognition , emotion recognition (whether audio or gestural is not stated), and speaking.  It speaks English, Standard Chinese and Sichuanese Mandarin , and can recognize and respond to 1,000 words. It can tell jokes, sing songs, etc. It is intended for tour-guide applications, businesses and hotels, advertising, and possibly for TV-show hosting. Rong Cheng is 163 cm tall and weighs 60 kg.
+
+Rong Cheng was sent to the Sichuan Science and Technology Museum to be a receptionist or tour guide. The first copy build cost was approximately 300,000 yuan ($37,500), but the inventors expect this could be reduced to a third of that if 100 were to be produced.  Only one year of research was required to produce it, which suggests it was built upon other projects.
+
+It was worked on by 10 researchers from the Robot Research Center at the Institute of Automation, Chinese Academy of Sciences .  ChinaDaily's English edition named the principal designer as Li Chengrong, whereas Reuters and Sina English said it was Yue Hongqiang.

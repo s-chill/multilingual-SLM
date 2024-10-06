@@ -1,0 +1,15 @@
+A Q meter is a piece of equipment used in the testing of radio frequency circuits. It has been largely replaced in professional laboratories by other types of impedance measuring devices, though it is still in use among radio amateurs. It was developed at Boonton Radio Corporation in Boonton, New Jersey in 1934 by William D. Loughlin .
+
+A Q meter measures the quality factor of a circuit, Q , which expresses how much energy is dissipated per cycle in a non-ideal reactive circuit:
+
+This expression applies to an RF and microwave filter , bandpass LC filter , or any resonator. It also can be applied to an inductor or capacitor at a chosen frequency. For inductors
+
+Where X L {\displaystyle X_{L}} is the reactance of the inductor, L {\displaystyle L} is the inductance, ω {\displaystyle \omega } is the angular frequency and R {\displaystyle R} is the resistance of the inductor. The resistance R {\displaystyle R} represents the loss in the inductor, mainly due to the resistance of the wire. A Q meter works on the principle of series resonance.
+
+For LC band pass circuits and filters:
+
+Where F {\displaystyle F} is the resonant frequency (center frequency) and B W {\displaystyle BW} is the filter bandwidth. In a band pass filter using an LC resonant circuit , when the loss (resistance) of the inductor increases, its Q factor is reduced, and so the bandwidth of the filter is increased. In a coaxial cavity filter, there are no inductors and capacitors, but the cavity has an equivalent LC model with losses (resistance) and the Q factor can be applied as well.
+
+Internally, a minimal Q meter consists of a tuneable RF generator with a very low (pass) impedance output and a detector with a very high impedance input. There is usually provision to add a calibrated amount of high Q capacitance across the component under test to allow inductors to be measured in isolation. The generator is effectively placed in series with the tuned circuit formed by the components under test, and having negligible output resistance, does not materially affect the Q factor, while the detector measures the voltage developed across one element (usually the capacitor) and being high impedance in shunt does not affect the Q factor significantly either.
+
+The ratio of the developed RF voltage to the applied RF current, coupled with knowledge of the reactive impedance from the resonant frequency, and the source impedance, allows the Q factor to be directly read by scaling the detected voltage.

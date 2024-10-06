@@ -1,0 +1,5 @@
+Software configuration management ( SCM ), a.k.a. software change and configuration management ( SCCM ), is the software engineering practice of tracking and controlling changes to a software system ; part of the larger cross-disciplinary field of configuration management (CM). SCM includes version control and the establishment of baselines .
+
+The goals of SCM include:
+
+With the introduction of cloud computing and DevOps the purposes of SCM tools have become merged in some cases.  The SCM tools themselves have become virtual appliances that can be instantiated as virtual machines and saved with state and version.  The tools can model and manage cloud-based virtual resources, including virtual appliances, storage units, and software bundles.  The roles and responsibilities of the actors have become merged as well with developers now being able to dynamically instantiate virtual servers and related resources.

@@ -1,0 +1,123 @@
+Drinking water or potable water is water that is safe for ingestion , either when drunk directly in liquid form or consumed indirectly through food preparation . It is often (but not always) supplied through taps, in which case it is also called tap water . Typically in developed countries , tap water meets drinking water quality standards , even though only a small proportion is actually consumed or used in food preparation. Other typical uses for tap water include washing, toilets, and irrigation . Greywater may also be used for toilets or irrigation. Its use for irrigation however may be associated with risks.
+
+The amount of drinking water required to maintain good health varies, and depends on physical activity level, age, health-related issues, and environmental conditions. For those who work in a hot climate, up to 16 litres (4.2 US gal) a day may be required.
+
+Globally, by 2015, 89% of people had access to water from a source that is suitable for drinking – called improved water sources . In sub-Saharan Africa , access to potable water ranged from 40% to 80% of the population. Nearly 4.2 billion people worldwide had access to tap water, while another 2.4 billion had access to wells or public taps. The World Health Organization considers access to safe drinking-water a basic human right.
+
+About 1 to 2 billion people lack safe drinking water. Water can carry vectors of disease . More people die from unsafe water than from war, then- U.N. secretary-general Ban Ki-moon said in 2010. Developing countries are most affected by unsafe drinking water.
+
+Potable water is available in almost all populated areas of the Earth, although it may be expensive, and the supply may not always be sustainable. Sources where drinking water is commonly obtained include springs , hyporheic zones and aquifers ( groundwater ), from rainwater harvesting , surface water (from rivers, streams, glaciers ), or desalinated seawater .
+
+For these water sources to be consumed safely, they must receive adequate water treatment and meet drinking water quality standards .
+
+An experimental source is atmospheric water generators .
+
+Springs are often used as sources for bottled waters .
+
+The most efficient and convenient way to transport and deliver potable water is through pipes. Plumbing can require significant capital investment. Some systems suffer high operating costs. The cost to replace the deteriorating water and sanitation infrastructure of industrialized countries may be as high as $200 billion a year. Leakage of untreated and treated water from pipes reduces access to water. Leakage rates of 50% are not uncommon in urban systems.
+
+Tap water , delivered by domestic water systems refers to water piped to homes and delivered to a tap or spigot.
+
+In the United States, the typical water consumption per capita, at home, is 69.3 US gallons (262 L; 57.7 imp gal) of water per day. Of this, only 1% of the water provided by public water suppliers is for drinking and cooking. Uses include (in decreasing order) toilets, washing machines, showers, baths, faucets, and leaks.
+
+As of 2015, American households use an average of 300 gallons of water a day.
+
+The qualitative and quantitative aspects of drinking water requirements on domesticated animals are studied and described within the context of animal husbandry . However, relatively few studies have been focused on the drinking behavior of wild animals.
+
+According to the World Health Organization's 2017 report, safe drinking water is water that "does not represent any significant risk to health over a lifetime of consumption, including different sensitivities that may occur between life stages".
+
+According to a report by UNICEF and UNESCO , Finland has the best drinking water quality in the world.
+
+Parameters for drinking water quality typically fall within three categories: microbiological, chemical, physical.
+
+Microbiological parameters include coliform bacteria , E. coli , and specific pathogenic species of bacteria (such as cholera -causing Vibrio cholerae ), viruses , and protozoan parasites . Originally, fecal contamination was determined with the presence of coliform bacteria , a convenient marker for a class of harmful fecal pathogens . The presence of fecal coliforms (like E. Coli ) serves as an indication of contamination by sewage . Additional contaminants include protozoan oocysts such as Cryptosporidium sp. , Giardia lamblia , Legionella , and viruses (enteric). Microbial pathogenic parameters are typically of greatest concern because of their immediate health risk.
+
+Physical and chemical parameters include heavy metals , trace organic compounds , total suspended solids , and turbidity . Chemical parameters tend to pose more of a chronic health risk through buildup of heavy metals although some components like nitrates/nitrites and arsenic can have a more immediate impact. Physical parameters affect the aesthetics and taste of the drinking water and may complicate the removal of microbial pathogens.
+
+Pesticides are also potential drinking water contaminants of the category chemical contaminants . Pesticides may be present in drinking water in low concentrations, but the toxicity of the chemical and the extent of human exposure are factors that are used to determine the specific health risk.
+
+Perfluorinated alkylated substances (PFAS) are a group of synthetic compounds used in a large variety of consumer products, such as food packaging , waterproof fabrics, carpeting and cookware. PFAS are known to persist in the environment and are commonly described as persistent organic pollutants . PFAS chemicals have been detected in blood, both humans and animals, worldwide, as well as in food products, water, air and soil. Animal testing studies with PFAS have shown effects on growth and development, and possibly effects on reproduction, thyroid, the immune system and liver. As of 2022 the health impacts of many PFAS compounds are not understood. Scientists are conducting research to determine the extent and severity of impacts from PFAS on human health. PFAS have been widely detected in drinking water worldwide and regulations have been developed, or are under development, in many countries.
+
+Drinking water quality standards describes the quality parameters set for drinking water. Water may contain many harmful constituents , yet there are no universally recognized and accepted international standards for drinking water. Even where standards do exist, the permitted concentration of individual constituents may vary by as much as ten times from one set of standards to another. Many countries specify standards to be applied in their own country. In Europe, this includes the European Drinking Water Directive and in the United States, the United States Environmental Protection Agency (EPA) establishes standards as required by the Safe Drinking Water Act . China adopted its own drinking water standard GB3838-2002 (Type II) enacted by Ministry of Environmental Protection in 2002. For countries without a legislative or administrative framework for such standards, the World Health Organization publishes guidelines on the standards that should be achieved.
+
+Contaminated water is estimated to result in more than half a million deaths per year. Contaminated water together with the lack of sanitation was estimated to cause about one percent of disability adjusted life years worldwide in 2010. According to the WHO, the most common diseases linked with poor water quality are cholera , diarrhea , dysentery , hepatitis A , typhoid , and polio .
+
+One of the main causes for contaminated drinking water in developing countries is lack of sanitation and poor hygiene. For this reason, the quantification of the burden of disease from consuming contaminated drinking water usually looks at water, sanitation and hygiene aspects together. The acronym for this is WASH - standing for water, sanitation and hygiene .
+
+The WHO has investigated which proportion of death and disease worldwide can be attributed to insufficient WASH services. In their analysis they focus on the following four health outcomes: diarrhea , acute respiratory infections , undernutrition , and soil-transmitted helminthiases (STHs). These health outcomes are also included as an indicator for achieving Sustainable Development Goal 3 ("Good Health and Wellbeing"): Indicator 3.9.2 reports on the "mortality rate attributed to unsafe water, sanitation, and lack of hygiene".
+
+Diarrhea is primarily transmitted through fecal–oral routes . In 2011, infectious diarrhea resulted in about 0.7 million deaths in children under five years old and 250 million lost school days. This equates to about 2000 child deaths per day. Children suffering from diarrhea are more vulnerable to become underweight (due to stunted growth ). This makes them more vulnerable to other diseases such as acute respiratory infections and malaria . Chronic diarrhea can have a negative effect on child development (both physical and cognitive).
+
+Sixty million people are estimated to have been poisoned by well water contaminated by excessive fluoride , which dissolved from granite rocks. The effects are particularly evident in the bone deformations of children. Similar or larger problems are anticipated in other countries including China, Uzbekistan, and Ethiopia. Although helpful for dental health in low dosage, fluoride in large amounts interferes with bone formation.
+
+Long-term consumption of water with high fluoride concentration (> 1.5 ppm F) can have serious undesirable consequences such as dental fluorosis , enamel mottle and skeletal fluorosis , bone deformities in children. Fluorosis severity depends on how much fluoride is present in the water, as well as people's diet and physical activity. Defluoridation methods include membrane-based methods, precipitation, absorption, and electrocoagulation.
+
+Natural arsenic contamination of groundwater is a global threat with 140 million people affected in 70 countries globally.
+
+Some well-known examples of water quality problems with drinking water supplies include:
+
+Water supply can get contaminated by pathogens which may originate from human excreta , for example due to a breakdown or design fault in the sanitation system, or by chemical contaminants.
+
+Further examples of contamination include:
+
+Examples of chemical contamination include:
+
+Most water requires some treatment before use; even water from deep wells or springs. The extent of treatment depends on the source of the water. Appropriate technology options in water treatment include both community-scale and household-scale point-of-use (POU) designs. Only a few large urban areas such as Christchurch , New Zealand have access to sufficiently pure water of sufficient volume that no treatment of the raw water is required.
+
+In emergency situations when conventional treatment systems have been compromised, waterborne pathogens may be killed or inactivated by boiling but this requires abundant sources of fuel, and can be very onerous on consumers, especially where it is difficult to store boiled water in sterile conditions. Other techniques, such as filtration, chemical disinfection, and exposure to ultraviolet radiation (including solar UV) have been demonstrated in an array of randomized control trials to significantly reduce levels of water-borne disease among users in low-income countries, but these suffer from the same problems as boiling methods.
+
+Another type of water treatment is called desalination and is used mainly in dry areas with access to large bodies of saltwater.
+
+Publicly available treated water has historically been associated with major increases in life expectancy and improved public health . Water disinfection can greatly reduce the risks of waterborne diseases such as typhoid and cholera . Chlorination is currently the most widely used water disinfection method, although chlorine compounds can react with substances in water and produce disinfection by-products (DBP) that pose problems to human health. Local geological conditions affecting groundwater are determining factors for the presence of various metal ions , often rendering the water " soft " or " hard ".
+
+In the event of contamination of drinking water, government officials typically issue an advisory regarding water consumption. In the case of biological contamination , residents are usually advised to boil their water before consumption or to use bottled water as an alternative. In the case of chemical contamination , residents may be advised to refrain from consuming tap water entirely until the matter is resolved.
+
+The ability of point of use (POU) options to reduce disease is a function of both their ability to remove microbial pathogens if properly applied and such social factors as ease of use and cultural appropriateness. Technologies may generate more (or less) health benefit than their lab-based microbial removal performance would suggest.
+
+The current priority of the proponents of POU treatment is to reach large numbers of low-income households on a sustainable basis. Few POU measures have reached significant scale thus far, but efforts to promote and commercially distribute these products to the world's poor have only been under way for a few years.
+
+Solar water disinfection is a low-cost method of purifying water that can often be implemented with locally available materials. Unlike methods that rely on firewood , it has low impact on the environment.
+
+In many areas, low concentration of fluoride (< 1.0 ppm F) is intentionally added to tap water to improve dental health , although in some communities water fluoridation remains a controversial issue. (See water fluoridation controversy ).
+
+According to the World Health Organization (WHO), "access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection." In 1990, only 76 percent of the global population had access to drinking water. By 2015 that number had increased to 91 percent. In 1990, most countries in Latin America, East and South Asia, and Sub-Saharan Africa were well below 90%. In Sub-Saharan Africa, where the rates are lowest, household access ranges from 40 to 80 percent. Countries that experience violent conflict can have reductions in drinking water access: One study found that a conflict with about 2,500 battle deaths deprives 1.8% of the population of potable water.
+
+By 2015, 5.2 billion people representing 71% of the global population used safely managed drinking water services. As of 2017, 90% of people having access to water from a source that is suitable for drinking – called improved water source – and 71% of the world could access safely managed drinking water that is clean and available on-demand. Estimates suggest that at least 25% of improved sources contain fecal contamination. 1.8 billion people still use an unsafe drinking water source which may be contaminated by feces . This can result in infectious diseases , such as gastroenteritis , cholera , and typhoid , among others. Reduction of waterborne diseases and development of safe water resources is a major public health goal in developing countries. In 2017, almost 22 million Americans drank from water systems that were in violation of public health standards, which could contribute to citizens developing water-borne illnesses . Safe drinking water is an environmental health concern. Bottled water is sold for public consumption in most parts of the world.
+
+Improved sources are also monitored based on whether water is available when needed (5.8 billion people), located on premises (5.4 billion), free from contamination (5.4 billion), and within a 30-minute round trip. While improved water sources such as protected piped water are more likely to provide safe and adequate water as they may prevent contact with human excreta, for example, this is not always the case. According to a 2014 study, approximately 25% of improved sources contained fecal contamination.
+
+The population in Australia, New Zealand, North America and Europe have achieved nearly universal basic drinking water services.
+
+Because of the high initial investments, many less wealthy nations cannot afford to develop or sustain appropriate infrastructure, and as a consequence people in these areas may spend a correspondingly higher fraction of their income on water. 2003 statistics from El Salvador, for example, indicate that the poorest 20% of households spend more than 10% of their total income on water. In the United Kingdom, authorities define spending of more than 3% of one's income on water as a hardship.
+
+The WHO/ UNICEF Joint Monitoring Program (JMP) for Water Supply and Sanitation is the official United Nations mechanism tasked with monitoring progress towards the Millennium Development Goal (MDG) relating to drinking-water and sanitation (MDG 7, Target 7c), which is to: "Halve, by 2015, the proportion of people without sustainable access to safe drinking-water and basic sanitation".
+
+Access to safe drinking water is indicated by safe water sources. These improved drinking water sources include household connection, public standpipe , borehole condition, protected dug well, protected spring, and rain water collection. Sources that do not encourage improved drinking water to the same extent as previously mentioned include: unprotected wells, unprotected springs, rivers or ponds, vender-provided water, bottled water (consequential of limitations in quantity, not quality of water), and tanker truck water. Access to sanitary water comes hand in hand with access to improved sanitation facilities for excreta, such as connection to public sewer, connection to septic system, or a pit latrine with a slab or water seal.
+
+According to this indicator on improved water sources, the MDG was met in 2010, five years ahead of schedule. Over 2 billion more people used improved drinking water sources in 2010 than did in 1990. However, the job is far from finished. 780 million people are still without improved sources of drinking water, and many more people still lack safe drinking water. Estimates suggest that at least 25% of improved sources contain fecal contamination and an estimated 1.8 billion people globally use a source of drinking water that suffers from fecal contamination. The quality of these sources varies over time and often gets worse during the wet season. Continued efforts are needed to reduce urban-rural disparities and inequities associated with poverty; to dramatically increase safe drinking water coverage in countries in sub-Saharan Africa and Oceania; to promote global monitoring of drinking water quality; and to look beyond the MDG target towards universal coverage.
+
+Guidelines for the assessment and improvement of service activities relating to drinking water have been published in the form of drinking water quality standards such as ISO 24510.
+
+For example, the EU sets legislation on water quality. Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy , known as the water framework directive, is the primary piece of legislation governing water. This drinking water directive relates specifically to water intended for human consumption. Each member state is responsible for establishing the required policing measures to ensure that the legislation is implemented. For example, in the UK the Water Quality Regulations prescribe maximum values for substances that affect wholesomeness and the Drinking Water Inspectorate polices the water companies.
+
+To improve water quality, Japan's Ministry of Health revised its water quality standards, which were implemented in April 2004. Numerous professionals developed the drinking water standards. They also determined ways to manage the high quality water system. In 2008, improved regulations were conducted to improve the water quality and reduce the risk of water contamination.
+
+The Water Services Act 2021 brought Taumata Arowai' into existence as the new regulator of drinking water and waste water treatment in New Zealand. Initial activities including the establishment of a national register of water suppliers and establishing a network of accredited laboratories for drinking water and waste water analysis
+
+Singapore is a significant importer of water from neighbouring Malaysia but also has made great efforts to reclaim as much used water as possible to ensure adequate provision for the very crowded city-state. Their reclaimed water is marketed as NEWater . Singapore updated its water quality regulation in 2019, setting standards consistent with the WHO recommended standards. Monitoring is undertaken by the Environmental Public Health Department of the Singaporean Government
+
+In the United Kingdom regulation of water supplies is a devolved matter to the Welsh and Scottish Parliaments and the Northern Ireland Assembly .
+
+In England and Wales there are two water industry regulatory authorities.
+
+The functions and duties of the bodies are formally defined in the Water Industry Act 1991 (1991 c. 56) as amended by the Water Act 2003 (2003 c. 37) and the Water Act 2014 (2014 c. 21).
+
+In Scotland water quality is the responsibility of independent Drinking Water Quality Regulator (DWQR).
+
+In Northern Ireland the Drinking Water Inspectorate (DWI) regulates drinking water quality of public and private supplies. The current standards of water quality are defined in the Water Supply (Water Quality) Regulations (Northern Ireland) 2017.
+
+Drinking water quality in the United States is generally safe. In 2016, over 90 percent of the nation's community water systems were in compliance with all published U.S. Environmental Protection Agency (US EPA) standards. Over 286 million Americans get their tap water from a community water system. Eight percent of the community water systems—large municipal water systems—provide water to 82 percent of the US population. The Safe Drinking Water Act requires the US EPA to set standards for drinking water quality in public water systems (entities that provide water for human consumption to at least 25 people for at least 60 days a year). Enforcement of the standards is mostly carried out by state health agencies. States may set standards that are more stringent than the federal standards.
+
+Despite improvements in water quality regulations, disparities in access to clean drinking water persist in marginalized communities. A 2017 study by the Natural Resources Defense Council (NRDC) highlighted that rural areas and low-income neighborhoods are disproportionately affected by water contamination, often due to aging infrastructure and inadequate funding for water systems. These inequities underscore the need for more targeted investment and stronger enforcement of the Safe Drinking Water Act in vulnerable regions.
+
+In drinking water access, quality and quantity are both important parameters but the quantity is often prioritized. Throughout human history, water quality has been a constant and ongoing challenge. Certain crises have led to major changes in knowledge, policy, and regulatory structures. The drivers of change can vary: the cholera epidemic in the 1850s in London led John Snow to further our understanding of waterborne diseases . However, London's sanitary revolution was driven by political motivations and social priorities before the science was accepted.

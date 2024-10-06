@@ -1,0 +1,3 @@
+This page provides the comparison tables of functional programming instructions between programming languages. Comparison of basic instructions of imperative paradigm is provided by the comparison of basic instructions .
+
+For brevity, these words will have the specified meanings in the following tables (unless noted to be part of language syntax):

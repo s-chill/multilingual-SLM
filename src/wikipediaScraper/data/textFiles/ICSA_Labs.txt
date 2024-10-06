@@ -1,0 +1,9 @@
+ICSA Labs ( International Computer Security Association ) began as NCSA (National Computer Security Association).  Its mission was to increase awareness of the need for computer security and to provide education about various security products and technologies.
+
+In its early days, NCSA focused almost solely on the certification of anti-virus software .  Using the Consortia model, NCSA worked together with anti-virus software vendors to develop one of the first anti-virus software certification schemes.  Over the past decade, the organization added certification programs for other security-related products and changed its name to ICSA Labs.
+
+Operating as an independent division of Verizon , ICSA Labs provides resources for research, intelligence, certification and testing of products, including anti-virus, firewall , IPsec VPN , cryptography , SSL VPN , network IPS , anti-spyware and PC firewall products.
+
+ICSA Labs temporarily ceased operation in April 2017, restoring operations a year later.
+
+ICSA Labs ceased operation in 2022, following closure by its parent company Verizon. This in turn heralded the end of The WildList , a curated collection of computer virus samples, which ICSA Labs managed and distributed within the security industry for testing purposes.

@@ -1,0 +1,79 @@
+Wikimedia infrastructure
+
+Data centers
+
+Networking
+
+Global traffic routing
+
+MediaWiki SRE
+
+MediaWiki Engineering
+
+Multimedia
+
+Data Engineering
+
+Search
+
+SRE Data Persistence
+
+SRE Infra Foundations
+
+SRE Observability
+
+Wikimedia Performance
+
+Event Platform
+
+Release Engineering
+
+[ edit ]
+
+PyBal is an automated manager for LVS . We use it to continously monitor Varnish or Apache servers and change the LVS load balancer pooling and weights accordingly. The service is written in Python using the Twisted framework .
+
+For more information about Wikimedia's LVS setup in general, see LVS .
+
+PyBal distinguishes itself from lvsmon in a few aspects:
+
+PyBal is currently installed on our LVS hosts, in directory /usr/sbin .  Start or stop it with systemctl start/stop pybal.service
+
+Configuration is in /etc/pybal/ . pybal.conf defines the LVS service parameters
+
+The list of pooled hosts resides wherever the pybal::web class is installed via puppet, under the directory /srv/pybal-config and it will be reachable via the internal address http://configuration-master.$site.wmnet/pybal , with one file per LVS service. Attributes:
+
+The format should be fairly self explanatory; the files more or less use Python assignment / dictionary syntax.
+
+PyBal supports multiple LVS services through a single instance and configuration file pybal.conf , e.g.:
+
+Beware , the code as checked out from git has DryRun = True set in ipvs.py , meaning that it will not modify any actual IPVS state but only show the commands for debugging. This should be changed to a command line option, but for now edit that file to DryRun = False .
+
+The configuration files are generated via puppet.
+
+See LVS .
+
+After testing new releases on pybal-test2003.codfw.wmnet, PyBal should be updated in the following order:
+
+Within each datacenter, first update and check that everything is fine on the passive instances and then go for the active instances. As long as BGP is enabled, redirecting traffic from the active instances to the passive one it should as easy as stopping PyBal in the active instance. After stopping it, you should see an increase of the active connections on the passive instance running the ipvsadm command described below.
+
+After updating a BGP enabled PyBal instance you can check that everything is good on the router side with the following commands:
+
+On the PyBal instance the following commands are useful:
+
+New PyBal releases can be tested on pybal-test2003.codfw.wmnet. The systems are deployed with role(pybaltest) . Configuration example:
+
+A Quagga instance is installed on pybal-test2002 and can be used to test the BGP component of PyBal:
+
+The IPv4 routing table can be inspected with:
+
+Similarly, to inspect the IPv6 routing table:
+
+The alert fires whenever pybal and ipvs disagree on the current configuration.
+
+For example upon removing services from pybal (or changing ports) the stale ipvs virtual services might not get removed. (In other words, this is shown: CRITICAL: Services in IPVS but unknown to PyBal: set(['addr:port']) ). For such cases it is sufficient to delete the stale TCP service from the lvs pair:
+
+This alert is usually temporary and is caused by new services being setup (i.e. in etcd, pybal knows about them) but pybal hasn't been restarted yet, and thus hasn't had a chance to program ipvs correctly. The fix is to restart pybal.
+
+For example:
+
+This alert means that the Pybal configuration file was changed but the service has not been restarted. To fix this, simply restart the Pybal service on the respective host. Note that this will pick up all changes since the configuration was changed, as expected.

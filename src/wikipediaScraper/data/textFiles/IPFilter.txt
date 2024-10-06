@@ -1,0 +1,5 @@
+IPFilter (commonly referred to as ipf ) is an open-source software package that provides firewall services and network address translation (NAT) for many Unix-like operating systems. The author and software maintainer is Darren Reed.  IPFilter supports both IPv4 and IPv6 protocols, and is a stateful firewall .
+
+IPFilter is delivered with FreeBSD , NetBSD , Solaris 10 through 11.3 , illumos ( OpenIndiana ) and HP-UX . It used to be a part of OpenBSD , but it was removed by Theo de Raadt in May 2001 due to problems with its license. It was subsequently replaced in OpenBSD by PF , which was developed by OpenBSD's own developers. DragonFly BSD removed its support for IPFilter in May 2011. Oracle Solaris imported the PF firewall from OpenBSD in the 11.3 release, and removed IPFilter in the 11.4 release.
+
+IPFilter can be installed as a runtime- loadable kernel module or directly incorporated into the operating system kernel , depending on the specifics of each kernel and user preferences. The software's documentation recommends the module approach, if possible.

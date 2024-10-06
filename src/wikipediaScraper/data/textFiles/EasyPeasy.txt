@@ -1,0 +1,7 @@
+EasyPeasy (formerly named Ubuntu Eee ) was a Linux-based operating system for netbooks . EasyPeasy was built upon Debian and Ubuntu , but was customized for low-powered computers and access to web applications . EasyPeasy is maintained as an open source project, though it primarily uses popular web applications or proprietary software over free and open source software alternatives (e.g. Skype over Ekiga ) when the functionality offered is deemed better by its users.
+
+Ubuntu Eee was started by Jon Ramvi in December 2007. At that time it was only some scripts which modified a regular Ubuntu installation to support the Asus Eee PCs . In June 2008 the project was disbanded as a script and Ubuntu Eee 8.04 was released as a stand-alone distribution , based on Ubuntu 8.04 with EeePC support installed out of the box. On September 5 followed the 8.04.1 version. It used a new Linux kernel, came with a new user interface and Flash 10.
+
+It was renamed EasyPeasy in January 2009, and has been downloaded well over a million times from the main mirror.
+
+On September 10, 2008, Canonical notified Jon Ramvi by email that the project's use of Canonical's names, URLs, and logos violated Canonical's trademarks in the original name Ubuntu Eee . In response, the owners of the project announced that they would use a new name EasyPeasy and version 1.0 was released January 1, 2009.

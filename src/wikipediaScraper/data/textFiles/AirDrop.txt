@@ -1,0 +1,48 @@
+AirDrop is a proprietary wireless ad hoc service in Apple Inc. 's iOS , macOS , iPadOS and visionOS operating systems, introduced in Mac OS X Lion (Mac OS X 10.7) and iOS 7 , which can transfer files among supported Macintosh computers and iOS devices by means of close-range wireless communication. This communication takes place over Apple Wireless Direct Link 'Action Frames' and 'Data Frames' using generated link-local IPv6 addresses instead of the Wi-Fi chip's fixed MAC address .
+
+Prior to OS X Yosemite (OS X 10.10), and under OS X Lion, Mountain Lion, and Mavericks (OS X 10.7–10.9, respectively) the AirDrop protocol in macOS was different from the AirDrop protocol of iOS, and the two were therefore not interoperable. OS X Yosemite and later support the iOS AirDrop protocol, which is used for transfers between a Mac and an iOS device as well as between two 2012 or newer Mac computers, and which uses both Wi-Fi and Bluetooth . Legacy mode for the old AirDrop protocol (which only uses Wi-Fi) between a 2012 or older Mac computer (or a computer running OS X Lion through OS X Mavericks) and another Mac computer was also available until macOS Mojave .
+
+Apple reveals no limit on the size of the file which AirDrop can transfer. However, some Apple users have indicated that oversized files are almost impossible to transfer, with a high probability of failure.
+
+On iOS 7 and later, AirDrop can be accessed by either tapping on Settings > General > AirDrop, or via the Control Center . Both Wi-Fi and Bluetooth are automatically switched on when AirDrop is enabled as they are both utilized. NFC can also be utilized to initiate a transfer in iOS 17 or later. 
+Options for controlling AirDrop discovery by other devices include:
+
+In iOS 16.2 or later, the Everyone option reverts to Contacts Only after 10 minutes.
+
+If an application implements AirDrop support, it is available through the share button. AirDrop is subject to a number of restrictions on iOS, such as the inability to share music or videos from the native apps.
+
+On Macs running OS X 10.7 and greater, AirDrop is available in the Finder window sidebar. On Macs running OS X 10.8.1 or later, it can also be accessed through the menu option Go → AirDrop or by pressing ⇧ Shift + ⌘ Cmd + R .
+
+AirDrop must be selected in a Finder window sidebar to be able to transfer files. Furthermore, files are not automatically accepted, but instead give a prompt asking to receive or decline the file sent.
+
+Running iOS 7 or later:
+
+AirDrop can be enabled unofficially on iPad (3rd generation) by jailbreaking the device and installing "AirDrop Enabler 7.0+" from Cydia . This procedure is not endorsed by Apple.
+
+Running OS X Yosemite (10.10) or later:
+
+To transfer files between a Mac and an iPhone, iPad or iPod touch, the following minimum requirements have to be met: All iOS devices with AirDrop are supported with iOS 8 or later:
+
+Running OS X Yosemite (10.10) or later:
+
+Bluetooth and Wi-Fi have to be turned on for both Mac and iOS devices. (Both devices are not required to be connected to the same Wi-Fi network.)
+
+AirDrop uses TLS encryption over a direct Apple-created peer-to-peer Wi-Fi connection for transferring files . The Wi-Fi radios of the source and target devices communicate directly without using an Internet connection or Wi-Fi Access Point .
+
+The technical details of AirDrop and the proprietary peer-to-peer Wi-Fi protocol called Apple Wireless Direct Link (AWDL) have been reverse engineered and the resulting open source implementations published as OWL and OpenDrop .
+
+During the initial handshake devices exchange full SHA-256 hashes of users' phone numbers and email addresses, which might be used by attackers to infer the phone numbers and in some cases email addresses themselves. In 2024, The Beijing Municipal Bureau of Justice claimed that following complaints from the public about "anonymous dissemination of inappropriate messages" in public places using AirDrop, a forensic institute in Beijing was commissioned to analyze iPhone's encrypted device logs. A rainbow table correlating phone numbers and email accounts was created during investigation, and has "effectively assisted the police in identifying several suspects" involved in such cases.
+
+Researchers at the Technische Universität Darmstadt stated that Apple knew that AirDrop users could be identified and tracked as early as 2019 and did not implement a proposed fix in 2021.
+
+Following the 2022 Beijing Sitong Bridge protest , users in China used AirDrop to distribute similar protest posters and slogans. Apple reportedly limited the AirDrop function in China just weeks before 2022 COVID-19 protests in China . The AirDrop restrictions triggered a hunger strike at Apple's headquarters.
+
+There have been numerous reported cases where iOS device users with AirDrop privacy set to "Everyone" have received unwanted files from nearby strangers; the phenomenon has been termed " cyber-flashing ." As of iOS 16.1.1, Apple has silently replaced the "Everyone" mode with "Everyone for 10 minutes" for users in China at first, which automatically reverts back to contacts only after time elapses. After it was discovered, Apple stated that this feature was intended to reduce unsolicited content, and became available worldwide with iOS 16.2. It did not comment upon the timing of the change or why it is initially limited to China, with reports suggesting that the limitation was implemented due to the Beijing Sitong Bridge protest .
+
+In March 2022 a flight between Seattle and Orlando was detained on the runway at Orlando International Airport until police decided a hijack threat was "not credible", after a 10-year-old child onboard the plane AirDropped a threat to another passenger, who alerted the crew.
+
+In May 2022, an AnadoluJet flight between Israel and Turkey was deboarded after Israeli users used AirDrop to share pictures of a Turkish airline crash, leading to at least one injury to a passenger. After a search of the luggage, the flight was reboarded and resumed its trip some hours later.
+
+In July 2022, an 18-year-old Spanish man flying from Rome to Alicante, airdropped some pictures of skulls and a generic menace in Amharic to some of the passengers, before take off. As the crew was informed and the captain asked for police intervention, the flight left with a two-hour delay and the young man was charged with procuring an alarm.
+
+In late August 2022, a man on an airplane that was taxiing for take off AirDropped nude photos of himself to others on the Southwest Airlines flight from Houston to Cabo San Lucas . When a passenger reported this to the flight crew, the pilot announced that if this didn't stop he would return to the gate, which would ruin their vacations, and the activity stopped.

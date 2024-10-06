@@ -1,0 +1,65 @@
+In computer security , general access control includes identification , authorization , authentication , access approval, and audit . A more narrow definition of access control would cover only access approval, whereby the system makes a decision to grant or reject an access request from an already authenticated subject, based on what the subject is authorized to access. Authentication and access control are often combined into a single operation, so that access is approved based on successful authentication, or based on an anonymous access token. Authentication methods and tokens include passwords , biometric scans, physical keys , electronic keys and devices, hidden paths, social barriers, and monitoring by humans and automated systems.
+
+In any access-control model, the entities that can perform actions on the system are called subjects , and the entities representing resources to which access may need to be controlled are called objects (see also Access Control Matrix ). Subjects and objects should both be considered as software entities, rather than as human users: any human users can only have an effect on the system via the software entities that they control.
+
+Although some systems equate subjects with user IDs , so that all processes started by a user by default have the same authority, this level of control is not fine-grained enough to satisfy the principle of least privilege , and arguably is responsible for the prevalence of malware in such systems (see computer insecurity ).
+
+In some models, for example the object-capability model , any software entity can potentially act as both subject and object.
+
+As of 2014 , access-control models tend to fall into one of two classes: those based on capabilities and those based on access control lists (ACLs).
+
+Both capability-based and ACL-based models have mechanisms to allow access rights to be granted to all members of a group of subjects (often the group is itself modeled as a subject).
+
+Access control systems provide the essential services of authorization , identification and authentication ( I&A ), access approval , and accountability where:
+
+Authorization involves the act of defining access-rights for subjects. An authorization policy specifies the operations that subjects are allowed to execute within a system.
+
+Most modern operating systems implement authorization policies as formal sets of permissions that are variations or extensions of three basic types of access:
+
+These rights and permissions are implemented differently in systems based on discretionary access control ( DAC ) and mandatory access control ( MAC ).
+
+Identification and authentication (I&A) is the process of verifying that an identity is bound to the entity that makes an assertion or claim of identity. The I&A process assumes that there was an initial validation of the identity, commonly called identity proofing. Various methods of identity proofing are available, ranging from in-person validation using government issued identification, to anonymous methods that allow the claimant to remain anonymous, but known to the system if they return. The method used for identity proofing and validation should provide an assurance level commensurate with the intended use of the identity within the system. Subsequently, the entity asserts an identity together with an authenticator as a means for validation. The only requirements for the identifier is that it must be unique within its security domain.
+
+Authenticators are commonly based on at least one of the following four factors:
+
+Access approval is the function that actually grants or rejects access during operations.
+
+During access approval, the system compares the formal representation of the authorization policy with the access request, to determine whether the request shall be granted or rejected. Moreover, the access evaluation can be done online/ongoing.
+
+Accountability uses such system components as audit trails (records) and logs, to associate a subject with its actions. The information recorded should be sufficient to map the subject to a controlling user. Audit trails and logs are important for
+
+If no one is regularly reviewing your logs and they are not maintained in a secure and consistent manner, they may not be admissible as evidence.
+
+Many systems can generate automated reports, based on certain predefined criteria or thresholds, known as clipping levels . For example, a clipping level may be set to generate a report for the following:
+
+These reports help a system administrator or security administrator to more easily identify possible break-in attempts.
+–
+Definition of clipping level: a disk's ability to maintain its magnetic properties and hold its content. A high-quality level range is 65–70%; low quality is below 55%.
+
+Access control models are sometimes categorized as either discretionary or non-discretionary. The three most widely recognized models are Discretionary Access Control (DAC), Mandatory Access Control (MAC), and Role Based Access Control (RBAC). MAC is non-discretionary.
+
+Discretionary access control (DAC) is a  policy determined by the owner of an object. The owner decides who is allowed to access the object, and what privileges they have.
+
+Two important concepts in DAC are
+
+Access controls may be discretionary in ACL-based or capability-based access control systems. (In capability-based systems, there is usually no explicit concept of 'owner', but the creator of an object has a similar degree of control over its access policy.)
+
+Mandatory access control refers to allowing access to a resource if and only if rules exist that allow a given user to access the resource.  It is difficult to manage, but its use is usually justified when used to protect highly sensitive information. Examples include certain government and military information. Management is often simplified (over what is required) if the information can be protected using hierarchical access control, or by implementing sensitivity labels. What makes the method "mandatory" is the use of either rules or sensitivity labels.
+
+Two methods are commonly used for applying mandatory access control:
+
+Few systems implement MAC; XTS-400 and SELinux are examples of systems that do.
+
+Role-based access control (RBAC) is an access policy determined by the system, not by the owner. RBAC is used in commercial applications and also in military systems, where multi-level security requirements may also exist. RBAC differs from DAC in that DAC allows users to control access to their resources, while in RBAC, access is controlled at the system level, outside of the user's control. Although RBAC is non-discretionary, it can be distinguished from MAC primarily in the way permissions are handled. MAC controls read and write permissions based on a user's clearance level and additional labels. RBAC controls collections of permissions that may include complex operations such as an e-commerce transaction, or may be as simple as read or write. A role in RBAC can be viewed as a set of permissions.
+
+Three primary rules are defined for RBAC:
+
+Additional constraints may be applied as well, and roles can be combined in a hierarchy where higher-level roles subsume permissions owned by lower-level sub-roles.
+
+Most IT vendors offer RBAC in one or more products.
+
+In attribute-based access control (ABAC), access is granted not based on the rights of the subject associated with a user after authentication, but based on the attributes of the subject, object, requested operations, and environment conditions against policy, rules, or relationships that describe the allowable operations for a given set of attributes. The user has to prove so-called claims about his or her attributes to the access control engine. An attribute-based access control policy specifies which claims need to be satisfied in order to grant access to an object. For instance the claim could be "older than 18". Any user that can prove this claim is granted access. Users can be anonymous when authentication and identification are not strictly required. One does, however, require means for proving claims anonymously. This can for instance be achieved using anonymous credentials . XACML (extensible access control markup language) is a standard for attribute-based access control. XACML 3.0 was standardized in January 2013.
+
+Traditionally, access has the purpose of restricting access, thus most access control models follow the "default deny principle", i.e. if a specific access request is not explicitly allowed, it will be denied. This behavior might conflict with the regular operations of a system. In certain situations, humans are willing to take the risk that might be involved in violating an access control policy, if the potential benefit that can be achieved outweighs this risk. This need is especially visible in the health-care domain, where a denied access to patient records can cause the death of a patient. Break-Glass (also called break-the-glass) try to mitigate this by allowing users to override access control decision. Break-Glass can either be implemented in an access control specific manner (e.g. into RBAC), or generic (i.e., independent from the underlying access control model).
+
+The initialism HBAC stands for "host-based access control".

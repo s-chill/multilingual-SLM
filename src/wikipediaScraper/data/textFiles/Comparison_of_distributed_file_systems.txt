@@ -1,0 +1,7 @@
+In computing, a distributed file system (DFS) or network file system is any file system that allows access from multiple hosts to files shared via a computer network . This makes it possible for multiple users on multiple machines to share files and storage resources.
+
+Distributed file systems differ in their performance, mutability of content, handling of concurrent writes, handling of permanent or temporary loss of nodes or storage, and their policy of storing content.
+
+Some researchers have made a functional and experimental analysis of several distributed file systems including HDFS, Ceph, Gluster, Lustre and old (1.6.x) version of MooseFS, although this document is from 2013 and a lot of information are outdated (e.g. MooseFS had no HA for Metadata Server at that time).
+
+The cloud based remote distributed storage from major vendors have different APIs and different consistency models.

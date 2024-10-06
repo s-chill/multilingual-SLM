@@ -1,0 +1,13 @@
+The Shadow Dexterous Hand is a humanoid robot hand system developed by The Shadow Robot Company in London . The hand is comparable to a human hand in size and shape, and reproduces all of its degrees of freedom . The Hand is commercially available in pneumatic- and electric-actuated models and currently used in a wide range of institutions including NASA , Bielefeld University and Carnegie Mellon University , and EU research projects such as HANDLE.
+
+The Shadow Dexterous Robot Hand is the first commercially available robot hand from the company, and follows a series of prototype humanoid hand and arm systems.
+
+The Shadow Dexterous Hand has been designed to be similar to the average hand of a human male. The forearm structure is slightly wider than a human forearm.
+
+The Shadow Dexterous Hand has 24 joints. It has 20 degrees of freedom, greater than that of a human hand. It has been designed to have a range of movement equivalent to that of a typical human being . The four fingers of the hand contain two one-axis joints connecting the distal phalanx , middle phalanx and proximal phalanx and one universal joint connecting the finger to the metacarpal . The little finger has an extra one-axis joint on the metacarpal to provide the Hand with a palm curl movement. The thumb contains one one-axis joint connecting the distal phalanx to the proximal phalanx, one universal joint connecting the thumb to the metacarpal and one one-axis joint on the bottom of the metacarpal to provide a palm curl movement. The wrist contains two joints, providing flex/extend and adduct/abduct.
+
+The hand is available in both electric motor driven and pneumatic muscle driven models. The motor hand is driven by 20 DC motors in the forearm, whereas the muscle hand is powered by 20 antagonistic pairs of Air Muscles in the forearm.
+
+All hands have Hall effect sensors integrated into every joint to provide precise positional feedback. The motor hand includes force sensors for each degree of freedom and the muscle hand includes pressure sensors for each muscle. There are also several options for tactile sensing on the hand from basic pressure sensors to the BioTac multimodal tactile sensor from Syntouch Inc. .
+
+The Shadow Hand software system is based on Robot Operating System , through which configuration, calibration, simulation and control of the hand is implemented. A simulation of the Shadow hand can be downloaded and installed in ROS.

@@ -1,0 +1,9 @@
+A photovoltaic keyboard , or solar keyboard , is a wireless computer keyboard that charges its batteries from a light source such as the sun or interior lighting, addressing a major drawback of wireless computer peripherals that otherwise require regular replacement of discharged batteries.
+
+One such device is the Logitech K750, which was announced by the company in 2010. In 2018 Microsoft filed a patent describing how solar panels could be used to extend battery life for Microsoft's Surface Pro .
+
+The Logitech K750 has a set of photovoltaic cells on the top edge, charges from any light source including sunlight and under a standard bulb , can work up to three months in total darkness, and includes software to display battery charging status. It is a full-sized keyboard, including the usual movement keys and NumPad section on the right side, with low-profile keys much like a laptop. There are two models, compatible with Windows or Macintosh operating systems.
+
+Even though the keyboard is not officially supported in Linux , a third-party application named Solaar provides functionality akin to the original Logitech software, such as battery and connection status indications, and allows device pairing/unpairing.
+
+Another Logitech keyboard, the K760, is also PV powered. It is smaller than the Logitech K750 and communicates with the computer via Bluetooth . It was positively reviewed by David Carnoy of CNET , who praised its sleek, stylish design, and its ability to be seamlessly integrated with Apple products. Although he found it slightly bulky to carry around and criticized the lack of carrying case provided by Logitech, he concluded that in the long run, it would save a user money, and was a better deal than Apple's Bluetooth Wireless Keyboard.

@@ -1,0 +1,1 @@
+This article compares variety of different X window managers . For an introduction to the topic, see X Window System .

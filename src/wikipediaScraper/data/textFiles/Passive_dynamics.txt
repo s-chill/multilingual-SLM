@@ -1,0 +1,23 @@
+Passive dynamics refers to the dynamical behavior of actuators , robots , or organisms when not drawing energy from a supply (e.g., batteries , fuel , ATP ).  Depending on the application, considering or altering the passive dynamics of a powered system can have drastic effects on performance, particularly energy economy , stability , and task bandwidth .  Devices using no power source are considered "passive", and their behavior is fully described by their passive dynamics.
+
+In some fields of robotics ( legged robotics in particular), design and more relaxed control of passive dynamics has become a complementary (or even alternative) approach to joint-positioning control methods developed through the 20th century.  Additionally, the passive dynamics of animals have been of interest to biomechanists and integrative biologists , as these dynamics often underlie biological motions and couple with neuromechanical control .
+
+Particularly relevant fields for investigating and engineering passive dynamics include legged locomotion and manipulation .
+
+The term and its principles were developed by Tad McGeer in the late 1980s. While at Simon Fraser University in Burnaby , British Columbia , McGeer showed that a human-like frame can walk itself down a slope without requiring muscles or motors. Unlike traditional robots, which expend energy by using motors to control every motion, McGeer's early passive-dynamic machines relied only on gravity and the natural swinging of their limbs to move forward down a slope.
+
+The original model for passive dynamics is based on human and animal leg motions.  Completely actuated systems, such as the legs of the Honda Asimo robot, are not very efficient because each joint has a motor and control assembly.  Human-like gaits are far more efficient because movement is sustained by the natural swing of the legs instead of motors placed at each joint.
+
+Tad McGeer's 1990 paper "Passive Walking with Knees" provides an excellent overview on the advantages of knees for walking legs.  He clearly demonstrates that knees have many practical advantages for walking systems.  Knees, according to McGeer, solve the problem of feet colliding with the ground when the leg swings forward, and also offers more stability in some settings.
+
+Passive dynamics is a valuable addition to the field of controls because it approaches the control of a system as a combination of mechanical and electrical elements.  While control methods have always been based on the mechanical actions (physics) of a system, passive dynamics utilizes the discovery of morphological computation. Morphological computation is the ability of the mechanical system to accomplish control functions.
+
+Adding actuation to passive dynamic walkers result in highly efficient robotic walkers.  Such walkers can be implemented at lower mass and use less energy because they walk effectively with only a couple of motors.  This combination results in a superior "specific cost of transport".
+
+Energy efficiency in level-ground transport is quantified in terms of the dimensionless "specific cost of transport", which is the amount of energy required to carry a unit weight a unit distance. Passive dynamic walkers such as the Cornell Efficient Biped have the same specific cost of transport as humans, 0.20. Not incidentally, passive dynamic walkers have human-like gaits. By comparison, Honda's biped ASIMO , which does not utilize the passive dynamics of its own limbs, has a specific cost of transport of 3.23.
+
+The current distance record for walking robots, 65.17 km, is held by the passive dynamics based Cornell Ranger.
+
+Passive dynamics have recently found a role in the design and control of prosthetics .  Since passive dynamics provides the mathematical models of efficient motion, it is an appropriate avenue to develop efficient limbs that require less energy for amputees.  Andrew Hansen, Steven Gard and others have done extensive research in developing better foot prosthetics by utilizing passive dynamics.
+
+Passive walking biped robots exhibit different kinds of chaotic behaviors e.g., bifurcation , intermittency and crisis .

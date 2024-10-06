@@ -1,0 +1,5 @@
+Google Insights for Search was a service by Google similar to Google Trends , providing insights into the search terms people use in the Google search engine. Unlike Google Trends, Google Insights for Search provides a visual representation of regional interest on a country's map. It displays top searches and rising searches that may help with keyword research . Results can be narrowed down with categories that are displayed for each search terms.
+
+Term order is important in searches, in that different results will be found if keywords are placed in a different order.
+
+On September 27, 2012, Google Insights for Search was closed and merged into Google Trends again.

@@ -1,0 +1,19 @@
+Radio-frequency (RF) engineering is a subset of electrical engineering involving the application of transmission line , waveguide , antenna , radar , and electromagnetic field principles to the design and application of devices that produce or use signals within the radio band , the frequency range of about 20 kHz up to 300 GHz .
+
+It is incorporated into almost everything that transmits or receives a radio wave , which includes, but is not limited to, mobile phones, radios, Wi-Fi , and two-way radios.
+RF engineering is a highly specialized field that typically includes the following areas of expertise:
+
+To produce quality results, the RF engineer needs to have an in-depth knowledge of mathematics , physics and general electronics theory as well as specialized training in areas such as wave propagation, impedance transformations, filters and microstrip printed circuit board design.
+
+Radio electronics is concerned with electronic circuits which receive or transmit radio signals.
+
+Typically, such circuits must operate at radio frequency and power levels, which imposes special constraints on their design. These constraints increase in their importance with higher frequencies. At microwave frequencies, the reactance of signal traces becomes a crucial part of the physical layout of the circuit.
+
+List of radio electronics topics:
+
+Radio-frequency engineers are specialists in their respective field and can take on many different roles, such as design, installation, and maintenance.  Radio-frequency engineers require many years of extensive experience in the area of study.  This type of engineer has experience with transmission systems, device design, and placement of antennas for optimum performance. 
+The RF engineer job description at a broadcast facility can include maintenance of the station's high-power broadcast transmitters and associated systems. This includes transmitter site emergency power, remote control, main transmission line and antenna adjustments, microwave radio relay STL / TSL links, and more.
+
+In addition, a radio-frequency design engineer must be able to understand electronic hardware design, circuit board material, antenna radiation, and the effect of interfering frequencies that prevent optimum performance within the piece of equipment being developed.
+
+There are many applications of electromagnetic theory to radio-frequency engineering, using conceptual tools such as vector calculus and complex analysis . Topics studied in this area include waveguides and transmission lines , the behavior of radio antennas , and the propagation of radio waves through the Earth's atmosphere. Historically, the subject played a significant role in the development of nonlinear dynamics .

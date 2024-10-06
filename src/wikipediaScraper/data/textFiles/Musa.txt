@@ -1,0 +1,1 @@
+MUSA is a robot that can fight using Kendo . It was completed in July 2005 by the Manufacturing & Mechatronics Lab of Seoul National University headed by Professor Young-Bong Bang. MUSA is 163 cm (5 ft 4 in) tall and weighs 70 kg (11 st; 150 lb).

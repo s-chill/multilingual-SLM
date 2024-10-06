@@ -1,0 +1,35 @@
+C++20 is a version of the ISO / IEC 14882 standard for the C++ programming language. C++20 replaced the prior version of the C++ standard, called C++17 , and was later replaced by C++23 . The standard was technically finalized by WG21 at the meeting in Prague in February 2020, had its final draft version announced in March 2020, was approved on 4 September 2020, and published in December 2020.
+
+C++20 adds more new major features than C++14 or C++17 . Changes that have been accepted into C++20 include:
+
+Many new keywords added (and the new "spaceship operator", operator <=> ), such as concept , constinit , consteval , co_await , co_return , co_yield , requires (plus changed meaning for export ), and char8_t (for UTF-8 support). And explicit can take an expression since C++20. Most of the uses of the volatile keyword have been deprecated.
+
+In addition to keywords, there are identifiers with special meaning , including new import and module .
+
+New attributes in C++20: [[likely]] , [[unlikely]] ,  and [[no_unique_address]]
+
+Removed features:
+
+Deprecated features:
+
+Full support
+
+Microsoft's compiler supports not only Windows but also Linux, Android, and iOS. However, for Linux development, it requires the "Visual C++ for Linux Development" extension.
+
+Partial
+
+Changes applied to the C++20 working draft in July 2017 (Toronto) include:
+
+Changes applied to the C++20 working draft in the fall meeting in November 2017 (Albuquerque) include:
+
+Changes applied to the C++20 working draft in March 2018 (Jacksonville) include:
+
+Changes applied to the C++20 working draft in the summer meeting in June 2018 (Rapperswil) include:
+
+Changes applied to the C++20 working draft in the fall meeting in November 2018 (San Diego) include:
+
+Changes applied to the C++20 working draft in the winter meeting in February 2019 (Kona) include:
+
+Changes applied to the C++20 working draft in the summer meeting in July 2019 (Cologne) include:
+
+Changes applied during the NB comment resolution in the fall meeting in November 2019 (Belfast) include:

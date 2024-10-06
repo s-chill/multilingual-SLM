@@ -1,0 +1,26 @@
+ICMP hole punching is a technique employed in network address translator (NAT) applications for maintaining Internet Control Message Protocol (ICMP) packet streams that traverse the NAT. NAT traversal techniques are typically required for client-to-client networking applications on the Internet involving hosts connected in private networks , especially in peer-to-peer and Voice over Internet Protocol (VoIP) deployments.
+
+ICMP hole punching establishes connectivity between two hosts communicating across one or more network address translators in either a peer-to-peer or client–server model . Typically, third party hosts on the public transit network are used to establish UDP or TCP port states that may be used for direct communications between the communicating hosts, however ICMP hole punching requires no third party involvement to pass information between one or more NATs by exploiting a NAT's loose acceptance of inbound ICMP Time Exceeded packets.
+
+Once an ICMP Time Exceeded packet reaches the destination NAT, arbitrary data in the packet expected by the NAT allows the packet to reach the destination server, allowing the destination server to obtain the client's public IP address and other data stored in the packet from the client.
+
+Currently the only method of ICMP hole punching or hole punching without third party involvement (autonomous NAT traversal) was developed by Samy Kamkar on January 22, 2010 and released in the open source software pwnat , and the method was later published in the IEEE. According to the paper:
+
+The proposed technique assumes that the client has somehow learned the current external (globally routable) IP address of the server's NAT.
+The key idea for enabling the server to learn the client's
+IP address is for the server to periodically send a message to
+a fixed, known IP address. The simplest approach uses ICMP
+ECHO REQUEST messages to an unallocated IP address, such
+as 1.2.3.4. Since 1.2.3.4 is not allocated, the ICMP REQUEST
+will not be routed by routers without a default route;
+ICMP DESTINATION UNREACHABLE messages that may
+be created by those routers can just be ignored by the server.
+As a result of the messages sent to 1.2.3.4, the NAT
+will enable routing of replies in response to this request.
+The connecting client will then fake such a reply. Specifically, 
+the client will transmit an ICMP message indicating
+TTL_EXPIRED. Such a message could legitimately
+be transmitted by any Internet router and the sender address
+would not be expected to match the server's target IP.
+The server listens for (fake) ICMP replies and upon receipt
+initiates a connection to the sender IP specified in the ICMP reply.

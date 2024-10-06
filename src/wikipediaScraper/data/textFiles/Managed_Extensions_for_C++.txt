@@ -1,0 +1,57 @@
+Managed Extensions for C++ or Managed C++ is a deprecated set of language extensions for C++ , including grammatical and syntactic extensions, keywords and attributes, to bring the C++ syntax and language to the .NET Framework . These extensions were created by Microsoft to allow C++ code to be targeted to the Common Language Runtime (CLR) in the form of managed code , as well as continue to interoperate with native code.
+
+In 2004, the Managed C++ extensions were significantly revised to clarify and simplify syntax and expand functionality to include managed generics . These new extensions were designated C++/CLI and included in Microsoft Visual Studio 2005 . The term Managed C++ and the extensions it refers to are thus deprecated and superseded by the new extensions.
+
+Microsoft introduced Managed Extensions for C++ in Microsoft Visual C++ 2002 (MSVC++). Microsoft attempted to minimise the deviations between standard C++ and Managed Extensions for C++, resulting in core differences between the two being syntactically obscured. MSVC++ 2003 and 2005 also provided support for writing programs in Managed C++. In 2004, Managed Extensions for C++ was deprecated in favor of C++/CLI , a second attempt by Microsoft at supporting programming for the Common Language Infrastructure using C++.
+
+Managed refers to managed code that it is run in, or managed by, the .NET virtual machine that functions as a sandbox for enhanced security in the form of more runtime checks, such as buffer overrun checks. Additionally, applications written in Managed C++ compile to CIL —Common Intermediate Language—and not directly to native CPU instructions like standard C++ applications do.
+
+Managed C++ code could inter-operate with any other language also targeted for the CLR such as C# and Visual Basic .NET as well as make use of features provided by the CLR such as garbage collection . This means Managed C++ occupies a unique position in the gallery of .NET languages. It is the only language that can communicate directly with .NET languages (such as C#, VB.NET) as well as native C++. The other .NET languages can only communicate with C++ code via PInvoke or COM . But since Managed C++ can communicate directly in both managed and standard C++ contexts, it is often used as a "bridge".
+
+Programs coded in Managed C++ provide additional functionality of the .NET Framework and the CLR . Most notable of these is garbage collection , which relieves the programmer of manual memory management. The garbage collector (GC) is handled by the CLR. Memory management is executed quite quickly, but for more performance critical applications, native, unmanaged code is most likely the preferred option.
+
+Managed C++ is geared towards object-oriented programming. A major difference between standard C++ and Managed C++ is that multiple inheritance is not supported, and a class managed under the CLR's garbage collector cannot inherit more than one class. This is because of a limitation of the CLR.
+
+Key features:
+
+The following examples depict the use of Managed C++ as compared to standard C++:
+
+A new preprocessor directive
+
+is required. In addition to that, more #using directives are required to import more libraries to use more namespaces in the Base Class Library, such as
+
+and
+
+to use Windows Forms.
+
+/clr enables any code referencing the .NET Framework to be compiled as CIL .
+
+The preceding code can be compiled and executed without any fear of memory leaks . Because class gc is managed under the garbage collector, there is no need to call the delete operator. To achieve the same with unmanaged code, the delete keyword is required:
+
+Notes:
+
+the public keyword to modify the access of the a __gc designated class.
+
+A __gc designated class can be destroyed manually using the delete keyword, but only if the __gc designated class has a user-defined destructor.
+
+The preceding code must be compiled with /clr and /LD to produce a simple DLL file.
+
+Notes:
+
+The following contains main points and programmatic standards that differ between Managed C++ and other well known programming languages that are similar in concept.
+
+Disadvantages
+
+Advantages
+
+Differences
+
+Disadvantages
+
+Advantages
+
+Differences
+
+Disadvantages
+
+Advantages

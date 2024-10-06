@@ -1,0 +1,9 @@
+Catchment hydrology is the study of hydrology in drainage basins . Catchments are areas of land where runoff collects to a specific zone. This movement is caused by water moving from areas of high energy to low energy due to the influence of gravity . Catchments often do not last for long periods of time as the water evaporates, drains into the soil , or is consumed by animals.
+
+Catchment zones collect water from various sources such as surface runoff from snow cover and glaciers , and subsurface flow from groundwater , precipitation , and aquifers . Deposition from fog and clouds is another source of water for catchment zones. These sources of water collect together in a catchment area; which could provide drinking water for a nearby population.
+
+Precipitation in catchment areas is measured through rain gauges . A graduated ruler is used to measure the amount of snowfall. These measurements are taken in a specific location within the catchment and can be used to calculate water balance within the entire catchment area. The best studied catchments cover small areas because of the difficulty of these measurements. Water lost due to interception followed by evaporation represents a large portion of water loss. These measurements are used to obtain the change in water storage over time using the equation of continuity .
+
+The surrounding topography of a catchment zone influences the flow vectors and direction that the water flows. Water flows from areas of high potential energy to low potential energy under the influence of gravity. The geometry of the slope leading to the catchment area influences the amount of water the catchment will contain.
+
+There are many terms involved with and related to catchment hydrology. These basic ones are taken from the glossary of terms in Kendall and McDonnell, 1998:

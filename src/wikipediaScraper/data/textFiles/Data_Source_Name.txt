@@ -1,0 +1,21 @@
+In computing , a data source name ( DSN , sometimes known as a database source name , though " data sources " can comprise other repositories apart from databases ) is a string that has an associated data structure used to describe a connection to a data source. Most commonly used in connection with ODBC , DSNs also exist for JDBC and for other data access mechanisms.  The term often overlaps with " connection string ".  Most systems do not make a distinction between DSNs or connection strings and the term can often be used interchangeably.
+
+DSN attributes may include, but are not limited to:
+
+The system administrator of a client machine generally creates a separate DSN for each relevant data source.
+
+Standardizing DSNs offers a level of indirection ; various applications (for example: Apache / PHP and IIS / ASP ) can take advantage of this in accessing shared data sources.
+
+Two kinds of DSN exist:
+
+These are further broken down into
+
+Software (e.g., Crystal Reports, Microsoft Excel, PHP, Perl, Python, Ruby) users can submit CRUD (Create, Read, Update, Delete) queries to a data source by establishing a connection to the DSN.
+
+ASP ( VBScript ) code to open a DSN connection might look like the following:
+
+In PHP using the PEAR::DB package to open a connection without an external DSN (a "DSN-less connection", i.e., using a Connection String), the code might resemble the following
+
+PHP with PDO.
+
+In Perl , using the Perl DBI module, each driver has its own syntax for the DSN attributes. The only requirement that DBI makes is that all the information, except for username and password is supplied in a single string argument.

@@ -1,0 +1,35 @@
+In solar physics , a prominence , sometimes referred to as a filament , is a large plasma and magnetic field structure extending outward from the Sun 's surface, often in a loop shape. Prominences are anchored to the Sun's surface in the much brighter photosphere , and extend outwards into the solar corona .  While the corona consists of extremely hot plasma, prominences contain much cooler plasma, similar in composition to that of the chromosphere .
+
+Prominences form over timescales of about a day and may persist in the corona for several weeks or months, looping hundreds of thousands of kilometers into space. Some prominences may give rise to coronal mass ejections . Exact mechanism of prominence generation is an ongoing target of scientific research.
+
+A typical prominence extends over many thousands of kilometers; the largest on record was estimated at over 800,000 km (500,000 mi) long, roughly of solar radius .
+
+The first detailed description of a solar prominence was in 14th-century Laurentian Codex , describing the solar eclipse of May 1, 1185 . They were described as "flame-like tongues of live embers".
+
+Prominences were first photographed during the solar eclipse of July 18, 1860 , by Angelo Secchi . From these photographs, altitude, emissivity, and many other important parameters were able to be derived for the first time.
+
+During the solar eclipse of August 18, 1868 , spectroscopes were for the first time able to detect the presence of emission lines from prominences. The detection of a hydrogen line confirmed that prominences were gaseous in nature. Pierre Janssen was also able to detect an emission line corresponding to an at the time unknown element now known as helium . The following day, Janssen confirmed his measurements by recording the emission lines from the now unobstructed Sun, a task that had never been done before. Using his new techniques, astronomers were able to study prominences daily.
+
+Historically, any feature that was visible extending above the surface of the sun, including solar spicules , coronal loops , and some coronal mass ejections , was considered a solar prominence. Today, due to a better understanding of the diversity of these phenomena, most of these are classified separately, and the word prominence is primarily used to refer to larger and cooler features.
+
+There are a number of different prominence classification schemes in use today. One of the most widely used and basic schemes classifies prominences based on the magnetic environment in which they had formed. There are three classes:
+
+Active region and quiescent prominences can also be differentiated by their emitted spectra . The spectra of active region prominences is identical to that of the upper chromosphere having strong He II lines but very weak ionized metal lines. On the other hand, the spectra of quiescent prominences is identical to the spectra measured at 1,500 km (930 mi) in the chromosphere with strong H, He I, and ionized metal lines, but weak He II lines.
+
+Prominences form in magnetic structures known as filament channels where they are thermally shielded from the surrounding corona and supported against gravity. These channels are found in the chromosphere and lower corona above divisions between regions of opposite photospheric magnetic polarity known as polarity inversion lines (PIL). The presence of a filament channel is a necessary condition for the formation of a prominence, but a filament channel can exist without containing a prominence. Multiple prominences may form and erupt from within one filament channel over the channel's lifetime. The magnetic field making up the filament channel is predominantly horizontal, pointing in the same direction on both sides of the PIL (see § Chirality ).
+
+Prominence material does not occupy the entire width of the filament channel; a tunnel-like region less dense than the corona, known as a coronal cavity , occupies the volume between the prominence and the overlying magnetic arcade.
+
+Typical prominences have a narrow structure oriented along the filament channel known as a spine. The spine defines the upper main body of a prominence and is generally in the form of a vertical sheet that diverges towards the photosphere at both ends. Many prominences also have smaller structures referred to as barbs that similarly diverge from the spine towards the chromosphere and photosphere. Spines and barbs are both composed of thin threads that trace the magnetic field similar to chromospheric fibrils .
+
+The cool prominence material that makes up spines and barbs—the prominence core—is surrounded by a prominence-corona transition region ( PCTR ) where there is a steep temperature gradient. The PCTR is responsible for most of the optical emission of prominences.
+
+Above filament channels lie overarching magnetic arcades which can extend from 50,000 to 70,000 km (31,000 to 43,000 mi) into the corona. Above these arcades, the closed coronal magnetic field may extend radially outward, forming what is known as a helmet streamer . These streamers may reach a solar radius or more above the Sun's surface.
+
+Filament channels and their prominence, if present, exhibit chirality . When observed from the side of the filament channel with positive magnetic polarity, the channel is said to be dextral if the horizontal magnetic field is oriented rightward and sinistral if it is oriented leftward. Dextral channels have been found more frequently in the Sun's northern hemisphere and sinistral channels more frequently in the southern hemisphere.
+
+The horizontally oriented magnetic field causes chromospheric fibrils along the filament channel to lie nearly parallel to the PIL and anti-parallel to one another on opposite sides of the PIL. The directions that these fibrils are oriented depend on the chirality of the channel. On the side of the PIL with positive magnetic polarity, dextral channels have fibrils which stream to the right and barbs which bear to the right, whereas sinistral channels have fibrils which stream to the left and barbs which bear to the left. Additionally, the overlying magnetic arcades of dextral channels are left-skewed, and those of sinistral channels are right-skewed.
+
+The exact mechanism which leads to the formation of solar prominences is not currently known. Models must be able to explain the formation of the filament channel and its hemisphere-dependent chirality , as well as the origin of the dense plasma that makes up the prominence core.
+
+Some prominences are ejected from the Sun in what is known as a prominence eruption . These eruptions can have speeds ranging from 600 km/s to more than 1000 km/s. At least 70% of prominence eruptions are associated with an ejection of coronal material into the solar wind known as a coronal mass ejection .

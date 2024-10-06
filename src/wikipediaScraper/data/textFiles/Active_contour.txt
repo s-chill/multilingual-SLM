@@ -1,0 +1,125 @@
+Active contour model , also called snakes , is a framework in computer vision introduced by Michael Kass , Andrew Witkin , and Demetri Terzopoulos for delineating an object outline from a possibly noisy 2D image . The snakes model is popular in computer vision, and snakes are widely used in applications like object tracking, shape recognition, segmentation , edge detection and stereo matching.
+
+A snake is an energy minimizing, deformable spline influenced by constraint and image forces that pull it towards object contours and internal forces that resist deformation. Snakes may be understood as a special case of the general technique of matching a deformable model to an image by means of energy minimization. In two dimensions, the active shape model represents a discrete version of this approach, taking advantage of the point distribution model to restrict the shape range to an explicit domain learnt from a training set.
+
+Snakes do not solve the entire problem of finding contours in images, since the method requires knowledge of the desired contour shape beforehand. Rather, they depend on other mechanisms such as interaction with a user, interaction with some higher level image understanding process, or information from image data adjacent in time or space.
+
+In computer vision, contour models describe the boundaries of shapes in an image. Snakes in particular are designed to solve problems where the approximate shape of the boundary is known. By being a deformable model, snakes can adapt to differences and noise in stereo matching and motion tracking. Additionally, the method can find Illusory contours in the image by ignoring missing boundary information.
+
+Compared to classical feature extraction techniques, snakes have multiple advantages:
+
+The key drawbacks of the traditional snakes are
+
+A simple elastic snake is defined by a set of n points v i {\displaystyle \mathbf {v} _{i}} for i = 0 , … , n − 1 {\displaystyle i=0,\ldots ,n-1} , the internal elastic energy term E internal {\displaystyle E_{\text{internal}}} , and the external edge-based energy term E external {\displaystyle E_{\text{external}}} . The purpose of the internal energy term is to control the deformations made to the snake, and the purpose of the external energy term is to control the fitting of the contour onto the image. The external energy is usually a combination of the forces due to the image itself E image {\displaystyle E_{\text{image}}} and the constraint forces introduced by the user E con {\displaystyle E_{\text{con}}}
+
+The energy function of the snake is the sum of its external energy and internal energy, or
+
+The internal energy of the snake is composed of the continuity of the contour E cont {\displaystyle E_{\text{cont}}} and the smoothness of the contour E curv {\displaystyle E_{\text{curv}}} .
+
+This can be expanded as
+
+where α ( s ) {\displaystyle \alpha (s)} and β ( s ) {\displaystyle \beta (s)} are user-defined weights; these control the internal energy function's sensitivity to the amount of stretch in the snake and the amount of curvature in the snake, respectively, and thereby control the number of constraints on the shape of the snake.
+
+In practice, a large weight α ( s ) {\displaystyle \alpha (s)} for the continuity term penalizes changes in distances between points in the contour. A large weight β ( s ) {\displaystyle \beta (s)} for the smoothness term penalizes oscillations in the contour and will cause the contour to act as a thin plate.
+
+Energy in the image is some function of the features of the image. This is one of the most common points of modification in derivative methods. Features in images and images themselves can be processed in many and various ways.
+
+For an image I ( x , y ) {\displaystyle I(x,y)} , lines, edges, and terminations present in the image, the general formulation of energy due to the image is
+
+where w line {\displaystyle w_{\text{line}}} , w edge {\displaystyle w_{\text{edge}}} , w term {\displaystyle w_{\text{term}}} are weights of these salient features. Higher weights indicate that the salient feature will have a larger contribution to the image force.
+
+The line functional is the intensity of the image, which can be represented as
+
+The sign of w line {\displaystyle w_{\text{line}}} will determine whether the line will be attracted to either dark lines or light lines.
+
+Some smoothing or noise reduction may be used on the image, which then the line functional appears as
+
+The edge functional is based on the image gradient. One implementation of this is
+
+A snake originating far from the desired object contour may erroneously converge to some local minimum. Scale space continuation can be used in order to avoid these local minima. This is achieved by using a blur filter on the image and reducing the amount of blur as the calculation progresses to refine the fit of the snake. The energy functional using scale space continuation is
+
+where G σ {\displaystyle G_{\sigma }} is a Gaussian with standard deviation σ {\displaystyle \sigma } . Minima of this function fall on the zero-crossings of G σ ∇ 2 I {\displaystyle G_{\sigma }\,\nabla ^{2}I} which define edges as per Marr–Hildreth theory.
+
+Curvature of level lines in a slightly smoothed image can be used to detect corners and terminations in an image. Using this method, let C ( x , y ) {\displaystyle C(x,y)} be the image smoothed by
+
+with gradient angle
+
+unit vectors along the gradient direction
+
+and unit vectors perpendicular to the gradient direction
+
+The termination functional of energy can be represented as
+
+Some systems, including the original snakes implementation, allowed for user interaction to guide the snakes, not only in initial placement but also in their energy terms. Such constraint energy E c o n {\displaystyle E_{con}} can be used to interactively guide the snakes towards or away from particular features.
+
+Given an initial guess for a snake, the energy function of the snake is iteratively minimized. Gradient descent minimization is one of the simplest optimizations which can be used to minimize snake energy. Each iteration takes one step in the negative gradient of the point with controlled step size γ {\displaystyle \gamma } to find local minima. This gradient-descent minimization can be implemented as
+
+Where F snake ( v ¯ i ) {\displaystyle F_{\text{snake}}({\bar {v}}_{i})} is the force on the snake, which is defined by the negative of the gradient of the energy field.
+
+Assuming the weights α ( s ) {\displaystyle \alpha (s)} and β ( s ) {\displaystyle \beta (s)} are constant with respect to s {\displaystyle s} , this iterative method can be simplified to
+
+In practice, images have finite resolution and can only be integrated over finite time steps τ {\displaystyle \tau } . As such, discrete approximations must be made for practical implementation of snakes.
+
+The energy function of the snake can be approximated by using the discrete points on the snake.
+
+Consequentially, the forces of the snake can be approximated as
+
+Gradient approximation can be done through any finite approximation method with respect to s , such as Finite difference .
+
+The introduction of discrete time into the algorithm can introduce updates which the snake is moved past the minima it is attracted to; this further can cause oscillations around the minima or lead to a different minima being found.
+
+This can be avoided through tuning the time step such that the step size is never greater than a pixel due to the image forces. However, in regions of low energy, the internal energies will dominate the update.
+
+Alternatively, the image forces can be normalized for each step such that the image forces only update the snake by one pixel. This can be formulated as
+
+where τ k {\displaystyle \tau k} is near the value of the pixel size. This avoids the problem of dominating internal energies that arise from tuning the time step.
+
+The energies in a continuous image may have zero-crossing that do not exist as a pixel in the image. In this case, a point in the snake would oscillate between the two pixels that neighbor this zero-crossing. This oscillation can be avoided by using interpolation between pixels instead of nearest neighbor.
+
+The default method of snakes has various limitation and corner cases where the convergence performs poorly. Several alternatives exist which addresses issues of the default method, though with their own trade-offs. A few are listed here.
+
+The gradient vector flow (GVF) snake model addresses two issues with snakes:
+
+In 2D, the GVF vector field F GVF {\displaystyle F_{\text{GVF}}} minimizes the energy functional
+
+where μ {\displaystyle \mu } is a controllable smoothing term. This can be solved by solving the Euler equations
+
+This can be solved through iteration towards a steady-state value.
+
+This result replaces the default external force.
+
+The primary issue with using GVF is the smoothing term μ {\displaystyle \mu } causes rounding of the edges of the contour. Reducing the value of μ {\displaystyle \mu } reduces the rounding but weakens the amount of smoothing.
+
+The balloon model addresses these problems with the default active contour model:
+
+The balloon model introduces an inflation term into the forces acting on the snake
+
+where n → ( s ) {\displaystyle {\vec {n}}(s)} is the normal unitary vector of the curve at v ( s ) {\displaystyle v(s)} and k 1 {\displaystyle k_{1}} is the magnitude of the force. k 1 {\displaystyle k_{1}} should have the same magnitude as the image normalization factor k {\displaystyle k} and be smaller in value than k {\displaystyle k} to allow forces at image edges to overcome the inflation force.
+
+Three issues arise from using the balloon model:
+
+The diffusion snake model addresses the sensitivity of snakes to noise, clutter, and occlusion. It implements a modification of the Mumford–Shah functional and its cartoon limit and incorporates statistical shape knowledge. The default image energy functional E image {\displaystyle E_{\text{image}}} is replaced with
+
+where E i {\displaystyle E_{i}} is based on a modified Mumford–Shah functional
+
+where J ( x → ) {\displaystyle J({\vec {x}})} is the piecewise smooth model of the image I ( x → ) {\displaystyle I({\vec {x}})} of domain D {\displaystyle D} . Boundaries B ( s ) {\displaystyle B(s)} are defined as
+
+where B n ( s ) {\displaystyle B_{n}(s)} are quadratic B-spline basis functions and p → n {\displaystyle {\vec {p}}_{n}} are the control points of the splines. The modified cartoon limit is obtained as λ → ∞ {\displaystyle \lambda \to \infty } and is a valid configuration of E i {\displaystyle E_{i}} .
+
+The functional E c {\displaystyle E_{c}} is based on training from binary images of various contours and is controlled in strength by the parameter α {\displaystyle \alpha } . For a Gaussian distribution of control point vectors z → {\displaystyle {\vec {z}}} with mean control point vector z → 0 {\displaystyle {\vec {z}}_{0}} and covariance matrix Σ {\displaystyle \Sigma } , the quadratic energy that corresponds to the Gaussian probability is
+
+The strength of this method relies on the strength of the training data as well as the tuning of the modified Mumford–Shah functional. Different snakes will require different training data sets and tunings.
+
+Geometric active contour, or geodesic active contour (GAC) or conformal active contours employs ideas from Euclidean curve shortening evolution. Contours split and merge depending on the detection of objects in the image. These models are largely inspired by level sets , and have been extensively employed in medical image computing .
+
+For example, the gradient descent curve evolution equation of GAC is
+
+where g ( I ) {\displaystyle g(I)} is a halting function, c is a Lagrange multiplier, κ {\displaystyle \kappa } is the curvature, and N → {\displaystyle {\vec {N}}} is the unit inward normal. This particular form of curve evolution equation is only dependent on the velocity in the normal direction. It therefore can be rewritten equivalently in an Eulerian form by inserting the level set function Φ {\displaystyle \Phi } into it as follows
+
+This simple yet powerful level-set reformation enables active contours to handle topology changes during the gradient descent curve evolution. It has inspired tremendous progress in the related fields, and using numerical methods to solve the level-set reformulation is now commonly known as the level-set method . Although the level set method has become quite a popular tool for implementing active contours, Wang and Chan argued that not all curve evolution equations should be directly solved by it.
+
+More recent developments in active contours address modeling of regional properties, incorporation of flexible shape priors and fully automatic segmentation, etc.
+
+Statistical models combining local and global features have been formulated by Lankton and Allen Tannenbaum .
+
+Graph cuts , or max-flow/min-cut , is a generic method for minimizing a particular form of energy called Markov random field (MRF) energy. The Graph cuts method has been applied to image segmentation as well, and it sometimes outperforms the level set method when the model is MRF or can be approximated by MRF.

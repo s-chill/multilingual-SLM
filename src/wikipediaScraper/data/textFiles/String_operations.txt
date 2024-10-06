@@ -1,0 +1,15 @@
+This comparison of programming languages (strings) compares the features of string data structures or text-string processing for over 52 various computer programming languages .
+
+Different languages use different symbols for the concatenation operator. Many languages use the "+" symbol, though several deviate from this.
+
+This section compares styles for declaring a string literal .
+
+An expression is "interpolated" into a string when the compiler/interpreter evaluates it and inserts the result in its place.
+
+"Escaped" quotes means that a 'flag' symbol is used to warn that the character after the flag is used in the string rather than ending the string.
+
+"Dual quoting" means that whenever a quote is used in a string, it is used twice, and one of them is discarded and the single quote is then used within the string.
+
+"Raw" means the compiler treats every character within the literal exactly as written, without processing any escapes or interpolations.
+
+Many languages have a syntax specifically intended for strings with multiple lines. In some of these languages, this syntax is a here document or "heredoc": A token representing the string is put in the middle of a line of code, but the code continues after the starting token and the string's content doesn't appear until the next line. In other languages, the string's content starts immediately after the starting token and the code continues after the string literal's terminator.

@@ -1,0 +1,13 @@
+A cold air intake ( CAI ) is usually an aftermarket assembly of parts used to bring relatively cool air into a car 's internal-combustion engine .
+
+Most vehicles manufactured from the mid-1970s until the mid-1990s have thermostatic air intake systems that regulate the temperature of the air entering the engine's intake tract, providing warm air when the engine is cold and cold air when the engine is warm to maximize performance, efficiency, and fuel economy. With the advent of advanced emission controls and more advanced fuel injection methods, modern vehicles do not have a thermostatic air intake system and the factory-installed air intake draws unregulated cold air.  Aftermarket cold air intake systems are marketed with claims of increased engine efficiency and performance. The putative principle behind a cold air intake is that cooler air has a higher density , thus containing more oxygen per volume unit, than warmer air.
+
+Some strategies used in designing aftermarket cold air intakes are:
+
+Intake systems come in many different styles and can be constructed from plastic, metal, rubber (silicone) or composite materials ( fiberglass , carbon fiber or Kevlar ). Tubing can be steel, stainless steel, aluminum, plastic, or a combination of materials. The most efficient intake systems utilize an airbox which is sized to complement the engine and will extend the powerband of the engine. The intake snorkel (opening for the intake air to enter the system) must be large enough to ensure sufficient air is available to the engine under all conditions from idle to full throttle.
+
+The most basic cold air intake consists of a long metal or plastic tube leading to a conical air filter. Power may be lost at certain engine speeds and gained at others. Because of the reduced covering, intake noise is usually increased.
+
+Some intakes use heat shields to isolate the air filter from the rest of the engine compartment, providing cooler air from the front or side of the engine bay. This can make a big difference to intake temperatures, especially when the car is moving slowly. Some systems, called "fender mount," move the filter into the fender wall instead. This system draws air up through the fender wall, which provides even more isolation and still cooler air.
+
+The following items can have an effect on CAI efficiency:

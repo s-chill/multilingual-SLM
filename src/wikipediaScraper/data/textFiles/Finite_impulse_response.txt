@@ -1,0 +1,61 @@
+In signal processing , a finite impulse response ( FIR ) filter is a filter whose impulse response (or response to any finite length input) is of finite duration, because it settles to zero in finite time. This is in contrast to infinite impulse response (IIR) filters, which may have internal feedback and may continue to respond indefinitely (usually decaying).
+
+The impulse response (that is, the output in response to a Kronecker delta input) of an N -order discrete-time FIR filter lasts exactly N + 1 {\displaystyle N+1} samples (from first nonzero element through last nonzero element) before it then settles to zero.
+
+FIR filters can be discrete-time or continuous-time , and digital or analog .
+
+For a causal discrete-time FIR filter of order N , each value of the output sequence is a weighted sum of the most recent input values :
+
+where :
+
+This computation is also known as discrete convolution .
+
+The x [ n − i ] {\textstyle x[n-i]} in these terms are commonly referred to as tap s , based on the structure of a tapped delay line that in many implementations or block diagrams provides the delayed inputs to the multiplication operations.  One may speak of a 5th order/6-tap filter , for instance.
+
+The impulse response of the filter as defined is nonzero over a finite duration. Including zeros, the impulse response is the infinite sequence :
+
+If an FIR filter is non-causal, the range of nonzero values in its impulse response can start before n = 0 {\displaystyle n=0} , with the defining formula appropriately generalized.
+
+An FIR filter has a number of useful properties which sometimes make it preferable to an infinite impulse response (IIR) filter. FIR filters:
+
+The main disadvantage of FIR filters is that considerably more computation power in a general purpose processor is required compared to an IIR filter with similar sharpness or selectivity , especially when low frequency (relative to the sample rate) cutoffs are needed.  However, many digital signal processors provide specialized hardware features to make FIR filters approximately as efficient as IIR for many applications.
+
+The filter's effect on the sequence x [ n ] {\displaystyle x[n]} is described in the frequency domain by the convolution theorem :
+
+where operators F {\displaystyle {\mathcal {F}}} and F − 1 {\displaystyle {\mathcal {F}}^{-1}} respectively denote the discrete-time Fourier transform (DTFT) and its inverse. Therefore, the complex-valued, multiplicative function H ( ω ) {\displaystyle H(\omega )} is the filter's frequency response .  It is defined by a Fourier series :
+
+where the added subscript denotes 2 π {\displaystyle 2\pi } -periodicity. Here ω {\displaystyle \omega } represents frequency in normalized units ( radians per sample ). The function H 2 π ( 2 π f ′ ) {\displaystyle H_{2\pi }(2\pi f')} has a periodicity of 1 {\displaystyle 1} with f ′ {\displaystyle f'} in units of cycles per sample , which is favored by many filter design applications. The value ω = π {\displaystyle \omega =\pi } , called Nyquist frequency , corresponds to f ′ = 1 2 . {\displaystyle f'={\tfrac {1}{2}}.} When the sequence x [ n ] {\displaystyle x[n]} has a known sampling-rate f s {\displaystyle f_{s}} (in samples per second ), ordinary frequency is related to normalized frequency by f = f ′ ⋅ f s = ω 2 π ⋅ f s {\displaystyle f=f'\cdot f_{s}={\tfrac {\omega }{2\pi }}\cdot f_{s}} cycles per second ( Hz ).  Conversely, if one wants to design a filter for ordinary frequencies f 1 , {\displaystyle f_{1},} f 2 , {\displaystyle f_{2},} etc., using an application that expects cycles per sample , one would enter f 1 / f s , {\displaystyle f_{1}/f_{s},} f 2 / f s , {\displaystyle f_{2}/f_{s},} etc.
+
+H 2 π ( ω ) {\displaystyle H_{2\pi }(\omega )} can also be expressed in terms of the Z-transform of the filter impulse response:
+
+FIR filters are designed by finding the coefficients and filter order that meet certain specifications, which can be in the time domain (e.g. a matched filter ) or the frequency domain (most common).  Matched filters perform a cross-correlation between the input signal and a known pulse shape.  The FIR convolution is a cross-correlation between the input signal and a time-reversed copy of the impulse response.  Therefore, the matched filter's impulse response is "designed" by sampling the known pulse-shape and using those samples in reverse order as the coefficients of the filter.
+
+When a particular frequency response is desired, several different design methods are common:
+
+Software packages such as MATLAB , GNU Octave , Scilab , and SciPy provide convenient ways to apply these different methods.
+
+In the window design method, one first designs an ideal IIR filter and then truncates the infinite impulse response by multiplying it with a finite length window function . The result is a finite impulse response filter whose frequency response is modified from that of the IIR filter. Multiplying the infinite impulse by the window function in the time domain results in the frequency response of the IIR being convolved with the Fourier transform (or DTFT) of the window function. If the window's main lobe is narrow, the composite frequency response remains close to that of the ideal IIR filter.
+
+The ideal response is often rectangular, and the corresponding IIR is a sinc function .  The result of the frequency domain convolution is that the edges of the rectangle are tapered, and ripples appear in the passband and stopband.  Working backward, one can specify the slope (or width) of the tapered region ( transition band ) and the height of the ripples, and thereby derive the frequency-domain parameters of an appropriate window function.  Continuing backward to an impulse response can be done by iterating a filter design program to find the minimum filter order.  Another method is to restrict the solution set to the parametric family of Kaiser windows , which provides closed form relationships between the time-domain and frequency domain parameters.  In general, that method will not achieve the minimum possible filter order, but it is particularly convenient for automated applications that require dynamic, on-the-fly, filter design.
+
+The window design method is also advantageous for creating efficient half-band filters , because the corresponding sinc function is zero at every other sample point (except the center one).  The product with the window function does not alter the zeros, so almost half of the coefficients of the final impulse response are zero.  An appropriate implementation of the FIR calculations can exploit that property to double the filter's efficiency.
+
+Goal:
+
+Method:
+
+In addition, we can treat the importance of passband and stopband differently according to our needs by adding a weighted function, W ( f ) {\displaystyle W(f)} Then, the MSE error becomes
+
+A moving average filter is a very simple FIR filter. It is sometimes called a boxcar filter, especially when followed by decimation , or a sinc-in-frequency . The filter coefficients, b 0 , … , b N {\textstyle b_{0},\ldots ,b_{N}} , are found via the following equation:
+
+To provide a more specific example, we select the filter order:
+
+The impulse response of the resulting filter is :
+
+The block diagram on the right shows the second-order moving-average filter discussed below. The transfer function is :
+
+The next figure shows the corresponding pole–zero diagram .  Zero frequency (DC) corresponds to (1, 0), positive frequencies advancing counterclockwise around the circle to the Nyquist frequency at (−1, 0).  Two poles are located at the origin, and two zeros are located at z 1 = − 1 2 + j 3 2 {\textstyle z_{1}=-{\frac {1}{2}}+j{\frac {\sqrt {3}}{2}}} , z 2 = − 1 2 − j 3 2 {\textstyle z_{2}=-{\frac {1}{2}}-j{\frac {\sqrt {3}}{2}}} .
+
+The frequency response, in terms of normalized frequency ω , is :
+
+The magnitude and phase components of H ( e j ω ) {\textstyle H\left(e^{j\omega }\right)} are plotted in the figure. But plots like these can also be generated by doing a discrete Fourier transform (DFT) of the impulse response. And because of symmetry, filter design or viewing software often displays only the [0, π] region. The magnitude plot indicates that the moving-average filter passes low frequencies with a gain near 1 and attenuates high frequencies, and is thus a crude low-pass filter . The phase plot is linear except for discontinuities at the two frequencies where the magnitude goes to zero.  The size of the discontinuities is π, representing a sign reversal. They do not affect the property of linear phase, as illustrated in the final figure.

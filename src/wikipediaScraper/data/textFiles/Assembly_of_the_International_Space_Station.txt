@@ -1,0 +1,45 @@
+The process of assembling the International Space Station (ISS) has been under way since the 1990s. Zarya , the first ISS module, was launched by a Proton rocket on 20 November 1998. The STS-88 Space Shuttle mission followed two weeks after Zarya was launched, bringing Unity , the first of three node modules, and connecting it to Zarya . This bare 2-module core of the ISS remained uncrewed for the next one and a half years, until in July 2000 the Russian module Zvezda was launched by a Proton rocket, allowing a maximum crew of three astronauts or cosmonauts to be on the ISS permanently.
+
+The ISS has a pressurized volume of approximately 1,000 cubic metres (35,000 cu ft), a mass of approximately 410,000 kilograms (900,000 lb), approximately 100 kilowatts of power output, a truss 108.4 metres (356 ft) long, modules 74 metres (243 ft) long, and a crew of seven. Building the complete station required more than 40 assembly flights. As of 2020, 36 Space Shuttle flights delivered ISS elements. Other assembly flights consisted of modules lifted by the Falcon 9 , Russian Proton rocket or, in the case of Pirs and Poisk , the Soyuz-U rocket.
+
+Some of the larger modules include:
+
+The space station is located in orbit around the Earth at an altitude of approximately 410 km (250 mi), a type of orbit usually termed low Earth orbit (the actual height varies over time by several kilometers due to atmospheric drag and reboosts ). It orbits Earth in a period of about 90 minutes; by August 2007 it had completed more than 50,000 orbits since launch of Zarya on 20 November 1998.
+
+A total of 14 main pressurized modules were scheduled to be part of the ISS by its completion date in 2010. A number of smaller pressurized sections will be adjunct to them ( Soyuz spacecraft (permanently 2 as lifeboats – 6 months rotations), Progress transporters (2 or more), the Quest and Pirs airlocks, as well as periodically the H-II Transfer Vehicle ).
+
+The US Orbital Segment was completed in 2011 after the installation of the Alpha Magnetic Spectrometer during the STS-134 mission. The Russian Orbital Segment assembly has been on an indefinite hiatus since the installation of the Rassvet module in 2010 during the STS-132 mission. The Rassvet module on the ISS right now was originally supposed to be the on-ground dynamic testing mock-up of the now-cancelled Science Power Platform . The Nauka science laboratory module contains new crew quarters, life support equipment that can produce oxygen and water, and a new galley. The Nauka was originally supposed to be delivered to the ISS in 2007 but cost overruns and quality control problems delayed it for over a decade. The Nauka module finally launched in July 2021 and docked to the nadir port of Zvezda module after several days of free flight followed by the Prichal which launched on 24 November 2021.
+
+There are plans to add 2 or 3 more modules that would attach to Prichal during the mid-2020s. Adding more Russian modules will help the Zvezda module greatly because Zvezda's originally installed central command computers no longer work (three ThinkPad laptops are now the Zvezda's central command computers) and its Elektron oxygen generators are not replaceable and failed again for a short time in 2020 after multiple malfunctions throughout their history. In Russian modules all the hardware is launched with the equipment permanently installed. It is impossible to replace hardware like in the US Orbital Segment with its very wide 51 inch (105 cm) hatch openings between modules. This potential problem with the Zvezda was made apparent when in October 2020 the toilet, oven, and Elektron all malfunctioned at the same time and the cosmonauts onboard had to make emergency repairs.
+
+The ISS, when completed, will consist of a set of communicating pressurized modules connected to a truss , on which four large pairs of photovoltaic modules (solar panels) are attached. The pressurized modules and the truss are perpendicular: the truss spanning from starboard to port and the habitable zone extending on the aft -forward axis. Although during the construction the station attitude may vary, when all four photovoltaic modules are in their definitive position the aft-forward axis will be parallel to the velocity vector.
+
+In addition to the assembly and utilization flights, approximately 30 Progress spacecraft flights are required to provide logistics until 2010. Experimental equipment, fuel and consumables are and will be delivered by all vehicles visiting the ISS: the SpaceX Dragon , the Russian Progress, the European ATV and the Japanese HTV , and space station downmass will be carried back to Earth facilities on the Dragon.
+
+After the Space Shuttle Columbia disaster on 1 February 2003, there was some uncertainty over the future of the ISS. The subsequent two and a half-year suspension of the U.S. Space Shuttle program , followed by problems with resuming flight operations in 2005, were major obstacles.
+
+The Space Shuttle program resumed flight on 26 July 2005, with the STS-114 mission of Discovery . This mission to the ISS was intended both to test new safety measures implemented since the Columbia disaster and deliver supplies to the station. Although the mission succeeded safely, it was not without risk; foam was shed by the external tank , leading NASA to announce future missions would be grounded until this issue was resolved.
+
+Between the Columbia disaster and the resumption of Shuttle launches, crew exchanges were carried out solely using the Russian Soyuz spacecraft . Starting with Expedition 7 , two-astronaut caretaker crews were launched in contrast to the previously launched crews of three. Because the ISS had not been visited by a shuttle for an extended period, a larger than planned amount of waste accumulated, temporarily hindering station operations in 2004. However Progress transports and the STS-114 shuttle flight took care of this problem.
+
+Many changes were made to the originally planned ISS, even before the Columbia disaster.  Modules and other structures were cancelled or replaced, and the number of Shuttle flights to the ISS was reduced from previously planned numbers. However, more than 80% of the hardware intended to be part of the ISS in the late 1990s was orbited and is now part of the ISS's configuration.
+
+During the shuttle stand-down, construction of the ISS was halted and the science conducted aboard was limited due to the crew size of two, adding to earlier delays due to Shuttle problems and the Russian space agency's budget constraints.
+
+In March 2006, a meeting of the heads of the five participating space agencies accepted the new ISS construction schedule that planned to complete the ISS by 2010.
+
+As of May 2009, a crew of six has been established following 12 Shuttle construction flights after the second "Return to Flight" mission STS-121 . Requirements for stepping up the crew size included enhanced environmental support on the ISS, a second Soyuz permanently docked on the station to function as a second 'lifeboat', more frequent Progress flights to provide double the amount of consumables, more fuel for orbit raising maneuvers, and a sufficient supply line of experimental equipment. As of November 2020, the crew capacity has increased to seven due to the launch of Crew Dragon by SpaceX , which can carry 4 astronauts to the ISS.
+
+Later additions included the Bigelow Expandable Activity Module (BEAM) in 2016, and numerous Russian components are planned as part of the in-orbit construction of OPSEK .
+
+The ISS is made up of 16 pressurized modules: six Russian modules ( Zarya , Zvezda , Poisk , Rassvet , Nauka , and Prichal ), eight US modules ( BEAM , Leonardo , Harmony , Quest , Tranquility , Unity , Cupola , and Destiny ), one Japanese module ( Kibō ) and one European module ( Columbus ).
+
+At least one Russian pressurized module ( Pirs ) is deorbited till now.
+
+Although not permanently docked with the ISS, Multi-Purpose Logistics Modules (MPLMs) formed part of the ISS during some Shuttle missions. An MPLM was attached to Harmony (initially to Unity ) and was used for resupply and logistics flights.
+
+Spacecraft attached to the ISS also extend the pressurized volume. At least one Soyuz spacecraft is always docked as a 'lifeboat' and is replaced every six months by a new Soyuz as part of crew rotation. Table below shows the sequence in which these components were added to the ISS. Decommissioned and deorbited Modules are shown in gray.
+
+The following module was built, but has not been used in future plans for the ISS as of January 2021.
+
+The ISS is credited as the most expensive item ever built, costing around $150 billion (USD), making it more expensive than Skylab  (costing US$2.2 billion) and Mir (US$4.2 billion).

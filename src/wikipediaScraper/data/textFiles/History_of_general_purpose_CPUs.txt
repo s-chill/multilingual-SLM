@@ -1,0 +1,157 @@
+The history of general-purpose CPUs is a continuation of the earlier history of computing hardware .
+
+In the early 1950s, each computer design was unique. There were no upward-compatible machines or computer architectures with multiple, differing implementations. Programs written for one machine would run on no other kind, even other kinds from the same company. This was not a major drawback then because no large body of software had been developed to run on computers, so starting programming from scratch was not seen as a large barrier.
+
+The design freedom of the time was very important because designers were very constrained by the cost of electronics, and only starting to explore how a computer could best be organized. Some of the basic features introduced during this period included index registers (on the Ferranti Mark 1 ), a return address saving instruction ( UNIVAC I ), immediate operands ( IBM 704 ), and detecting invalid operations ( IBM 650 ).
+
+By the end of the 1950s, commercial builders had developed factory-constructed, truck-deliverable computers. The most widely installed computer was the IBM 650 , which used drum memory onto which programs were loaded using either paper punched tape or punched cards . Some very high-end machines also included core memory which provided higher speeds. Hard disks were also starting to grow popular.
+
+A computer is an automatic abacus . The type of number system affects the way it works. In the early 1950s, most computers were built for specific numerical processing tasks, and many machines used decimal numbers as their basic number system; that is, the mathematical functions of the machines worked in base-10 instead of base-2 as is common today. These were not merely binary-coded decimal (BCD). Most machines had ten vacuum tubes per digit in each processor register . Some early Soviet computer designers implemented systems based on ternary logic ; that is, a bit could have three states: +1, 0, or -1, corresponding to positive, zero, or negative voltage.
+
+An early project for the U.S. Air Force , BINAC attempted to make a lightweight, simple computer by using binary arithmetic. It deeply impressed the industry.
+
+As late as 1970, major computer languages were unable to standardize their numeric behavior because decimal computers had groups of users too large to alienate.
+
+Even when designers used a binary system, they still had many odd ideas. Some used sign-magnitude arithmetic (-1 = 10001), or ones' complement (-1 = 11110), rather than modern two's complement arithmetic (-1 = 11111). Most computers used six-bit character sets because they adequately encoded Hollerith punched cards . It was a major revelation to designers of this period to realize that the data word should be a multiple of the character size. They began to design computers with 12-, 24- and 36-bit data words (e.g., see the TX-2 ).
+
+In this era, Grosch's law dominated computer design: computer cost increased as the square of its speed.
+
+One major problem with early computers was that a program for one would work on no others. Computer companies found that their customers had little reason to remain loyal to a given brand, as the next computer they bought would be incompatible anyway. At that point, the only concerns were usually price and performance.
+
+In 1962, IBM tried a new approach to designing computers. The plan was to make a family of computers that could all run the same software, but with different performances, and at different prices. As users' needs grew, they could move up to larger computers, and still keep all of their investment in programs, data and storage media.
+
+To do this, they designed one reference computer named System/360 (S/360). This was a virtual computer, a reference instruction set, and abilities that all machines in the family would support. To provide different classes of machines, each computer in the family would use more or less hardware emulation, and more or less microprogram emulation, to create a machine able to run the full S/360 instruction set .
+
+For instance, a low-end machine could include a very simple processor for low cost. However this would require the use of a larger microcode emulator to provide the rest of the instruction set, which would slow it down. A high-end machine would use a much more complex processor that could directly process more of the S/360 design, thus running a much simpler and faster emulator.
+
+IBM chose consciously to make the reference instruction set quite complex, and very capable. Even though the computer was complex, its control store holding the microprogram would stay relatively small, and could be made with very fast memory. Another important effect was that one instruction could describe quite a complex sequence of operations. Thus the computers would generally have to fetch fewer instructions from the main memory, which could be made slower, smaller and less costly for a given mix of speed and price.
+
+As the S/360 was to be a successor to both scientific machines like the 7090 and data processing machines like the 1401 , it needed a design that could reasonably support all forms of processing. Hence the instruction set was designed to manipulate simple binary numbers, and text, scientific floating-point (similar to the numbers used in a calculator), and the binary-coded decimal arithmetic needed by accounting systems.
+
+Almost all following computers included these innovations in some form. This basic set of features is now called complex instruction set computing (CISC, pronounced "sisk"), a term not invented until many years later, when reduced instruction set computing (RISC) began to get market share.
+
+In many CISCs, an instruction could access either registers or memory, usually in several different ways. This made the CISCs easier to program, because a programmer could remember only thirty to a hundred instructions, and a set of three to ten addressing modes rather than thousands of distinct instructions. This was called an orthogonal instruction set . The PDP-11 and Motorola 68000 architecture are examples of nearly orthogonal instruction sets.
+
+There was also the BUNCH ( Burroughs , UNIVAC , NCR , Control Data Corporation , and Honeywell ) that competed against IBM at this time; however, IBM dominated the era with S/360.
+
+The Burroughs Corporation (which later merged with Sperry/Univac to form Unisys ) offered an alternative to S/360 with their Burroughs large systems B5000 series. In 1961, the B5000 had virtual memory, symmetric multiprocessing, a multiprogramming operating system (Master Control Program (MCP)), written in ALGOL 60 , and the industry's first recursive-descent compilers as early as 1964.
+
+The first commercial microprocessor , the binary-coded decimal (BCD) based Intel 4004 , was released by Intel in 1971. In March 1972, Intel introduced a microprocessor with an 8-bit architecture, the 8008 , an integrated pMOS logic re-implementation of the transistor–transistor logic (TTL) based Datapoint 2200 CPU.
+
+4004 designers Federico Faggin and Masatoshi Shima went on to design the 8008's successor, the Intel 8080 , a slightly more minicomputer -like microprocessor, largely based on customer feedback on the limited 8008. Much like the 8008, it was used for applications such as terminals, printers, cash registers and industrial robots. However, the more able 8080 also became the original target CPU for an early de facto standard personal computer operating system called CP/M and was used for such demanding control tasks as cruise missiles , and many other uses. Released in 1974, the 8080 became one of the first really widespread microprocessors.
+
+By the mid-1970s, the use of integrated circuits in computers was common. The decade was marked by market upheavals caused by the shrinking price of transistors.
+
+It became possible to put an entire CPU on one printed circuit board. The result was that minicomputers, usually with 16-bit words, and 4K to 64K of memory, became common.
+
+CISCs were believed to be the most powerful types of computers, because their microcode was small and could be stored in very high-speed memory. The CISC architecture also addressed the semantic gap as it was then perceived. This was a defined distance between the machine language, and the higher level programming languages used to program a machine. It was felt that compilers could do a better job with a richer instruction set.
+
+Custom CISCs were commonly constructed using bit slice computer logic such as the AMD 2900 chips, with custom microcode. A bit slice component is a piece of an arithmetic logic unit (ALU), register file or microsequencer. Most bit-slice integrated circuits were 4 bits wide.
+
+By the early 1970s, the 16-bit PDP-11 minicomputer was developed, arguably the most advanced small computer of its day. In the late 1970s, wider-word superminicomputers were introduced, such as the 32-bit VAX .
+
+IBM continued to make large, fast computers. However, the definition of large and fast now meant more than a megabyte of RAM, clock speeds near one megahertz, and tens of megabytes of disk drives.
+
+IBM's System 370 was a version of the 360 tweaked to run virtual computing environments. The virtual computer was developed to reduce the chances of an unrecoverable software failure.
+
+The Burroughs large systems (B5000, B6000, B7000) series reached its largest market share. It was a stack computer whose OS was programmed in a dialect of Algol.
+
+All these different developments competed for market share.
+
+The first single-chip 16-bit microprocessor was introduced in 1975. Panafacom , a conglomerate formed by Japanese companies Fujitsu , Fuji Electric , and Matsushita , introduced the MN1610, a commercial 16-bit microprocessor. According to Fujitsu, it was "the world's first 16-bit microcomputer on a single chip".
+
+The Intel 8080 was the basis for the 16-bit Intel 8086 , which is a direct ancestor to today's ubiquitous x86 family (including Pentium and Intel Core ). Every instruction of the 8080 has a direct equivalent in the large x86 instruction set, although the opcode values are different in the latter.
+
+In the early 1980s, researchers at UC Berkeley and IBM both discovered that most computer language compilers and interpreters used only a small subset of the instructions of complex instruction set computing (CISC). Much of the power of the CPU was being ignored in real-world use. They realized that by making the computer simpler and less orthogonal, they could make it faster and less costly at the same time.
+
+At the same time, CPU calculation became faster in relation to the time for needed memory accesses. Designers also experimented with using large sets of internal registers. The goal was to cache intermediate results in the registers under the control of the compiler. This also reduced the number of addressing modes and orthogonality.
+
+The computer designs based on this theory were called reduced instruction set computing (RISC). RISCs usually had larger numbers of registers, accessed by simpler instructions, with a few instructions specifically to load and store data to memory. The result was a very simple core CPU running at very high speed, supporting the sorts of operations the compilers were using anyway.
+
+A common variant on the RISC design employs the Harvard architecture , versus Von Neumann architecture or stored program architecture common to most other designs. In a Harvard Architecture machine, the program and data occupy separate memory devices and can be accessed simultaneously. In Von Neumann machines, the data and programs are mixed in one memory device, requiring sequential accessing which produces the so-called Von Neumann bottleneck .
+
+One downside to the RISC design was that the programs that run on them tend to be larger. This is because compilers must generate longer sequences of the simpler instructions to perform the same results. Since these instructions must be loaded from memory anyway, the larger code offsets some of the RISC design's fast memory handling.
+
+In the early 1990s, engineers at Japan's Hitachi found ways to compress the reduced instruction sets so they fit in even smaller memory systems than CISCs. Such compression schemes were used for the instruction set of their SuperH series of microprocessors, introduced in 1992. The SuperH instruction set was later adapted for ARM architecture 's Thumb instruction set. In applications that do not need to run older binary software, compressed RISCs are growing to dominate sales.
+
+Another approach to RISCs was the minimal instruction set computer (MISC), niladic , or zero-operand instruction set. This approach realized that most space in an instruction was used to identify the operands of the instruction. These machines placed the operands on a push-down (last-in, first out) stack . The instruction set was supplemented with a few instructions to fetch and store memory. Most used simple caching to provide extremely fast RISC machines, with very compact code. Another benefit was that the interrupt latencies were very small, smaller than most CISC machines (a rare trait in RISC machines). The Burroughs large systems architecture used this approach. The B5000 was designed in 1961, long before the term RISC was invented. The architecture puts six 8-bit instructions in a 48-bit word, and was a precursor to very long instruction word (VLIW) design (see below: 1990 to today ).
+
+The Burroughs architecture was one of the inspirations for Charles H. Moore 's programming language Forth , which in turn inspired his later MISC chip designs. For example, his f20 cores had 31 5-bit instructions, which fit four to a 20-bit word.
+
+RISC chips now dominate the market for 32-bit embedded systems. Smaller RISC chips are even growing common in the cost-sensitive 8-bit embedded-system market. The main market for RISC CPUs has been systems that need low power or small size.
+
+Even some CISC processors (based on architectures that were created before RISC grew dominant), such as newer x86 processors, translate instructions internally into a RISC-like instruction set.
+
+These numbers may surprise many, because the market is perceived as desktop computers. x86 designs dominate desktop and notebook computer sales, but such computers are only a tiny fraction of the computers now sold. Most people in industrialised countries own more computers in embedded systems in their car and house, than on their desks.
+
+In the mid-to-late 1980s, designers began using a technique termed instruction pipelining , in which the processor works on multiple instructions in different stages of completion. For example, the processor can retrieve the operands for the next instruction while calculating the result of the current one. Modern CPUs may use over a dozen such stages. (Pipelining was originally developed in the late 1950s by International Business Machines (IBM) on their 7030 (Stretch) mainframe computer.) Minimal instruction set computers (MISC) can execute instructions in one cycle with no need for pipelining.
+
+A similar idea, introduced only a few years later, was to execute multiple instructions in parallel on separate arithmetic logic units (ALUs). Instead of operating on only one instruction at a time, the CPU will look for several similar instructions that do not depend on each other, and execute them in parallel. This approach is called superscalar processor design.
+
+Such methods are limited by the degree of instruction level parallelism (ILP), the number of non-dependent instructions in the program code. Some programs can run very well on superscalar processors due to their inherent high ILP, notably graphics. However, more general problems have far less ILP, thus lowering the possible speedups from these methods.
+
+Branching is one major culprit. For example, a program may add two numbers and branch to a different code segment if the number is bigger than a third number. In this case, even if the branch operation is sent to the second ALU for processing, it still must wait for the results from the addition. It thus runs no faster than if there was only one ALU. The most common solution for this type of problem is to use a type of branch prediction .
+
+To further the efficiency of multiple functional units which are available in superscalar designs, operand register dependencies were found to be another limiting factor. To minimize these dependencies, out-of-order execution of instructions was introduced. In such a scheme, the instruction results which complete out-of-order must be re-ordered in program order by the processor for the program to be restartable after an exception. Out-of-order execution was the main advance of the computer industry during the 1990s.
+
+A similar concept is speculative execution , where instructions from one direction of a branch (the predicted direction) are executed before the branch direction is known. When the branch direction is known, the predicted direction and the actual direction are compared. If the predicted direction was correct, the speculatively executed instructions and their results are kept; if it was incorrect, these instructions and their results are erased. Speculative execution, coupled with an accurate branch predictor, gives a large performance gain.
+
+These advances, which were originally developed from research for RISC-style designs, allow modern CISC processors to execute twelve or more instructions per clock cycle, when traditional CISC designs could take twelve or more cycles to execute one instruction.
+
+The resulting instruction scheduling logic of these processors is large, complex and difficult to verify. Further, higher complexity needs more transistors, raising power consumption and heat. In these, RISC is superior because the instructions are simpler, have less interdependence, and make superscalar implementations easier. However, as Intel has demonstrated, the concepts can be applied to a complex instruction set computing (CISC) design, given enough time and money.
+
+The instruction scheduling logic that makes a superscalar processor is Boolean logic . In the early 1990s, a significant innovation was to realize that the coordination of a multi-ALU computer could be moved into the compiler , the software that translates a programmer's instructions into machine-level instructions.
+
+This type of computer is called a very long instruction word (VLIW) computer.
+
+Scheduling instructions statically in the compiler (versus scheduling dynamically in the processor) can reduce CPU complexity. This can improve performance, and reduce heat and cost.
+
+Unfortunately, the compiler lacks accurate knowledge of runtime scheduling issues. Merely changing the CPU core frequency multiplier will have an effect on scheduling. Operation of the program, as determined by input data, will have major effects on scheduling. To overcome these severe problems, a VLIW system may be enhanced by adding the normal dynamic scheduling, losing some of the VLIW advantages.
+
+Static scheduling in the compiler also assumes that dynamically generated code will be uncommon. Before the creation of Java and the Java virtual machine , this was true. It was reasonable to assume that slow compiles would only affect software developers. Now, with just-in-time compilation (JIT) virtual machines being used for many languages, slow code generation affects users also.
+
+There were several unsuccessful attempts to commercialize VLIW. The basic problem is that a VLIW computer does not scale to different price and performance points, as a dynamically scheduled computer can. Another issue is that compiler design for VLIW computers is very difficult, and compilers, as of 2005, often emit suboptimal code for these platforms.
+
+Also, VLIW computers optimise for throughput, not low latency, so they were unattractive to engineers designing controllers and other computers embedded in machinery. The embedded systems markets had often pioneered other computer improvements by providing a large market unconcerned about compatibility with older software.
+
+In January 2000, Transmeta Corporation took the novel step of placing a compiler in the central processing unit, and making the compiler translate from a reference byte code (in their case, x86 instructions) to an internal VLIW instruction set. This method combines the hardware simplicity, low power and speed of VLIW RISC with the compact main memory system and software reverse-compatibility provided by popular CISC.
+
+Intel 's Itanium chip is based on what they call an explicitly parallel instruction computing (EPIC) design. This design supposedly provides the VLIW advantage of increased instruction throughput. However, it avoids some of the issues of scaling and complexity, by explicitly providing in each bundle of instructions information concerning their dependencies. This information is calculated by the compiler, as it would be in a VLIW design. The early versions are also backward-compatible with newer x86 software by means of an on-chip emulator mode. Integer performance was disappointing and despite improvements, sales in volume markets continue to be low.
+
+Current designs work best when the computer is running only one program. However, nearly all modern operating systems allow running multiple programs together. For the CPU to change over and do work on another program needs costly context switching . In contrast, multi-threaded CPUs can handle instructions from multiple programs at once.
+
+To do this, such CPUs include several sets of registers. When a context switch occurs, the contents of the working registers are simply copied into one of a set of registers for this purpose.
+
+Such designs often include thousands of registers instead of hundreds as in a typical design. On the downside, registers tend to be somewhat costly in chip space needed to implement them. This chip space might be used otherwise for some other purpose.
+
+Intel calls this technology "hyperthreading" and offers two threads per core in its current Core i3, Core i5, Core i7 and Core i9 Desktop lineup (as well as in its Core i3, Core i5 and Core i7 Mobile lineup), as well as offering up to four threads per core in high-end Xeon Phi processors.
+
+Multi-core CPUs are typically multiple CPU cores on the same die, connected to each other via a shared L2 or L3 cache, an on-die bus , or an on-die crossbar switch . All the CPU cores on the die share interconnect components with which to interface to other processors and the rest of the system. These components may include a front-side bus interface, a memory controller to interface with dynamic random access memory (DRAM), a cache coherent link to other processors, and a non-coherent link to the southbridge and I/O devices. The terms multi-core and microprocessor unit (MPU) have come into general use for one die having multiple CPU cores.
+
+One way to work around the Von Neumann bottleneck is to mix a processor and DRAM all on one chip.
+
+Another track of development is to combine reconfigurable logic with a general-purpose CPU. In this scheme, a special computer language compiles fast-running subroutines into a bit-mask to configure the logic. Slower, or less-critical parts of the program can be run by sharing their time on the CPU. This process allows creating devices such as software radios , by using digital signal processing to perform functions usually performed by analog electronics .
+
+As the lines between hardware and software increasingly blur due to progress in design methodology and availability of chips such as field-programmable gate arrays (FPGA) and cheaper production processes, even open source hardware has begun to appear. Loosely knit communities like OpenCores and RISC-V have recently announced fully open CPU architectures such as the OpenRISC which can be readily implemented on FPGAs or in custom produced chips, by anyone, with no license fees, and even established processor makers like Sun Microsystems have released processor designs (e.g., OpenSPARC ) under open-source licenses.
+
+Yet another option is a clockless or asynchronous CPU . Unlike conventional processors, clockless processors have no central clock to coordinate the progress of data through the pipeline. Instead, stages of the CPU are coordinated using logic devices called pipe line controls or FIFO sequencers . Basically, the pipeline controller clocks the next stage of logic when the existing stage is complete. Thus, a central clock is unneeded.
+
+Relative to clocked logic, it may be easier to implement high performance devices in asynchronous logic:
+
+Asynchronous logic proponents believe these abilities would have these benefits:
+
+The biggest disadvantage of the clockless CPU is that most CPU design tools assume a clocked CPU (a synchronous circuit ), so making a clockless CPU (designing an asynchronous circuit ) involves modifying the design tools to handle clockless logic and doing extra testing to ensure the design avoids metastability problems.
+
+Even so, several asynchronous CPUs have been built, including
+
+In theory, an optical computer's components could directly connect through a holographic or phased open-air switching system. This would provide a large increase in effective speed and design flexibility, and a large reduction in cost. Since a computer's connectors are also its most likely failure points, a busless system may be more reliable.
+
+Further, as of 2010, modern processors use 64- or 128-bit logic. Optical wavelength superposition could allow data lanes and logic many orders of magnitude higher than electronics, with no added space or copper wires.
+
+Another long-term option is to use light instead of electricity for digital logic. In theory, this could run about 30% faster and use less power, and allow a direct interface with quantum computing devices.
+
+The main problems with this approach are that, for the foreseeable future, electronic computing elements are faster, smaller, cheaper, and more reliable. Such elements are already smaller than some wavelengths of light. Thus, even waveguide-based optical logic may be uneconomic relative to electronic logic. As of 2016, most development effort is for electronic circuitry.
+
+Early experimental work has been done on using ion-based chemical reactions instead of electronic or photonic actions to implement elements of a logic processor.
+
+Relative to conventional register machine or stack machine architecture, yet similar to Intel's Itanium architecture, a temporal register addressing scheme has been proposed by Ivan Godard and company that is intended to greatly reduce the complexity of CPU hardware (specifically the number of internal registers and the resulting huge multiplexer trees). While somewhat harder to read and debug than general-purpose register names, it aids understanding to view the belt as a moving conveyor belt where the oldest values drop off the belt and vanish. It is implemented in the Mill architecture.

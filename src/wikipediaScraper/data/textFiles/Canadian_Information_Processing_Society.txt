@@ -1,0 +1,13 @@
+CIPS (Canadian Information Processing Society) is the professional association of IT professionals in Canada. Since 1958 CIPS has helped strengthen the Canadian IT industry by establishing standards and sharing best practices for the benefit of individual IT professionals and the sector as a whole. CIPS represents thousands of members across the country as Canada’s Association of Information Technology Professionals .
+
+In September 1958, a group of data processors got together to talk about common concerns of DP workers. That conference demonstrated to participants the value of sharing ideas, networking with fellow professionals, and learning about coming changes in the technology, practices, and management of information systems. This event sparked the formation of The Computing and Data Processing Society of Canada. In 1968, the society changed its name to the current Canadian Information Processing Society.
+
+In the mid-1980s, as the needs of information systems practitioners evolved, CIPS saw the need to develop a comprehensive professionalism program for the IT industry. The Information Systems Professional of Canada (I.S.P.) designation, was introduced in May 1989.
+
+Calvin Gotlieb helped found CIPS in 1958, serving as its president from 1960 to 1961 (see: http://www.cips.ca/founding ). Calvin was elected as founding fellow in 2006. The first President of CIPS was Fred Thomas serving in 1958 to 1959 (see: http://www.cips.ca/presidents ).
+
+Each province has a provincial body that administers the legislation or regulation establishing the self-regulating professional body.  This consists of the following bodies:
+
+CIPS is the founding member organisation of the International Federation for Information Processing (IFIP). IFIP works on establishing international standards for information technology and software engineering.  CIPS is also a member of South East Asia Regional Computer Confederation (SEARCC) and a founding member of IFIP IP3. CIPS is also a constituent member of the ICCP, . which is the Institute for Certification of Computing Professionals , based out of the USA, and dedicated to the establishment of high professional standards for the computer industry across North America.
+
+CIPS is also a member organization of the Federation of Enterprise Architecture Professional Organizations (FEAPO), a worldwide association of professional organizations which have come together to provide a forum to standardize, professionalize, and otherwise advance the discipline of Enterprise Architecture .

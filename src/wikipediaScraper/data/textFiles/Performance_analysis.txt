@@ -1,0 +1,45 @@
+In software engineering , profiling ("program profiling", "software profiling") is a form of dynamic program analysis that measures, for example, the space (memory) or time complexity of a program , the usage of particular instructions , or the frequency and duration of function calls.  Most commonly, profiling information serves to aid program optimization , and more specifically, performance engineering .
+
+Profiling is achieved by instrumenting either the program source code or its binary executable form using a tool called a profiler (or code profiler ). Profilers may use a number of different techniques, such as event-based, statistical, instrumented, and simulation methods.
+
+Profilers use a wide variety of techniques to collect data, including hardware interrupts , code instrumentation , instruction set simulation , operating system hooks , and performance counters .
+
+Program analysis tools are extremely important for understanding program behavior. Computer architects need such tools to evaluate how well programs will perform on new architectures . Software writers need tools to analyze their programs and identify critical sections of code. Compiler writers often use such tools to find out how well their instruction scheduling or branch prediction algorithm is performing...
+
+The output of a profiler may be:
+
+A profiler can be applied to an individual method or at the scale of a module or program, to identify performance bottlenecks by making long-running code obvious. A profiler can be used to understand code from a timing point of view, with the objective of optimizing it to handle various runtime conditions or various loads. Profiling results can be ingested by a compiler that provides profile-guided optimization . Profiling results can be used to guide the design and optimization of an individual algorithm; the Krauss matching wildcards algorithm is an example. Profilers are built into some application performance management systems that aggregate profiling data to provide insight into transaction workloads in distributed applications.
+
+Performance-analysis tools existed on IBM/360 and IBM/370 platforms from the early 1970s, usually based on timer interrupts which recorded the program status word (PSW) at set timer-intervals to detect "hot spots" in executing code. This was an early example of sampling (see below). In early 1974 instruction-set simulators permitted full trace and other performance-monitoring features.
+
+Profiler-driven program analysis on Unix dates back to 1973, when Unix systems included a basic tool, prof , which listed each function and how much of program execution time it used. In 1982 gprof extended the concept to a complete call graph analysis.
+
+In 1994, Amitabh Srivastava and Alan Eustace of Digital Equipment Corporation published a paper describing ATOM (Analysis Tools with OM). The ATOM platform converts a program into its own profiler: at compile time , it inserts code into the program to be analyzed. That inserted code outputs analysis data. This technique - modifying a program to analyze itself - is known as " instrumentation ".
+
+In 2004 both the gprof and ATOM papers appeared on the list of the 50 most influential PLDI papers for the 20-year period ending in 1999.
+
+Flat profilers compute the average call times, from the calls, and do not break down the call times based on the callee or the context.
+
+Call graph profilers show the call times, and frequencies of the functions, and also the call-chains involved based on the callee. In some tools full context is not preserved.
+
+Input-sensitive profilers add a further dimension to flat or call-graph profilers by relating performance measures to features of the input workloads, such as input size or input values. They generate charts that characterize how an application's performance scales as a function of its input.
+
+Profilers, which are also programs themselves, analyze target programs by collecting information on their execution. Based on their data granularity, on how profilers collect information, they are classified into event based or statistical profilers. Profilers interrupt program execution to collect information, which may result in a limited resolution in the time measurements, which should be taken with a grain of salt. Basic block profilers report a number of machine clock cycles devoted to executing each line of code, or a timing based on adding these together; the timings reported per basic block may not reflect a difference between cache hits and misses.
+
+The programming languages listed here have event-based profilers:
+
+Some profilers operate by sampling . A sampling profiler probes the target program's call stack at regular intervals using operating system interrupts . Sampling profiles are typically less numerically accurate and specific, but allow the target program to run at near full speed.
+
+The resulting data are not exact, but a statistical approximation. "The actual amount of error is usually more than one sampling period. In fact, if a value is n times the sampling period, the expected error in it is the square-root of n sampling periods."
+
+In practice, sampling profilers can often provide a more accurate picture of the target program's execution than other approaches, as they are not as intrusive to the target program, and thus don't have as many side effects (such as on memory caches or instruction decoding pipelines). Also since they don't affect the execution speed as much, they can detect issues that would otherwise be hidden. They are also relatively immune to over-evaluating the cost of small, frequently called routines or 'tight' loops. They can show the relative amount of time spent in user mode versus interruptible kernel mode such as system call processing.
+
+Still, kernel code to handle the interrupts entails a minor loss of CPU cycles, diverted cache usage, and is unable to distinguish the various tasks occurring in uninterruptible kernel code (microsecond-range activity).
+
+Dedicated hardware can go beyond this: ARM Cortex-M3 and some recent MIPS processors JTAG interface have a PCSAMPLE register, which samples the program counter in a truly undetectable manner, allowing non-intrusive collection of a flat profile.
+
+Some commonly used statistical profilers for Java/managed code are SmartBear Software 's AQtime and Microsoft 's CLR Profiler . Those profilers also support native code profiling, along with Apple Inc. 's Shark (OSX), OProfile (Linux), Intel VTune and Parallel Amplifier (part of Intel Parallel Studio ), and Oracle Performance Analyzer , among others.
+
+This technique effectively adds instructions to the target program to collect the required information. Note that instrumenting a program can cause performance changes, and may in some cases lead to inaccurate results and/or heisenbugs .  The effect will depend on what information is being collected, on the level of timing details reported, and on whether basic block profiling is used in conjunction with instrumentation. For example, adding code to count every procedure/routine call will probably have less effect than counting how many times each statement is obeyed.  A few computers have special hardware to collect information; in this case the impact on the program is minimal.
+
+Instrumentation is key to determining the level of control and amount of time resolution available to the profilers.

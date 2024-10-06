@@ -1,0 +1,59 @@
+A Pocket PC ( P/PC , PPC ) is a class of personal digital assistant (PDA) that runs the Windows Mobile or Windows Embedded Compact operating system that has some of the abilities of modern desktop PCs . The name was introduced by Microsoft in 2000 as a rebranding of the Palm-size PC category. Some of these devices also had integrated phone and data capabilities , which were called Pocket PC Phone Edition. Windows " Smartphone " is another Windows CE based platform for non-touch flip phones or dumber phones.
+
+As of 2010, thousands of applications existed for handhelds adhering to the Microsoft Pocket PC specification, many of which were freeware . Microsoft-compliant Pocket PCs can be used with many add-ons such as GPS receivers , barcode readers, RFID readers, and cameras.
+
+In 2007, with the advent of Windows Mobile 6.0 , Microsoft dropped the name Pocket PC in favor of a new naming scheme:
+
+Pocket PC was replaced by Windows Phone in 2010 but even after versions were released based on the Windows NT kernel were ultimately unable to compete with the iPhone of 2007 and Android phones and interest waned in Pocket PCs without phones.
+
+The Pocket PC was an evolution from prior calculator-sized computers. Keystroke-programmable calculators which could do simple business and scientific applications were available by the 1970s. In 1982, Hewlett Packard's HP-75 incorporated a 1-line text display, an alphanumeric keyboard, HP BASIC language and some basic PDA abilities. The HP 95LX , HP 100LX and HP 200LX series packed a PC-compatible MS-DOS computer with graphics display and QWERTY keyboard into a palmtop format. The HP OmniGo 100 and 120 used a pen and graphics interface on DOS-based PC/GEOS , but was not widely sold in the United States. The HP 300LX built a palmtop computer on the Windows CE operating system.
+
+Palm-size PC (PsPC) was Microsoft's official name for Windows CE PDAs that were smaller than Handheld PCs by the lack of a physical keyboard. The class was announced in January 1998 originally as "Palm PC" which provoked a lawsuit by Palm Inc. , and the name changed soon afterwards to Palm-size PC before release. These devices were similar to the Handheld PC and also ran Windows CE , however this version was more limited and lacked Pocket Microsoft Office , Pocket Internet Explorer , ActiveX and some other tools. Its main competitor was the PalmPilot and Palm III . According to the specification, Palm-size PCs use SuperH SH3 processors and MIPS architecture . The term "palm-sized PC" was also used as a generic term of similar such devices that are not necessary connected to Microsoft, such as the PalmPilot.
+
+Microsoft's Handheld PCs and Palm-size PCs did not gain much success in the markets compared to Palm, with users complaining the Windows CE software were hard to use and the devices themselves were thick. On April 19, 2000, Microsoft introduced Pocket PC with a revamped interface and to better compete against the popular Palm devices. The Pocket PC was based on the all new version 3.0 of Windows CE. HP, Casio and Compaq were the first OEMs with Pocket PC devices in 2000. The familiar desktop Windows UI from Palm-size PCs was removed in favor of a more tailored interface on Pocket PCs.
+
+According to Microsoft, the Pocket PC is "a handheld device that enables users to store and retrieve e-mail , contacts, appointments, tasks, play multimedia files , games , exchange text messages with Windows Live Messenger (formerly known as MSN Messenger), browse the Web , and more."
+
+Prior to the release of Windows Mobile 2003 , third-party software was developed using Microsoft's eMbedded Visual Tools, eMbedded Visual Basic (eVB) and eMbedded Visual C (eVC). eVB programs can usually be converted fairly easily to NS Basic/CE. or to Basic4ppc.
+
+In 2007 the Pocket PC name was dropped altogether. The Pocket PC Phone Edition became Windows Mobile Professional; the Smartphone became Windows Mobile Standard; and the classic phone-less Pocket PC (which by now had become a niche) became Windows Mobile Classic.
+
+The Pocket PC/Windows Mobile OS was superseded by Windows Phone on February 15, 2010, when the latter was announced at Mobile World Congress that year. No existing hardware was officially supported for a Windows Phone 7 upgrade. Additionally, not a single one of the thousands of apps available for Windows Mobile would run unaltered on Windows Phone.
+
+From a technical standpoint, "Pocket PC" is a Microsoft specification that sets various hardware and software requirements for mobile devices bearing the "Pocket PC" label.
+
+For instance, any device which is to be classified as a Pocket PC must:
+
+The first Windows Mobile 6.5 device was first shown in September 2009. Leaked ROMs surfaced in July 2009 for specific devices. The generic ROM images for Mobile 6.5 are also available as part of the officially distributed and freely downloadable development kit.
+
+Several phones running Windows Mobile 6.1 can be updated to Windows Mobile 6.5.
+
+Microsoft's Windows Mobile 6.1 was announced on April 1, 2008, and introduced instant messaging-like texting. Windows Mobile 6.1 was built upon Windows CE 5 .
+
+Microsoft's Windows Mobile 6, internally code-named 'Crossbow', was officially released by Microsoft on February 12, 2007. Mobile 6 was still based on Windows CE 5 and was effectively just a face-lift of Windows Mobile 5. With Mobile 6 also came Microsoft's new naming conventions and devices were no longer called Pocket PCs: devices with no phone abilities were named Windows Mobile Classic, and devices with phone abilities were named Windows Mobile Professional.
+
+Windows Mobile 5 for Pocket PC was based on Windows CE 5 and contained many fixes and improvements over Windows Mobile 2003.
+
+Pocket PCs running prior versions of the operating system generally stored user-installed applications and data in RAM , which meant that if the battery was depleted the device would lose all of its data. Windows Mobile 5.0 solved this problem by storing all user data in persistent (flash) memory, leaving the RAM to be used only for running applications, as it would be on a desktop computer. As a result, Windows Mobile 5.0 Pocket PCs generally had more flash memory, and less RAM, compared to earlier devices.
+
+Windows Mobile 2003 consisted of the Windows CE.NET 4.2 operating system bundled with scaled-down versions of many popular desktop applications, including Microsoft Outlook , Internet Explorer , Word , Excel , Windows Media Player , and others.
+
+Windows Mobile 2003 Second Edition added native landscape, square screen and VGA support as well as other fixes and changes to those features already present in the original release of Windows Mobile 2003.
+
+Pocket PC 2000 was launched April 2000, and ran Windows CE 3.0 . Pocket PC 2000 featured a mobile version of Microsoft Office, a chief feature being the ability to password-protect Excel files.
+
+Pocket PC 2002 was launched October 2001, and was powered by Windows CE 3.0 , as with its predecessor. Some Pocket PC 2002 devices were also sold as "Phone Editions", which included cell phone functionality in addition to the PDA abilities.
+
+Before the Pocket PC brand was launched, there were other Windows-based machines of the same form factor called Palm-size PCs. These devices ran Windows CE 2.0–2.11 and had an interface that was similar to the then-current desktop versions of Windows like Windows 95 . The first of these was the Everex Freestyle, also known as HTC Kangaroo, from 1998. Other examples include Casio Cassiopeia E-10/E-11, Compaq Aero 1500/1520, Philips Nino and HP Jornada 420/430.
+
+Pocket PCs were manufactured and sold by several different companies; the major manufacturers include HP (under the iPAQ and now defunct Jornada brands), Toshiba , Acer , Asus , Dell (under the now defunct Axim brand), Fujitsu Siemens , E-TEN , HTC , and ViewSonic . In mid-2003, Gateway Computers and JVC announced they would release Pocket PCs, but the projects were discontinued before a product was released. Prices in 2003 ranged from around US$800 for the high-end models, some of which are combined with cell phones, to $200 for low-end models. A $100–$200 model was rumored to be released within 2004 or early 2005, although the lowest price for a just-released Pocket PC never went under $300. Many companies ceased to sell PDA's by 2003–2004 because of a declining market. Major companies such as Viewsonic and Toshiba stopped producing new Pocket PCs.
+
+Companies like O2 , T-Mobile and Orange were marketing Pocket PCs that have integrated mobile telephony ( smartphones ). All users have to do is put in the SIM card and follow the wizard, to put their SIM contacts in the address book. An example is O2's Xda , or T-Mobile's MDA Compact . Both of these devices, while bearing the phone operator's logo, are manufactured by the dominant Pocket PC manufacturer HTC .
+
+One of the more popular high-end consumer-market Pocket PCs was the Dell Axim x51v, which was discontinued in 2007. Hardware specs included 3.7" color TFT VGA display with 640x480 resolution, Intel XScaleTM PXA270 processor at 624 MHz, 336 MB of memory (256 MB flash, 64 MB SDRAM), integrated 802.11b and Bluetooth 1.2, integrated Intel 2700G multimedia accelerator with 16 MB video memory. Expansion was possible via CompactFlash Type II and SD slots (supporting SDIO Now!, SDIO and MMC cards). Included is a 1,100 mAh user replaceable battery (est. 4–6.5 hours, 2200 mAh also available).
+
+Some Pocket PCs featured integrated GPS often combined with mobile phone functionality. Pocket PCs with built-in telephony differ from Windows Mobile Smartphone Edition devices in several respects, including the lack of a touchscreen on the latter. Some examples of current Pocket PCs with GPS integrated are the Fujitsu Siemens Pocket Loox N560 , a high-end Pocket PC with a VGA screen and an integrated SiRF Star III GPS; the HTC TyTN , a small communicator with integrated slide in keyboard; the HP hw6945 and HP iPAQ hw6515 with integrated thumb-board , GPS and GSM/GPRS telephony; the HTC top-of-the-line Universal, branded as the QTek 9000 (also branded by various telecommunications companies as the Orange SPV M5000, T-mobile MDA Pro, Vodafone VPA IV, O2 Xda Exec, i-Mate JasJar, Dopod 900).
+
+A newer entrant into the Pocket PC market was its rival Palm , which sold devices like the Treo 700w/wx based on Windows Mobile 5.0 and featuring integrated telephony. Previous to this, Palm only produced PDAs running its own Palm OS (as did the first versions of the Palm Treo) before it was losing popularity to Pocket PC's Windows Mobile.
+
+HTC manufactured up to 80% of all phone enabled Windows Mobile devices for other companies (including HP and O2), as well as many non-phone Pocket PCs (for companies such as Dell, HP and Fujitsu Siemens) as of 2006. HTC was by now marketing Windows Mobile devices under their own brand, as well as that of Dopod.

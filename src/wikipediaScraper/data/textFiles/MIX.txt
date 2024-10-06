@@ -1,0 +1,23 @@
+MIX was a Microsoft conference held annually for Web developers and designers at which Microsoft showcased upcoming web technologies. The conference was held each spring at the Venetian Hotel in Las Vegas . Unlike many of Microsoft's technical conference, MIX has been promoted more heavily to designers by inviting popular speakers from other popular web design conferences, such as SXSW , and has sponsored a CSS design contest each year to promote the conference. Microsoft has also used this conference as an opportunity to promote new web design and development tools such as Silverlight and Microsoft Expression Studio .
+
+On January 24, 2012, the official Microsoft blog stated that there will be no MIX 2012. MIX was replaced by Build later that year.
+
+MIX 06 was held from March 20 to March 22, 2006. It focused on the new Internet Explorer 7 and WPF (a part called WPF/E later became known as Silverlight). It featured a keynote by Bill Gates in which he said "We need microformats".
+
+MIX 07 was held from April 30 to May 7, 2007. The primary focus of the MIX 2007 was promoting Silverlight. The majority of the session content was focused on demonstrating Silverlight applications and the development tools used to build them. The main keynote, given by Scott Guthrie was also promoting Silverlight. Microsoft Expression Studio was also released to manufacturing thereafter.
+
+Along with the main conference in Las Vegas, several reMIX events were held throughout 2007 in other cities. The reMIX conferences represented the sessions from MIX with different keynote speakers.
+
+MIX 08 was held from March 5–March 7, 2008. The first beta release of Microsoft's Windows Internet Explorer 8 was demonstrated and contained many new features, including WebSlices and Activities .
+
+MIX 09 was held from March 18–20, 2009. Availability of the final version of Internet Explorer 8 was announced, as well as a demonstration of Silverlight 3 and Expression Blend 3.0 betas.
+Microsoft released beta tooling for software developers to create applications using Silverlight, which is Microsoft’s framework for creating rich Internet applications. Microsoft released version 1.0 of ASP.NET MVC on March 13, 2009, just prior to the MIX event. MVC stands for model–view–controller and refers to a particular process for building web applications. Microsoft also announced at MIX 2009 that Silverlight 3 would support H.264/MPEG-4 AVC video, an emerging Web video standard adopted by such sites as YouTube . In addition, Microsoft said applications built using Silverlight 3 can run offline as well as in a Web browser.
+
+MIX 10 was held from March 15–17, 2010 in Las Vegas. The main focus of MIX 10 was on the next version of Microsoft's web browser , Internet Explorer 9 , and Microsoft's highly anticipated next-generation mobile platform, Windows Phone 7 . Microsoft's Silverlight technology also had a large appearance at the conference, as it has for the last few years at MIX.
+
+On the first day of MIX 2010, Microsoft released a number of software development toolkits for Windows Phone 7 application developers to use, including a Silverlight 4 multimedia toolkit, for developing Rich Internet Applications (RIA), and a beta release of Microsoft Expression Blend 4, a GUI-designed and code-generating toolkit. The tools will run inside Windows PC Visual Studio 2010. Microsoft demonstrated a number of applications that had already been created to run on Windows Phone 7, including a news reader app from the Associated Press and an app called Seesmic for managing Twitter accounts and feeds.
+
+On day two of MIX 2010, Microsoft presented details on the Web browser that will go into Windows Phone 7, explaining that it will be based on the Internet Explorer 7 desktop browser and will replace the IE Mobile 6 browser that was included in Windows Mobile 6.5, the predecessor to the Windows Phone 7 operating system. Key features of the new browser are four-point multitouch functionality, zoom-in and zoom-out using a pinching finger gesture on the screen, and what Microsoft called "deep zoom" for high fidelity closeups.
+
+MIX 11 was held from April 12–14, 2011 at the Mandalay Bay Resort and Casino in Las Vegas .
+The company showcased Internet Explorer 10 (IE10), which was actually running on an ARM processor.

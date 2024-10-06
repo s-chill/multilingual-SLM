@@ -1,0 +1,11 @@
+In robotics , a manipulator is a device used to manipulate materials without direct physical contact by the operator .  The applications were originally for dealing with radioactive or biohazardous materials, using robotic arms , or they were used in inaccessible places.  In more recent developments they have been used in diverse range of applications including welding automation, robotic surgery and in space .  It is an arm-like mechanism that consists of a series of segments, usually sliding or jointed called cross-slides, which grasp and move objects with a number of degrees of freedom .
+
+In industrial ergonomics a manipulator is a lift-assist device used to help workers lift, maneuver and place articles in process that are too heavy, too hot, too large or otherwise too difficult for a single worker to manually handle.  As opposed to simply vertical lift assists (cranes, hoists, etc.) manipulators have the ability to reach in to tight spaces and remove workpieces.  A good example would be removing large stamped parts from a press and placing them in a rack or similar dunnage. In welding, a column boom manipulator is used to increase deposition rates, reduce human error and other costs in a manufacturing setting.
+
+Additionally, manipulator tooling gives the lift assist the ability to pitch, roll, or spin the part for appropriate placement.  An example would be removing a part from a press in the horizontal and then pitching it up for vertical placement in a rack or rolling a part over for exposing the back of the part.
+
+One of the types of manipulators is balanced manipulator type MSP-250, controlled by the operator's hand. Such manipulators are used in various industries. Where there are special requirements to protect against fire and explosion , they may be driven by compressed air .
+
+A welding manipulator can be either open arc or submerged arc . A welding manipulator can be used to weld horizontally and vertically and is ideal for job shops as they are robust, have high production volume capacity and a greater degree of flexibility in product engineering. Welding manipulators are commonly used in pipe and vessel fabrication but can be used in a cladding procedure with the aid of a proper welding fixture .
+
+Examples of robotic manipulators are:

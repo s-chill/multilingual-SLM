@@ -1,0 +1,45 @@
+Inferno is a distributed operating system started at Bell Labs and now developed and maintained by Vita Nuova Holdings as free software under the MIT License . Inferno was based on the experience gained with Plan 9 from Bell Labs , and the further research of Bell Labs into operating systems, languages, on-the-fly compilers, graphics, security, networking and portability. The name of the operating system, many of its associated programs, and that of the current company, were inspired by Dante Alighieri 's Divine Comedy . In Italian, Inferno means " hell ", of which there are nine circles in Dante's Divine Comedy .
+
+Inferno was created in 1995 by members of Bell Labs ' Computer Science Research division to bring ideas derived from their previous operating system, Plan 9 from Bell Labs , to a wider range of devices and networks. Inferno is a distributed operating system based on three basic principles:
+
+To handle the diversity of network environments it was intended to be used in, the designers decided a virtual machine (VM) was a necessary component of the system. This is the same conclusion of the Oak project that became Java , but arrived at independently. The Dis virtual machine is a register machine intended to closely match the architecture it runs on, in contrast to the stack machine of the Java virtual machine . An advantage of this approach is the relative simplicity of creating a just-in-time compiler for new architectures.
+
+The virtual machine provides memory management designed to be efficient on devices with as little as 1 MiB of memory and without memory-mapping hardware. Its garbage collector is a hybrid of reference counting and a real-time coloring collector that gathers cyclic data.
+
+The Inferno kernel contains the virtual machine, on-the-fly compiler, scheduler, devices, protocol stacks, and the name space evaluator for each process' file name space, and the root of the file system hierarchy. The kernel also includes some built-in modules that provide interfaces of the virtual operating system, such as system calls, graphics, security, and math modules.
+
+The Bell Labs Technical Journal paper introducing Inferno listed several dimensions of portability and versatility provided by the OS:
+
+These design choices were directed to provide standard interfaces that free content and service providers from concern of the details of diverse hardware, software, and networks over which their content is delivered.
+
+Inferno programs are portable across a broad mix of hardware, networks, and environments. It defines a virtual machine , known as Dis , that can be implemented on any real machine, provides Limbo , a type-safe language that is compiled to portable byte code, and, more significantly, it includes a virtual operating system that supplies the same interfaces whether Inferno
+runs natively on hardware or runs as a user program on top of another operating system.
+
+A communications protocol called Styx is applied uniformly to access both local and remote resources, which programs use by calling standard file operations, open, read, write, and close. As of the fourth edition of Inferno, Styx is identical to Plan 9 's newer version of its hallmark 9P protocol, 9P2000 .
+
+Most of the Inferno commands are very similar to Unix commands with the same name.
+
+Inferno is a descendant of Plan 9 from Bell Labs , and shares many design concepts and even source code in the kernel, particularly around devices and the Styx/9P2000 protocol.
+Inferno shares with Plan 9 the Unix heritage from Bell Labs and the Unix philosophy . Many of the command line tools in Inferno were Plan 9 tools that were translated to Limbo.
+
+In the mid-1990s, Plan 9 development was set aside in favor of Inferno. The new system's existence was leaked by Dennis Ritchie in early 1996, after less than a year of development on the system, and publicly presented later that year as a competitor to Java. At the same time, Bell Labs' parent company AT&T licensed Java technology from Sun Microsystems .
+
+In March–April 1997 IEEE Internet Computing included an advertisement for Inferno networking software. It claimed that various devices could communicate over "any network" including the Internet, telecommunications and LANs. The advertisement stated that video games could talk to computers,–a PlayStation was pictured–cell phones could access email and voice mail was available via TV.
+
+Lucent used Inferno in at least two internal products: the Lucent VPN Firewall Brick, and the Lucent Pathstar phone switch. They initially tried to sell source code licenses of Inferno but found few buyers. Lucent did little marketing and missed the importance of the Internet and Inferno's relation to it. During the same time Sun Microsystems was heavily marketing its own Java programming language , which was targeting a similar market, with analogous technology, that worked in web browsers and also filled the demand for object-oriented languages popular at that time. Lucent licensed Java from Sun, claiming that all Inferno devices would be made to run Java. A Java byte code to Dis byte code translator was written to facilitate that. However, Inferno still did not find customers.
+
+The Inferno Business Unit closed after three years, and was sold to Vita Nuova Holdings. Vita Nuova continued development and offered commercial licenses to the complete system, and free downloads and licenses (not GPL compatible) for all of the system except the kernel and VM. They ported the software to new hardware and focused on distributed applications. Eventually, Vita Nuova released the 4th edition under more common free software licenses, and in 2021 they relicensed all editions under mainly the MIT License .
+
+Inferno runs on native hardware directly and also as an application providing a virtual operating system which runs on other platforms. Programs can be developed and run on all Inferno platforms without modifying or recompiling.
+
+Native ports include these architectures: x86 , MIPS , ARM , PowerPC , SPARC .
+
+Hosted or virtual OS ports include: Microsoft Windows , Linux , FreeBSD , Plan 9 , Mac OS X , Solaris , IRIX , UnixWare .
+
+Inferno can also be hosted by a plugin to Internet Explorer . Vita Nuova said that plugins for other browsers were under development, but they were never released.
+
+Inferno has also been ported to Openmoko , Nintendo DS , SheevaPlug , and Android .
+
+Inferno 4th edition was released in early 2005 as free software . Specifically, it was dual-licensed under two structures. Users could either obtain it under a set of free software licenses , or they could obtain it under a proprietary license. In the case of the free software license scheme, different parts of the system were covered by different licenses, including the GNU General Public License , the GNU Lesser General Public License , the Lucent Public License , and the MIT License , excluding the fonts, which are sub-licensed from Bigelow and Holmes.
+
+In March 2021, all editions were relicensed under mainly the MIT License .

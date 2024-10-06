@@ -1,0 +1,5 @@
+Sean Michael Burke is a Perl programmer, author, and linguist. He was a columnist for The Perl Journal from 1998 and has written several dozen Perl modules for CPAN , as well as books for O'Reilly Media .
+
+Burke's Perl modules include the HTML parsing module HTML::TreeBuilder, and Sort::ArbBiLex ( arb itrary bi -level lex icographic sorting ), used to generate sorting functions for language-specific sorting conventions . Some of Burke's modules, including Class::ISA, I18N::LangTags, and Locale::Maketext, have become part of the standard distribution of Perl. Locale::Maketext is also the basis of the internationalization layer in Request Tracker .
+
+Burke also wrote perlpodspec , the specification for the Pod (" Plain Old Documentation ") markup language, which is used for documenting Perl and its modules, and the current generation of Pod parsers, such as Pod::Simple, which are used for generating the HTML documentation on the main CPAN search engine, search.cpan.org.

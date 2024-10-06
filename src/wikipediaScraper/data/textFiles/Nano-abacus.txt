@@ -1,0 +1,9 @@
+A nano-abacus is a nano-sized abacus that performs basic arithmetic computations using various forms of nanotechnology including photonics and lateral mechanical stimulation of molecular motion with a scanning tunneling microscope (STM) tip by repulsion . The nano-abacus has the potential to be used in a variety of nanotechnological inventions such as the nano-computer .
+
+The first nano-abacus was developed on November 13, 1997 by physicist James Gimzewski at an IBM research laboratory in Zürich, Switzerland . Gimzewski's initial idea for the device was inspired by the Japanese soroban . The creation of the nano-abacus was sponsored by the Swiss Federal Office of Education and Science within the European Strategic Program for Research in Information Technology (ESPRIT) of the European Union as part of IBM's "PRONANO" (processing on the nanometer scale) project.
+
+Gimzewski's nano-abacus consists of stable rows containing ten molecules acting as railings.  The beads are made up of buckminsterfullerene constrained by one-atom-high ridges on a copper sheet and are pushed around by the tip of a scanning tunneling microscope at room temperature to create a calculation and allow it be viewed when operated in imaging mode.
+
+Gimzewski, along with physicists Maria Teresa Cuberes and Reto R. Schlittler, found that their device was capable of controllably repositioning C60 molecules with a scanning tunneling microscope tip along Cu(111) mono-atomic steps at room temperature.
+
+A similar nanoscopic optical abacus was developed in 2017 by a team of international researchers led by Professor C. David Wright from the University of Exeter . The team's chip-scale all-optical abacus uses picosecond light pulses to perform arithmetic computations. The device has proved successful in calculating with multi-digit numbers using equivalent photonic phase-change cells.

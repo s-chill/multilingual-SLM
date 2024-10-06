@@ -1,0 +1,27 @@
+The following tables compare general and technical information for a number of file archivers . Please see the individual products' articles for further information. They are neither all-inclusive nor are some entries necessarily up to date. Unless otherwise specified in the footnotes section, comparisons are based on the stable versions— without add-ons, extensions or external programs.
+
+Basic general information about the archivers.
+
+Legend: Free/ no cost Paid Cost depends Open source ( licenses ) Proprietary
+
+Notes:
+
+The operating systems the archivers can run on without emulation or compatibility layer. Ubuntu's own GUI Archive manager, for example, can  open and create many archive formats (including Rar archives) even to the extent of splitting into parts and encryption and ability to be read by the native program . This is presumably a "compatibility layer."
+
+Notes:
+
+Information about what common archiver features are implemented natively (without third-party add-ons).
+
+Notes:
+
+Information about what archive formats the archivers can read. External links lead to information about support in future versions of the archiver or extensions that provide such functionality. Note that gzip, bzip2 and xz are compression formats rather than archive formats.
+
+Notes:
+
+Information about what archive formats the archivers can write and create. External links lead to information about support in future versions of the archiver or extensions that provide such functionality. Note that gzip, bzip2 and xz are compression formats rather than archive formats.
+
+Notes:
+
+PeaZip has full support for Brotli, Zstandard, various LPAQ and PAQ formats, QUAD / BALZ / BCM (highly efficient ROLZ based compressors), FreeArc format, and for its native PEA format.
+
+7-Zip includes read support for .msi , cpio and xar , plus Apple's dmg / HFS disk images and the deb / .rpm package distribution formats; beta versions (9.07 onwards) have full support for the LZMA2-compressed . xz format.

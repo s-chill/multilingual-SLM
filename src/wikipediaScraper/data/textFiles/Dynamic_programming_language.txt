@@ -1,0 +1,31 @@
+A dynamic programming language is a type of programming language which allows various operations to be determined and executed at runtime. This is different from the compilation phase. Key decisions about variables, method calls, or data types are made when the program is running, unlike in static languages , where the structure and types are fixed during compilation. Dynamic languages provide flexibility. This allows developers to write more adaptable and concise code.
+
+For instance, in a dynamic language, a variable can start as an integer. It can later be reassigned to hold a string without explicit type declarations. This feature of dynamic typing enables more fluid and less restrictive coding. Developers can focus on the logic and functionality rather than the constraints of the language.
+
+Some dynamic languages offer an eval function.  This function takes a string or abstract syntax tree containing code in the language and executes it.  If this code stands for an expression, the resulting value is returned. Erik Meijer and Peter Drayton distinguish the runtime code generation offered by eval from the dynamic loading offered by shared libraries , and warn that in many cases eval is used merely to implement higher-order functions (by passing functions as strings) or deserialization .
+
+A type or object system can typically be modified during runtime in a dynamic language. This can mean generating new objects from a runtime definition or based on mixins of existing types or objects. This can also refer to changing the inheritance or type tree, and thus altering the way that existing types behave (especially with respect to the invocation of methods ).
+
+As a lot of dynamic languages come with a dynamic type system, runtime inference of types based on values for internal interpretation marks a common task. As value types may change throughout interpretation, it is regularly used upon performing atomic operations.
+
+Static programming languages (possibly indirectly) require developers to define the size of utilized memory before compilation (unless working around with pointer logic). Consistent with object runtime alteration, dynamic languages implicitly need to (re-)allocate memory based on program individual operations.
+
+Reflection is common in many dynamic languages, and typically involves analysis of the types and metadata of generic or polymorphic data.  It can, however, also include full evaluation and modification of a program's code as data, such as the features that Lisp provides in analyzing S-expressions .
+
+A limited number of dynamic programming languages provide features which combine code introspection (the ability to examine classes, functions, and keywords to know what they are, what they do and what they know) and eval in a feature called macros . Most programmers today who are aware of the term macro have encountered them in C or C++ , where they are a static feature which is built in a small subset of the language, and are capable only of string substitutions on the text of the program. In dynamic languages, however, they provide access to the inner workings of the compiler, and full access to the interpreter, virtual machine, or runtime, allowing the definition of language-like constructs which can optimize code or modify the syntax or grammar of the language.
+
+Assembly , C , C++ , early Java , and Fortran do not generally fit into this category.
+
+The following examples show dynamic features using the language Common Lisp and its Common Lisp Object System (CLOS).
+
+The example shows how a function can be modified at runtime from computed source code
+
+This example shows how an existing instance can be changed to include a new slot when its class changes and that an existing method can be replaced with a new version.
+
+let foo = 42; // foo is now a number
+foo = "bar"; // foo is now a string
+foo = true; // foo is now a boolean
+
+In the next example, the class person gets a new superclass. The print method gets redefined such that it assembles several methods into the effective method. The effective method gets assembled based on the class of the argument and the at runtime available and applicable methods.
+
+Popular dynamic programming languages include JavaScript , Python , Ruby , PHP , Lua and Perl . The following are generally considered dynamic languages:

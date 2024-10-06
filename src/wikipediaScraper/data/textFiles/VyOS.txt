@@ -1,0 +1,17 @@
+VyOS is an open source network operating system Linux distribution based on Debian .
+
+VyOS provides a free routing platform that competes directly with other commercially available solutions from well-known network providers. Because VyOS is run on standard amd64 systems, it can be used as a router and firewall platform for cloud deployments . VyOS can also be optimized to achieve routing at 100Gbps.
+
+Besides being open-source, VyOS also offers subscription-based support, which includes pre-built images for cloud and virtual environments and LTS images for the 1.3 and 1.4 series.
+
+After Brocade Communications stopped development of the Vyatta Core Edition of the Vyatta Routing software, a small group of enthusiasts in 2013 took the last Community Edition, Vyatta Core version 6.6R1, and worked on building an open-source fork to continue its legacy. This group founded Sentrium S.L, a Spanish company, to support and develop the VyOS project.
+
+On May 19, 2020, Sentrium announced the launch of the VyOS Foundation, a non-profit organization intended to provide an open and transparent governance model, ensuring that VyOS serves the broader community. Trademarks and other related IP (logos, marketing materials, artwork, etc.) will be transferred from Sentrium S.L. to the VyOS Foundation. Although the foundation was announced, it is not yet operational.
+
+VyOS version 1.0.0 (Hydrogen) was released on December 22, 2013. On October 9, 2014, version 1.1.0 (Helium) was released. All versions released thus far have been based on Debian 6.0 (Squeeze), and are available as 32-bit images and 64-bit images for both physical and virtual machines .
+
+On January 28, 2019, version 1.2.0 (Crux) was released. Version 1.2.0 is based on Debian 8 (Jessie). While version 1.0 and 1.1 were named after elements, a new naming scheme based on constellations is used from version 1.2.
+
+VyOS 1.3.0 (Equuleus) is based on Debian 10 (Buster) and was released on December 21, 2021. Equuleus brought many long-desired features, most notably an SSTP VPN server, an IPoE server, an OpenConnect VPN server, and a serial console server. It also included reworked support for WWAN interfaces, support for GENEVE and MACSec interfaces, VRF, IS-IS routing, preliminary support for MPLS and LDP, among many other features.
+
+Currently, VyOS 1.4.0 (Sagitta) in GA (General Access) stage, with the latest version being VyOS 1.4.0 GA LTS. This version was developed based on Debian 12 (Bookworm).

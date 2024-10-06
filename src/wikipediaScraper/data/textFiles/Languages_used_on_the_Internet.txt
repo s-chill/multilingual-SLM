@@ -1,0 +1,21 @@
+Slightly over half of the homepages of the most visited websites on the World Wide Web are in English, with varying amounts of information available in many other languages. Other top languages are Chinese, Spanish, Russian, Persian, French, German and Japanese.
+
+Of the more than 7,000 existing languages, only a few hundred are recognized as being in use for Web pages on the World Wide Web.
+
+There is debate over the most-used languages on the Internet. A 2009 UNESCO report monitoring the languages of websites for 12 years, from 1996 to 2008, found a steady year-on-year decline in the percentage of webpages in English, from 75 percent in 1998 to 45 percent in 2005. The authors found that English remained at 45 percent of content for 2005 to the end of the study but believe this was due to the bias of search engines indexing more English-language content rather than a true stabilization of the percentage of content in English on the World Wide Web.
+
+The number of non-English web pages is rapidly expanding. The use of English online increased by around 281 percent from 2001 to 2011, a lower rate of growth than that of Spanish (743 percent), Chinese (1,277 percent), Russian (1,826 percent) or Arabic (2,501 percent) over the same period.
+
+According to a 2000 study, the international auxiliary language Esperanto ranked 40 out of all languages in search engine queries, also ranking 27 out of all languages that rely on the Latin script .
+
+W3Techs estimated percentages of the top 10 million websites on the World Wide Web using various content languages as of 25 September 2024:
+
+All other languages are used in less than 0.1% of websites. Even including all languages, percentages may not sum to 100% because some websites contain multiple content languages.
+
+The figures from the W3Techs study are based on the one million most visited websites (i.e., approximately 0.27 percent of all websites according to December 2011 figures) as ranked by Alexa.com , and language is identified using only the home page of the sites in most cases (e.g., all of Wikipedia is based on the language detection of http://www.wikipedia.org ). As a consequence, the figures show a significantly higher percentage for many languages (especially for English) as compared to the figures for all websites. For all websites, estimates are between 20 and 50% for English.
+
+Of the top 250 YouTube channels, 66% of the content is in English, 15% in Spanish, 7% in Portuguese, 5% in Hindi, 2% in Korean, while other languages make up 5%, although other sources point to different percentages. YouTube is available in over 80 languages with more than a hundred different local versions. Of those popular YouTube channels that posted a video in the first week of 2019, just over half contained some content in a language other than English.
+
+InternetWorldStats estimates of the number of Internet users by language as of March 31, 2020:
+
+Wikimedia Statistics gives the number of page views of each edition of Wikipedia by language.

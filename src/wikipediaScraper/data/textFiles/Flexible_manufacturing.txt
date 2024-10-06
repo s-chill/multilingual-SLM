@@ -1,0 +1,23 @@
+A flexible manufacturing system ( FMS ) is a manufacturing system in which there is some amount of flexibility that allows the system to react in case of changes, whether predicted or unpredicted.
+
+This flexibility is generally considered to fall into two categories, which both contain numerous subcategories.
+
+Most flexible manufacturing systems consist of three main systems:
+
+The main advantage of a flexible manufacturing system is its high flexibility in managing manufacturing resources like time and effort to manufacture a new product.
+
+The best application of a flexible manufacturing system is found in the 'production of small sets of products like those from mass production.
+
+чЬшМ
+
+Flexibility in manufacturing means the ability to deal with slightly or greatly mixed parts, to allow variation in parts assembly and variations in process sequence, change the production volume and change the design of certain product being manufactured.
+
+An industrial flexible manufacturing system consists of robots , computer-controlled Machines, computer numerical controlled machines (CNC), instrumentation devices, computers, sensors, and other stand alone systems such as inspection machines. The use of robots in the production segment of manufacturing industries promises a variety of benefits ranging from high utilization to high volume of productivity. Each Robotic cell or node will be located along a material handling system such as a conveyor or automatic guided vehicle. The production of each part or work-piece will require a different combination of manufacturing nodes. The movement of parts from one node to another is done through the material handling system. At the end of part processing, the finished parts will be routed to an automatic inspection node, and subsequently unloaded from the Flexible Manufacturing System.
+
+The FMS data traffic consists of large files and short messages, and mostly come from nodes, devices and instruments. The message size ranges between a few bytes to several hundreds of bytes. Executive software and other data, for example, are files with a large size, while messages for machining data, instrument to instrument communications, status monitoring, and data reporting are transmitted in small size.
+
+There is also some variation on response time. Large program files from a main computer usually take about 60 seconds to be down loaded into each instrument or node at the beginning of FMS operation. Messages for instrument data need to be sent in a periodic time with deterministic time delay. Other types of messages used for emergency reporting are quite short in size and must be transmitted and received with an almost instantaneous response.
+
+The demands for reliable FMS protocol that support all the FMS data characteristics are now urgent. The existing IEEE standard protocols do not fully satisfy the real time communication requirements in this environment. The delay of CSMA/CD is unbounded as the number of nodes increases due to the message collisions. Token bus has a deterministic message delay, but it does not support prioritized access scheme which is needed in FMS communications. Token Ring provides prioritized access and has a low message delay, however, its data transmission is unreliable. A single node failure which may occur quite often in FMS causes transmission errors of passing message in that node. In addition, the topology of Token Ring results in high wiring installation and cost.
+
+A design of FMS communication that supports a real time communication with bounded message delay and reacts promptly to any emergency signal is needed. Because of machine failure and malfunction due to heat, dust, and electromagnetic interference is common, a prioritized mechanism and immediate transmission of emergency messages are needed so that a suitable recovery procedure can be applied. A modification of standard Token Bus to implement a prioritized access scheme was proposed to allow transmission of short and periodic messages with a low delay compared to the one for long messages.

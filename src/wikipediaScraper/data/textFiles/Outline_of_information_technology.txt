@@ -1,0 +1,9 @@
+The following outline is provided as an overview of and topical guide to information technology:
+
+Information technology ( IT ) – microelectronics based combination of computing and telecommunications technology to treat information , including in the acquisition, processing, storage and dissemination of vocal, pictorial, textual and numerical information. It is defined by the Information Technology Association of America (ITAA) as "the study, design, development, implementation, support or management of computer-based information systems , particularly toward software applications and computer hardware."
+
+There are different names for this at different periods or through fields. Some of these names are:
+
+Third-party commercial organizations and vendor neutral interest groups that sponsor certifications include:
+
+General certification of software practitioners has struggled. The ACM had a professional certification program in the early 1980s, which was discontinued due to lack of interest. Today, the IEEE is certifying software professionals, but only about 500 people have passed the exam by March 2005 .

@@ -1,0 +1,5 @@
+This article is a comparison of notable CRM systems .
+
+ERP systems are considered a superset of CRM systems.
+
+Only stable releases are mentioned.

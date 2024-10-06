@@ -1,0 +1,19 @@
+wc (short for w ord c ount) is a command in Unix , Plan 9 , Inferno , and Unix-like operating systems . The program reads either standard input or a list of computer files and generates one or more of the following statistics: newline count, word count , and byte count. If a list of files is provided, both individual file and total statistics follow.
+
+Sample execution of wc :
+
+The first column is the count of newlines, meaning that the text file foo has 40 newlines while bar has 2294 newlines- resulting in a total of 2334 newlines. The second column indicates the number of words in each text file showing that there are 149 words in foo and 16638 words in bar –  giving a total of 16787 words. The last column indicates the number of characters in each text file, meaning that the file foo has 947 characters while bar has 97724 characters –  98671 characters all in all.
+
+Newer versions of wc can differentiate between byte and character count. This difference arises with Unicode which includes multi-byte characters. The desired behaviour is selected with the -c or -m options.
+
+Through a pipeline , it can also be used to preview the output size of a command with a potentially large output, without it printing the text into the console:
+
+wc is part of the X/Open Portability Guide since issue 2 of 1987. It was inherited into the first version of POSIX.1 and the Single Unix Specification . It appeared in Version 1 Unix .
+
+GNU wc used to be part of the GNU textutils package; it is now part of GNU coreutils . The version of wc bundled in GNU coreutils was written by Paul Rubin and David MacKenzie.
+
+A wc command is also part of ASCII 's MSX-DOS2 Tools for MSX-DOS version 2.
+
+The command is available as a separate package for Microsoft Windows as part of the GnuWin32 project and the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities.
+
+The wc command has also been ported to the IBM i operating system.

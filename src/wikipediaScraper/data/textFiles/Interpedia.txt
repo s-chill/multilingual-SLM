@@ -1,0 +1,13 @@
+Interpedia was one of the first-proposed online encyclopedia which would allow anyone to contribute by writing articles and submitting them to the central catalogue of all Interpedia pages.
+
+Interpedia was initiated by Rick Gates , who posted a message titled "The Internet Encyclopedia" on October 25, 1993 to the PACS-L (Public-Access Computer Systems Forum) Listserv . That message included the following musings:
+
+The more I thought about this, the more I realized that such a resource, containing general, encyclopedic knowledge for the layman, would be an important tool for some types of research, and for the Net.Citizenry in general.
+
+Ahh.. but what about contributors... where will you find authors to write the short articles you need? Well, I'd first have to start out by finding some way of communicating with an extremely diverse set of people... everyone from linguists , to molecular biologists , from animal rights activists to zymurgists , and from geographers to gas chromotographers . Guess what? :-) The Net provides just such an arena! So I thought about it some more...and came to the conclusion that this is a good idea!
+
+In November 1993, discussions moved to a dedicated mailing list , supplemented later by Usenet newsgroup comp.infosystems.interpedia .
+
+Several independent "Seal-of-approval" (SOAP) agencies were envisioned which would rate Interpedia articles based on criteria of their own choosing; users could then decide which agencies' recommendations to follow.
+
+The project was actively discussed for around half a year, but never left the planning stages, perhaps partly due to the unprecedented growth of the World Wide Web .

@@ -1,0 +1,39 @@
+tail is a program available on Unix , Unix-like systems, FreeDOS and MSX-DOS used to display the tail end of a text file or piped data.
+
+The version of tail bundled in GNU coreutils was written by Paul Rubin, David MacKenzie, Ian Lance Taylor, and Jim Meyering. The command is available as a separate package for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities. The FreeDOS version was developed by M. Aitchison. A tail command is also part of ASCII 's MSX-DOS2 Tools for MSX-DOS version 2.
+
+CCZE is tail-like while displaying its output in color.
+
+pctail is similar to CCZE. It is a colorized tail programmed in Python which tails and colorizes syslog output.
+
+Inotail was an implementation using the inotify Linux kernel interface (introduced in version 2.6.13 in August 2005) to check whether new data is available instead of polling every second, as the original tail did. However, newer versions of tail also started using inotifiy when possible, so Inotail became deprecated and is not longer maintained.
+
+MultiTail not only displays logfiles in colors, it can also merge, filter, scrollback and split a terminal window into subwindows. It is more or less a combination of tail, sed , watch , CCZE/pctail, grep , diff , Beeper and others.
+
+The command- syntax is:
+
+By default, tail will output the last 10 lines of its input to the standard output . With command line options, the amount of output and the units (lines, blocks or bytes) may be changed.
+
+In the following example only the last line of the reports is output:
+
+This example outputs the last 4 characters of the reports, silently suppressing the filenames. Notice that the count includes the newline character at the end of each line and so the output does not include a leading space one might expect.
+
+This example shows all lines of report from the second line onwards:
+
+Using an older syntax (still used in older version of Sun Solaris as the -n option is not supported), the last 20 lines and the last 50 bytes of filename can be shown with the following command:
+
+However this syntax is now obsolete and does not conform with the POSIX 1003.1-2001 standard. Even if still supported in current versions, when used with other options (like -f, see below), these switches could not work at all.
+
+As with all Unix commands, use man pages on the running system for specific options and actions.
+
+tail has two special command line option -f and -F (follow) that allows a file to be monitored. Instead of just displaying the last few lines and exiting, tail displays the lines and then monitors the file. As new lines are added to the file by another process , tail updates the display. This is particularly useful for monitoring log files. Ancient versions of tail poll the file every second by default but tail from the GNU coreutils as of version 7.5 support the inotify infrastructure introduced in Linux kernel version 2.6.13 in August 2005 which only check the file when is notified of changes by the kernel.
+
+The following command will display the last 10 lines of messages and append new lines to the display as new lines are added to messages :
+
+To keep following the log even when it is recreated, renamed, or removed as part of log rotation, at least BSD and GNU implementations provide a -F option which is useful in cases when the user is following a log file that rotates .
+
+To interrupt tail while it is monitoring, break-in with Ctrl+C. This command can be run "in the background" with & , see job control .
+
+If the user has a command's result to monitor, the watch command can be used.
+
+There is a GNU Emacs mode that emulates the functionality of tail -f , called auto-revert-tail-mode .

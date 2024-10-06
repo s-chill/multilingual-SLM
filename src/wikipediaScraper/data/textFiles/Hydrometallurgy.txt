@@ -1,0 +1,31 @@
+Hydrometallurgy is a technique within the field of extractive metallurgy , the obtaining of metals from their ores.  Hydrometallurgy involve the use of aqueous solutions for the recovery of metals from ores, concentrates, and recycled or residual materials. Processing techniques that complement hydrometallurgy are pyrometallurgy , vapour metallurgy, and molten salt electrometallurgy.  Hydrometallurgy is typically divided into three general areas:
+
+Leaching involves the use of aqueous solutions to extract metal from metal-bearing materials which are brought into contact with them. In China in the 11th and 12th centuries, this technique was used to extract copper; this was used for much of the total copper production. In the 17th century it was used for the same purposes in Germany and Spain.
+
+The lixiviant solution conditions vary in terms of pH , oxidation-reduction potential , presence of chelating agents and temperature, to optimize the rate, extent and selectivity of dissolution of the desired metal component into the aqueous phase. By using chelating agents, one can selectively extract certain metals. These agents are typically amines of Schiff bases .
+
+The five basic leaching reactor configurations are in-situ, heap, vat, tank and autoclave.
+
+In-situ leaching is also called "solution mining". This process initially involves drilling of holes into the ore deposit. Explosives or hydraulic fracturing are used to create open pathways within the deposit for solution to penetrate into. Leaching solution is pumped into the deposit where it makes contact with the ore. The solution is then collected and processed. The Beverley uranium deposit is an example of in-situ leaching.
+
+In heap leaching processes, crushed (and sometimes agglomerated) ore is piled in a heap which is lined with an impervious layer. Leach solution is sprayed over the top of the heap, and allowed to percolate downward through the heap. The heap design usually incorporates collection sumps, which allow the "pregnant" leach solution (i.e. solution with dissolved valuable metals) to be pumped for further processing. An example is gold cyanidation , where pulverized ores are extracted with a solution of sodium cyanide , which, in the presence of air, dissolves the gold, leaving behind the nonprecious residue.
+
+Vat leaching involves contacting material, which has usually undergone size reduction and classification, with leach solution in large vats.
+
+Stirred tank , also called agitation leaching, involves contacting material, which has usually undergone size reduction and classification, with leach solution in agitated tanks.  The agitation can enhance reaction kinetics by enhancing mass transfer.  Tanks are often configured as reactors in series.
+
+Autoclave reactors are used for reactions at higher temperatures, which can enhance the rate of the reaction.  Similarly,  autoclaves enable the use of gaseous reagents in the system.
+
+After leaching, the leach liquor must normally undergo concentration of the metal ions that are to be recovered.  Additionally, undesirable metal ions sometimes require removal.
+
+In the solvent extraction a mixture of an extractant in a diluent is used to extract a metal from one phase to another.  In solvent extraction this mixture is often referred to as the "organic" because the main constituent (diluent) is some type of oil.
+
+The PLS (pregnant leach solution) is mixed to emulsification with the stripped organic and allowed to separate. The metal will be exchanged from the PLS to the organic they are modified. The resulting streams will be a loaded organic and a raffinate .  When dealing with electrowinning, the loaded organic is then mixed to emulsification with a lean electrolyte and allowed to separate.  The metal will be exchanged from the organic to the electrolyte.  The resulting streams will be a stripped organic and a rich electrolyte.  The organic stream is recycled through the solvent extraction process while the aqueous streams cycle through leaching and electrowinning processes respectively.
+
+Chelating agents, natural zeolite , activated carbon, resins, and liquid organics impregnated with chelating agents are all used to exchange cations or anions with the solution. Selectivity and recovery are a function of the reagents used and the contaminants present.
+
+Metal recovery is the final step in a hydrometallurgical process, in which metals suitable for sale as raw materials are produced. Sometimes, however, further refining is needed to produce ultra-high purity metals. The main types of metal recovery processes are electrolysis, gaseous reduction, and precipitation.  For example, a major target of hydrometallurgy is copper, which is conveniently obtained by electrolysis. Cu ions are reduced to Cu metal at low potentials , leaving behind contaminating metal ions such as Fe and Zn .
+
+Electrowinning and electrorefining respectively involve the recovery and purification of metals using electrodeposition of metals at the cathode, and either metal dissolution or a competing oxidation reaction at the anode.
+
+Precipitation in hydrometallurgy involves the chemical precipitation from aqueous solutions, either of metals and their compounds or of the contaminants. Precipitation will proceed when, through reagent addition, evaporation , pH change or temperature manipulation, the amount of a species present in the solution exceeds the maximum determined by its solubility.

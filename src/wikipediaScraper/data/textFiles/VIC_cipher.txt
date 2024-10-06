@@ -1,0 +1,61 @@
+The VIC cipher was a pencil and paper cipher used by the Soviet spy Reino Häyhänen , codenamed "VICTOR".
+
+If the cipher were to be given a modern technical name, it would be known as a "straddling bipartite monoalphabetic substitution superenciphered by modified double transposition." However, by general classification it is part of the Nihilist family of ciphers.
+
+It was arguably the most complex hand-operated cipher ever seen, when it was first discovered. The initial analysis done by the American National Security Agency (NSA) in 1953 did not absolutely conclude that it was a hand cipher, but its placement in a hollowed out 5¢ coin (later known as the Hollow Nickel Case ) implied it could be decoded using pencil and paper. The VIC cipher remained unbroken until more information about its structure was available.
+
+Although certainly not as complex or secure as modern computer operated stream ciphers or block ciphers , in practice messages protected by it resisted all attempts at cryptanalysis by at least the NSA from its discovery in 1953 until Häyhänen's defection in 1957.
+
+The VIC cipher can be regarded as the evolutionary pinnacle of the Nihilist cipher family.
+
+The VIC cipher has several important integrated components, including mod 10 chain addition, a lagged Fibonacci generator (a recursive formula used to generate a sequence of pseudorandom digits ), a straddling checkerboard , and a disrupted double transposition .
+
+Until the discovery of VIC, it was generally thought that a double transposition alone was the most complex cipher an agent, as a practical matter, could use as a field cipher.
+
+During World War II , several Soviet spy rings communicated to Moscow Centre using two ciphers which are essentially evolutionary improvements on the basic Nihilist cipher. A very strong version was used by Max Clausen in Richard Sorge 's network in Japan , and by Alexander Foote in the Lucy spy ring in Switzerland . A slightly weaker version was used by the Rote Kapelle network.
+
+In both versions, the plaintext was first converted to digits by use of a straddling checkerboard rather than a Polybius square . This has the advantage of slightly compressing the plaintext, thus raising its unicity distance and also allowing radio operators to complete their transmissions quicker and shut down sooner. Shutting down sooner reduces the risk of the operator being found by enemy radio direction finders . Increasing the unicity distance increases strength against statistical attacks.
+
+Clausen and Foote both wrote their plaintext in English,  and memorized the 8 most frequent letters of English (to fill the top row of the checkerboard) through the mnemonic phrase "a sin to err" (dropping the second "r").  The standard English straddling checkerboard has 28 character slots and in this cipher the extra two became "full stop" and "numbers shift". Numbers were sent by a numbers shift, followed by the actual plaintext digits in repeated pairs, followed by another shift. Then, similarly to the basic Nihilist, a digital additive was added in, which was called "closing". However a different additive was used each time, so finally a concealed "indicator group" had to be inserted to indicate what additive was used.
+
+Unlike basic Nihilist, the additive was added by non-carrying addition (digit-wise addition modulo 10), thus producing a more uniform output which doesn't leak as much information. More importantly, the additive was generated not through a keyword, but by selecting lines at random from almanacs of industrial statistics. Such books were deemed dull enough to not arouse suspicion if an agent was searched (particularly as the agents' cover stories were as businessmen), and to have such high entropy density as to provide a very secure additive. Of course the figures from such a book are not actually uniformly distributed (there is an excess of "0" and "1" (see Benford's Law ), and sequential numbers are likely to be somewhat similar), but nevertheless they have much higher entropy density than passphrases and the like; at any rate, in practice they seem never to have been successfully cryptanalysed.
+
+The weaker version generated the additive from the text of a novel or similar book (at least one Rote Kapelle member actually used The Good Soldier Schweik ). This text was converted to a digital additive using a technique similar to a straddling checkerboard.
+
+The ultimate development along these lines was the VIC cipher, used in the 1950s by Reino Häyhänen . By this time, most Soviet agents were instead using one-time pads . However, despite the theoretical perfection of the one-time pad, in practice they were broken , while VIC was not. The one-time cipher could however only be broken when cipher pages were re-used, due to logistic problems, and therefore was no longer truly one-time.
+
+The secret key for the encryption is the following:
+
+The encryption was also aided by the adversary not knowing a 5-digit Keygroup which was unique to each message. The Keygroup was not strictly a 'secret', (as it was embedded in-clear in the ciphertext), but it was at a location in the ciphertext that was not known to an adversary.
+
+The cipher broadly worked as follows:
+
+Note: this section tracks the calculations by referring to [Line-X] or similar. This is to align with the notation stated in the CIA archive description.
+
+Once the key has been generated, the first stage of actually encrypting the Message is to convert it to a series of digits via a straddling checkerboard . The key (header row) for the checkerboard is based on [Line-S]. Then a pre-agreed series of common letters used on the second row. The example below uses the English mnemonic 'AT ONE SIR'; however, the Cyrillic mnemonic used by Hayhanen was 'snegopad', the Russian word for snowfall.
+
+The remaining cells are filled in, with the rest of the alphabet filled in in order, followed by . (fullstop) and / (number-shift symbol, indicating that the following symbols until the next number-shift are numbers; see example below).
+
+An example encoding is below, where numbers :
+
+The message is transposed via standard columnar transposition keyed by [Line-Q] above. (Note: if the message encoded length is not a multiple of 5 at this stage, an additional digit is added)
+
+The message is then transposed via Diagonal Transposition keyed by [Line-R] above. The meaning of 'diagonal' in this case is that triangular disruption zones were employed to make the transposition irregular.
+
+The (unencrypted) Keygroup is inserted into the ciphertext 'P' groups from the end; where 'P' is the unused sixth digit of the Date.
+
+Modular addition or subtraction, also known as 'false adding/subtraction', in this context (and many pen and paper ciphers) is digit-by-digit addition and subtraction without 'carrying' or 'borrowing'. For example:
+
+Sequencing in this context is ordering the elements of an input from 1-10 (where '0' represents 10). This occurs either to letters (whereby alphabetical order is used), or numbers (where numerical value is used). In the event of equal values, then the leftmost value is sequenced first. For example:
+
+Chain addition is akin to a linear-feedback shift register , whereby a stream of number is generated as an output (and fed back in as an input) to a seed number. Within the VIC Cipher chain addition works by (1) taking the original (seed) number, (2) false-adding the first two digits, (3) putting this new number at the end of the chain. This continues, however the digits being added are incremented by one. For example, if the seed was '90210', the first 5 iterations are shown below:
+
+The encoding step replaces each digit in a number (i.e. [Line-G] in the cipher) with one from a key sequence (i.e. [Line-E.2]) that represents its position in the 1-10 ordering. It should be seen that by writing out the series '1234567890' (shown as [Line-F.2]) underneath [Line.E.2] each value from 0-9 has another above it. Simply replace every digit in the number to be encoded with the one above it in the key sequence.
+
+For example, the number '90210' would have encodings as follows; ( 9 ⟶ 2 ) , ( 0 ⟶ 7 ) , ( 2 ⟶ 0 ) , ( 1 ⟶ 6 ) , ( 0 ⟶ 7 ) {\displaystyle ({\ce {9->2}}),\,({\ce {0->7}}),\,({\ce {2->0}}),\,({\ce {1->6}}),\,({\ce {0->7}})} .
+
+So the output would be: '27067'.
+
+Decryption of the VIC Cipher is as follows:
+
+The cipher is one of the strongest pen and paper ciphers actually used in the real world, and was not broken (in terms of determining the underlying algorithm) by the NSA at the time. However, with the advent of modern computing, and public disclosure of the algorithm this would not be considered a strong cipher. It can be observed that the majority of the entropy in the secret key converges to a 10-digit number [Line-H]. This 10-digit number is approximately 34 bits of entropy, combined with the last digit of the date (needed to identify where the KeyGroup is) would make about 38 bits of entropy in terms of Message Key strength. 38 bits is subject to a Brute-force attack within less than a day on modern computers.

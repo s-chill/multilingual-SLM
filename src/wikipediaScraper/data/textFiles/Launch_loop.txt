@@ -1,0 +1,71 @@
+A launch loop , or Lofstrom loop , is a proposed system for launching objects into orbit using a moving cable-like system situated inside a sheath attached to the Earth at two ends and suspended above the atmosphere in the middle. The design concept was published by Keith Lofstrom and describes an active structure maglev cable transport system that would be around 2,000 km (1,240 mi) long and maintained at an altitude of up to 80 km (50 mi). A launch loop would be held up at this altitude by the momentum of a belt that circulates around the structure. This circulation, in effect, transfers the weight of the structure onto a pair of magnetic bearings, one at each end, which support it.
+
+Launch loops are intended to achieve non-rocket spacelaunch of vehicles weighing 5 metric tons by electromagnetically accelerating them so that they are projected into Earth orbit or even beyond. This would be achieved by the flat part of the cable which forms an acceleration track above the atmosphere.
+
+The system is designed to be suitable for launching humans for space tourism , space exploration and space colonization , and provides a relatively low 3 g acceleration .
+
+Launch loops were described by Keith Lofstrom in November 1981 Reader's Forum of the American Astronautical Society News Letter, and in the August 1982 L5 News.
+
+In 1982, Paul Birch published a series of papers in Journal of the British Interplanetary Society which described orbital rings and described a form which he called Partial Orbital Ring System (PORS). The launch loop idea was worked on in more detail around 1983–1985 by Lofstrom. It is a fleshed-out version of PORS specifically arranged to form a mag-lev acceleration track suitable for launching humans into space; but whereas the orbital ring used superconducting magnetic levitation , launch loops use electromagnetic suspension (EMS).
+
+Consider a large cannon on an island that shoots a shell into the high atmosphere. The shell will follow a roughly parabolic path for the initial flight, but drag will slow the shell and cause it to return to Earth in a much more vertical path. One could make the path purely ballistic by enclosing the predicted path in a tube and removing the air. Suspending such a tube would be a significant problem depending on the length of the path. However, one can use the shell to provide this lift force, at least temporarily. If the tube is not exactly along the flight path of the shell, but slightly below it, as the shell passes through the tube, it will be forced downward, thereby producing an upward force on the tube. To stay aloft, the system would require the shells to be fired continually.
+
+The launch loop is essentially a continuous version of this concept. Instead of a cannon firing a shell, a mass driver accelerates a cable into a similar trajectory. The cable is surrounded by an evacuated tube, which is held aloft by pushing down on the cable using electromagnets . When the cable falls back to Earth at the other end of the trajectory, it is captured by a second mass driver, bent through 180 degrees, and sent back up on the opposite trajectory. The result is a single loop that is continually travelling and keeping the tube aloft.
+
+To use the system as a space launcher, a launch loop would be about 2,000 km long and 80 km high. The loop would be in the form of a tube, known as the sheath . Floating within the sheath is another continuous tube, known as the rotor which is a sort of belt or chain. The rotor is an iron tube approximately 5 cm (2 inches) in diameter, moving around the loop at 14 km/s (31,000 miles per hour). Keeping the system aloft requires a significant amount of lift, and the resulting path is much flatter than the natural ballistic path of the rotor.
+
+Due to the possibility of the loop failing and falling to Earth, it is normally considered as running between two islands outside of heavy shipping routes.
+
+When at rest, the loop is at ground level. The rotor is then accelerated up to speed. As the rotor speed increases, it curves to form an arc.  The structure is held up by the force from the rotor, which attempts to follow a parabolic trajectory.  The ground anchors force it to go parallel to the earth upon reaching the height of 80 kilometers. Once raised, the structure requires continuous power to overcome the energy dissipated. Additional energy would be needed to power any vehicles that are launched.
+
+To launch, vehicles are raised up on an 'elevator' cable that hangs down from the West station loading dock at 80 km, and placed on the track. The payload applies a magnetic field that generates eddy currents in the fast-moving rotor. This both lifts the payload away from the cable, as well as pulls the payload along with 3 g (30 m/s²) acceleration. The payload then rides the rotor until it reaches the required orbital velocity , and leaves the track.
+
+If a stable or circular orbit is needed, once the payload reaches the highest part of its trajectory then an on-board rocket engine ("kick motor") or other means is needed to circularize the trajectory to the appropriate Earth orbit.
+
+The eddy current technique is compact, lightweight and powerful, but inefficient. With each launch the rotor temperature increases by 80 kelvins due to power dissipation. If launches are spaced too close together, the rotor temperature can approach 770 °C (1043 K), at which point the iron rotor loses its ferromagnetic properties and rotor containment is lost.
+
+Closed orbits with a perigee of 80 km quite quickly decay and re-enter, but in addition to such orbits, a launch loop by itself would also be capable of directly injecting payloads into escape orbits , gravity assist trajectories past the Moon , and other non closed orbits such as close to the Trojan points .
+
+To access circular orbits using a launch loop a relatively small 'kick motor' would need to be launched with the payload which would fire at apogee and would circularise the orbit. For GEO insertion this would need to provide a delta-v of about 1.6 km/s, for LEO to circularise at 500 km would require a delta-v of just 120 m/s. Conventional rockets require delta-vs of roughly 14 and 10 km/s to reach GEO and LEO respectively.
+
+Launch loops in Lofstrom's design are placed close to the equator and can only directly access equatorial orbits. However other orbital planes might be reached via high altitude plane changes, lunar perturbations or aerodynamic techniques.
+
+Launch rate capacity of a launch loop is ultimately limited by the temperature and cooling rate of the rotor to 80 per hour, but that would require a 17 GW power station; a more modest 500 MW power station is sufficient for 35 launches per day.
+
+For a launch loop to be economically viable it would require customers with sufficiently large payload launch requirements.
+
+Lofstrom estimates that an initial loop costing roughly $10 billion with a one-year payback could launch 40,000 metric tons per year, and cut launch costs to $300/kg. For $30 billion, with a larger power generation capacity, the loop would be capable of launching 6 million metric tons per year, and given a five-year payback period, the costs for accessing space with a launch loop could be as low as $3/kg.
+
+Compared to space elevators, no new high-tensile strength materials have to be developed, since the structure resists Earth's gravity by supporting its own weight with the kinetic energy of the moving loop, and not by tensile strength.
+
+Lofstrom's launch loops are expected to launch at high rates (many launches per hour, independent of weather), and are not inherently polluting. Rockets create pollution such as nitrates in their exhausts due to high exhaust temperature, and can create greenhouse gases depending on propellant choices. Launch loops as a form of electric propulsion can be clean, and can be run on geothermal, nuclear, wind, solar or any other power source, even intermittent ones, as the system has huge built-in power storage capacity.
+
+Unlike space elevators which would have to travel through the Van Allen belts over several days, launch loop passengers can be launched to low Earth orbit, which is below the belts, or through them in a few hours. This would be a similar situation to that faced by the Apollo astronauts, who had radiation doses about 0.5% of what the space elevator would give.
+
+Unlike space elevators which are subjected to the risks of space debris and meteorites along their whole length, launch loops are to be situated at an altitude where orbits are unstable due to air drag. Since debris does not persist, it only has one chance to impact the structure. Whereas the collapse period of space elevators is expected to be of the order of years, damage or collapse of loops in this way is expected to be rare. In addition, launch loops themselves are not a significant source of space debris, even in an accident. All debris generated has a perigee that intersects the atmosphere or is at escape velocity.
+
+Launch loops are intended for human transportation, to give a safe 3 g acceleration which the vast majority of people would be capable of tolerating well, and would be a much faster way of reaching space than space elevators.
+
+Launch loops would be quiet in operation, and would not cause any sound pollution, unlike rockets.
+
+Finally, their low payload costs are compatible with large-scale commercial space tourism and even space colonisation .
+
+A running loop would have an extremely large amount of energy in its linear momentum. While the magnetic suspension system would be highly redundant, with failures of small sections having essentially no effect, if a major failure did occur the energy in the loop (1.5×10 joules or 1.5 petajoules) would approach the same total energy release as a nuclear bomb explosion (350 kilotons of TNT equivalent ), although not emitting nuclear radiation.
+
+While this is a significant amount of energy, it is unlikely that this would destroy much of the structure due to its very large size, and because most of the energy would be deliberately dumped at preselected places when the failure is detected. Steps might need to be taken to lower the cable down from 80 km altitude with minimal damage, such as by the use of parachutes.
+
+Therefore, for safety and astrodynamic reasons, launch loops are intended to be installed over an ocean near the equator, well away from habitation.
+
+The published design of a launch loop requires electronic control of the magnetic levitation to minimize power dissipation and to stabilize the otherwise under-damped cable.
+
+The two main points of instability are the turnaround sections and the cable.
+
+The turnaround sections are potentially unstable, since movement of the rotor away from the magnets gives reduced magnetic attraction, whereas movements closer gives increased attraction. In either case, instability occurs. This problem is routinely solved with existing servo control systems that vary the strength of the magnets. Although servo reliability is a potential issue, at the high speed of the rotor, many consecutive sections would need to fail for the rotor containment to be lost.
+
+The cable sections also share this potential issue, although the forces are much lower. However, an additional instability is present in that the cable/sheath/rotor may undergo meandering modes (similar to a Lariat chain ) that grow in amplitude without limit. Lofstrom believes that this instability also can be controlled in real time by servo mechanisms, although this has never been attempted.
+
+In works by Alexander Bolonkin it is suggested that Lofstrom's project has many unsolved problems and that it is very far from a current technology. For example, the Lofstrom project has expansion joints between 1.5 meter iron plates. Their speeds (under gravitation, friction) can be different and Bolonkin claims that they could wedge in the tube; and the force and friction in the ground 28 km diameter turnaround sections are gigantic. In 2008, Bolonkin proposed a simple rotated close-loop cable to launch the space apparatus in a way suitable for current technology.
+
+Another project, the space cable , is a smaller design by John Knapman that is intended for launch assist for conventional rockets and suborbital tourism. The space cable design uses discrete bolts rather than a continuous rotor, as with the launch loop architecture. Knapman has also mathematically shown that the meander instability can be tamed.
+
+The skyhook is another launch system concept.  Skyhook could be either rotating or non-rotating. The non-rotating skyhook hangs from a low Earth orbit down to just above the Earth's atmosphere (skyhook cable is not attached to Earth). The rotating skyhook changes this design to decrease the speed of the lower end;  the entire cable rotates around its center of gravity. The advantage of this is an even greater velocity reduction for the launch vehicle flying to the bottom end of the rotating skyhook which makes for an even larger payload and a lower launch cost.  The two disadvantages of this are: the greatly reduced time available for the arriving launch vehicle to hook up at the lower end of the rotating skyhook (approximately 3 to 5 seconds), and the lack of choice regarding the destination orbit.

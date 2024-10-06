@@ -1,0 +1,21 @@
+Vinyl emulation allows a user to physically manipulate the playback of digital audio files on a computer using the turntables as an interface, thus preserving the hands-on control and feel of DJing with vinyl . This has the added advantage of using turntables to play back audio recordings not available in phonograph form. This method allows DJs to scratch , beatmatch , and perform other turntablism that would be impossible with a conventional keyboard-and-mouse computer interface or less tactile control devices.
+
+A digital vinyl system (DVS) may include a special time-coded vinyl record or be purely software.
+
+Vinyl emulation normally uses special vinyl records which are played on conventional turntables . The vinyl is a recording of analog audio signals often referred to as timecode . The turntables' audio output - the timecode recording - is routed into an analog-to-digital converter , or ADC. This ADC may be a multi-channel soundcard or a dedicated external USB or FireWire audio interface box, DJ controller device or compatible mixer (usually distributed with the software).  The ADC sends digital time code information to the software, which then translates the signal into corresponding changes in the playback speed, direction and position of a digital audio file.  The audio file will react as if were pressed directly onto the record. The manipulated audio output of the program is then sent back through the DAC or the computer's sound card, and can be routed into an audio mixer where it can be mixed like any other analog audio signal.
+
+The result is digital audio playback that sounds like music manipulated by an analog vinyl recording.  However, there is always a short delay between the needle's reading of the time code and the software's playback of the audio.  The delay time is treated as a figure of merit for vinyl emulation products.  A shorter delay allows the DJ to have better response and control of the music and is usually not noticeable by the user or listener.
+
+In some countries, for example Finland , a digital DJ license is required to legally play copyrighted music publicly with vinyl emulation software.
+
+Final Scratch was the first vinyl emulation software sold publicly. Since its release in 2001, many similar software and hardware packages have been developed and marketed.
+
+Notable applications licensed under the terms of the GNU General Public License :
+
+Notable proprietary software applications include:
+
+Some vinyl emulation software products are marketed with specific time coded vinyl , while others are software-only products.
+
+The following table lists all existing DVS packages which come with specific time-coded vinyl:
+
+This table presents all software-only DVS packages (Note that software products presented here are these which are "controllable" through a time-coded vinyl):

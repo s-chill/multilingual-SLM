@@ -1,0 +1,3 @@
+This page provides a comparison of notable screencasting software , used to record activities on the computer screen. This software is commonly used for desktop recording, gameplay recording and video editing. Screencasting software is typically limited to streaming and recording desktop activity alone, in contrast with a software vision mixer, which has the capacity to mix and switch the output between various input streams.
+
+The following table compares features of screencasting software. The table has seven fields, as follows:

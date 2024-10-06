@@ -1,0 +1,7 @@
+The Software Process Achievement Award is a non-competitive award offered by the IEEE Computer Society and Software Engineering Institute (SEI) and annually presented for outstanding and innovative contributions to the field of software quality.
+
+Award recipients receive an engraved commemorative plaque and make several presentations at appropriate practitioner and researcher community events. Award recipients also produce an SEI Technical Report describing their accomplishments, experiences, and lessons learned. The SEI helps produce this report and pays the authors an honorarium of $1500 to partially offset the expense of preparing their presentation and report.
+
+In 1994, the Software Process Achievement Award program was first established by the IEEE Computer Society. Since then, only nine companies have received this award, including renowned organizations such as Goddard Space Flight Center , Raytheon Company and Hughes Electronics .
+
+The SPA, granted annually, has been declared null as often as it has been granted, due to the lack of candidates that meet the criteria of the recognition. So far, six North American companies, two Indian IT services providers, and one Colombian software development organization have received the accolade.

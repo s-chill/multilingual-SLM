@@ -1,0 +1,5 @@
+Semapedia was a project that used Data Matrix nodes to connect Wikipedia articles with their relevant place in physical space.
+
+Placing physical Semapedia tags on real-world objects allowed people with mobile phones to use their built-in cameras to decode the Wikipedia URL from the Semacode. The phone could then use its internal browser to display the Wikipedia article about the physical object to the user.
+
+The maintainers of the site have since closed down due to the more publicized QRpedia fulfilling a similar role. It remains the first major attempt to organize phone code scanning for Wikipedia articles.

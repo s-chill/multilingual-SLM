@@ -1,0 +1,21 @@
+An inboard brake is an automobile technology wherein the disc brakes are mounted on the chassis of the vehicle, rather than directly on the wheel hubs. Its main advantages are twofold: a reduction in the unsprung weight of the wheel hubs, as this no longer includes the brake discs and calipers; and braking torque is applied directly to the chassis, rather than being transferred to it through the suspension arms.
+
+Inboard brakes are fitted to a driven axle of the car, as they require a drive shaft to link the wheel to the brake. Most have thus been used for rear-wheel drive cars, although four-wheel drive and some front-wheel drives have also used them. A rare few rear wheel drive racing cars (e.g., the Lotus 72 ) have also used inboard front discs, accepting the need to provide a front brake shaft to gain the overall unsprung weight and braking torque advantages.
+
+Inboard brakes for early racing cars have rarely used drum brakes , although nearly all inboard brakes date from the disc brake era.
+
+Excepting the case of vehicles with beam axles and vehicles having no suspension, in practice it is normal for inboard brakes to be mounted rigidly with respect to the body of the vehicle, often to the differential casing. This is done to move the weight of the braking mechanism from being carried by the wheels directly as unsprung mass , to being carried indirectly by the wheels via the suspension as sprung mass. This then necessitates a means of transferring braking torque from the brake mechanism to the wheel, which is capable of operating despite the relative movement between body and wheel. Driven wheels already have shafting (or chains in older vehicles) which serve this purpose so there is no penalty for them, but undriven wheels require a similar mechanism which is then called a brake shaft.
+
+The benefit of such a system is primarily the reduction of unsprung weight which improves handling and ride . The suspension does not have to resist twisting when the brakes are applied.   The wheels don't enclose the brake mechanism allowing greater flexibility in wheel offset , and placement of suspension members. It is also much easier to protect the brake mechanism from the outside environment, and protect it from water, dust, and oil. Of secondary importance is flexible brake pipes are avoided; rigid pipes allow increases in brake fluid pressure, allowing for a smaller disc to manage a given braking torque.
+
+The mechanical disadvantages are largely those of added complexity. Undriven wheels require a brake shaft. Mounted inboard, it is more difficult to arrange for cooling air to flow over the rotor and air ducting can be required to prevent brake fade.
+
+Inboard brakes also affect anti-pitch suspension geometry.
+
+There can be practical difficulties in servicing the brake mechanism. Instead of simply removing a wheel to renew pads and discs, the vehicle may need to be jacked up, so a mechanic can work underneath the vehicle. Additionally renewing brake discs can require dismantling the half axle. This greatly discourages their use in motorsport, and the additional time makes for greater labour cost when servicing these parts.
+
+This system was more common in the 1960s, found on such cars as the Jaguar E-Type and Citroën 2CV . The Hummer H1 is one of the few modern vehicles fitted with inboard brakes, to accommodate each wheel's portal gear system.
+
+Hybrid electric vehicles may be considered to have partial inboard braking, because the motor–generator(s) used for the regenerative part of the braking are usually mounted inboard.
+
+Cars with inboard brakes at the driven end include:

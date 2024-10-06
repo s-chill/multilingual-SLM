@@ -1,0 +1,19 @@
+The Apple Studio Display (marketed as Studio Display ) is a 27-inch flat panel computer monitor developed and sold by Apple Inc. It was announced on March 8, 2022, alongside the Mac Studio desktop, and was released on March 18, 2022. It is Apple's consumer display, sitting below its Pro Display XDR intended for professional users.
+
+The Studio Display is the first Apple-branded consumer display released since the Apple Thunderbolt Display was discontinued in 2016. In the interim, Apple worked with LG to design the Thunderbolt 3-enabled UltraFine line, consisting of 21.5-inch (later revised to 24-inch) 4K and 27-inch 5K displays.
+
+The Studio Display features a 27-inch, 5K LED -backlit panel, with 5120×2880 resolution at 218 pixels per inch and 600 nits of brightness, an increase from the 500 nits panel used in the LG UltraFine and 27-inch iMac . The panel also supports P3 wide color and True Tone technology. It does not support HDR content. It also includes a six-speaker system with force-cancelling woofers that support spatial audio and Dolby Atmos , and a three-microphone array that supports "Hey Siri ". On the rear of the display is a Thunderbolt 3 port that supports DisplayPort 1.4 with Display Stream Compression (DSC) 1.2 and provides up to 96 W of host charging for connected laptops, and three downstream 10 Gbit/s USB-C ports.
+
+The Studio Display includes an Apple A13 Bionic system-on-a-chip, which was introduced with the iPhone 11 line, to power audio and webcam processing. The built-in webcam supports Center Stage, introduced with the iPad Pro (5th generation) , which pinpoints the positions of the users and automatically tracks the camera view accordingly to perspectively center them. The A13 chip is paired with 64 GB of internal storage but only uses 2 GB at a time.
+
+The Studio Display comes in three mounting option configurations: a tilt-adjustable stand, a tilt- and height-adjustable stand similar to the Pro Display XDR , and a VESA mount . The mounts are built into the display and are not user interchangeable, but can be reconfigured by an Apple Store or authorized service provider after purchase. Like the Pro Display XDR, it can also be configured with the optional laser-etched "nano-texture" glass finish to reduce glare.
+
+The Studio Display has a 1.8 m (6 ft) proprietary power cable, which requires a special tool to separate from the display. The display comes with a braided 1 m (3 ft) Thunderbolt 3 cable, and longer braided Thunderbolt 4 Pro cables in lengths of 1.8 m (6 ft) and 3 m (10 ft) are available separately.
+
+The Studio Display is compatible with all Macs with Thunderbolt 3 or Thunderbolt 4 running macOS Monterey 12.3 and later:
+
+The Studio Display works with other systems supporting DisplayPort, including Windows -based systems, but only supported Macs have access to features beyond display, speakers and webcam. Intel Macs running Windows via Boot Camp are supported with version 6.1.17.
+
+It is also compatible with the following iPads running iPadOS 15.4 and later:
+
+The Verge praised the Studio Display's macOS integration and sound and microphone quality, but criticized the webcam quality, lack of customizable mounting options, and lack of variable refresh rates, local dimming and HDR, saying it includes "panel tech that is woefully behind the curve". ZDNET praised the display's design, build quality, and color accuracy, but criticized its usability outside of an Apple ecosystem.

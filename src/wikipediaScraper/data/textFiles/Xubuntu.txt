@@ -1,0 +1,191 @@
+Xubuntu ( / z ʊ ˈ b ʊ n t uː / ) is a Canonical -recognized, community-maintained derivative of the Ubuntu operating system . The name Xubuntu is a portmanteau of Xfce and Ubuntu , as it uses the Xfce desktop environment , instead of Ubuntu's customized GNOME desktop.
+
+Xubuntu seeks to provide "a light, stable and configurable desktop environment with conservative workflows" using Xfce components. Xubuntu is intended for both new and experienced Linux users. Rather than explicitly targeting low-powered machines, it attempts to provide "extra responsiveness and speed" on existing hardware.
+
+Xubuntu was originally intended to be released at the same time as Ubuntu 5.10 Breezy Badger , 13 October 2005, but the work was not complete by that date. Instead the Xubuntu name was used for the xubuntu-desktop metapackage available through the Synaptic Package Manager which installed the Xfce desktop.
+
+The first official Xubuntu release, led by Jani Monoses, appeared on 1 June 2006, as part of the Ubuntu 6.06 Dapper Drake line, which also included Kubuntu and Edubuntu .
+
+Cody A.W. Somerville developed a comprehensive strategy for the Xubuntu project named the Xubuntu Strategy Document . This document was approved by the Ubuntu Community Council in 2008.
+
+In November 2009, Cody A.W. Somerville stepped down as the project leader and made a call for nominations to help find a successor. Lionel Le Folgoc was confirmed by the Xubuntu community as the new project leader on 10 January 2010 and requested the formation of an official Xubuntu council.
+
+In the beginning of 2016, the Xubuntu team began the process to transition the project to become council run rather than having a single project leader. On 1 January 2017, an official post on the Xubuntu site's blog announced the official formation of the Xubuntu Council. The purpose of the council is not just to make decisions about the future of the project, but to make sure the direction of the project adheres to guidelines established in the Strategy Document.
+
+The first official stand-alone release of Xubuntu was version 6.06 long term support (LTS), which was made available on 1 June 2006.
+
+It was introduced with the statement:
+
+Xubuntu is the newest official Ubuntu derivative distribution, using the Xfce desktop environment and a selection of GTK 2 applications. Its lightweight footprint is well suited for low-end hardware and thin clients. Xubuntu builds on the solid foundation of Ubuntu, with world-class hardware support and access to a vast repository of additional software.
+
+The version used Linux kernel 2.6.15.7 and Xfce 4.4 beta 1. Applications included the Thunar file manager, GDM desktop manager, Abiword word processor and Gnumeric spread sheet, Evince PDF document viewer, Xarchiver archive manager, Xfburn CD burner, Firefox 1.5.0.3 web browser, Thunderbird 1.5.0.2 email client and the GDebi package manager.
+
+Xubuntu 6.10 was released on 26 October 2006. This version used Xfce 4.4 beta 2 and included Upstart , the Firefox 2.0 web browser, the Gaim 2.0.0 beta 3.1 instant messaging client along with new versions of AbiWord and Gnumeric. The media player was gxine which replaced Xfmedia . The previous xffm4 file manager was replaced by Thunar. It introduced redesigned artwork for the bootup splash screen, the login window and the desktop theme.
+
+The developers claimed that this version of Xubuntu could run on 64 MB of RAM, with 128 MB "strongly recommended".
+
+Xubuntu 7.04 was released on 19 April 2007. This release was based on Xfce 4.4.
+
+Michael Larabel of Phoronix carried out detailed benchmark testing of betas for Ubuntu 7.04 , Kubuntu 7.04 and Xubuntu 7.04 in February 2007 on two different computers, one with dual Intel Clovertown processors and the other with an AMD Sempron . After a series of gzip compression, LAME compilation, and LAME encoding tasks he concluded, "in these tests with the dual Clovertown setup we found the results to be indistinguishable. However, with the AMD Sempron, Ubuntu 7.04 Feisty Fawn Herd 4 had outperformed both Kubuntu and the lighter-weight Xubuntu. Granted on a slower system the lightweight Xubuntu should have a greater performance advantage".
+
+Xubuntu 7.10 was released on 18 October 2007. It was based upon Xfce, 4.4.1 and added updated translations along with a new theme, MurrinaStormCloud, using the Murrine Engine.
+
+Application updates included Pidgin 2.2.0, (Gaim was renamed Pidgin) and GIMP 2.4. This Xubuntu version allowed the installation of Firefox extensions and plug-ins through the Add/Remove Software interface.
+
+The developers claimed that this version of Xubuntu could run on 64 MB of RAM, with 128 MB "strongly recommended".
+
+Xubuntu 8.04 Long Term Support (LTS) was made available on 24 April 2008. This version of Xubuntu used Xfce 4.4.2, Xorg 7.3 and Linux kernel 2.6.24. It introduced PolicyKit for permissions control, PulseAudio and a new printing manager. It also introduced Wubi , that allowed Windows users to install Xubuntu as a program on Windows.
+
+Applications included were Firefox 3 Beta 5 , Brasero CD/DVD burning application, Transmission BitTorrent client, Mousepad text editor, AbiWord word processor and Ristretto image viewer
+
+Xubuntu 8.10 was released on 30 October 2008. This version of Xubuntu brought a new version of Abiword, version 2.6.4, the Listen Multimedia Player and introduced the Catfish desktop search application. It used Linux kernel 2.6.27, X.Org 7.4. There was an installation option of an encrypted private directory using ecryptfs-utils. The Totem media player was included.
+
+Version 9.04 was released on 23 April 2009. The development team advertised this release as giving improved boot-up times, "benefiting from the Ubuntu core developer team's improvements to boot-time code, the Xubuntu 9.04 desktop boots more quickly than ever. This means you can spend less time waiting, and more time being productive with your Xubuntu desktop".
+
+Xubuntu 9.04 used Xfce 4.6, which included a new Xfce Settings Manager dialog, the new Xconf configuration system, an improved desktop menu and clock, new notifications, and remote file system application Gigolo .
+
+This release also brought all new artwork and incorporated the Murrina Storm Cloud GTK+ theme and a new XFWM4 window manager theme. 9.04 also introduced new versions of many applications, including the AbiWord word processor, Brasero CD/DVD burner and Mozilla Thunderbird e-mail client. It used X.Org server 1.6. The default file system was ext3 , but ext4 was an option at installation.
+
+29 October 2009 saw the release of Xubuntu 9.10, which utilized Xfce 4.6.1, Linux kernel 2.6.31 and by default the ext4 file system and GRUB 2 . This release included the Exaile 0.3.0 music player, the Xfce4 power manager replaced the Gnome Power Manager and improved desktop notifications using notify-osd . Upstart boot-up speed was improved.
+
+The release promised "faster application load times and reduced memory footprint for a number of your favorite Xfce4 applications thanks to improvements in library linking provided by ld's --as-needed flag".
+
+Xubuntu 10.04 Long Term Support (LTS) was released on 29 April 2010. It moved to PulseAudio and replaced the Xsane scanner utilities with Simple Scan . It also incorporated the Ubuntu Software Center , which had been introduced in Ubuntu 9.10 , to replace the old Add/Remove Software utility. The included spreadsheet application, Gnumeric was updated to version 1.10.1 and new games were introduced. Because of incompatibilities in the gnome-screensaver screensaver application, it was replaced by xscreensaver. The default theme was an updated version of Albatross , designed by the Shimmer Team.
+
+This version of Xubuntu officially required a 700 MHz x86 processor, 128 MB of RAM, with 256 MB RAM "strongly recommended" and 3 GB of disk space.
+
+Xubuntu 10.10 was released on 10 October 2010. It included Parole, the Xfce4 media player, XFBurn CD/DVD writer in place of Brasero and Xfce4-taskmanager replaced Gnome-Task-Manager. These changes were all to lighten the release's memory footprint. AbiWord was updated to version 2.8.6 and Gnumeric to 1.10.8. This release also introduced the Bluebird theme, from the Shimmer Team.
+
+Xubuntu 11.04 was released on 28 April 2011. This version was based upon Xfce 4.8 and introduced editable menus using any menu editor that meets the freedesktop.org standards. This version also introduced a new Elementary Xubuntu icon theme, the Droid font by default and an updated installation slide show.
+
+While Ubuntu 11.04 introduced the new default Unity interface , Xubuntu did not adopt Unity and instead retained its existing Xfce interface. Although the developers have decided to retain a minimalist interface, Xubuntu 11.04 has a new dock-like application launcher to achieve a more modern look.
+
+Xubuntu 11.10 was released on 13 October 2011, the same day that Ubuntu 11.10 was released.
+
+In this release gThumb became the new image viewer/organizer, Leafpad replaced Mousepad as the default text editor and LightDM was introduced as the log-in manager. The release also incorporated pastebinit for cut and paste actions.
+
+Xubuntu 12.04 incorporated many changes including some default shortcuts which were altered and new ones added, plus there were many appearance changes, including a new logo and wallpaper. Fixes were included for Greybird, Ubiquity , Plymouth , LightDM, and Terminal themes.
+
+The release shipped with version 3.2.14 of the Linux kernel. Pavucontrol was introduced to replace xfce4-mixer as it did not support PulseAudio. The Alacarte menu editor was used by default.
+
+The minimum system requirements for this release were 512 MiB of RAM, 5 GB of hard disk space, and a graphics card and monitor capable of at least 800×600 pixel resolution.
+
+Whisker Menu, a new application launcher for Xubuntu, was introduced via a Personal Package Archive for Xubuntu 12.04 LTS. It proved a popular option and later became the default launcher in Xubuntu 14.04 LTS.
+
+Xubuntu 12.10 was released on 18 October 2012. This release introduced the use of Xfce 4.10, as well as new versions of Catfish, Parole, LightDM, Greybird and the Ubiquity slideshow. The application menu was slightly reorganized, with settings-related launchers moved to the Settings Manager. The release also included updated artwork, new desktop wallpaper, a new look to the documentation and completely rewritten offline documentation. On 32-bit systems, hardware supporting PAE is required.
+
+The release included one notable bug fix: "No more window traces or "black on black" in installer". This release of Xubuntu does not support UEFI Secure Boot , unlike Ubuntu 12.10 , which allows Ubuntu to run on hardware designed for Windows 8 . It was expected that this feature would be included in the next release of Xubuntu.
+
+Xubuntu 13.04 was released on 25 April 2013. It was intended as a maintenance release with few new features. It incorporated updated documentation, a new version of Catfish (0.6.1), updates to the Greybird theme, GIMP and Gnumeric were reintroduced, a new version of Parole (0.5.0) and that duplicate partitions are no longer shown on desktop or in the Thunar file manager.
+
+This was the first version of Xubuntu with a support period of 9 months for the interim (non-LTS) releases, instead of 18 months.
+
+Starting with this release the Xubuntu ISO images will not fit on a CD as they now average 800 MB. The new image target media is at least a 1.0 GB USB device or DVD. The decision to change the ISO image size was based upon the amount of developer time spent trying to shrink the files to fit them on a standard size CD. This ISO size change also allowed the inclusion of two applications that had been previously dropped due to space constraints, Gnumeric and GIMP.
+
+Xubuntu 13.10 was released on 17 October 2013. This release included some improvements over the previous release, including a new version of xfce4-settings and a new dialog box for display settings. There was also a new color theme tool and gtk-theme-config was added as default. This release also included new wallpaper, new GTK+ themes, with Gtk3.10 support and the LightDM greeter. The official Xubuntu documentation was also updated.
+
+Xubuntu 14.04 LTS was released on 17 April 2014 and, being an LTS, featured three years of support. It incorporated the Xfdesktop 4.11, the Mugshot user account profile editor, the MenuLibre menu editor in place of Alacarte and the Light-locker screen lock to replace Xscreensaver. The Whisker Menu was introduced as the default application launching menu, having been formerly a Personal Package Archive option introduced in Xubuntu 12.04 LTS. It replaced the previous default menu system. The Xfdesktop also supported using different wallpapers on each workspace.
+
+Xubuntu 14.10 was released on 23 October 2014. This release incorporated very few new features. Changed were a new Xfce Power Manager plugin added to the panel and that items in the new alt-tab dialog could be clicked with the mouse. To illustrate the customization of the operating system, 14.10 featured pink highlight colours, something that could easily be changed by users, if desired.
+
+Xubuntu 15.04 was released on 23 April 2015. This release featured Xfce 4.12 and included new colour schemes, with redundant File Manager (Settings) menu entries removed. Otherwise this release was predominantly a bug-fix and package upgrade release, with very few significant changes.
+
+Xubuntu 15.10 was released on 22 October 2015.
+
+This release had only minimal changes over 15.04. It incorporated the Xfce4 Panel Switch for the backup and restoration of panels and included five preset panel layouts.
+
+Greybird accessibility icons were used for the window manager. Gnumeric and Abiword were replaced with LibreOffice Calc and LibreOffice Writer and a new default LibreOffice theme, libreoffice-style-elementary , was provided.
+
+Released on 21 April 2016, Xubuntu 16.04 is an LTS version, supported for three years until April 2019.
+
+This release offered few new features. It included a new package of wallpapers and the replacement of the Ubuntu Software Center with Gnome Software , the same as in Ubuntu 16.04 LTS . Reviewer Jack Wallen said, "The truth of the matter is, the Ubuntu Software Center has been a horrible tool for a very long time. Making this move will greatly improve the Ubuntu experience for every user".
+
+Xubuntu 16.10 was released on 13 October 2016.
+
+This version of Xubuntu introduced very few new features. The official release notice stated, "This release has seen little visible change since April's 16.04, however much has been done towards supplying Xubuntu with Xfce packages built with GTK3, including the porting of many plugins and Xfce Terminal to GTK3".
+
+Xubuntu 17.04 was released on 13 April 2017.
+
+This version continued the then-porting of Xfce panel plugins and applications from 16.10, along with a slight refresh of core theming to improve GTK3 support. It is also the first Xubuntu version to install a swap file instead of the former swap partition.
+
+Joey Sneddon of OMG Ubuntu indicated that this release is mostly just bug fixes and has little in the way of new features.
+
+Xubuntu 17.10 was released on 19 October 2017.
+
+This release included only minor changes including the GNOME Font Viewer included by default and that the client side decorations consume less space within the Greybird GTK+ theme.
+
+Distrowatch noted that Xubuntu 17.10, "includes significant improvements to accelerated video playback on Intel video cards. The distribution also includes support for driverless printing and includes the GNOME Font Viewer by default".
+
+Xubuntu 18.04 is a long-term support version, released on 26 April 2018.
+
+In this version, removed the GTK Theme Configuration, the Greybird GTK + theme was upgraded to 3.22.8 version, including HiDPI support, Google Chrome GTK+ 3 styles and a new dark theme. Sound Indicator was replaced by the Xfce PulseAudio Plugin . The release introduced a new plugin for the panel, xfce4-notifyd . Also Evince was replaced by Atril , GNOME File Roller by Engrampa , and GNOME Calculator by MATE Calculator.
+
+Xubuntu 18.10 was released on 18 October 2018. This release includes Xfce components at version 4.13 as the project moves towards a Gtk+3-only desktop, Xfce Icon Theme 0.13, Greybird 3.22.9, which improves the window manager appearance, a new purple wallpaper.
+
+This version doesn't allow updating from a 32-bit installation of the previous 18.04. The recommended system requirements for this release remained as at least 1 GB of RAM and at least 20 GB of free hard disk space.
+
+Xubuntu 19.04 was released on 18 April 2019. Starting with this version, Xubuntu no longer offered 32-bit ISOs.
+
+In this release, new default applications were included, such as GIMP , LibreOffice Impress . LibreOffice Draw and AptURL, and Orage was removed.
+
+This release was predominantly a bug fix release with few changes, but also included new screenshot tools and updated Xfce 4.13 components, using components from the development branch for Xfce 4.14.
+
+This standard release was the last one before the next LTS release and arrived on 17 October 2019.
+
+This release included Xfce 4.14, which was completed in August 2019 after nearly four and half years of development work. Other changes included the Xfce Screensaver replacing Light Locker for screen locking, new desktop keyboard shortcuts, the ZFS file system and logical volume manager included on an experimental basis for root.
+
+This release is a long-term support release and was released on 23 April 2020. Xubuntu 20.04.1 LTS was released on 6 August 2020.
+
+As in common with LTS releases, this one introduced very few new features. A new dark-colored windowing theme was included, Greybird-dark, as were six new community-submitted wallpaper designs. The applications apt-offline and pidgin-libnotify were not included and Python 2 support was removed.
+
+This standard release was made on 22 October 2020.
+
+The Xubuntu developers transitioned their code base to GitHub for this release and otherwise there were no changes over Xubuntu 20.04 LTS.
+
+On 23 October 2020, reviewer Sarvottam Kumar of FOSS Bytes noted of this release, "out of all Ubuntu flavors, Xubuntu 20.10 seems the least updated variant containing the same Xfce 4.14 desktop environment as long-term Xubuntu 20.04 has. This is because the next Xfce 4.16 is still under development, with the first preview released last month".
+
+Xubuntu 21.04 is a standard release, made on 22 April 2021.
+
+This release introduced Xfce 4.16 which exclusively uses GTK3 . A new minimal installation option was available. It also included two new applications: the HexChat IRC client and the Synaptic package manager as well as some general user interface changes.
+
+The release also included a full Adwaita icon theme, instead of shipping the partial version from previous releases due to "sub-par experience."
+
+Xubuntu 21.10 is a standard release, and was released on 14 October 2021.
+
+This release included the addition of GNOME Disk Analyzer, GNOME Disk Utility, and the media playback software Rhythmbox . It also included PipeWire alongside the already existing PulseAudio , in line with other Ubuntu flavours.
+
+This long term support release was made on 21 April 2022 and will be supported for three years until April 2025.
+
+The release uses Xfce 4.16 and the GTK 3.24.33 toolkit. The changes were very minor and included switching Firefox to a snap package from the previous .deb package to align with Ubuntu 22.04 LTS . Updated applications included the addition of spellchecking to the Mousepad text editor along with session backup and restore. The Ristretto image viewer now has improved thumbnail support, along with performance improvements and a new version of the Whisker Menu Plugin adds new customization options with preferences and CSS classes, for theme development.
+
+Xubuntu 22.10 was released on 20 October 2022, as an interim release supported for nine months, until July 2023.
+
+This release used Xfce 4.16, with some elements from 4.17 included for testing and preview purposes. The toolkit was GTK 4.8.1. The included default applications saw no changes in what was included, beyond updated versions. Unlike in Ubuntu 22.10 which switched to PipeWire , Xubuntu retained PulseAudio as its sound controller.
+
+Xubuntu 23.04 is an interim release, which was made on 20 April 2023 and was supported until January 2024.
+
+The release uses Xfce 4.18. As a component of Xfce 4.18 the Thunar file manager added a number of improvements, including image preview, undo/redo, file highlights and also recursive searching. This release also trades the PulseAudio audio controller for PipeWire and employs wireplumber as the PipeWire modular session policy manager.
+
+This release also officially offers an alternate download called Xubuntu Minimal . Formerly known as Xubuntu Core, this project has been supported for eight years as an unofficial community project, but is now recognized as an "officially supported subproject". Xubuntu Minimal provides a stripped-down version of Xubuntu with just the desktop, some of the Xfce components and the Xubuntu look and feel files. It includes a terminal emulator , the Thunar file manager, system settings, Snap package manager and the screenshot application.
+
+Xubuntu 23.10 was released on 12 October 2023 and is supported for nine months until July 2024.
+
+Xubuntu 24.04 is a long-term support that was released on 25 April 2024, and is supported for three years until April 2027.
+
+Xubuntu 24.10 will be an interim release, scheduled for 10 October 2024.
+
+Xubuntu versions are released twice a year, coinciding with Ubuntu releases. Xubuntu uses the same version numbers and code names as Ubuntu, using the year and month of the release as the version number . The first Xubuntu release, for example, was 6.06, indicating June 2006.
+
+Xubuntu releases are also given code names , using an adjective and an animal with the same first letter, e.g. , " Dapper Drake " and " Intrepid Ibex ". These are the same as the respective Ubuntu code names . Xubuntu code names are in alphabetical order, allowing a quick determination of which release is newer, although there were no releases with the letters "A" or "C". Commonly, Xubuntu releases are referred to by developers and users by only the adjective portion of the code name, for example Intrepid Ibex is often called just Intrepid .
+
+Long Term Support (LTS) releases are supported for three years, while standard releases are supported for nine months. Prior to 13.04 It had been 18 months.
+
+The Xfce desktop environment is intended to use fewer system resources than the default Ubuntu GNOME desktop. In September 2010, the Xubuntu developers claimed that the minimum RAM Xubuntu could be run on was 128 MB, with 256 MB of RAM strongly recommended at that time.
+
+Testing conducted by Martyn Honeyford at IBM in January 2007 on Xubuntu 6.10 concluded that it "uses approximately 25MB less application memory, and also eats significantly less into buffers and cache (which may imply that there is less file activity) than Ubuntu".
+
+In a September 2009 assessment in Linux Magazine , Christopher Smart noted, "the Xfce desktop is very lightweight and well suited to machines with small amounts of memory and processing power, but Xubuntu's implementation has essentially massacred it. They've taken the beautifully lightweight desktop and strangled it with various heavyweight components from GNOME. In all fairness to the project however, they do not claim that Xubuntu is designed for older machines – that's just something the community has assumed on their own. It might be more lightweight than Ubuntu itself, but if so it's not by much".
+
+However, another reviewer, Laura Tucker also from Make Tech Easier , in her 2016 article What OS Are You Using and Why? as survey of her writing team's computers, noted that Xubuntu is the favourite OS of one member of her team for her older desktop computer, as the writer reported, "because it is lightweight and works great". She also noted that it is easy to customize.
+
+Xubuntu has been developed into several new versions by third-party developers:

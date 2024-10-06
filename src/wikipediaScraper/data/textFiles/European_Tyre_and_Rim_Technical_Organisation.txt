@@ -1,0 +1,3 @@
+The European Tyre and Rim Technical Organisation (ETRTO) exists to specify and harmonise sizes of rims and their associated pneumatic tyres across the European Union .  ETRTO sizes apply to rims and tyres for vehicles of all types, including bicycles.  The great advantage of ETRTO sizing is that it is unambiguous; previously, nominal dimensions were used which were interpreted in different ways by different countries and manufacturers - a problem for the end user.
+
+ETRTO works in liaison with the International Organization for Standardization to develop relevant standards.

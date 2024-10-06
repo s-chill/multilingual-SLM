@@ -1,0 +1,85 @@
+Heavy equipment , heavy machinery , earthmovers , construction vehicles , or construction equipment , refers to heavy-duty vehicles specially designed to execute construction tasks, most frequently involving earthwork operations or other large construction tasks. Heavy equipment usually comprises five equipment systems: the implement , traction , structure, power train , and control/information.
+
+Heavy equipment has been used since at least the 1st century BC when the ancient Roman engineer Vitruvius described a crane in De architectura when it was powered via human or animal labor.
+
+Heavy equipment functions through the mechanical advantage of a simple machine , the ratio between input force applied and force exerted is multiplied, making tasks which could take hundreds of people and weeks of labor without heavy equipment far less intensive in nature. Some equipment uses hydraulic drives as a primary source of motion.
+
+The word plant , in this context, has come to mean any type of industrial equipment, including mobile equipment (e.g. in the same sense as powerplant ). However, plant originally meant "structure" or "establishment" – usually in the sense of factory or warehouse premises; as such, it was used in contradistinction to movable machinery, e.g. often in the phrase "plant and equipment".
+
+The use of heavy equipment has a long history; the ancient Roman engineer Vitruvius (1st century BCE) gave descriptions of heavy equipment and cranes in ancient Rome in his treatise De architectura . The pile driver was invented around 1500. The first tunnelling shield was patented by Marc Isambard Brunel in 1818.
+
+Until the 19th century and into the early 20th century heavy machines were drawn under human or animal power. With the advent of portable steam-powered engines the drawn machine precursors were reconfigured with the new engines, such as the combine harvester . The design of a core tractor evolved around the new steam power source into a new machine core traction engine , that can be configured as the steam tractor and the steamroller . During the 20th century, internal-combustion engines became the major power source of heavy equipment. Kerosene and ethanol engines were used, but today diesel engines are dominant. Mechanical transmission was in many cases replaced by hydraulic machinery. The early 20th century also saw new electric-powered machines such as the forklift . Caterpillar Inc. is a present-day brand from these days, starting out as the Holt Manufacturing Company . The first mass-produced heavy machine was the Fordson tractor in 1917.
+
+The first commercial continuous track vehicle was the 1901 Lombard Steam Log Hauler . The use of tracks became popular for tanks during World War I , and later for civilian machinery like the bulldozer. The largest engineering vehicles and mobile land machines are bucket-wheel excavators , built since the 1920s.
+
+Until almost the twentieth century, one simple tool constituted the primary earthmoving machine: the hand shovel —moved with animal and human powered, sleds, barges, and wagons. This tool was the principal method by which material was either sidecast or elevated to load a conveyance, usually a wheelbarrow , or a cart or wagon drawn by a draft animal . In antiquity, an equivalent of the hand shovel or hoe and head basket—and masses of men—were used to move earth to build civil works. Builders have long used the inclined plane , levers, and pulleys to place solid building materials, but these labor-saving devices did not lend themselves to earthmoving, which required digging, raising, moving, and placing loose materials. The two elements required for mechanized earthmoving, then as now, were an independent power source and off-road mobility, neither of which could be provided by the technology of that time.
+
+Container cranes were used from the 1950s and onwards, and made containerization possible.
+
+Nowadays such is the importance of this machinery, some transport companies have developed specific equipment to transport heavy construction equipment to and from sites.
+
+Most of the major equipment manufacturers such as Caterpillar, Volvo, Liebherr, and Bobcat have released or have been developing fully or partially electric-powered heavy equipment. Commercially-available models and R&D models were announced in 2019 and 2020.
+
+Robotics and autonomy has been a growing concern for heavy equipment manufacturers with manufacturers beginning research and technology acquisition. A number of companies are currently developing ( Caterpillar and Bobcat ) or have launched ( Built Robotics ) commercial solutions to the market.
+
+These subdivisions, in this order, are the standard heavy equipment categorization.
+
+Tractor
+
+Grader
+
+Excavator
+
+Backhoe
+
+Timber
+
+Pipelayer
+
+Scraper
+
+Mining
+
+Articulated
+
+Compactor
+
+Loader
+
+Track loader
+
+Skid-steer loader
+
+Material handler
+
+Paving
+
+Underground
+
+Hydromatic tool
+
+Hydraulic machinery
+
+Highway
+
+Heavy equipment requires specialized tires for various construction applications. While many types of equipment have continuous tracks applicable to more severe service requirements, tires are used where greater speed or mobility is required. An understanding of what equipment will be used for during the life of the tires is required for proper selection. Tire selection can have a significant impact on production and unit cost. There are three types of off-the-road tires, transport for earthmoving machines, work for slow moving earthmoving machines, and load and carry for transporting as well as digging. Off-highway tires have six categories of service C compactor, E earthmover, G grader, L loader, LS log-skidder and ML mining and logging. Within these service categories are various tread types designed for use on hard-packed surface, soft surface and rock. Tires are a large expense on any construction project, careful consideration should be given to prevent excessive wear or damage.
+
+A heavy equipment operator drives and operates heavy equipment used in engineering and construction projects. Typically only skilled workers may operate heavy equipment, and there is specialized training for learning to use heavy equipment.
+
+Much publication about heavy equipment operators focuses on improving safety for such workers. The field of occupational medicine researches and makes recommendations about safety for these and other workers in safety-sensitive positions.
+
+Due to the small profit margins on construction projects it is important to maintain accurate records concerning equipment utilization, repairs and maintenance. The two main categories of equipment costs are ownership cost and operating cost .
+
+To classify as an ownership cost an expense must have been incurred regardless of if the equipment is used or not. These costs are as follows:
+
+Depreciation can be calculated several ways, the simplest is the straight-line method. The annual depreciation is constant, reducing the equipment value annually. The following are simple equations paraphrased from the Peurifoy & Schexnayder text:
+
+For an expense to be classified as an operating cost, it must be incurred through use of the equipment. These costs are as follows:
+
+The biggest distinction from a cost standpoint is if a repair is classified as a major repair or a minor repair . A major repair can change the depreciable equipment value due to an extension in service life , while a minor repair is normal maintenance . How a firm chooses to cost major and minor repairs vary from firm to firm depending on the costing strategies being used. Some firms will charge only major repairs to the equipment while minor repairs are costed to a project. Another common costing strategy is to cost all repairs to the equipment and only frequently replaced wear items are excluded from the equipment cost. Many firms keep their costing structure closely guarded as it can impact the bidding strategies of their competition. In a company with multiple semi-independent divisions, the equipment department often wants to classify all repairs as "minor" and charge the work to a job – therefore improving their 'profit' from the equipment.
+
+Die-cast metal promotional scale models of heavy equipment are often produced for each vehicle to give to prospective customers. These are typically in 1:50 scale . The popular manufacturers of these models are Conrad and NZG in Germany, even for US vehicles.
+
+The largest 10 heavy equipment manufacturers in 2022
+
+Other manufacturers include:

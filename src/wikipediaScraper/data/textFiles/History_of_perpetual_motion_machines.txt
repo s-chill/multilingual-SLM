@@ -1,0 +1,67 @@
+The history of perpetual motion machines dates at least back to the Middle Ages . For millennia, it was not clear whether perpetual motion devices were possible or not, but modern theories of thermodynamics have shown that they are impossible. Despite this, many attempts have been made to construct such machines, continuing into modern times. Modern designers and proponents sometimes use other terms, such as "overunity", to describe their inventions.
+
+There are some unsourced claims that a perpetual motion machine called the "magic wheel" (a wheel spinning on its axle powered by lodestones) appeared in 8th-century Bavaria . This historical claim appears to be unsubstantiated though often repeated.
+
+Early designs of perpetual motion machines were done by Indian mathematician – astronomer Bhaskara II , who described a wheel ( Bhāskara's wheel ) that he claimed would run forever.
+
+A drawing of a perpetual motion machine appeared in the sketchbook of Villard de Honnecourt , a 13th-century French master mason and architect. The sketchbook was concerned with mechanics and architecture . Following the example of Villard, Peter of Maricourt designed a magnetic globe which, if it were mounted without friction parallel to the celestial axis, would rotate once a day. It was intended to serve as an automatic armillary sphere .
+
+Leonardo da Vinci made a number of drawings of devices he hoped would make free energy . Leonardo da Vinci was generally against such devices, but drew and examined numerous overbalanced wheels.
+
+Mark Anthony Zimara, a 16th-century Italian scholar, proposed a self-blowing windmill.
+
+Various scholars in this period investigated the topic. In 1607 Cornelius Drebbel in "Wonder-vondt van de eeuwighe bewegingh" dedicated a Perpetuum motion machine to James I of England . It was described by Heinrich Hiesserle von Chodaw in 1621. Robert Boyle devised the "perpetual vase" ("perpetual goblet" or "hydrostatic paradox") which was discussed by Denis Papin in the Philosophical Transactions for 1685. Johann Bernoulli proposed a fluid energy machine. In 1686, Georg Andreas Böckler , designed a "self operating" self-powered water mill and several perpetual motion machines using balls using variants of Archimedes' screws . In 1712, Johann Bessler ( Orffyreus ), claimed to have experimented with 300 different perpetual motion models before developing what he said were working models.
+
+In the 1760s, James Cox and John Joseph Merlin developed Cox's timepiece . Cox claimed that the timepiece was a true perpetual motion machine, but as the device is powered by changes in atmospheric pressure via a mercury barometer , this is not the case.
+
+In 1775, the Royal Academy of Sciences in Paris made the statement that the Academy "will no longer accept or deal with proposals concerning perpetual motion."
+
+In 1812, Charles Redheffer , in Philadelphia , claimed to have developed a "generator" that could power other machines. The machine was open for viewing in Philadelphia, where Redheffer raised large amount of money from the admission fee. Redheffer moved his machine to New York, after his cover was blown in Philadelphia, while applying for government funding. It was there that Robert Fulton exposed Redheffer's schemes during an exposition of the device in New York City (1813). Removing some concealing wooden strips, Fulton found a catgut belt drive went through a wall to an attic. In the attic, a man was turning a crank to power the device.
+
+In 1827, Sir William Congreve, 2nd Baronet devised a machine running on capillary action that would disobey the principle that water seeks its own level, so to produce a continuous ascent and overflow. The device had an inclined plane over pulleys. At the top and bottom, there travelled an endless band of sponge, a bed and, over this, again an endless band of heavy weights jointed together. The whole stood over the surface of still water. Congreve believed his system would operate continuously.
+
+In 1868, an Austrian, Alois Drasch, received a US patent for a machine that possessed a "thrust key-type gearing " of a rotary engine . The vehicle driver could tilt a trough depending upon need. A heavy ball rolled in a cylindrical trough downward, and, with continuous adjustment of the device's levers and power output, Drasch believed that it would be possible to power a vehicle.
+
+In 1870, E.P. Willis of New Haven, Connecticut made money from a "proprietary" perpetual motion machine. A story of the overcomplicated device with a hidden source of energy appears in the Scientific American article "The Greatest Discovery Ever Yet Made". Investigation into the device eventually found a source of power that drove it.
+
+John Ernst Worrell Keely claimed the invention of an induction resonance motion motor. He explained that he used "etheric technology". In 1872, Keely announced that he had discovered a principle for power production based on the vibrations of tuning forks . Scientists investigated his machine which appeared to run on water, though Keely endeavoured to avoid this. Shortly after 1872, venture capitalists accused Keely of fraud (they lost nearly five million dollars). Keely's machine, it was discovered after his death, was based on hidden air pressure tubes.
+
+In 1900, Nikola Tesla claimed to have discovered an abstract principle on which to base a perpetual motion machine of the second kind . No prototype was produced. He wrote:
+
+A departure from known methods – possibility of a "self-acting" engine or machine, inanimate, yet capable, like a living being, of deriving energy from the medium – the ideal way of obtaining motive power.
+
+David Unaipon , Australian inventor, had a lifelong fascination with perpetual motion. One of his studies on Newtonian mechanics led him to create a shearing machine in 1910 that converted curvilineal motion into straight line movement. The device is the basis of modern mechanical shears.
+
+In the 1910s and 1920s, Harry Perrigo of Kansas City, Missouri, a graduate of MIT , claimed development of a free energy device. Perrigo claimed the energy source was "from thin air" or from aether waves. He demonstrated the device before the Congress of the United States on December 15, 1917. Perrigo had a pending application for the "Improvement in Method and Apparatus for Accumulating and Transforming Ether Electric Energy". Investigators report that his device contained a hidden motor battery.
+
+Popular Science , in the October 1920 issue, published an article on the lure of perpetual motion.
+
+In 1966, Josef Papp (sometimes referred to as Joseph Papp or Joseph Papf) supposedly developed an alternative car engine that used inert gases . He gained a few investors but when the engine was publicly demonstrated, an explosion killed one of the observers and injured two others. Papp blamed the accident on interference by physicist Richard Feynman , who later shared his observations in an article in Laser , the journal of the Southern Californian Skeptics. Papp continued to accept money but never demonstrated another engine.
+
+On December 20 of 1977, Emil T. Hartman received U.S. patent 4,215,330 titled "Permanent magnet propulsion system". This device is related to the Simple Magnetic Overunity Toy (SMOT).
+
+Paul Baumann, a German engineer, developed a machine referred to as the "Testatika" and known as the "Swiss M-L converter" or "Thesta-Distatica".
+
+Guido Franch reportedly had a process of transmuting water molecules into high- octane gasoline compounds (named Mota fuel ) that would reduce the price of gasoline to 8 cents per gallon. This process involved a green powder (this claim may be related to the similar ones of John Andrews (1917)). He was brought to court for fraud in 1954 and acquitted , but in 1973 was convicted. Justice William Bauer and Justice Philip Romiti both observed a demonstration in the 1954 case.
+
+In 1958, Otis T. Carr from Oklahoma formed a company to manufacture UFO -styled spaceships and hovercraft . Carr sold stock for this commercial endeavour. He also promoted free energy machines . He claimed inspiration from Nikola Tesla , among others.
+
+In 1962, physicist Richard Feynman discussed a Brownian ratchet that would supposedly extract meaningful work from Brownian motion , although he went on to demonstrate how such a device would fail to work in practice.
+
+In the 1970s, David Hamel produced the Hamel generator, an " antigravity " device, supposedly after an alien abduction . The device was tested on MythBusters where it failed to demonstrate any lift-generating capability.
+
+Howard Robert Johnson developed a permanent magnet motor and, on April 24, 1979, received U.S. patent 4,151,431 .[The United States Patent office main classification of his 4151431 patent is as an "electrical generator or motor structure, dynamoelectric, linear" (310/12).] Johnson claimed that his device generates motion, either rotary or linear, from nothing but permanent magnets in rotor as well as stator, acting against each other. He estimated that permanent magnets made of proper hard materials should lose less than two percent of their magnetization in powering a device for 18 years.
+
+In 1979, Joseph Westley Newman applied for a patent on a direct current electrical motor which, according to his book The Energy Machine of Joseph Newman did more mechanical work than could be accounted for by the electrical power supplied to it. Newman's patent application was rejected in 1983. Newman sued the US Patent and Trademark Office in US District Court, which ordered the National Bureau of Standards to test his machine; they informed the Court that Newman's device did not produce more power than supplied by the batteries it was connected to, and the Court found against Newman.
+
+Dr. Yuri S. Potapov of Moldova claims development of an over-unity electrothermal water-based generator (referred to as "Yusmar 1"). He founded the YUSMAR company to promote his device. The device has failed to produce over unity under tests.
+
+Clean Energy Technologies, Inc. (CETI) claimed development of a device called the Patterson power cell that outputs small yet anomalous amounts of heat, perhaps due to cold fusion . Skeptics state that inaccurate measurements of friction effects from the cooling flow through the pellets may be responsible for the results.
+
+Dave Jones created a device in 1981 using a seemingly constantly rotating bicycle wheel sealed in a plexiglass container. He created it as a scientific joke, always stating that it was a fake and not a true perpetual motion machine, but to date no one has yet discovered how the device works. Before he died of cancer in 2017, his brother Peter persuaded him to write down the secret behind the wheel, which he sent in a letter to Martyn Poliakoff , a chemist at the University of Nottingham . Adam Savage examined the wheel in 2023, which was housed at the Royal Society , producing a video of the event, in which he suspected that an electrical mechanism of some kind drove the device.
+
+The motionless electromagnetic generator (MEG) was built by Tom Bearden. Allegedly, the device can eventually sustain its operation in addition to powering a load without application of external electrical power. Bearden claimed that it didn't violate the first law of thermodynamics because it extracted vacuum energy from the immediate environment. Critics dismiss this theory and instead identify it as a perpetual motion machine with an unscientific rationalization. Science writer Martin Gardner said that Bearden's physics theories, compiled in the self-published book Energy from the Vacuum , are considered "howlers" by physicists, and that his doctorate title was obtained from a diploma mill . Bearden then founded and directed the Alpha Foundation's Institute for Advanced Study (AIAS) to further propagate his theories. This group has published papers in established physics journals and in books published by leading publishing houses, but one analysis lamented these publications because the texts were "full of misconceptions and misunderstandings concerning the theory of the electromagnetic field ." When Bearden was awarded U.S. patent 6,362,718 in 2002, the American Physical Society issued a statement against the granting. The United States Patent and Trademark Office said that it would reexamine the patent and change the way it recruits examiners, and re-certify examiners on a regular basis, to prevent similar patents from being granted again.
+
+In 2002, the GWE (Genesis World Energy) group claimed to have 400 people developing a device that supposedly separated water into H 2 and O 2 using less energy than conventionally thought possible. No independent confirmation was ever made of their claims, and in 2006, company founder Patrick Kelly was sentenced to five years in prison for stealing funds from investors.
+
+In 2006, Steorn Ltd. claimed to have built an over-unity device based on rotating magnets, and took out an advertisement soliciting scientists to test their claims. The selection process for twelve began in September 2006 and concluded in December 2006. The selected jury started investigating Steorn's claims. A public demonstration scheduled for July 4, 2007 was canceled due to "technical difficulties". In June 2009, the selected jury said the technology does not work.

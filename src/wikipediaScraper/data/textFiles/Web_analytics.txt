@@ -1,0 +1,93 @@
+Web analytics is the measurement, collection , analysis , and reporting of web data to understand and optimize web usage . Web analytics is not just a process for measuring web traffic but can be used as a tool for business and market research and assess and improve website effectiveness. Web analytics applications can also help companies measure the results of traditional print or broadcast advertising campaigns . It can be used to estimate how traffic to a website changes after launching a new advertising campaign. Web analytics provides information about the number of visitors to a website and the number of page views, or creates user behavior profiles. It helps gauge traffic and popularity trends, which is useful for market research.
+
+Most web analytics processes come down to four essential stages or steps, which are:
+
+Another essential function developed by the analysts for the optimization of the websites are the experiments:
+
+The goal of A/B testing is to identify and suggest changes to web pages that increase or maximize the effect of a statistically tested result of interest.
+
+Each stage impacts or can impact (i.e., drives) the stage preceding or following it. So, sometimes the data that is available for collection impacts the online strategy. Other times, the online strategy affects the data collected.
+
+There are at least two categories of web analytics, off-site and on-site web analytics.
+
+In the past, web analytics has been used to refer to on-site visitor measurement. However, this meaning has become blurred, mainly because vendors are producing tools that span both categories. Many different vendors provide on-site web analytics software and services . There are two main technical ways of collecting the data. The first and traditional method, server log file analysis , reads the logfiles in which the web server records file requests by browsers. The second method, page tagging , uses JavaScript embedded in the webpage to make image requests to a third-party analytics-dedicated server, whenever a webpage is rendered by a web browser or, if desired, when a mouse click occurs. Both collect data that can be processed to produce web traffic reports.
+
+There are no globally agreed definitions within web analytics as the industry bodies have been trying to agree on definitions that are useful and definitive for some time, that is saying, metrics in tools and products from different companies may have different ways to measure, counting, as a result, a same metric name may represent different meaning of data. The main bodies who have had input in this area have been the IAB (Interactive Advertising Bureau), JICWEBS (The Joint Industry Committee for Web Standards in the UK and Ireland), and The DAA (Digital Analytics Association), formally known as the WAA (Web Analytics Association, US). However, many terms are used in consistent ways from one major analytics tool to another, so the following list, based on those conventions, can be a useful starting point:
+
+Off-site web analytics is based on open data analysis, social media exploration, and share of voice on web properties.
+It is usually used to understand how to market a site by identifying the keywords tagged to this site, either from social media or from other websites.
+
+The fundamental goal of web analytics is to collect and analyze data related to web traffic and usage patterns. The data mainly comes from four sources:
+
+Web servers record some of their transactions in a log file. It was soon realized that these log files could be read by a program to provide data on the popularity of the website. Thus arose web log analysis software .
+
+In the early 1990s, website statistics consisted primarily of counting the number of client requests (or hits ) made to the web server. This was a reasonable method initially since each website often consisted of a single HTML file. However, with the introduction of images in HTML, and websites that spanned multiple HTML files, this count became less useful. The first true commercial Log Analyzer was released by IPRO in 1994.
+
+Two units of measure were introduced in the mid-1990s to gauge more accurately the amount of human activity on web servers. These were page views and visits (or sessions ). A page view was defined as a request made to the web server for a page, as opposed to a graphic, while a visit was defined as a sequence of requests from a uniquely identified client that expired after a certain amount of inactivity, usually 30 minutes.
+
+The emergence of search engine spiders and robots in the late 1990s, along with web proxies and dynamically assigned IP addresses for large companies and ISPs , made it more difficult to identify unique human visitors to a website. Log analyzers responded by tracking visits by cookies , and by ignoring requests from known spiders.
+
+The extensive use of web caches also presented a problem for log file analysis. If a person revisits a page, the second request will often be retrieved from the browser's cache, and so no request will be received by the web server. This means that the person's path through the site is lost. Caching can be defeated by configuring the web server, but this can result in degraded performance for the visitor and bigger load on the servers.
+
+Concerns about the accuracy of log file analysis in the presence of caching, and the desire to be able to perform web analytics as an outsourced service, led to the second data collection method, page tagging or " web beacons ".
+
+In the mid-1990s, Web counters were commonly seen — these were images included in a web page that showed the number of times the image had been requested, which was an estimate of the number of visits to that page. In the late 1990s, this concept evolved to include a small invisible image instead of a visible one, and, by using JavaScript, to pass along with the image request certain information about the page and the visitor. This information can then be processed remotely by a web analytics company, and extensive statistics generated.
+
+The web analytics service also manages the process of assigning a cookie to the user, which can uniquely identify them during their visit and in subsequent visits. Cookie acceptance rates vary significantly between websites and may affect the quality of data collected and reported.
+
+Collecting website data using a third-party data collection server (or even an in-house data collection server) requires an additional DNS lookup by the user's computer to determine the IP address of the collection server. On occasion, delays in completing successful or failed DNS lookups may result in data not being collected.
+
+With the increasing popularity of Ajax -based solutions, an alternative to the use of an invisible image is to implement a call back to the server from the rendered page. In this case, when the page is rendered on the web browser, a piece of JavaScript code would call back to the server and pass information about the client that can then be aggregated by a web analytics company.
+
+Both logfile analysis programs and page tagging solutions are readily available to companies that wish to perform web analytics. In some cases, the same web analytics company will offer both approaches. The question then arises of which method a company should choose. There are advantages and disadvantages to each approach.
+
+The main advantages of log file analysis over page tagging are as follows:
+
+The main advantages of page tagging over log file analysis are as follows:
+
+Logfile analysis is almost always performed in-house. Page tagging can be performed in-house, but it is more often provided as a third-party service. The economic difference between these two models can also be a consideration for a company deciding which to purchase.
+
+Which solution is cheaper to implement depends on the amount of technical expertise within the company, the vendor chosen, the amount of activity seen on the websites, the depth and type of information sought, and the number of distinct websites needing statistics.
+
+Regardless of the vendor solution or data collection method employed, the cost of web visitor analysis and interpretation should also be included. That is, the cost of turning raw data into actionable information. This can be from the use of third party consultants, the hiring of an experienced web analyst, or the training of a suitable in-house person. A cost-benefit analysis can then be performed. For example, what revenue increase or cost savings can be gained by analyzing the web visitor data?
+
+Some companies produce solutions that collect data through both log files and page tagging and can analyze both kinds. By using a hybrid method, they aim to produce more accurate statistics than either method on its own.
+
+With IP geolocation , it is possible to track visitors' locations. Using an IP geolocation database or API, visitors can be geolocated to city, region, or country level.
+
+IP Intelligence, or Internet Protocol (IP) Intelligence, is a technology that maps the Internet and categorizes IP addresses by parameters such as geographic location (country, region, state, city and postcode), connection type, Internet Service Provider (ISP), proxy information, and more. The first generation of IP Intelligence was referred to as geotargeting or geolocation technology. This information is used by businesses for online audience segmentation in applications such as online advertising , behavioral targeting , content localization (or website localization ), digital rights management , personalization , online fraud detection, localized search, enhanced analytics, global traffic management, and content distribution.
+
+Click analytics , also known as Clickstream is a special type of web analytics that gives special attention to clicks .
+
+Commonly, click analytics focuses on on-site analytics. An editor of a website uses click analytics to determine the performance of his or her particular site, with regards to where the users of the site are clicking.
+
+Also, click analytics may happen real-time or "unreal"-time, depending on the type of information sought. Typically, front-page editors on high-traffic news media sites will want to monitor their pages in real-time, to optimize the content. Editors, designers or other types of stakeholders may analyze clicks on a wider time frame to help them assess performance of writers, design elements or advertisements etc.
+
+Data about clicks may be gathered in at least two ways. Ideally, a click is "logged" when it occurs, and this method requires some functionality that picks up relevant information when the event occurs. Alternatively, one may institute the assumption that a page view is a result of a click, and therefore log a simulated click that led to that page view.
+
+Customer lifecycle analytics is a visitor-centric approach to measuring. Page views, clicks and other events (such as API calls, access to third-party services, etc.) are all tied to an individual visitor instead of being stored as separate data points. Customer lifecycle analytics attempts to connect all the data points into a marketing funnel that can offer insights into visitor behavior and website optimization . Common metrics used in customer lifecycle analytics include customer acquisition cost (CAC), customer lifetime value (CLV), customer churn rate , and customer satisfaction scores.
+
+Other methods of data collection are sometimes used. Packet sniffing collects data by sniffing the network traffic passing between the web server and the outside world. Packet sniffing involves no changes to the web pages or web servers. Integrating web analytics into the webserver software itself is also possible. Both these methods claim to provide better real-time data than other methods.
+
+The hotel problem is generally the first problem encountered by a user of web analytics. The problem is that the unique visitors for each day in a month do not add up to the same total as the unique visitors for that month. This appears to an inexperienced user to be a problem in whatever analytics software they are using. In fact it is a simple property of the metric definitions.
+
+The way to picture the situation is by imagining a hotel. The hotel has two rooms (Room A and Room B).
+
+As the table shows, the hotel has two unique users each day over three days. The sum of the totals with respect to the days is therefore six.
+
+During the period each room has had two unique users. The sum of the totals with respect to the rooms is therefore four.
+
+Actually only three visitors have been in the hotel over this period. The problem is that a person who stays in a room for two nights will get counted twice if they are counted once on each day, but are only counted once if the total for the period is looked at. Any software for web analytics will sum these correctly for the chosen time period, thus leading to the problem when a user tries to compare the totals.
+
+As the internet has matured, the proliferation of automated bot traffic has become an increasing problem for the reliability of web analytics. As bots traverse the internet, they render web documents in ways similar to organic users, and as a result may incidentally trigger the same code that web analytics use to count traffic. Jointly, this incidental triggering of web analytics events impacts interpretability of data and inferences made upon that data. IPM provided a proof of concept of how Google Analytics as well as their competitors are easily triggered by common bot deployment strategies.
+
+Historically, vendors of page-tagging analytics solutions have used third-party cookies sent from the vendor's domain instead of the domain of the website being browsed. Third-party cookies can handle visitors who cross multiple unrelated domains within the company's site, since the cookie is always handled by the vendor's servers.
+
+However, third-party cookies in principle allow tracking an individual user across the sites of different companies, allowing the analytics vendor to collate the user's activity on sites where he provided personal information with his activity on other sites where he thought he was anonymous. Although web analytics companies deny doing this, other companies such as companies supplying banner ads have done so. Privacy concerns about cookies have therefore led a noticeable minority of users to block or delete third-party cookies. In 2005, some reports showed that about 28% of Internet users blocked third-party cookies and 22% deleted them at least once a month. Most vendors of page tagging solutions have now moved to provide at least the option of using first-party cookies (cookies assigned from the client subdomain).
+
+Another problem is cookie deletion.  When web analytics depend on cookies to identify unique visitors, the statistics are dependent on a persistent cookie to hold a unique visitor ID.  When users delete cookies, they usually delete both first- and third-party cookies.  If this is done between interactions with the site, the user will appear as a first-time visitor at their next interaction point.  Without a persistent and unique visitor id, conversions, click-stream analysis, and other metrics dependent on the activities of a unique visitor over time, cannot be accurate.
+
+Cookies are used because IP addresses are not always unique to users and may be shared by large groups or proxies.  In some cases, the IP address is combined with the user agent in order to more accurately identify a visitor if cookies are not available.  However, this only partially solves the problem because often users behind a proxy server have the same user agent.  Other methods of uniquely identifying a user are technically challenging and would limit the trackable audience or would be considered suspicious.  Cookies reach the lowest common denominator without using technologies regarded as spyware and having cookies enabled/active leads to security concerns.
+
+Third-party information gathering is subject to any network limitations and security applied. Countries, Service Providers and Private Networks can prevent site visit data from going to third parties. 
+All the methods described above (and some other methods not mentioned here, like sampling) have the central problem of being vulnerable to manipulation (both inflation and deflation). This means these methods are imprecise and insecure (in any reasonable model of security). This issue has been addressed in several papers, but to date the solutions suggested in these papers remain theoretical.

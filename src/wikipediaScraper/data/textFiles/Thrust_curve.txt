@@ -1,0 +1,5 @@
+A thrust curve , sometimes known as a "performance curve" or "thrust profile" is a graph of the thrust of an engine or motor , (usually a rocket) with respect to time.
+
+Most engines do not produce linear thrust (thrust which increases at a constant rate with time). Instead, they produce a curve of some type, where thrust will slowly rise to a peak, and then fall, or "tail off". Rocket engines , particularly solid-fuel rocket engines, produce very consistent thrust curves, making this a useful metric for judging their performance.
+
+This information is vital when designing spacecraft, particularly multistage spacecraft, since it may be advantageous to separate the engine and its associated fuel tanks and machinery before the fuel has been fully exhausted. This is because even though the engine is still producing thrust during the tail off phase, it may be so little that the spacecraft would be more efficient without it.

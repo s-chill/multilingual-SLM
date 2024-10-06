@@ -1,0 +1,52 @@
+A side collision is a vehicle crash where the side of one or more vehicles is impacted. These crashes typically occur at intersections , in parking lots , and when two vehicles pass on a multi-lane roadway.
+
+A 2016 study found that, in the EU, side impact collisions were significantly less common than frontal impact collisions, at rates of 22-29% and 61-69% respectively. However, they tend to be much more dangerous.
+Another report commissioned by the EU in 2015 found that side impacts accounted for roughly 35-40% of passenger fatality and serious injury, as opposed to 55% attributed to head-on collisions. A likely contributor to this fact is the amount of protection offered by the struck vehicle. Even when equipped with the safest cars on the road, these casualties occurred at much lower speeds than in head-on collisions, with passenger fatality and serious injury typically occurring at 50 km/h (~31 mph) in side impact collisions, as opposed to 70 km/h (~43 mph) for frontal impacts. Additionally, side impacts tend to affect more vulnerable areas of the body. While front and rear impacts typically produced the most serious injuries in the lower extremities (legs and feet), side impacts typically resulted in most serious injuries in the head and chest regions.
+
+In 2008, a total of 5,265 (22%) out of 23,888 people were killed in vehicles which were struck in the side in the United States.
+
+For European motorcyclists, side impact is the second most frequent location of impact.
+
+For European cyclists, thorax injuries are associated with side-impact injuries in urban areas and/or at junctions.
+
+In several European countries, such as the UK, Sweden, and France, around one quarter of traffic injuries are produced by side collisions, but accounted for 29 to 38% of injuries which were fatal.
+
+In European vehicle side impact, 60% of casualties were "struck side", while 40% were "non struck side", in 2018.
+
+Fatal casualties count as 50% and 67% in UK and in France, in 2010
+
+Also, side collision are not well managed with child restraints which are not enough taking into account the movement of the child's head and prevent contact with the car's interior.
+
+For light vans and minibuses in 2000 in UK and Germany, between 14% and 26% of accidents with passenger cars were side impacts.
+
+In Shanghai, in China, 23% of the 1097 serious accidents occurred between June 2005 and March 2013 are side impact accidents, there the leading collision mode, according to the Shanghai United Road Traffic Safety Scientific Research Center (SHUFO) database. The head and neck are involved in around 64% of the casualties.
+
+Broadside collisions are where the side of one vehicle is impacted by the front or rear of another vehicle, forming a "T".  In the United States and Canada this collision type is also known as a right-angle collision or T-bone collision ; it is also sometimes referred to by the abbreviation "AABS" for "auto accident, broadside". Vehicle damage and occupant injury are more likely to be severe, but severity varies based on the part of the vehicle that is struck, safety features present, the speeds of both vehicles, and vehicle weight and construction.
+
+When a vehicle is hit on the side by another vehicle, the crumple zones of the striking vehicle will absorb some of the kinetic energy of the collision. The crumple zones of the struck vehicle may also absorb some of the collision's energy, particularly if the vehicle is not struck on its passenger compartment. Both vehicles are frequently turned from their original directions of travel. If the collision is severe, the struck vehicle may be spun or rolled over , potentially causing it to strike other vehicles, objects, or pedestrians . After the collision, the involved vehicles may be stuck together by the folding of their parts around each other.
+
+An occupant on the struck side of a vehicle may sustain far more severe injuries than an otherwise similar front or rear collision crash.
+
+Side-impact airbags can protect vehicle occupants during side collisions, but they face the same limitations as other airbags. Additionally, side impact wrecks are more likely to involve multiple individual collisions or sudden speed changes before motion ceases. Since the airbag can only provide protection during the first collision, it may leave occupants unprotected during subsequent collisions in the crash. However, the first collision in a crash typically has the most severe forces, so an effective airbag provides maximum benefit during the most severe portion of a crash.
+
+Broadside collisions are frequently caused by a failure to yield right of way. In the case of collisions in an intersection, the cause is often a result of one vehicle failing to obey traffic signals (fail to stop or running past a red light ). As with any crash, increased speed may increase crash severity.
+
+Euro NCAP , IIHS and NHTSA test side impacts in different ways. As of 2015 , they all test vehicle-to-vehicle side impacts, where heavier vehicles have lower fatality rates than lighter vehicles.
+
+NHTSA and Euro NCAP also test the more severe vehicle-into-pole side impacts, where smaller vehicles have the same fatality rate as larger vehicles.
+
+Newer cars have improved safety in case of front crashes, but side impacts can also be deadly; about 9,700 people were killed in side impacts in the US in 2004. Side airbags became mandatory in 2009 in the US, saving an estimated 1,000 lives per year. Research indicates that the vehicle's underbody is the best place to reinforce structures to reduce intrusion by the pole.
+
+These are lists of cars with notable aspects of side impact.
+
+The NHTSA results are evaluated by the National Highway Traffic Safety Administration using Office of Crashworthiness Standards, New Car Assessment Program (NCAP) Side Impact Laboratory Test Procedure and Side Impact Rigid Pole Laboratory Test Procedure to display a simple star-rating . The "primary purpose of the NCAP side impact program is to provide comparative vehicle side protection information to assist consumers in making vehicle purchase decisions, thereby providing an incentive for vehicle manufacturers to design safer vehicles ."
+
+The IIHS results are evaluated by Insurance Institute for Highway Safety using their protocols.
+
+This list shows the most notable of newer tested vehicles tested via NHTSA and IIHS. Some provide good protection, some less so, and some developed improved safety in response to a low result (Dodge Ram and Fiat 500). Some are common examples of their type.
+
+Sorted roughly by rating, Head injury criterion (HIC) and Crush.
+
+Limits are: Moving Deformable Barrier (MDB): HIC max. 1000, Chest injury max. 44mm, abdominal injury max. 2500 Newton , pelvis injury max. 6000 N. There are additional limits for passenger similar to pole test. Rigid Pole: HIC max. 1000, Lower Spine acceleration max. 82g, Pelvis sum max. 5525 N
+
+Sorted roughly by rating.

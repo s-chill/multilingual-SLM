@@ -1,0 +1,17 @@
+Ubuntu Software Center , or simply Software Center , is a discontinued high-level graphical front end for the APT / dpkg package management system . It is free software written in Python , PyGTK / PyGObject based on GTK .
+
+The program was created for adding and managing repositories , as well as Ubuntu Personal Package Archives (PPA) and on Ubuntu, the Ubuntu Software Center also allowed users to purchase commercial applications.
+
+Development was ended in 2015 and in Ubuntu 16.04 LTS . It was replaced with GNOME Software .
+
+In early 2009 Ubuntu developers noted that package management within Ubuntu could be improved and consolidated. Recent releases of Ubuntu, such as Ubuntu 9.04 (Jaunty Jackalope) included five applications for package management which consumed space and other resources, as well as provide confusion to users. Applications could be downloaded using the basic Add/Remove Applications or with the Synaptic Package Manager . The Software Updater provided updating for installed packages and Computer Janitor cleaned up packages that were no longer needed. The Software Sources application allowed user selection of the package download location.
+
+Ubuntu developers set as a goal:
+
+"... there should be one obvious mechanism for installing, removing, and updating software in Ubuntu, with a self-evident name and an interface anyone can use. There should be a coordinated system for developers and enthusiasts to improve the usefulness of descriptions and other metadata for software packages. The software updates interface should be honed to maximize the voluntary installation of updates across the millions of computers on which Ubuntu is installed. And projects and vendors whose software is packaged for Ubuntu should be encouraged to provide links to their software's presence in the Software Store, instead of command-line installation instructions."
+
+Canonical introduced the Software Center gradually, starting with Ubuntu 9.10 ( Karmic Koala ) with complete functionality expected by Ubuntu 11.10, in October 2011. By May 2011, the plan had mostly been completed:
+
+In August 2015 Chris Hoffman of PC World criticized the application, indicating that Canonical was not maintaining it properly while work on the replacement application was being pursued. In particular, he noted that paid applications were not being supported properly and that Canonical had not informed developers of this. The application still works for installing and managing free software applications.
+
+In November 2015 Canonical announced that development would end and the application would be replaced by GNOME Software in Ubuntu 16.04 LTS .

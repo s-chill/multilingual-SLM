@@ -1,0 +1,7 @@
+Yet Another Perl Conference ( YAPC ), from 2016–2019 called The Perl Conference ( TPC ), from 2020 on The Perl and Raku Conference , is a series of conferences discussing the Perl programming language , usually organized under the auspices of The Perl Foundation and Yet Another Society , a "non-profit corporation for the advancement of collaborative efforts in computer and information sciences".  The name is an homage to yacc , " Yet Another Compiler Compiler".
+
+The first YAPC was held at Carnegie Mellon University in Pittsburgh, Pennsylvania , US on June 24 and June 25, 1999.  Organizer Kevin Lenzo assembled 31 different speakers into the schedule on various Perl-related topics.  The idea of a low-cost Perl conference quickly spread with a European version of YAPC established in 2000, Israel in 2003, Australia in 2004, Asia and Brazil in 2005, and Russia in 2008.  The only continents never to have hosted a YAPC are Africa and Antarctica .
+
+In 2016, YAPC rebranded itself as The Perl Conference, which is the former name of O'Reilly Open Source Convention (OSCON). As of 2020, it is now calling itself The Perl and Raku Conference to reflect the renaming of Perl 6 to Raku .
+
+These events are held in conjunction with CONISLI .

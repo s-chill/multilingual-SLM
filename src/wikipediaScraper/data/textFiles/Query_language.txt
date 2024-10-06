@@ -1,0 +1,3 @@
+A query language , also known as data query language or database query language ( DQL ), is a computer language used to make queries in databases and information systems . In database systems, query languages rely on strict theory to retrieve information. A well known example is the Structured Query Language (SQL).
+
+Broadly, query languages can be classified according to whether they are database query languages or information retrieval query languages. The difference is that a database query language attempts to give factual answers to factual questions, while an information retrieval query language attempts to find documents containing information that is relevant to an area of inquiry. Other types of query languages include:

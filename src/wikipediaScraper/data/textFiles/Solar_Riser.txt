@@ -1,0 +1,13 @@
+The Mauro Solar Riser is an American biplane ultralight electric aircraft that was the first crewed aircraft to fly on solar power . It was also only the second solar-powered aircraft to fly, after the uncrewed AstroFlight Sunrise , which had first flown 4 + 1 ⁄ 2 years earlier.
+
+The president of Ultralight Flying Machines , Larry Mauro, created the Solar Riser by converting a stock UFM Easy Riser hang glider to solar power. Normally foot-launched, the Solar Riser had wheeled landing gear added. Power is supplied by a Bosch electric starter motor of 3.5 hp (2.6 kW) connected to a 30-volt DC Nickel-cadmium battery pack taken from a Hughes 500 helicopter, powering a 41 in (104.1 cm) propeller through a reduction drive made from a timing belt and two pulleys. The battery was charged by a series of photovoltaic solar panels mounted in the top wing that provided 350 watts of power. The solar cells were not sufficient to provide all power in flight, so all flights were made by recharging the battery on the ground from the solar cells and then flying using energy stored in the battery. A charge in bright sunshine for an hour and a half yielded a flight of 3–5 minutes.
+
+Because the battery power was enough to launch the aircraft for a soaring flight it was theoretically possible to launch on battery power, soar while the batteries are being charged by sunlight and then continue powered flight. The Solar Riser did not employ the most efficient cells available at the time, and the upper wing had room for twice the number of cells to be installed. Early plans called for upgrading and increasing the number of cells so that sustained electric flight could be made using only solar energy and not battery power, but these plans were never completed.
+
+With Larry Mauro as the pilot, the Solar Riser made the first man-carrying flight on solar power at noon on 29 April 1979 at Flabob Airport at Rubidoux, California , near Riverside . The aircraft reached a maximum height of about 40 ft (12 m) and flew 0.5 mi (0.8 km). A number of other flights of similar height and duration were flown, including demonstration flights at EAA AirVenture Oshkosh before the aircraft was retired to a museum.
+
+Data from EAA Museum and AstroFlight
+
+General characteristics
+
+Performance

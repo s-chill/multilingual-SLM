@@ -1,0 +1,121 @@
+Email spam , also referred to as junk email , spam mail , or simply spam , is unsolicited messages sent in bulk by email ( spamming ). The name comes from a Monty Python sketch in which the name of the canned pork product Spam is ubiquitous, unavoidable, and repetitive. Email spam has steadily grown since the early 1990s, and by 2014 was estimated to account for around 90% of total email traffic.
+
+Since the expense of the spam is borne mostly by the recipient, it is effectively postage due advertising. Thus, it is an example of a negative externality .
+
+The legal definition and status of spam varies from one jurisdiction to another, but nowhere have laws and lawsuits been particularly successful in stemming spam.
+
+Most email spam messages are commercial in nature. Whether commercial or not, many are not only annoying as a form of attention theft , but also dangerous because they may contain links that lead to phishing web sites or sites that are hosting malware or include malware as file attachments .
+
+Spammers collect email addresses from chat rooms, websites, customer lists, newsgroups, and viruses that harvest users' address books. These collected email addresses are sometimes also sold to other spammers.
+
+At the beginning of the Internet (the ARPANET ), sending of commercial email was prohibited. Gary Thuerk sent the first email spam message in 1978 to 600 people. He was reprimanded and told not to do it again. Now the ban on spam is enforced by the Terms of Service / Acceptable Use Policy (ToS/AUP) of internet service providers (ISPs) and peer pressure.
+
+Spam is sent by both otherwise reputable organizations and lesser companies. When spam is sent by otherwise reputable companies it is sometimes referred to as Mainsleaze . Mainsleaze makes up approximately 3% of the spam sent over the internet.
+
+Many spam emails contain URLs to a website or websites. According to a Cyberoam report in 2014, there are an average of 54 billion spam messages sent every day. "Pharmaceutical products (Viagra and the like) jumped up 45% from last quarter’s analysis, leading this quarter’s spam pack. Emails purporting to offer jobs with fast, easy cash come in at number two, accounting for approximately 15% of all spam email. And, rounding off at number three are spam emails about diet products (such as Garcinia gummi-gutta or Garcinia Cambogia), accounting for approximately 1%."
+
+Spam is also a medium for fraudsters to scam users into entering personal information on fake Web sites using emails forged to look like they are from banks or other organizations, such as PayPal . This is known as phishing . Targeted phishing, where known information about the recipient is used to create forged emails, is known as spear-phishing .
+
+If a marketer has one database containing names, addresses, and telephone numbers of customers, they can pay to have their database matched against an external database containing email addresses. The company then has the means to send email to people who have not requested email, which may include people who have deliberately withheld their email address.
+
+Image spam , or image-based spam, is an obfuscation method by which text of the message is stored as a GIF or JPEG image and displayed in the email. This prevents text-based spam filters from detecting and blocking spam messages. Image spam was reportedly used in the mid-2000s to advertise " pump and dump " stocks.
+
+Often, image spam contains nonsensical, computer-generated text which simply annoys the reader. However, new technology in some programs tries to read the images by attempting to find text in these images. These programs are not very accurate, and sometimes filter out innocent images of products, such as a box that has words on it.
+
+A newer technique, however, is to use an animated GIF image that does not contain clear text in its initial frame, or to contort the shapes of letters in the image (as in CAPTCHA ) to avoid detection by optical character recognition tools.
+
+Blank spam is spam lacking a payload advertisement. Often the message body is missing altogether, as well as the subject line. Still, it fits the definition of spam because of its nature as bulk and unsolicited email.
+
+Blank spam may be originated in different ways, either intentional or unintentionally:
+
+Backscatter is a side-effect of email spam, viruses , and worms . It happens when email servers are misconfigured to send a bogus bounce message to the envelope sender when rejecting or quarantining email (rather than simply rejecting the attempt to send the message).
+
+If the sender's address was forged, then the bounce may go to an innocent party. Since these messages were not solicited by the recipients, are substantially similar to each other, and are delivered in bulk quantities, they qualify as unsolicited bulk email or spam. As such, systems that generate email backscatter can end up being listed on various DNSBLs and be in violation of internet service providers ' Terms of Service .
+
+If an individual or organisation can identify harm done to them by spam, and identify who sent it; then they may be able to sue for a legal remedy , e.g. on the basis of trespass to chattels . A number of large civil settlements have been won in this way, although others have been mostly unsuccessful in collecting damages.
+
+Criminal prosecution of spammers under fraud or computer crime statutes is also common, particularly if they illegally accessed other computers to create botnets , or the emails were phishing or other forms of criminal fraud.
+
+Finally, in most countries specific legislation is in place to make certain forms of spamming a criminal offence, as outlined below:
+
+Article 13 of the European Union Directive on Privacy and Electronic Communications (2002/58/EC) provides that the EU member states shall take appropriate measures to ensure that unsolicited communications for the purposes of direct marketing are not allowed either without the consent of the subscribers concerned or in respect of subscribers who do not wish to receive these communications, the choice between these options to be determined by national legislation.
+
+In the United Kingdom, for example, unsolicited emails cannot be sent to an individual subscriber unless prior permission has been obtained or unless there is a pre-existing commercial relationship between the parties.
+
+The 2010 Fighting Internet and Wireless Spam Act (which took effect in 2014) is Canadian legislation meant to fight spam.
+
+The Spam Act 2003 , which covers some types of email and phone spam. Penalties are up to 10,000 penalty units , or 2,000 penalty units for a person other than a body corporate.
+
+In the United States, many states enacted anti-spam laws during the late 1990s and early 2000s. All of these were subsequently superseded by the CAN-SPAM Act of 2003 , which was in many cases less restrictive. CAN-SPAM also preempted any further state legislation, but it left related laws not specific to e-mail intact. Courts have ruled that spam can constitute, for example, trespass to chattels.
+
+Bulk commercial email does not violate CAN-SPAM, provided that it meets certain criteria, such as a truthful subject line, no forged information in the headers. If it fails to comply with any of these requirements it is illegal. Those opposing spam greeted the new law with dismay and disappointment, almost immediately dubbing it the "You Can Spam" Act.
+
+In practice, it had a little positive impact. In 2004, less than one percent of spam complied with CAN-SPAM, although a 2005 review by the Federal Trade Commission claimed that the amount of sexually explicit spam had significantly decreased since 2003 and the total volume had begun to level off. Many other observers viewed it as having failed, although there have been several high-profile prosecutions.
+
+Spammers may engage in deliberate fraud to send out their messages. Spammers often use false names, addresses, phone numbers, and other contact information to set up "disposable" accounts at various Internet service providers. They also often use falsified or stolen credit card numbers to pay for these accounts. This allows them to move quickly from one account to the next as the host ISPs discover and shut down each one.
+
+Senders may go to great lengths to conceal the origin of their messages. Large companies may hire another firm to send their messages so that complaints or blocking of email falls on a third party. Others engage in spoofing of email addresses (much easier than IP address spoofing ). The email protocol ( SMTP ) has no authentication by default, so the spammer can pretend to originate a message apparently from any email address. To prevent this, some ISPs and domains require the use of SMTP-AUTH , allowing positive identification of the specific account from which an email originates.
+
+Senders cannot completely spoof email delivery chains (the 'Received' header), since the receiving mailserver records the actual connection from the last mailserver's IP address. To counter this, some spammers forge additional delivery headers to make it appear as if the email had previously traversed many legitimate servers.
+
+Spoofing can have serious consequences for legitimate email users. Not only can their email inboxes get clogged up with "undeliverable" emails in addition to volumes of spam, but they can mistakenly be identified as a spammer. Not only may they receive irate email from spam victims, but (if spam victims report the email address owner to the ISP, for example) a naïve ISP may terminate their service for spamming.
+
+Spammers frequently seek out and make use of vulnerable third-party systems such as open mail relays and open proxy servers . SMTP forwards mail from one server to another—mail servers that ISPs run commonly require some form of authentication to ensure that the user is a customer of that ISP.
+
+Increasingly, spammers use networks of malware-infected PCs ( zombies ) to send their spam. Zombie networks are also known as botnets (such zombifying malware is known as a bot , short for robot ). In June 2006, an estimated 80 percent of email spam was sent by zombie PCs, an increase of 30 percent from the prior year. An estimated 55 billion email spam were sent each day in June 2006, an increase of 25 billion per day from June 2005.
+
+For the first quarter of 2010, an estimated 305,000 newly activated zombie PCs were brought online each day for malicious activity. This number is slightly lower than the 312,000 of the fourth quarter of 2009.
+
+Brazil produced the most zombies in the first quarter of 2010. Brazil was the source of 20 percent of all zombies, which is down from 14 percent from the fourth quarter of 2009. India had 10 percent, with Vietnam at 8 percent, and the Russian Federation at 7 percent.
+
+To combat the problems posed by botnets, open relays, and proxy servers, many email server administrators pre-emptively block dynamic IP ranges and impose stringent requirements on other servers wishing to deliver mail. Forward-confirmed reverse DNS must be correctly set for the outgoing mail server and large swaths of IP addresses are blocked, sometimes pre-emptively, to prevent spam. These measures can pose problems for those wanting to run a small email server off an inexpensive domestic connection. Blacklisting of IP ranges due to spam emanating from them also causes problems for legitimate email servers in the same IP range.
+
+The total volume of email spam has been consistently growing, but in 2011 the trend seemed to reverse. The amount of spam that users see in their mailboxes is only a portion of total spam sent, since spammers' lists often contain a large percentage of invalid addresses and many spam filters simply delete or reject "obvious spam".
+
+The first known spam email, advertising a DEC product presentation, was sent in 1978 by Gary Thuerk to 600 addresses, the total number of users on ARPANET was 2600 at the time though software limitations meant only slightly more than half of the intended recipients actually received it. As of August 2010, the number of spam messages sent per day was estimated to be around 200 billion. More than 97% of all emails sent over the Internet in 2008 were unwanted, according to a Microsoft security report. MAAWG estimates that 85% of incoming mail is "abusive email", as of the second half of 2007. The sample size for the MAAWG's study was over 100 million mailboxes. In 2018 with growing affiliation networks & email frauds worldwide about 90% of global email traffic is spam as per IPwarmup.com study, which also effects legitimate email senders to achieve inbox delivery.
+
+A 2010 survey of US and European email users showed that 46% of the respondents had opened spam messages, although only 11% had clicked on a link.
+
+According to Steve Ballmer in 2004, Microsoft founder Bill Gates receives four million emails per year, most of them spam. This was originally incorrectly reported as "per day".
+
+At the same time Jef Poskanzer , owner of the domain name acme.com, was receiving over one million spam emails per day.
+
+A 2004 survey estimated that lost productivity costs Internet users in the United States $21.58 billion annually, while another reported the cost at $17 billion, up from $11 billion in 2003. In 2004, the worldwide productivity cost of spam has been estimated to be $50 billion in 2005.
+
+Because of the international nature of spam, the spammer, the hijacked spam-sending computer, the spamvertised server, and the user target of the spam are all often located in different countries. As much as 80% of spam received by Internet users in North America and Europe can be traced to fewer than 200 spammers.
+
+In terms of volume of spam: According to Sophos , the major sources of spam in the fourth quarter of 2008 (October to December) were:
+
+When grouped by continents, spam comes mostly from:
+
+In terms of number of IP addresses: the Spamhaus Project ranks the top three as the United States, China, and Russia, followed by Japan, Canada, and South Korea.
+
+In terms of networks: As of 13 December 2021 , the three networks hosting the most spammers are ChinaNet , Amazon , and Airtel India .
+
+The U.S. Department of Energy Computer Incident Advisory Capability (CIAC) has provided specific countermeasures against email spamming.
+
+Some popular methods for filtering and refusing spam include email filtering based on the content of the email, DNS-based blackhole lists ( DNSBL ), greylisting , spamtraps , enforcing technical requirements of email ( SMTP ), checksumming systems to detect bulk email, and by putting some sort of cost on the sender via a proof-of-work system or a micropayment . Each method has strengths and weaknesses and each is controversial because of its weaknesses. For example, one company's offer to "[remove] some spamtrap and honeypot addresses" from email lists defeats the ability for those methods to identify spammers.
+
+Outbound spam protection combines many of the techniques to scan messages exiting out of a service provider's network, identify spam, and taking action such as blocking the message or shutting off the source of the message.
+
+Email authentication to prevent "From:" address spoofing became popular in the 2010s.
+
+Measures to protect against spam can cause collateral damage. This includes:
+
+In order to send spam, spammers need to obtain the email addresses of the intended recipients. To this end, both spammers themselves and list merchants gather huge lists of potential email addresses. Since spam is, by definition, unsolicited, this address harvesting is done without the consent (and sometimes against the expressed will) of the address owners. A single spam run may target tens of millions of possible addresses – many of which are invalid, malformed, or undeliverable.
+
+Many spam-filtering techniques work by searching for patterns in the headers or bodies of messages. For instance, a user may decide that all email they receive with the word " Viagra " in the subject line is spam, and instruct their mail program to automatically delete all such messages. To defeat such filters, the spammer may intentionally misspell commonly filtered words or insert other characters, often in a style similar to leetspeak , as in the following examples: V1agra , Via'gra , Vi@graa , vi*gra , \/iagra . This also allows for many different ways to express a given word, making identifying them all more difficult for filter software.
+
+The principle of this method is to leave the word readable to humans (who can easily recognize the intended word for such misspellings), but not likely to be recognized by a computer program. This is only somewhat effective, because modern filter patterns have been designed to recognize blacklisted terms in the various iterations of misspelling. Other filters target the actual obfuscation methods, such as the non-standard use of punctuation or numerals into unusual places. Similarly, HTML-based email gives the spammer more tools to obfuscate text. Inserting HTML comments between letters can foil some filters. Another common ploy involves presenting the text as an image, which is either sent along or loaded from a remote server.
+
+As Bayesian filtering has become popular as a spam-filtering technique, spammers have started using methods to weaken it. To a rough approximation, Bayesian filters rely on word probabilities. If a message contains many words that are used only in spam, and few that are never used in spam, it is likely to be spam. To weaken Bayesian filters, some spammers, alongside the sales pitch, now include lines of irrelevant, random words, in a technique known as Bayesian poisoning . More broadly machine learning can be used to identify and filter spam. There is a game of escalation between spammers and anti-spam identification and filtering systems where spammers adjust to attempt to evade new identification and filtering techniques.
+
+A number of other online activities and business practices are considered by anti-spam activists to be connected to spamming. These are sometimes termed spam-support services : business services, other than the actual sending of spam itself, which permit the spammer to continue operating. Spam-support services can include processing orders for goods advertised in spam, hosting Web sites or DNS records referenced in spam messages, or a number of specific services as follows:
+
+Some Internet hosting firms advertise bulk-friendly or bulletproof hosting . This means that, unlike most ISPs, they will not terminate a customer for spamming. These hosting firms operate as clients of larger ISPs, and many have eventually been taken offline by these larger ISPs as a result of complaints regarding spam activity. Thus, while a firm may advertise bulletproof hosting, it is ultimately unable to deliver without the connivance of its upstream ISP. However, some spammers have managed to get what is called a pink contract (see below) – a contract with the ISP that allows them to spam without being disconnected.
+
+A few companies produce spamware , or software designed for spammers. Spamware varies widely, but may include the ability to import thousands of addresses, to generate random addresses, to insert fraudulent headers into messages, to use dozens or hundreds of mail servers simultaneously, and to make use of open relays. The sale of spamware is illegal in eight U.S. states.
+
+So-called millions CDs are commonly advertised in spam. These are CD-ROMs purportedly containing lists of email addresses, for use in sending spam to these addresses. Such lists are also sold directly online, frequently with the false claim that the owners of the listed addresses have requested (or "opted in") to be included. Such lists often contain invalid addresses. In recent years, these have fallen almost entirely out of use due to the low quality email addresses available on them, and because some email lists exceed 20GB in size. The amount you can fit on a CD is no longer substantial.
+
+A number of DNS blacklists (DNSBLs), including the MAPS RBL, Spamhaus SBL, SORBS and SPEWS, target the providers of spam-support services as well as spammers. DNSBLs blacklist IPs or ranges of IPs to persuade ISPs to terminate services with known customers who are spammers or resell to spammers.

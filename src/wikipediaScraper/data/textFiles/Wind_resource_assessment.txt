@@ -1,0 +1,43 @@
+Wind resource assessment is the process by which wind power developers estimate the future energy production of a wind farm . Accurate wind resource assessments are crucial to the successful development of wind farms.
+
+Modern wind resource assessments have been conducted since the first wind farms were developed in the late 1970s. The methods used were pioneered by developers and researchers in Denmark , where the modern wind power industry first developed.
+
+High resolution mapping of wind power resource potential has traditionally been carried out at the country level by government or research agencies, in part due to the complexity of the process and the intensive computing requirements involved. However, in 2015 the Technical University of Denmark , under framework of the Clean Energy Ministerial , launched the Global Wind Atlas (version 1.0) to provide freely available data on wind resource potential globally. The Global Wind Atlas was relaunched in November 2017 (version 2.0) in partnership with the World Bank , with wind resource maps now available for all countries at 250m resolution.
+
+Another similar international example is the European Wind Atlas , which is in the process of being updated under the New European Wind Atlas project funded by the European Union .
+
+Examples of country wind resource maps include the Canadian Wind Atlas , the Wind Resource Atlas of the United States , and a series of wind maps published by the World Bank under an initiative launched by ESMAP in 2013 focused on developing countries. This followed a previous initiative of the United Nations Environment Program , the Solar and Wind Energy Resource Assessment (SWERA) project, which was launched in 2002 with funding from the Global Environment Facility .  However, these country wind resource maps have been largely superseded by the Global Wind Atlas in terms of data quality, methodology, and output resolution.
+
+The above global and country mapping outputs, and many others, are also available via the Global Atlas for Renewable Energy developed by the International Renewable Energy Agency (IRENA), which brings together publicly available GIS data on wind and other renewable energy resources effort.
+
+Wind prospecting can begin with the use of such maps, but the lack of accuracy and fine detail make them useful only for preliminary selection of sites for collecting wind speed data. With increasing numbers of ground-based measurements from specially installed anemometer stations, as well as operating data from commissioned wind farms, the accuracy of wind resource maps in many countries has improved over time, although coverage in most developing countries is still patchy. In addition to the publicly available sources listed above, maps are available as commercial products through specialist consultancies, or users of GIS software can make their own using publicly available GIS data such as the US National Renewable Energy Laboratory's High Resolution Wind Data Set.
+
+Although the accuracy has improved, it is unlikely that wind resource maps, whether public or commercial, will eliminate the need for on-site measurements for utility-scale wind generation projects. However, mapping can help speed up the process of site identification and the existence of high quality, ground-based data can shorten the amount of time that on-site measurements need to be collected.
+
+In addition to 'static' wind resource atlases which average estimates of wind speed and power density across multiple years, tools such as Renewables.ninja provide time-varying simulations of wind speed and power output from different wind turbine models at an hourly resolution.
+
+To estimate the energy production of a wind farm, developers must first measure the wind on site. Meteorological towers equipped with anemometers , wind vanes , and sometimes temperature , pressure , and relative humidity sensors are installed. Data from these towers must be recorded for at least one year to calculate an annually representative wind speed frequency distribution.
+
+Measurements collected by remote sensing devices such as SODAR and LiDAR are gaining acceptance in the wind industry. For offshore measurement campaigns, floating LiDAR systems have become standard.
+
+Since onsite measurements are usually only available for a short period, data is also collected from nearby long-term reference stations (usually at airports). This data is used to adjust the onsite measured data so that the mean wind speeds are representative of a long-term period for which onsite measurements are not available. Versions of these maps can be seen and used with software applications such as WindNavigator .
+
+The following calculations are needed to accurately estimate the energy production of a proposed wind farm project:
+
+Wind power developers use various types of software applications to assess wind resources.
+
+Wind data management software assists the user in gathering, storing, retrieving, analyzing, and validating wind data.  Typically the wind data sets are collected directly from a data logger, located at a meteorological monitoring site, and are imported into a database.  Once the data set is in the database it can be analyzed and validated using tools built into the system or it can be exported for use in external wind data analysis software, wind flow modeling software, or wind farm modeling software.
+
+Many data logger manufacturers offer wind data management software that is compatible with their logger.  These software packages will typically only gather, store, and analyze data from the manufacturer's own loggers.
+
+Third party data management software and services exist that can accept data from a wide variety of loggers and offer more comprehensive analysis tools and data validation.
+
+Wind data analysis software assist the user in removing measurement errors from wind data sets and perform specialized statistical analysis.
+
+Wind flow modeling methods calculate very high-resolution maps of wind flow, often at horizontal resolution finer than 100-m.  When doing fine resolution modeling, to avoid exceeding available computing resource, the typical model domains used by these small-scale models have a few kilometers in the horizontal direction and several hundred meters in the vertical direction. Models with such a small domain are not capable of capturing meso-scale atmospheric phenomena that often drive wind patterns. To over come this limitation nested modeling is sometimes used.
+
+Wind flow modeling software aims to predict important characteristics of the wind resource at locations where measurements are not available. The most commonly used such software application is WAsP, created at Risø National Laboratory in Denmark. WAsP uses a potential flow model to predict how wind flows over the terrain at a site. Meteodyn WT and WindStation are similar applications that use computational fluid dynamics ( CFD ) calculations instead, which are potentially more accurate, particularly for complex terrains.
+
+Wind farm modeling software aims to simulate the behavior of a proposed or existing wind farm, most importantly to calculate its energy production. The user can usually input wind data, height and roughness contour lines, wind turbine specifications, background maps, and define objects that represent environmental restrictions. This information is then used to design a wind farm that maximizes energy production while taking restrictions and construction issues into account. There are several wind farm modeling software applications available, including ZephyCFD , Meteodyn WT , Openwind , Windfarmer , WindPRO , WindSim , and WAsP .
+
+In recent years a new breed of wind farm development has grown from the increased need for distributed generation of electricity from local wind resources. This type of wind projects is mostly driven by land owners with high energetic requirements such as farmers and industrial site managers. A particular requirement from a wind modelling point of view is the inclusion of all local features such as trees, hedges and buildings as turbine hub-heights range from as little as 10m to 50m. Wind modelling approaches need to include these features but very few of the available wind modelling commercial software provide this capability. Several work groups have been set up around the world to look into this modelling requirement and companies including Digital Engineering Ltd (UK), NREL (USA), DTU Wind Energy (Denmark) are at the forefront of development in this area and look at the application of meso-CFD wind modelling techniques for this purpose.

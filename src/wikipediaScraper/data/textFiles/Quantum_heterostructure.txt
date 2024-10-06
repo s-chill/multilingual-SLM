@@ -1,0 +1,5 @@
+A quantum heterostructure is a heterostructure in a substrate (usually a semiconductor material ), where size restricts the movements of the charge carriers forcing them into a quantum confinement. This leads to the formation of a set of discrete energy levels at which the carriers can exist. Quantum heterostructures have sharper density of states than structures of more conventional sizes.
+
+Quantum heterostructures are important for fabrication of short-wavelength light-emitting diodes and diode lasers , and for other optoelectronic applications, e.g. high-efficiency photovoltaic cells .
+
+Examples of quantum heterostructures confining the carriers in quasi-two, -one and -zero dimensions are:

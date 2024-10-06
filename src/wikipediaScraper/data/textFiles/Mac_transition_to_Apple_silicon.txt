@@ -1,0 +1,63 @@
+The Mac transition to Apple silicon was the transitioning of Apple Inc. 's line of Mac computers from designs using Intel x86-64 CPUs to designs based on Apple-designed processors based on the ARM64 architecture.
+
+Apple CEO Tim Cook announced a "two-year transition plan" to Apple silicon on June 22, 2020. The first Macs with Apple-designed systems on a chip were released that November; the last, the Mac Pro , was released in June 2023, completing the transition in three years.
+
+The transition was the third time Apple had switched the Macintosh to a new instruction set architecture . The first was from the Motorola 68000 series to PowerPC chips in 1994, and the second was from PowerPC to Intel processors using the x86 architecture in 2006.
+
+The first Mac, introduced in 1984, was the original Macintosh, which was based on the Motorola 68000 architecture . Apple evaluated several possibilities for different processors in the early 1990s, switching to the PowerPC family that was co-developed by IBM and Motorola in 1994. In 2005, it switched again to Intel 32-bit and 64-bit x86 . In 2011, Mac OS X Lion dropped support for Macs with 32-bit processors; in 2019, macOS Catalina dropped support for 32-bit Intel apps. Supported 64-bit Intel systems can still boot the latest versions of macOS as of December 2023.
+
+The genesis of the third switch began in 1985, when Acorn's ARM architecture was spotted by Apple's Advanced Technology Group (ATG), an internal research laboratory. The ATG thought it might replace the MOS 6502 of the Apple II range or the 68000 of the original Macintosh, or become the basis of a tablet device, under Paul Gavarini and Tom Pittard, in a project labelled Möbius. A partnership was established with Acorn Computers, and VLSI in 1990, and work began on a chip for small devices. The first Apple products with an ARM system on a chip were the 1993 Newton personal digital assistant , the 2001 iPod , and the 2007 iPhone . Apple has designed its own custom ARM chips since 2009, which it has since used in its iPhone , iPad , iPod , Apple TV , Apple Watch , AirPods , Beats , AirPort Time Capsule and HomePod products. Between October 2016 and August 2020, Intel-based Macs with Apple-designed ARM co-processors were released.
+
+In the 2010s, media reports documented Apple's frustrations and challenges with the pace and quality of Intel's technology development. Apple reportedly had trouble with Intel modems for iPhones in 2017 due to technical issues and missed deadlines. Meanwhile, a 2018 report suggested that Intel chip issues prompted a redesign of the MacBook. In 2019, Apple blamed Intel processor shortages for a decline in Mac sales. In June 2020, former Intel principal engineer François Piednoël said Intel's "abnormally bad" quality assurance in its Skylake processors , making Apple "the number one filer of problems in the architecture", helped Apple decide to migrate. Intel CTO Mike Mayberry countered that quality assurance problems may arise at large scale from any CPU vendor.
+
+In 1983, Acorn Computers started working on a project to design its own CPU architecture and instructions set, called the Acorn RISC Machine (ARM). In 1985, Apple's Advanced Technology Group worked with Acorn to create an experimental prototype, code-named Mobius, to replace the Apple II , using a modified ARM processor. The project was cancelled but Apple again partnered with Acorn when it needed a low-power, efficient processor for its future Newton PDA. In 1990, a new joint-venture was created between Acorn, Apple and VLSI Technology with the goal of pursuing the development of the ARM processor. The company was named Advanced RISC Machines Ltd, becoming the new meaning of the ARM acronym. One of the first designs of the new company would be the ARM610 SoC, initially for Apple, that allowed the Endianness to be swapped, increased the address space from 26 bit (64 MB) to 32 bit (4 GB), and modified the memory management unit. Apple held a 43% stake in the company, which was reduced to 14.8% in 1999.
+
+In 2005 and 2006, Apple moved its Macintosh computers from IBM 's PowerPC CPUs to Intel's x86 CPU architecture. At his 2005 WWDC keynote address, Steve Jobs said that continuing to use PowerPC processors, which consumed more energy than Intel chips, would prevent Apple from making better workstation computers and laptops. "As we look ahead, we can envision some amazing products we want to build...And we don't know how to build them with the future PowerPC roadmap", Jobs said. In addition, he admitted that Mac OS X was being ported to the Intel architecture since as early as 2001.
+
+By June 2006, only Apple's high-end desktop computer and server products were still using PowerPC processors. The hardware transition was completed when Intel-based Mac Pros and Xserve computers were announced in August 2006 and shipped by the end of the year.
+
+Apple ceased support for booting on PowerPC as of Mac OS X 10.6 "Snow Leopard in August 2009, three years after the transition was complete. Support for PowerPC applications via Rosetta was dropped from macOS in 10.7 "Lion" in July 2011, five years after the transition was complete.
+
+In 2008, Apple bought processor company P.A. Semi for US$278 million. At the time, it was reported that Apple bought P.A. Semi for its intellectual property and engineering talent. CEO Steve Jobs later claimed that P.A. Semi would develop system-on-chips for Apple's iPods and iPhones. Following the acquisition, Apple signed a rare "Architecture license" with ARM, allowing the company to design its own core, using the ARM instruction set. The first Apple-designed chip was the A4 , released in 2010, which debuted in the first-generation iPad, then in the iPhone 4. Apple subsequently released a number of products with its own processors .
+
+Rumors of Apple shifting Macintosh to custom-designed ARM processors began circulating in 2011, when SemiAccurate predicted it would happen by mid-2013. In 2014, MacRumors reported that Apple was testing an ARM-based Mac prototype with a large Magic Trackpad. In 2018, Bloomberg reported that Apple was planning to use its own chips based on the ARM architecture beginning in 2020.
+
+The Apple A12X Bionic processor used in the iPad Pro (3rd generation) reportedly roughly matched the performance of Intel's Core i7 processor used in the MacBook Pro at the time.
+
+In the months and weeks leading up to Apple's 2020 WWDC , multiple media reports anticipated an official announcement of the transition during the event.
+
+Apple announced its plans to shift the Macintosh platform to Apple silicon at WWDC in June 2020. The entire transition of the Macintosh product line was expected to take "about two years", with the first ARM-based Macs released by the end of 2020. Similar language was used during Apple's 2005–2006 transition to Intel, which actually took about one year.
+
+All Apple apps included with macOS Big Sur are compatible with x86-64 and ARM architectures. Many third-party apps are similarly being made dual-platform, including prominent software packages such as Adobe Photoshop and Microsoft Word .
+
+To enable x86-native software to run on new ARM-based Macs, Apple embedded Rosetta 2 dynamic binary translation software in Big Sur. Universal binary 2 enabled application developers to support both x86-64 and ARM64 .
+
+To enable developers to create software for ARM-based Macs before they went on sale, Apple introduced the Universal App Quick Start Program, which allowed developers to pay $500 to rent a Developer Transition Kit (DTK), a computer built around the A12Z chip originally used in the iPad Pro (4th generation) and housed in a Mac Mini case.
+
+In November 2020, Apple announced the Apple M1 , its first ARM-based system on a chip to be used in Macs, alongside updated models of the Mac Mini , MacBook Air and 13-inch MacBook Pro based on it.
+
+In April 2021, Apple released a redesigned 24-inch iMac based on the M1 to replace the 21.5-inch Intel model.
+
+In October 2021, Apple announced the M1 Pro and M1 Max, and updated 14-inch and 16-inch MacBook Pro models based on them. The M1 Pro and M1 Max use integrated Apple-designed GPUs , replacing the integrated and discrete GPUs supplied by Intel and AMD , and lack support for external GPUs. Apple discontinued all of their Intel-based laptops following the announcement.
+
+In March 2022, Apple announced the Mac Studio , a new high-end compact desktop model that uses the M1 Ultra, a dual-SoC configuration of two M1 Max chips. Apple concurrently discontinued the 27-inch Intel-based iMac , leaving the Mac Pro and Core i5/i7 Mac Mini as the last Intel-based Macs. Senior vice president of hardware engineering John Ternus confirmed the development of an Apple Silicon-based Mac Pro.
+
+In January 2023, Apple announced updated Mac Mini models based on the M2 and M2 Pro , and discontinued the previous Intel Core i5/i7 model, leaving the Mac Pro as the last Intel-based Mac.
+
+On June 5, 2023, Apple announced an Apple silicon Mac Pro based on the M2 Ultra chip during the 2023 Worldwide Developers Conference keynote. During the announcement, the last Mac based on Intel processors, the Intel Mac Pro has now been discontinued, officially marking the end of the Intel-based Mac product line, completing the "two-year transition" to Apple silicon, almost three years after Apple is announced it, or two years and seven months between the release of the first Apple silicon Mac and discontinuation of the last Intel Mac.
+
+In June 2020, tech analyst Daniel Newman estimated that Apple accounted for $1.5 billion to $3.0 billion (about 2% to 4%) of Intel's annual revenue, and only 6.9% to 12% of the PC market in the United States and 7% globally. Some speculated that Apple's move away from Intel chips could prompt other customers to do the same. CNET speculated that the transition might reduce Apple's component costs.
+
+Apps created for the iOS platform can run natively on ARM-powered Macs.
+
+The transition could restrict or even eliminate hobbyist " Hackintosh " computers, which use commodity PC hardware to run macOS, in violation of license restrictions.
+
+The Boot Camp software, which enables Intel -based Macs to natively run Microsoft Windows in an Apple-supported dual booting environment, is not implemented on Apple silicon-based Macs. As of late June 2020 , Apple said it has "no plans to direct boot into Windows" on ARM-based Macintosh computers. Apple's senior vice president of software engineering Craig Federighi suggested that virtualization technology is a viable alternative: "Purely virtualization is the route... Hypervisors can be very efficient, so the need to direct boot shouldn't really be the concern."
+
+As of 2022, Parallels Desktop for Mac preloads an ARM64 version of Windows 11 onto Apple Silicon-based Macs, and can also run ARM64 Windows 10 and Linux . Microsoft officially endorses the use of Parallels Desktop for Mac to run Windows 11.
+
+Before Apple released M1 Macs, Wired expressed skepticism that Apple's designers could use smartphone-related processors to drive a Mac Pro . It also questioned Apple's vague commitment to allow Intel binaries to run on ARM-based Macs "for years to come" and wondered which upcoming version of macOS would cease to support Intel Macs.
+
+Laurent Giret remarked that Apple might "succeed where Microsoft has failed" due to Apple's "tight integration" of hardware and software, and a vast collection of applications that can already run on the new platform.
+
+When systems containing M1 processors were released, they received near-universal acclaim for their high speed and low energy consumption.

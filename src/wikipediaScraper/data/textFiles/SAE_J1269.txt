@@ -1,0 +1,3 @@
+SAE J1269 is a standard test defined by the Society of Automotive Engineers to measure the rolling resistance of tires under conditions of thermal equilibrium. SAE J2452 is an alternative procedure for measuring rolling resistance under conditions similar to a vehicle coastdown event, where the tire is in a roughly isothermal condition (but not thermal equilibrium).
+
+The rolling resistance coefficient (RRC) thus measured indicates the proportion of energy that is lost to the hysteresis of the material as the tire rolls.

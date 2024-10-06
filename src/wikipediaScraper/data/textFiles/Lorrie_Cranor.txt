@@ -1,0 +1,27 @@
+Lorrie Faith Cranor is an American academic who is the FORE Systems Professor of Computer Science and Engineering and Public Policy at Carnegie Mellon University , Director and Bosch Distinguished Professor in Security and Privacy Technologies of Carnegie Mellon Cylab , and director of the Carnegie Mellon Usable Privacy and Security Laboratory . She has served as Chief Technologist of the Federal Trade Commission , and she was formerly a member of the Electronic Frontier Foundation Board of Directors. Previously she was a researcher at AT&T Labs-Research and taught in the Stern School of Business at New York University . She has authored over 110 research papers on online privacy, phishing and semantic attacks, spam, electronic voting, anonymous publishing, usable access control, and other topics.
+
+Cranor was a member of the first class to graduate from the Mathematics, Science, and Computer Science Magnet Program at Montgomery Blair High School in Silver Spring, Maryland . She received a bachelor's degree in Engineering and Public Policy, master's degrees in Technology and Human Affairs, and Computer Science, and a doctorate in Engineering and Policy, all from Washington University in St. Louis .
+
+At CMU, Cranor's research has largely focused on privacy policies and passwords.
+
+Cranor is not only a leading researcher but also a tough critic of the online ad industry's privacy initiatives. In 2008, she blasted Web companies for crafting unreadable privacy policies. She said in a report that online privacy policies take users an average of 10 minutes to read. That report also said that if every U.S. Web user read the privacy policy at every site visited, the time spent reading privacy policies would total an estimated 44.3 billion hours per year.
+
+Cranor led the development of the Platform for Privacy Preferences ( P3P ) Project at the World Wide Web Consortium and authored the book Web Privacy with P3P . She also led the development of the Privacy Bird P3P user agent and the Privacy Finder P3P search engine.
+
+Cranor has played a key role in building the usable privacy and security research community, having co-edited the book Security and Usability (O'Reilly 2005) and founded the Symposium On Usable Privacy and Security (SOUPS).
+
+Cranor is a co-founder of Wombat Security Technologies, Inc and has authored over 150 research papers on online privacy, usable security, and other topics.
+
+She is a member of the feminist collective Deep Lab .
+
+In 2003, she was named to the MIT Technology Review TR100 as one of the top 100 innovators in the world under the age of 35.
+
+In 2013, Cranor's Security Blanket won Honorable Mention in the International Science & Engineering Visualization Challenge presented by Science and the National Science Foundation . She gave a TEDx talk in March 2014 entitled, "What's Wrong with your pa$$w0rd."
+
+In 2014, she was elected to ACM Fellow For contributions to research and education in usable privacy and security.
+
+In 2016, was named Fellow of the Institute of Electrical and Electronics Engineers (IEEE).
+
+In 2017, she was elected to the CHI Academy. At the same conference, Cranor was awarded a prestigious Best Paper award for her paper titled Design and Evaluation of a Data-Driven Password Meter .
+
+Cranor is married to Chuck Cranor, a fellow researcher at Carnegie Mellon University . They have three children together.

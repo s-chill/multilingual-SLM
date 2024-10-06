@@ -1,0 +1,47 @@
+Brake assist ( BA or BAS ) or emergency brake assist ( EBA ) is a term for an automobile braking technology that increases braking pressure in an emergency. The first application was developed jointly by Daimler-Benz and TRW / LucasVarity . Research conducted in 1992 at the Mercedes-Benz driving simulator in Berlin revealed that more than 90% of drivers fail to brake with enough force when faced with an emergency.
+
+By interpreting the speed and force with which the brake pedal is pushed, the system detects if the driver is trying to execute an emergency stop, and if the brake pedal is not fully applied, the system overrides and fully applies the brakes until the anti-lock braking system (ABS) takes over to stop the wheels locking up.
+
+This is a lower level of automation than advanced emergency braking which is a collision avoidance system , which may initiate braking on its own if the onboard computer detects an imminent collision.
+
+Many drivers are not prepared for the relatively high efforts required for maximum braking, nor are they prepared for the "buzzing" feedback through the brake pedal during ABS operation.  If an emergency develops, a slow reaction and less than maximum braking input could result in insufficient time or distance to stop before an accident occurs.
+
+EBA is designed to detect such "panic stops" and apply maximum braking effort within milliseconds.  It interprets braking behaviour by assessing the rate that the brake pedal is activated.
+
+If the system identifies an emergency, it automatically initiates full braking more quickly than any driver can move his or her foot.  Emergency stopping distances can be shortened, reducing the likelihood of accidents – especially the common "nose-to-tail" incident.
+
+An electronic system designed to recognise emergency braking operation and automatically enhance braking effort improves vehicle and occupant safety, and can reduce stopping distances by up to 70 ft (21 m) at 125 mph (201 km/h)
+
+Brake Assist detects circumstances in which emergency braking is required by measuring the speed with which the brake pedal is depressed.  Some systems additionally take into account the rapidity of which the accelerator pedal is released, pre-charging the brakes when a "panic release" of the accelerator pedal is noted.  When panic braking is detected, the Brake Assist system automatically develops maximum brake boost in order to mitigate a driver's tendency to brake without enough force. In doing so, Brake Assist has been shown to reduce stopping distance by a significant margin (up to 20% in some studies).
+
+Thus the brake assist is neither an Autonomous Emergency Braking nor a Collision Avoidance System as it relies on human input.
+
+In December 1996 BAS premiered to the world on the Mercedes-Benz S-Class and SL-Class . In 1998 Mercedes-Benz became the first company to make Brake Assist standard equipment on all its models; other brands including Volvo and BMW soon followed suit.
+
+Mercedes-Benz Brake Assist Plus (BAS Plus) was first made standard equipment on the W221 (2006 onwards) S-Class Mercedes-Benz . This system works much like the Volvo system with a warning and precharging of the brakes but will not automatically brake for the driver. The BAS Plus system has been shown to significantly reduce the incidence of rear-end collisions , and so is very significant in the development of driver aids that improve road safety.
+Other systems like the Volvo CWAB (see below) are also available.
+
+The Volvo system Collision Warning with Auto Brake 'CWAB' uses a radar to detect when a collision is likely and will pre-charge the brakes so that when the driver uses the brakes, however lightly, full braking is applied. The system will also flash a light and make a warning sound. If the driver does not respond to the warning at the point where a collision cannot be avoided the system will apply the brakes automatically and dramatically reduce the speed of the collision.
+
+This system is not considered by regulations as an emergency brake assist but as an advanced emergency braking because it does not rely on the driver to brake.
+
+In 1997 Toyota introduced brake assist across most of its worldwide passenger cars. This includes Corolla , Camry , and Yaris .
+
+Volvo cars can also be equipped with the City Safety System which automatically brakes in stop start traffic. Mercedes-Benz also has a similar system called Distronic Plus.
+
+Both the Volvo and the Mercedes-Benz radar systems are also used for the speed/distance regulated cruise control systems used by both manufacturers.
+
+In October 2007 the European Commission announced that it wanted Brake Assist to be included on all new models sold in the EU as standard by 2009.
+
+In the EU, that regulation applies since 24 November 2009 all new passenger car and light commercial vehicle types already had to be equipped with brake assist systems as standard. Since 24 February 2011, this has applied to all new vehicles.
+
+This brake assist regulation is not used in the United States because the United States do not use UNECE regulations. Instead, the USA plan to use the automatic emergency braking (AEB) on a voluntary basis.
+
+Brake assist system is regulated by UN Regulation No. 139, Uniform provisions concerning the approval of passenger cars with
+regard to Brake Assist Systems, in some UNECE countries.
+
+Brake Assist System (BAS)" means a function of the braking system that deduces an emergency braking event from a characteristic of the driver's brake demand and, under such conditions:
+
+Many UNECE countries apply this passenger cars regulation since 2016 or 2017.
+
+Entry into force of original version: 22/01/2017.

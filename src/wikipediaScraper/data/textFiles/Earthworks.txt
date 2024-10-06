@@ -1,0 +1,17 @@
+Earthworks are engineering works created through the processing of parts of the earth's surface involving quantities of soil or unformed rock .
+
+An incomplete list of possible temporary or permanent geotechnical shoring structures that may be designed and utilised as part of earthworks:
+
+Excavation may be classified by type of material:
+
+Excavation may be classified by the purpose:
+
+Typical earthworks include road construction , railway beds , causeways , dams , levees , canals , and berms . Other common earthworks are land grading to reconfigure the topography of a site, or to stabilize slopes.
+
+In military engineering , earthworks are, more specifically, types of fortifications constructed from soil. Although soil is not very strong, it is cheap enough that huge quantities can be used, generating formidable structures. Examples of older earthwork fortifications include moats , sod walls , motte-and-bailey castles, and hill forts . Modern examples include trenches and berms .
+
+Heavy construction equipment is usually used due to the amounts of material to be moved — up to millions of cubic metres. Earthwork construction was revolutionized by the development of the ( Fresno ) scraper and other earth-moving machines such as the loader , the dump truck , the grader , the bulldozer , the backhoe , and the dragline excavator .
+
+Engineers need to concern themselves with issues of geotechnical engineering (such as soil density and strength) and with quantity estimation to ensure that soil volumes in the cuts match those of the fills , while minimizing the distance of movement. In the past, these calculations were done by hand using a slide rule and with methods such as Simpson's rule . Earthworks cost is a function of hauled amount x hauled distance. The goal of mass haul planning is to determine these amounts and the goal of mass haul optimization is to minimize either or both.
+
+Now they can be performed with a computer and specialized software , including optimisation on haul cost and not haul distance (as haul cost is not proportional to haul distance).

@@ -1,0 +1,28 @@
+The Debian Free Software Guidelines ( DFSG ) is a set of guidelines that the Debian Project uses to determine whether a software license is a free software license , which in turn is used to determine whether a piece of software can be included in Debian. The DFSG is part of the Debian Social Contract .
+
+The DFSG was first published together with the first version of the Debian Social Contract in July 1997. The primary author was Bruce Perens , with input from the Debian developers during a month-long discussion on a private mailing list, as part of the larger Debian Social Contract. Perens was copied to an email discussion between Ean Schuessler (then of Debian) and Donnie Barnes of Red Hat, in which Schuessler accused Red Hat of never elucidating its social contract with the Linux community. Perens realized that Debian did not have any formal social contract either, and immediately started creating one.
+
+The Open Source Definition was created by re-titling the exact text of the DFSG soon afterwards. DFSG was preceded by Free Software Foundation 's Free Software Definition , which then defined three freedoms of Free Software (Freedom Zero was added later), but this text was not used in the creation of the DFSG. Once the DFSG became the Open Source Definition, Richard Stallman saw the need to differentiate free software from open source and promoted the Free Software Definition. Published versions of FSF's Free Software Definition existed as early as 1986, having been published in the first edition of the (now defunct) GNU's Bulletin. The core of the Free Software Definition was the (then) Three Freedoms, which preceded the drafting and promulgation of the DFSG, were unknown to its authors.
+
+In November 1998, Ian Jackson and others proposed several changes in a draft versioned 1.4, but the changes were never made official. Jackson stated that the problems were "loose wording" and the patch clause.
+
+As of 2011 , the document has never been revised. Nevertheless, there were changes made to the Social Contract which were considered to affect the parts of the distribution covered by the DFSG.
+
+The Debian General Resolution 2004-003, titled "Editorial amendments to the social contract", modified the Social Contract. The proposer Andrew Suffield stated:
+
+However, the change of the sentence "We promise to keep the Debian GNU/Linux Distribution entirely free software" into "We promise that the Debian system and all its components will be free" resulted in the release manager, Anthony Towns, making a practical change:
+
+This prompted another General Resolution, 2004–004, in which the developers voted overwhelmingly against immediate action, and decided to postpone those changes until the next release (whose development started a year later, in June 2005).
+
+Most discussions about the DFSG happen on the debian-legal mailing list. When a Debian Developer first uploads a package for inclusion in Debian, the ftpmaster team checks the software licenses and determines whether they are in accordance with the social contract. The team sometimes confers with the debian-legal list in difficult cases.
+
+The DFSG is focused on software, but the word itself is unclear—some apply it to everything that can be expressed as a stream of bits, while a minority considers it to refer to just computer programs. Also, the existence of PostScript , executable scripts, sourced documents , etc., greatly muddies the second definition. Thus, to break the confusion, in June 2004 the Debian project decided to explicitly apply the same principles to software documentation , multimedia data and other content. The non-program content of Debian began to comply with the DFSG more strictly in Debian 4.0 (released in April 2007) and subsequent releases.
+
+Much documentation written by the GNU Project , the Linux Documentation Project and others licensed under the GNU Free Documentation License contain invariant sections , which do not comply with the DFSG. This assertion is the end result of a long discussion and the General Resolution 2006-001.
+
+Due to the GFDL invariant sections, content under this license must be separately contained in an additional "non-free" repository which is not officially considered part of Debian.
+
+It can be sometimes hard to define what constitutes the "source" for multimedia files, such as whether an uncompressed image file is the source of a compressed image and whether the 3D model before ray tracing is the source for its resulting image.
+
+The debian-legal mailing list subscribers have created some tests to check whether a license violates the DFSG.
+The common tests (as described in the draft DFSG FAQ) are the following:

@@ -1,0 +1,50 @@
+An assay is an investigative (analytic) procedure in laboratory medicine , mining , pharmacology , environmental biology and molecular biology for qualitatively assessing or quantitatively measuring the presence, amount, or functional activity of a target entity. The measured entity is often called the analyte , the measurand , or the target of the assay. The analyte can be a drug , biochemical substance , chemical element or compound , or cell in an organism or organic sample . An assay usually aims to measure an analyte's intensive property and express it in the relevant measurement unit (e.g. molarity , density , functional activity in enzyme international units, degree of effect in comparison to a standard, etc.).
+
+If the assay involves exogenous reactants (the reagents ), then their quantities are kept fixed (or in excess) so that the quantity and quality of the target are the only limiting factors. The difference in the assay outcome is used to deduce the unknown quality or quantity of the target in question. Some assays (e.g., biochemical assays) may be similar to chemical analysis and titration . However, assays typically involve biological material or phenomena that are intrinsically more complex in composition or behavior, or both. Thus, reading of an assay may be noisy and involve greater difficulties in interpretation than an accurate chemical titration. On the other hand, older generation qualitative assays, especially bioassays , may be much more gross and less quantitative (e.g., counting death or dysfunction of an organism or cells in a population, or some descriptive change in some body part of a group of animals).
+
+Assays have become a routine part of modern medical , environmental , pharmaceutical , and forensic technology . Other businesses may also employ them at the industrial , curbside, or field levels.  Assays in high commercial demand have been well investigated in research and development sectors of professional industries. They have also undergone generations of development and sophistication. In some cases, they are protected by intellectual property regulations such as patents granted for inventions. Such industrial-scale assays are often performed in well-equipped laboratories and with automated organization of the procedure, from ordering an assay to pre-analytic sample processing (sample collection, necessary manipulations e.g. spinning for separation , aliquoting if necessary, storage, retrieval, pipetting , aspiration , etc.). Analytes are generally tested in high- throughput autoanalyzers , and the results are verified and automatically returned to ordering service providers and end-users . These are made possible through the use of an advanced laboratory informatics system that interfaces with multiple computer terminals with end-users, central servers , the physical autoanalyzer instruments, and other automata.
+
+According to Etymology Online, the verb assay means "to try, endeavor, strive, test the quality of"; from Anglo-French assaier , from assai (noun), from Old French essai , "trial". Thus the noun assay means "trial, test of quality, test of character" (from mid-14th century), from Anglo-French assai ; and its meaning "analysis" is from the late 14th century.
+
+For assay of currency coins this literally meant analysis of the purity of the gold or silver (or whatever the precious component) that represented the true value of the coin. This might have translated later (possibly after the 14th century) into a broader usage of "analysis", e.g., in pharmacology, analysis for an important component of a target inside a mixture—such as the active ingredient of a drug inside the inert excipients in a formulation that previously was measured only grossly by its observable action on an organism (e.g., a lethal dose or inhibitory dose).
+
+An assay (analysis) is never an isolated process, as it must be accompanied with pre- and post-analytic procedures. Both the communication order (the request to perform an assay plus related information) and the handling of the specimen itself (the collecting, documenting, transporting, and processing done before beginning the assay) are pre-analytic steps. Similarly, after the assay is completed the results must be documented, verified and communicated—the post-analytic steps. As with any multi-step information handling and transmission system, the variation and errors in reporting final results entail not only  those intrinsic to the assay itself but also those occurring in the pre-analytic and post-analytic procedures.
+
+While the analytic steps of the assay itself get much attention, it is those that get less attention of the chain of users—the pre-analytic and post-analytic procedures—that typically accumulate the most errors; e.g., pre-analytic steps in medical laboratory assays may contribute 32–75% of all lab errors.
+
+Assays can be very diverse, but generally involve the following general steps:
+
+Depending on whether an assay just looks at a single time point or timed readings taken at multiple time points, an assay may be:
+
+Depending on how many targets or analytes are being measured:
+
+Depending on the quality of the result produced, assays may be classified into:
+
+Depending on the general substrate on which the assay principle is applied:
+
+Depending on the nature of the signal amplification system assays may be of numerous types, to name a few:
+
+Depending on the nature of the Detection system assays can be based on:
+
+Assays for studying interactions of proteins with DNA include:
+
+A cell-counting assay may determine the number of living cells, the number of dead cells, or the ratio of one cell type to another, such as enumerating and typing red versus different types of white blood cells. This is measured by different physical methods (light transmission, electric current change). But other methods use biochemical probing cell structure or physiology (stains). Another application is to monitor cell culture ( assays of cell proliferation or cytotoxicity ).
+A cytotoxicity assay measures how toxic a chemical compound is to cells.
+
+Many cell assays have been developed to assess specific parameters or response of cells ( biomarkers , cell physiology). Techniques used to study cells include :
+
+Metastasis Assay
+
+The HPCE-based viral titer assay uses a proprietary, high-performance capillary electrophoresis system to determine baculovirus titer .
+
+The Trofile assay is used to determine HIV tropism .
+
+The viral plaque assay is to calculate the number of viruses present in a sample. In this technique the number of viral plaques formed by a viral inoculum is counted, from which the actual virus concentration can be determined.
+
+A wide range of cellular secretions (say, a specific antibody or cytokine ) can be detected using the ELISA technique.  The number of cells which secrete those particular substances can be determined using a related technique, the ELISPOT assay.
+
+When multiple assays measure the same target their results and utility may or may not be comparable depending on the natures of the assay and their methodology, reliability etc. Such comparisons are possible through study of general quality attributes of the assays e.g. principles of measurement (including identification, amplification and detection), dynamic range of detection (usually the range of linearity of the standard curve ), analytic sensitivity , functional sensitivity , analytic specificity , positive , negative predictive values , turn around time i.e. time taken to finish a whole cycle from the preanalytic steps till the end of the last post analytic step (report dispatch/transmission), throughput i.e. number of assays done per unit time (usually expressed as per hour) etc. Organizations or laboratories that perform Assays for professional purposes e.g. medical diagnosis and prognostics, environmental analysis, forensic proceeding, pharmaceutical research and development must undergo well regulated quality assurance procedures including method validation , regular calibration , analytical quality control , proficiency testing , test accreditation , test licensing and must document appropriate certifications from the relevant regulating bodies in order to establish the reliability of their assays, especially to remain legally acceptable and accountable for the quality of the assay results and also to convince customers to use their assay commercially/professionally.
+
+Bioactivity databases correlate structures or other chemical information to bioactivity results taken from bioassays in literature, patents, and screening programs.
+
+Protocol databases correlate results from bioassays to their metadata about experimental conditions and protocol designs.

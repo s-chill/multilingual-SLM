@@ -1,0 +1,65 @@
+Template metaprogramming ( TMP ) is a metaprogramming technique in which templates are used by a compiler to generate temporary source code , which is merged by the compiler with the rest of the source code and then compiled. The output of these templates can include compile-time constants , data structures , and complete functions . The use of templates can be thought of as compile-time polymorphism . The technique is used by a number of languages, the best-known being C++ , but also Curl , D , Nim , and XL .
+
+Template metaprogramming was, in a sense, discovered accidentally.
+
+Some other languages support similar, if not more powerful, compile-time facilities (such as Lisp macros ), but those are outside the scope of this article.
+
+The use of templates as a metaprogramming technique requires two distinct operations: a template must be defined, and a defined template must be instantiated . The generic form of the generated source code is described in the template definition, and when the template is instantiated, the generic form in the template is used to generate a specific set of source code.
+
+Template metaprogramming is Turing-complete , meaning that any computation expressible by a computer program can be computed, in some form, by a template metaprogram.
+
+Templates are different from macros . A macro is a piece of code that executes at compile time and either performs textual manipulation of code to-be compiled (e.g. C++ macros) or manipulates the abstract syntax tree being produced by the compiler (e.g. Rust or Lisp macros). Textual macros are notably more independent of the syntax of the language being manipulated, as they merely change the in-memory text of the source code right before compilation.
+
+Template metaprograms have no mutable variables — that is, no variable can change value once it has been initialized, therefore template metaprogramming can be seen as a form of functional programming . In fact many template implementations implement flow control only through recursion , as seen in the example below.
+
+Though the syntax of template metaprogramming is usually very different from the programming language it is used with, it has practical uses. Some common reasons to use templates are to implement generic programming (avoiding sections of code which are similar except for some minor variations) or to perform automatic compile-time optimization such as doing something once at compile time rather than every time the program is run — for instance, by having the compiler unroll loops to eliminate jumps and loop count decrements whenever the program is executed.
+
+What exactly "programming at compile-time" means can be illustrated with an example of a factorial function, which in non-template C++ can be written using recursion as follows:
+
+The code above will execute at run time to determine the factorial value of the literals 0 and 4.
+By using template metaprogramming and template specialization to provide the ending condition for the recursion, the factorials used in the program—ignoring any factorial not used—can be calculated at compile time by this code:
+
+The code above calculates the factorial value of the literals 0 and 4 at compile time and uses the results as if they were precalculated constants.
+To be able to use templates in this manner, the compiler must know the value of its parameters at compile time, which has the natural precondition that factorial<X>::value can only be used if X is known at compile time. In other words, X must be a constant literal or a constant expression.
+
+In C++11 and C++20 , constexpr and consteval were introduced to let the compiler execute code. Using constexpr and consteval, one can use the usual recursive factorial definition with the non-templated syntax.
+
+The factorial example above is one example of compile-time code optimization in that all factorials used by the program are pre-compiled and injected as numeric constants at compilation, saving both run-time overhead and memory footprint . It is, however, a relatively minor optimization.
+
+As another, more significant, example of compile-time loop unrolling , template metaprogramming can be used to create length- n vector classes (where n is known at compile time). The benefit over a more traditional length- n vector is that the loops can be unrolled, resulting in very optimized code. As an example, consider the addition operator. A length- n vector addition might be written as
+
+When the compiler instantiates the function template defined above, the following code may be produced:
+
+The compiler's optimizer should be able to unroll the for loop because the template parameter length is a constant at compile time.
+
+However, take care and exercise caution as this may cause code bloat as separate unrolled code will be generated for each 'N'(vector size) you instantiate with.
+
+Polymorphism is a common standard programming facility where derived objects can be used as instances of their base object but where the derived objects' methods will be invoked, as in this code
+
+where all invocations of virtual methods will be those of the most-derived class. This dynamically polymorphic behaviour is (typically) obtained by the creation of virtual look-up tables for classes with virtual methods, tables that are traversed at run time to identify the method to be invoked. Thus, run-time polymorphism necessarily entails execution overhead (though on modern architectures the overhead is small).
+
+However, in many cases the polymorphic behaviour needed is invariant and can be determined at compile time. Then the Curiously Recurring Template Pattern (CRTP) can be used to achieve static polymorphism , which is an imitation of polymorphism in programming code but which is resolved at compile time and thus does away with run-time virtual-table lookups. For example:
+
+Here the base class template will take advantage of the fact that member function bodies are not instantiated until after their declarations, and it will use members of the derived class within its own member functions, via the use of a static_cast , thus at compilation generating an object composition with polymorphic characteristics. As an example of real-world usage, the CRTP is used in the Boost iterator library.
+
+Another similar use is the " Barton–Nackman trick ", sometimes referred to as "restricted template expansion", where common functionality can be placed in a base class that is used not as a contract but as a necessary component to enforce conformant behaviour while minimising code redundancy.
+
+The benefit of static tables is the replacement of "expensive" calculations with a simple array indexing operation (for examples, see lookup table ). In C++, there exists more than one way to generate a static table at compile time. The following listing shows an example of creating a very simple table by using recursive structs and variadic templates .
+The table has a size of ten. Each value is the square of the index.
+
+The idea behind this is that the struct Helper recursively inherits from a struct with one more template argument (in this example calculated as INDEX * INDEX) until the specialization of the template ends the recursion at a size of 10 elements. The specialization simply uses the variable argument list as elements for the array.
+The compiler will produce code similar to the following (taken from clang called with -Xclang -ast-print -fsyntax-only).
+
+Since C++17 this can be more readably written as:
+
+To show a more sophisticated example the code in the following listing has been extended to have a helper for value calculation (in preparation for more complicated computations), a table specific offset and a template argument for the type of the table values (e.g. uint8_t, uint16_t, ...).
+
+Which could be written as follows using C++17:
+
+The C++20 standard brought C++ programmers a new tool for meta template programming, concepts.
+
+Concepts allow programmers to specify requirements for the type, to make instantiation of template possible. The compiler looks for a template with the concept that has the highest requirements.
+
+Here is an example of the famous Fizz buzz problem solved with Template Meta Programming.
+
+Compile-time versus execution-time tradeoffs get visible if a great deal of template metaprogramming is used.

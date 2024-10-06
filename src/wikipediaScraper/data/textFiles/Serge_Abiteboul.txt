@@ -1,0 +1,17 @@
+Serge Joseph Abiteboul (born 25 August 1953 in Paris , France) is a French computer scientist working in the areas of data management , database theory , and finite model theory .
+
+The son of two hardware store owners, Abiteboul attended high-school in Romorantin , and Higher School Preparatory Classes in Tours . He was admitted to the Télécom Paris engineering school and studied at the Technion in Haifa for a year.
+
+Abiteboul received his PhD from the University of Southern California under the supervision of Seymour Ginsburg , in 1982.
+
+Abiteboul is a senior researcher at the Institut national de recherche en informatique et en automatique (INRIA) , the French national research institute focussing on computer science and related areas, and has been a professor of the Collège de France .
+
+He is known for his many contributions in the areas of finite model theory , database theory, and database systems. In finite model theory, the Abiteboul–Vianu Theorem states that polynomial time is equal to PSPACE if and only if fixed point logic is the same as partial fixed point logic. In database theory, he has contributed a wide variety of results, the most recent on languages for the distributed processing of XML data. In data management, he is best known for his early work on semistructured and Web databases. In 2008, according to Citeseer , he is the most highly cited researcher in the data management area who works at a European institution.
+
+Abiteboul is also known for two books, one on database theory and one on Web data management. He frequently writes for French newspapers, including Le Monde, Libération and La Tribune
+
+A member of the ARCEP , the independent agency in charge of regulating telecommunications in France, Abiteboul has been an advocate of net neutrality. He has also been critical of virtual assistants and their impact on privacy.
+
+In 2019, he is among the members of a group tasked by the French government with addressing online bullying and harassment.
+
+Abiteboul was awarded the Association for Computing Machinery (ACM) SIGMOD Test of Time Award in 2004, the Prix EADS in 2007 and the  ACM PODS Alberto O. Mendelzon Test-of-Time Award (2008). Abiteboul was elected a member of the French Academy of Sciences in 2008, of the European Academy of Sciences in 2011, and an ACM Fellow in 2011.

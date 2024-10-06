@@ -1,0 +1,59 @@
+Android TV is a smart TV operating system based on Android and developed by Google . It is available on television sets , soundbars , set-top boxes and digital media players . A successor to Google TV , it features a user interface designed around content discovery and voice search , content aggregation from various media apps and services, and integration with other recent Google technologies such as Assistant , Cast , and Knowledge Graph .
+
+The platform was unveiled in June 2014, available first on the Nexus Player in October. The platform has been adopted as smart TV middleware by companies such as Sony , Panasonic , Philips , Sharp , Motorola , Nokia , Toshiba and TCL .
+
+Android TV products have also been adopted as set-top boxes by a number of IPTV television providers. The "Operator Tier" certification allows operators to distribute their own custom devices based on the Android TV platform.
+
+Android TV was first announced at Google I/O in June 2014, as a successor to the commercially unsuccessful Google TV . Some attendees received the platform's development kit, the ADT-1. The Information reported that the ADT-1 was based on a scrapped "Nexus TV" launch device that was being developed internally by Google. Google unveiled the first Android TV device, the Nexus Player developed by Asus , at a hardware event in October 2014.
+
+The ADT-2 development kit device was released before the release of Android TV 9.0. Android TV 10 was released on December 10, 2019, together with the ADT-3 development kit. Android TV 11 was released for the ADT-3 on September 22, 2020, while rollouts were planned for original equipment manufacturer partners in subsequent months.
+
+In September 2020, it was announced that Google TV experience that was designed to browse and discover content, will be available on televisions from Android TV OS partners starting in 2021. In February 2021, an update to Android TV home screen was announced which added three new tabs at the top: Home, Discover, Apps. The 'Discover' tab presents personalized recommendations for movies, shows and live TV.
+
+Android TV 12 was released on November 30, 2021, with rollouts planned for late 2022. Android TV 13 was released on December 2, 2022 for developers using the ADT-3 development kit.
+
+The Android TV platform is an adaptation of the Android OS for set-top boxes and as integrated software on smart TV hardware. It supports media and games apps from Google Play , although not all Google Play apps are compatible with Android TV. Some Android TV devices, such as the Nvidia Shield and Razer Forge TV, are also marketed as microconsoles and are bundled with a Bluetooth wireless gamepad.
+
+The Verge characterized Android TV with leveraging Google's Knowledge Graph project; Chromecast compatibility; a larger emphasis on search; closer ties to the Android ecosystem including Google Play and Android Wear ; and native support for video games , Bluetooth gamepads , and the Google Play Games framework.
+
+Subsequent releases of Android TV brought new features to the operating system, e.g. camera support (with Android TV 9), Auto low-latency mode for gaming (with Android TV 11), 4K UI , Refresh Rate switching & Text scaling (with Android TV 12) among others.
+
+A special certification, called Android TV "Operator Tier", is available for pay television and other service operators allowing them to customize the home screen; manage UI as well as available apps, content or services on the Android TV devices that they provide to their subscribers; thus, differentiating from other operators and devices running Android TV as well.
+
+By May 2022, Android TV has over 10,000 compatible apps, up from the 6,500 available at launch.
+
+Available since February 2021, the 'Discover' tab on updated home screen presents personalized recommendations for movies, shows and live TV.
+
+Earlier, the Android TV home screen used a vertically scrolling, row-based interface, including a "content discovery" area populated by suggested content, followed by "Watch Now" rows that surfaced media content from installed apps.
+
+Introduced in June 2023, the 'Shop' tab on Android TV home screen lets a signed-in user to explore movies to buy or rent and make purchases directly on the Android TV device. The tab also included 'Library' for accessing purchases made with same Google Account from YouTube, other Google TV and Android TV devices, and the Google TV mobile app.
+
+Android TV supports voice input commands allowing a user to search and discover content available through various apps and services as well as to control content playback using built-in Google Assistant . With Google assistant, users can also control their Smart Home devices.
+
+Android TV supports casting via Google Cast from supported devices and apps.
+
+A modified Android TV OS user interface , branded "Google TV", was introduced on the new Chromecast that was released on September 30, 2020, coinciding with the rebranding of the Google Play Movies & TV mobile app to 'Google TV'.
+
+Google TV as well as new Android TV interface is integrated with Google TV service. The default ordering of content titles, apps, services including recommendations, watchlist or purchased titles appearing on Google TV is set by Google based on app popularity, installed apps, user saved services, and contractual agreements with Google's partners. The Shop tab on Android TV allows a user to explore and buy or rent video titles distributed under Google TV service.
+
+Starting with some set-top boxes, dongles, and smart TVs launched in 2021, Google TV replaced the Android TV interface on all new retail devices by the end of 2022. Devices launched with Android TV interface haven't been updated to Google TV but received a home screen redesign called the "Discover UI " with similar appearance to Google TV in February 2021. By the first week of September 2023, it was rolled out to more countries.
+
+Google TV organizes live as well as on demand content titles from various services and installed apps into genres and topics including titles trending on Google Search . It was announced as "a new entertainment experience designed to help easily browse and discover what to watch". It features sponsored content and also offers an apps-only mode.
+
+Google TV organizes available content from Google as well as various apps and services partners including app developers and film studios. As of December 2023 , it supports 50 streaming services in the US and various regional services:
+
+Android TV has been used to power many types of devices, like smart TVs, smart projectors, set-top boxes and dongles.
+
+During Google I/O 2014, Google announced that Sony , Sharp , and TP Vision / Philips would release smart TVs with Android TV integrated in 2015. It was noted that support for handling TV-specific functions, such as input switching and tuning, were natively integrated into the Android platform.
+
+Sony unveiled a range of Bravia smart TVs running Android TV at CES 2015. Sharp released two TV models on June 10, 2015. Philips announced that 80% of their 2015 TVs will run Android TV, the first two models of which were released in June 2015.
+
+Google announced other television hardware partners in January 2016, including Arçelik , Bang & Olufsen , Hisense , RCA , TCL Corporation , Vestel , OnePlus and Realme .
+
+Numerous commercial set-top boxes and dongles have been released using Android TV, most notably Google's Nexus Player , the Nvidia Shield TV , and Xiaomi 's Mi Box , Mi Box S, and Mi TV Stick.
+
+Also, several pay television providers have released IPTV services using Android TV-based hardware as opposed to a proprietary set-top box.
+
+In July 2019, Android TV became available on soundbars.
+
+According to a report by TechCrunch in May 2023, several lines of budget-tier Android TV devices available for purchase from Amazon.com come preinstalled with malware .

@@ -1,0 +1,29 @@
+In electrical engineering , electrical elements are conceptual abstractions representing idealized electrical components , such as resistors , capacitors , and inductors , used in the analysis of electrical networks .  All electrical networks can be analyzed as multiple electrical elements interconnected by wires. Where the elements roughly correspond to real components, the representation can be in the form of a schematic diagram or circuit diagram . This is called a lumped-element circuit model . In other cases, infinitesimal elements are used to model the network in a distributed-element model .
+
+These ideal electrical elements represent actual, physical electrical or electronic components . Still, they do not exist physically and are assumed to have ideal properties. In contrast, actual electrical components have less than ideal properties, a degree of uncertainty in their values, and some degree of nonlinearity. To model the nonideal behavior of a real circuit component may require a combination of multiple ideal electrical elements to approximate its function. For example, an inductor circuit element is assumed to have inductance but no resistance or capacitance , while a real inductor, a coil of wire, has some resistance in addition to its inductance. This may be modeled by an ideal inductance element in series with a resistance.
+
+Circuit analysis using electric elements is useful for understanding practical networks of electrical components. Analyzing how a network is affected by its individual elements makes it possible to estimate how a real network will behave.
+
+Circuit elements can be classified into different categories. One is how many terminals they have to connect them to other components:
+
+Elements can also be divided into active and passive:
+
+Another distinction is between linear and nonlinear:
+
+Only nine types of element ( memristor not included), five passive and four active, are required to model any electrical component or circuit. Each element is defined by a relation between the state variables of the network: current , I {\displaystyle I} ; voltage , V {\displaystyle V} ; charge , Q {\displaystyle Q} ; and magnetic flux , Φ {\displaystyle \Phi } .
+
+In reality, all circuit components are non-linear and can only be approximated as linear over a certain range. To describe the passive elements more precisely, their constitutive relation is used instead of simple proportionality. Six constitutive relations can be formed from any two of the circuit variables. From this, there is supposed to be a theoretical fourth passive element since there are only five elements in total (not including the various dependent sources) found in linear network analysis. This additional element is called memristor . It only has any meaning as a time-dependent non-linear element; as a time-independent linear element, it reduces to a regular resistor. Hence, it is not included in linear time-invariant (LTI) circuit models. The constitutive relations of the passive elements are given by;
+
+In some special cases, the constitutive relation simplifies to a function of one variable. This is the case for all linear elements, but also, for example, an ideal diode , which in circuit theory terms is a non-linear resistor, has a constitutive relation of the form V = f ( I ) {\displaystyle V=f(I)} . Both independent voltage and independent current sources can be considered non-linear resistors under this definition.
+
+The fourth passive element, the memristor, was proposed by Leon Chua in a 1971 paper, but a physical component demonstrating memristance was not created until thirty-seven years later. It was reported on April 30, 2008, that a working memristor had been developed by a team at HP Labs led by scientist R. Stanley Williams . With the advent of the memristor, each pairing of the four variables can now be related.
+
+Two special non-linear elements are sometimes used in analysis but are not the ideal counterpart of any real component:
+
+These are sometimes used in models of components with more than two terminals: transistors, for instance.
+
+All the above are two-terminal, or one-port , elements except the dependent sources. Two lossless, passive, linear two-port elements are typically introduced into network analysis. Their constitutive relations in matrix notation are;
+
+The transformer maps a voltage at one port to a voltage at the other in a ratio of n . The current between the same two ports is mapped by 1/ n . On the other hand, the gyrator maps a voltage at one port to a current at the other. Likewise, currents are mapped to voltages. The quantity r in the matrix is in units of resistance. The gyrator is a necessary element in analysis because it is not reciprocal . Networks built from just the basic linear elements are necessarily reciprocal, so they cannot be used by themselves to represent a non-reciprocal system. It is not essential, however, to have both the transformer and gyrator. Two gyrators in cascade are equivalent to a transformer, but the transformer is usually retained for convenience. The introduction of the gyrator also makes either capacitance or inductance non-essential since a gyrator terminated with one of these at port 2 will be equivalent to the other at port 1. However, transformer, capacitance, and inductance are normally retained in analysis because they are the ideal properties of the basic physical components transformer , inductor , and capacitor , whereas a practical gyrator must be constructed as an active circuit.
+
+The following are examples of representations of components by way of electrical elements.

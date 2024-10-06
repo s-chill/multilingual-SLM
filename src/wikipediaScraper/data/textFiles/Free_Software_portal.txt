@@ -1,0 +1,51 @@
+Free and open-source software ( FOSS ) is software that is distributed in a manner that allows its users to run the software for any purpose, to redistribute copies of it, and to examine, study, and modify, the source code . FOSS is also a loosely associated movement of multiple organizations, foundations, communities and individuals who share basic philosophical perspectives and collaborate practically, but might diverge in detail questions.
+
+The historical precursor to this was the hobbyist and academic public domain software ecosystem of the 1960s to 1980s. The FOSS movement's "free" part originates from Richard Matthew Stallman , who noted the lost freedom to users on the decline of the public domain ecosystem and the growth of a copyrighted proprietary software ecosystem.
+
+In response, as a hack of the copyright system, he created the GPL, a protective copyleft license , aiming for the creation of a complete and free operating system — GNU . Shortly after, the BSDs ( FreeBSD , OpenBSD , NetBSD ) brought an alternative FOSS approach to the table: the more public domain–like permissive licenses . Other noteworthy FOSS organizations from this time include the Apache Foundation ( Apache Server ), GNOME , Debian , Mozilla Foundation ( Firefox ), with their own ideas: The Free Software Definition , Debian Free Software Guidelines , The Open Source Definition , and more.
+
+At the end of the 1990s, in the context of the dot-com bubble and web 2.0 , the Open-Source movement (with Eric S. Raymond , Bruce Perens , Tim O'Reilly and others) gave important impulses to FOSS with the achieved open sourcing of Netscape 's browser as Firefox and Sun Microsystems ' office suite, OpenOffice.org .
+
+edit
+
+The Arena browser (also known as the Arena WWW Browser ) was one of the first web browsers for Unix . Originally begun by Dave Raggett in 1993, development continued at CERN and the World Wide Web Consortium (W3C) and subsequently by Yggdrasil Computing. Arena was used in testing the implementations for HTML version 3.0 , Cascading Style Sheets (CSS), Portable Network Graphics (PNG), and libwww . Arena was widely used and popular at the beginning of the World Wide Web .
+
+Arena, which predated Netscape Navigator and Microsoft 's Internet Explorer , featured a number of innovations used later in commercial products. It was the first browser to support background images, tables , text flow around images, and inline mathematical expressions.
+
+The Arena browser served as the W3C's testbed browser from 1994 to 1996 when it was succeeded by the Amaya project. ( Full article... )
+
+edit
+
+Although there was free software before, in 1983 Richard Stallman launched the free software movement and founded the Free Software Foundation to promote the movement and to publish its own definition of free software . Others have published alternative definitions of free software , including the Debian Free Software Guidelines and the Berkeley Software Distribution -based operating system communities.
+
+In 1998, Bruce Perens and Eric S. Raymond began a campaign to market open-source software and founded the Open Source Initiative , which espoused different goals and a different philosophy from Stallman's.
+
+edit
+
+The following operating systems are released under free software licenses :
+
+Mobile operating systems:
+
+Desktop and server operating systems:
+
+Linux systems focusing on free software:
+
+edit
+
+edit
+
+A number of articles on free and open-source software topics have been designated good articles :
+
+Please consider improving other free and open-source software articles . With your attention, they could be added to this list!
+
+edit
+
+edit
+
+The following Wikimedia Foundation sister projects provide more on this subject:
+
+edit
+
+edit
+
+Purge server cache

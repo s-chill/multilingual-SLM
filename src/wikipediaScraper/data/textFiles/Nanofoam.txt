@@ -1,0 +1,73 @@
+Nanofoams are a class of nanostructured, porous materials ( foams ) containing a significant population of pores with diameters less than 100 nm . Aerogels are one example of nanofoam.
+
+Metallic nanofoams are a subcategorization of nanofoams; more specifically, there are nanofoams consisting of metals, often pure, that form interconnected networks of ligaments that make up the structure of the foam. A variety of metals are used, including copper , nickel , gold , and platinum . Metallic nanofoams may offer certain advantages over alternative polymer nanofoams; structurally, they retain the electrical conductivity of metals, offer increased ductility , as well as the higher surface area and nano-architecture properties offered by nanofoams.
+
+Synthesis of metallic nanofoams may be accomplished through a variety of methods. In 2006, researchers produced metal nanofoams by igniting pellets of energetic metal bis(tetrazolato)amine complexes.  Nanofoams of iron , cobalt , nickel , copper , silver , and palladium have been prepared through this technique.  These materials exhibit densities as low as 11 mg/cm , and surface areas as high as 258 m /g.  These foams are effective catalysts and electrocatalyst supports. Also, metal nanofoams can be made by electrodeposition of metals inside templates with interconnected pores, such as 3D-porous anodic aluminum oxide (AAO). Such method gives nanofoams with an organized structure and allows to control the surface area and porosity of the fabricated material.
+
+A 2016 study discussed a low temperature/pressure microwave solvothermal method for fabricating pure copper, silver, and nickel metal nanofoams. The process claims to be non-hazardous, novel, as well as facile, with an emphasis on its low-waste and low-cost method of manufacturing.
+
+Additionally, a 2020 publication discussed successful synthesis of nanofoam films from silver, gold, copper, and palladium through the use of a modified vacuum thermal evaporation method.
+
+Metallic nanofoams have seen a broad variety of applications, including catalysts, hydrogen storage , as well as fuel cells . Additionally, applications of metallic nanofoam as an electrocatalyst have been fruitful; a nickel-iron nanofoam catalyst has proven to exhibit exceptional electrocatalytic performance, as well as water-splitting to isolate hydrogen atoms. Applications to the clean energy industry, specifically for lithium-ion batteries and other fuel cells, have been discussed as well.
+
+Through literature discussing the fabrication of a completely porous nanofoam biopolymer is scarce, recent endeavors have resulted in the formation of nanofoam surfaces on biopolymers. In these instances, biopolymers such as collagen and gelatine, chitosan, and pure curcumin have been used to varying degrees.
+
+A 2008 study explored the usage of femtosecond laser irradiation to create permanent spatial arrangements in transparent materials, particularly in its usage to form a singular foamed layer upon biopolymers such as collagen or curcumin. Foaming these surfaces results in a variety of surface modifications that may improve the material's ability for cell adhesion, permeability of fluids due to cell structure, and the formation of nanoscopic fibers.
+
+Additionally, an iron-nitrogen co-doped carbon nanofoam was purposed to be fabricated through the acile salt-assisted pyrolysis process of chitooligosaccharides.
+
+Foamed biopolymers have multiple purported applications in the biomedical and pharmaceuticals industry due to their modified surface properties. Gelatine films with curcumin dropped upon the surface, for instance, displayed a higher tolerance for ablation following its foaming; this tolerance is suspected to arise from curcumin's binding to proteins to protect from free radicals, as well as its anti-oxidant properties. These findings present implications for greater cellular surgery, as well as the manufacturing of biopolymers as a whole, due to these modifications from plasma irradiation.
+
+Silver nanofoams are specific metal nanofoams consisting of mainly silver that are uniquely regarded for their antibacterial and electrical properties. Many of these silver nanofoams are alloys of silver and another metal such as aluminum. They are unique for their hierarchical porous structure are a current point of modern research and development. They have many applications in the fields of mechanical, chemical, and biomedical engineering, including filtration, air management, and use in electrical systems.
+
+The underlying principle is to merge pores of different sizes into a material with a large surface area (thanks to smaller pores), which in turn allows efficient molecular transport (which requires larger pores). The process used to produce these materials is a combination of the replication method, typically used to produce large-pore foams, and the selective dissolution method, generally used to manufacture small-pore foams.
+
+Ag foams with hierarchical porous structures are prepared by the following three-step method:
+
+(i) Packing large spherical NaCl particles to create a hard template, with a distinct perform network of negative space. Then this network is filled with liquid Al-25Ag.
+
+(ii) Removing the NaCl template by water dissolution to form Al−25Ag macro-porous foam.
+
+(iii) Dissolving the Al-rich phase by a chemical attack with aqueous solutions of HCl or NaOH to form the final Ag foam. This creates the nanoscale pores of the foam.
+
+Silver ions have been shown to have potent antibacterial activity, and have been shown to affect the growth of Gram-positive and Gram-negative bacteria. This is due to their ability to form ligand complexes with proteins or enzymes in bacterial cells. Due to this unique property, these nanofoams create excellent air filters designed to filter out bacteria and other microorganisms, this level of filtration was shown to be more effective than tradition HCl analogues.
+
+These silver nanofoams have also been used as electrocatalysts for the reduction reaction of CO 2 to CO. It was found that on average silver nanofoams can maintain over 90% FECO in a wide potential window (−0.5 to −1.2 VRHE), enabling the maximum CO selective current density of 33 mA cm−2 and the mass activity of 23.5 A gAg−1, which are the highest values among recently reported metal foam-based electrocatalysts.
+
+Carbon nanofoam is an allotrope of carbon discovered in 1997. Its structure consists of a cluster-assembly of carbon atoms strung together in a loose three-dimensional web, similar to an aerogel. The material has a density of 2–10 mg/cm (0.0012 lb/ft ), which is among the lightest materials to date.
+
+There are multiple formation methods for carbon nanofoams. Pulsed Laser Deposition (PLD) has been the first technique used for the synthesis of carbon nanofoam, and is considered one of the most versatile approach for the production of carbon nanofoams with controlled density and morphology. The process of nanofoam growth via the Pulsed Laser Deposition has been described in terms of a " snowfall-like " mechanism:
+
+(i) Carbon nanoparticles are generated upon laser ablation of a graphite target, either directly of because of the presence of a background atmosphere
+
+(ii) Nanoparticles stick together in micrometric-sized, fractal-like aggregates that grow in-flight within the deposition chamber
+
+(iii) fractal-like aggregates land on a suitable substrate, much like snowflakes land on the ground
+
+(iv) a void-rich, web-like nanofoam is obtained by the layering of fractal-like aggregates
+
+Two of the most common alternatives to PLD synthesis are described below:
+
+Cellulose nanofibers (CNF) were constructed into nanofoams by:
+
+(i) Recycled milk container board was pretreated with deep eutectic solvent (DES) to fibrillate it.
+
+(ii) The pretreated board was put through a simple freezing drying procedure to form a nanofoam shape.
+
+(iii) Fibers are then modified for increased hydrophobicity and reinforced structure by sialylation agents.
+
+A porous carbon nanofoam was created by:
+
+(i) Pitch and CaCO 3 (in a 1:14 ratio) were dissolved in methylene chloride . 10mL of NaCl was added. Mixture was stirred continuously.
+
+(ii) Sample was naturally air dried at room temperature.
+
+(iii) Sample was carbonized at 600 °C for 2 hours. The heating rate was 2 °C per minute.
+
+(iv) Carbonized structure is washed in 1M HCl to remove excess CaCO 3 nanoparticles.
+
+Carbon Nanofoams have been shown to have great application as solar steam generators . They possess excellent light absorption, good thermal stability, low density, and low thermal conductivity, all factors important to solar generators. In experiments done, carbon nanofoams showed superior solar photo-thermal performance with an evaporation rate of 1.68 kg m−2 h−1 achieved under 1 sun irradiation.
+
+Additionally, carbon nanofoams have also been used to create extremely efficient aerosol filters . Using cellulose nanofibers collected from recycled milk jugs, researchers were able to develop a carbon nanofoam that achieved a very high filtration efficacy (>99.5%) in tests run with 0.7 wt% nanofoam sample for particles smaller than 360 nm. This efficiency value even meets the standard requirements of the N95 respirator face masks. The structure of the nanofoam filter gives it an advantage in performance over normal filters when dealing with high particle bearing
+
+In 2014, researchers also fabricated glass nanofoam via femtosecond laser ablation. Their work consisted of raster scanning femtosecond laser pulses over the surface of glass to produce glass nanofoam with ~70 nm diameter wires.

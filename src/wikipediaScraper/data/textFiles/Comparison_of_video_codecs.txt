@@ -1,0 +1,55 @@
+Α video codec is software or a device that provides encoding and decoding for digital video , and which may or may not include the use of video compression and/or decompression. Most codecs are typically implementations of video coding formats .
+
+The compression may employ lossy data compression , so that quality-measurement issues become important. Shortly after the compact disc became widely available as a digital-format replacement for analog audio, it became feasible to also store and use video in digital form. A variety of technologies soon emerged to do so. The primary goal for most methods of compressing video is to produce video that most closely approximates the fidelity of the original source, while simultaneously delivering the smallest file-size possible. However, there are also several other factors that can be used as a basis for comparison.
+
+The following characteristics are compared in video codecs comparisons:
+
+The quality the codec can achieve is heavily based on the compression format the codec uses. A codec is not a format, and there may be multiple codecs that implement the same compression specification –  for example, MPEG-1 codecs typically do not achieve quality/size ratio comparable to codecs that implement the more modern H.264 specification. But quality/size ratio of output produced by different implementations of the same specification can also vary.
+
+Each compression specification defines various mechanisms by which raw video (in essence, a sequence of full-resolution uncompressed digital images) can be reduced in size, from simple bit compression (like Lempel-Ziv-Welch ) to psycho-visual and motion summarization, and how the output is stored as a bit stream. So long as the encoder component of the codec adheres to the specification, it can choose any combination of these methods to apply different parts of the content. The decoder component of a codec that also conforms to the specification recognizes each of the mechanisms used, and thus interprets the compressed stream to render it back into raw video for display (although this will not be identical to the raw video input unless the compression was lossless). Each encoder implements the specification according to its own algorithms and parameters, which means that the compressed output of different codecs will vary, resulting in variations in quality and efficiency between them.
+
+Prior to comparing codec video-quality, it is important to understand that every codec can give a varying degree of quality for a given set of frames within a video sequence. Numerous factors play a role in this variability. First, all codecs have a bitrate control mechanism that is responsible for determining the bitrate and quality on a per-frame basis.  A difference between variable bitrate (VBR) and constant bitrate (CBR) creates a trade-off between a consistent quality over all frames, on the one hand, and a more constant bitrate, which is required for some applications, on the other. Second, some codecs differentiate between different types of frames, such as key frames and non-key frames, differing in their importance to overall visual quality and the extent to which they can be compressed. Third, quality depends on prefiltrations, which are included on all present-day codecs. Other factors may also come into play.
+
+For a sufficiently long clip, it is possible to select sequences that have suffered little from the compression, and sequences that have suffered heavily, especially if CBR has been used, whereby the quality between frames can vary highly due to different amounts of compression needed to achieve a constant bitrate. So, in a given long clip, such as a full-length movie, any two codecs may perform quite differently on a particular sequence from the clip, while the codecs may be approximately equal (or the situation reversed) in quality over a wider sequence of frames. Press-releases and amateur forums may sometimes select sequences known to favor a particular codec or style of rate-control in reviews.
+
+Objective video evaluation techniques are mathematical models that seek to predict human judgments of picture quality, as often exemplified by the results of subjective quality assessment experiments. They are based on criteria and metrics that can be measured objectively and automatically evaluated by a computer program. Objective methods are classified based on the availability of an original pristine video signal, which is considered to be of high quality (generally not compressed). Therefore, they can be classified as:
+
+This is concerned with how video is perceived by a viewer, and designates their opinion on a particular video sequence. Subjective video quality tests are quite expensive with regard to time (preparation and running) and human resources.
+
+There are many ways of showing video sequences to experts and recording their opinions. A few of them have been standardized, mainly in ITU-R Recommendation BT.500-13 and ITU-T Recommendation P.910.
+
+The reason for measuring subjective video quality is the same as for measuring the mean opinion score for audio. Opinions of experts can be averaged and the average mark stated as, or accompanied by, a given confidence interval. Additional procedures can be used for averaging. For example, experts whose opinions are considered unstable (such as if their correlation with average opinion is found to be low) may have their opinions rejected.
+
+In the case of video codecs , this is a very common situation. When codecs with similar objective results show results with different subjective results, the main reasons can be:
+
+It is difficult to use long sequences for subjective testing. Commonly, three or four ten-second sequences are used, while full movies are used for objective metrics. Sequence selection is important –  those sequences that are similar to the ones used by developers to tune their codecs are more competitive.
+
+Number of frames per second ( FPS ) commonly used for compression/decompression speed measurement.
+
+The following issues should be considered when estimating probable codec performance differences:
+
+So, for example, codec A (being optimized for memory usage –  i.e., uses less memory) may, on modern computers (which are typically not memory-limited), give slower performance  than codec B. Meanwhile, the same pair of codecs may give opposite results if running on an older computer with reduced memory (or cache) resources.
+
+Modern standards define a wide range of features and require very substantial software or hardware efforts and resources for their implementation. Only selected profiles of a standard are typically supported in any particular product. (This is very common for H.264 implementations, for example.)
+
+The H.264 standard includes the following seven sets of capabilities, which are referred to as profiles , targeting specific classes of applications:
+
+The standard also contains four additional all-Intra profiles , which are defined as simple subsets of other corresponding profiles.  These are mostly for professional (e.g., camera and editing system) applications:
+
+Moreover, the standard now also contains three Scalable Video Coding profiles.
+
+An accurate comparison of codecs must take the profile variations within each codec into account.
+
+See also MPEG-2 Profiles and Levels .
+
+Videocodecs' rate control strategies can be classified as:
+
+Variable bitrate (VBR) is a strategy to maximize the visual video quality and minimize the bitrate. On fast-motion scenes, a variable bitrate uses more bits than it does on slow-motion scenes of similar duration, yet achieves a consistent visual quality. For real-time and non-buffered video streaming when the available bandwidth is fixed –  e.g., in videoconferencing delivered on channels of fixed bandwidth –  a constant bitrate (CBR) must be used.
+
+CBR is commonly used for videoconferences, satellite and cable broadcasting. VBR is commonly used for video CD/DVD creation and video in programs.
+
+Bit rate control is suited to video streaming. For offline storage and viewing, it is typically preferable to encode at constant quality (usually defined by quantization ) rather than using bit rate control.
+
+Note that operating system support does not mean whether video encoded with the codec can be played back on the particular operating system –  for example, video encoded with the DivX codec is playable on Unix-like systems using free MPEG-4 ASP decoders (FFmpeg MPEG-4 or Xvid), but the DivX codec (which is a software product) is only available for Windows and macOS.
+
+List of freely available comparisons and their content description:

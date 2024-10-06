@@ -1,0 +1,49 @@
+Sopogy short for Solar Power Technology was a solar thermal technology supplier founded in 2002 at the Honolulu, Hawaii -based clean technology incubator known as Energy Laboratories. The company began its research on concentrating solar thermal energy to produce solar steam and thermal heat for absorption chillers or industrial process heat. The company has also developed applications that incorporate its solar collectors to generate electricity and desalination . Sopogy's name origin comes from industry key words "So" from so lar "po" from po wer and "gy" from ener gy and technolo gy . The company has its OEM and IPP sales teams along with research and development located in Honolulu, and in 2006 expanded its manufacturing, C&I and oil and gas sales teams in its Silicon Valley facility. Pacific Business News and Greentech Media reported that the VC-funded micro-concentrator solar power firm was shutting down operations based on statements from its President David Fernandez, however Hitachi Power Systems acquired Sopogy in a private transaction in 2014.
+
+Sopogy coined the term "MicroCSP" in which concentrating solar power (CSP) collectors are based on the designs used in traditional concentrating solar power systems found in the Mojave Desert but are smaller in collector size, lighter and operate at lower thermal temperatures usually below 600 °F (316 °C).  These systems are designed for modular field or rooftop installation where they are easy to protect from high winds, snow and humid deployments.
+
+MicroCSP was registered as a trademark of Sopogy.
+
+SopoHelios is Sopogy's high heat classification collector (50-326 degrees C or 122-620 degrees F). It is a single-axis tracking parabolic trough solar collector designed to reduce the cost of ground mounted MicroCSP solar fields. SopoHelios collectors have 7.61 meters squared (82 square feet) of reflective area for greater field efficiency and include a lightweight structural core for improved torsion, strength and durability; component parts for quicker installation; and improved optical efficiency. SopoHelios is used in Solar Thermal Air Conditioning, Power Generation and High Temperature Heat Processes including Hydraulic Fracturing for Natural Gas extraction.
+
+SopoNova is Sopogy's medium heat classification collector (50-270 degrees C or 122-518 degrees F) designed for distributed generation installations that include ground mounting or rooftops. The technology operates similarly to conventional parabolic trough systems used in California since the mid-1980s but modified to reduce the physical size and is similarly manufactured to fluorescent lighting luminaires or automotive parts. The package ships flat and unassembled. The system uses an integrated 270 degree tracking, customized stands, and controls.
+
+Sopogy, Inc. introduced SopoFlare at Solar Power International 2009 in Anaheim. SopoFlare is the first commercially available Concentrating Solar Power technology designed specifically for rooftop installations. The technology is used to create steam, solar thermal air conditioning, drying, dehumidification, desalination, hot water.
+
+SopoLite is a mobile concentrating solar power unit used to collect solar radiation and weather data. In addition the Sopolite can be used to generate energy for portable applications including power, air conditioning or heat.
+
+The name SopoLite supposedly comes from the term Satellite as the device is designed to be a stand-alone instrument. Sopogy is deploying similar SopoLites across the US and around the world in an effort to collect relevant solar data useful for evaluating locations across the globe to determine the quality of their solar resources.
+
+In 2007 a collaboration between Sopogy and Avista Utilities was announced for a MicroCSP deployment at the Avista Clean Energy Test Site.
+
+In 2008, a joint announcement between Sopogy of the US, Inypsa of Spain and Omniwatt of Germany was made discussing a 50 megawatt project in Toledo Spain.
+
+In 2009, Sopogy inaugurated Holaniku at Keahole Point, a 2 megawatt MicroCSP Solar Thermal Plant project on the Big Island of Hawaii at the Natural Energy Laboratory of Hawaii Authority . This project is connected to the Hawaiian Electric Industries grid under a power purchase agreement and is only one of a small handful of grid connected solar thermal power plants in the United States.  It was also the first MicroCSP Power project in the world. According to Jay Holman, lead analyst for IDC Energy Insights' Renewable Energy Strategies program, "The HKP project was an important test of the feasibility of the micro CSP approach in general, and Sopogy's approach in particular … only time will tell if the company will be able to compete in a world of rapidly falling costs for PV plants."
+
+Also in 2009, Sopogy introduced a solar air conditioning project with Southern California Gas Company .
+
+In 2010, Sopogy completed a hybrid electricity and H 2 O system at Eckerd College in St. Petersburg Florida. Masdar City in Abu Dhabi successfully activated a 50-ton air conditioning system driven by Sopogy's MicroCSP collectors. In November of that year Kalaeloa Solar One and the State of Hawaii Department of Hawaiian Homelands announced a 5 MW electrical project using Sopogy Solar technologies. In December 2010, Yu Hao Long announced a memorandum of understanding to purchase 200 MW of Sopogy's solar technology for the development of a concentrating solar power project with the Chinese national grid.
+
+In 2011, the Fort Bliss Air Force Base in Texas installed a 40-ton MicroCSP air conditioning system. Johnson Controls and SunQuest implemented the project with 84 SopoNova collectors.
+
+In January 2008 Sopogy was named the "Venture Capital Deal of the Year".
+
+In July 2008 Sopogy was awarded the New Product of the Year Award from the National Society of Professional Engineers for its SopoNova 4.0 product.  This was the first solar technology to have received the award.  Past recipients include Boeing for the 777 and Mercedes Benz for the M-Class.
+
+In September 2008 Sopogy was selected as a finalist for Platt's Global Energy Awards.
+
+In 2008, Sopogy won the Pacific Business News ' Business Leadership Award for Innovative Company of the Year.
+
+Also in 2008 it was the recipient of Hawaii Governor's Innovation Award.
+
+In March 2009, Sopogy's SopoNova 4.0 product was selected as the winner of Plant Engineering magazine's Product of the Year 2008 Gold Award.
+
+In 2010, Sopogy was awarded the Hawaii Business magazine Smallbiz Success Award.
+
+In 2011, Sopogy won the APEC 2011 Hawaii Business Innovation Showcase award for Honolulu.
+
+In 2012, Sopogy was awarded the "Deal of the Year" by the Hawaii Venture Capital Association.
+
+The company has secured five rounds of venture capital investment totaling over $40 million including its most recent Series E financing led by Mitsui & Co, Ltd. a financial investor based in Tokyo, Japan and including 3M, Sempra Energy and MEMC/SunEdison. Past investors include eBay founder Pierre Omidyar .
+
+In 2007 Sopogy was authorized $10 million in special purpose revenue bonds by the State of Hawaii. and in 2008 the company received an additional $35 million.

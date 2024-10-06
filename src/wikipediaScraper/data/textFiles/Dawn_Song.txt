@@ -1,0 +1,13 @@
+Dawn Song is a Chinese American academic and is a professor at the University of California, Berkeley , in the Electrical Engineering and Computer Science Department.
+
+She received a MacArthur Foundation Fellowship in 2010.
+
+Song earned her B.S. (1996) from Tsinghua University , her M.S. (1999) from Carnegie Mellon University , and her Ph.D. (2002) from the University of California, Berkeley .
+
+Song became an assistant professor at Carnegie Mellon University (2002–2007) before joining the faculty at the University of California, Berkeley in 2007.
+
+Song's work addresses the computer security. Previously she worked on web security and systems security, for example working on the DARPA Cyber Grand Challenge , where her team placed among the top seven finalists. Her most recent work is understanding adversarial machine learning, and blockchains.
+
+Song is the Founder of Oasis Labs. At UC Berkeley, Song is the co-Director of the campus-wide center: Berkeley Center for Responsible Decentralized Intelligence (RDI).
+
+Song is the recipient of numerous awards, including a Sloan Fellowship , an NSF CAREER Award , the IBM Faculty Award, a Guggenheim fellowship , and a MacArthur Foundation Fellowship . In 2009, the MIT Technology Review TR35 named Song as one of the top 35 innovators in The World under the age of 35. She was elected as an ACM Fellow in 2019 "for contributions to security and privacy".

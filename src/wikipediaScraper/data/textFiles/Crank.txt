@@ -1,0 +1,60 @@
+A crank is an arm attached at a right angle to a rotating shaft by which circular motion is imparted to or received from the shaft. When combined with a connecting rod, it can be used to convert circular motion into reciprocating motion, or vice versa. The arm may be a bent portion of the shaft, or a separate arm or disk attached to it. Attached to the end of the crank by a pivot is a rod, usually called a connecting rod (conrod).
+
+The term often refers to a human-powered crank which is used to manually turn an axle, as in a bicycle crankset or a brace and bit drill. In this case a person's arm or leg serves as the connecting rod, applying reciprocating force to the crank. There is usually a bar perpendicular to the other end of the arm, often with a freely rotatable handle or pedal attached.
+
+Familiar examples include:
+
+Almost all reciprocating engines use cranks (with connecting rods ) to transform the back-and-forth motion of the pistons into rotary motion. The cranks are incorporated into a crankshaft .
+
+It was thought that evidence of the earliest true crank handle was found in a Han era glazed-earthenware tomb model of an agricultural winnowing fan dated no later than 200 AD, but since then a series of similar pottery models with crank operated winnowing fans were unearthed, with one of them dating back to the Western Han dynasty (202 BC – 9 AD). The Chinese used the crank-and-connecting rod in ancient blasting apparatus, textile machinery and agricultural machinery no later than the Western Han dynasty (202 BC – 9 AD). It was first used in the manually operated quern and long (grain decortication item) before evolving into other devices. According to F. Lisheng and T. Qingjun, the hand-crank of the rotary quern was different from a crank, which was the combination of a hand-crank and a push-and-pull connecting rod by a hinge. Eventually crank-and-connecting rods were used in the inter-conversion or rotary and reciprocating motion for other applications such as flour-sifting, treadle spinning wheels, water-powered furnace bellows, and silk-reeling machines.
+
+Ancient Egyptians had manual drills resembling a crank at the time of the Old Kingdom (2686–2181 BCE) and even a hieroglyph for the tool. However the Ancient Egyptian drill didn't operate as a true crank.
+
+Later evidence for the crank, combined with a connecting rod in a machine, appears in the Ancient Greek Hierapolis sawmill in Roman Asia from the 3rd century AD and two stone sawmills at Gerasa , Roman Syria , and Ephesus , Greek Ionia under Rome, (both 6th century AD). On the pediment of the Hierapolis mill, a waterwheel fed by a mill race is shown powering via a gear train two frame saws which cut rectangular blocks by the way of some kind of connecting rods and, through mechanical necessity, cranks. The accompanying inscription is in Greek . The crank and connecting rod mechanisms of the other two archaeologically attested sawmills worked without a gear train.
+
+The crank appears in the mid-9th century in several of the hydraulic devices described by the Banū Mūsā brothers in their Book of Ingenious Devices . These devices, however, made only partial rotations and could not transmit much power, although only a small modification would have been required to convert it to a crankshaft .
+
+Al-Jazari (1136–1206) described a crank and connecting rod system in a rotating machine in two of his water-raising machines. His twin-cylinder pump incorporated a crankshaft. A crank is later also described in an early 15th century Arabic manuscript of Hero of Alexandria 's Mechanics .
+
+The first rotary hand mills, or rotary querns, appeared in Spain (600 BC – 500 BC), before they spread to the East. The handle near the outer edge of the rotary part makes the crank, a human arm powering the rotation would be the connecting rod. According to F. Lisheng and T. Qingjun, the hand-crank of the rotary quern was different from a crank, which was the combination of a hand-crank and a push-and-pull connecting rod by a hinge.
+
+The Antikythera mechanism, dated to around 200 BC, used a crank as a part of its mechanism. The crank was used to manually setup the starting date for a prediction.
+
+Later evidence for the crank, combined with a connecting rod in a machine, appears in the Ancient Greek Hierapolis sawmill in Roman Asia from the 3rd century AD and two stone sawmills at Gerasa , Roman Syria , and Ephesus , Greek Ionia under Rome, (both 6th century AD). On the pediment of the Hierapolis mill, a waterwheel fed by a mill race is shown powering via a gear train two frame saws which cut rectangular blocks by the way of some kind of connecting rods and, through mechanical necessity, cranks. The accompanying inscription is in Greek . The crank and connecting rod mechanisms of the other two archaeologically attested sawmills worked without a gear train.
+
+A Roman iron crank of yet unknown purpose dating to the 2nd century AD was excavated in Augusta Raurica , Switzerland . The 82.5 cm (32 inches) long piece has fitted to one end a 15 cm (6 inches) long bronze handle, the other handle being lost.
+
+An true iron crank about 40 cm (16 inches) long was excavated, along with a pair of shattered mill-stones of 50 to 65 cm (20 to 26 inches) diameter and diverse iron items, in Aschheim , close to Munich . The crank-operated Roman mill is dated to the late 2nd century AD. However an often cited modern reconstruction of a bucket-chain pump driven by hand-cranked flywheels from the Nemi ships has been dismissed as "archaeological fantasy".
+
+In ancient literature, there is a reference to the workings of water-powered marble saws close to Trier , now Germany , by the late 4th century poet Ausonius ; about the same time, these mill types seem also to be indicated by the Greek Christian saint Gregory of Nyssa from Anatolia , demonstrating a diversified use of water-power in many parts of the Roman Empire The three finds push back the date of the invention of the crank and connecting rod by a full millennium:
+
+With the crank and connecting rod system, all elements for constructing a steam engine (invented in 1712) — Hero 's aeolipile (generating steam power), the cylinder and piston (in metal force pumps), non-return valves (in water pumps), gearing (in water mills and clocks) — were known in Roman times.
+
+A rotary grindstone − the earliest representation of one − which is operated by a crank handle is shown in the Carolingian manuscript Utrecht Psalter ; the pen drawing of around 830 goes back to a late antique original. A musical tract ascribed to the abbot Odo of Cluny ( c. 878 −942) describes a fretted stringed instrument which was sounded by a resined wheel turned with a crank; the device later appears in two 12th century illuminated manuscripts. There are also two pictures of Fortuna cranking her wheel of destiny from this and the following century.
+
+The use of crank handles in trepanation drills was depicted in the 1887 edition of the Dictionnaire des Antiquités Grecques et Romaines and ascribed to the Spanish Muslim surgeon Abu al-Qasim al-Zahrawi ; however, the existence of such a device cannot be confirmed by the original illuminations and thus has to be discounted. The Benedictine monk Theophilus Presbyter (c. 1070−1125) described crank handles "used in the turning of casting cores".
+
+The Italian physician Guido da Vigevano (c. 1280−1349), planning for a new crusade, made illustrations for a paddle boat and war carriages that were propelled by manually turned compound cranks and gear wheels (center of image). The Luttrell Psalter , dating to around 1340, describes a grindstone which was rotated by two cranks, one at each end of its axle; the geared hand-mill, operated either with one or two cranks, appeared later in the 15th century;
+
+Medieval cranes were occasionally powered by cranks, although more often by windlasses .
+
+The crank became common in Europe by the early 15th century, often seen in the works of those such as the German military engineer Konrad Kyeser . Devices depicted in Kyeser's Bellifortis include cranked windlasses (instead of spoke-wheels) for spanning siege crossbows, cranked chain of buckets for water-lifting and cranks fitted to a wheel of bells. Kyeser also equipped the Archimedes screws for water-raising with a crank handle, an innovation which subsequently replaced the ancient practice of working the pipe by treading. The earliest evidence for the fitting of a well-hoist with cranks is found in a miniature of c. 1425 in the German Hausbuch of the Mendel Foundation .
+
+The first depictions of the compound crank in the carpenter's brace appear between 1420 and 1430 in various northern European artwork. The rapid adoption of the compound crank can be traced in the works of the Anonymous of the Hussite Wars , an unknown German engineer writing on the state of the military technology of his day: first, the connecting-rod, applied to cranks, reappeared, second, double compound cranks also began to be equipped with connecting-rods and third, the flywheel was employed for these cranks to get them over the 'dead-spot'.
+
+One of the drawings of the Anonymous of the Hussite Wars shows a boat with a pair of paddle-wheels at each end turned by men operating compound cranks (see above). The concept was much improved by the Italian engineer and writer Roberto Valturio in 1463, who devised a boat with five sets, where the parallel cranks are all joined to a single power source by one connecting-rod, an idea also taken up by his compatriot Francesco di Giorgio .
+
+In Renaissance Italy , the earliest evidence of a compound crank and connecting-rod is found in the sketch books of Taccola , but the device is still mechanically misunderstood. A sound grasp of the crank motion involved demonstrates a little later Pisanello who painted a piston-pump driven 
+by a water-wheel and operated by two simple cranks and two connecting-rods.
+
+The 15th century also saw the introduction of cranked rack-and-pinion devices, called cranequins, which were fitted to the crossbow 's stock as a means of exerting even more force while spanning the missile weapon (see right). In the textile industry, cranked reels for winding skeins of yarn were introduced.
+
+Around 1480, the early medieval rotary grindstone was improved with a treadle and crank mechanism. Cranks mounted on push-carts first appear in a German engraving of 1589.
+
+From the 16th century onwards, evidence of cranks and connecting rods integrated into machine design becomes abundant in the technological treatises of the period: Agostino Ramelli 's The Diverse and Artifactitious Machines of 1588 alone depicts eighteen examples, a number which rises in the Theatrum Machinarum Novum by Georg Andreas Böckler to 45 different machines, one third of the total.
+
+Cranks were formerly common on some machines in the early 20th century; for example almost all phonographs before the 1930s were powered by clockwork motors wound with cranks. Reciprocating piston engines use cranks to convert the linear piston motion into rotational motion. Internal combustion engines of early 20th century automobiles were usually started with hand cranks (known as starting handles in the UK ), before electric starters came into general use. The last car model which incorporated a crank was the Citroën 2CV 1948-1990
+
+The 1918 Reo owner's manual describes how to hand crank the automobile:
+
+A crank axle is a crankshaft which also serves the purpose of an axle . It is used on steam locomotives with inside cylinders.

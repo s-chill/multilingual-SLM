@@ -1,0 +1,3 @@
+The following tables compare general and technical information for many wiki software packages.
+
+Systems listed on a light purple background are no longer in active development.

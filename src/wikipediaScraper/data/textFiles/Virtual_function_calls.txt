@@ -1,0 +1,37 @@
+In object-oriented programming such as is often used in C++ and Object Pascal , a virtual function or virtual method is an inheritable and overridable function or method that is dispatched dynamically . Virtual functions are an important part of (runtime) polymorphism in object-oriented programming (OOP). They allow for the execution of target functions that were not precisely identified at compile time.
+
+Most programming languages, such as JavaScript , PHP and Python , treat all methods as virtual by default and do not provide a modifier to change this behavior. However, some languages provide modifiers to prevent methods from being overridden by derived classes (such as the final and private keywords in Java and PHP ).
+
+The concept of the virtual function solves the following problem:
+
+In object-oriented programming , when a derived class inherits from a base class, an object of the derived class may be referred to via a pointer or reference of the base class type instead of the derived class type. If there are base class methods overridden by the derived class, the method actually called by such a reference or pointer can be bound (linked) either "early" (by the compiler), according to the declared type of the pointer or reference, or "late" (i.e., by the runtime system of the language), according to the actual type of the object is referred to.
+
+Virtual functions are resolved "late". If the function in question is "virtual" in the base class, the most-derived class's implementation of the function is called according to the actual type of the object referred to, regardless of the declared type of the pointer or reference. If it is not "virtual", the method is resolved "early" and selected according to the declared type of the pointer or reference.
+
+Virtual functions allow a program to call methods that don't necessarily even exist at the moment the code is compiled.
+
+In C++, virtual methods are declared by prepending the virtual keyword to the function's declaration in the base class. This modifier is inherited by all implementations of that method in derived classes, meaning that they can continue to over-ride each other and be late-bound. And even if methods owned by the base class call the virtual method, they will instead be calling the derived method. Overloading occurs when two or more methods in one class have the same method name but different parameters. Overriding means having two methods with the same method name and parameters. Overloading is also referred to as function matching, and overriding as dynamic function mapping.
+
+For example, a base class Animal could have a virtual function Eat . Subclass Llama would implement Eat differently than subclass Wolf , but one can invoke Eat on any class instance referred to as Animal, and get the Eat behavior of the specific subclass.
+
+This allows a programmer to process a list of objects of class Animal , telling each in turn to eat (by calling Eat ), without needing to know what kind of animal may be in the list, how each animal eats, or what the complete set of possible animal types might be.
+
+In C, the mechanism behind virtual functions could be provided in the following manner:
+
+A pure virtual function or pure virtual method is a virtual function that is required to be implemented by a derived class if the derived class is not abstract . Classes containing pure virtual methods are termed "abstract" and they cannot be instantiated directly.  A subclass of an abstract class can only be instantiated directly if all inherited pure virtual methods have been implemented by that class or a parent class. Pure virtual methods typically have a declaration ( signature ) and no definition ( implementation ).
+
+As an example, an abstract base class MathSymbol may provide a pure virtual function doOperation() , and derived classes Plus and Minus implement doOperation() to provide concrete implementations. Implementing doOperation() would not make sense in the MathSymbol class, as MathSymbol is an abstract concept whose behaviour is defined solely for each given kind (subclass) of MathSymbol . Similarly, a given subclass of MathSymbol would not be complete without an implementation of doOperation() .
+
+Although pure virtual methods typically have no implementation in the class that declares them, pure virtual methods in some languages (e.g. C++ and Python) are permitted to contain an implementation in their declaring class, providing fallback or default behaviour that a derived class can delegate to, if appropriate.
+
+Pure virtual functions can also be used where the method declarations are being used to define an interface - similar to what the interface keyword in Java explicitly specifies. In such a use, derived classes will supply all implementations. In such a design pattern , the abstract class which serves as an interface will contain only pure virtual functions, but no data members or ordinary methods. In C++, using such purely abstract classes as interfaces works because C++ supports multiple inheritance . However, because many OOP languages do not support multiple inheritance, they often provide a separate interface mechanism. An example is the Java programming language .
+
+Languages differ in their behavior while the constructor or destructor of an object is running. For this reason, calling virtual functions in constructors is generally discouraged.
+
+In C++, the "base" function is called. Specifically, the most derived function that is not more derived than the current constructor or destructor's class is called. If that function is a pure virtual function, then undefined behavior occurs. This is true even if the class contains an implementation for that pure virtual function, since a call to a pure virtual function must be explicitly qualified. A conforming C++ implementation is not required (and generally not able) to detect indirect calls to pure virtual functions at compile time or link time . Some runtime systems will issue a pure virtual function call error when encountering a call to a pure virtual function at run time .
+
+In Java and C#, the derived implementation is called, but some fields are not yet initialized by the derived constructor (although they are initialized to their default zero values). Some design patterns , such as the Abstract Factory Pattern , actively promote this usage in languages supporting this ability.
+
+Object-oriented languages typically manage memory allocation and de-allocation automatically when objects are created and destroyed. However, some object-oriented languages allow a custom destructor method to be implemented, if desired. If the language in question uses automatic memory management, the custom destructor (generally called a finalizer in this context) that is called is certain to be the appropriate one for the object in question. For example, if an object of type Wolf that inherits Animal is created, and both have custom destructors, the one called will be the one declared in Wolf.
+
+In manual memory management contexts, the situation can be more complex, particularly in relation to static dispatch . If an object of type Wolf is created but pointed to by an Animal pointer, and it is this Animal pointer type that is deleted, the destructor called may actually be the one defined for Animal and not the one for Wolf, unless the destructor is virtual. This is particularly the case with C++, where the behavior is a common source of programming errors if destructors are not virtual.

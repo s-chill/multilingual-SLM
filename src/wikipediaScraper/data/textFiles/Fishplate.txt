@@ -1,0 +1,11 @@
+A fishplate , splice bar or joint bar is a metal connecting plate used to bolt the ends of two rails into a continuous track . The name is derived from fish , a wooden reinforcement of a "built-up" ship's mast that helped round out its desired profile. The top and bottom faces taper inwards along their short dimensions to create an even alignment between the two rails when the fish plate is wedged into place by tightening its bolts during installation.
+
+In rail transport modelling , a fishplate is often a small copper or nickel silver plate that slips onto both rails to provide the functions of maintaining alignment and electrical continuity.
+
+The device was invented by William Bridges Adams in May 1842, because of his dissatisfaction with the scarf joints and other systems of joining rails then in use. He noted that to form the scarf joint the rail was halved in thickness at its ends, where the stress was greatest. It was first deployed on the Eastern Counties Railway in 1844, but only as a wedge between the adjoining rails. Adams and Robert Richardson patented the invention in 1847, but in 1849 James Samuel , the engineer of the ECR, developed fishplates that could be bolted to the rails.
+
+The moving blades of a railroad switch can be connected to the closure rails by looser-than-normal fishplates. This is called a heeled switch. Alternatively, the blade and closure rail can be a one-piece heel-less switch, with a flexible thinned section to create the moving heel.
+
+When railway lines are equipped with track circuits , or where the line is electrified for electric traction , the electrical connection provided by fishplates is poor and unreliable and has to be supplemented by bonding wire spanning the joined rails fixed by spot welding or other means.
+
+An improvement over fishplate rail connectors is directly bonding rails together using thermite or flash butt welding. In 1967, the Hither Green rail crash occurred on the Southern Region of British Railways when a rail fractured at its fishplate joint. The crash accelerated welded rail connections, with strict procedures on concrete and wooden sleepers .

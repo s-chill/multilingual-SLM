@@ -1,0 +1,19 @@
+In broadcasting , a transposer or translator is a device in or beyond the service area of a radio or television station transmitter that rebroadcasts signals to receivers which can’t properly receive the signals of the transmitter because of a physical obstruction (like a hill). A translator receives the signals of the transmitter and rebroadcasts the signals to the area of poor reception. Sometimes  the translator is also called a relay transmitter , rebroadcast transmitter or transposer. Since translators are used to cover a small shadowed area, their output powers are usually lower than that of the radio or television station transmitters feeding them.
+
+Reception of RF signals is sensitive to the size of obstruction in the path between the transmitter and the receiver. Generally speaking, if the size exceeds the wavelength the reception is interrupted. Since the wavelength is inversely proportional to frequency , it follows than that the higher frequency broadcast is more sensitive to objects between the transmitter and receiver. If the transmitter and the receiver were at the opposite sides of a hill, MW radio signals may  be received,  but UHF TV signals won’t be received at all.  That’s why translators are mostly employed for VHF and UHF broadcasting ( television and FM radio ).
+
+Broadcast station transmitters have the following stages:
+
+FM and TV translator stations have the following stages.
+
+The output stages of both devices are similar, but the input stages are quite different. There is no baseband audio or video input to the translator.  The translator receives an over-the air RF input signal by means of an antenna , just like a home receiver. Since received signal is already modulated there is no need for a modulator. Instead an input mixer or down-converter shifts the radio-frequency (RF) signal down to an intermediate-frequency (IF) signal.  A second mixer (known as output mixer or up-converter) shifts the IF signal back up to the FM or TV band output signal frequency.
+
+In order to stabilize the output power, the amplification of the input RF signal is automatically controlled by PIN diodes If the frequency of the output signal were to be set equal to the frequency of the input RF signal, the output RF would feed back from the output antenna to the input antenna and the input stage would overload, completely blocking out the translator. Because of this, the translator output frequency must be different from the input signal frequency. Input and output band-pass filters further isolate the two signals.
+
+In North America FM and TV translators were common before satellite broadcasting. With the introduction of satellite broadcasting ( TVRO and RRO ), some TV translator operators abandoned their stations or switched over to low power TV station (LPTV) licenses because of the higher broadcast quality provided by non-over-the-air input program streams.
+
+With the operation of an FM or TV translator being less expensive than the same power full-service station they remained an attractive signal delivery alternative.
+
+The transition from the analog NTSC television broadcasting standard to the digital ATSC standard resulted in a resurgence in popularity of TV translator systems in the United States.
+
+The introduction of In-band on-channel (IBOC) hybrid analog digital FM (HDFM) technologies provided further opportunities for translator system operators.

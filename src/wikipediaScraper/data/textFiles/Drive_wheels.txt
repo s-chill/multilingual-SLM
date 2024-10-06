@@ -1,0 +1,34 @@
+A drive wheel is a wheel of a motor vehicle that transmits force, transforming torque into tractive force from the tires to the road, causing the vehicle to move. The powertrain delivers enough torque to the wheel to overcome stationary forces, resulting in the vehicle moving forwards or backwards.
+
+A two-wheel drive vehicle has two driven wheels, typically both at the front or back, while a four-wheel drive has four.
+
+A steering wheel is a wheel that turns to change the direction of a vehicle.  A trailer wheel is one that is neither a drive wheel, nor a steer wheel. Front-wheel drive vehicles typically have the rear wheels as trailer wheels.
+
+Front-wheel drive (FWD) vehicles' engines drive the front wheels. Using the front wheels for delivery of power as well as steering allows the driving force to act in the same direction as the wheel is pointing. This layout is commonly used in modern passenger cars .
+
+A rare example of front wheel drive was the Opperman Motocart . This slow-speed agricultural and light freight vehicle was a tricycle with the front wheel carrying a large tractor tyre. The wheel was powered by a small single cylinder Douglas engine carried on the front mono fork that formed the steering gear .
+
+See also Front-engine, front-wheel drive layout .
+
+Rear-wheel drive (RWD) typically places the engine in the front of the vehicle, with a driveshaft running the length of the vehicle to the differential transmission. However, mid engine and rear engine layouts can also be used.
+
+It was a common layout used in automobiles throughout the 20th century. At this time, FWD designs were not practical due to complexity (in FWD, engine power and steering must both be combined in the front axle).
+
+For four-wheeled vehicles, two-wheel drive describes vehicles that transmit torque to at most two road wheels, referred to as either front- or rear-wheel drive . The term 4x2 is also used, to indicate four total road-wheels with two being driven.
+
+For vehicles that have partial four-wheel drive, the term two-wheel drive refers to the mode when four-wheel drive is deactivated and torque is applied to only two wheels.
+
+This configuration allows all four road wheels to receive torque from the power plant simultaneously. It is often used in rally racing on mostly paved roads.
+
+Four-wheel drive is common in off-road vehicles because powering all four wheels provides better control on loose and slippery surfaces. Four-wheel drive manufacturers have different systems such as "High Range 4WD" and "Low Range 4WD". These systems may provide added features such as a varying of torque distribution between axles or varying gear ratios.
+
+Common terms for this configuration include four-wheel drive, 4WD, 4x4 (pronounced "four-by-four"), integral, and all-wheel drive (AWD).
+
+Ten-wheel drive (10WD, 10×10) is a drivetrain configuration of ten wheels, all of which are driven simultaneously by the engine.
+Unlike four-wheel drive drivetrains, this configuration is only used in extreme off-road and military uses, in particular heavy haulage and missile carriers. Some severe/extreme duty semi tractors may also have this drive configuration.
+
+The Oshkosh M1074 and M1075 prime mover units in the U.S. Army's Palletized Load System (PLS), the U.S. Marine's 10x10 Oshkosh Logistic Vehicle System Replacement (LVSR) , and the Tatra T816 10×10 cargo carrier are examples of ten-wheel drive vehicles.
+
+10x10's are not as common as 4×4's , 6×6's and 8×8's .
+
+Twelve-wheel drive (12WD, 12×12), refers to a twelve-wheeled vehicle with a drivetrain that allows all twelve wheels to receive power from the engine simultaneously. This configuration is typically used in heavy-duty and extreme off-road and military purposes.

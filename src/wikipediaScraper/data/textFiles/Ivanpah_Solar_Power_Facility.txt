@@ -1,0 +1,79 @@
+The Ivanpah Solar Electric Generating System is a concentrated solar thermal plant in the Mojave Desert . It is located at the base of Clark Mountain in California , across the state line from Primm, Nevada . The plant has a gross capacity of 392 megawatts (MW). It uses 173,500 heliostats , each with two mirrors focusing solar energy on boilers located on three 459 feet (140 m) tall solar power towers . The first unit of the system was connected to the electrical grid in September 2013 for an initial synchronisation test. The facility formally opened on February 13, 2014. In 2014, it was the world's largest solar thermal power station.
+
+The $2.2 billion facility was developed by BrightSource Energy and Bechtel . The largest investor in the project was NRG Energy which contributed $300 million. Google contributed $168 million. The United States government provided a $1.6 billion loan guarantee and the plant is built on public land. In 2010, the project was scaled back from its original 440 MW design to avoid disturbing the habitat of the desert tortoise .
+
+The Ivanpah system consists of three solar thermal power plants on 3,500 acres (1,400 ha) of public land near the California–Nevada border in the Southwestern United States . Initially it was planned with 440 MW gross on 4,000 acres (1,600 ha) of land, but then downgraded by 12%. It is near Interstate 15 and north of Ivanpah, California . The facility is visible from the adjacent Mojave National Preserve , the Mesquite Wilderness, and the Stateline Wilderness . It is also visible from the Primm Valley resort area to the northeast.
+
+Fields of heliostat mirrors focus sunlight on receivers located on centralized solar power towers. The receivers generate steam to drive specially adapted steam turbines .
+
+For the first plant, the largest-ever fully solar-powered steam turbine generator set was ordered, with a 123 MW Siemens SST-900 single-casing reheat turbine. Siemens also supplied instrumentation and control systems. The plants use BrightSource Energy 's "Luz Power Tower 550" (LPT 550) technology which heats the steam to 550 °C directly in the receivers. The plants have no storage .
+
+Final approval for the project was granted in October 2010. On October 27, 2010, Governor of California , Arnold Schwarzenegger , Interior Secretary Ken Salazar , and other dignitaries gathered in the Mojave Desert to break the ground for the construction.
+
+The project, which had a total cost of about $2.18 billion, received a $1.6 billion loan guarantee from the United States Department of Energy . The facility developed contracts to sell about two-thirds of the power it generated to the Pacific Gas and Electric Company (PG&E), and the rest to Southern California Edison (SCE).
+
+The largest investor in the project was NRG Energy , a generating company based in Princeton, New Jersey . It contributed $300 million. The project also received an investment of $168 million from Google . However, in November 2011, Google announced that it would no longer invest in the facility due to the rapid decline of the price of photovoltaic systems . $90,000,000 in financing was provided through the EB-5 Investor Immigration program , managed in this case by CMB Regional Centers.
+
+The plant burns natural gas each morning to commence operation. The Wall Street Journal reported, "Instead of ramping up the plant each day before sunrise by burning one hour's worth of natural gas to generate steam, Ivanpah needs more than four times that much." On August 27, 2014, the State of California approved Ivanpah to increase its annual natural gas consumption from 328,000,000 cubic feet (9,300,000 m ) of natural gas, as previously approved, to 525,000,000 cubic feet (14,900,000 m ). In 2014, the plant burned 868 × 10 British thermal units (254 GWh) of natural gas emitting 46,084 metric tons of carbon dioxide, which is nearly twice the pollution threshold at which power plants and factories in California are required to participate in the state's cap and trade program to reduce carbon emissions. If that fuel had been used in a Combined Cycle Gas Turbine (CCGT) plant, it would have generated about 124 GWh of electrical energy. The facility used that gas plus solar energy to produce 419 GWh of electrical energy (more than three times that of the referenced CCGT plant), all the while operating at well below its expected output. In 2015, the facility showed higher production numbers, with Q1 increases of 170% over the same time period in 2014.
+
+The facility uses three Rentech Type-D water tube boilers and three night time preservation boilers. The California Energy Resources Conservation and Development Commission approved for each a stack "130 feet (40 m) high and 60 inches (1.5 m) in diameter" and consumption of 242,500 cu ft/h (6,870 m /h)  of fuel.
+
+BrightSource estimated that the Ivanpah facility would provide 1,000 jobs at the peak of construction, 86 permanent jobs, and total economic benefits of $3 billion. Elected San Bernardino County Supervisor Brad Mitzelfelt, who represents most of the California Mojave Desert, stated that the "project would create jobs for mostly Las Vegas and electricity for mostly San Francisco".
+
+The project received a $1.6 billion loan guarantee from the United States Department of Energy . According to Synapse Energy Economics, the estimated construction cost for the facility of $5,561.00 per kW fell between that of coal and nuclear power plants. but this does not account for the less favorable capacity factor of solar power.
+
+In November 2014, the facility's investors applied for a $539 million federal grant to finance their federal loan.
+
+Contracted power-delivery performance of 640 GWh/year from Units 1 and 3 and 336 GWh from Unit 2 was met by 2017, following sharply reduced production in the first few years of operation, particularly in the start-up year of 2014.
+
+In November 2014, the Associated Press reported that the facility was producing only "about half of its expected annual output". The California Energy Commission issued a statement blaming this on "clouds, jet contrails and weather". Performance improved in 2015 to about 650 GWh. However, NRG Energy said in its November quarterly report that Ivanpah would likely not meet its contractual obligations to provide power to PG&E during the year, raising the risk of default on its Power Purchase Agreement. PG&E had a contract to receive 640 GWh/year from Units 1 and 3, while SCE was supposed to receive 336 GWh from Unit 2, at a price of about $200/MWh (20¢/kWh). In March 2016, PG&E agreed not to declare the plant in default for at least four months in return for an undisclosed sum from the owners.
+
+In June 2015, The Wall Street Journal reported, "15 months after starting up, the plant is producing just 40% of [its expected more than a million megawatt-hours of electricity each year], according to data from the U.S. Energy Department." Performance improved dramatically in the second year. CleanTechnica reported with respect to units 1 and 3 that "in 2015, PG&E customers received about 97% of Ivanpah's contracted electrons, which is a massive improvement over its first year".
+
+By 2017, due to improvements, the plant was meeting the contract output requirements.
+
+The steam plant was designed for 28.72% gross efficiency. The local irradiance near the area is about 7.4 kWh/m /day (annual average) for a total solar energy flow in the visible spectrum of 2.717 MWh/m yearly.
+
+One heliostat mirror is a 75.6 square feet (7.02 m ) reflecting surface, giving a total of 151.2 square feet (14.05 m ) per heliostat. The total plant heliostat reflecting surface results in 173,500 heliostats × 14.05 m /heliostat = 2,437,144 m . If the mirrors could always be perpendicular to Sun's ray, based on irradiance, the intercepted solar energy flow is 2.717 MWh/m /year × 2,437,144 m = 6,621,720 MWh yearly.
+
+On May 19, 2016, a small fire was reported when misaligned mirrors reflected sunlight into a level of Unit 3 tower not designed to collect power, requiring the tower to shut down for repairs. As another of the three power-generating units was already offline for scheduled maintenance, the plant was left with only one third of its installation functional. Unit 3 resumed operation on June 8, 2016. All three units were back in operation by June 20, 2016. Solar thermal electricity production in California peaked at 703 MW on that day, up from 452 MW on June 7 when two units were offline.
+
+In August 2014, Ivanpah was awarded the "Plant of the Year" award from Power magazine. In February 2012, Ivanpah was awarded the CSP (Concentrating Solar Power) Project of the Year by Solar Power Generation USA.
+
+The project generated controversy because of the decision to build it on ecologically intact desert habitat . The Ivanpah installation was estimated, before operations started, to reduce carbon dioxide emissions by more than 400,000 tons annually. It was designed to minimize impacts on the natural environment compared to some photovoltaic solar facilities because the use of heliostats does not require as much grading of the land. The facility was fenced off to keep out some terrestrial wildlife. However, birds faced the risk of collision with the heliostat mirrors or from burning in solar flux created by the mirror field.
+
+In 2012, the National Parks Conservation Association (NPCA) issued a report on the project, citing water concerns, damage to visual resources, and impacts on important desert species. To conserve scarce desert water, LPT 550 uses air-cooling to convert steam back into water. Compared to conventional wet-cooling, this results in a 90 percent reduction in water usage. The water is then returned to the boiler in a closed process.
+
+Another potential issue is the effect of mirror glare on airplane pilots. Additionally, "the power towers have 'receiver units' at their top on which the mirror fields focus their reflected light. During operation, these receiver units become extremely hot, such that they glow and appear brightly lit. ... Because they are high above the ground, these glowing receiver units will be a visible distraction to persons at many of the KOPs [Key Observation Points], including travelers utilizing I-15."
+
+According to the State of California Energy Resources Conservation and Development Commission Opening Briefs regarding this project, "the project itself is visually imposing. It would cover roughly 4,000 acres [1,600 ha], most of which would be covered with mirror fields. The panoramic expanse of mirror arrays would present strong textural contrast with the intact, natural character of the desert floor [and] would rise to a height of roughly 459 feet [140 m]; an additional 10 to 15 feet [3.0 to 4.6 metres] above that height would consist of lighting to meet Federal Aviation Administration (FAA) requirements."
+
+The Ivanpah Solar power project was built on 6 square miles (16 km ) of public land in the south central Mojave Desert. Project construction was temporarily halted in the spring of 2011 due to the suspected impacts on desert tortoises . Construction resumed when the United States Fish and Wildlife Service (USFWS) found the project was not likely to jeopardize the endangered desert tortoise. BrightSource also installed fencing to keep wildlife out of the area. In 2010, the project was scaled back from the original 440 MW design, to avoid building on the habitat of the desert tortoise.
+
+Many desert tortoises found on the site were relocated to other parts of the Mojave Desert. However, environmentalists raised concerns that relocated tortoises were more likely to die due to the stresses involved.
+
+During the trial of the plant in September 2013, thirty-four dead birds were found at the plant. Fifteen had heavily burned feathers, which staff at the plant referred to as "streamers" because they were burned in flight by the intense radiation from the heliostat mirrors. From February through June 2014, a team of biologists monitoring the number of bird deaths reported a total of 290.
+
+In April 2014, the USFWS reported that 141 dead birds, including peregrine falcon , barn owl and yellow-rumped warbler had been collected at Ivanpah in October 2013. Forty-seven of the birds' deaths were attributed to solar flux. According to a report by the Associated Press, "Ivanpah might act as a 'mega-trap' for wildlife, with the bright light of the plant attracting insects, which in turn attract insect-eating birds that fly to their death in the intensely focused light rays." Bird kill mitigation strategies were considered, including proven, environmentally safe technologies such as avian radars and LRADs to keep birds away from the site, covering ponds to discourage waterbirds from loitering, and clearing additional land around the plant to make it less attractive and more visible to birds in flight. Some of the bird deaths occurred when the plant was in standby-mode, and the mirrors were focused above the tower. This issue was resolved by spreading the focus wider, below damaging intensity.
+
+In April 2015 The Wall Street Journal reported that "biologists working for the state estimated that 3,500 birds died at Ivanpah in the span of a year, many of them burned alive while flying through a part of the solar installment where air temperatures can reach 1,000 degrees Fahrenheit [540 °C]".
+
+In late 2015, Brightsource released the results of the first full year monitoring bird and bat deaths at the Ivanpah solar plant. The company reported that during a year of study supervised by the California Division of Wildlife, the number of observed bird deaths, adjusted upward to account for inefficiencies of the carcass-counting, were around 3,500 bird deaths per year caused by the Ivanpah solar plant. The Ivanpah plant took steps to further reduce bird deaths.
+
+The initial reports of high avian casualties have been disputed ever since initial reports surfaced. In September 2014, for example, Renewable Energy World suggested "With its claim of 28,000 dead birds from Ivanpah, the Associated Press syndicated a story on every front page in America, spreading alarm about concentrated solar power (CSP) plants, which was not grounded in facts, but on one opponent's speculation."
+
+In September 2016, federal biologists said about 6,000 birds die from collisions or immolation annually while chasing flying insects around the facility's towers.
+
+Ivanpah was covered in the 2019 documentary Planet of the Humans .
+
+Ivanpah Solar electric production is as follows (in megawatt-hours, MWh ).
+
+Ivanpah was advertised as designed to produce 940,000 MWh of electricity per year, based on its nameplate capacity and assumed capacity factor. In its second year of operation, Ivanpah's production of 653,122 MWh of net electricity was 69.5 percent of this value, ramping up from 44.6 percent in the first year. The commissioning of a new thermal plants requires up to four years to achieve 100% operating level, from the first grid connection to full production. In its seventh year (2020), the annual production was 91.1% of its advertised value.
+
+Ivanpah Solar's use of gas is as follows, expressed in million British thermal units (Btu) as reported. For comparison to the above charts, 1 MWh is about 3.4 million Btu.
+
+NR = Not reported n/a = Not available
+
+The Ivanpah Solar Power Facility served as inspiration for the HELIOS One solar power plant's physical appearance in the 2010 videogame Fallout: New Vegas .
+
+The facility inspired American rock band The Fray to name their 2014 album Helios . The album art is an aerial photograph of the plant, which also features in the lyric video for Love Don't Die .

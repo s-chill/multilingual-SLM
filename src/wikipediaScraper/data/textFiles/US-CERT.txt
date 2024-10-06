@@ -1,0 +1,33 @@
+The United States Computer Emergency Readiness Team ( US-CERT ) was a team under the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security .
+
+On February 24, 2023, the Cybersecurity and Infrastructure Security Agency (CISA) retired US-CERT and ICS-CERT, integrating CISA’s operational content into a new CISA.gov website that better unifies CISA's mission. CISA will continue to be responsible for coordinating cybersecurity programs within the U.S. government to protect against malicious cyber activity, including activity related to industrial control systems. In keeping with this responsibility, CISA will continue responding to incidents, providing technical assistance, and disseminating timely notifications of cyber threats and vulnerabilities.
+
+US-CERT was a branch of the National Cybersecurity and Communications Integration Center of the Office of Cybersecurity and Communications. US-CERT is responsible for analyzing and reducing cyber threats, vulnerabilities, disseminating cyber threat warning information, and coordinating incident response activities.
+
+The division brings advanced network and digital media analysis expertise to bear on malicious activity targeting the networks within the United States and abroad.
+
+The concept of a national Computer Emergency Response Team (CERT) for the United States was proposed by Marcus Sachs ( Auburn University ) when he was a staff member for the U.S. National Security Council in 2002 to be a peer organization with other national CERTs such as AusCERT and CERT-UK, and to be located in the forthcoming Department of Homeland Security (DHS). At the time the United States did not have a national CERT. Amit Yoran ( Tenable, Inc. , CEO), DHS's first Director of the National Cyber Security Division, launched the United States Computer Emergency Readiness Team (US-CERT) in September 2003 to protect the Internet infrastructure of the United States by coordinating defense against and responding to cyber-attacks . The first Director of the US-CERT was Jerry Dixon ( CrowdStrike , CISO); with the team initially staffed with cybersecurity experts that included Mike Witt ( NASA , CISO), Brent Wrisley (Punch Cyber, CEO), Mike Geide (Punch Cyber, CTO), Lee Rock ( Microsoft , SSIRP Crisis Lead), Chris Sutton ( Export-Import Bank of the United States , CISO & CPO), Jay Brown ( USG , Senior Exec Cyber Operations), Mark Henderson ( IRS , Online Cyber Fraud), Josh Goldfarb (Security Consultant), Mike Jacobs ( Treasury , Director/Chief of Operations), Rafael Nunez ( DHS / CISA ), Ron Dow ( General Dynamics , Senior Program Mgr), Sean McAllister (Network Defense Protection, Founder), Kevin Winter ( Deloitte , CISO-Americas), Todd Helfrich (Attivo, VP), Monica Maher ( Goldman Sachs , VP Cyber Threat Intelligence), Reggie McKinney ( VA ) and several other cybersecurity experts. In January 2007, Mike Witt was selected as the US-CERT Director, who was then followed by Mischel Kwon (Mischel Kwon and Associates) in June 2008. When Mischel Kwon departed in 2009, a major reorganization occurred which created the National Cybersecurity and Communications Integration Center (NCCIC).
+
+US-CERT is the 24-hour operational arm of the NCCIC which accepts, triages, and collaboratively responds to incidents, provides technical assistance to information system operators, and disseminates timely notifications regarding current and potential security threats, exploits , and vulnerabilities to the public via its National Cyber Awareness System (NCAS).
+
+US-CERT operates side-by-side with the Industrial Control Systems Computer Emergency Response Team (ICS-CERT) which deals with security related to industrial control systems . Both entities operate together within NCCIC to provide a single source of support to critical infrastructure stakeholders.
+
+There are five operational aspects which enable US-CERT to meet its objectives of improving the nation’s cybersecurity posture, coordinate cyber information sharing, and proactively manage cyber risks while protecting the constitutional rights of Americans.
+
+This feature is involved with reviewing, researching, vetting and documenting all Computer Network Defense (CND) attributes which are available to US-CERT, both classified and unclassified.
+
+It helps promote improved mitigation resources of federal departments and agencies across the Einstein network by requesting deployment of countermeasures in response to credible cyber threats .
+
+This feature  conducts technical analysis on data provided from partners, constituents, and monitoring systems to understand the nature of attacks, threats, and vulnerabilities , as well as develop tips, indicators, warnings, and actionable information to further US-CERT’s CND mission.
+
+This feature conducts digital forensic examinations and malware artifact analysis (reverse engineering) to determine attack vectors and mitigation techniques, identifies possible threats based on analysis of malicious code and digital media, and provides indicators to mitigate and prevent future intrusions.
+
+This feature informs the CND community on potential threats which allows for the hardening of cyber defenses, as well as, develops near real-time /rapid response community products (e.g., reports , white papers ).
+
+When a critical event occurs, or has been detected, Operations will create a tailored product describing the event and the recommended course of action or mitigation techniques, if applicable, to ensure constituents are made aware and can protect their organization appropriately.
+
+This feature supports NCCIC information sharing, development, and web presence.  It is responsible for establishing and maintaining assured communications, developing and disseminating information, products, and supporting the development and maintenance of collaboration tools .
+
+This feature partners with foreign governments and entities to enhance the global cybersecurity defense posture.  It supports bilateral engagements, such as CERT-to-CERT information sharing/trust building activities, improvements related to global collaboration, and agreements on data sharing standards .
+
+A January 2015 report by Senator Tom Coburn , ranking member of the Committee on Homeland Security and Governmental Affairs , expressed concern that "[US-CERT] does not always provide information nearly as quickly as alternative private sector threat analysis companies".

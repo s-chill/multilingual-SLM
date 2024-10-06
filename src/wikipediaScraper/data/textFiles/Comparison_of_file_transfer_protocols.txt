@@ -1,0 +1,19 @@
+This article lists communication protocols that are designed for file transfer over a telecommunications network .
+
+Protocols for shared file systems —such as 9P and the Network File System —are beyond the scope of this article, as are file synchronization protocols.
+
+A packet-switched network transmits data that is divided into units called packets . A packet comprises a header (which describes the packet) and a payload (the data). The Internet is a packet-switched network, and most of the protocols in this list are designed for its protocol stack , the IP protocol suite .
+
+They use one of two transport layer protocols: the Transmission Control Protocol (TCP) or the User Datagram Protocol (UDP). In the tables below, the "Transport" column indicates which protocol (s) the transfer protocol uses at the transport layer. Some protocols designed to transmit data over UDP also use a TCP port for oversight.
+
+The " Server port " column indicates the port from which the server transmits data. In the case of FTP , this port differs from the listening port. Some protocols—including FTP, FTP Secure , FASP , and Tsunami —listen on a "control port" or "command port", at which they receive commands from the client.
+
+Similarly, the encryption scheme indicated in the "Encryption" column applies to transmitted data only, and not to the authentication system.
+
+The "Managed" column indicates whether the protocol is designed for managed file transfer (MFT). MFT protocols prioritise secure transmission in industrial applications that require such features as auditable transaction records, monitoring, and end-to-end data security . Such protocols may be preferred for electronic data interchange .
+
+In the table below, the data port is the network port or range of ports through which the protocol transmits file data. The control port is the port used for the dialogue of commands and status updates between client and server.
+
+The column "Assigned by IANA" indicates whether the port is listed in the Service Name and Transport Protocol Port Number Registry, which is curated by the Internet Assigned Numbers Authority (IANA). IANA devotes each port number in the registry to a specific service with a specific transport protocol . The table below lists the transport protocol in the "Transport" column.
+
+The following protocols were designed for serial communication , mostly for the RS-232 standard. They are used for uploading and downloading computer files via modem or serial cable (e.g., by null modem or direct cable connection ). UUCP is one protocol that can operate with either RS-232 or the Transmission Control Protocol as its transport.  The Kermit protocol can operate over any computer-to-computer transport: direct serial, modem, or network (notably TCP/IP , including on connections secured by SSL, SSH, or Kerberos). OBject EXchange is a protocol for binary object wireless transfer via the Bluetooth standard. Bluetooth was conceived as a wireless replacement for RS-232.

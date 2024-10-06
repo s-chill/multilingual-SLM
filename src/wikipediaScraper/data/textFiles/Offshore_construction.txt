@@ -1,0 +1,17 @@
+Offshore construction is the installation of structures and facilities in a marine environment, usually for the production and transmission of electricity, oil, gas and other resources. It is also called maritime engineering .
+
+Construction and pre-commissioning is typically performed as much as possible onshore. To optimize the costs and risks of installing large offshore platforms, different construction strategies have been developed.
+
+One strategy is to fully construct the offshore facility onshore, and tow the installation to site floating on its own buoyancy. Bottom founded structure are lowered to the seabed by de-ballasting (see for instance Condeep or Cranefree ), whilst floating structures are held in position with substantial mooring systems.
+
+The size of offshore lifts can be reduced by making the construction modular, with each module being constructed onshore and then lifted using a crane vessel into place onto the platform. A number of very large crane vessels were built in the 1970s which allow very large single modules weighing up to 14,000 tonnes to be fabricated and then lifted into place.
+
+Specialist floating hotel vessels known as flotels or accommodation rigs are used to accommodate workers during the construction and hook-up phases. This is a high cost activity due to the limited space and access to materials.
+
+Oil platforms are key fixed installations from which drilling and production activity is carried out. Drilling rigs are either floating vessels for deeper water or jack-up designs which are a barge with liftable legs. Both of these types of vessel are constructed in marine yards but are often involved during the construction phase to pre-drill some production wells.
+
+Other key factors in offshore construction are the weather windows which define periods of relatively light weather during which continuous construction or other offshore activity can take place. Safety of personnel is another key construction parameter, an obvious hazard being a fall into the sea from which speedy recovery in cold waters is essential. Environmental issues are also often a major concern, and environmental impact assessment may be required during planning.
+
+The main types of vessels used for pipe laying are the " derrick barge (DB)", the " pipelay barge (LB)" and the "derrick/lay barge (DLB)" combination. Closed diving bells in offshore construction are mainly used for saturation diving in water depths greater than 120 feet (40 m), less than that, the surface oriented divers are transported through the water in a wet bell or diving stage (basket), a suspended platform deployed from a launch and recovery system (LARS, or "A" frame) on the deck of the rig or a diving support vessel . The basket is lowered to the working depth and recovered at a controlled rate for decompression. Closed bells can go to 1,500 feet (460 m), but are normally used at 400 to 800 feet (120 to 240 m).
+
+Offshore construction includes foundations engineering , structural design, construction, and/or repair of offshore structures, both commercial and military.

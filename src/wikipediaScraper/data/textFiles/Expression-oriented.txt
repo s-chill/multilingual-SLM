@@ -1,0 +1,13 @@
+An expression-oriented programming language is a programming language in which every (or nearly every) construction is an expression and thus yields a value. The typical exceptions are macro definitions, preprocessor commands, and declarations , which expression-oriented languages often treat as statements .
+
+Lisp and ALGOL 68 are expression-oriented languages. Pascal is not an expression-oriented language.
+
+All functional programming languages are expression-oriented.
+
+Critics, including language designers, blame expression-orientation for an entire class of programming mistakes wherein a programmer accidentally codes an assignment expression , which replaces a variable with an expression rather than testing it for equality with that expression.
+
+The designers of Ada and Java prevent this type of mistake by restricting control expressions to those that evaluate strictly to the boolean data type .
+
+The designers of Python implemented assignment as a statement rather than an expression, thus prohibiting assignment from nesting inside any other statement or expression. (Until version 3.8 added 'assignment expressions', with a different syntax. )
+
+In some expression-oriented languages, expressions that merely cause side effects return void types .

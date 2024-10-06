@@ -1,0 +1,93 @@
+Nuclear power in space is the use of nuclear power in outer space , typically either small fission systems or radioactive decay for electricity or heat. Another use is for scientific observation, as in a Mössbauer spectrometer . The most common type is a radioisotope thermoelectric generator , which has been used on many space probes and on crewed lunar missions. Small fission reactors for Earth observation satellites, such as the TOPAZ nuclear reactor , have also been flown. A radioisotope heater unit is powered by radioactive decay and can keep components from becoming too cold to function, potentially over a span of decades.
+
+The United States tested the SNAP-10A nuclear reactor in space for 43 days in 1965, with the next test of a nuclear reactor power system intended for space use occurring on 13 September 2012 with the Demonstration Using Flattop Fission (DUFF) test of the Kilopower reactor.
+
+After a ground-based test of the experimental 1965 Romashka reactor , which used uranium and direct thermoelectric conversion to electricity, the USSR sent about 40 nuclear-electric satellites into space, mostly powered by the BES-5 reactor. The more powerful TOPAZ-II reactor produced 10 kilowatts of electricity.
+
+Examples of concepts that use nuclear power for space propulsion systems include the nuclear electric rocket (nuclear powered ion thruster (s)), the radioisotope rocket , and radioisotope electric propulsion (REP). One of the more explored concepts is the nuclear thermal rocket , which was ground tested in the NERVA program. Nuclear pulse propulsion was the subject of Project Orion .
+
+After the ban of nuclear weapons in space by the Outer Space Treaty in 1967, nuclear power has been discussed at least since 1972 as a sensitive issue by states. Space nuclear power sources may experience accidents during launch, operation, and end-of-service phases, resulting in the exposure of nuclear power sources to extreme physical conditions and the release of radioactive materials into the Earth's atmosphere and surface environment. For example, all Radioisotope Power Systems (RPS) used in space missions have utilized Pu-238. Plutonium-238 is a radioactive element that emits alpha particles. Although NASA states that it exists in spacecraft in a form that is not readily absorbed and poses little to no chemical or toxicological risk upon entering the human body (e.g. in the design of American spacecraft, plutonium dioxide exists in ceramic form to prevent inhalation or ingestion by humans, and it is placed within strict safety protection systems), it cannot be denied that it may be released and dispersed into the environment, posing hazards to both the environment and human health. Pu-238 primarily accumulates in the lungs, liver, and bones through inhalation of powdered form, thereby posing risks to human health.
+
+There have been several environmental accidents related to space nuclear power in history.
+
+In 1964, a Thor-Ablestar rocket carrying the Transit 5BN-3 satellite failed to reach orbit, destroying the satellite in re-entry over the southern hemisphere. Its one kilogram of plutonium-238 fuel within the SNAP-9A RTG was released into the stratosphere. A 1972 Department of Energy soil sample report attributed 13.4 kilocuries of Pu-238 to the accident, from the one kilogram's 17 kilocuries total. This was contrasted to the 11,600 kilocuries of strontium-90 deposited by all nuclear weapons testing.
+
+In May 1968, a Thor-Agena rocket carrying the Nimbus B satellite was destroyed by a guidance error. Its plutonium SNAP-19 RTG was recovered intact, without leakage from the Pacific sea floor, refurbished, and flown on Nimbus 3 .
+
+In April 1970, the Apollo 13 lunar mission was aborted due to an oxygen tank explosion in the spacecraft's service module. Upon reentering the atmosphere, the lunar module equipped with the SNAP-27 RTG exploded and crashed into the South Pacific Ocean, with no leakage of nuclear fuel. This is the only intact flown nuclear system that remains on Earth without recovery.
+
+In early 1978, the Soviet spacecraft Kosmos 954 , powered by a 45-kilogram highly enriched uranium reactor, went into an uncontrolled descent. Due to the unpredictable impact point, preparations were made for potential contamination of inhabited areas. This event underscored the potential danger of space objects containing radioactive materials, emphasizing the need for strict international emergency planning and information sharing in the event of space nuclear accidents. It also led to the intergovernmental formulation of emergency protocols, such as Operation Morning Light , where Canada and the United States jointly recovered 80 radioactive fragments within a 600-kilometer range in the Canadian Northwest Territories. COSMOS 954 became the first example for global emergency preparedness and response arrangements for satellites carrying nuclear power sources.
+
+The majority of nuclear power systems launched into space remain in graveyard orbits around Earth. Between 1980 and 1989, the BES-5 and TOPAZ-I fission reactors of the Soviet RORSAT program suffered leakages of their liquid sodium–potassium alloy coolant. Each reactor lost on average 5.3 kilograms of its 13 kilogram total coolant, totaling 85 kilograms across 16 reactors. A 2017 ESA paper calculated that, while smaller droplets quickly decay, 65 kilograms of coolant still remain in centimeter-sized droplets around 800 km altitude orbits, comprising 10% of the space debris in that size range.
+
+Orbital fission reactors are a source of significant interference for orbital gamma ray observatories . Unlike RTGs which largely rely on energy from alpha decay , fission reactors produce significant gamma radiation , with the uranium-235 chain releasing 6.3% of its total energy as prompt (shown below) and delayed (daughter product decay) gamma rays:
+
+0 1 n + 92 235 U ⟶ 56 141 Ba + 36 92 Kr + 3 0 1 n + γ {\displaystyle {\begin{array}{r}^{1}_{0}{\text{n}}\ +\ _{92}^{235}{\text{U}}\longrightarrow \ _{56}^{141}{\text{Ba}}\ +\ _{36}^{92}{\text{Kr}}\ +\ 3\ _{0}^{1}{\text{n}}\ +\gamma \end{array}}}
+
+Pair production occurs as these gamma rays interact with reactor or adjacent material, ejecting electrons and positrons into space:
+
+γ + Z ⟶ e + + e − + Z {\displaystyle \gamma +{\text{Z}}\longrightarrow \ e^{+}+e^{-}+{\text{Z}}\ }
+
+These electrons and positrons then become trapped in the magnetosphere's flux tubes , which carry them through a range of orbital altitudes, where the positrons can annihilate with the structure of other satellites, again producing gamma rays:
+
+e + + e − ⟶ γ + γ {\displaystyle e^{+}+e^{-}\longrightarrow \gamma \ +\gamma }
+
+These gamma rays can interfere with satellite instruments. This most notably occurred in 1987, when the TOPAZ-I nuclear reactors (6–10 kWe) aboard the twin RORSAT test vehicles Kosmos 1818 and Kosmos 1867 affected the gamma ray telescopes aboard NASA 's Solar Maximum Mission and the University of Tokyo / ISAS ' Ginga . TOPAZ-I remains the most powerful fission reactor operated in space, with previous Soviet missions using the BES-5 reactor (2–3 kWe) at altitudes well below gamma ray observatories.
+
+The presence of space nuclear sources and the potential consequences of nuclear accidents on humans and the environment cannot be ignored. Therefore, there have been strict regulations for the application of nuclear power in outer space to mitigate the risks associated with the use of space nuclear power sources among governments.
+
+For instance, in the United States, safety considerations are integrated into every stage of the design, testing, manufacturing, and operation of space nuclear systems. The NRC oversee the ownership, use, and production of nuclear materials and facilities. The Department of Energy is bound by the National Environmental Policy Act (NEPA) to consider the environmental impact of nuclear material handling, transportation, and storage. NASA, the Department of Energy, and other federal and local authorities develop comprehensive emergency plans for each launch, including timely public communication. In the event of an accident, monitoring teams equipped with highly specialized support equipment and automated stations are deployed around the launch site to identify potential radioactive material releases, quantify and describe the release scope, predict the quantity and distribution of dispersed material, and develop and recommend protective actions.
+
+At the global level, following the 1978 COSMOS 954 incident, the international community recognized the need to establish a set of principles and guidelines to ensure the safe use of nuclear power sources in outer space. Consequently, in 1992, the General Assembly adopted resolution 47/68, titled "Principles Relevant to the Use of Nuclear Power Sources in Outer Space." These principles primarily address safety assessment, international information exchange and dialogue, responsibility, and compensation. It stipulates that the principles should be revisited by the Committee on the Peaceful Uses of Outer Space no later than two years after adoption. After years of consultation and deliberation, in 2009, the International Safety Framework for Nuclear Power Source Applications in Outer Space was adopted to enhance safety for space missions involving nuclear power sources. It offers guidance for engineers and mission designers, although its effective implementation necessitates integration into existing processes.
+
+The "Safety Framework" asserts that each nation bears responsibility for the safety of its space nuclear power. Governments and international organizations must justify the necessity of space nuclear power applications compared to potential alternatives and demonstrate their usage based on comprehensive safety assessments, including probabilistic risk analysis, with particular attention to the risk of public exposure to harmful radiation or radioactive materials. Nations also need to establish and maintain robust safety oversight bodies, systems, and emergency preparedness to minimize the likelihood and mitigate the consequences of potential accidents. Unlike the 1992 "Principles," the "Safety Framework" applies to all types of space nuclear power source development and applications, not just the technologies existing at the time.
+
+In the draft report on the implementation of the Safety Framework for Nuclear Power Source Applications in Outer Space published in 2023, the working group considers that the safety framework has been widely accepted and demonstrated to be helpful for member states in developing and/or implementing national systems and policies to ensure the safe use of nuclear power sources in outer space. Other member states and intergovernmental organizations not currently involved in the utilization of space nuclear power sources also acknowledge and accept the value of this framework, taking into account safety issues associated with such applications.
+
+While solar power is much more commonly used, nuclear power can offer advantages in some areas. Solar cells, although efficient, can only supply energy to spacecraft in orbits where the solar flux is sufficiently high, such as low Earth orbit and interplanetary destinations close enough to the Sun. Unlike solar cells, nuclear power systems function independently of sunlight, which is necessary for deep space exploration . Nuclear-based systems can have less mass than solar cells of equivalent power, allowing more compact spacecraft that are easier to orient and direct in space. In the case of crewed spaceflight, nuclear power concepts that can power both life support and propulsion systems may reduce both cost and flight time.
+
+Selected applications and/or technologies for space include:
+
+As active electromagnetic detectors including radar observe a power-distance drop-off of P ∝ R − 4 {\displaystyle P\propto R^{-4}} , comparatively low Earth orbits are desirable.
+
+The Soviet Union did not launch interplanetary missions beyond Mars, and generally developed few RTGs. American RTGs in the 1970s supplied power in the 100 W range. For the RORSAT military radar satellites (1967–1988), fission reactors, especially the BES-5 , were developed to supply an average of 2 kW to the radar. At altitudes averaging 255.3 km, they would have rapidly decayed if they had used a large solar array instead.
+
+The later United States Lacrosse/Onyx radar satellite program, beginning launches in 1988, operated at altitudes of 420–718 km. To power radar at this range, a solar array reportedly 45 m in length was operated, speculated to supply 10–20 kW.
+
+For more than fifty years, radioisotope thermoelectric generators (RTGs) have been the United States’ main nuclear power source in space. RTGs offer many benefits; they are relatively safe and maintenance-free, are resilient under harsh conditions, and can operate for decades. RTGs are particularly desirable for use in parts of space where solar power is not a viable power source. Dozens of RTGs have been implemented to power 25 different US spacecraft, some of which have been operating for more than 20 years. Over 40 radioisotope thermoelectric generators have been used globally (principally US and USSR) on space missions.
+
+The advanced Stirling radioisotope generator (ASRG, a model of Stirling radioisotope generator (SRG)) produces roughly four times the electric power of an RTG per unit of nuclear fuel, but flight-ready units based on Stirling technology are not expected until 2028. NASA plans to utilize two ASRGs to explore Titan in the distant future.
+
+Radioisotope power generators include:
+
+Radioisotope heater units (RHUs) are also used on spacecraft to warm scientific instruments to the proper temperature so they operate efficiently. A larger model of RHU called the General Purpose Heat Source (GPHS) is used  to power RTGs and the ASRG.
+
+Extremely slow-decaying radioisotopes have been proposed for use on interstellar probes with multi-decade lifetimes.
+
+As of 2011, another direction for development was an RTG assisted by subcritical nuclear reactions.
+
+Fission power systems may be utilized to power a spacecraft's heating or propulsion systems. In terms of heating requirements, when spacecraft require more than 100 kW for power, fission systems are much more cost effective than RTGs.
+
+In 1965, the US launched a space reactor, the SNAP-10A , which had been developed by Atomics International , then a division of North American Aviation .
+
+Over the past few decades, several fission reactors have been proposed, and the Soviet Union launched 31 BES-5 low power fission reactors in their RORSAT satellites utilizing thermoelectric converters between 1967 and 1988.
+
+In the 1960s and 1970s, the Soviet Union developed TOPAZ reactors , which utilize thermionic converters instead, although the first test flight was not until 1987.
+
+In 1983, NASA and other US government agencies began development of a next-generation space reactor, the SP-100 , contracting with General Electric and others.  In 1994, the SP-100 program was cancelled, largely for political reasons, with the idea of transitioning to the Russian TOPAZ-II reactor system.  Although some TOPAZ-II prototypes were ground-tested, the system was never deployed for US space missions.
+
+In 2008, NASA announced plans to utilize a small fission power system on the surface of the Moon and Mars, and began testing "key" technologies for it to come to fruition.
+
+Proposed fission power system spacecraft and exploration systems have included SP-100 , JIMO nuclear electric propulsion , and Fission Surface Power .
+
+A number of micro nuclear reactor types have been developed or are in development for space applications:
+
+Nuclear thermal propulsion systems (NTR) are based on the heating power of a fission reactor, offering a more efficient propulsion system than one powered by chemical reactions. Current research focuses more on nuclear electric systems as the power source for providing thrust to propel spacecraft that are already in space.
+
+Other space fission reactors for powering space vehicles include the SAFE-400 reactor and the HOMER-15. In 2020, Roscosmos (the Russian Federal Space Agency ) plans to launch a spacecraft utilizing nuclear-powered propulsion systems (developed at the Keldysh Research Center ), which includes a small gas-cooled fission reactor with 1 MWe.
+
+In September 2020, NASA and the Department of Energy (DOE) issued a formal request for proposals for a lunar nuclear power system, in which several awards would be granted to preliminary designs completed by the end of 2021, while in a second phase, by early 2022, they would select one company to develop a 10-kilowatt fission power system to be placed on the Moon in 2027.
+
+In 2002, NASA announced an initiative towards developing nuclear systems, which later came to be known as Project Prometheus . A major part of the Prometheus Project was to develop the Stirling Radioisotope Generator and the Multi-Mission Thermoelectric Generator, both types of RTGs. The project also aimed to produce a safe and long-lasting space fission reactor system for a spacecraft's power and propulsion, replacing the long-used RTGs. Budget constraints resulted in the effective halting of the project, but Project Prometheus has had success in testing new systems. After its creation, scientists successfully tested a High Power Electric Propulsion (HiPEP) ion engine, which offered substantial advantages in fuel efficiency, thruster lifetime, and thruster efficiency over other power sources.
+
+A gallery of images of space nuclear power systems.

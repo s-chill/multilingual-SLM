@@ -1,0 +1,37 @@
+Hobbing is a machining process for gear cutting , cutting splines , and cutting sprockets using a hobbing machine , a specialized milling machine . The teeth or splines of the gear are progressively cut into the material (such as a flat, cylindrical piece of metal or thermoset plastic) by a series of cuts made by a cutting tool called a hob .
+
+Hobbing is relatively fast and inexpensive compared to most other gear-forming processes and is used for a broad range of parts and quantities. Hobbing is especially common for machining spur and helical gears.
+
+A type of skiving that is analogous to the hobbing of external gears can be applied to the cutting of internal gears, which are skived with a rotary cutter (rather than shaped or broached ).
+
+Hobbing can create gears that are straight, helical, straight bevel, faced, crowned, wormed, cylkro and chamfered. A hobbing machine uses two skew spindles . One is mounted with a blank workpiece and the other holds the cutter (or “hob”). The angle between the hob's spindle (axis) and the workpiece's spindle varies depending on the type of part being manufactured. For example, if a spur gear is being produced, the spindle is held at the lead angle of the hob, whereas if a helical gear is being produced, the held at the lead angle of the hob plus the helix angle of the helical gear. The speeds of the two spindles are held at a constant proportion determined by the number of teeth being cut into the blank; for example, for a single-threaded hob with a gear ratio of 40:1 the hob rotates 40 times to each turn of the blank, producing 40 teeth in the blank. If the hob has multiple threads, the speed ratio is multiplied by the number of threads on the hob. The hob is then fed up into the workpiece until the correct tooth depth is obtained. To finish the operation, the hob is fed through the workpiece parallel to the blank's axis of rotation.
+
+Often during mass production, multiple blanks are stacked using a suitable fixture and cut in one operation.
+
+For very large gears, the blank may be preliminarily gashed to a rough shape to make hobbing more efficient.
+
+Hobbing machines, also known as hobbers , come in many sizes to produce different sizes of gears. Tiny instrument gears are produced on small table-top machines, while large-diameter marine gears are produced on large industrial machines. A hobbing machine typically consists of a chuck and tailstock to hold the workpiece, a spindle to mount the hob, and a drive motor.
+
+For a tooth profile which is theoretically involute , the fundamental rack is straight-sided, with sides inclined at the pressure angle of the tooth form, with flat top and bottom. The necessary addendum correction to allow the use of small-numbered pinions can either be obtained by suitable modification of this rack to a cycloidal form at the tips, or by hobbing at a diameter other than the theoretical pitch. Since the gear ratio between hob and blank is fixed, the resulting gear will have the correct pitch on the pitch circle but the tooth thickness will not be equal to the space width.
+
+Hobbing machines are characterized by the largest module or pitch diameter it can generate. For example, a 10 in (250 mm) capacity machine can generate gears with a 10 in pitch diameter and usually a maximum of a 10 in face width. Most hobbing machines are vertical hobbers, meaning the blank is mounted vertically. Horizontal hobbing machines are usually used for cutting longer workpieces; i.e. cutting splines on the end of a shaft.
+
+The hob is a cutting tool used to cut the teeth into the workpiece. It is cylindrical in shape with helical cutting teeth. These teeth have grooves that run the length of the hob, which aid in cutting and chip removal. There are also special hobs designed for special gears such as the spline and sprocket gears.
+
+The cross-sectional shape of the hob teeth are almost the same shape as teeth of a rack gear that would be used with the finished product. There are slight changes to the shape for generating purposes, such as extending the hob's tooth length to create a clearance in the gear's roots. Each hob tooth is relieved on its back side to reduce friction.
+
+Most hobs are single-thread hobs, but double-, and triple-thread hobs are used for high production volume shops. Multiple-thread hobs are more efficient but less accurate than single-thread hobs. Depending on type of gear teeth to be cut, there are custom made hobs and general purpose hobs. Custom made hobs are different from other hobs as they are suited to make gears with modified tooth profiles. Modified tooth profiles are usually used to add strength and reduce size and gear noise.
+
+Common types of hobs include:
+
+Hobbing is used to make the following types of finished gears:
+
+Hobbing is used to produce most throated worm wheels , but certain tooth profiles cannot be hobbed. If any portion of the hob profile is perpendicular to the axis, the hob will not have the cutting clearance generated by the usual backing off process and will not cut well.
+
+For cycloidal gears (as used in BS978-2 Specification for fine pitch gears) and cycloidal-type gears, each module , ratio, and number of teeth in the pinion requires a different hobbing cutter, so the hobbing is ineffective for small-volume production.
+
+To circumvent this problem, a special war-time emergency circular arc gear standard was produced giving a series of close-to-cycloidal forms which could be cut with a single hob for each module for eight teeth and upwards to economize on cutter manufacturing resources.  A variant on this is still included in BS978-2a (Gears for instruments and clockwork mechanisms. Cycloidal type gears. Double circular arc type gears).
+
+Tolerances of concentricity of the hob limit the lower modules which can be cut practically by hobbing to about 0.5 module.
+
+Christian Schiele of Lancaster England patented the hobbing machine in 1856. It was a simple design, but the rudimentary components are all present in the customary patent drawings. The hob cutting tool and the gear train to provide the appropriate spindle speed ratio are clearly visible. Knowledge of hobbing within the watchmaking trade likely precedes his patent. The next major step forward was in 1897, when Herman Pfauter invented a machine that could cut both traditional “spur” gears and helical gears, driving production further forward.

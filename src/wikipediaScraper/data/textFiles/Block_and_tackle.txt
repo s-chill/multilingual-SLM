@@ -1,0 +1,51 @@
+A block and tackle or only tackle is a system of two or more pulleys with a rope or cable threaded between them, usually used to lift heavy loads.
+
+The pulleys are assembled to form blocks and then blocks are paired so that one is fixed and one moves with the load. The rope is threaded through the pulleys to provide mechanical advantage that amplifies the force applied to the rope.
+
+Hero of Alexandria described cranes formed from assemblies of pulleys in the first century. Illustrated versions of Hero's Mechanica (a book on raising heavy weights) show early block and tackle systems.
+
+A block is a set of pulleys or sheaves mounted on a single frame. An assembly of blocks with a rope threaded through the pulleys is called tackle. The process of threading ropes or cables through blocks is called " reeving ", and a threaded block and tackle is said to have been "rove". A block and tackle system amplifies the tension force in the rope to lift heavy loads. They are common on boats and sailing ships , where tasks are often performed manually, as well as on cranes and drilling rigs , where once rove, the tasks are performed by heavy equipment.
+
+In the diagram shown here, the number of rope sections of the tackles shown is as follows:
+
+Note that in the gun tackle, double tackle and threefold purchase, both blocks have the same number of pulleys (one, two and three, respectively) whereas the Luff tackle and Gyn tackle have mis-matched blocks with differing numbers of pulleys.
+
+A block and tackle is characterized by the use of a single continuous rope to transmit a tension force around one or more pulleys to lift or move a load. Its mechanical advantage is the number of parts of the rope that act on the load. The mechanical advantage of a tackle dictates how much easier it is to haul or lift the load.
+
+If frictional losses are neglected, the mechanical advantage of a block and tackle is equal to the number of parts in the line that either attach to or run through the moving blocks—in other words, the number of supporting rope sections.
+
+An ideal block and tackle with a moving block supported by n rope sections has the mechanical advantage (MA), M A = F B F A = n , {\displaystyle MA={\frac {F_{B}}{F_{A}}}=n,\!} where F A is the hauling (or input) force and F B is the load.
+
+Consider the set of pulleys that form the moving block and the parts of the rope that support this block. If there are n of these parts of the rope supporting the load F B , then a force balance on the moving block shows that the tension in each of the parts of the rope must be F B /n. This means the input force on the rope is F A = F B /n. Thus, the block and tackle reduces the input force by the factor n.
+
+Ideal mechanical advantage correlates directly with velocity ratio . The velocity ratio of a tackle is the ratio between the velocity of the hauling line to that of the hauled load. A line with a mechanical advantage of 4 has a velocity ratio of 4:1. In other words, to raise a load at 1 metre per second, the hauling part of the rope must be pulled at 4 metres per second. Therefore, the mechanical advantage of a double tackle is 4.
+
+The mechanical advantage of any tackle can be increased by interchanging the fixed and moving blocks so the rope is attached to the moving block and the rope is pulled in the direction of the lifted load. In this case the block and tackle is said to be "rove to advantage."
+
+Diagram 3 shows three rope parts supporting the load W , which means the tension in the rope is W/3 . Thus, the mechanical advantage is three-to-one.
+
+By adding a pulley to the fixed block of a gun tackle the direction of the pulling force is reversed though the mechanical advantage remains the same, Diagram 3a. This is an example of the Luff tackle.
+
+The decision of which to use depends on pragmatic considerations for the total ergonomics of working with a particular situation. Reeving to advantage is the most efficient use of equipment and resources. For example, if the load is to be hauled parallel to the ground, reeving to advantage enables the pulling force to be in the direction of the load movement, allowing obstacles to be managed more easily.
+
+Reeving to disadvantage adds an extra sheave to change the direction of the pulling line to a potentially more ergonomic direction, which increases friction losses without improving the velocity ratio. Situations in which reeving to disadvantage may be more desirable include lifting from a fixed point overhead--the additional pulley allows pulling downwards instead of upwards so that the weight of the lifter can offset the weight of the load, or allows pulling sideways, enabling multiple lifters to combine effort.
+
+The formula used to find the effort required to raise a given weight using a block and fall:
+
+F a = L N 1 eff {\displaystyle F_{a}={\frac {L}{N}}{\frac {1}{\textit {eff}}}}
+
+where F a {\displaystyle F_{a}} is the force applied to the hauling part of the line (the input force), L {\displaystyle L} is the weight of the load (the output force), N {\displaystyle N} is the ideal mechanical advantage of the system (which is the same as the number of segments of line extending from the moving block), and eff {\displaystyle {\textit {eff}}} is the mechanical efficiency of the system (equal to one for an ideal frictionless system; a fraction less than one for real-world systems with energy losses due to friction and other causes). If S {\displaystyle S} is the number of sheaves in the purchase, and there is a roughly x {\displaystyle x} % loss of efficiency at each sheave due to friction, then:
+
+1 eff ≈ 1 + S x 100 . {\displaystyle {\frac {1}{\textit {eff}}}\approx 1+S{\frac {x}{100}}.}
+
+This approximation is more accurate for smaller values of S {\displaystyle S} and x {\displaystyle x} . A more precise estimate of efficiency is possible by use of the sheave friction factor, K {\displaystyle K} (which may be obtainable from the manufacturer or published tables ). The relevant equation is:
+
+eff = K N − 1 K S N ( K − 1 ) . {\displaystyle {\textit {eff}}={\frac {K^{N}-1}{K^{S}N(K-1)}}.}
+
+Typical K {\displaystyle K} values are 1.04 for roller bearing sheaves and 1.09 for plain bearing sheaves (with wire rope).
+
+The increased force produced by a tackle is offset by both the increased length of rope needed and the friction in the system. In order to raise a block and tackle with a mechanical advantage of 6 a distance of 1 metre, it is necessary to pull 6 metres of rope through the blocks. Frictional losses also mean there is a practical point at which the benefit of adding a further sheave is offset by the incremental increase in friction which would require additional force to be applied in order to lift the load. Too much friction may result in the tackle not allowing the load to be released easily, or by the reduction in force needed to move the load being judged insufficient because undue friction has to be overcome as well.
+
+When installing a block on an existing line, it is often inconvenient at best to thread the rope through the block to be added.
+
+Swing cheek blocks may be roughly divided into two categories:

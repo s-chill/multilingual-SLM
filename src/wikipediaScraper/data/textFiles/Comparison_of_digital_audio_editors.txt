@@ -1,0 +1,9 @@
+The following tables compare general and technical information among a number of digital audio editors and multitrack recording software.
+
+Basic general information about the software: creator/company, license/price etc.
+
+Basic general information about the software: creator/company, license/price etc.
+
+The plugin types the software can run natively (without emulation).
+
+The various file types the software can read/write.

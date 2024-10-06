@@ -1,0 +1,11 @@
+Database tables and indexes may be stored on disk in one of a number of forms, including ordered/unordered flat files , ISAM , heap files, hash buckets , or B+ trees . Each form has its own particular advantages and disadvantages. The most commonly used forms are B-trees and ISAM. Such forms or structures are one aspect of the overall schema used by a database engine to store information.
+
+Unordered storage typically stores the records in the order they are inserted.  Such storage offers good insertion efficiency ( O ( 1 ) {\displaystyle O\left(1\right)} ), but inefficient retrieval times ( O ( n ) {\displaystyle O\left(n\right)} ). Typically these retrieval times are better, however, as most databases use indexes on the primary keys , resulting in retrieval times of O ( log ⁡ n ) {\displaystyle O\left(\log n\right)} or O ( 1 ) {\displaystyle O\left(1\right)} for keys that are the same as the database row offsets within the storage system.
+
+Ordered storage typically stores the records in order and may have to rearrange or increase the file size when a new record is inserted, resulting in lower insertion efficiency. However, ordered storage provides more efficient retrieval as the records are pre-sorted, resulting in a complexity of O ( log ⁡ n ) {\displaystyle O\left(\log n\right)} .
+
+Heap files are lists of unordered records of variable size. Although sharing a similar name, heap files are widely different from in-memory heaps . In-memory heaps are ordered, as opposed to heap files.
+
+These are the most commonly used in practice.
+
+Most conventional relational databases use "row-oriented" storage, meaning that all data associated with a given row is stored together. By contrast, column-oriented DBMS store all data from a given column together in order to more quickly serve data warehouse -style queries. Correlation databases are similar to row-based databases, but apply a layer of indirection to map multiple instances of the same value to the same numerical identifier.

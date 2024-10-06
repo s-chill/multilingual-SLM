@@ -1,0 +1,3 @@
+Linguistic Knowledge Builder (LKB) is a free and open source grammar engineering environment for creating grammars and lexicons of natural languages . Any unification -based grammar can be implemented, but LKB is typically used for grammars with typed feature structures such as HPSG . LKB is free software under the MIT license .
+
+It is implemented in Common Lisp , and constitutes one core component of the DELPH-IN collaboration.

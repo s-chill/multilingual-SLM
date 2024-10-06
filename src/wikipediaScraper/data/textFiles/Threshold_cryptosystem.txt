@@ -1,0 +1,13 @@
+A threshold cryptosystem , the basis for the field of threshold cryptography , is a cryptosystem that protects information by encrypting it and distributing it among a cluster of fault-tolerant computers.  The message is encrypted using a public key , and the corresponding private key is shared among the participating parties. With a threshold cryptosystem, in order to decrypt an encrypted message or to sign a message, several parties (more than some threshold number) must cooperate in the decryption or signature protocol .
+
+Perhaps the first system with complete threshold properties for a trapdoor function (such as RSA ) and a proof of security was published in 1994 by Alfredo De Santis, Yvo Desmedt, Yair Frankel, and Moti Yung .
+
+Historically, only organizations with very valuable secrets, such as certificate authorities , the military, and governments made use of this technology. One of the earliest implementations was done in the 1990s  by Certco for the  planned deployment of the original Secure electronic transaction . However, in October 2012, after a number of large public website password ciphertext compromises, RSA Security announced that it would release software to make the technology available to the general public.
+
+In March 2019, the National Institute of Standards and Technology (NIST) conducted a workshop on threshold cryptography to establish consensus on applications, and define specifications. In July 2020, NIST published "Roadmap Toward Criteria for Threshold Schemes for Cryptographic Primitives" as NISTIR 8214A.
+
+Let n {\displaystyle n} be the number of parties. Such a system is called (t,n) -threshold, if at least t of these parties can efficiently decrypt the ciphertext, while fewer than t have no useful information. Similarly it is possible to define a (t,n) -threshold signature scheme , where at least t parties are required for creating a signature.
+
+The most common application is in the storage of secrets in multiple locations to prevent the capture of the secret and the subsequent cryptanalysis of that system. Most often the secrets that are "split" are the secret key material of a public key cryptography or of a Digital signature scheme. The method primarily enforces the decryption or the signing operation to take place only if a threshold of the secret sharer operates (otherwise the operation is not made). This makes the method a primary trust sharing mechanism, besides its safety of storage aspects.
+
+Threshold versions of encryption or signature schemes can be built for many asymmetric cryptographic schemes. The natural goal of such schemes is to be as secure as the original scheme. Such threshold versions have been defined by the above and by the following:

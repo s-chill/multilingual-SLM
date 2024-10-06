@@ -1,0 +1,43 @@
+A restricted Boltzmann machine ( RBM ) (also called a restricted Sherrington–Kirkpatrick model with external field or restricted stochastic Ising–Lenz–Little model ) is a generative stochastic artificial neural network that can learn a probability distribution over its set of inputs.
+
+RBMs were initially proposed under the name Harmonium by Paul Smolensky in 1986, and rose to prominence after Geoffrey Hinton and collaborators used fast learning algorithms for them in the mid-2000s. RBMs have found applications in dimensionality reduction , classification , collaborative filtering , feature learning , topic modelling , immunology , and even many‑body quantum mechanics . They can be trained in either supervised or unsupervised ways, depending on the task.
+
+As their name implies, RBMs are a variant of Boltzmann machines , with the restriction that their neurons must form a bipartite graph :
+
+By contrast, "unrestricted" Boltzmann machines may have connections between hidden units . This restriction allows for more efficient training algorithms than are available for the general class of Boltzmann machines, in particular the gradient-based contrastive divergence algorithm.
+
+Restricted Boltzmann machines can also be used in deep learning networks. In particular, deep belief networks can be formed by "stacking" RBMs and optionally fine-tuning the resulting deep network with gradient descent and backpropagation .
+
+The standard type of RBM has binary-valued ( Boolean ) hidden and visible units, and consists of a matrix of weights W {\displaystyle W} of size m × n {\displaystyle m\times n} . Each weight element ( w i , j ) {\displaystyle (w_{i,j})} of the matrix is associated with the connection between the visible (input) unit v i {\displaystyle v_{i}} and the hidden unit h j {\displaystyle h_{j}} . In addition, there are bias weights (offsets) a i {\displaystyle a_{i}} for v i {\displaystyle v_{i}} and b j {\displaystyle b_{j}} for h j {\displaystyle h_{j}} . Given the weights and biases, the energy of a configuration (pair of Boolean vectors) ( v , h ) is defined as
+
+or, in matrix notation,
+
+This energy function is analogous to that of a Hopfield network . As with general Boltzmann machines, the joint probability distribution for the visible and hidden vectors is defined in terms of the energy function as follows,
+
+where Z {\displaystyle Z} is a partition function defined as the sum of e − E ( v , h ) {\displaystyle e^{-E(v,h)}} over all possible configurations, which can be interpreted as a normalizing constant to ensure that the probabilities sum to 1. The marginal probability of a visible vector is the sum of P ( v , h ) {\displaystyle P(v,h)} over all possible hidden layer configurations,
+
+and vice versa. Since the underlying graph structure of the RBM is bipartite (meaning there are no intra-layer connections), the hidden unit activations are mutually independent given the visible unit activations. Conversely, the visible unit activations are mutually independent given the hidden unit activations. That is, for m visible units and n hidden units, the conditional probability of a configuration of the visible units v , given a configuration of the hidden units h , is
+
+Conversely, the conditional probability of h given v is
+
+The individual activation probabilities are given by
+
+where σ {\displaystyle \sigma } denotes the logistic sigmoid .
+
+The visible units of Restricted Boltzmann Machine can be multinomial , although the hidden units are Bernoulli . In this case, the logistic function for visible units is replaced by the softmax function
+
+where K is the number of discrete values that the visible values have. They are applied in topic modeling, and recommender systems .
+
+Restricted Boltzmann machines are a special case of Boltzmann machines and Markov random fields .
+
+The graphical model of RBMs corresponds to that of factor analysis .
+
+Restricted Boltzmann machines are trained to maximize the product of probabilities assigned to some training set V {\displaystyle V} (a matrix, each row of which is treated as a visible vector v {\displaystyle v} ),
+
+or equivalently, to maximize the expected log probability of a training sample v {\displaystyle v} selected randomly from V {\displaystyle V} :
+
+The algorithm most often used to train RBMs, that is, to optimize the weight matrix W {\displaystyle W} , is the contrastive divergence (CD) algorithm due to Hinton , originally developed to train PoE ( product of experts ) models. The algorithm performs Gibbs sampling and is used inside a gradient descent procedure (similar to the way backpropagation is used inside such a procedure when training feedforward neural nets) to compute weight update.
+
+The basic, single-step contrastive divergence (CD-1) procedure for a single sample can be summarized as follows:
+
+A Practical Guide to Training RBMs written by Hinton can be found on his homepage.

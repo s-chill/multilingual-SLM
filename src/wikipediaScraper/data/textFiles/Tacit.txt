@@ -1,0 +1,88 @@
+Tacit programming , also called point-free style , is a programming paradigm in which function definitions do not identify the arguments (or "points") on which they operate. Instead the definitions merely compose other functions, among which are combinators that manipulate the arguments. Tacit programming is of theoretical interest, because the strict use of composition results in programs that are well adapted for equational reasoning. It is also the natural style of certain programming languages , including APL and its derivatives, and concatenative languages such as Forth . The lack of argument naming gives point-free style a reputation of being unnecessarily obscure, hence the epithet "pointless style".
+
+Unix scripting uses the paradigm with pipes .
+
+Tacit programming can be illustrated with the following Python code. A sequence of operations such as the following:
+
+... can be written in point-free style as the composition of a sequence of functions, without parameters:
+
+For a more complex example, the Haskell code p = ((.) f) . g can be translated as:
+
+A simple example (in Haskell ) is a program which computes the sum of a list of numbers. We can define the sum function recursively using a pointed style (cf. value -level programming ) as:
+
+However, using a fold we can replace this with:
+
+And then the argument is not needed, so this simplifies to
+
+which is point-free.
+
+Another example uses function composition :
+
+The following Haskell-like pseudo-code exposes how to reduce a function definition to its point-free equivalent:
+
+Finally, to see a complex example imagine a map filter program which takes a list, applies a function to it, and then filters the elements based on a criterion
+
+It can be expressed point-free as
+
+Note that, as stated previously, the points in 'point-free' refer to the arguments, not to the use of dots; a common misconception.
+
+A few programs have been written to automatically convert a Haskell expression to a point-free form.
+
+In J , the same sort of point-free code occurs in a function made to compute the average of a list (array) of numbers:
+
++/ sums the items of the array by mapping ( / ) summation ( + ) to the array. % divides the sum by the number of elements ( # ) in the array.
+
+Euler's formula e i x = cos ⁡ x + i sin ⁡ x , {\displaystyle e^{ix}=\cos x+i\sin x,} expressed tacitly:
+
+( j. is a primitive function whose monadic definition is 0j1 times x and whose dyadic definition is x+0j1×y .)  The same tacit computations expressed in Dyalog APL :
+
+In stack-oriented programming languages (and concatenative ones , most of which are stack based ), point-free methods are commonly used. For example, a procedure to compute the Fibonacci numbers might look like the following in PostScript :
+
+In Unix scripting the functions are computer programs which receive data from standard input and send the results to standard output .  For example,
+
+is a tacit or point-free composition which returns the counts of its arguments and the arguments, in the order of decreasing counts.  The 'sort' and 'uniq' are the functions, the '-c' and '-rn' control the functions, but the arguments are not mentioned.  The pipe '|' is the composition operator.
+
+Due to the way pipelines work, it is only normally possible to pass one "argument" at a time in the form of a pair of standard input/output stream.  Although extra file descriptors can be opened from named pipes , this no longer constitutes a point-free style.
+
+jq is a JSON-oriented programming language in which
+the '|' symbol is used to connect filters to form a pipeline
+in a familiar way. For example:
+
+evaluates to 3.  (Yes, the JSON array is a jq filter that evaluates to an array.)
+
+Although similar to Unix pipelines, jq pipelines allow the
+incoming data to be sent to more than one recipient on the
+RHS of the '|' as though in parallel.  For example, the program `add/length`
+will compute the average of the numbers in an array, so that:
+
+evaluates to 1.5
+
+Similarly:
+
+evaluates to [2,3,1.5]
+
+A dot ('.') can be used to define an attachment point on the RHS, e.g.:
+
+evaluates to [1,1]
+
+and similarly:
+
+evaluates to 4 since pow(x;y) is x to the power y.
+
+A tacit jq program for generating the Fibonacci sequence would be:
+
+Here, [0,1] is the initial pair to be taken as the first two items
+in the Fibonacci sequence. (The pair [1,1] could likewise be used for
+the variant definition.)
+
+The alphabetic tokens are built-in filters: `first` and `last`
+emit the first and last elements of their input arrays respectively;
+and `recurse(f)` applies a filter, f, to its input recursively.
+
+jq also allows new filters to be defined in a tacit style, e.g.:
+
+In the section on Python in this article, the following Python definition is considered:
+
+In point-free style, this could be written in Python as:
+
+In jq, the equivalent point-free definition would be:

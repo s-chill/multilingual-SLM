@@ -1,0 +1,5 @@
+In computer graphics , view synthesis , or novel view synthesis , is a task which consists of generating images of a specific subject or scene from a specific point of view, when the only available information is pictures taken from different points of view.
+
+This task was only recently (late 2010s - early 2020s) tackled with significant success, mostly as a result of advances in machine learning .  Notable successful methods are Neural radiance fields , and 3D gaussian splatting .
+
+Applications of view synthesis are numerous, one of them being Free viewpoint television .

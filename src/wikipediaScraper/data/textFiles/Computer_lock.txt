@@ -1,0 +1,5 @@
+A computer lock is a physical lock on a computer with an accompanying key used for access control or as an anti-theft system .
+
+In the 1980s and early 1990s, IBM Personal Computers and some PC compatibles included a tubular pin tumbler lock on the computer's casing, performing a security function that varied by manufacturer. In some instances, the lock would prevent the case from being opened to inhibit the theft or modification of internal components. In other cases, the lock was used to forbid unauthorized access to the computer by disabling the power supply, hard drive, or keyboard. Other early personal computer locks include Maclocks , introduced by Compulocks in 1986.
+
+Built-in computer locks for access control were phased out by computer manufacturers in the 1990s as operating systems and other software incorporated user profiles with passwords, but computer locks to prevent theft are still in use, more commonly in the form of Kensington locks that attach cables to laptops and small desktops in an effort to prevent them from being taken.

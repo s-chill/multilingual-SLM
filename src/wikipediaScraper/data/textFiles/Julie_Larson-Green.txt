@@ -1,0 +1,23 @@
+Julie Larson-Green (born 1962) is the former chief experience officer (CXO) of the Office Experience Organization at Microsoft , where she worked 1993 through 2017. She subsequently joined Qualtrics as their CXO.
+
+Larson-Green notably managed the implementation of ribbons in Microsoft Office 2007 , replacing the menu-driven interface with context-specific "ribbons" for which she won a technical leadership award in 2013. In addition, she led the efforts to evolve Microsoft's Metro design language (to become known as "Metro Style") to also ship as part of Windows 8 , in 2012.
+
+Larson-Green grew up in Maple Falls , in Whatcom County, Washington .
+
+Larson-Green graduated with a Master's degree in Computer Science Engineering from Seattle University and a Bachelor's degree in business administration from Western Washington University . Her first job was in tech support for Aldus , creator of PageMaker desktop publishing software. A self-taught programmer , Larson-Green completed her master's degree in software engineering and was then recruited as development lead at Aldus.
+
+In 1993, Larson-Green joined Microsoft as a program manager for Visual C++ .
+
+Following Visual C++, she worked on the user experience for IE 3.0 and 4.0 and then, in 1997, moved to the Office team to work on FrontPage, where she got her first group program manager job. She also did a stint on the SharePoint Team Services team when SharePoint was known as "Office.Net." While in Office, she led UI design for Office XP , Office 2003 , and Office 2007 , as seen in her official Microsoft biography.
+
+After working on Microsoft Office, she oversaw the successful launch of the Microsoft operating system Windows 7 as corporate vice president, program management, Windows Client. She has had between 1,200 and 1,400 program managers, researchers, content managers and other members of the Windows team reporting to her.
+
+In November 2012, Larson-Green was promoted to be the head of all Windows software and hardware engineering, in the wake of the sudden departure of Steven Sinofsky .
+
+Larson-Green was the 2015 winner of the Woman of Vision ABIE Award for Leadership from the Anita Borg Institute .
+
+As part of a Microsoft reorganization in July 2013, Larson-Green was named as the head of the newly formed Devices and Studios Engineering Group. The division oversaw the company's various efforts in hardware, particularly the Xbox One and Surface tablet. Some gamers reacted to the news with comments that were described as misogynistic.
+
+In February 2014, it was announced that Larson-Green would move to the role of chief experience officer of Microsoft's "My Life & Work" team, a move interpreted by many as making way for Stephen Elop , joining Microsoft as part of its acquisition of Nokia 's devices business, to become head of the devices organization within Microsoft.
+
+In November 2017, Larson-Green left Microsoft to join Utah-based Qualtrics as Chief Experience Officer. She left Qualtrics in February 2021.

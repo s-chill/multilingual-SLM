@@ -1,0 +1,21 @@
+Gerald Marvin Weinberg (October 27, 1933 – August 7, 2018) was an American computer scientist , author and teacher of the psychology and anthropology of computer software development . His most well-known books are The Psychology of Computer Programming and Introduction to General Systems Thinking .
+
+Gerald Weinberg was born and raised in Chicago . He attended Omaha Central High School in Omaha, Nebraska. In 1963 he received a PhD in Communication Sciences from the University of Michigan .
+
+Weinberg started working in the computing business at IBM in 1956 at the Federal Systems Division Washington, where he participated as Manager of Operating Systems Development in the Project Mercury (1959–1963), which aimed to put a human in orbit around the Earth. In 1960 he published one of his first papers. Since 1969 was consultant and Principal at Weinberg & Weinberg. Here he conducted workshops such as the AYE Conference, The Problem Solving Leadership workshop since 1974, and workshops about the Fieldstone Method. Further Weinberg was an author at Dorset House Publishing since 1970, consultant at Microsoft since 1988, and moderator at the Shape Forum since 1993.
+
+Weinberg was a visiting professor at the University of Nebraska-Lincoln , Binghamton University , and Columbia University . He was a member of the Society for General Systems Research since the late 1950s. He was also a Founding Member of the IEEE Transactions on Software Engineering , a member of the Southwest Writers and the Oregon Writers Network, and a Keynote Speaker on many software development conferences.
+
+In 1993 he was the Winner of The J.-D. Warnier Prize for Excellence in Information Sciences, the 2000 Winner of The Stevens Award for Contributions to Software Engineering, the 2010 Software Test Professionals first annual Luminary Award and the European Testing Excellence Award at the EuroSTAR Conference in 2013.
+
+Weinberg died on August 7, 2018.
+
+His most well-known books are The Psychology of Computer Programming and Introduction to General Systems Thinking , both of which are considered to be classics, having been re-issued by the publisher in "Silver Editions". He also shared his use of his personal form of the card file approach to collecting ideas for writing in the book Weinberg on Writing: The Fieldstone Method .
+
+Weinberg's writing calls upon his own humorous aphorisms, such as his Law of Twins, which states that most of the time, no matter how much effort one expends, no event of any great significance will result. He described it in his book The Secrets of Consulting (1985), in which he explains the origin of its name. He reported that, while riding a bus in New York City, he observed a mother with eight small children embark. She asked the driver the amount of the fare; he told her that the cost was thirty-five cents, but that children under the age of five could ride for free. When the woman deposited only thirty-five cents into the payment slot, the driver was incredulous. "Do you mean to tell me that all your children are under five years old?" The woman explained that she had four sets of twins. The driver replied, "Do you always have twins?" "No," said the woman, "most of the time we don't have any."
+
+In his later years, Weinberg was involved with the SHAPE Forum (Software as a Human Activity Performed Effectively) and working with the AYE Conference. Weinberg's life and work were honored in November 2008 with the publication of The Gift of Time , a collection of essays by a few of his students, colleagues, and friends, describing lessons learned from Weinberg and incorporated in their own consulting and managerial work.
+
+Weinberg has also written and published a number of novels.
+
+Weinberg has published more than 40 books and more than 400 articles. A selection:

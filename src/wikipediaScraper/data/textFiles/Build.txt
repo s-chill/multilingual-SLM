@@ -1,0 +1,49 @@
+Microsoft Build (often stylised as //build/ ) is an annual conference event held by Microsoft , aimed at software engineers and web developers using Windows , Microsoft Azure and other Microsoft technologies. First held in 2011, it serves as a successor for Microsoft's previous developer events, the Professional Developers Conference (an infrequent event which covered development of software for the Windows operating system) and MIX (which covered web development centering on Microsoft technology such as Silverlight and ASP.net ). The attendee price was (US)$2,195 in 2016, up from $2,095 in 2015. It sold out quickly, within one minute of the registration site opening in 2016.
+
+The event has been held at a large convention center , or purpose-built meeting space on the Microsoft Campus. The Keynote on the first day has been led by the Microsoft CEO addressing the press and developers. It has been the place to announce the general technology milestones for developers. There are breakout sessions conducted by engineers and program managers, most often Microsoft employees representing their particular initiatives. The keynote on the second day often includes deeper dives into technology. Thousands of developers and technologists from all over the world attend.
+
+Build 2011 was held from September 13 to September 16, 2011 in Anaheim, California . The conference heavily focused on Windows 8 , Windows Server 2012 and Visual Studio 2012 ; their Developer Preview versions were also released during the conference. Attendees also received a Samsung tablet shipping with the Windows 8 "Developer Preview" build.
+
+Held on Microsoft's campus in Redmond from October 30 to November 2, 2012, the 2012 edition of Build focused on the recently released Windows 8, along with Windows Azure and Windows Phone 8 . Attendees received a Surface RT tablet with Touch Cover, a Nokia Lumia 920 smartphone, and 100GB of free SkyDrive storage.
+
+Build 2013 was held from June 26 to June 28, 2013 at the Moscone Center (North and South) in San Francisco . The conference was primarily used to unveil the Windows 8.1 update for Windows 8. Each attendee received a Surface Pro , Acer Iconia W3 (the first 8-inch Windows 8 tablet) with a Bluetooth keyboard , one year of Adobe Creative Cloud and 100GB of free SkyDrive storage.
+
+Build 2014 was held at the Moscone Center (West) in San Francisco from April 2 to April 4, 2014. Build attendees received a free Xbox One and a $500 Microsoft Store gift card.
+
+Highlights:
+
+Build 2015 was held at the Moscone Center (West) in San Francisco from April 29 to May 1, 2015. Registration fee is $2095, and opened at 9:00am PST on Thursday, January 22 and "sold out" in under an hour with an unspecified number of attendees. Build attendees received a free HP Spectre x360 ultrabook .
+
+Highlights:
+
+Build 2016 was held at the Moscone Center in San Francisco from March 30 to April 1, 2016. The price was $2195, an increase of $100 compared to the previous year. The conference was sold out in 1 minute. Unlike previous years, there were no hardware gifts for attendees.
+
+Highlights:
+
+The 2017 Build conference took place at the Washington State Convention Center in Downtown Seattle, Washington from May 10 to May 12, 2017. It had been at Moscone Center for the previous four years. However, Moscone center was undergoing renovations from April through August 2017. The Seattle location brought the conference close to the Microsoft headquarters in Redmond, Washington. The price remained at $2195 for the 2017 conference. There were no devices given away at this conference to attendees.
+
+Highlights:
+
+The 2018 Build conference took place at the Washington State Convention Center in Downtown Seattle, Washington May 7 to May 9, 2018. The price has increased $300 to $2495 for the 2018 conference. The conference was preceded by the Windows Developer Awards 2018 ceremony.
+
+Highlights:
+
+The 2019 Build conference took place at the Washington State Convention Center in Downtown Seattle, Washington from May 6 to May 8, 2019 plus optional post-event learning activities on next two days. The price decreased $100 to $2395 for the 2019 conference. Registration started on February 27.
+
+Highlights:
+
+Microsoft announced the dates for Build, and their other large conferences on September 16, 2019, with pricing set at $2395. The physical 2020 Build conference, scheduled to take place in downtown Seattle, Washington from May 19 to May 21, 2020, was initially cancelled due the coronavirus pandemic . On April 20, 2020, Microsoft opened sign-ups for a replacement, virtual event, held the same date as the originally intended physical event; the virtual event was free of charge.
+
+Highlights:
+
+The 2021 conference, once again a free-of-charge virtual event, was held on May 25 to 27, 2021.
+
+Highlights:
+
+The 2022 conference, once again a free-of-charge virtual event, was held on May 24 to 26, 2022.
+
+The 2023 conference was announced on March 14, 2023. A free online part was held from May 23 to 24, and an in-person part was held in Seattle from May 23 to 25 with workshops on May 22. Tickets for the in-person event are $1525 and workshops are $225.
+
+Microsoft Build 2023 focused heavily on artificial intelligence and its integration across Microsoft's products and services.
+
+In addition to AI-focused announcements, Microsoft introduced updates to Windows 11, Microsoft 365, Edge, and Teams. The company also expanded its plugin platform in collaboration with OpenAI, allowing developers to submit their AI experiences to the Microsoft Store on Windows.

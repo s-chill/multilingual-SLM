@@ -1,0 +1,12 @@
+Gender HCI is a subfield of human-computer interaction that focuses on the design and evaluation of interactive systems for humans. The specific emphasis in gender HCI is on variations in how people of different genders interact with computers .
+
+Gender HCI research has been conducted in the following areas (among others):
+
+Gender HCI investigates ways in which attributes of software (or even hardware) can interact with gender differences.
+As with all of HCI , Gender HCI is a highly interdisciplinary area. Findings from fields such as psychology , computer science , marketing , neuroscience , education , and economics strongly suggest that men and women problem solve, communicate, and process information differently. Gender HCI investigates whether these differences need to be taken into account in the design of software and hardware.
+
+The term Gender HCI was coined in 2004 by Laura Beckwith, a PhD candidate at Oregon State University , and her advisor Margaret Burnett . They discovered that, although there had been some activity that could be characterized as Gender HCI work, people did not know about each other's work. The relevant research reports were isolated and scattered about various fields. Since that time, they and others have worked to help researchers know about each other's work and practitioners to be aware of the findings, so as to allow this area to mature as a subarea of HCI.
+
+The following are a brief set of milestones in the history of this emerging subarea.
+
+Here are some results from the Gender HCI research conducted to date – ordered from most to least recent, within categories:

@@ -1,0 +1,31 @@
+WebDAV ( Web Distributed Authoring and Versioning ) is a set of extensions to the Hypertext Transfer Protocol (HTTP), which allows user agents to collaboratively author contents directly in an HTTP web server by providing facilities for concurrency control and namespace operations , thus allowing Web to be viewed as a writeable, collaborative medium and not just a read-only medium. WebDAV is defined in RFC 4918 by a working group of the Internet Engineering Task Force (IETF).
+
+The WebDAV protocol provides a framework for users to create, change and move documents on a server . The most important features include the maintenance of properties about an author or modification date, namespace management, collections, and overwrite protection. Maintenance of properties includes such things as the creation, removal, and querying of file information. Namespace management deals with the ability to copy and move web pages within a server's namespace. Collections deal with the creation, removal, and listing of various resources. Lastly, overwrite protection handles aspects related to the locking of files. It takes advantage of existing technologies such as Transport Layer Security , digest access authentication or XML to satisfy those requirements.
+
+Many modern operating systems provide built-in client-side support for WebDAV .
+
+WebDAV began in 1996 when Jim Whitehead worked with the World Wide Web Consortium (W3C) to host two meetings to discuss the problem of distributed authoring on the World Wide Web with interested people. Tim Berners-Lee 's original vision of the Web involved a medium for both reading and writing. In fact, Berners-Lee's first web browser , called WorldWideWeb , could both view and edit web pages ; but, as the Web grew, it became a read-only medium for most users. Whitehead and other like-minded people wanted to transcend that limitation.
+
+The meetings resulted in the formation of an IETF working group because the new effort would lead to extensions to HTTP, which the IETF had started to standardize.
+
+As work began on the protocol, it became clear that handling both distributed authoring and versioning together would involve too much work and that the tasks would have to be separated. The WebDAV group focused on distributed authoring, and left versioning for the future. (The Delta-V extension added versioning later –  see the Extensions section below.)
+
+The WebDAV working group concluded its work in March 2007, after the Internet Engineering Steering Group (IESG) accepted an incremental update to RFC 2518 . Other extensions left unfinished at that time, such as the BIND method , have been finished by their individual authors, independent of the formal working group.
+
+WebDAV extends the set of standard HTTP verbs and headers allowed for request methods . The added verbs include:
+
+The properties of WebDAV protocol are name–value pair , in which a "name" is a Uniform Resource Identifier (URI) and the "values" are expressed through XML elements. Furthermore, the methods to handle the properties are PROPFIND and PROPPATCH .
+
+The WebDAV working group produced several works:
+
+For versioning, the Delta-V protocol under the Web Versioning and Configuration Management working group adds resource revision tracking, published in RFC 3253 .
+
+For searching and locating, the DAV Searching and Locating (DASL) working group never produced any official standard although there are a number of implementations of its last draft. Work continued as non-working-group activity. The WebDAV Search specification attempts to pick up where the working group left off, and was published as RFC 5323 in November 2008.
+
+For calendaring, CalDAV is a protocol allowing calendar access via WebDAV. CalDAV models calendar events as HTTP resources in iCalendar format, and models calendars containing events as WebDAV collections.
+
+For groupware, GroupDAV is a variant of WebDAV which allows client/server groupware systems to store and fetch objects such as calendar items and address book entries instead of web pages.
+
+For MS Exchange interoperability, WebDAV can be used for reading/updating/deleting items in a mailbox or public folder. WebDAV for Exchange has been extended by Microsoft to accommodate working with messaging data.  Exchange Server version 2000, 2003, and 2007 support WebDAV. However, WebDAV support has been discontinued in Exchange 2010 in favor of Exchange Web Services (EWS), a SOAP / XML based API .
+
+As part of the Windows Server Protocols (WSPP) documentation set, Microsoft published the following protocol documents detailing extensions to WebDAV:

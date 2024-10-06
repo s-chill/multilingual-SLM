@@ -1,0 +1,15 @@
+Catastrophe modeling (also known as cat modeling ) is the process of using computer -assisted calculations to estimate the losses that could be sustained due to a catastrophic event such as a hurricane or earthquake. Cat modeling is especially applicable to analyzing risks in the insurance industry and is at the confluence of actuarial science , engineering , meteorology , and seismology .
+
+Natural catastrophes (sometimes referred to as "nat cat") that are modeled include:
+
+Human catastrophes include:
+
+Cat modeling involves many lines of business , including:
+
+The input into a typical cat modeling software package is information on the exposures being analyzed that are vulnerable to catastrophe risk.  The exposure data can be categorized into three basic groups:
+
+The output of a cat model is an estimate of the losses that the model predicts would be associated with a particular event or set of events. When running a probabilistic model , the output is either a probabilistic loss distribution or a set of events that could be used to create a loss distribution; probable maximum losses ("PMLs") and average annual losses ("AALs") are calculated from the loss distribution. When running a deterministic model, losses caused by a specific event are calculated; for example, Hurricane Katrina or "a magnitude 8.0 earthquake in downtown San Francisco" could be analyzed against the portfolio of exposures.
+
+Cat models have a variety of use cases for a number of industries, including:
+
+The Oasis Loss Modelling Framework ("LMF") is an open source catastrophe modeling platform. It developed by a nonprofit organisation funded and owned by the Insurance Industry to promote open access to models and to promote transparency. Additionally, some firms within the insurance industry are currently working with the Association for Cooperative Operations Research and Development ( ACORD ) to develop an industry standard for collecting and sharing exposure data.

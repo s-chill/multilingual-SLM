@@ -1,0 +1,14 @@
+A chain is a serial assembly of connected pieces, called links, typically made of metal, with an overall character similar to that of a rope in that it is flexible and curved in compression but linear , rigid, and load-bearing in tension . A chain may consist of two or more links. Chains can be classified by their design, which can be dictated by their use:
+
+Two distinct chains can be connected using a quick link , carabiner , shackle , or clevis .
+The load can be transferred from a chain to another object by a chain stopper .
+
+Uses for chains include:
+
+Several methods are available to connect chain ends to each other or to other objects, and to apply a load to a chain away from the ends. These methods are usually specific to the type of chain, and must be of the correct size.
+
+The metal link chain has been in use since at least 225 BC.
+
+The prevalent modern symbolism is oppression , due to the use for a mechanical restriction of the liberty of a human or animal.
+
+Chains can also symbolize interconnectivity or interdependence . Unicode , in versions 6.x, contains the U+1F517 🔗 LINK SYMBOL , which may show chain link(s). It may also denote a hyperlink .

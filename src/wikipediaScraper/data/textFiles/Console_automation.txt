@@ -1,0 +1,8 @@
+In music recording , mix automation allows the mixing console to remember the audio engineer's adjustment of faders during the post-production editing process. A timecode is necessary for the synchronization of automation. Modern mixing consoles and digital audio workstations use comprehensive mix automation.
+
+The need for mix automation originates from the 1970s and the changeover from studios mostly using eight-track tape machines to multiple, synchronized 24-track recorders. Mixing could be laborious and require up to four people, and the results could be almost impossible to reproduce. Manufacturers such as Solid State Logic and AMS Neve developed systems that enabled one engineer to oversee every detail of a complex mix, although the computers required to power these desks remained a rarity into the late 1970s.
+
+According to record producer Roy Thomas Baker , Queen 's 1975 single " Bohemian Rhapsody " was one of the first mixes to be done with automation.
+
+All of these include the mute button. If mute is pressed during writing of automation, the audio track will be muted during playback of that automation.
+Depending on software, other parameters such as panning , sends , and plug-in controls can be automated as well.  In some cases, automation can be written using a digital potentiometer instead of a fader.

@@ -1,0 +1,26 @@
+TCP NAT traversal and TCP hole punching (sometimes NAT punch-through ) in computer networking occurs when two hosts behind a network address translation (NAT) are trying to connect to each other with outbound TCP connections.  Such a scenario is particularly important in the case of peer-to-peer communications, such as Voice-over-IP (VoIP), file sharing, teleconferencing, chat systems and similar applications.
+
+TCP hole punching is an experimentally used NAT traversal technique for establishing a TCP connection between two peers on the Internet behind NAT devices. NAT traversal is a general term for techniques that establish and maintain TCP/IP network and/or TCP connections traversing NAT gateways.
+
+In the following, the terms host, client and peer are used almost interchangeably.
+
+NAT traversal, through TCP hole punching, establishes bidirectional TCP connections between Internet hosts in private networks using NAT. It does not work with all types of NATs, as their behavior is not standardized. 
+When two hosts are connecting to each other in TCP, both via outbound connections, they are in the "simultaneous TCP open" case of the TCP state machine diagram.
+
+The availability of TCP hole punching depends on the type of computer port allocation used by the NAT.
+For two peers behind a NAT to connect to each other via TCP simultaneous open , they need to know a little bit about each other. One thing that they absolutely need to know is the "location" of the other peer, or the remote endpoint. The remote endpoint is the data of the IP address and a port that the peer will connect to. So when two peers, A and B, initiate TCP connections by binding to local ports Pa and Pb, respectively, they need to know the remote endpoint port as mapped by the NAT to make the connection.
+When both peers are behind a NAT, how to discover the public remote endpoint of the other peer is a problem called NAT port prediction . All TCP NAT traversal and hole punching techniques have to solve the port prediction problem.
+
+A NAT port allocation can be one of the two:
+
+Depending on whether the NATs exhibit a predictable or non-predictable behavior, it will be possible or not to perform the TCP connection via a TCP simultaneous open, as shown below by the connection matrix representing the different cases and their impact on end-to-end communication:
+
+Here are some of the methods used by NATs to allow peers to perform port prediction:
+
+We assume here that port prediction has already taken place through one of the methods outlined above, and that each peer knows the remote peer endpoint. Both peers make a POSIX connect call to the other peer endpoint. TCP simultaneous open will happen as follows:
+
+For the TCP simultaneous open to work, the NAT should:
+
+This is enough to guarantee that NATs behave nicely with respect to the TCP simultaneous open.
+
+The technique described above works fine within a CGN. A CGN can also make use of a port overloading behavior, which means that distinct internal endpoints with the same port value can be mapped to the same public endpoint. This does not break the uniqueness of the {protocol, public address, public port, remote address, remote port } quintuple and, as a result, is acceptable. TCP port preservation can also lead to cases where the CGN ports are overloaded and is not an issue for protocol soundness. Port overloading for TCP allows the CGN to fit more hosts internally while preserving TCP end-to-end communication guarantees.

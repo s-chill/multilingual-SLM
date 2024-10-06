@@ -1,0 +1,7 @@
+The Center for Education and Research in Information Assurance and Security ( CERIAS ) of Purdue University , United States, is a center for research and education in areas of information security for computing and communication infrastructures .
+
+Its research is focused on the following areas:
+
+CERIAS is one of the world’s leading academic institutions in this area. It is one of the NSF 's "Original Seven" Centers for Academic Excellence in Information Assurance Education.
+
+CERIAS was rooted in COAST research group (Computer Operations, Audit, and Security Technology) established in 1991 in the Computer Sciences Department of Purdue out of research groups of professors Eugene Spafford and Samuel Wagstaff, Jr. COAST was initially funded by Sun Microsystems , Schlumberger , Bell Northern Research (BNR, now NorTel ), and Hughes Research Laboratories . COAST was subsumed by CERIAS on January 1, 1999.

@@ -1,0 +1,7 @@
+LibX is a platform-independent C++ software library used to provide handling of DirectX .X files.
+
+It's mainly built of two statically linked libraries and one executable demonstrating the capability to load models and render them using OpenGL . The two libraries are:
+
+This one parses the actual file and generates an in-memory-representation of the file content (similar to a .xml DOM tree.)
+
+This library can convert the generated file-representation into a format suitable for rendering, specifically:

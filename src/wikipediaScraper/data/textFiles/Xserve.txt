@@ -1,0 +1,35 @@
+The Xserve is a discontinued series of rack-mounted servers that was manufactured by Apple Inc. between 2002 and 2011. It was Apple's first rack-mounted server, and could function as a file server , web server or run high-performance computing applications in clusters – a dedicated cluster Xserve, the Xserve Cluster Node, without a video card and optical drives was also available. The first Xserve had a PowerPC G4 processor, replaced by a PowerPC G5 in 2004, and by Intel Xeon processors in 2006; each was available in single-processor and dual-processor configurations. The Xserve was discontinued in 2011, and replaced with the Mac Pro Server and the Mac Mini Server .
+
+Before the Xserve, Apple's server line included the Apple Workgroup Server, Macintosh Server , and Apple Network Server .
+
+Apple introduced the Xserve on May 14, 2002 (released in June). Initially, two configuration options were available: a single-processor Xserve at US$2999, and a dual-processor Xserve at US$3999. Xserves sold before August 24, 2002 shipped with Mac OS X v10.1 "Puma" Server, while those sold after shipped with Mac OS X v10.2 "Jaguar" Server.
+
+On February 10, 2003, Apple released an improved and expanded Xserve lineup. Improvements included one or two 1.33 GHz PowerPC G4 processors, faster memory, and higher capacity Ultra ATA/133 hard disk drives. The front plate was redesigned for a slot-loading optical drive. A new model, the Xserve Cluster node was announced at the same price as the single-processor Xserve, featuring two 1.33 GHz processors, no optical drive, a single hard drive bay , no video or Ethernet cards, and a 10-client version of "Jaguar" server.
+
+On April 2, 2003 the Xserve RAID was introduced, providing a much higher capacity and higher throughput disk subsystem for the Xserve.
+
+According to Apple, all of these models are obsolete.
+
+On January 6, 2004 Apple introduced the Xserve G5, a redesigned higher-performance Xserve. The 32-bit PowerPC G4s were replaced with one or two 64-bit PowerPC 970 processors running at 2 GHz. Ventilation issues restricted it to three SATA hot-swap drive bays, with the original space for the fourth drive bay used for air vents. The front plate and slot-loading optical drive were retained from the last Xserve G4. The higher memory capacity and bandwidth as well as the stronger floating-point performance of the PowerPC 970 made it more suitable for high-performance computing (HPC) applications. System X is one such cluster computer built with Xserves.
+
+Three configuration options were available: a single-processor model at US$2,999, a dual-processor model at $3,999, and a dual-processor cluster node model (with an unchanged appearance from the G4 cluster node) at US$2,999.
+
+On January 3, 2005, Apple updated the Xserve G5 with faster processors in the dual-processor configurations. 400 GB hard disks were made available for up to 1.2 TB of internal storage. The slot-loading optical drive was upgraded to a combination DVD-ROM/CD-RW standard, DVD-/+RW optional. Soon after, Apple updated the Xserve and Xserve RAID to allow the use of 500 GB Hard Drives.
+
+Xserve G5 models before April 2005 shipped with Mac OS X v10.3 "Panther", after April 2005 shipped with Mac OS X v10.4 "Tiger".
+
+According to Apple, all of these models are obsolete.
+
+The Intel-based Xserves were announced at the Worldwide Developers Conference on August 7, 2006, and are significantly faster compared to the Xserve G5. They use Intel Xeon (' Woodcrest ') processors, DDR2 ECC FB-DIMMs , ATI Radeon graphics, a maximum storage capacity of 2.25 TB when used with three 750 GB drives, optional redundant power supplies and a 1U rack form factor. The Intel Xserves now had on board video, freeing up an expansion slot.
+
+On January 8, 2008 Xserve was updated with Intel Xeon (' Harpertown ') processors, faster memory, and a maximum storage capacity of 3 TB when used with three 1 TB drives. The front-mounted FireWire 400 port featured in previous models was also replaced with a USB 2.0 port. The Xserve RAID was discontinued on February 19, 2008.
+
+On April 7, 2009 Xserve was updated to use Intel Xeon (' Gainestown ') processors, DDR3 memory, and NVIDIA graphics with Mini DisplayPort output. The update also saw an increase to the maximum storage capacity, bringing it to 6 TB when used with three 2 TB drives. An option to add a SSD boot-drive that does not occupy a drive bay was also implemented. The addition of the SSD boot drive allows all drives to be swapped whilst the server remains online. It is also Apple's first Xserve to use PVC-free internal cables and components and contain no brominated flame retardants.
+
+On August 28, 2009 Xserve was updated to ship standard with Mac OS X Server 10.6 Unlimited Client Server. In addition to improved functionality Mac OS X 10.6 Server added support for up to 96 GB of RAM.
+
+On November 5, 2010, Apple announced that it would not be developing a future version of Xserve. While accepting orders for the current model until January 31, 2011, and "honoring" all Xserve warranties and extended support programs, the company suggested users switch to Mac Pro Server or Mac Mini Server .
+
+After the Xserve's discontinuation, an annoyed customer emailed Steve Jobs , who responded that "hardly anyone was buying them".
+
+According to Apple, all of these models are obsolete.

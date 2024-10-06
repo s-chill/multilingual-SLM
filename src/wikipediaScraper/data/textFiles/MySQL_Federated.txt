@@ -1,0 +1,10 @@
+Federated is a storage engine for the MySQL MariaDB relational database management system that allows creation of a table that is a local representation of a foreign (remote) table. It uses the MySQL client library API as a data transport, treating remote tables as if they were located on the local server. 
+Each Federated table that is defined there is one .frm (data definition file containing information such as the URL of the data source). The actual data can exist on a local or remote MySQL instance.
+
+To create a Federated table, one has to specify a URL in the "CONNECTION" string:
+
+The connection URL is in the format of:
+
+Upon creation of a Federated table, the user must ensure that the remote data source does indeed exist or an error will be issued.
+
+The MySQL Federated Storage Engine was authored by Patrick Galbraith and Brian Aker and is currently being maintained by Patrick Galbraith and Antony Curtis. It was introduced in 2005 with MySQL 5.0.

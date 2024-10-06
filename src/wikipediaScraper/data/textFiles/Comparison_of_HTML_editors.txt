@@ -1,0 +1,12 @@
+The following tables compare general and technical information for a number of HTML editors .
+
+Please see the individual products' articles for further information, comparison of text editors for information on text editors, and comparison of word processors or information on word processors, many of which have features to assist with writing HTML.
+
+Systems listed on a light purple background are no longer in active development.
+
+Image file formats are standardized means of organizing and storing digital images. Image files are composed of digital data in one of
+several formats. Some formats of image files may be preferred by website designers for smaller file size and higher image quality.
+Here are the most popular formats of image files and the table below makes a comparison about whether the software for website design
+can display the file format on the web page.
+
+The following is a comparison of early HTML editors .

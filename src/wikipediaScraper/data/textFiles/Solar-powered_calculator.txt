@@ -1,0 +1,9 @@
+Solar-powered calculators are hand-held electronic calculators powered by solar cells mounted on the device. They were introduced at the end of the 1970s.
+
+Amorphous silicon has been used as a photovoltaic solar cell material for devices which require very little power, such as pocket calculators , because their lower performance compared to conventional crystalline silicon solar cells is more than offset by their lower cost and simplified deposition onto a substrate. The first solar-powered (non-scientific) calculators available in the late 1970s included the Royal Solar 1 , the Sharp EL-8026 , and the Teal Photon . Scientific solar-powered calculators appeared in 1982.
+
+Solar calculators use liquid crystal displays , as they are power-efficient and capable of operating in the low-voltage range of 1.5–2 V. Some models also use a light pipe to converge light onto the solar cells. However, solar calculators may not work well in indoor conditions under ambient lighting if sufficient light is not available.
+
+Anylite Technology is the name of a solar technology used by Texas Instruments since the 1980s in some calculators. They are intended to be able to function with less light than other solar calculators. This was essentially achieved by using relatively large photovoltaic solar cells. The use of Anylite technology in modern TI calculators is denoted by a lowercase "a" at the end of the model number (e.g. TI-30a). In older models, such as the TI-36 Solar, Anylite Solar is printed on the calculator.
+
+As of the 2010s, some cheap calculators include a "dummy" solar panel, implying that they are solar-powered, but they are actually powered only by battery.

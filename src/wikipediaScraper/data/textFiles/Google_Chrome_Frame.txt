@@ -1,0 +1,17 @@
+Google Chrome Frame was a plug-in designed for Internet Explorer based on the open-source Chromium project, first announced on September 22, 2009. It went stable in September 2010, on the first birthday of the project. It was discontinued on February 25, 2014 and is no longer supported.
+
+The plug-in worked with Internet Explorer 6 , 7 , 8 and 9 . It allowed suitably coded web pages to be displayed in Internet Explorer by Google Chrome 's versions of the WebKit layout engine and V8 JavaScript engine . In a test by Computerworld , JavaScript code ran 10 times faster with the plug-in on Internet Explorer 8.
+
+Development of Google Chrome Frame was required in order for Google Wave (now Apache Wave ), which requires HTML5 , to function in Internet Explorer.
+
+The first stable version supporting Non-Admin Chrome Frame was rolled out on August 30, 2011. The newer Chrome Frame installer ran at Admin level by default and fell back to Non-Admin mode if the user didn't have the necessary permissions on their machine.
+
+Web developers can allow their websites to use the plug-in by using the following code on their web pages:
+
+This will cause the page to render in Chrome Frame for users who have it installed, without changing it for users who have not.
+
+In February 2010, Google Chrome Frame was updated to also support deployment by HTTP headers, with a number of advantages, such as simplified sitewide support and support of the application/xhtml+xml MIME type even on Internet Explorer which normally does not support this MIME type for XHTML documents. For a blanket rollout on an entire web site, an Apache server with mod_headers and mod_setenvif enabled can specify a header directive like this:
+
+Internet Explorer add-ons do not function on pages rendered using WebKit. There has been criticism concerning Chrome Frame from Mozilla and Microsoft as Chrome Frame "can disable IE features and muddle users' understanding of Web security matters". With Google Chrome Frame installed, users can add the gcf: prefix to URLs to render them with WebKit and V8 instead of Internet Explorer's built-in Trident engine after enabling this feature via a registry setting. An update also brought the possibility to navigate pages in IE utilising WebKit/V8 without the gcf: prefix:
+
+Google Chrome Frame communicated with Google's servers: it reported installation to Google, downloaded updates to Chrome Frame and Google's Safe Browsing list, and at the user's discretion could send Google usage statistics and crash reports .

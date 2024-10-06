@@ -1,0 +1,17 @@
+A number of organizations within the Wikimedia movement including the Wikimedia Foundation publish official mobile apps for mobile access to Wikipedia .  All are available via the appropriate app store (e.g. Google Play , App Store , Microsoft Store , F-Droid ). They can also be downloaded independently of any third-party store, from the Wikimedia Foundation's releases website, which also keeps old and beta versions .
+
+Wikipedia apps from the Wikimedia Foundation are called "Wikipedia".
+
+The Android app allows editing articles directly from the app. It is available on Play Store , Galaxy Store , Aptoide , Cafe Bazaar , F-Droid , and GetJar .
+
+The iOS app also provides a read and write version of Wikipedia, similar to the mobile web version . It allows users to share an article via Facebook and other social websites. It also allows users to find geotagged articles near their current location. It does not allow users to see categories or see the normal desktop version.
+
+The Metro-style app provides a read-only version of Wikipedia, similar to the mobile web version. The app when used in Windows RT is incapable of showing moving pictures .
+
+Kiwix has developed a number of offline apps based on Wikipedia content.
+
+These apps were mainly developed to display articles and are often used on platforms for which an official Wikipedia app was not formerly available, such as Windows Phone . Typical features include searching for articles, bookmarks , sharing, or enlarging images .
+
+A number of apps for Wikipedia's sister projects exist. These include the Wiki Loves Monuments app , written for a 2012 photo contest, as an aid for Wikiphotographers. It shows a map of nearby national heritage register items, indicating whether Wikipedia had a photo for the site, and enabling quick and easy photo uploads for camera phones. It is not integrated with the official article display app. A Wikivoyage app serves as a pocket travel guide.
+
+There is an Android app for Wikimedia Commons which is community maintained , and described on the Commons mobile app page. There is also an Android app for Wiktionary , although it is no longer supported and has not been updated since August 2013.

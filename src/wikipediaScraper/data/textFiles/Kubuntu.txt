@@ -1,0 +1,35 @@
+Kubuntu ( / k ʊ ˈ b ʊ n t uː / kuu- BUUN -too ) is an official flavor of the Ubuntu operating system that uses the KDE Plasma Desktop instead of the GNOME desktop environment. As part of the Ubuntu project, Kubuntu uses the same underlying systems. Kubuntu shares the same repositories as Ubuntu and is released regularly on the same schedule as Ubuntu.
+
+Kubuntu was sponsored by Canonical Ltd. until 2012, and then directly by Blue Systems . Now, employees of Blue Systems contribute upstream to KDE and Debian , and Kubuntu development is led by community contributors. During the changeover, Kubuntu retained the use of Ubuntu project servers and existing developers.
+
+"Kubuntu" is a registered trademark held by Canonical. It is derived from the name Ubuntu , prefixing a K to represent the KDE platform that Kubuntu is built upon (following a widespread naming convention of prefixing K to the name of any software released for use on KDE platforms), as well as the KDE community.
+
+Ubuntu is a Bantu term translating roughly to 'humanity'. Since Bantu grammar involves prefixes to form noun classes , and the prefix ku- has the meaning 'toward' in Bemba , kubuntu is therefore also a meaningful Bemba word or phrase translating to 'toward humanity'. Reportedly, the same word, by coincidence, also takes the meaning of 'free' (in the sense of ' without payment ') in Kirundi .
+
+Kubuntu typically differs from Ubuntu in graphical applications and tools:
+
+Development started back in December 2004 at the Ubuntu Mataró Conference in Mataró , Spain when a Canonical employee Andreas Mueller, from Gnoppix, had the idea to make an Ubuntu KDE variant and got the approval from Mark Shuttleworth to start the first Ubuntu variant, called Kubuntu. On the same evening Chris Halls from the OpenOffice.org project and Jonathan Riddell from KDE started volunteering on the newborn project.
+
+Shortly after Ubuntu was started, Mark Shuttleworth stated in an interview that he recognized the need for the KDE-based distribution in order to maintain diversity in Linux distributions, which in his belief aligns with Ubuntu project's overall purpose of increasing the adoption of free software.
+
+K Desktop Environment 3 was used as default interface until Kubuntu 8.04. That version included KDE Plasma Desktop as unsupported option which became default in the subsequent release, 8.10.
+
+On February 6, 2012 ( 2012-02-06 ) , Canonical employee Jonathan Riddell announced the end of Canonical's Kubuntu sponsorship. On April 10, 2012 ( 2012-04-10 ) , Blue Systems was announced on the Kubuntu website as the new sponsor. As a result, both developers employed by Canonical to work on Kubuntu–Jonathan Riddell and Aurélien Gâteau–transferred to Blue Systems.
+
+Since 2019, Kubuntu has partnered with MindShare Inc. to offer "Kubuntu Focus" laptops and mini-PCs optimized and supported specifically for the LTS releases.
+
+Kubuntu follows the same naming/versioning system as Ubuntu, with each release having a code name and a version number (based on the year and month of release). Canonical provides support and security updates for Kubuntu components that are shared with Ubuntu for 18 months – five years in case of long-term support (LTS) versions – after release. Both a desktop version and an alternative (installation) version (for the x86 and AMD64 platforms) are available. Kubuntu CDs were also available through the ShipIt service (which was discontinued as of April 2011).
+
+The desktop version of Kubuntu currently supports the AMD 64 architectures, Intel x86 support was discontinued after the 18.04 release and existing 32-bit users were supported until 2023.
+
+Kubuntu rollouts include the world's largest Linux desktop deployment, that includes more than 500,000 desktops in Brazil (in 42,000 schools of 4,000 cities).
+
+The software of the 14,800 Linux workstations of Munich was switched to Kubuntu LTS 12.04 and KDE 4.11.
+
+The Taipei City Government decided to replace Windows with a Kubuntu distribution on 10,000 PCs for schools.
+
+The French Parliament announced in 2006 that they would switch over 1,000 workstations to Kubuntu by June 2007.
+
+A Kubuntu distribution, by La Laguna University , is used in more than 3,000 computers spread in several computer labs, laboratories and libraries, among other internal projects in the Canary Islands . Since October 2007, Kubuntu is now used in all of the 1,100 state schools in the Canary Islands.
+
+The second point release update in February 2021 to Kubuntu 20.04.2 LTS (Focal Fossa) contains all the bug-fixes added to 20.04 since its first release. Users can run the normal update procedure to get these bug-fixes.

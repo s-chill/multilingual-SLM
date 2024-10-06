@@ -1,0 +1,15 @@
+The Computational Geometry Algorithms Library ( CGAL ) is an open source software library of computational geometry algorithms . While primarily written in C++ , Scilab bindings and bindings generated with SWIG (supporting Python and Java for now) are also available.
+
+The software is available under dual licensing scheme. When used for other open source software, it is available under open source licenses ( LGPL or GPL depending on the component). In other cases commercial license may be purchased, under different options for academic/research and industrial customers.
+
+The CGAL project was founded in 1996, as a consortium of eight research institutions in Europe and Israel: Utrecht University , ETH Zurich , Free University of Berlin , INRIA Sophia Antipolis , Martin-Luther-University Halle-Wittenberg , Max Planck Institute for Informatics Saarbrücken , Johannes Kepler University Linz , and Tel-Aviv University . The original funding for the project came from the ESPRIT project of the European Union . Originally, its licensing terms allowed its software to be used freely for academic purposes, with commercial licenses available for other uses. CGAL Releases 3.x were distributed under the QPL license . Starting with CGAL 4.0, released in 2012, CGAL is distributed under the GPL version 3. As of 2013 it is managed by a thirteen-member editorial board, with an additional 30 developers and reviewers.
+
+The project started in 1996 as the pooling of the previous efforts of several project participants:PlaGeo and SpaGeo from Utrecht University , LEDA of the Max-Planck-Institute for Informatics and C++GAL of INRIA Sophia Antipolis . The LEDA library encompasses a broader range of algorithms. A comparison of the two libraries is provided by Kettner and Näher. Three CGAL User workshops held in 2002, 2004, and 2008 highlighted research results related to CGAL, and many additional papers related to CGAL have appeared in other conferences, workshops, and journals.
+
+In 2023 the project won the SoCG Test of Time Award
+
+The library covers the following topics:
+
+The library is supported on a number of platforms:
+
+The CGAL library depends on the Boost libraries , and several CGAL packages on the Eigen C++ library .

@@ -1,0 +1,33 @@
+Enercon GmbH is a wind turbine manufacturer based in Aurich , Lower Saxony , Germany . It has been the market leader in Germany since the mid-1990s. Enercon has production facilities in Germany (Aurich, Emden and Magdeburg ), Brazil , India , Canada , Turkey and Portugal . In June 2010, Enercon announced that they would be setting up Irish headquarters in Tralee .
+
+The Aloys-Wobben-foundation of founder Aloys Wobben is owning the UEE Holding, which owns the Enercon GmbH. Aloys Wobben, Simon Wobben and Hans-Dieter Kettwich control the company.
+
+As of December 2017 , Enercon had installed more than 26,300 wind turbines, with a power generating capacity exceeding 43 GW. The most-often installed model is the E-40, which pioneered the gearbox-less design in 1993. As of July 2011, Enercon has a market share of 7.2% world-wide (fifth-highest) and 59.2% in Germany.
+
+Aloys Wobben founded the Aloys-Wobbe-Stiftung. The foundations owns the UEE Holding, which Enercon belongs to.
+
+Over 30 supply companys exclusively work for Enercon. In 2018 some of them like  WEC Turmbau Emden, WEC Turmbau Magdeburg and Aero Ems GmbH announced, that they will fire employees, in total 800 workes. Enercon declraed these companys would be completely independend.
+
+In fact, the companies belong to the "Grp Aloys B A Wobben Breeze Trust" based in Luxembourg and the British Virgin Islands through nested ownership structures. At the time, the NDR assumed that the structure was set up so that Aloys Wobben could skim off his profits but not have to make any social obligations to his employees.
+
+In 1984 Aloys Woben founded a wind turbine manufacturer called Enercon in Aurich by developing and producing wind turbines with three employees. In 1993, Wobben switched production to the gearless wind turbine with a full converter; a Technology that he had developed. The Enercon E-40 turbine met expectations and was gained worldwide success.
+
+Wobben withdrew from the operational business in 2012 and transferred his company shares to the Aloys-Wobben Foundation with effect from 1 October 2012. Since 2016 his neff Simon Wobben is part of the managing team.
+
+On February 24, 2022, the day of the Russian full scale invasion of Ukraine , the remote maintenance units of 5,800 Enercon wind turbines were affected by a suspected Russian cyber attack on the satellite system operator Viasat and had to be replaced.
+
+According to Forbes , Aloys Wobben had a net worth of $7.1 billion as of August 2021.
+
+Enercon wind turbines have some special technical features compared to turbines of most other manufacturers. Characteristic is the gearless propulsion concept, which Enercon pioneered since 1993. The first generation of gearless turbines was the E-40/500 kW series. (Earlier Enercon designs had a transmission train.) The hub with the rotor blades connects directly to the rotor of the ring generator (direct drive). The rotor unit rotates on a front and rear main bearing about a fixed axis. The speed of the rotor is transmitted directly to the high-pole synchronous generator, where the rotor rotates in the stator, differently. The Enercon generator has no permanent magnets, allowing the company to not rely on rare-earth metals. However, the direct connection also causes grid losses. Rotation speed and the mechanical load changes over the service life are lower than geared systems. Rotation speed varies from 18 to 45 revolutions per minute (RPM) for the E-33 and 5-11.7 RPM for the E-126 depending on wind speed, while a geared generator has a speed of about 1500 RPM at rated power. Thus the large Enercon generators lead to high tower head masses, and construction and logistical challenges. In 2022, the first integrated box-shaped nacelles with inverter and transformer reduced logistics - all previous Enercon turbines had power systems in the tower base.
+
+Most Enercon systems are visually distinct from systems of other manufacturers. Their nacelles have been drop-shaped since 1995/1996. This unique design was developed by British architect Norman Foster, who also designed the dome of the Berlin Reichstag. In Germany and many other countries, the tower has coloured green rings above the foundation, which get brighter from bottom to top. On islands such as Borkum, the gradation is blue. The NCS grading is intended to better integrate the plant towers into the horizon. The rotor blades were the only ones on the market with blade tips similar to the winglets on aircraft.
+
+In 2008, the first E-126 turbines (successor of the E-112) were installed at sites throughout Germany and Belgium, including the Estinnes wind farm (consisting of eleven E-126 turbines) in Belgium. Although the E-126 turbine was initially developed with a power rating of 6 MW, it has since been upgraded to 7.5 MW. The E-82 turbine was also upgraded and is available in 2, 2.3, and 3 MW versions.
+
+Currently Enercon does not offer or supply wind turbines to offshore projects and has at times expressed skepticism about offshore wind parks. Enercon was rumored to have been ready to supply turbines to Germany's Alpha Ventus offshore wind farm and to a near-shore park near Wilhelmshaven but did not do so.
+
+Note: wind turbine designations with a "*" mean the turbine either temporarily unavailable, or has been taken off sale permanently.
+
+Enercon was prohibited from exporting their wind turbines to the US until 2010 due to alleged infringement of U.S. patent 5,083,039 . In a dispute before the United States International Trade Commission , Enercon did not challenge the validity of the US patent but argued that their technology was not affected. The ITC decided that the patent covered the technology in question and banned Enercon turbines from the US market until 2010. Later, a cross patent agreement was made with the competitor General Electric , the successor of Kenetech, after similar claims of Enercon against GE. According to a NSA employee detailed information concerning Enercon was passed on to Kenetech via ECHELON . The aim of the alleged industrial espionage against Enercon was the forwarding of details of Wobben 's generator technology to a US firm.
+
+From 2008 to 2020, Enercon was part owner of a railway company, that among other things owns the Abelitz–Aurich railway , (via de:Eisenbahninfrastrukturgesellschaft Aurich-Emden ) which is used to deliver wind turbine blades made by Enercon via rail to customers. During the time Enercon part-owned the rail line, the company undertook large scale investments in its infrastructure In 2020 Enercon sold its rail ventures To Hermann Bettels GmbH.

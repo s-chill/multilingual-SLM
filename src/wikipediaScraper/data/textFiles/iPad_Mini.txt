@@ -1,0 +1,17 @@
+The sixth-generation iPad Mini (stylized and marketed as iPad mini and colloquially referred to as iPad Mini 6 ) is a tablet computer in the iPad Mini line, developed and marketed by Apple Inc. It was announced on September 14, 2021, and released on September 24, 2021, alongside the ninth-generation iPad , iPhone 13 and iPhone 13 Pro . Its predecessor, the fifth-generation iPad Mini , was discontinued on the same day. It is available in four colors: Space Gray, Starlight, Pink, and Purple.
+
+It is the first major redesign of the iPad Mini, and resembles the fourth-generation iPad Air in design and with Touch ID on the power button (removing the home button), with a larger 8.3-inch display, USB-C port (replacing the Lightning port), and support for the second-generation Apple Pencil.
+
+It is the first redesign of the iPad Mini since the iPad Mini 4 in 2015, and the first major redesign since its introduction in 2012. Externally, it is essentially a smaller version of the 4th-generation iPad Air and third-generation and newer iPad Pro . It lacks a Smart Connector for a keyboard, likely due to its smaller size. Internally, it has an A15 Bionic SoC which is underclocked to 2.92 GHz instead of the iPhone models' 3.23 GHz. The chip has a six-core CPU, a 5-core GPU, and a 16-core Neural Engine.
+
+It has an 8.3-inch 2266x1488 Liquid Retina display, taller and slightly narrower than previous models while maintaining the pixel density of 326 PPI, which is the same on all iPhones with Retina LCDs since the iPhone 4 , excluding the Plus models. The display is laminated and has an anti-reflective coating, as well as wide color and True Tone. A 12 MP front camera was  implemented in the iPad, replacing the older 7 MP camera, and features the Center Stage technology that detects the user and moves the camera view accordingly during video recording and video calls using on-device processing, while the rear camera is upgraded to 12 MP with a True Tone flash and 4K video recording at up to 60fps, replacing the 8 MP camera, which the module is identical to the third-generation iPad Pro .
+
+The Home Button is removed, with the Touch ID sensor relocated to the Sleep/Wake button. The volume control buttons have been moved to the top edge of the device to accommodate the second-generation Apple Pencil. Landscape stereo audio effect is also added to the system's audio recording system.
+
+The sixth-generation iPad Mini discontinues the proprietary Lightning port in favor of a universal USB-C port that is used for charging as well as connecting external devices and accessories. All models have Bluetooth 5.0 and Wi-Fi 6 (802.11ax) wireless capabilities while the cellular models support 5G connectivity but lack mmWave support unlike the iPad Pro (5th generation) .
+
+The sixth-generation iPad Mini is compatible with Apple Pencil (2nd generation and USB-C). Compatibility with Magic Keyboard for iPad or the Smart Keyboard Folio isn't possible due to its smaller form factor.
+
+This model received a very positive reception, noting a new design was long overdue and felt 5G was a nice surprise, with Jason Perlow from ZDNET calling it "Apple's most exciting new product in years".
+
+Source: Apple Newsroom Archive.

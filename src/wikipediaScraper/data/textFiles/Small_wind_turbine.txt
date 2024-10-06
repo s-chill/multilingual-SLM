@@ -1,0 +1,59 @@
+Small wind turbines , also known as micro wind turbines or urban wind turbines , are wind turbines that generate electricity for small-scale use . These turbines are typically smaller than those found in wind farms . Small wind turbines often have passive yaw systems as opposed to active ones. They use a direct drive generator and use a tail fin to point into the wind, whereas larger turbines have geared powertrains that are actively pointed into the wind.
+
+They usually produce between 500 W and 10 kW, with some as small as 50 W. The Canadian Wind Energy Association considers small wind turbines to be up to 300 kW, while the IEC 61400 standard defines them as having a rotor area smaller than 200 m and generating voltage below 1000 Va.c. or 1500 Vd.c.
+
+Turbine blades for small-scale wind turbines are typically 1.5 to 3.5 metres (4 ft 11 in – 11 ft 6 in) in diameter and produce 0.5-10 kW at their optimal wind speed. Most small wind turbines are horizontal-axis wind turbines , but vertical axis wind turbines (VAWTs) may have benefits in maintenance and placement, although they are less efficient at converting wind to electricity. To optimize efficiency, the tip speed ratio (the ratio of blade tip speed to wind speed) and lift-to-drag ratio should be kept at optimal levels.
+
+A range of synthetic materials including carbon fiber reinforced polymers, nanocomposites, and E-glass-polyester are available. Although natural fibers are susceptible to quality variations, high moisture uptake and low thermal stability that make them undesirable for larger blades, small turbines can still take advantage of them. Wood can be used, and the type of wood should be chosen based on availability, cost and growth time, average density, high stiffness, and breaking strain. Coatings are generally used to reduce moisture, and white enamel with primer has been found to be particularly effective. Sitka spruce (used in propellers), and Douglas Fir have been used in turbine blades. Nepal has used small blade turbines made of coated timber including Sal , Saur , Sisau , Uttish , Tuni , Okhar , pine , and lakuri wood. Beyond wood, bamboo-based composites may also be used in both large and small wind turbines due to their low density and carbon sequestration ability—which makes bamboo materials environmentally friendly. Furthermore, relative to wood, bamboo has higher fracture toughness, higher strength, lower processing costs and fast growth rate. Ongoing materials developments include bamboo laminates using resins and hybrid bamboo carbon-fiber materials. Hemp, flax, wood and bamboo are all candidate blade materials for small turbines.
+
+Small wind turbines must reach a certain wind speed, called the cut-in speed, to start generating electricity. This speed is usually around 4 metres per second (8.9 mph), but some turbines can work at lower speeds. To avoid obstacles, turbines are often placed on towers at least 9 m (30 ft) above anything within 150 m (490 ft). Better locations for turbines are far from large upwind obstacles, as wind tunnel studies show significant negative effects from nearby obstacles can extend up to 80 times the obstacle's height downwind, although this is an extreme case. Another option for placing a small turbine is using a model based on actual wind measurements to predict how nearby obstacles will affect local wind conditions at the potential turbine location, considering the size, shape, and distance to the obstacles.
+
+Small-scale rooftop turbines can be installed on a roof, but may face issues such as vibration and turbulence caused by the roof ledge, which can impact their power generation. These turbines often struggle to generate significant amounts of power, particularly in urban areas.
+
+The generators for small wind turbines are usually three-phase alternating current generators and the trend is to use the induction type , although some models utilize single-phase generators or direct current output.
+
+After running the three phase AC wire through a slip ring and down to the receiving end, a three-phase rectifier is used to convert the AC to rectified DC for battery charging, especially in solar hybrid power systems . The rectifier should be mounted to a heat sink for cooling, with the option of adding a computer fan that is activated by a bimetal thermal switch for active cooling.
+
+The DC end of the rectifier is then connected to the batteries. This connection should be as short as possible to avoid power losses, typically with a shunted digital wattmeter in between for monitoring. The batteries are then connected to a power inverter , which converts the power back to AC at a constant frequency for grid connectivity and end use.
+
+Dynamic braking is a technique used to regulate the speed of a turbine by discharging excess energy through a resistive load during high winds to prevent damage. The controller, activated when batteries reach a certain voltage, turns on the load using a solenoid or solid-state relay , the latter of which has the added benefit of "failing open". Proper tuning of the controller is important to prevent parasitic oscillations , which can be achieved through a delay function or using a stock PWM charge controller with a diversion function.
+
+Cable resistant to UV radiation and temperature fluctuations, such as solar cable , should be used in cases where the wiring is exposed to the elements. The wire gauge across the whole system must be appropriate for the amount of current running through it. The resistance of the wire, which increases linearly with its length, should not create a voltage drop that is more than 2-5% of the total voltage drop.
+
+In July 2012, a new feed-in tariff approved by Japanese Industry Minister Yukio Edano went into effect, promising to boost the country's production of wind and solar energy production. The country is aiming to increase renewable energy investment in part as a response to the Fukushima radiation crisis in March 2011. The feed-in tariff applies to solar panels and small wind turbines and requires utilities to buy back electricity generated from renewable energy sources at government-established rates.
+
+Small-scale wind power (turbines of less than 20 kW capacity) will be subsidized at least 57.75 JPY (about 0.74 USD per kwh).
+
+Properties in rural or suburban parts of the UK can opt for a wind turbine with inverter to supplement local grid power. The UK's Microgeneration Certification Scheme (MCS) provides feed-in tariffs to owners of qualified small wind turbines.
+
+In 2008, small wind turbines with capacities of 100 kW or less added a total of 17.3 MW of generating capacity in the US, according to the American Wind Energy Association (AWEA). This growth represented a 78% increase in the domestic market for small wind turbines. AWEA's "2009 Small Wind Global Market Study" attributed the increase to higher manufacturing volumes, thanks to private investment financing plant expansions, and rising electricity prices and public awareness of wind technologies driving residential sales.
+
+In 2019, much of the US demand for small wind turbines was for power generation at remote locations, and for purposes of site assessment for large scale wind power installations.
+
+The US small wind industry also benefits from the global market, as it controls about half of the global market share. US manufacturers garnered $77 million of the $156 million that was spent throughout the world on small wind turbine installations. A total of 38.7 MW of small wind power capacity was installed globally in 2008.
+
+In the United States, residential wind turbines with outputs of 2–10 kW typically cost between US$12,000 and US$55,000 installed ( US$6 per watt), although there are incentives and rebates available in 19 states that can reduce the purchase price for homeowners by up to 50 percent, to $3 per watt. The US manufacturer Southwest Windpower estimates a turbine to pay for itself in energy savings in 5 to 12 years.
+
+The dominant models on the market, especially in the United States, are horizontal-axis wind turbines .
+
+To enable consumers to make an informed decision when purchasing a small wind turbine, a method for consumer labeling has been developed by IEA Wind Task 27 in collaboration with IEC TC88 MT2. In 2011 IEA Wind published a Recommended Practice, which describes the tests and procedures required to apply the label.
+
+Croatia is an ideal market for small wind turbines due to Mediterranean climate and numerous islands with no access to the electric grid. In winter months when there is less sun, but more wind, small wind turbines are a great addition to isolated renewable energy sites ( GSM , stations, marinas etc.). That way solar and wind power provide consistent energy throughout the year.
+
+In Germany the feed-in tariff for small wind turbines has always been the same as for large turbines. This is the main reason the small wind turbine sector in Germany developed slowly. In contrast, small photovoltaic systems in Germany benefited from a high feed-in tariff, at times above 50 Euro-Cent per kilowatt hour.
+
+In August 2014 the German renewable energy law was adjusted, also affecting the feed-in tariffs for wind turbines. For the operation of a small wind turbine with a capacity below 50 kilowatt the tariff amounts to 8.5 Euro-Cent for a period of 20 years.
+
+Due to the low feed-in tariff and high electricity prices in Germany, the economic operation of a small wind turbine depends on a large self-consumption rate of the electricity produced by the small wind turbine. Private households pay on average 28 cent per kilowatt hour for electricity (19% VAT included).
+
+As part of the German renewable energy law 2014 a fee on self-consumed electricity was introduced in August 2014. The regulation does not apply to small power plants with a capacity below 10 kilowatt. With an amount of 1.87 Euro-Cents the fee is low.
+
+Some hobbyists have built wind turbines from kits, sourced components, or from scratch. DIY wind turbines are usually smaller (rooftop) turbines of approximately 1 kW or less. These small wind turbines are usually tilt-up or fixed / guyed towers.
+
+Do it yourself or DIY-wind turbine construction has been made popular by magazines such as OtherPower and Home Power .
+
+Organizations such as Practical Action have designed DIY wind turbines that can be easily built by communities in developing nations and are supplying concrete documents on how to do so.
+
+Designs of DIY small wind turbines date back to the early 1970s, and were further developed by the back-to-the-land movement of the late 1970s in the United States and Europe.
+
+Locally manufactured small wind turbines, being small-scale, low-cost, socially-embedded, adoptive to local contexts and based on the open sharing of knowledge, have been framed under or associated with the perspectives of appropriate or intermediate technology , convivial technology, degrowth , open design and open manufacturing .

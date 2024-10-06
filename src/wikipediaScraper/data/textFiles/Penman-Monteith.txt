@@ -1,0 +1,32 @@
+The Penman-Monteith equation approximates net evapotranspiration (ET) from meteorological data as a replacement for direct measurement of evapotranspiration. The equation is widely used, and was derived by the United Nations Food and Agriculture Organization for modeling reference evapotranspiration ET 0 .
+
+Evapotranspiration contributions are significant in a watershed's water balance , yet are often not emphasized in results because the precision of this component is often weak relative to more directly measured phenomena, e.g., rain and stream flow. In addition to weather uncertainties, the Penman-Monteith equation is sensitive to vegetation-specific parameters, e.g., stomatal resistance or conductance.
+
+Various forms of crop coefficients (K c ) account for differences between specific vegetation modeled and a reference evapotranspiration (RET or ET 0 ) standard. Stress coefficients (K s ) account for reductions in ET due to environmental stress (e.g. soil saturation reduces root -zone O 2 , low soil moisture induces wilt , air pollution effects, and salinity). Models of native vegetation cannot assume crop management to avoid recurring stress.
+
+Per Monteith's Evaporation and Environment , the equation is:
+
+Note: Often, resistances are used rather than conductivities.
+
+where r c refers to the resistance to flux from a vegetation canopy to the extent of some defined boundary layer.
+
+The atmospheric conductance g a accounts for aerodynamic effects like the zero plane displacement height and the roughness length of the surface. The stomatal conductance g s accounts for the effect of leaf density (Leaf Area Index), water stress, and CO 2 concentration in the air, that is to say plant reaction to external factors. Different models exist to link the stomatal conductance to these vegetation characteristics, like the ones from P.G. Jarvis (1976) or Jacobs et al. (1996).
+
+While the Penman-Monteith method is widely considered accurate for practical purposes and is recommended by the Food and Agriculture Organization of the United Nations, errors when compared to direct measurement or other techniques can range from -9 to 40%.
+
+To avoid the inherent complexity of determining stomatal and atmospheric conductance, the Food and Agriculture Organization proposed in 1998 a simplified equation for the reference evapotranspiration ET 0 . It is defined as the evapotranpiration for "[an] hypothetical reference crop with an assumed crop height of 0.12 m, a fixed surface resistance of 70 s m-1 and an albedo of 0.23." This reference surface is defined to represent "an extensive surface of green grass of uniform height, actively growing, completely shading the ground and with adequate water".
+The corresponding equation is:
+
+N.B.: The coefficients 0.408 and 900 are not unitless but account for the conversion from energy values to equivalent water depths: radiation [mm day ] = 0.408 radiation [MJ m day ].
+
+This reference evapotranspiration ET 0 can then be used to evaluate the evapotranspiration rate ET from unstressed plants through crop coefficients K c : ET = K c * ET 0 .
+
+The standard methods of the American Society of Civil Engineers modify the standard Penman-Monteith equation for use with an hourly time step. The SWAT model is one of many GIS -integrated hydrologic models estimating ET using Penman-Monteith equations.
+
+The Priestley–Taylor equation was developed as a substitute for the Penman-Monteith equation to remove dependence on observations. For Priestley–Taylor, only radiation (irradiance) observations are required. This is done by removing the aerodynamic terms from the Penman-Monteith equation and adding an empirically derived constant factor, α {\displaystyle \alpha } .
+
+The underlying concept behind the Priestley–Taylor model is that an air mass moving above a vegetated area with abundant water would become saturated with water. In these conditions, the actual evapotranspiration would match the Penman rate of reference evapotranspiration. However, observations revealed that actual evaporation was 1.26 times greater than reference evaporation. Therefore, the equation for actual evaporation was found by taking reference evapotranspiration and multiplying it by α {\displaystyle \alpha } . The assumption here is for vegetation with an abundant water supply (i.e. the plants have low moisture stress). Areas like arid regions with high moisture stress are estimated to have higher α {\displaystyle \alpha } values.
+
+The assumption that an air mass moving over a vegetated surface with abundant water saturates has been questioned later. The atmosphere's lowest and most turbulent part, the atmospheric boundary layer , is not a closed box but constantly brings in dry air from higher up in the atmosphere towards the surface. As water evaporates more readily into a dry atmosphere, evapotranspiration is enhanced. This explains the larger-than-unity value of the Priestley-Taylor parameter α {\displaystyle \alpha } . The proper equilibrium of the system has been derived. It involves the characteristics of the interface of the atmospheric boundary layer and the overlying free atmosphere.
+
+The equation is named after Howard Penman and John Monteith . Penman published his equation in 1948, and Monteith revised it in 1965.

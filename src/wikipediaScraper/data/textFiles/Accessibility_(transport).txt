@@ -1,0 +1,42 @@
+In transport planning , accessibility refers to a measure of the ease of reaching (and interacting with) destinations or activities distributed in space, e.g. around a city or country . Accessibility is generally associated with a place (or places) of origin. A place with "high accessibility" is one from which many destinations can be reached or destinations can be reached with relative ease. "Low accessibility" implies that relatively few destinations can be reached for a given amount of time/effort/cost or that reaching destinations is more difficult or costly from that place.
+
+The concept can also be defined in the other direction, and we can speak of a place having accessibility from some set of surrounding places. For example, one could measure the accessibility of a store to customers as well as the accessibility of a potential customer to some set of stores.
+
+In time geography , accessibility has also been defined as "person based" rather than "place based", where one would consider a person's access to some type of amenity through the course of their day as they move through space. For example, a person might live in a food desert but have easy access to a grocery store from their place of work.
+
+Accessibility is often calculated separately for different modes of transport .
+
+In general, accessibility A {\displaystyle A} is defined as:
+
+A i = ∑ j W j × f ( C i j ) {\displaystyle A_{i}=\sum _{j}{W_{j}}\times f\left({C_{ij}}\right)}
+
+where:
+
+Travel cost metrics ( C i j {\displaystyle C_{ij}} in the equation above) can take a variety of forms such as:
+
+Cost metrics may also be defined using any combination of these or other metrics. For a non-motorized mode of transport , such as walking or cycling , the generalized travel cost may include additional factors such as safety or gradient . The essential idea is to define a function that describes the ease of travelling from any origin i {\displaystyle i} to any destination j {\displaystyle j} .
+
+A large compendium of such cost metrics used in practice was developed in 2012, under the framework of Cost Action TU1002, and is available online.
+
+The function on the travel cost f ( C i j ) {\displaystyle f\left({C_{ij}}\right)} determines how accessible a destination is based on the travel cost associated with reaching that destination. Two common impedance functions are "cumulative opportunities" and a negative exponential function. Cumulative opportunities is a binary function yielding 1 if an opportunity can be reached within some threshold and 0 otherwise. It is defined as:
+
+f ( C i j ) = { 1 if C i j ≤ θ 0 if C i j > θ {\displaystyle f(C_{ij})={\begin{cases}1~~{\text{if}}&C_{ij}\leq \theta \\0~~{\text{if}}&C_{ij}>\theta \end{cases}}}
+
+where θ {\displaystyle \theta } is the threshold parameter.
+
+A negative exponential impedance function can be defined as:
+
+f ( C i j ) = e − β C i j {\displaystyle f(C_{ij})=e^{-\beta C_{ij}}}
+
+where β {\displaystyle \beta } is a parameter defining how quickly the function decays with distance.
+
+Accessibility has long been associated with land-use ; as accessibility increases in a given place, the utility of developing the land increases. This association is often used in integrated transport and landuse forecasting models . At the same time, the accessibility of a place can not only be changed through a modification of the transport infrastructure, but also as a consequence of a changed spatial structure / distribution of destinations.
+
+Transport for London utilize a calculated approach known as Public Transport Accessibility Level (PTAL) that uses the distance from any point to the nearest public transport stops, and service frequency at those stops, to assess the accessibility of a site to public transport services. Destination-based accessibility measures are an alternate approach that can be more sophisticated to calculate. These measures consider not just access to public transport services (or any other form of travel), but the resulting access to opportunities that arises from it. For example, using origin-based accessibility (PTAL) we can understand how many buses one may be able to be access. Using destination-based measures  we can calculate how many schools, hospitals, jobs, restaurants (etc..) can be accessed.
+
+Accessibility-based planning is a spatial planning methodology that centralises goals of people and businesses and defines accessibility policy as enhancing people and business opportunities.
+
+Traditionally, urban transportation planning has mainly focused on the efficiency of the transport system itself and is often responding to plans made by spatial planners. Such an approach neglects the influence of interventions in the transport system on broader and often conflicting economic, social and environmental goals. Accessibility based planning defines accessibility as the amount of services and jobs people can access within a certain travel time, considering one or more modes of transport such as walking, cycling, driving or public transport.
+Using this definition accessibility does not only relate to the qualities of the transport system (e.g. travel speed, time or costs), but also to the qualities of the land use system (e.g. densities and mixes of opportunities). It thus provides planners with the possibility to understand interdependencies between transport and land use development. Accessibility planning opens the floor to a more normative approach to transportation planning involving different actors. For politicians, citizens and firms it might be easier to discuss the quality of access to education, services and markets than it is to discuss the inefficiencies of the transport system itself. Accessibility is also defined as "the potential for interaction".
+
+Despite the high potential of accessibility in integrating the different components of urban planning , such as land use and transportation and the large number of accessibility instruments available in the research literature, the latter are not widely used to support urban planning practices yet. By keeping the accessibility language out of the practice level, older paradigms resist the more informed and people-centred approaches. The existence of accessibility instruments is fairly acknowledged, but practitioners do not appear to have found them useful or usable enough for addressing the tasks of sustainable urban management.

@@ -1,0 +1,13 @@
+In mathematics and signal processing , the advanced z-transform is an extension of the z-transform , to incorporate ideal delays that are not multiples of the sampling time . The advanced z-transform is widely applied, for example, to accurately model processing delays in digital control . It is also known as the modified z-transform .
+
+It takes the form
+
+where
+
+If the delay parameter, m , is considered fixed then all the properties of the z-transform hold for the advanced z-transform.
+
+Consider the following example where f ( t ) = cos ⁡ ( ω t ) {\displaystyle f(t)=\cos(\omega t)} :
+
+If m = 0 {\displaystyle m=0} then F ( z , m ) {\displaystyle F(z,m)} reduces to the transform
+
+which is clearly just the z -transform of f ( t ) {\displaystyle f(t)} .

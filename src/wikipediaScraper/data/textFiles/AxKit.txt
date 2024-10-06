@@ -1,0 +1,5 @@
+Apache AxKit was an XML Apache publishing framework run by the Apache foundation written in Perl . It provided conversion from XML to any format, such as HTML, WAP or text using either W3C standard techniques, or flexible custom code.
+
+AxKit was a standard tool in early digital humanities presentation work, being used to convert formats such as Text Encoding Initiative XML to HTML . It is still used by some institutions, but software such as eXist and Apache Cocoon is normally used in modern projects.
+
+Apache Axkit was retired in August 2009.

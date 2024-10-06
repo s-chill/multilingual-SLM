@@ -1,0 +1,3 @@
+Cryptologia is a journal in cryptography published six times per year since January 1977. Its remit is all aspects of cryptography, with a special emphasis on historical aspects of the subject . The founding editors were Brian J. Winkel, David Kahn , Louis Kruh, Cipher A. Deavours and Greg Mellen. The current Editor-in-Chief is Craig Bauer.
+
+The journal was initially published at the Rose-Hulman Institute of Technology . In July 1995, it moved to the United States Military Academy , and was then published by Taylor & Francis since the January 2006 issue (Volume 30, Number 1).

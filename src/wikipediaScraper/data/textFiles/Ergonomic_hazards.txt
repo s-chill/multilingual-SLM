@@ -1,0 +1,97 @@
+Ergonomic hazards are physical conditions that may pose a risk of injury to the musculoskeletal system due to poor ergonomics . These hazards include awkward or static postures, high forces, repetitive motion , or short intervals between activities. The risk of injury is often magnified when multiple factors are present.
+
+Environmental, operational, or design factors can all negatively impact a worker or user; examples include whole-body or hand/arm vibration , poor lighting , or poorly designed tools, equipment, or workstations. Some of the common body regions where injuries may occur include:
+
+Injuries in these and other parts of the body could result in musculoskeletal disorders (MSDs), which may be called cumulative trauma disorders (CTDs) or repetitive strain injuries (RSIs), and are estimated to account for about a third of all non-fatal injuries and illnesses and their associated costs. Ergonomic hazards occur in both occupational and non-occupational settings such as workshops, building sites, offices, homes, schools, or public spaces and facilities. Finding ways to eliminate or reduce ergonomic hazards in any setting will ultimately reduce the risk of injury.
+
+Awkward posture is when the body deviates significantly from a natural position during work-related activities. Awkward posture reduces work efficiency due to unnecessary overexertion. When awkward posture is sustained for a long period of time, muscles and nerves may become pinched. Examples include twisting , reaching, pulling, lifting, bending, or any other posture that can cause pain when sustained for a prolonged period.
+
+Static posture, or static loading, is when a person holds a consistent posture during the entirety of the time it takes to perform a task, which does not allow the body to relax. It is a problem because it can lead to muscle pain, fatigue, and joint issues, and increases the risk for musculoskeletal injuries. The degree of damage depends on the type and duration of posture, as well as the type of activity. Issues related to static posture among workers can be prevented by taking frequent breaks and stretching often.
+
+Contact stress occurs when some part of a worker's body—such as the knees , elbows , wrists , or fingers —touches or rubs up against a sharp, inflexible, or immobile surface repetitively or for a long period of time. The surface could be a workstation, ladder, floor, or handle of a bucket or tool. Contact stress can also be created through pushing , gripping, pinching , pulling, and lifting objects that can place additional force on the body's joints. Increasing these forces requires additional muscle exertion, and places greater loads on joints and connective tissues which can cause fatigue and may contribute to musculoskeletal disorders when there is inadequate time for rest and recovery.
+
+Repetitive motion is prolonged, repeated movement which causes muscle fatigue and eventually results in nerve damage . This motion can injure soft tissues , such as nerves , muscles , and tendons ; examples of injury include tennis elbow , carpal tunnel syndrome , tendonitis , and bursitis . These motions require breaks during activity to help the nerve or muscles rest and recover.
+
+High forces involved in some physical labors can injure muscles and joints. Overexertion can occur when an external or muscular force exceeds the force the body can safely endure. The force might come in the form of gripping, pinching, pushing, pulling, and lifting objects.
+
+Prevention of ergonomic hazards and musculoskeletal disorders is multifaceted and can be complex. Importantly, ergonomics tries to fit the job to the worker, not the worker to the job. One way to approach ergonomic hazards is to use the Hierarchy of Controls —a system published by the National Institute for Occupational Safety and Health (NIOSH) that describes how to manage hazards by elimination , substitution , engineering controls , administrative controls , and personal protective equipment (PPE) .
+
+Ergonomics tries to fit the job to the worker, not the worker to the job. Whenever there is a worker and a job, there will be ergonomic considerations. Commonly, ergonomic issues can arise in an office setting. Many people who work in an office (either a home office or a formal office building) often spend hours sitting and working in the same position. Ergonomic considerations include chair and computer monitor height adjustment, lighting position, break frequency, and chair design.
+
+Those working in manufacturing settings are prone to repetitive actions, awkward postures, high forces, and prolonged exposure to vibrations from equipment and tools. These exposures can result in increased rates of musculoskeletal disorders and cumulative trauma disorders . Specific risk factors include physical activities (pushing, pulling, lifting, and carrying), bending and reaching for loads, twisting the body, and other high-intensity and energy-exerting tasks.
+
+It is important to manage ergonomic risk factors and reduce employee exposure to those risk factors. Effective ergonomics practices can improve employee health, increase productivity, increase manufacturing quality, decrease cost, improve profitability, and create and grow a better, healthier team of employees.
+
+The following tips and practices can be implemented by employees and company management alike to help improve ergonomics in the manufacturing setting.
+
+Awkward posture
+
+Workstations should be kept at an appropriate height for the employee, based on their needs and the task being performed. The work surface should be at an appropriate height, with commonly used items within easy reach to prevent the need for reaching and awkward stretching. Stools or chairs should be provided when appropriate for tasks to reduce the time employees need to stand. Knee pads should be provided to prevent the need to squat if work needs to be done on the ground.
+
+Static posture
+
+Assembly line workers who stand for the duration of a shift may experience negative effects over time. Switching tasks, taking breaks, or providing the option to sit can help reduce static postures.
+
+Contact stress
+
+Using lifting aids can reduce or eliminate the force placed on the employee's body during lifting tasks. Using carts , conveyors , or automated guided vehicles (AGVs) can help employees manage and carry heavy loads better, or even automate the lifting and carrying process.
+
+When transporting heavy loads, try to push the load rather than pull. Pushing uses the body's stronger back and leg muscles. Ensure that the wheels on a cart or transporting device are appropriate for the surface on which it will be moved, as well as the materials it will be moving. Make sure preventative maintenance is performed on carts and moving equipment so they can continue to be used properly.
+
+Repetitive motion
+
+Using, and training employees on how to use, proper lifting techniques can ease the burden of awkward lifting postures. Lifting by bending at the hips and knees, and lifting within the "lifting safety zone" (between the elbows and knuckles), can reduce forces on parts of the body while lifting.
+
+High force
+
+High forces in the manufacturing industry can come from the lifting of products from one point to the other. Prolonged exposure can be problematic, as it increases stress and fatigue on the muscles and joints, which over time causes pain and discomfort.
+
+Construction work can involve floor and ground-level work, overhead work, hand-intensive work, and lifting, holding, and handling materials. It is reported that back injuries in US construction were 50% higher than the average for all other US industries. Construction workers often experience backaches and pain in the shoulders, neck, arms, and hands; these symptoms often lead to musculoskeletal disorders and can cause health complications. Employees have an increased risk of these injuries and health conditions if they often carry heavy loads, work on their knees, twist their hands or wrists, stretch to work overhead, use certain types of tools, or use vibrating tools or equipment.
+
+This industry, among others, has added pressure from tight deadlines, which creates a fast-paced work environment that often results in little attention being paid to ergonomic factors.
+
+Awkward posture
+
+For some construction jobs, stooping or kneeling is required for tasks like finishing slabs, decks, or floor coverings. Bending, stooping, kneeling , or squatting can cause pain or discomfort in the employee's back or knees. Not only can these activities cause pain and discomfort, but these physical positions can limit other job activities such as lifting, pushing, or pulling weights without substantial body stress. Potential solutions for common ergonomic hazards include:
+
+Working overhead is often required of construction employees. Drilling, driving fasteners, or finishing drywall are all tasks that entail overhead work. This positioning can put stress on the neck and shoulders, and can reduce the ability for the employee to work safely. Using lifts or hoists would help the employee become closer to the work surface to reduce the frequency and intensity of lifting materials overhead. Attaching extension shafts for drills can help eliminate the need to reach overhead at all, and could help protect the employee from overhead ergonomic complications. Another solution could be to use an extension pole for tools. An extension pole is a fixed height pole attached to a powder-actuated tool, meaning the tool is out of the employee's hands, but they are still able to operate it.
+
+Static posture
+
+Static posture in construction is rare due to the active nature of the work. One exception is in the office setting where planning is done.
+
+Contact stress
+
+Many tasks on construction sites involve lifting, holding, and handling materials. This lifting and holding can strain the lower back, shoulders, neck, arms, hands, and wrists. Many tools used today are mechanical, but some tasks still need to be done manually. Using a power vacuum to lift large, lighter items (such as a pane of glass) can remove the need to lift items manually and can take most, if not all, of the strain off of the employee's body. Receiving proper lifting training can also help prevent complications from lifting materials.
+
+Best lifting practices include:
+
+Using substitution can help with lifting materials as well. Some construction materials are very dense and heavy; substituting these materials for lighter materials (such as lightweight concrete blocks) can help reduce body strain during work and lifting tasks. Using skid plates under a concrete-filled hose can help move the hose easily, thus helping the worker avoid bending and awkward postures.
+
+Repetitive motion
+
+Fine motor skills are also needed in construction. Repeatedly performing these tasks can cause injuries such as tendinitis , carpal tunnel syndrome , trigger finger , epicondylitis , and hand-arm vibration syndrome (HAVS). Vibrations from power tools can cause injuries and long-term health effects. Using reduced vibration power tools—or anti-vibration gloves—can help reduce health effects from tool vibrations. Substitute tools that do not fit the employee with more ergonomic tools. Take into consideration the handle, wrist position, handle diameter, and if the tool is spring-loaded. Automated tools (such as power caulking guns) can help reduce the strain of performing a repetitive task.
+
+More specific examples and solutions for construction ergonomic hazards can be found in the NIOSH publication, "Simple Solutions: Ergonomics for Construction Workers" .
+
+High forces
+
+Most work in the construction industry requires a certain amount of high force to move or lift heavy objects. High forces in construction can also be seen in the pushing, pulling, and gripping of tools. All these can lead to some ergonomic issues that might affect the work.
+
+Migrant farmworkers engage in various types of manual labor within the crop production sector that can lead to work-related musculoskeletal disorders . WMSDs may include back, neck, shoulder, arm, hand, wrist, elbow, knee, hip, ankle, and foot injuries among farmworkers. These can also result in sprains, strains, carpel tunnel syndrome , pain, sensitivity, swelling and soreness. Poor ergonomics can lead to increased risk for WMSDs, long-term pain, reduced productivity and work ability among farmworkers.
+
+Awkward posture
+
+Some farmworker jobs require bending, stooping, squatting , and kneeling to pick fruit and vegetables when working in fields and orchards. Working in these setting may also prompt the use of ladders to pick fruits from trees and require farmworkers to work with their arms above shoulder level.
+
+Static posture
+
+In warehouses, farmworker tasks can include standing for hours at packing lines sorting out expired produce and packing produce into boxes. Offering tall chairs that allow work at the level of packing lines can help alleviate some physical stress of standing for the duration of a shift.
+
+Repetitive motion
+
+The nature of farm work may require the same motion to execute tasks such as sorting produce, stooping, squatting, and bending to pick produce. Using specific tools and offering trainings to farmworkers can help reduce the risk of nerve damage.
+
+High forces
+
+High forces in the agriculture industry can come from lifting heavy boxes, equipment, and harvest sacks.

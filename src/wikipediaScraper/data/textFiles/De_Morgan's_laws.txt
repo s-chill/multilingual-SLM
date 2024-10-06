@@ -1,0 +1,164 @@
+In propositional logic and Boolean algebra , De Morgan's laws , also known as De Morgan's theorem , are a pair of transformation rules that are both valid rules of inference . They are named after Augustus De Morgan , a 19th-century British mathematician. The rules allow the expression of conjunctions and disjunctions purely in terms of each other via negation .
+
+The rules can be expressed in English as:
+
+or
+
+or
+
+where "A or B" is an " inclusive or " meaning at least one of A or B rather than an " exclusive or " that means exactly one of A or B.
+
+Another form of De Morgan's law is the following as seen below.
+
+Applications of the rules include simplification of logical expressions in computer programs and digital circuit designs. De Morgan's laws are an example of a more general concept of mathematical duality .
+
+The negation of conjunction rule may be written in sequent notation:
+
+The negation of disjunction rule may be written as:
+
+In rule form : negation of conjunction
+
+¬ ( P ∧ Q ) ∴ ¬ P ∨ ¬ Q ¬ P ∨ ¬ Q ∴ ¬ ( P ∧ Q ) {\displaystyle {\frac {\neg (P\land Q)}{\therefore \neg P\lor \neg Q}}\qquad {\frac {\neg P\lor \neg Q}{\therefore \neg (P\land Q)}}}
+
+and negation of disjunction
+
+¬ ( P ∨ Q ) ∴ ¬ P ∧ ¬ Q ¬ P ∧ ¬ Q ∴ ¬ ( P ∨ Q ) {\displaystyle {\frac {\neg (P\lor Q)}{\therefore \neg P\land \neg Q}}\qquad {\frac {\neg P\land \neg Q}{\therefore \neg (P\lor Q)}}}
+
+and expressed as truth-functional tautologies or theorems of propositional logic:
+
+where P {\displaystyle P} and Q {\displaystyle Q} are propositions expressed in some formal system.
+
+The generalized De Morgan's laws provide an equivalence for negating a conjunction or disjunction involving multiple terms. For a set of propositions P 1 , P 2 , … , P n {\displaystyle P_{1},P_{2},\dots ,P_{n}} , the generalized De Morgan's Laws are as follows:
+
+These laws generalize De Morgan's original laws for negating conjunctions and disjunctions.
+
+De Morgan's laws are normally shown in the compact form above, with the negation of the output on the left and negation of the inputs on the right. A clearer form for substitution can be stated as:
+
+This emphasizes the need to invert both the inputs and the output, as well as change the operator when doing a substitution.
+
+In set theory, it is often stated as "union and intersection interchange under complementation", which can be formally expressed as:
+
+where:
+
+The generalized form is
+
+where I is some, possibly countably or uncountably infinite, indexing set.
+
+In set notation, De Morgan's laws can be remembered using the mnemonic "break the line, change the sign".
+
+In Boolean algebra, similarly, this law which can be formally expressed as:
+
+where:
+
+which can be generalized to
+
+In electrical and computer engineering , De Morgan's laws are commonly written as:
+
+and
+
+where:
+
+De Morgan's laws commonly apply to text searching using Boolean operators AND, OR, and NOT.  Consider a set of documents containing the words "cats" and "dogs". De Morgan's laws hold that these two searches will return the same set of documents:
+
+The corpus of documents containing "cats" or "dogs" can be represented by four documents:
+
+To evaluate Search A, clearly the search "(cats OR dogs)" will hit on Documents 1, 2, and 3. So the negation of that search (which is Search A) will hit everything else, which is Document 4.
+
+Evaluating Search B, the search "(NOT cats)" will hit on documents that do not contain "cats", which is Documents 2 and 4.  Similarly the search "(NOT dogs)" will hit on Documents 1 and 4. Applying the AND operator to these two searches (which is Search B) will hit on the documents that are common to these two searches, which is Document 4.
+
+A similar evaluation can be applied to show that the following two searches will both return Documents 1, 2, and 4:
+
+The laws are named after Augustus De Morgan (1806–1871), who introduced a formal version of the laws to classical propositional logic . De Morgan's formulation was influenced by algebraization of logic undertaken by George Boole , which later cemented De Morgan's claim to the find. Nevertheless, a similar observation was made by Aristotle , and was known to Greek and Medieval logicians. For example, in the 14th century, William of Ockham wrote down the words that would result by reading the laws out. Jean Buridan , in his Summulae de Dialectica , also describes rules of conversion that follow the lines of De Morgan's laws. Still, De Morgan is given credit for stating the laws in the terms of modern formal logic, and incorporating them into the language of logic. De Morgan's laws can be proved easily, and may even seem trivial. Nonetheless, these laws are helpful in making valid inferences in proofs and deductive arguments.
+
+De Morgan's theorem may be applied to the negation of a disjunction or the negation of a conjunction in all or part of a formula.
+
+In the case of its application to a disjunction, consider the following claim: "it is false that either of A or B is true", which is written as:
+
+In that it has been established that neither A nor B is true, then it must follow that both A is not true and B is not true, which may be written directly as:
+
+If either A or B were true, then the disjunction of A and B would be true, making its negation false. Presented in English, this follows the logic that "since two things are both false, it is also false that either of them is true".
+
+Working in the opposite direction, the second expression asserts that A is false and B is false (or equivalently that "not A" and "not B" are true). Knowing this, a disjunction of A and B must be false also. The negation of said disjunction must thus be true, and the result is identical to the first claim.
+
+The application of De Morgan's theorem to conjunction is very similar to its application to a disjunction both in form and rationale.  Consider the following claim: "it is false that A and B are both true", which is written as:
+
+In order for this claim to be true, either or both of A or B must be false, for if they both were true, then the conjunction of A and B would be true, making its negation false. Thus, one (at least) or more of A and B must be false (or equivalently, one or more of "not A" and "not B" must be true). This may be written directly as,
+
+Presented in English, this follows the logic that "since it is false that two things are both true, at least one of them must be false".
+
+Working in the opposite direction again, the second expression asserts that at least one of "not A" and "not B" must be true, or equivalently that at least one of A and B must be false. Since at least one of them must be false, then their conjunction would likewise be false. Negating said conjunction thus results in a true expression, and this expression is identical to the first claim.
+
+Here we use A ¯ {\displaystyle {\overline {A}}} to denote the complement of A, as above in § Set theory and Boolean algebra . The proof that A ∩ B ¯ = A ¯ ∪ B ¯ {\displaystyle {\overline {A\cap B}}={\overline {A}}\cup {\overline {B}}} is completed in 2 steps by proving both A ∩ B ¯ ⊆ A ¯ ∪ B ¯ {\displaystyle {\overline {A\cap B}}\subseteq {\overline {A}}\cup {\overline {B}}} and A ¯ ∪ B ¯ ⊆ A ∩ B ¯ {\displaystyle {\overline {A}}\cup {\overline {B}}\subseteq {\overline {A\cap B}}} .
+
+Let x ∈ A ∩ B ¯ {\displaystyle x\in {\overline {A\cap B}}} . Then, x ∉ A ∩ B {\displaystyle x\not \in A\cap B} .
+
+Because A ∩ B = { y | y ∈ A ∧ y ∈ B } {\displaystyle A\cap B=\{\,y\ |\ y\in A\wedge y\in B\,\}} , it must be the case that x ∉ A {\displaystyle x\not \in A} or x ∉ B {\displaystyle x\not \in B} .
+
+If x ∉ A {\displaystyle x\not \in A} , then x ∈ A ¯ {\displaystyle x\in {\overline {A}}} , so x ∈ A ¯ ∪ B ¯ {\displaystyle x\in {\overline {A}}\cup {\overline {B}}} .
+
+Similarly, if x ∉ B {\displaystyle x\not \in B} , then x ∈ B ¯ {\displaystyle x\in {\overline {B}}} , so x ∈ A ¯ ∪ B ¯ {\displaystyle x\in {\overline {A}}\cup {\overline {B}}} .
+
+Thus, ∀ x ( x ∈ A ∩ B ¯ ⟹ x ∈ A ¯ ∪ B ¯ ) {\displaystyle \forall x{\Big (}x\in {\overline {A\cap B}}\implies x\in {\overline {A}}\cup {\overline {B}}{\Big )}} ;
+
+that is, A ∩ B ¯ ⊆ A ¯ ∪ B ¯ {\displaystyle {\overline {A\cap B}}\subseteq {\overline {A}}\cup {\overline {B}}} .
+
+To prove the reverse direction, let x ∈ A ¯ ∪ B ¯ {\displaystyle x\in {\overline {A}}\cup {\overline {B}}} , and for contradiction assume x ∉ A ∩ B ¯ {\displaystyle x\not \in {\overline {A\cap B}}} .
+
+Under that assumption, it must be the case that x ∈ A ∩ B {\displaystyle x\in A\cap B} ,
+
+so it follows that x ∈ A {\displaystyle x\in A} and x ∈ B {\displaystyle x\in B} , and thus x ∉ A ¯ {\displaystyle x\not \in {\overline {A}}} and x ∉ B ¯ {\displaystyle x\not \in {\overline {B}}} .
+
+However, that means x ∉ A ¯ ∪ B ¯ {\displaystyle x\not \in {\overline {A}}\cup {\overline {B}}} , in contradiction to the hypothesis that x ∈ A ¯ ∪ B ¯ {\displaystyle x\in {\overline {A}}\cup {\overline {B}}} ,
+
+therefore, the assumption x ∉ A ∩ B ¯ {\displaystyle x\not \in {\overline {A\cap B}}} must not be the case, meaning that x ∈ A ∩ B ¯ {\displaystyle x\in {\overline {A\cap B}}} .
+
+Hence, ∀ x ( x ∈ A ¯ ∪ B ¯ ⟹ x ∈ A ∩ B ¯ ) {\displaystyle \forall x{\Big (}x\in {\overline {A}}\cup {\overline {B}}\implies x\in {\overline {A\cap B}}{\Big )}} ,
+
+that is, A ¯ ∪ B ¯ ⊆ A ∩ B ¯ {\displaystyle {\overline {A}}\cup {\overline {B}}\subseteq {\overline {A\cap B}}} .
+
+If A ¯ ∪ B ¯ ⊆ A ∩ B ¯ {\displaystyle {\overline {A}}\cup {\overline {B}}\subseteq {\overline {A\cap B}}} and A ∩ B ¯ ⊆ A ¯ ∪ B ¯ {\displaystyle {\overline {A\cap B}}\subseteq {\overline {A}}\cup {\overline {B}}} , then A ∩ B ¯ = A ¯ ∪ B ¯ {\displaystyle {\overline {A\cap B}}={\overline {A}}\cup {\overline {B}}} ; this concludes the proof of De Morgan's law.
+
+The other De Morgan's law, A ∪ B ¯ = A ¯ ∩ B ¯ {\displaystyle {\overline {A\cup B}}={\overline {A}}\cap {\overline {B}}} , is proven similarly.
+
+In extensions of classical propositional logic, the duality still holds (that is, to any logical operator one can always find its dual), since in the presence of the identities governing negation, one may always introduce an operator that is the De Morgan dual of another. This leads to an important property of logics based on classical logic , namely the existence of negation normal forms : any formula is equivalent to another formula where negations only occur applied to the non-logical atoms of the formula. The existence of negation normal forms drives many applications, for example in digital circuit design, where it is used to manipulate the types of logic gates , and in formal logic, where it is needed to find the conjunctive normal form and disjunctive normal form of a formula.  Computer programmers use them to simplify or properly negate complicated logical conditions . They are also often useful in computations in elementary probability theory .
+
+Let one define the dual of any propositional operator P( p , q , ...) depending on elementary propositions p , q , ... to be the operator P d {\displaystyle {\mbox{P}}^{d}} defined by
+
+This duality can be generalised to quantifiers, so for example the universal quantifier and existential quantifier are duals:
+
+To relate these quantifier dualities to the De Morgan laws, set up a model with some small number of elements in its domain D , such as
+
+Then
+
+and
+
+But, using De Morgan's laws,
+
+and
+
+verifying the quantifier dualities in the model.
+
+Then, the quantifier dualities can be extended further to modal logic , relating the box ("necessarily") and diamond ("possibly") operators:
+
+In its application to the alethic modalities of possibility and necessity, Aristotle observed this case, and in the case of normal modal logic , the relationship of these modal operators to the quantification can be understood by setting up models using Kripke semantics .
+
+Three out of the four implications of de Morgan's laws hold in intuitionistic logic . Specifically, we have
+
+and
+
+The converse of the last implication does not hold in pure intuitionistic logic. That is, the failure of the joint proposition P ∧ Q {\displaystyle P\land Q} cannot necessarily be resolved to the failure of either of the two conjuncts . For example, from knowing it not to be the case that both Alice and Bob showed up to their date, it does not follow who did not show up. The latter principle is equivalent to the principle of the weak excluded middle W P E M {\displaystyle {\mathrm {WPEM} }} ,
+
+This weak form can be used as a foundation for an intermediate logic .
+For a refined version of the failing law concerning existential statements, see the lesser limited principle of omniscience L L P O {\displaystyle {\mathrm {LLPO} }} , which however is different from W L P O {\displaystyle {\mathrm {WLPO} }} .
+
+The validity of the other three De Morgan's laws remains true if negation ¬ P {\displaystyle \neg P} is replaced by implication P → C {\displaystyle P\to C} for some arbitrary constant predicate C, meaning that the above laws are still true in minimal logic .
+
+Similarly to the above, the quantifier laws:
+
+and
+
+are tautologies even in minimal logic with negation replaced with implying a fixed Q {\displaystyle Q} , while the converse of the last law does not have to be true in general.
+
+Further, one still has
+
+but their inversion implies excluded middle , P E M {\displaystyle {\mathrm {PEM} }} .

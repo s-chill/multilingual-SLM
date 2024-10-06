@@ -1,0 +1,57 @@
+Historical method is the collection of techniques and guidelines that historians use to research and write histories of the past. Secondary sources , primary sources and material evidence such as that derived from archaeology may all be drawn on, and the historian's skill lies in identifying these sources, evaluating their relative authority, and combining their testimony appropriately in order to construct an accurate and reliable picture of past events and environments.
+
+In the philosophy of history , the question of the nature , and the possibility, of a sound historical method is raised within the sub-field of epistemology . The study of historical method and of different ways of writing history is known as historiography .
+
+Though historians agree in very general and basic principles, in practice "specific canons of historical proof are neither widely observed nor generally agreed upon" among professional historians. Some scholars of history have observed that there are no particular standards for historical fields such as religion, art, science, democracy, and social justice as these are by their nature 'essentially contested' fields, such that they require diverse tools particular to each field beforehand in order to interpret topics from those fields.
+
+Source criticism (or information evaluation) is the process of evaluating the qualities of an information source , such as its validity, reliability, and relevance to the subject under investigation.
+
+Gilbert J. Garraghan and Jean Delanglez (1946) divide source criticism into six inquiries:
+
+The first four are known as higher criticism ; the fifth, lower criticism ; and, together, external criticism.  The sixth and final inquiry about a source is called internal criticism. Together, this inquiry is known as source criticism.
+
+R. J. Shafer on external criticism: "It sometimes is said that its function is negative, merely saving us from using false evidence; whereas internal criticism has the positive function of telling us how to use authenticated evidence."
+
+Noting that few documents are accepted as completely reliable, Louis Gottschalk sets down the general rule, "for each particular of a document the process of establishing credibility should be separately undertaken regardless of the general credibility of the author".  An author's trustworthiness in the main may establish a background probability for the consideration of each statement, but each piece of evidence extracted must be weighed individually.
+
+Bernheim (1889) and Langlois & Seignobos (1898) proposed a seven-step procedure for source criticism in history:
+
+Subsequent descriptions of historical method, outlined below, have attempted to overcome the credulity built into the first step formulated by the nineteenth century historiographers by stating principles not merely by which different reports can be harmonized but instead by which a statement found in a source may be considered to be unreliable or reliable as it stands on its own.
+
+The following core principles of source criticism were formulated by two Scandinavian historians, Olden-Jørgensen (1998) and Thurén Torsten (1997):
+
+Historians sometimes have to deal with deciding what is genuine and what is not in a source. For such circumstances, there are external and internal "criteria of authenticity" that are applicable. These are technical tools for evaluating sources and separating 'genuine' sources or content from forgeries or manipulation.
+
+External criteria involve issues relating to establishing authorship of a source or range of sources. It involves things like if an author wrote something themselves, if other sources attribute authorship to the source, agreement of independent manuscript copies on the content of a source.
+
+Internal criteria involve formalities, style, and language for an author; if a source varies from the environment it was produced, inconsistencies of time or chronology, textual transmission of a source, interpolations in a source, insertions or deletions in a source.
+
+R. J. Shafer (1974) offers this checklist for evaluating eyewitness testimony :
+
+Louis Gottschalk adds an additional consideration: "Even when the fact in question may not be well-known, certain kinds of statements are both incidental and probable to such a degree that error or falsehood seems unlikely.  If an ancient inscription on a road tells us that a certain proconsul built that road while Augustus was princeps , it may be doubted without further corroboration that that proconsul really built the road, but would be harder to doubt that the road was built during the principate of Augustus.  If an advertisement informs readers that 'A and B Coffee may be bought at any reliable grocer's at the unusual price of fifty cents a pound,' all the inferences of the advertisement may well be doubted without corroboration except that there is a brand of coffee on the market called 'A and B Coffee.'"
+
+Garraghan (1946) says that most information comes from " indirect witnesses ", people who were not present on the scene but heard of the events from someone else. Gottschalk says that a historian may sometimes use hearsay evidence when no primary texts are available.  He writes, "In cases where he uses secondary witnesses...he asks: (1) On whose primary testimony does the secondary witness base his statements?  (2) Did the secondary witness accurately report the primary testimony as a whole?  (3) If not, in what details did he accurately report the primary testimony?  Satisfactory answers to the second and third questions may provide the historian with the whole or the gist of the primary testimony upon which the secondary witness may be his only means of knowledge.  In such cases the secondary source is the historian's 'original' source, in the sense of being the 'origin' of his knowledge.  Insofar as this 'original' source is an accurate report of primary testimony, he tests its credibility as he would that of the primary testimony itself." Gottschalk adds, "Thus hearsay evidence would not be discarded by the historian, as it would be by a law court merely because it is hearsay."
+
+Gilbert Garraghan (1946) maintains that oral tradition may be accepted if it satisfies either two "broad conditions" or six "particular conditions", as follows:
+
+Other methods of verifying oral tradition may exist, such as comparison with the evidence of archaeological remains.
+
+More recent evidence concerning the potential reliability or unreliability of oral tradition has come out of fieldwork in West Africa and Eastern Europe .
+
+Historians do allow for the use of anonymous texts to establish historical facts.
+
+Once individual pieces of information have been assessed in context, hypotheses can be formed and established by historical reasoning.
+
+C. Behan McCullagh (1984) lays down seven conditions for a successful argument to the best explanation:
+
+McCullagh sums up, "if the scope and strength of an explanation are very great, so that it explains a large number and variety of facts, many more than any competing explanation, then it is likely to be true".
+
+McCullagh (1984) states this form of argument as follows:
+
+McCullagh gives this example:
+
+This is a syllogism in probabilistic form, making use of a generalization formed by induction from numerous examples (as the first premise).
+
+The structure of the argument is as follows:
+
+McCullagh says that an argument from analogy, if sound, is either a "covert statistical syllogism" or better expressed as an argument to the best explanation.  It is a statistical syllogism when it is "established by a sufficient number and variety of instances of the generalization"; otherwise, the argument may be invalid because properties 1 through n are unrelated to property n + 1, unless property n + 1 is the best explanation of properties 1 through n . Analogy, therefore, is uncontroversial only when used to suggest hypotheses, not as a conclusive argument.

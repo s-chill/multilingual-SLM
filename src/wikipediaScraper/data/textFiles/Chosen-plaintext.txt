@@ -1,0 +1,37 @@
+A chosen-plaintext attack ( CPA ) is an attack model for cryptanalysis which presumes that the attacker can obtain the ciphertexts for arbitrary plaintexts . The goal of the attack is to gain information that reduces the security of the encryption scheme.
+
+Modern ciphers aim to provide semantic security, also known as ciphertext indistinguishability under chosen-plaintext attack , and they are therefore, by design, generally immune to chosen-plaintext attacks if correctly implemented.
+
+In a chosen-plaintext attack the adversary can (possibly adaptively ) ask for the ciphertexts of arbitrary plaintext messages. This is formalized by allowing the adversary to interact with an encryption oracle , viewed as a black box . The attacker’s goal is to reveal all or a part of the secret encryption key.
+
+It may seem infeasible in practice that an attacker could obtain ciphertexts for given plaintexts. However, modern cryptography is implemented in software or hardware and is used for a diverse range of applications; for many cases, a chosen-plaintext attack is often very feasible (see also In practice ). Chosen-plaintext attacks become extremely important in the context of public key cryptography where the encryption key is public and so attackers can encrypt any plaintext they choose.
+
+There are two forms of chosen-plaintext attacks:
+
+A general batch chosen-plaintext attack is carried out as follows :
+
+Consider the following extension of the above situation. After the last step,
+
+A cipher has indistinguishable encryptions under a chosen-plaintext attack if after running the above experiment with n =1 the adversary can't guess correctly ( b = b' ) with probability non- negligibly better than 1/2.
+
+The following examples demonstrate how some ciphers that meet other security definitions may be broken with a chosen-plaintext attack.
+
+The following attack on the Caesar cipher allows full recovery of the secret key:
+
+With more intricate or complex encryption methodologies the decryption method becomes more resource-intensive, however, the core concept is still relatively the same.
+
+The following attack on a one-time pad allows full recovery of the secret key. Suppose the message length and key length are equal to n .
+
+While the one-time pad is used as an example of an information-theoretically secure cryptosystem, this security only holds under security definitions weaker than CPA security. This is because under the formal definition of CPA security the encryption oracle has no state. This vulnerability may not be applicable to all practical implementations – the one-time pad can still be made secure if key reuse is avoided (hence the name "one-time" pad).
+
+In World War II US Navy cryptanalysts discovered that Japan was planning to attack a location referred to as "AF". They believed that "AF" might be Midway Island , because other locations in the Hawaiian Islands had codewords that began with "A". To prove their hypothesis that "AF" corresponded to "Midway Island" they asked the US forces at Midway to send a plaintext message about low supplies. The Japanese intercepted the message and immediately reported to their superiors that "AF" was low on water, confirming the Navy's hypothesis and allowing them to position their force to win the battle .
+
+Also during World War II , Allied codebreakers at Bletchley Park would sometimes ask the Royal Air Force to lay mines at a position that didn't have any abbreviations or alternatives in the German naval system's grid reference. The hope was that the Germans, seeing the mines, would use an Enigma machine to encrypt a warning message about the mines and an "all clear" message after they were removed, giving the allies enough information about the message to break the German naval Enigma. This process of planting a known-plaintext was called gardening . Allied codebreakers also helped craft messages sent by double agent Juan Pujol García , whose encrypted radio reports were received in Madrid, manually decrypted, and then re-encrypted with an Enigma machine for transmission to Berlin. This helped the codebreakers decrypt the code used on the second leg, having supplied the original text .
+
+In modern day, chosen-plaintext attacks (CPAs) are often used to break symmetric ciphers . To be considered CPA-secure, the symmetric cipher must not be vulnerable to chosen-plaintext attacks. Thus, it is important for symmetric cipher implementors to understand how an attacker would attempt to break their cipher and make relevant improvements.
+
+For some chosen-plaintext attacks, only a small part of the plaintext may need to be chosen by the attacker; such attacks are known as plaintext injection attacks.
+
+A chosen-plaintext attack is more powerful than known-plaintext attack , because the attacker can directly target specific terms or patterns without having to wait for these to appear naturally, allowing faster gathering of data relevant to cryptanalysis. Therefore, any cipher that prevents chosen-plaintext attacks is also secure against known-plaintext and ciphertext-only attacks.
+
+However, a chosen-plaintext attack is less powerful than a chosen-ciphertext attack , where the attacker can obtain the plaintexts of arbitrary ciphertexts. A CCA-attacker can sometimes break a CPA-secure system. For example, the El Gamal cipher is secure against chosen plaintext attacks, but vulnerable to chosen ciphertext attacks because it is unconditionally malleable .

@@ -1,0 +1,25 @@
+The pinhole camera model describes the mathematical relationship between the coordinates of a point in three-dimensional space and its projection onto the image plane of an ideal pinhole camera , where the camera aperture is described as a point and no lenses are used to focus light.  The model does not include, for example, geometric distortions or blurring of unfocused objects caused by lenses and finite sized apertures. It also does not take into account that most practical cameras have only discrete image coordinates.  This means that the pinhole camera model can only be used as a first order approximation of the mapping from a 3D scene to a 2D image .  Its validity depends on the quality of the camera and, in general, decreases from the center of the image to the edges as lens distortion effects increase.
+
+Some of the effects that the pinhole camera model does not take into account can be compensated, for example by applying suitable coordinate transformations on the image coordinates; other effects are sufficiently small to be neglected if a high quality camera is used.  This means that the pinhole camera model often can be used as a reasonable description of how a camera depicts a 3D scene, for example in computer vision and computer graphics .
+
+The geometry related to the mapping of a pinhole camera is illustrated in the figure. The figure contains the following basic objects:
+
+The pinhole aperture of the camera, through which all projection lines must pass, is assumed to be infinitely small, a point.  In the literature this point in 3D space is referred to as the optical (or lens or camera) center .
+
+Next we want to understand how the coordinates ( y 1 , y 2 ) {\displaystyle (y_{1},y_{2})} of point Q depend on the coordinates ( x 1 , x 2 , x 3 ) {\displaystyle (x_{1},x_{2},x_{3})} of point P .  This can be done with the help of the following figure which shows the same scene as the previous figure but now from above, looking down in the negative direction of the X2 axis.
+
+In this figure we see two similar triangles , both having parts of the projection line (green) as their hypotenuses .  The catheti of the left triangle are − y 1 {\displaystyle -y_{1}} and f and the catheti of the right triangle are x 1 {\displaystyle x_{1}} and x 3 {\displaystyle x_{3}} .  Since the two triangles are similar it follows that
+
+A similar investigation, looking in the negative direction of the X1 axis gives
+
+This can be summarized as
+
+which is an expression that describes the relation between the 3D coordinates ( x 1 , x 2 , x 3 ) {\displaystyle (x_{1},x_{2},x_{3})} of point P and its image coordinates ( y 1 , y 2 ) {\displaystyle (y_{1},y_{2})} given by point Q in the image plane.
+
+The mapping from 3D to 2D coordinates described by a pinhole camera is a perspective projection followed by a 180° rotation in the image plane.  This corresponds to how a real pinhole camera operates; the resulting image is rotated 180° and the relative size of projected objects depends on their distance to the focal point and the overall size of the image depends on the distance f between the image plane and the focal point.  In order to produce an unrotated image, which is what we expect from a camera, there are two possibilities:
+
+In both cases, the resulting mapping from 3D coordinates to 2D image coordinates is given by the expression above, but without the negation, thus
+
+The mapping from 3D coordinates of points in space to 2D image coordinates can also be represented in homogeneous coordinates .  Let x {\displaystyle \mathbf {x} } be a representation of a 3D point in homogeneous coordinates (a 4-dimensional vector), and let y {\displaystyle \mathbf {y} } be a representation of the image of this point in the pinhole camera (a 3-dimensional vector).  Then the following relation holds
+
+where C {\displaystyle \mathbf {C} } is the 3 × 4 {\displaystyle 3\times 4} camera matrix and the ∼ {\displaystyle \,\sim } means equality between elements of projective spaces .  This implies that the left and right hand sides are equal up to a non-zero scalar multiplication.  A consequence of this relation is that also C {\displaystyle \mathbf {C} } can be seen as an element of a projective space ; two camera matrices are equivalent if they are equal up to a scalar multiplication.  This description of the pinhole camera mapping, as a linear transformation C {\displaystyle \mathbf {C} } instead of as a fraction of two linear expressions, makes it possible to simplify many derivations of relations between 3D and 2D coordinates.

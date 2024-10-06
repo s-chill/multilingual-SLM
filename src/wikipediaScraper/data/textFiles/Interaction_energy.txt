@@ -1,0 +1,13 @@
+In physics , interaction energy is the contribution to the total energy that is caused by an interaction between the objects being considered.
+
+The interaction energy usually depends on the relative position of the objects. For example, Q 1 Q 2 / ( 4 π ε 0 Δ r ) {\displaystyle Q_{1}Q_{2}/(4\pi \varepsilon _{0}\Delta r)} is the electrostatic interaction energy between two objects with charges Q 1 {\displaystyle Q_{1}} , Q 2 {\displaystyle Q_{2}} .
+
+A straightforward approach for evaluating the interaction energy is to calculate the difference between the objects' combined energy and all of their isolated energies. In the case of two objects, A and B , the interaction energy can be written as: Δ E int = E ( A , B ) − ( E ( A ) + E ( B ) ) , {\displaystyle \Delta E_{\text{int}}=E(A,B)-\left(E(A)+E(B)\right),} where E ( A ) {\displaystyle E(A)} and E ( B ) {\displaystyle E(B)} are the energies of the isolated objects (monomers), and E ( A , B ) {\displaystyle E(A,B)} the energy of their interacting assembly (dimer).
+
+For larger system, consisting of N objects, this procedure can be generalized to provide a total many-body interaction energy:
+
+Δ E int = E ( A 1 , A 2 , … , A N ) − ∑ i = 1 N E ( A i ) . {\displaystyle \Delta E_{\text{int}}=E(A_{1},A_{2},\dots ,A_{N})-\sum _{i=1}^{N}E(A_{i}).}
+
+By calculating the energies for monomers, dimers, trimers, etc., in an N-object system, a complete set of two-, three-, and up to N-body interaction energies can be derived.
+
+The supermolecular approach has an important disadvantage in that the final interaction energy is usually much smaller than the total energies from which it is calculated, and therefore contains a much larger relative uncertainty. In the case where energies are derived from quantum chemical calculations using finite atom-centered basis functions, basis set superposition errors can also contribute some degree of artificial stabilization.

@@ -1,0 +1,7 @@
+The following tables compare general and technical information for a number of file systems .
+
+Note that in addition to the below table, block capabilities can be implemented below the file system layer in Linux ( LVM , integritysetup, cryptsetup ) or Windows ( Volume Shadow Copy Service , SECURITY ), etc.
+
+"Online" and "offline" are synonymous with "mounted" and "not mounted".
+
+While storage devices usually have their size expressed in powers of 10 (for instance a 1 TB Solid State Drive will contain at least 1,000,000,000,000 (10 , 1000 ) bytes), filesystem limits are invariably powers of 2, so usually expressed with IEC prefixes. For instance, a 1 TiB limit means 2 , 1024 bytes. Approximations (rounding down) using power of 10 are also given below to clarify.

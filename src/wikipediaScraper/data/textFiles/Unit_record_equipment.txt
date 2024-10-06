@@ -1,0 +1,66 @@
+Starting at the end of the nineteenth century, well before the advent of electronic computers , data processing was performed using electromechanical machines collectively referred to as unit record equipment , electric accounting machines ( EAM ) or tabulating machines . Unit record machines came to be as ubiquitous in industry and government in the first two-thirds of the twentieth century as computers became in the last third. They allowed large volume, sophisticated data-processing tasks to be accomplished before electronic computers were invented and while they were still in their infancy. This data processing was accomplished by processing punched cards through various unit record machines in a carefully choreographed progression. This progression, or flow, from machine to machine was often planned and documented with detailed flowcharts that used standardized symbols for documents and the various machine functions. All but the earliest machines had high-speed mechanical feeders to process cards at rates from around 100 to 2,000 per minute, sensing punched holes with mechanical, electrical, or, later, optical sensors. The operation of many machines was directed by the use of a removable plugboard , control panel , or connection box . Initially all machines were manual or electromechanical . The first use of an electronic component was in 1937 when a photocell was used in a Social Security bill-feed machine. Electronic components were used on other machines beginning in the late 1940s.
+
+The term unit record equipment also refers to peripheral equipment attached to computers that reads or writes unit records, e.g., card readers , card punches , printers , MICR readers.
+
+IBM was the largest supplier of unit record equipment and this article largely reflects IBM practice and terminology.
+
+In the 1880s Herman Hollerith was the first to record data on a medium that could then be read by a machine. Prior uses of machine readable media had been for lists of instructions (not data) to drive programmed machines such as Jacquard looms and mechanized musical instruments .  "After some initial trials with paper tape, he settled on punched cards [...]". To process these punched cards, sometimes referred to as "Hollerith cards", he invented the keypunch , sorter, and tabulator unit record machines. These inventions were the foundation of the data processing industry.  The tabulator used electromechanical relays to increment mechanical counters.  Hollerith's method was used in the 1890 census.   The company he founded in 1896, the Tabulating Machine Company (TMC), was one of four companies that in 1911 were amalgamated in the forming of a fifth company, the Computing-Tabulating-Recording Company , later renamed IBM .
+
+Following the 1900  census a permanent Census bureau was formed.  The bureau's contract disputes with Hollerith led to the formation of the Census Machine Shop where James Powers and others developed new machines for part of the 1910 census processing. Powers left the Census Bureau in 1911, with rights to patents for the machines he developed, and formed the Powers Accounting Machine Company. In 1927 Powers' company was acquired by Remington Rand . In 1919 Fredrik Rosing Bull , after examining Hollerith's machines, began developing unit record machines for his employer.  Bull's patents were sold in 1931, constituting the basis for Groupe Bull .
+
+These companies, and others, manufactured and marketed a variety of general-purpose unit record machines for creating, sorting, and tabulating punched cards, even after the development of computers in the 1950s. Punched card technology had quickly developed into a powerful tool for business data-processing.
+
+By the 1950s punched cards and unit record machines had become ubiquitous in academia, industry and government. The warning often printed on cards that were to be individually handled, "Do not fold, spindle or mutilate", coined by Charles A. Philips, became a motto for the post- World War II era (even though many people had no idea what spindle meant).
+
+With the development of computers punched cards found new uses as their principal input media.  Punched cards were used not only for data, but for a new application - computer programs, see: Computer programming in the punched card era .  Unit record machines therefore remained in computer installations in a supporting role for keypunching, reproducing card decks, and printing.
+
+Many organizations were loath to alter systems that were working, so production unit record installations remained in operation long after computers offered faster and more cost effective solutions. Cost or availability of equipment was another factor; for example in 1965 an IBM 1620 computer did not have a printer as standard equipment, so it was normal in such installations to punch output onto cards and then print these cards on an IBM 407 accounting machine. Specialized uses of punched cards such as toll collection, microform aperture cards , and punched card voting kept unit record equipment in use into the twenty-first century.
+
+The basic unit of data storage was the punched card .  The IBM 80-column card was introduced in 1928. The Remington Rand Card with 45 columns in each of two tiers, thus 90 columns, in 1930. Powers-Samas punched cards include one with 130 columns. Columns on different punch cards vary from 5 to 12 punch positions.
+
+The method used to store data on punched cards is vendor specific.  In general each column represents a single digit, letter or special character. Sequential card columns allocated for a specific use, such as names, addresses, multi-digit numbers, etc., are known as a field. An employee number might occupy 5 columns; hourly pay rate, 3 columns; hours worked in a given week, 2 columns; department number 3 columns; project charge code 6 columns and so on.
+
+Original data were usually punched into cards by workers, often women, known as keypunch operators, under the control of a program card (called a drum card because it was installed on a rotating drum in the machine), which could automatically skip or duplicate predefined card columns, enforce numeric-only entry, and, later, right-justify a number entered.
+
+Their work was often checked by a second operator using a verifier machine, also under the control of a drum card. The verifier operator re-keyed the source data and the machine compared what was keyed to what had been punched on the original card.
+
+An activity in many unit record shops was sorting card decks into the order necessary for the next processing step.  Sorters, like the IBM 80 series Card Sorters , sorted input cards into one of 13 pockets depending on the holes punched in a selected column and the sorter's settings. The 13th pocket was for blanks and rejects. Cards were sorted on one card column at a time; sorting on, for example, a five digit zip code required that the card deck be processed five times. Sorting an input card deck into ascending sequence on a multiple column field, such as an employee number, was done by a radix sort , bucket sort , or a combination of the two methods.
+
+Sorters were also used to separate decks of interspersed master and detail cards, either by a significant hole punch or by the cards corner-cut.
+
+More advanced functionality was available in the IBM 101 Electronic Statistical Machine , which could
+
+Reports and summary data were generated by accounting or tabulating machines . The original tabulators only counted the presence of a hole at a location on a card. Simple logic, like ands and ors could be done using relays.
+
+Later tabulators, such as those in IBM's 300 series , directed by a control panel , could do both addition and subtraction of selected fields to one or more counters and print each card on its own line. At some signal, say a following card with a different customer number, totals could be printed for the just completed customer number.  Tabulators became complex: the IBM 405 contained 55,000 parts (2,400 different) and 75 miles of wire ; a Remington Rand machine circa 1941 contained 40,000 parts.
+
+In 1931, IBM introduced the model 600 multiplying punch. The ability to divide became commercially available after World War II.  The earliest of these calculating punches were electromechanical. Later models employed vacuum tube logic. Electronic modules developed for these units were used in early computers, such as the IBM 650 .  The Bull Gamma 3 calculator could be attached to tabulating machines, unlike the stand-alone IBM calculators.
+
+Card punching operations included:
+
+Singularly or in combination, these operations were provided in a variety of machines. The IBM 519 Document-Originating Machine could perform all of the above operations.
+
+The IBM 549 Ticket Converter read data from Kimball tags , copying that data to punched cards.
+
+With the development of computers, punched cards were also produced by computer output devices .
+
+IBM collators had two input hoppers and four output pockets. These machines could merge or match card decks based on the control panel's wiring as illustrated here .
+
+The Remington Rand Interfiling Reproducing Punch Type 310-1 was designed to merge two separate files into a single file.  It could also punch additional information into those cards and select desired cards.
+
+Collators performed operations comparable to a database join .
+
+An interpreter prints characters on a punched card equivalent to the values of all or selected columns. The columns to be printed can be selected and even reordered, based on the machine's control panel wiring. Later models could print on one of several rows on the card. Unlike keypunches, which print values directly above each column, interpreters generally use a font that was a little wider than a column and can only print up to 60 characters per row. Typical models include the IBM 550 Numeric Interpreter, the IBM 557 Alphabetic Interpreter, and the Remington Rand Type 312 Alphabetic Interpreter.
+
+Batches of punched cards were often stored in tub files , where individual cards could be pulled to meet the requirements of a particular application.
+
+Electrical transmission of punched card data was invented in the early 1930s. The device was called an Electrical Remote Control of Office Machines and was assigned to IBM.
+Inventors were Joseph C. Bolt of Boston & Curt I. Johnson; Worcester, Mass. assors to the Tabulating Machine Co., Endicott, NY. The Distance Control Device received a US patent in Aug.9,1932: U.S. patent 1,870,230 . Letters from IBM talk about filling in Canada in 9/15/1931.
+
+The IBM 046 Tape-to-Card Punch and the IBM 047 Tape-to-Card Printing Punch (which was almost identical, but with the addition of a printing mechanism) read data from punched paper tape and punched that data into cards.  The IBM 063 Card-Controlled Tape Punch read punched cards, punching that data into paper tape.
+
+The operation of Hollerith/BTM/IBM/Bull tabulators and many other types of unit record equipment was directed by a control panel . Operation of Powers-Samas/Remington Rand  unit record equipment was directed by a connection box.
+
+Control panels had a rectangular array of holes called hubs which were organized into groups. Wires with metal ferrules at each end were placed in the hubs to make connections. The output from some card column positions might connected to a tabulating machine's counter, for example. A shop would typically have separate control panels for each task a machine was used for.
+
+For many applications, the volume of fan-fold paper produced by tabulators required other machines, not considered to be unit record machines, to ease paper handling.

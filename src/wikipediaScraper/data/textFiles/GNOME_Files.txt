@@ -1,0 +1,33 @@
+GNOME Files , formerly and internally known as Nautilus , is the official file manager for the GNOME desktop. GNOME Files, same as Nautilus, is a free and open-source software under the terms of the GNU Lesser General Public License .
+
+Nautilus, the predecessor of the GNOME Files, was originally developed by Eazel and Andy Hertzfeld (founder of Eazel and a former Apple engineer) in 1999. The name "Nautilus" was a play on words, evoking the shell of a nautilus to represent an operating system shell .
+
+At the beginning of 2000, Richard Hestgray published the first screenshots of Nautilus 0.1 preview release :
+
+In December 2000, article under the title «Nautilus, GNOME’s new file manager» was published in the Linux Magazine .
+
+The Nautilus Desktop Shell is intended to supersede the GMC file manager (which was derived from the venerable Midnight Commander) in new versions of GNOME. What looks superficially like Yet Another File Manager appears at second glance to be a great deal more.
+
+Nautilus replaced Midnight Commander in GNOME 1.4 (2001) and has been the default file manager from version 2.0 onwards. Nautilus was the flagship product of the now-defunct Eazel Inc.
+
+GNOME Files was first released in 2001 and development has continued ever since. The following is a brief timeline of its development history:
+
+Bookmarks, window backgrounds,  notes, and add-on scripts are all implemented, and the user has the choice between icon, list, or compact list views. In browser mode, Nautilus keeps a history of visited folders, similar to web browsers, permitting quick revisiting of folders.
+
+Nautilus can display previews of files in their icons, be they text files, images, sound or video files via thumbnailers such as Totem . Audio files are previewed (played back over GStreamer ) when the pointer is hovering over them.
+
+In earlier versions, Nautilus included original vectorized icons designed by Susan Kare .
+
+GNOME Files relies on a file system abstraction layer (provided by GVfs ) to browse local and remote file systems, including but not limited to FTP sites, Windows SMB shares, OBEX protocol (often implemented on cellphones), files transferred over shell protocol , HTTP and WebDAV and SFTP servers.
+
+Using the GIO library , Nautilus tracks modification of local files in real time, eliminating the need to refresh the display. GIO internally supports Gamin and FAM , Linux's inotify and Solaris ' File Events Notification system.
+
+GNOME Files relies on Tracker (formerly named "MetaTracker") to index files and is hence able to provide fast file search results.
+
+Batch renaming was introduced with GNOME Files version 3.22 (2016).
+
+GNOME Files version 3.22 adds native, integrated file compression and decompression. By default, handling of archive files (e.g. .tar .gz ) was handed off to File Roller (or another tool). Users now benefit from a progress bar, undo support, and an archive creation wizard.
+
+The new "extract on open" behavior, which automatically extracts an archive file by double clicking it, can be disabled in the preferences.
+
+MIME types (also called "media type" or "content type") are standardized by the IANA , then the freedesktop.org project takes care that the implementation works across all free software desktops. shared-mime-info is the provided library. At this time, at least GNOME, KDE, Xfce and ROX use this database.

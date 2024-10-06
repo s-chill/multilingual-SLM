@@ -1,0 +1,24 @@
+Alias Systems Corporation (formerly Alias Research , Alias|Wavefront ), headquartered in Toronto, Ontario , Canada, was a software company that produced high-end 3D graphics software. Alias was eventually bought by Autodesk .
+
+Alias Systems Corporation was founded by Stephen Bingham, Nigel McGrath, Susan McKenna, and David Springer in 1983. The company was initially funded by a $61,000 grant from the National Research Council , scientific research tax credits, and the founders personal funds.
+
+In 1984, while sitting in a Detroit restaurant during the SIGGRAPH conference, the founders decided to name the company Alias because its only revenue came from Springer's work on an anti-aliasing program for Silicon Graphics, Inc. In 1985, at SIGGRAPH the company released Alias 1, which used cardinal splines instead of polygon meshes with straight lines. In 1989, Alias 2 was used to produce The Abyss which would later win the 1990 Academy Award for Best Visual Effects . In 1990, Alias raised about $35 million (equivalent to $70.13 million in 2023) through an initial public offering . That year, Alias also released new products named Studio, PowerAnimator , UpFront and purchased Spacemaker, separate and distinct to Spacemaker AI, which was purchased by Autodesk in 2020. PowerAnimator was used to produce Terminator 2: Judgment Day (1991), which won the 1992 Academy Award for Best Visual Effects .
+
+In October 1990, the company purchase Full Color Computing, Inc., a provider of high-end photo retouch and color prepress software.
+
+In 1995, Alias began developing Maya . Maya would become the world's premier 3D animation software.
+
+On February 7, 1995, Wavefront , SGI, and Alias merged to become Alias|Wavefront as a division of SGI. In 1998, Alias|Wavefront released Maya.
+
+On March 1, 2003, the company was honored by the Academy of Motion Picture Arts and Sciences with an Academy Award (Oscar) for scientific and technical achievement for their development of Maya software. Wavefront Technologies founders Bill Kovacs and Roy A. Hall received a 1997 Academy Award for the creative leadership (Kovacs) and the principal engineering (Hall) efforts that led to the Wavefront Advanced Visualizer computer graphics system.
+
+Later in 2003, the company's name was changed from Alias|Wavefront to Alias . In June 2004, Silicon Graphics sold Alias to 
+the Ontario Teachers' Pension Plan and Accel- KKR , a technology-focused private equity investment firm, for US$ 57.1 million.
+
+In September 2004, Alias acquired Kaydara, adding the company's character animation and motion editing products to Alias' line of software.
+
+On October 4, 2005, Autodesk , announced plans to acquire Alias. On January 10, 2006, Autodesk completed the acquisition for US$197 million in cash.
+
+Alias' best-known product, the 3D modeling and animation package Maya , was delivered in 1998 and has released a major upgrade every 9–12 months. The last release made by Alias was Maya 7.0. Since the purchase by Autodesk all versions after 8.5 use a year-based naming convention, such as Maya2008.
+
+Other products include; the industrial design package StudioTools (formerly known as Studio, or just "Alias"), which is used extensively in the automotive, aerospace and industrial design industries, a 2D drawing and sketching application called SketchBook Pro , and in 1992, an early Macintosh based 3D modelling and rendering package called Sketch! which was the precursor of Alias Maya. Sketch provided the basis of the core non-uniform rational B-spline (NURBS) editing tools, which in turn was based on a product that the company bought, and its key developer went to work for Alias.

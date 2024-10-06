@@ -1,0 +1,17 @@
+XLDB (e X tremely L arge D ata B ases) was a yearly conference about databases , data management and analytics held from 2007 to 2019. The definition of extremely large refers to data sets that are too big in terms of volume (too much), and/or velocity (too fast), and/or variety (too many places, too many formats) to be handled using conventional solutions. This conference dealt with the high-end of very large databases (VLDB). It was conceived and chaired by Jacek Becla.
+
+In October 2007, data experts gathered at SLAC National Accelerator Lab for the First Workshop on Extremely Large Databases . As a result, the XLDB research community was formed to meet the rapidly growing demands of the largest data systems. In addition to the original invitational workshop, an open conference, tutorials, and annual satellite events on different continents were added. The main event, held annually at Stanford University gathers over 300 attendees. XLDB is one of the data systems events catering to both academic and industry communities. For 2009, the workshop was co-located with VLDB 2009 in France to reach out to non-US research communities. XLDB 2019 followed Stanford's Conference on Systems and Machine Learning (SysML).
+
+The main goals of this community include:
+
+As of 2013, the community consisted of over one thousand members including:
+
+The community met annually at Stanford University through 2019. Occasional satellite events were held in Asia and Europe .
+
+A detailed report or videos was produced after each workshop.
+
+XLDB events led to initiating an effort to build a new open source, science database called SciDB .
+
+The XLDB organizers started defining a science benchmark for scientific data management systems called SS-DB.
+
+At XLDB 2012 the XLDB organizers announced that two major databases that support arrays as first-class objects ( MonetDB SciQL and SciDB ) have formed a working group in conjunction with XLDB. This working group is proposing a common syntax (provisionally named “ArrayQL”) for manipulating arrays, including array creation and query.

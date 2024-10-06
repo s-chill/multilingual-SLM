@@ -1,0 +1,17 @@
+ActiveVFP (also known as AVFP ) is a server-side scripting framework designed for Web development to produce dynamic Web pages . Similar to PHP , but using the native Visual Foxpro (VFP) language and database (or other databases like Microsoft SQL and MySQL ), ActiveVFP can also be used in Model-View-Controller (MVC) web applications as well as RESTful API .  ActiveVFP is completely free and open source and does not require the purchase of Microsoft Visual FoxPro or any additional software.
+
+ActiveVFP was originally created in 2001. The main implementation of ActiveVFP is now produced by the Foxpro Community at activevfp .codeplex .com and serves as the formal reference to ActiveVFP. ActiveVFP is free software released under the MIT License .
+
+ActiveVFP is unique among server-side web languages and frameworks because it has a database and database functionality built into the language.
+
+ActiveVFP uses the native Visual Foxpro language as it exists in the latest version produced by Microsoft, Visual FoxPro 9 SP2.  The multi-threaded VFP runtime, vfp9t.dll,  is used instead of the regular desktop version of the VFP runtime.
+
+Using ActiveVFP, the VFP compiler only executes VFP code within its delimiters. Anything outside its delimiters is not processed by VFP. The most common delimiters are ASP-style short forms <% or <%= and %>. <% %> executes a FoxPro code block and <%=  %> prints the variable out immediately.   The purpose of all these delimiters is to separate VFP code from non-VFP code, including HTML.
+
+The main objects available to ActiveVFP for web programming are: oRequest, oResponse, and oSession (and all of the objects that have been available in Classic Active Server Pages (ASP)).  These objects are used entirely within Visual FoxPro to accomplish web programming with FoxPro.
+
+The FoxPro language contains commands quite similar to other programming languages such as Basic. Loops include do, if, while, for, else commands in a usage easily understood by anyone familiar with other programming languages. Commands take the form of "command" and "endcommand".  The language also has extensive database manipulation and indexing commands.
+
+Like PHP, ActiveVFP takes advantage of automatic memory Garbage Collection (GC) and Dynamic/Weak Typing , boosting programmer productivity.
+
+In addition to “scripting” mode, ActiveVFP offers Model-View-Controller (MVC) design as well.  The Controller consists of FoxPro class code located in a Foxpro .prg file.  Output can consist of .avfp views, JSON, and others, similar to other modern MVC implementations.  The Model can be DBF files or other back end databases.

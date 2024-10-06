@@ -1,0 +1,27 @@
+Grady Booch (born February 27, 1955) is an American software engineer , best known for developing the Unified Modeling Language (UML) with Ivar Jacobson and James Rumbaugh . He is recognized internationally for his innovative work in software architecture, software engineering, and collaborative development environments .
+
+Booch earned his bachelor's degree in 1977 from the United States Air Force Academy and a master's degree in electrical engineering in 1979 from the University of California, Santa Barbara .
+
+Booch worked at Vandenberg Air Force Base after he graduated. He started as a project engineer and later managed ground-support missions for the space shuttle and other projects. After he gained his master's degree he became an instructor at the Air Force Academy.
+
+Booch served as Chief Scientist of Rational Software Corporation from its founding in 1981 through its acquisition by IBM in 2003, where he continued to work until March 2008.  After this he became Chief Scientist, Software Engineering in IBM Research and series editor for Benjamin Cummings .
+
+Booch has devoted his life's work to improving the art and the science of software development. In the 1980s, he wrote one of the more popular books on programming in Ada . He is best known for developing the Unified Modeling Language with Ivar Jacobson and James Rumbaugh in the 1990s.
+
+Booch got his first exposure to programming on an IBM 1130 .
+
+...  I pounded the doors at the local IBM sales office until a salesman took pity on me. After we chatted for a while, he handed me a Fortran [manual]. I'm sure he gave it to me thinking, "I'll never hear from this kid again." I returned the following week saying, "This is really cool. I've read the whole thing and have written a small program. Where can I find a computer?" The fellow, to my delight, found me programming time on an IBM 1130 on weekends and late-evening hours. That was my first programming experience, and I must thank that anonymous IBM salesman for launching my career. Thank you, IBM.
+
+Booch developed the Booch method of software development, which he presents in his 1991/94 book, Object Oriented Analysis and Design With Applications . He advises adding more classes to simplify complex code. The Booch method is a technique used in software engineering . It is an object modeling language and methodology that was widely used in object-oriented analysis and design . It was developed by Booch while at Rational Software .
+
+The notation aspect of the Booch method has now been superseded by the Unified Modeling Language (UML), which features graphical elements from the Booch method along with elements from the object-modeling technique (OMT) and object-oriented software engineering (OOSE).
+
+Methodological aspects of the Booch method have been incorporated into several methodologies and processes, the primary such methodology being the Rational Unified Process (RUP).
+
+Booch is also an advocate of design patterns . For instance, he wrote the foreword to Design Patterns , an early and highly influential book in the field.
+
+He now is part of IBM Research - Almaden , serving as Chief Scientist for Software Engineering, where he continues his work on the "Handbook of Software Architecture" and also leads several long-term projects in software engineering. Grady has served as architect and architectural mentor for numerous complex software-intensive systems around the world.
+
+Grady Booch published several articles and books. A selection:
+
+In 1995, Booch was inducted as a Fellow of the Association for Computing Machinery . He was named an IBM Fellow in 2003, soon after his entry into IBM, and assumed his current role on March 18, 2008.  He was recognized as an IEEE Fellow in 2010. In 2012, Booch was awarded the Lovelace Medal for 2012 by the British Computer Society and gave the 2013 Lovelace Lecture. He gave the Turing Lecture in 2007. He was awarded the IEEE Computer Society Computer Pioneer award in 2016 for his pioneering work in Object Modeling that led to the creation of the Unified Modeling Language (UML).

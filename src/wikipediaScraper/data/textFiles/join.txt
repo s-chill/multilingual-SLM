@@ -1,0 +1,15 @@
+join is a command in Unix and Unix-like operating systems that merges the lines of two sorted text files based on the presence of a common field . It is similar to the join operator used in relational databases but operating on text files.
+
+The join command takes as input two text files and several options. If no command-line argument is given, this command looks for a pair of lines from the two files having the same first field (a sequence of characters that are different from space), and outputs a line composed of the first field followed by the rest of the two lines.
+
+The program arguments specify which character to be used in place of space to separate the fields of the line, which field to use when looking for matching lines, and whether to output lines that do not match. The output can be stored to another file rather than printed using redirection .
+
+As an example, the two following files list the known fathers and the mothers of some people. Both files have been sorted on the join field — this is a requirement of the program.
+
+The join of these two files (with no argument) would produce:
+
+Indeed, only "george" is common as a first word of both files.
+
+join is intended to be a relation database operator. It is part of the X/Open Portability Guide since issue 2 of 1987. It was inherited into the first version of POSIX.1 and the Single Unix Specification .
+
+The version of join bundled in GNU coreutils was written by Mike Haertel. The command is available as a separate package for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities.

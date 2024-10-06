@@ -1,0 +1,4 @@
+A deductive database is a database system that can make deductions (i.e. conclude additional facts) based on rules and facts stored in its database. Datalog is the language typically used to specify facts, rules and queries in deductive databases. Deductive databases have grown out of the desire to combine logic programming with relational databases to construct systems that support a powerful formalism and are still fast and able to deal with very large datasets. Deductive databases are more expressive than relational databases but less expressive than logic programming systems such as Prolog . 
+In recent years, deductive databases have found new application in data integration , information extraction , networking, program analysis , security, and cloud computing .
+
+Deductive databases reuse many concepts from logic programming; rules and facts specified in Datalog look very similar to those written in Prolog, but there are some important differences:

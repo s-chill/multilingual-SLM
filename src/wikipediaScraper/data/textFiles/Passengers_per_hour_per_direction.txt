@@ -1,0 +1,12 @@
+Passengers per hour per direction ( p/h/d ), passengers per hour in peak direction ( pphpd ) or corridor capacity is a measure of the route capacity of a rapid transit or public transport system.
+
+The corridor capacity in the passenger transport field refers to the maximum number of people which can be safely and comfortably transported per unit of time over a certain way with a defined width. 
+The corridor capacity does not measure the number of vehicles which can be transported over such way, since the nuclear objective of passenger mobility is to transport passengers, not vehicles.
+
+In terms of quantities defined within the International System of Units , the corridor capacity may be measured in units of s − 1 ⋅ m − 1 {\displaystyle \mathrm {s} ^{-1}\cdot \mathrm {m} ^{-1}} , i.e. , the maximum number of passengers per second per meter of the corridor's width. 
+An approximately equivalent concept in physics is volumetric flux .
+
+Many public transport systems handle a high directional flow of passengers— often traveling to work in a city in the morning rush hour and away from the said city in the late afternoon. 
+To increase the passenger throughput, many systems can be reconfigured to change the direction of the optimized flow. 
+A common example is a railway or metro station with more than two parallel escalators , where the majority of the escalators can be set to move in one direction. 
+This gives rise to the measure of the peak-flow rather than a simple average of half of the total capacity.

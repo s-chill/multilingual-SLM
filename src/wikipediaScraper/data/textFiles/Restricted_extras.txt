@@ -1,0 +1,11 @@
+Ubuntu Restricted Extras is a software package for the computer operating system Ubuntu that allows the user to install essential software which is not already included due to legal or copyright reasons.
+
+It is a meta-package that installs:
+
+The software in this package is not included in Ubuntu by default, as Ubuntu maintainers wish to include only completely free software in out-of-the-box installations. Included packages may be closed-source , encumbered by software patents , or otherwise restricted. For example, the Adobe Flash plugin is a closed-source piece of software. Additionally, many multimedia formats such as MP3 and H.264 are patented. In countries where these patents apply, legally distributing software that use these formats may require paying licensing fees to the patent owners.
+
+The Ubuntu Restricted Extras is a metapackage and has the following dependencies:
+
+Starting with Ubuntu 10.10, several of these dependencies are included indirectly via another meta-package ubuntu-restricted-addons which is included by default.
+
+Due to the legal status of the software included in Ubuntu Restricted Extras, the package is not included by default on any Ubuntu CDs.

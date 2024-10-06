@@ -1,0 +1,42 @@
+In computer programming , a statement is a syntactic unit of an imperative programming language that expresses some action to be carried out. A program written in such a language is formed by a sequence of one or more statements. A statement may have internal components (e.g. expressions ).
+
+Many programming languages (e.g. Ada , Algol 60 , C , Java , Pascal ) make a distinction between statements and definitions/declarations . A definition or declaration specifies the data on which a program is to operate, while a statement specifies the actions to be taken with that data.
+
+Statements which cannot contain other statements are simple ; those which can contain other statements are compound .
+
+The appearance of a statement (and indeed a program) is determined by its syntax or grammar. The meaning of a statement is determined by its semantics .
+
+Simple statements are complete in themselves; these include assignments, subroutine calls, and a few statements which may significantly affect the program flow of control (e.g. goto , return , stop/halt). In some languages, input and output, assertions, and exits are handled by special statements, while other languages use calls to predefined subroutines.
+
+Compound statements may contain (sequences of) statements, nestable to any reasonable depth, and generally involve tests to decide whether or not to obey or repeat these contained statements.
+
+Many compound statements are loop commands or choice commands. In theory only one of each of these types of commands is required. In practice there are various special cases which occur quite often; these may make a program easier to understand, may make programming easier, and can often be implemented much more efficiently.  There are many subtleties not mentioned here; see the linked articles for details.
+
+Apart from assignments and subroutine calls, most languages start each statement with a special word (e.g. goto, if, while, etc.) as shown in the above examples.  Various methods have been used to describe the form of statements in different languages; the more formal methods tend to be more precise:
+
+BNF uses recursion to express repetition, so various extensions have been proposed to allow direct indication of repetition.
+
+Some programming language grammars reserve keywords or mark them specially , and do not allow them to be used as identifiers . This often leads to grammars which are easier to parse , requiring less lookahead .
+
+Fortran and PL/1 do not have reserved keywords, allowing statements like:
+
+In Algol 60 and Algol 68, special tokens were distinguished explicitly: for publication, in boldface e.g. begin ; for programming, with some special marking, e.g., a flag ( 'begin ), quotation marks ( 'begin' ), or underlined ( begin on the Elliott 503 ). This is called "stropping".
+
+Tokens that are part of the language syntax thus do not conflict with programmer-defined names.
+
+Certain names are reserved as part of the programming language and can not be used as programmer-defined names.
+The majority of the most popular programming languages use reserved keywords. Early examples include FLOW-MATIC (1953) and COBOL (1959). Since 1970 other examples include Ada, C, C++, Java, and Pascal.  The number of reserved words depends on the language: C has about 30 while COBOL has about 400.
+
+Semantics is concerned with the meaning of a program. The standards documents for many programming languages use BNF or some equivalent to express the syntax/grammar in a fairly formal and precise way, but the semantics/meaning of the program is generally described using examples and English prose.  This can result in ambiguity. In some language descriptions the meaning of compound statements is defined by the use of 'simpler' constructions, e.g. a while loop can be defined by a combination of tests, jumps, and labels , using if and goto .
+
+The semantics article describes several mathematical/logical formalisms which have been used to specify  semantics in a precise way; these are generally more complicated than BNF, and no single approach is generally accepted as the way to go.  Some approaches effectively define an interpreter for the language, some use formal logic to reason about a program, some attach affixes to syntactic entities to ensure consistency, etc.
+
+A distinction is often made between statements, which are executed, and expressions , which are evaluated. Expressions always evaluate to a value, which statements do not. However, expressions are often used as part of a larger statement.
+
+In most programming languages, a statement can consist of little more than an expression, usually by following the expression with a statement terminator (semicolon). In such a case, while the expression evaluates to a value, the complete statement does not (the expression's value is discarded). For instance, in C, C++, C#, and many similar languages, x = y + 1 is an expression that will set x to the value of y plus one, and the whole expression itself will evaluate to the same value that x is set to. However, x = y + 1; (note the semicolon at the end) is a statement that will still set x to the value of y plus one because the expression within the statement is still evaluated, but the result of the expression is discarded, and the statement itself does not evaluate to any value.
+
+Expressions can also be contained within other expressions. For instance, the expression x = y + 1 contains the expression y + 1 , which in turn contains the values y and 1 , which are also technically expressions.
+
+Although the previous examples show assignment expressions, some languages do not implement assignment as an expression, but rather as a statement. A notable example of this is Python , where = is not an operator, but rather just a separator in the assignment statement. Although Python allows multiple assignments as each assignment were an expression, this is simply a special case of the assignment statement built into the language grammar rather than a true expression.
+
+Most languages have a fixed set of statements defined by the language, but there have been experiments with extensible languages that allow the programmer to define new statements.

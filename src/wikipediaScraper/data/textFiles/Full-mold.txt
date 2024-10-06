@@ -1,0 +1,21 @@
+Full-mold casting is an evaporative-pattern casting process which is a combination of sand casting and lost-foam casting . It uses an expanded polystyrene foam pattern which is then surrounded by sand, much like sand casting. The metal is then poured directly into the mold, which vaporizes the foam upon contact.
+
+First, a pattern is usually made from polystyrene foam , which can be done many different ways. For small volume runs the pattern can be hand cut or machined from a solid block of foam; if the geometry is simple enough it can even be cut using a hot-wire foam cutter .
+
+If the volume is large, then the pattern can be mass-produced by a process similar to injection molding . Pre-expanded beads of polystyrene are injected into a preheated aluminum mold at low pressure. Steam is then applied to the polystyrene which causes it to expand more to fill the die. The final pattern is approximately 97.5% air and 2.5% polystyrene.
+
+The finished patterns can be hot glued to pre-made pouring basins, runners, and risers to form the final pattern. The pattern is then coated with a refractory material . The coated pattern ( 2 ) is placed in a flask and packed carefully with green sand ( 4 ) or a chemically bonded sand.
+
+Finally, the molten metal ( 1 ) is poured into the mold, which vaporizes the foam ( 3 ) allowing the metal to fill the entire mold. The vapor is simultaneously extracted from the flask through the sand.
+
+The casting is allowed to cool and then dumped out of the flask ( 5 ) ready to use. The sand does not need to be reprocessed so it can be directly reused.
+
+The minimum wall thickness for a full-mold casting is 2.5 mm (0.10 in). Typical dimensional tolerances are 0.3% and typical surface finishes are from 2.5 to 25 μm (100 to 1000 millionths of an inch) RMS . The size range is from 400 g (0.88 lb) to several tonnes (tons).
+
+Full-mold casting is often used to produce cylinder heads , engine blocks , pump housings, automotive brake components, and manifolds . Commonly employed materials include aluminium , iron , steel , nickel alloys, and copper alloys .
+
+This casting process is advantageous for very complex castings, that would regularly require cores . It is also dimensionally accurate, requires no draft , and has no parting lines so no flash is formed. As compared to investment casting , it is cheaper because it is a simpler process and the foam is cheaper than the wax. Risers are not usually required due to the nature of the process; because the molten metal vaporizes the foam the first metal into the mold cools more quickly than the rest, which results in natural directional solidification .
+
+The two main disadvantages are that pattern costs can be high for low volume applications and the patterns are easily damaged or distorted due to their low strength. If a die is used to create the patterns there is a large initial cost.
+
+The first patent for an evaporative-pattern casting process was filed in April 1956, by H.F. Shroyer. He patented the use of foam patterns embedded in traditional green sand for metal casting.

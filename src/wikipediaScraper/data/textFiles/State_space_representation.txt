@@ -1,0 +1,135 @@
+In control engineering and system identification , a state-space representation is a mathematical model of a physical system specified as a set of input, output, and variables related by first-order differential equations or difference equations . Such variables, called state variables , evolve over time in a way that depends on the values they have at any given instant and on the externally imposed values of input variables. Output variables’ values depend on the state variable values and may also depend on the input variable values.
+
+The state space or phase space is the geometric space in which the axes are the state variables. The system state can be represented as a vector , the state vector .
+
+If the dynamical system is linear, time-invariant, and finite-dimensional, then the differential and algebraic equations may be written in matrix form. The state-space method is characterized by the algebraization of general system theory , which makes it possible to use Kronecker vector-matrix structures . The capacity of these structures can be efficiently applied to research systems with or without modulation. The state-space representation (also known as the " time-domain approach") provides a convenient and compact way to model and analyze systems with multiple inputs and outputs. With p {\displaystyle p} inputs and q {\displaystyle q} outputs, we would otherwise have to write down q × p {\displaystyle q\times p} Laplace transforms to encode all the information about a system. Unlike the frequency domain approach, the use of the state-space representation is not limited to systems with linear components and zero initial conditions.
+
+The state-space model can be applied in subjects such as economics, statistics, computer science and electrical engineering, and neuroscience. In econometrics , for example, state-space models can be used to decompose a time series into trend and cycle, compose individual indicators into a composite index, identify turning points of the business cycle, and estimate GDP using latent and unobserved time series. Many applications rely on the Kalman Filter or a state observer to produce estimates of the current unknown state variables using their previous observations.
+
+The internal state variables are the smallest possible subset of system variables that can represent the entire state of the system at any given time. The minimum number of state variables required to represent a given system, n {\displaystyle n} , is usually equal to the order of the system's defining differential equation, but not necessarily. If the system is represented in transfer function form, the minimum number of state variables is equal to the order of the transfer function's denominator after it has been reduced to a proper fraction. It is important to understand that converting a state-space realization to a transfer function form may lose some internal information about the system, and may provide a description of a system which is stable, when the state-space realization is unstable at certain points. In electric circuits, the number of state variables is often, though not always, the same as the number of energy storage elements in the circuit such as capacitors and inductors . The state variables defined must be linearly independent, i.e., no state variable can be written as a linear combination of the other state variables, or the system cannot be solved.
+
+The most general state-space representation of a linear system with p {\displaystyle p} inputs, q {\displaystyle q} outputs and n {\displaystyle n} state variables is written in the following form:
+
+where:
+
+In this general formulation, all matrices are allowed to be time-variant (i.e. their elements can depend on time); however, in the common LTI case, matrices will be time invariant. The time variable t {\displaystyle t} can be continuous (e.g. t ∈ R {\displaystyle t\in \mathbb {R} } ) or discrete (e.g. t ∈ Z {\displaystyle t\in \mathbb {Z} } ). In the latter case, the time variable k {\displaystyle k} is usually used instead of t {\displaystyle t} . Hybrid systems allow for time domains that have both continuous and discrete parts. Depending on the assumptions made, the state-space model representation can assume the following forms:
+
+Stability and natural response characteristics of a continuous-time LTI system (i.e., linear with matrices that are constant with respect to time) can be studied from the eigenvalues of the matrix A {\displaystyle \mathbf {A} } . The stability of a time-invariant state-space model can be determined by looking at the system's transfer function in factored form. It will then look something like this:
+
+The denominator of the transfer function is equal to the characteristic polynomial found by taking the determinant of s I − A {\displaystyle s\mathbf {I} -\mathbf {A} } ,
+
+The roots of this polynomial (the eigenvalues ) are the system transfer function's poles (i.e., the singularities where the transfer function's magnitude is unbounded). These poles can be used to analyze whether the system is asymptotically stable or marginally stable . An alternative approach to determining stability, which does not involve calculating eigenvalues, is to analyze the system's Lyapunov stability .
+
+The zeros found in the numerator of G ( s ) {\displaystyle {\textbf {G}}(s)} can similarly be used to determine whether the system is minimum phase .
+
+The system may still be input–output stable (see BIBO stable ) even though it is not internally stable. This may be the case if unstable poles are canceled out by zeros (i.e., if those singularities in the transfer function are removable ).
+
+The state controllability condition implies that it is possible – by admissible inputs – to steer the states from any initial value to any final value within some finite time window. A continuous time-invariant linear state-space model is controllable if and only if
+
+where rank is the number of linearly independent rows in a matrix, and where n is the number of state variables.
+
+Observability is a measure for how well internal states of a system can be inferred by knowledge of its external outputs. The observability and controllability of a system are mathematical duals (i.e., as controllability provides that an input is available that brings any initial state to any desired final state, observability provides that knowing an output trajectory provides enough information to predict the initial state of the system).
+
+A continuous time-invariant linear state-space model is observable if and only if
+
+The " transfer function " of a continuous time-invariant linear state-space model can be derived in the following way:
+
+First, taking the Laplace transform of
+
+yields
+
+Next, we simplify for X ( s ) {\displaystyle \mathbf {X} (s)} , giving
+
+and thus
+
+Substituting for X ( s ) {\displaystyle \mathbf {X} (s)} in the output equation
+
+giving
+
+Assuming zero initial conditions x ( 0 ) = 0 {\displaystyle \mathbf {x} (0)=\mathbf {0} } and a single-input single-output (SISO) system , the transfer function is defined as the ratio of output and input G ( s ) = Y ( s ) / U ( s ) {\displaystyle G(s)=Y(s)/U(s)} . For a multiple-input multiple-output (MIMO) system , however, this ratio is not defined. Therefore, assuming zero initial conditions, the transfer function matrix is derived from
+
+using the method of equating the coefficients which yields
+
+Consequently, G ( s ) {\displaystyle \mathbf {G} (s)} is a matrix with the dimension q × p {\displaystyle q\times p} which contains transfer functions for each input output combination. Due to the simplicity of this matrix notation, the state-space representation is commonly used for multiple-input, multiple-output systems. The Rosenbrock system matrix provides a bridge between the state-space representation and its transfer function .
+
+Any given transfer function which is strictly proper can easily be transferred into state-space by the following approach (this example is for a 4-dimensional, single-input, single-output system):
+
+Given a transfer function, expand it to reveal all coefficients in both the numerator and denominator. This should result in the following form:
+
+The coefficients can now be inserted directly into the state-space model by the following approach:
+
+This state-space realization is called controllable canonical form because the resulting model is guaranteed to be controllable (i.e., because the control enters a chain of integrators, it has the ability to move every state).
+
+The transfer function coefficients can also be used to construct another type of canonical form
+
+This state-space realization is called observable canonical form because the resulting model is guaranteed to be observable (i.e., because the output exits from a chain of integrators, every state has an effect on the output).
+
+Transfer functions which are only proper (and not strictly proper ) can also be realised quite easily. The trick here is to separate the transfer function into two parts: a strictly proper part and a constant.
+
+The strictly proper transfer function can then be transformed into a canonical state-space realization using techniques shown above. The state-space realization of the constant is trivially y ( t ) = G ( ∞ ) u ( t ) {\displaystyle {\textbf {y}}(t)={\textbf {G}}(\infty ){\textbf {u}}(t)} . Together we then get a state-space realization with matrices A , B and C determined by the strictly proper part, and matrix D determined by the constant.
+
+Here is an example to clear things up a bit:
+
+which yields the following controllable realization
+
+Notice how the output also depends directly on the input. This is due to the G ( ∞ ) {\displaystyle {\textbf {G}}(\infty )} constant in the transfer function.
+
+A common method for feedback is to multiply the output by a matrix K and setting this as the input to the system: u ( t ) = K y ( t ) {\displaystyle \mathbf {u} (t)=K\mathbf {y} (t)} .
+Since the values of K are unrestricted the values can easily be negated for negative feedback .
+The presence of a negative sign (the common notation) is merely a notational one and its absence has no impact on the end results.
+
+becomes
+
+solving the output equation for y ( t ) {\displaystyle \mathbf {y} (t)} and substituting in the state equation results in
+
+The advantage of this is that the eigenvalues of A can be controlled by setting K appropriately through eigendecomposition of ( A + B K ( I − D K ) − 1 C ) {\displaystyle \left(A+BK\left(I-DK\right)^{-1}C\right)} .
+This assumes that the closed-loop system is controllable or that the unstable eigenvalues of A can be made stable through appropriate choice of K .
+
+For a strictly proper system D equals zero. Another fairly common situation is when all states are outputs, i.e. y = x , which yields C = I , the Identity matrix . This would then result in the simpler equations
+
+This reduces the necessary eigendecomposition to just A + B K {\displaystyle A+BK} .
+
+In addition to feedback, an input, r ( t ) {\displaystyle r(t)} , can be added such that u ( t ) = − K y ( t ) + r ( t ) {\displaystyle \mathbf {u} (t)=-K\mathbf {y} (t)+\mathbf {r} (t)} .
+
+becomes
+
+solving the output equation for y ( t ) {\displaystyle \mathbf {y} (t)} and substituting in the state equation 
+results in
+
+One fairly common simplification to this system is removing D , which reduces the equations to
+
+A classical linear system is that of one-dimensional movement of an object (e.g., a cart). Newton's laws of motion for an object moving horizontally on a plane and attached to a wall with a spring:
+
+where
+
+The state equation would then become
+
+where
+
+The controllability test is then
+
+which has full rank for all b {\displaystyle b} and m {\displaystyle m} . This means, that if initial state of the system is known ( y ( t ) {\displaystyle y(t)} , y ˙ ( t ) {\displaystyle {\dot {y}}(t)} , y ¨ ( t ) {\displaystyle {\ddot {y}}(t)} ), and if the b {\displaystyle b} and m {\displaystyle m} are constants, then there is a force u {\displaystyle u} that could move the cart into any other position in the system.
+
+The observability test is then
+
+which also has full rank. Therefore, this system is both controllable and observable.
+
+The more general form of a state-space model can be written as two functions.
+
+The first is the state equation and the latter is the output equation.
+If the function f ( ⋅ , ⋅ , ⋅ ) {\displaystyle f(\cdot ,\cdot ,\cdot )} is a linear combination of states and inputs then the equations can be written in matrix notation like above.
+The u ( t ) {\displaystyle u(t)} argument to the functions can be dropped if the system is unforced (i.e., it has no inputs).
+
+A classic nonlinear system is a simple unforced pendulum
+
+where
+
+The state equations are then
+
+where
+
+Instead, the state equation can be written in the general form
+
+The equilibrium / stationary points of a system are when x ˙ = 0 {\displaystyle {\dot {x}}=0} and so the equilibrium points of a pendulum are those that satisfy
+
+for integers n .

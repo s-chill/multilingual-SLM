@@ -1,0 +1,39 @@
+Microsoft IIS ( Internet Information Services, IIS, 2S ) is an extensible web server created by Microsoft for use with the Windows NT family. IIS supports HTTP , HTTP/2 , HTTP/3 , HTTPS , FTP , FTPS , SMTP and NNTP .  It has been an integral part of the Windows NT family since Windows NT 4.0 , though it may be absent from some editions (e.g. Windows XP Home edition), and is not active by default. A dedicated suite of software called SEO Toolkit is included in the latest version of the manager. This suite has several tools for SEO with features for metatag / web coding optimization, sitemaps / robots.txt configuration, website analysis, crawler setting, SSL server-side configuration and more.
+
+The first Microsoft web server was a research project at the European Microsoft Windows NT Academic Centre (EMWAC), part of the University of Edinburgh in Scotland, and was distributed as freeware . However, since the EMWAC server was unable to handle the volume of traffic going to Microsoft.com , Microsoft was forced to develop its own web server, IIS.
+
+Almost every version of IIS was released either alongside or with a version of Microsoft Windows:
+
+All versions of IIS prior to 7.0 running on client operating systems supported only 10 simultaneous connections and a single website.
+
+Microsoft was criticized by vendors of other web server software, including O'Reilly & Associates and Netscape , for its licensing of early versions of Windows NT; the "Workstation" edition of the OS permitted only ten simultaneous TCP/IP connections, whereas the more expensive "Server" edition, which otherwise had few additional features, permitted unlimited connections but bundled IIS. It was implied that this was intended to discourage consumers from running alternative web server packages on the cheaper edition. Netscape wrote an open letter to the Antitrust Division of the U.S. Department of Justice regarding this distinction in product licensing, which it asserted had no technical merit. O'Reilly showed that the user could remove the enforced limits meant to cripple NT 4.0 Workstation as a web server with two registry key changes and other trivial configuration file tweaking.
+
+IIS 6.0 and higher support the following authentication mechanisms:
+
+IIS 7.0 has a modular architecture. Modules, also called extensions, can be added or removed individually so that only modules required for specific functionality have to be installed. IIS 7 includes native modules as part of the full installation. These modules are individual features that the server uses to process requests.
+
+IIS 7.5 includes the following additional or enhanced security features:
+
+Authentication changed slightly between IIS 6.0 and IIS 7, most notably in that the anonymous user which was named "IUSR_{machinename}" is a built-in account in Vista and future operating systems and named "IUSR". Notably, in IIS 7, each authentication mechanism is isolated into its own module and can be installed or uninstalled.
+
+IIS 8.0 offers new features targeted at performance and easier administration. The new features are:
+
+IIS 8.5 has several improvements related to performance in large-scale scenarios, such as those used by commercial hosting providers and Microsoft's own cloud offerings. It also has several added features related to logging and troubleshooting. The new features are:
+
+IIS Express , a lightweight (4.5–6.6 MB) version of IIS, is available as a standalone freeware server and may be installed on Windows XP with Service Pack 3 and subsequent versions of Microsoft Windows. IIS 7.5 Express supports only the HTTP and HTTPS protocols. It is portable, stores its configuration on a per-user basis, does not require administrative privileges and attempts to avoid conflicting with existing web servers on the same machine. IIS Express can be downloaded separately or as a part of WebMatrix or Visual Studio 2012 and later. (In Visual Studio 2010 and earlier, web developers developing ASP.NET apps used ASP.NET Development Server, codenamed "Cassini".) By default, IIS Express only serves local traffic.
+
+IIS releases new feature modules between major version release to add new functionality. The following extensions are available for IIS 7.5:
+
+According to Netcraft , in February 2014, IIS had a "market share of all sites" of 32.80%, making it the second most popular web server in the world, behind Apache HTTP Server at 38.22%. Netcraft showed a rising trend in market share for IIS, since 2012 . On 14 February 2014, however, the W3Techs shows different results. According to W3Techs, IIS is the third most used web server behind Apache HTTP Server (1st place) and Nginx . Furthermore, it shows a consistently falling trend for IIS use since February 2013 .
+
+Netcraft data in February 2017 indicates IIS had a "market share of the top million busiest sites" of 10.19%, making it the third most popular web server in the world, behind Apache at 41.41% and nginx at 28.34%.
+
+IIS 4 and IIS 5 were affected by the CA-2001-13 security vulnerability which led to the infamous Code Red attack; however, both versions 6.0 and 7.0 have no reported issues with this specific vulnerability. In IIS 6.0 Microsoft opted to change the behaviour of pre-installed ISAPI handlers, many of which were culprits in the vulnerabilities of 4.0 and 5.0, thus reducing the attack surface of IIS. In addition, IIS 6.0 added a feature called "Web Service Extensions" that prevents IIS from launching any program without explicit permission by an administrator.
+
+By default IIS 5.1 and earlier run websites in a single process running the context of the System account, a Windows account with administrative rights. Under 6.0 all request handling processes run in the context of the Network Service account, which has significantly fewer privileges, so should there be a vulnerability in a feature or custom code it won't necessarily compromise the entire system given the sandboxed environment these worker processes run in. IIS 6.0 also contained a new kernel HTTP stack ( http.sys ) with a stricter HTTP request parser and response cache for both static and dynamic content.
+
+According to Secunia , as of June 2011 , IIS 7 had a total of six resolved vulnerabilities while IIS 6 had a total of eleven vulnerabilities, out of which one was still unpatched. The unpatched security advisory has a severity rating of 2 out of 5.
+
+In June 2007, a Google study of 80 million domains concluded that while the IIS market share was 23% at the time, IIS servers hosted 49% of the world's malware, the same as Apache servers whose market share was 66%. The study also observed the geographical location of these dirty servers and suggested that the cause of this could be the use of unlicensed copies of Windows that could not obtain security updates from Microsoft. In a blog post on 28 April 2009, Microsoft noted that it supplies security updates to everyone without genuine verification.
+
+The 2013 mass surveillance disclosures made it more widely known that IIS is particularly bad in supporting perfect forward secrecy (PFS), especially when used in conjunction with Internet Explorer. Possessing one of the long term asymmetric secret keys used to establish a HTTPS session should not make it easier to derive the short term session key to then decrypt the conversation, even at a later time. Diffie–Hellman key exchange (DHE) and elliptic curve Diffie–Hellman key exchange (ECDHE) are in 2013 the only ones known to have that property. Only 30% of Firefox, Opera, and Chromium Browser sessions use it, and nearly 0% of Apple's Safari and Microsoft Internet Explorer sessions.

@@ -1,0 +1,11 @@
+Google Drawings is a diagramming software included as part of the free, web-based Google Docs Editors suite offered by Google . The service also includes Google Docs , Google Sheets , Google Slides , Google Forms , Google Sites , and Google Keep . Google Drawings is available as a web application and as a desktop application on Google's ChromeOS . The app allows users to create and edit flowcharts , organisational charts , website wireframes , mind maps , concept maps , and other types of diagrams online while collaborating with other users in real-time.
+
+It allows importing images from the computer or from the Web as well as inserting shapes, arrows, scribbles and text from predefined templates. Objects can be moved, resized and rotated. The software also allows for basic editing of images, including cropping, applying masks and adding borders. Other features include laying out drawings precisely with alignment guides, snapping to grid, and auto-distribution. Unlike many of the other software in the Google Docs Editors suite, Google Drawings does not have its own dedicated home, as visiting the Google Drawings URL creates a new document.
+
+Drawings can be inserted into other Google documents , spreadsheets , or presentations . They can also be published online as images or downloaded in standard formats such as JPEG , SVG , PNG , or PDF .
+
+Google Drawings was originally introduced on April 12, 2010, as Google Docs Drawings.
+
+On August 1, 2011, Google announced that users would be able to copy and paste graphic elements between different Google Drawings.
+
+On January 7, 2019, Google added embeds of Google Drawings files to Google Docs.

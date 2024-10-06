@@ -1,0 +1,42 @@
+Wind power in Belgium has seen significant advancements, starting with the generation of electricity from offshore wind farms in 2009. By 2020, the capacity of these offshore farms reached 2,262 megawatts (MW), matching the combined output of Belgium's largest nuclear reactors, Doel 4 and Tihange 3 . Concurrently, the development of on-shore wind energy, which remained minimal until 2004, experienced significant growth, with installed capacity and production doubling annually from 96 MW in 2004 to 2,476.1 MW by 2021. The percentage of electricity demand met by wind grew to about 14.4% by 2020.
+
+Wind power depends partially on regional governments ( Brussels-Capital Region , Flemish Region , Walloon Region )  and partially on the Belgian federal government . Wind energy producers in both the Flemish and Walloon regions get green certificates but not with the same  conditions.
+
+As of 2021, Belgium was ranked sixth worldwide in offshore wind capacity, a notable accomplishment considering the constrained size of its territorial waters.
+
+Wind turbines are installed offshore and onshore, mainly in the Flemish and in the Walloon Regions. Brussels-Capital Region is an urban area which is not particularly suited for large wind turbines. Smaller turbines more appropriate for urban environments are being studied but until today no technology is deemed sufficiently efficient.
+
+Belgium initiated its offshore wind energy sector in 2003 by planning the nation's first wind farm in the North Sea . By 2004, a 156-square kilometer area within Belgium's Exclusive Economic Zone was allocated for wind farm development.
+
+By 2020, Belgium had eight active offshore wind power projects totalling 399 turbines and 2262 MW of power, contributing 6.73 TWh. Offshore wind energy in the Belgian North Sea amounted to an installed capacity of 2,262 MW, which can produce an average of 8 TWh annually at 38% capacity factor, or around 10% of total electricity demand.
+
+In 2021, the wind resource was less than usual, contributing 6.77 TWh (8% of the total demand of 84.4 TWh). The capacity factor (cf) was 34.4%.
+
+The distance of the projects from shore typically range from 23 to 54 km, and the bathymetry of the water indicates the turbines will be based in waters typically between 14 and 40 meters deep. Some of the wind farms are connected via the Modular Offshore Grid.
+
+The International Energy Agency (IEA) noted Belgium's significant offshore wind energy development, ranking it sixth globally in 2021. Anticipating the nuclear phase-out by 2025, Belgium introduced a EUR 1.2 billion plan to secure electricity and reduce emissions, focusing on expanding offshore wind and providing incentives for renewable energy solutions.
+
+C-Power ( Thorntonbank ) was the first wind farm operational in the Belgian North Sea. Its first construction phase was completed in May 2009. This phase was a demonstration phase, with the installation of 6 turbines of 5 MW (= 30 MW). The construction of the second and the third phases was finalized in September 2013. A total of 48 turbines of 6.15 MW were installed during thoses two phases (= 295.2 MW). C-Power has therefore a total of 54 turbines, with a combined capacity of 325.2 MW. The turbines generate around 1050 GWh per year, which  can provide electricity to 300.000 homes.
+
+Belwind (Bligh Bank Offshore Wind Farm) is a project by Parkwind NV. The Belwind wind farm has an installed capacity of 165 MW, which can provide electricity to 160.000 homes, and is operational since December 2010.
+
+Northwind is a project by Parkwind NV located on the Lodewijk Bank and has a total of 72 turbines of 3MW each, with a combined capacity of 216 MW. It was commissioned in May 2014 and can provide electricity to 250.000 homes.
+
+Nobelwind is a project by Parkwind NV. The Nobelwind wind farm was completed in May 2017 and is fully operational since December 2017. With its 50 windturbines of 3,3 MW each, the farm has a combined capacity of 165 MW, which can provide electricity to 160.000 homes.
+
+Rentel is a project by Otary RS. The Rentel wind farm has a total of 42 turbines of 7.35 MW each, with a combined capacity of 309 MW. It was commissioned in September 2018 and can provide electricity to 300.000 homes. Its transformer platform also carries electricity from SeaMade and Northwester 2.
+
+The Norther wind farm has a total of 44 Vestas turbines with a 370 MW total capacity. The Norther wind project is operational since 2019.
+
+Northwester 2 is a project by Parkwind NV. The Northwester 2 wind farm comprises 23 Vestas V164 turbines with a 219 MW capacity. The project reached full production in May 2020.
+
+SeaMade is a project by Otary RS. The SeaMade wind farm is the result of the merger of the former Seastar and Mermaid projects. It consists therefore of two zones, the Seastar zone and the Mermaid zone, and 58 Siemens turbines with a capacity of 487 MW. The Seamade wind turbines started producing green energy end 2020.
+
+At the end of 2022 there were 672 operational onshore wind turbines with a combined capacity of 1748MW. The wind turbines are installed in small groups throughout the region, often along highways or canals and in industrial or agricultural areas.
+The operators of these wind farms are diverse. Some are operated by companies that specialize in wind power, others by traditional electricity producers. Several are operated by cooperatives. Finally a few are operated by organisations with a different core business as part of a Corporate social responsibility strategy.
+
+Installed capacity per province (as of 2022):
+
+sources:
+
+This region is home to the largest turbines in Belgium. The Windvision (operated by China General Nuclear) wind farm near Estinnes houses 11 Enercon E-126 turbines each with a total height of 198.5 metres and a generation power of 6 MW. As part of the EU demonstration project 7MW-WEC-by-11 , ten turbines have been upgraded to 7.5 MW.

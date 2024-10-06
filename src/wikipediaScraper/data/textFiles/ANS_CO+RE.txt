@@ -1,0 +1,21 @@
+Advanced Network and Services, Inc. ( ANS ) was a United States non-profit organization formed in September, 1990 by the NSFNET partners ( Merit Network , IBM , and MCI ) to run the network infrastructure for the soon to be upgraded NSFNET Backbone Service. ANS was incorporated in the State of New York and had offices in Armonk and Poughkeepsie, New York .
+
+In anticipation of the NSFNET Digital Signal 3 (T3) upgrade and the approaching end of the 5-year NSFNET cooperative agreement, in September 1990 Merit, IBM, and MCI formed Advanced Network and Services (ANS), a new non-profit corporation with a more broadly based Board of Directors than the Michigan-based Merit Network. Under its cooperative agreement with US National Science Foundation (NSF), Merit remained ultimately responsible for the operation of NSFNET, but subcontracted much of the engineering and operations work to ANS. Both IBM and MCI made substantial new financial and other commitments to help support the new venture. Allan Weis left IBM to become ANS's first President and Managing Director. Douglas Van Houweling, former Chair of the Merit Network Board and Vice Provost for Information Technology at the University of Michigan , was the first Chairman of the ANS Board of Directors.
+
+Completed in November 1991, the new T3 backbone was named ANSNet and provided the physical infrastructure used by Merit to deliver the NSFNET Backbone Service.
+
+In May, 1991 a new ISP, ANS CO+RE (commercial plus research), was created as a for-profit subsidiary of the non-profit Advanced Network and Services. ANS CO+RE was created specifically to allow commercial traffic on ANSNet without jeopardizing its parent's non-profit status or violating any tax laws.
+
+The NSFNET Backbone Service and ANS CO+RE both used and shared the common ANSNet infrastructure. NSF agreed to allow ANS CO+RE to carry commercial traffic subject to several conditions:
+
+In 1992, ANS worked to address security concerns by potential customers caused by recent security incidents (e.g. morris worm) and opened an office in Northern Virginia for their security product team. The security team created one of the first Internet firewalls called ANS InterLock. InterLock was arguably the first proxy-based Internet firewall product (other firewalls at the time were router-based ACLs or part of a service offering) and consisted of modifications to IBM's AIX (and later Sun's Solaris) operating system. InterLock's popularity at the time of the boom of the WWW was responsible for the infamous proxy settings in the Mosaic web browser, so users could access the Internet transparently through their layer 7 inspection proxy for HTTP 1.0.
+
+ANS and, in particular, ANS CO+RE were involved in controversies over who and how commercial traffic should be carried over networking infrastructure that had, until recently, been government-sponsored.  These controversies are discussed in the " Commercial ISPs, ANS CO+RE, and the CIX " and " Controversy " sections of the NSFNET article.
+
+In 1995, there was a transition to a new Internet architecture and the NSFNET Backbone Service was decommissioned. At this point, ANS sold its networking business to AOL for $35M. The networking business would become a new AOL subsidiary company known as ANS Communications, Inc. Although now two separate entities, both the for-profit and non-profit ANS organizations shared the same pre-sale history.
+
+With over $35M from its sale of its networking business, ANS became a philanthropic organization with a mission to advance education by accelerating the use of computer network applications and technology". This work helped create ThinkQuest , the National Tele-Immersion Initiative, the IP Performance Metrics program, and provided grant funding for educational programs including TRIO Upward Bound, the Internet Society , Internet2 , Computers for Youth, Year Up, National Foundation for Teaching Entrepreneurship , Sarasota TeXcellence Program, and many others.
+
+One of their philanthropic ventures was to sponsor competitions in science and math, arts and literature, social sciences and even sports. They awarded over $1M in prizes in contests with the goal to use the Web for educational projects with widespread or popular applications.
+
+ANS closed down its operations in the mid 2015.

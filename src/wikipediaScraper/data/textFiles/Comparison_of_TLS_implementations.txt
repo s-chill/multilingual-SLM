@@ -1,0 +1,31 @@
+The Transport Layer Security (TLS) protocol provides the ability to secure communications across or inside networks. This comparison of TLS implementations compares several of the most notable libraries . There are several TLS implementations which are free software and open source .
+
+All comparison categories use the stable version of each implementation listed in the overview section. The comparison is limited to features that directly relate to the TLS protocol.
+
+Several versions of the TLS protocol exist. SSL 2.0 is a deprecated protocol version with significant weaknesses.  SSL 3.0 (1996) and TLS 1.0 (1999) are successors with two weaknesses in CBC-padding that were explained in 2001 by Serge Vaudenay. TLS 1.1 (2006) fixed only one of the problems, by switching to random initialization vectors (IV) for CBC block ciphers, whereas the more problematic use of mac-pad-encrypt instead of the secure pad-mac-encrypt was addressed with RFC 7366. A workaround for SSL 3.0 and TLS 1.0, roughly equivalent to random IVs from TLS 1.1, was widely adopted by many implementations in late 2011. In 2014, the POODLE vulnerability of SSL 3.0 was discovered, which takes advantage of the known vulnerabilities in CBC, and an insecure fallback negotiation used in browsers.
+
+TLS 1.2 (2008) introduced a means to identify the hash used for digital signatures.  While permitting the use of stronger hash functions for digital signatures in the future (rsa,sha256/sha384/sha512) over the SSL 3.0 conservative choice (rsa,sha1+md5), the TLS 1.2 protocol change inadvertently and substantially weakened the default digital signatures and provides (rsa,sha1) and even (rsa,md5).
+
+Datagram Transport Layer Security (DTLS or Datagram TLS) 1.0 is a modification of TLS 1.1 for a packet-oriented transport layer, where packet loss and packet reordering have to be tolerated.  The revision DTLS 1.2 based on TLS 1.2 was published in January 2012.
+
+TLS 1.3 (2018) specified in RFC 8446 includes major optimizations and security improvements. QUIC (2021) specified in RFC 9000 and DTLS 1.3 (2022) specified in RFC 9147 builds on TLS 1.3. The publishing of TLS 1.3 and DTLS 1.3 obsoleted TLS 1.2 and DTLS 1.2.
+
+Note that there are known vulnerabilities in SSL 2.0 and SSL 3.0. In 2021, IETF published RFC 8996 also forbidding negotiation of TLS 1.0, TLS 1.1, and DTLS 1.0 due to known vulnerabilities. NIST SP 800-52 requires support of TLS 1.3 by January 2024. Support of TLS 1.3 means that two compliant nodes will never negotiate TLS 1.2.
+
+Required components for NSA Suite B Cryptography (RFC 6460) are:
+
+Per CNSSP-15, the 256-bit elliptic curve (specified in FIPS 186-2), SHA-256, and AES with 128-bit keys are sufficient for protecting classified information up to the Secret level, while the 384-bit elliptic curve (specified in FIPS 186-2), SHA-384, and AES with 256-bit keys are necessary for the protection of Top Secret information.
+
+Note that certain certifications have received serious negative criticism from people who are actually involved in them.
+
+This section lists the certificate verification functionality available in the various implementations.
+
+This section lists the supported elliptic curves by each implementation.
+
+Note the CRIME security exploit takes advantage of TLS compression, so conservative implementations do not enable compression at the TLS level. HTTP compression is unrelated and unaffected by this exploit, but is exploited by the related BREACH attack .
+
+In this section the extensions each implementation supports are listed. Note that the Secure Renegotiation extension is critical for HTTPS client security . TLS clients not implementing it are vulnerable to attacks, irrespective of whether the client implements TLS renegotiation.
+
+This section lists the known ability of an implementation to take advantage of CPU instruction sets that optimize encryption, or utilize system specific devices that allow access to underlying cryptographic hardware for acceleration or for data separation.
+
+This section lists the ability of an implementation to take advantage of the available operating system specific backends, or even the backends provided by another implementation.

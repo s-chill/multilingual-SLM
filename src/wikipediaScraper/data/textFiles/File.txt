@@ -1,0 +1,28 @@
+The file command is a standard program of Unix and Unix-like operating systems for recognizing the type of data contained in a computer file .
+
+The original version of file originated in Unix Research Version 4 in 1973. System V brought a major update with several important changes, most notably moving the file type information into an external text file rather than compiling it into the binary itself.
+
+Most major BSD and Linux distributions use a free , open-source reimplementation which was written in 1986–87 by Ian Darwin from scratch; it keeps file type information in a text file with a format based on that of the System V version. It was expanded by Geoff Collyer in 1989 and since then has had input from many others, including Guy Harris, Chris Lowth and Eric Fischer; from late 1993 onward its maintenance has been organized by Christos Zoulas . The OpenBSD system has its own subset implementation written from scratch, but still uses the Darwin/Zoulas collection of magic file formatted information.
+
+The file command has also been ported to the IBM i operating system.
+
+The Single UNIX Specification (SUS) specifies that a series of tests are performed on the file specified on the command line:
+
+file 's position-sensitive tests are normally implemented by matching various locations within the file against a textual database of magic numbers (see the Usage section). This differs from other simpler methods such as file extensions and schemes like MIME .
+
+In the System V implementation, the Ian Darwin implementation, and the OpenBSD implementation, the file command uses a database to drive the probing of the lead bytes. That database is implemented in a file called magic , whose location is usually in /etc/magic , /usr/share/file/magic or a similar location.
+
+The SUS mandates the following options:
+
+Other Unix and Unix-like operating systems may add extra options than these. Ian Darwin's implementation adds -s 'special files', -k 'keep-going' or -r 'raw' (examples below), among many others.
+
+The command tells only what the file looks like , not what it is (in the case where file looks at the content). It is easy to fool the program by putting a magic number into a file the content of which does not match it. Thus the command is not usable as a security tool other than in specific situations.
+
+Note that -s is a non-standard option available only on the Ian Darwin branch, which tells file to read device files and try to identify their contents rather than merely identifying them as device files. Normally file does not try to read device files since reading such a file can have undesirable side effects.
+
+Through Ian Darwin's non-standard option -k the program does not stop after the first hit found, but looks for other matching patterns.
+The -r option, which is available in some versions, causes the unprintable new line character to be displayed in its raw form rather than in its octal representation.
+
+Identifying symbolic links is not available on all platforms and will be dereferenced if -L is passed or POSIXLY_CORRECT is set.
+
+As of version 4.00 of the Ian Darwin/Christos Zoulas version of file , the functionality of file is incorporated into a libmagic library that is accessible via C (and C-compatible) linking; file is implemented using that library.

@@ -1,0 +1,9 @@
+SQLyog is a GUI tool for the RDBMS MySQL . It is developed by Webyog, Inc., based in Bangalore, India , and Santa Clara, California . SQLyog is being used by more than 30,000 customers worldwide and has been downloaded more than 2,000,000 times.
+
+SQLyog v0.9 was first released to the public in 2001 after eight months of development. SQLyog was available free of charge, but with closed source code, until v3.0 when it was made a fully commercial software. Nowadays SQLyog is distributed both as free software as well as several paid, proprietary, versions. The free software version is known as Community Edition at GitHub . Paid versions are sold as Professional , Enterprise and Ultimate Editions .
+
+Prominent features of SQLyog are:
+
+SQLyog works on the Windows platform ranging from Windows Vista to Windows 10 . (Windows 9x/ME support was removed in version 5.0, Windows 2000 support stopped with version 8.6, and Windows XP support ended with version 12.5.) It has also been made to work under Linux and various Unixes (including macOS ) using the Wine environment. Further, a subset of SQLyog Enterprise/Ultimate functionalities are available with the free SJA (SQLyog Job Agent) for Linux as a native Linux utility. This makes it possible to specify and test "scheduled jobs" on a Windows environment and port execution parameters seamlessly to a Linux environment.
+
+Webyog provides priority support to customers primarily through a ticket based support system. Users of Community Edition can get support through Webyog Forums which has more than 15000 registered users. Webyog also maintains an extensive FAQ for most commonly asked questions.

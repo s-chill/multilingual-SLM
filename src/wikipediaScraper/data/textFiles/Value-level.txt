@@ -1,0 +1,15 @@
+Value-level programming refers to one of the two contrasting programming paradigms identified by John Backus in his work on programs as mathematical objects , the other being function-level programming . Backus originally used the term object-level programming but that term is now prone to confusion with object-oriented programming .
+
+Value-level programs are those that describe how to combine various values (i.e., numbers, symbols, strings, etc.) to form other values until the final result values are obtained. New values are constructed from existing ones by the application of various value-to-value functions, such as addition, concatenation, matrix inversion, and so on.
+
+Conventional, von Neumann programs are value-level: expressions on the right side of assignment statements are exclusively concerned with building a value that is then to be stored.
+
+The value-level approach to programming invites the study of the space of values under the value-forming operations, and of the algebraic properties of those operations. This is what is called the study of data types , and it has advanced from focusing on the values themselves and their structure, to a primary concern with the value-forming operations and their structure, as given by certain axioms and algebraic laws, that is, to the algebraic study of data types .
+
+Lambda calculus -based languages (such as Lisp , ISWIM , and Scheme ) are in actual practice value-level languages, although they are not thus restricted by design.
+
+To see why typical lambda style programs are primarily value-level, consider the usual definition of a value-to-value function, say
+
+here, x must be a value variable (since the argument of f is a value by definition) and E must denote a value too (since f' s result is a value by definition). Typically, E is an expression involving the application of value-forming functions to value variables and constants; nevertheless, a few value-forming functions having both function and value arguments do exist and are used for limited purposes .
+
+If the term values is defined to include the value variables themselves, then the value-level view of programming is one of building values by the application of existing programs (value-forming operations/functions) to other values. Lambda-style programming builds a new program from the result-value by lambda-abstracting the value variables.

@@ -1,0 +1,23 @@
+The following outline is provided as an overview of and topical guide to computer security:
+
+Computer security is commonly known as security applied to computing devices such as computers and smartphones , as well as computer networks such as private and public networks, including the whole Internet .  The field covers all the processes and mechanisms by which digital equipment, information and services are protected from unintended or unauthorized access, change or destruction, and is of growing importance in line with the increasing reliance on computer systems of most societies worldwide. Computer security includes measures taken to ensure the integrity of files stored on a computer or server as well as measures taken to prevent unauthorized access to stored data, by securing the physical perimeter of the computer equipment, authentication of users or computer accounts accessing the data, and providing a secure method of data transmission.
+
+Computer security can be described as all of the following:
+
+The variety of threats combined with the rapid development of new threats has made cyber insecurity and the removal of information assurance the 'status quo'.  As long as man continues to use the computer, man will also takes interest in manipulating, modifying, creating and bypassing 'rules' and 'security standards.'
+
+The most common and effective method of violating computer security protocols is Phishing; Phishing is the process of providing a cloned login page for a site the victim uses, for example, Google's Gmail - once the user enters his/her login information, the data is captured and access to the victims account is gained.
+
+Many corporations executive's, mid-ranking managers and even low level staff of many current U.S. corporations have no idea that a malicious user is quietly and passively intercepting their communications. Why? A strong motivation is the theft of Intellectual Property. Often victims of phishing either never become aware there privacy has been breached, or many months pass before they become aware that their privacy has been lost.
+
+Methods of Computer Network Attack and Computer Network Exploitation
+
+Social engineering is a frequent method of attack, and can take the form of phishing , or spear phishing in the corporate or government world, as well as counterfeit websites.
+
+Access control – selective restriction of access to a place or other resource. The act of accessing may mean consuming, entering, or using. Permission to access a resource is called authorization.
+
+Application security
+
+Data security – protecting data, such as a database, from destructive forces and the unwanted actions of unauthorized users.
+
+Internet police – police and secret police departments and other law enforcement agencies in charge of policing the Internet. The major purposes of Internet police, depending on the state, are fighting cybercrime, as well as censorship, propaganda, and monitoring and manipulating the online public opinion.

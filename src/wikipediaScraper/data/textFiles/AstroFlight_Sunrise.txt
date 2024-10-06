@@ -1,0 +1,41 @@
+The AstroFlight Sunrise was an uncrewed experimental electric aircraft technology demonstrator and the first aircraft to fly on solar power .
+
+First conceived in November 1970, the Sunrise first flew on 4 November 1974 from Bicycle Lake, a dry lakebed on the Fort Irwin Military Reservation , California , United States . The first prototype was destroyed on its 28th flight by turbulence. The improved Sunrise II flew the following year.
+
+While working as an engineer at Hughes Aircraft , Roland Boucher began design work on an electric-powered aircraft concept in November 1970, calculating that the contemporary nickel-cadmium batteries available would be sufficient to sustain flight using a radio-control model glider. Early experimental projects proved the concept sound and in 1973 Boucher turned his attention to the creation of a high-altitude solar-powered aircraft that would have unlimited endurance.
+
+Boucher explained the project to his superiors at Hughes Aircraft in 1972 and after reviewing it, the company released the project to Boucher in 1973. Boucher took a leave of absence from Hughes to pursue the project and joined his brother, Bob Boucher, at AstroFlight , a small model airplane manufacturer in Venice, California . After successfully flying an electric drone carrying a 5 lb (2 kg) payload on a DARPA project for Northrop Corporation , they then moved onto Project Sunrise.
+
+Using commercially available off-the-shelf solar cells producing only 10% efficiency, Boucher calculated that his project would need to be able to fly on about 0.5 kW (0.7 hp). The aircraft was envisioned as an uncrewed sailplane that would have an operating altitude of 73,000 ft (22,250 m),  powered by a single Samarium–cobalt magnet electric motor, the first motor of its kind in the world. The aircraft would use no batteries and, instead, would descend at night from its operating altitude to about 10,000 ft (3,048 m) at dawn, before solar energy was once again available for climb.
+
+Boucher saw the Sunrise as a proof of concept for a follow on aircraft that would be capable of remaining aloft for months at an altitude of 100,000 ft (30,480 m).
+
+Project Sunrise was funded by DARPA commencing in January 1974 and administered by Lockheed Aircraft Corporation of Sunnyvale, California , with the contract specifying a "proof of concept aircraft powered solely by incident sunlight on the wing surfaces."
+
+Roland Boucher took on the task of the structural design, aerodynamics, telemetry, control and navigation. He also designed the integration of the solar panel, electric motors, gearbox and the propeller. He selected an Eppler 387 airfoil for the wing. The solar cells were 5 cm (2.0 in) round commercial units provided by Heliotech . The actual airframe was constructed by a team under expert model builder Phil Bernhardt.
+
+The Sunrise's wing span was 32 ft (10 m) and the aircraft had a gross weight of 22 lb (10 kg). The wing loading was a very low 4 ounces per square foot (0.011 kg/sq m). The aircraft structure was built from spruce, balsa and maple. Due to their roughness the solar cells were only mounted on the aft two-thirds of the wing's upper surface.
+
+The wing spars were built from spruce spar caps with maple doublers at all attachment points and two 3 ⁄ 32 in (2 mm) balsa shear webs attached to 1 ⁄ 8 to 3 ⁄ 8 in (3 to 10 mm) balsa strips on the wing spars. The ribs were made from 3 ⁄ 32 in (2 mm) balsa. This construction resulted in a balsa spar box with tapered spruce caps. The leading edge was covered with 1 ⁄ 32 in (0.8 mm) balsa to form a leading edge D spar. The trailing edge was formed by two 2 in (51 mm) wide 1 ⁄ 32 in (0.8 mm) sheets forming a triangle with 1 ⁄ 8 to 3 ⁄ 8 in (3 to 10 mm) vertical spar sections in between the ribs. The covering was 1/2 mil Mylar . The 32 ft (10 m) span wing weighed 5 lb (2 kg) and was capable of loads up to 100 pounds.
+
+Control was via an S & O Radio designed and built telemetry transmitter and receiver. The standard S&O six channel radio had channels for elevator, rudder, motor on and off and solar cell operating mode. The solar cells could be set for either series or parallel operation. The telemetry functions provided gave data on motor current, motor voltage, motor RPM, airspeed and two heading references from a sun compass for navigation.
+
+Flight testing commenced in 1974 at Bicycle Lake, California. The first flights were conducted on battery power, using a bungee cord launch to 20 ft (6 m). On its first flight the aircraft reached 500 feet, before returning for a landing.
+
+A lack of sunny days delayed flight testing, but in all, 28 flights were made. The Sunrise would climb slowly at first until its solar cells cooled down and their efficiency increased. On its 28th flight the aircraft was destroyed when it was flown too close to a cumulus cloud at about 8,000 ft (2,438 m) and the associated turbulence broke the aircraft's structure.
+
+The success of the flights that had been completed allowed Boucher to state:
+
+Project Sunrise had demonstrated the feasibility of solar powered flight to extreme altitudes".
+
+DARPA and Lockheed proposed a follow-on design to the Sunrise to be powered at night by batteries instead of just gliding. Roland Boucher designed the second aircraft using higher efficiency solar panels that were more aerodynamically smooth.
+
+Roland Boucher had become physically exhausted from his work on the initial Sunrise and he suffered from congestive heart failure . He was admitted to intensive care at Santa Monica Hospital . While in hospital he resigned from AstroFlight and sold his interests in the company to his brother Bob Boucher who continued work on the second Sunrise aircraft. After recuperating, Roland Boucher returned to work at Hughes Aircraft on classified military programs.
+
+The Sunrise II first flew on 27 September 1975 from Nellis AFB , near Las Vegas, Nevada .
+
+Data from Project Sunrise website
+
+General characteristics
+
+Performance

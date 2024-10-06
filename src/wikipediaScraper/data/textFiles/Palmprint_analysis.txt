@@ -1,0 +1,5 @@
+A palm print is an image acquired of the palm region of the hand . It can be either an online image (i.e. taken by a scanner or CCD ) or offline image where the image is taken with ink and paper .
+
+The palm itself consists of principal lines, wrinkles (secondary lines), and epidermal ridges . It differs to a fingerprint in that it also contains other information such as texture, indents and marks which can be used when comparing one palm to another.
+
+Palm prints can be used for criminal, forensic, or commercial applications. Palm prints, typically from the palm, are often found at crime scenes as the result of the offender's gloves slipping during the commission of the crime, and thus exposing part of the unprotected hand.

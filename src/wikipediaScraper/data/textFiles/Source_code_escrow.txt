@@ -1,0 +1,25 @@
+Source code escrow is the deposit of the source code of software with a third-party escrow agent. Escrow is typically requested by a party licensing software (the licensee), to ensure maintenance of the software instead of abandonment or orphaning . The software's source code is released to the licensee if the licensor files for bankruptcy or otherwise fails to maintain and update the software as promised in the software license agreement .
+
+As the continued operation and maintenance of custom software is critical to many companies, they usually desire to make sure that it continues even if the licensor becomes unable to do so, such as because of bankruptcy. This is most easily achieved by obtaining a copy of the up-to-date source code. The licensor, however, will often be unwilling to agree to this, as the source code will generally represent one of their most closely guarded trade secrets .
+
+As a solution to this conflict of interest, source code escrow ensures that the licensee obtains access to the source code only when the maintenance of the software cannot otherwise be assured, as defined in contractually agreed-upon conditions.
+
+Source code escrow takes place in a contractual relationship, formalized in a source code escrow agreement, between at least three parties:
+
+The service provided by the escrow agent – generally a business dedicated to that purpose and independent from either party – consists principally in taking custody of the source code from the licensor and releasing it to the licensee only if the conditions specified in the escrow agreement are met.
+
+Source code escrow agreements provide for the following:
+
+Whether a source code escrow agreement is entered into at all, and who bears its costs, is subject to agreement between the licensor and the licensee. Software license agreements often provide for a right of the licensee to demand that the source code be put into escrow, or to join an existing escrow agreement.
+
+Bankruptcy laws may interfere with the execution of a source code escrow agreement, if the bankrupt licensor's creditors are legally entitled to seize the licensor's assets – including the code in escrow – upon bankruptcy, preventing the release of the code to the licensee.
+
+Museums, archives and other GLAM organizations have begun to act as independent escrow agents due to growing digital obsolescence . Notable examples are the Internet Archive in 2007, the Library of Congress in 2006, ICHEG , Computer History Museum , or the MOMA .
+
+There are also some cases where software communities act as escrow agent, for instance for Wing Commander video game series or Ultima 9 of the Ultima series .
+
+The escrow agreements described above are most applicable to custom-developed software which is not available to the general public.  In some cases, source code for commercial off-the-shelf software may be deposited into escrow to be released as free and open-source software under an open source license when the original developer ceases development and/or when certain fundraising conditions are met (the threshold pledge system ).
+
+For instance, the Blender graphics suite was released in this way following the bankruptcy of Not a Number Technologies; the widely used Qt toolkit is covered by a source code escrow agreement secured by the "KDE Free Qt Foundation".
+
+There are many cases of end-of-life open-sourcing which allow the community continued self-support, see List of commercial video games with later released source code .

@@ -1,0 +1,19 @@
+Sources of New Jersey utility-scale electricity generation: full-year 2023
+
+This is a list of electricity-generating power stations in the U.S. state of New Jersey , sorted by type and name. In 2022, New Jersey had a total summer capacity of 16,712 MW through all of its power plants, and a net generation of 65,060 GWh. In 2023, the electrical energy generation mix was 51.4% natural gas, 44.1% nuclear, 2.5% solar, 1.1% biomass, 0.1% petroleum, 0.3% other gases, and 0.9% other.
+
+New Jersey's renewable portfolio standard was updated in 2018 to require that 21% of electricity be from renewable sources by 2021, 35% by 2025, and 50% by 2030. In February 2023, Governor Phil Murphy set a goal of 100% clean electricity (including non-renewable zero-emissions sources) by 2035. About 75% of in-state renewable generation came from small- and large-scale solar photovoltaics (PV) that year. Small-scale solar, which includes customer-owned PV panels, delivered an additional net 3,413 GWh of energy to the state's electrical grid during 2023. This was more than twice the generation of New Jersey's utility-scale PV plants.
+
+Download coordinates as:
+
+There are two nuclear power stations in New Jersey both operated by PSEG Nuclear. The Oyster Creek Nuclear Generating Station in Lacey Township owned and operated by Oyster Creek Environmental Protection permanently ceased operations on September 17, 2018.
+
+Data from the U.S. Energy Information Administration serves as a general reference.
+
+Data from the U.S. Energy Information Administration serves as a general reference.
+
+Additional data from New Jersey Department of Environmental Protection
+
+As of January 2023, New Jersey has more than 90 photovoltaic installations of over 5 MW, which have a cumulative capacity of over 850 MW, and over 510 projects of over 1 MW, with a cumulative capacity of 1,680 MW. Most of these are net-metered . The largest in the state include (incomplete list; selected projects):
+
+Data from the U.S. Energy Information Administration serves as a general reference.

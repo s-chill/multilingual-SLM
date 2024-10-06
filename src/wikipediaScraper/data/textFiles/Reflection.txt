@@ -1,0 +1,63 @@
+In computer science , reflective programming or reflection is the ability of a process to examine, introspect , and modify its own structure and behavior.
+
+The earliest computers were programmed in their native assembly languages , which were inherently reflective, as these original architectures could be programmed by defining instructions as data and using self-modifying code . As the bulk of programming moved to higher-level compiled languages such as Algol , Cobol , Fortran , Pascal , and C , this reflective ability largely disappeared until new programming languages with reflection built into their type systems appeared.
+
+Brian Cantwell Smith 's 1982 doctoral dissertation introduced the notion of computational reflection in procedural programming languages and the notion of the meta-circular interpreter as a component of 3-Lisp .
+
+Reflection helps programmers make generic software libraries to display data, process different formats of data, perform serialization and deserialization of data for communication, or do bundling and unbundling of data for containers or bursts of communication.
+
+Effective use of reflection almost always requires a plan: A design framework, encoding description, object library, a map of a database or entity relations.
+
+Reflection makes a language more suited to network-oriented code. For example, it assists languages such as Java to operate well in networks by enabling libraries for serialization, bundling and varying data formats. Languages without reflection such as C are required to use auxiliary compilers for tasks like Abstract Syntax Notation to produce code for serialization and bundling.
+
+Reflection can be used for observing and modifying program execution at runtime . A reflection-oriented program component can monitor the execution of an enclosure of code and can modify itself according to a desired goal of that enclosure. This is typically accomplished by dynamically assigning program code at runtime.
+
+In object-oriented programming languages such as Java , reflection allows inspection of classes, interfaces, fields and methods at runtime without knowing the names of the interfaces, fields, methods at compile time . It also allows instantiation of new objects and invocation of methods.
+
+Reflection is often used as part of software testing , such as for the runtime creation/instantiation of mock objects .
+
+Reflection is also a key strategy for metaprogramming .
+
+In some object-oriented programming languages such as C# and Java , reflection can be used to bypass member accessibility rules. For C#-properties this can be achieved by writing directly onto the (usually invisible) backing field of a non-public property. It is also possible to find non-public methods of classes and types and manually invoke them. This works for project-internal files as well as external libraries such as .NET 's assemblies and Java's archives.
+
+A language supporting reflection provides a number of features available at runtime that would otherwise be difficult to accomplish in a lower-level language. Some of these features are the abilities to:
+
+These features can be implemented in different ways. In MOO , reflection forms a natural part of everyday programming idiom. When verbs (methods) are called, various variables such as verb (the name of the verb being called) and this (the object on which the verb is called) are populated to give the context of the call. Security is typically managed by accessing the caller stack programmatically: Since callers () is a list of the methods by which the current verb was eventually called, performing tests on callers ()[0] (the command invoked by the original user) allows the verb to protect itself against unauthorised use.
+
+Compiled languages rely on their runtime system to provide information about the source code. A compiled Objective-C executable, for example, records the names of all methods in a block of the executable, providing a table to correspond these with the underlying methods (or selectors for these methods) compiled into the program. In a compiled language that supports runtime creation of functions, such as Common Lisp , the runtime environment must include a compiler or an interpreter.
+
+Reflection can be implemented for languages without built-in reflection by using a program transformation system to define automated source-code changes.
+
+Reflection may allow a user to create unexpected control flow paths through an application, potentially bypassing security measures. This may be exploited by attackers. Historical vulnerabilities in Java caused by unsafe reflection allowed code retrieved from potentially untrusted remote machines to break out of the Java sandbox security mechanism. A large scale study of 120 Java vulnerabilities in 2013 concluded that unsafe reflection is the most common vulnerability in Java, though not the most exploited.
+
+The following code snippets create an instance foo of class Foo and invoke its method PrintHello . For each programming language , normal and reflection-based call sequences are shown.
+
+The following is an example in Common Lisp using the Common Lisp Object System :
+
+The following is an example in C# :
+
+This Delphi and Object Pascal example assumes that a TFoo class has been declared in a unit called Unit1 :
+
+The following is an example in eC:
+
+The following is an example in Go :
+
+The following is an example in Java :
+
+The following is an example in JavaScript :
+
+The following is an example in Julia :
+
+The following is an example in Objective-C , implying either the OpenStep or Foundation Kit framework is used:
+
+The following is an example in Perl :
+
+The following is an example in PHP :
+
+The following is an example in Python :
+
+The following is an example in R :
+
+The following is an example in Ruby :
+
+The following is an example using Xojo :

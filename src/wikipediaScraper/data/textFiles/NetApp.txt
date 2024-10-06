@@ -1,0 +1,145 @@
+NetApp, Inc. is an American data infrastructure company that provides unified data storage, integrated data services, and cloud operations (CloudOps) solutions to enterprise customers. The company is based in San Jose, California . It has ranked in the Fortune 500 from 2012 to 2021. Founded in 1992 with an initial public offering in 1995, NetApp offers cloud data services for management of applications and data both online and physically.
+
+George Kurian is the Chief Executive Officer of NetApp and a member of the Board of Directors . He joined the company in 2011. The President of NetApp is César Cernuda. In December 2009, Mike Nevens was appointed as Chairman of the Board .
+
+NetApp employs around 12,000 people worldwide.
+
+NetApp's fiscal year ends at the end of April. For NetApp, the 2023 fiscal year began on April 30, 2022, and ended on April 28, 2023.
+
+While NetApp generated revenue of $15 million for fiscal year 1995, it exceeded $1 billion for the first time in 2004. In the fiscal year 2023, revenue reached USD 6.36 billion.
+
+Source:
+
+NetApp competes in the computer data storage hardware industry. In 2009, NetApp ranked second in market capitalization in its industry behind EMC Corporation , now Dell EMC, and ahead of Seagate Technology , Western Digital , Brocade , Imation , and Quantum . In total revenue of 2009, NetApp ranked behind EMC, Seagate, Western Digital, and ahead of Imation, Brocade, Xyratex , and Hutchinson Technology . According to a 2014 IDC report, NetApp ranked second in the network storage industry "Big 5's list", behind EMC (Dell), and ahead of IBM, HP and Hitachi.
+
+On March 1, 2021, a partnership with the Aston Martin F1 Team was announced. NetApp is currently responsible for data provision and cloud services for the racing team. Similar partnerships have been in place with the MotoGP team Ducati Corse since 2018, and the TAG Heuer Porsche Formula E Team since July of 2022.
+
+NetApp's FAS (Fabric-Attached Storage), AFF (All-Flash FAS), and ASA (All SAN Array) storage systems are the company's flagship products. Such products are made up of storage controllers, and one or more enclosures of hard disks, known as shelves.
+
+In the early 1990s, NetApp's storage systems initially offered NFS and SMB protocols based on standard local area networks (LANs), whereas block storage consolidation required storage area networks (SANs) implemented with the Fibre Channel (FC) protocol.
+
+In 2002, in an attempt to increase market share, NetApp added block-storage access as well, supporting the Fibre Channel and iSCSI protocols. As of 2016 NetApp systems support Fibre Channel, iSCSI , Fibre Channel over Ethernet (FCoE) and the FC-NVMe protocol.
+
+Many of NetApp's products use the company's proprietary ONTAP data management operating system, under continuous development since 1992, which includes code from Berkeley Net/2 BSD Unix , Spinnaker Networks technology and other operating systems. There are three ONTAP platforms : FAS/AFF systems, software on commodity servers ( ONTAP Select ) as virtual machine or in the cloud ( Cloud Volumes ONTAP ). All ONTAP systems use WAFL file systems which provide basis for snapshots and other snapshot-based and data protection technologies. Key IP from ONTAP is also used in NetApp Astra, a newer data management-as-a-service system built for Kubernetes .
+
+Previously known as Riverbed SteelStor before its acquisition by NetApp, this product was later renamed to AltaVault and then to Cloud Backup. Cloud Backup was initially available in three forms: as a hardware appliance, virtual appliance, and cloud appliance. Later, NetApp announced the end of sale for hardware and virtual appliances. Data placed on NAS share on Cloud Backup deduplicated, compressed, encrypted and transferred to object storage systems like Amazon S3 , Azure Blob Storage or StorageGRID; thus Cloud Backup appears as a transparent gateway for archiving data to a private or public cloud.
+
+NetApp Hyper-converged infrastructure (HCI) or sometimes referred by NetApp as Hybrid Cloud Infrastructure, NetApp HCI is based on commodity blade and rack servers, NetApp Element software and VMware vSphere . NetApp HCI includes the NetApp Deployment Engine (NDE) for configuring vCenter, IP addresses , login and password, and storage nodes.
+
+Each storage node drive set consists of six SSD drives directly connected to a dedicated storage node and installed in front of the blade chassis. Each storage and compute blade nodes have 25 Gigabit Ethernet ports which could be used as 10 Gbit/s ports as well as dedicated 1 Gb ports for management purposes. Network switches were not included, and in NetApp HCI with Element software release 11 NetApp announced H-Series Switch as part of HCI, so all hardware components must be bought from NetApp. ONTAP Select available as SDS on NetApp HCI for customers interested in NAS protocols. The self-service portal allows automating common provisioning and management tasks.
+
+SolidFire storage system uses an OS called NetApp Element Software (formally SolidFire Element OS) based on Linux and designed for SSDs and scale-out architecture with the ability to expand up to 100 nodes and provide access to data through SAN protocols iSCSI natively and Fiber Channel with two gateway nodes. Element OS provides a REST-based API for storage automation, configuration, management, and consumption. Element SW version 11 will not support FC. SolidFire uses iSCSI login redirection to distribute reads and writes across the cluster using helix algorithm. Each node has pre-installed SSD drives, which must all be of the same type and capacity. Each SolidFire cluster can have a mix of different node models and generations.
+
+StorageGRID is a software-defined storage system which provides access to data via object IP-based protocols like S3 and OpenStack Swift . It is available in the form of hardware or as software.
+
+Previously known as LSI Engenio RDAC after NetApp acquisition the product renamed to NetApp E-Series. It is a general-purpose enterprise storage system with two controllers for SAN protocols such as Fibre Channel , iSCSI , SAS and InfiniBand (includes SRP, iSER, and NVMe over Fabrics protocol). NetApp E-Series platform uses proprietary OS SANtricity and proprietary RAID called Dynamic Disk Pool (DDP) alongside traditional RAIDs like RAID 10, RAID 6, RAID 5, etc. In DDP pool each D-Stripe works similar to traditional RAID-4 and RAID-6 but on block level instead of entire disk level, therefore, have no dedicated parity drives. DDP compare to traditional RAID groups restores data from lost disk drive to multiple drives which provide a few times faster reconstruction time while traditional RAIDs restores lost disk drive to a dedicated parity drive. Starting with SANtricity 11.50 E-Series systems EF570 and E5700 support NVMe over Ethernet ( RoCEv2 ) with 100 Gbit/s Ethernet ports and NVMe over InfiniBand. Starting with EF600 systems are end-to-end NVMe and capable of NVMe/FC in addition to NVMe/RoCE and NVMe/InfiniBand. Sync and async mirroring are supported with SANtricity 11.50. SANtricity Unified Manager is a web-based manager that supports up to 500 EF/E-Series arrays and supports LDAP, RBAC, CA and SSL for authorization and authentication. In August 2019 NetApp announced E600 with support for NVMe/IB, NVMe/RoCE, NVMe/FC protocols, up to 44 GBps of bandwidth and full-function embedded REST API.
+
+FlexPod, nFlex and ONTAP AI are commercial names for Converged Infrastructure (CI). Converged Infrastructures are joint products of a few vendors and consists from 3 main hardware components: computing servers, switches (in some cases switches are not necessary) and NetApp storage systems:
+
+Converged Infrastructures typically include popular infrastructure software like Docker Enterprise Edition (EE) , Red Hat OpenStack Platform, VMware vSphere , Microsoft Servers and Hyper-V , SQL , Exchange , Oracle VM and Oracle DB , Citrix Xen , KVM , OpenStack , SAP HANA etc. and might include self-service portals PaaS or IaaS like Cisco UCS Director (UCSD) or others.
+
+The FlexPod platform is designed to integrate cloud services and manage data in a Converged Infrastructure. Offerings include FlexPod XCS, FlexPod Express, FlexPod Datacenter, and FlexPod AI.
+
+NetApp Converged Systems Advisor (CSA) is a software-as-a-service (SaaS) platform that consists of an on-premises agent and a cloud-based portal.
+
+Multi-Pod is a FlexPod solution with a FAS or AFF system leveraging MetroCluster technology for stretching storage system between two sites.
+
+Converged infrastructure solution based on Cisco Nexus 3000 or Mellanox Spectrum switches with 100 Gbit/s ports, NetApp AFF storage systems, Nvidia DGX supercomputer servers . DGX servers interconnected with each other over RDMA over RoCE , and developed for Deep Learning based on Docker containers with NetApp Docker Plugin Trident. DGX servers connected to the storage with Ethernet connection and consume space over NFS protocol.
+
+OnCommand Insight (OCI) is software for data center management, capacity management, and infrastructure analytics.
+
+NetApp MAX Data for short, MAX Data is a proprietary Linux file system with auto-tiering from PMEM to SSD and data protection features.
+
+MAX Data consists of two tiers: Tier 1 and Tier 2, where cold data destaged to Tier 2 from Tier 1 or promoted from Tier 2 to Tier 1 when accessed, by MAX Data tiering algorithm, transparently to the applications.
+
+Cloud Central is a web-based GUI interface that provides a multi-cloud interface based on Qstack for NetApp's cloud products like Cloud Volumes Service, Cloud Sync, Cloud Insights, Cloud Volumes ONTAP, SaaS Backup in multiple public cloud providers.
+
+Cloud Manager is a service for high-level management of ONTAP-based systems on-premise and in the cloud: CVO, CVS, ONTAP Select, FAS, and AFF. Cloud Manager allow setup SnapMirror data protection replication between systems through the GUI interface with drag-and-drop.
+
+It is a storage system installed on-premises in a customer's data center and available to the customer as service. All work for updates and technical support provided by NetApp while the customer consumes space from the storage using web-based GUI or API and performs data backup and replication if needed.
+
+Formally ONTAP Cloud. Cloud Volumes ONTAP (CVO) is software-defined (SDS) version of ONTAP available in some public cloud providers like AWS, Azure, Google Cloud, and IBM Cloud. Cloud Volumes ONTAP is a virtual machine which is using commodity equipment and running ONTAP software as a service.
+
+Cloud Volumes Service is a service in Amazon AWS and Google Cloud – it is public cloud provider based on NetApp All-Flash FAS systems and ONTAP software, allowing for synchronizing data between cloud and on-premises NetApp systems.
+
+NetApp Private Storage (NPS) is based on Equinix partner provided colocation service in its data centers for NetApp Storage Systems with 10 Gbit/s direct connection to public cloud providers like Azure and AWS etc. NPS storage could be connected to a few cloud providers or on-premise infrastructure, thus in case of switching between clouds does not require data migration between them.
+
+Astra is NetApp's Kubernetes cloud service for consistent application-consistent backups, Data Cloning, and data mobility across clouds and on-premises. Astra can deploy and maintain data-rich applications across Amazon Web Services, Microsoft Azure, Google Cloud and on-premises datacenters, enabling easily backup and restoring data or migrating the applications from one Kubernetes cluster to another in a multi-cloud environment.
+
+NetApp SaaS Backup (Previously Cloud Control) is back up and recovery service for SaaS Microsoft Office 365 and Salesforce which provide extended, granular and custom retention capabilities of backup and recovery process compare to native cloud backup. NetApp planning to extend SaaS Backup and recovery service for Google Workspace (formerly G Suite and Google Apps for Work), Slack and ServiceNow .
+
+Cloud Sync is service for synchronizing any NAS storage system with another NAS storage, an Object Storage like Amazon S3 or NetApp Storage GRID using an object protocol.
+
+Cloud Insights is an SaaS application for monitoring infrastructure application stack for customers consuming cloud resources and also build for the dynamic nature of microservices and web-scale infrastructures. Cloud Insights uses similar to OnCommand Insight front-end API but different technology on the back-end. Cloud Insights available as a preview and will have three editions: Free, Standard and Premium.
+
+Cloud Secure is a SaaS security tool that identifies malicious data access and compromised users, in other words, user behavior analytics. Cloud Secure uses machine learning algorithms to identify unusual patterns, and can identify if users have been infected with ransomware , and prevent them from encrypting the files.
+
+Currently supported data repositories include NetApp Cloud Volumes, NetApp ONTAP, NetApp StorageGRID, OneDrive , AWS, Google Suite, HPE, DELLEMC Isilon, Dropbox , Box , @workspace and Office 365 .
+
+NetApp Data Availability Services (NDAS) provides data protection in the cloud GUI . This cloud service is located only in AWS but can be copied to other clouds. NDAS is for backup, data protection and disaster recovery purposes from ONTAP storage. ONTAP systems starting with ONTAP 9.5 have a built-in proxy application that converting NetApp snapshots with WAFL data and metadata into the S3 format unlike FabricPool technology, which stores only data in the object storage. NDAS is one of the Data Fabric manifestations.
+
+Often referred as to "Data Fabric Story," the variety of integrations between NetApp's products and data mobility is considered by NetApp to be its Data Fabric vision . Data Fabric defines the NetApp technology architecture for hybrid cloud and includes:
+
+NetApp products could be integrated with a variety of software products, mostly for ONTAP systems.
+
+NetApp provides a variety of automation services directly to its products with HTTP protocol or through middle-ware software.
+
+NetApp Trident software provides a persistent volume plugin for Docker containers with both orchestrators Kubernetes and Swarm and supports ONTAP, SolidFire, E-Series, Azure NetApp Files (ANF), Cloud Volumes and NetApp Kubernetes Service in Cloud.
+
+Also, NetApp with Cisco sells CI architectures which incorporate the Trident plugin: FlexPod Datacenter with Docker Enterprise Edition and ONTAP AI.
+
+NetApp Jenkins Framework provides integration with ONTAP storage for DevOps, accelerating development with automation operations like provisioning and data-set cloning for test and development and leverage ONTAP for version control, create and delete checkpoints etc. Jenkins also integrate with NetApp Service Level Manager software which provides RESTful API for guarantee level of storage performance. Apprenda and CloudBees integrate and accelerate DevOps through Docker persistent volume plugin and Jenkins Framework integration. Apprenda could be integrated with OpenStack running on top of FlexPod.
+
+CommVault, Veeam and Veritas have integrations with ONTAP, SolidFire, Cloud Backup and E-Series leveraging storage capabilities like snapshots and cloning capabilities for testing backup copies and SnapMirror for Backup and Recovery (B&R), Disaster Recovery (DR) and Data Archiving for improving restore time and number of recovery points (see RPO/RTO ). Cloud Backup integrates with nearly all B&R products for archiving capabilities since it is represented as ordinary NAS share for B&R software. Backup and recovery software from competitor vendors like IBM Spectrum Protect , EMC NetWorker , HP Data Protector , Dell vRanger , Acronis Backup and others also have some level of integrations with NetApp storage systems.
+
+NetApp systems can integrate with enterprise applications for backup purposes, cloning, provisioning, and other self-service storage features. Oracle DB can be connected using Direct NFS (dNFS) client build inside database app which will provide network performance, resiliency, load balancing for NFS protocol with ONTAP systems.
+
+Oracle DB, Microsoft SQL, IBM DB2, MySQL, Mongo DB, SAP HANA, MS Exchange, VMware vSphere, Citrix Xen, KVM integrate with NetApp systems for provisioning, cloning and additional backup and recovery build - this includes capabilities like SnapShots, SnapVault and SnapMirror with a variety of software including NetApp's SnapCenter and SnapCreator.
+
+NetApp systems have integration with such open source projects as OpenStack Cinder for Block storage (SolidFire, ONTAP, E-Series, OnCommand Insight, Cloud Backup), OpenStack Manila for Shared file system (ONTAP, OnCommand Insight), Docker persistent volumes through Trident plugin (SolidFire, ONTAP, E-Series) and others.
+
+NetApp's technology for private, public, and hybrid clouds includes, among other things:
+
+IBM used to OEM NetApp FAS systems under its own brand known as IBM N-series and this partnership ended May 29, 2014. Dell OEM NetApp E-Series under its own name PowerVault MD.
+
+September 13, 2018, Lenovo and NetApp announced its technology partnership, so Lenovo OEM Netapp products under its own name: Lenovo ThinkSystem DE (using NetApp's EF and E-Series array technology), and ThinkSystem DM uses ONTAP software with Lenovo servers and supports FC-NVMe (analog for NetApp FAS and AFF systems).
+
+Vector Data builds rugged and carrier-grade versions of NetApp FAS, AFF, E-Series and SolidFire products with -48V DC power and other customizations under their Vault product line.
+
+In November 2011, during the 2011 Syrian uprising , NetApp was named as one of several companies whose products were being used in the Syrian government crackdown. The equipment was allegedly sold to the Syrians by an authorized NetApp reseller.
+
+On April 7, 2014, NetApp was notified by the US Department of Commerce "that it had completed its review of this matter and determined that NetApp had not violated the U.S. export laws", and that the file on the matter had been closed.
+
+In September 2007, NetApp started proceedings against Sun Microsystems , claiming that the ZFS File System developed by Sun infringed its patents. The following month, Sun announced plans to countersue based on alleged misuse by NetApp of Sun's own patented technology. Several of NetApp's patent claims were rejected on the basis of prior art after re-examination by the United States Patent and Trademark Office . On September 9, 2010, NetApp announced an agreement with Oracle Corporation (the new owner of Sun Microsystems) to dismiss the suits.
+
+NetApp was listed amongst Silicon Valley Top 25 Corporate Philanthropists in 2013. NetApp was Named Brand of the Year by the Think Global Awards in 2019.
+
+In 2023, NetApp was named “Best Company to Work For ” by US News & World Report.
+
+In 2024, consulting firm Frost & Sullivan named NetApp “Global Company of the Year in the hybrid cloud storage management industry.”
+
+In fiscal year 2021, NetApp made $3 million in corporate donations.
+
+NetApp participates in the World's Largest Lesson, a program of Project Everyone in partnership with UNICEF , and with the support of UNESCO .
+
+Through the NetApp Serves program, 2,141 employees volunteer for social projects and charitable causes.
+
+Through the NetApp Community Investments program, NetApp and its employees are committed to charitable causes in education, food provision and reducing homelessness.
+
+With Data Explorers, NetApp helps young people discover and develop data literacy.
+
+Over the past six years (as of 2023), NetApp has reduced its greenhouse gas intensity by 70%. Between 2017 and 2022, NetApp reduced its energy consumption by 15%, and consequently reduced greenhouse gas emissions by 61%. NetApp is actively working to significantly reduce its Scope 1, 2 and 3 emissions by 2030.
+
+In 2021, the CDP Climate Change Score improved to B-.
+
+In 2022, NetApp switched to a new global e-waste partner and is actively promoting WEEE -compliant programs to reduce e-waste.
+
+In 2022, the NetApp facility at Wichita State University 's (WSU) Innovation Campus in Kansas was completed. The facility is powered 100% by local wind power.
+
+NetApp's Bangalore campus gets 88% of its electricity from renewable energy, including wind turbines, hydroelectric power plants, and a small on-site solar plant with a production capacity of about 100 kW.
+
+At the end of fall 2022, NetApp ranked among the top 7% of companies rated by EcoVadis.
+
+The NetApp Environmental Management System, and thus almost all global NetApp offices, are certified according to ISO14001:2015.
+
+In some NetApp offices, employees have formed Green Teams to integrate sustainable values into their daily lives.

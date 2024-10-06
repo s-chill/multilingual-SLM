@@ -1,0 +1,27 @@
+Theoretical production ecology tries to quantitatively study the growth of crops . 
+The plant is treated as a kind of biological factory, which processes light , carbon dioxide , water , and nutrients into harvestable parts.
+Main parameters kept into consideration are temperature, sunlight, standing crop biomass, plant production distribution, nutrient and water supply.
+
+Modelling is essential in theoretical production ecology. 
+Unit of modelling usually is the crop , the assembly of plants per standard surface unit. Analysis results for an individual plant are generalised to the standard surface, e.g. the leaf area index is the projected surface area of all crop leaves above a unit area of ground.
+
+The usual system of describing plant production divides the plant production process into at least five separate processes, which are influenced by several external parameters.
+
+Two cycles of biochemical reactions constitute the basis of plant production, the light reaction and the dark reaction.
+
+Important parameters in theoretical production models thus are:
+
+Theoretical production ecology assumes that the growth of common agricultural crops, such as cereals and tubers, usually consists of four (or five) phases:
+
+Plant production models exist in varying levels of scope (cell, physiological, individual plant, crop, geographical region, global) and of generality: the model can be crop-specific or be more generally applicable. In this section the emphasis will be on crop-level based models as the crop is the main area of interest from an agronomical point of view.
+
+As of 2005, several crop production models are in use. The crop growth model SUCROS has been developed during more than 20 years and is based on earlier models. Its latest revision known dates from 1997. The IRRI and Wageningen University more recently developed the rice growth model ORYZA2000 . This model is used for modeling rice growth. Both crop growth models are open source . Other more crop-specific plant growth models exist as well.
+
+SUCROS is programmed in the Fortran computer programming language. The model can and has been applied to a variety of weather regimes and crops. Because the source code of Sucros is open source , the model is open to modifications of users with FORTRAN programming experience.
+The official maintained version of SUCROS comes into two flavours: SUCROS I, which has non-inhibited unlimited crop growth (which means that only solar radiation and temperature determine growth) and SUCROS II, in which crop growth is limited only by water shortage.
+
+The ORYZA2000 rice growth model has been developed at the IRRI in cooperation with Wageningen University . This model, too, is programmed in FORTRAN. The scope of this model is limited to rice , which is the main food crop for Asia.
+
+The United States Department of Agriculture has sponsored a number of applicable crop growth models for various major US crops, such as cotton , soy bean , wheat and rice . Other widely used models are the precursor of SUCROS ( SWATR ), CERES , several incarnations of PLANTGRO , SUBSTOR , the FAO-sponsored CROPWAT , AGWATER , the erosion-specific model EPIC , and the cropping system CropSyst .
+
+A less mechanistic growth and competition model, called the conductance model, has been developed, mainly at Warwick-HRI, Wellesbourne, UK.  This model simulates light interception and growth of individual plants based on the lateral expansion of their crown zone areas.  Competition between plants is simulated by a set algorithms related to competition for space and resultant light intercept as the canopy closes.  Some versions of the model assume overtopping of some species by others.  Although the model cannot take account of water or mineral nutrients, it can simulate individual plant growth, variability in growth within plant communities and inter-species competition.  This model was written in Matlab.  See Benjamin and Park (2007) Weed Research 47, 284–298 for a recent review.

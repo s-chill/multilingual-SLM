@@ -1,0 +1,7 @@
+The following tables compare general and technical information for a number of File Transfer Protocol (FTP) clients . Unless otherwise specified in footnotes, comparisons are based on the stable versions without any add-ons, extensions, or external programs.
+
+The operating systems the clients can run on:
+
+(CL) Command-Line interface only – no GUI (Graphical user interface)
+
+Information about what internet protocols the clients support. External links lead to information about support in future versions of the clients or extensions that provide such functionality.

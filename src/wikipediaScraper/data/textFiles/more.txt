@@ -1,0 +1,30 @@
+In computing , more is a command to view (but not modify) the contents of a text file one screen at a time.
+It is available on Unix and Unix-like systems, DOS , Digital Research FlexOS , IBM / Toshiba 4690 OS , IBM OS/2 , Microsoft Windows and ReactOS . Programs of this sort are called pagers . more is a very basic pager, originally allowing only forward navigation through a file, though newer implementations do allow for limited backward movement.
+
+The more command was originally written by Daniel Halbert, a graduate student at the University of California, Berkeley , in 1978. It was later expanded on by Eric Shienbrood, Geoff Peck (added underlining, single spacing) and John Foderaro (added -c, more environment variable history ). It was first included in 3.0 BSD , and has since become a standard program in all Unix systems. less , a similar command with the extended capability of allowing both forward and backward navigation through the file, was written by Mark Nudelman between 1983 and 1985 and is now included in most Unix and Unix-like systems.
+
+The command is available in MS-DOS versions 2 and later. A more command is also part of ASCII 's MSX-DOS2 Tools for MSX-DOS version 2. The Software Link 's PC-MOS includes an implementation of more . Like the rest of the operating system, it is licensed under the GPL v3 . The FreeDOS version was developed by Jim Hall and is licensed under the GPL v2 . The command is also available in the KolibriOS Shell.
+
+The numerical computing environments MATLAB and GNU Octave include a more function that turns output pagination on or off.
+
+The command- syntax is:
+
+If no file name is provided, more looks for input from standard input .
+
+Once more has obtained input, it displays as much as can fit on the current screen and waits for user input to advance, with the exception that a form feed (^L) will also cause more to wait at that line, regardless of the amount of text on the screen. In the lower-left corner of the screen is displayed the text "--More--" and a percentage, representing the percent of the file that more has paged through. (This percentage includes the text displayed on the current screen.) When more reaches the end of a file (100%) it exits. The most common methods of navigating through a file are Enter , which advances the output by one line, and Space , which advances the output by one screen.
+
+There are also other commands that can be used while navigating through the document; consult more 's man page for more details.
+
+Options are typically entered before the file name, but can also be entered in the environment variable $MORE . Options entered in the actual command line will override those entered in the $MORE environment variable. Available options may vary between Unix systems, but a typical set of options is as follows:
+
+The command-syntax is:
+
+To display the file named letter.txt on the screen, the user can type either of the following two commands:
+
+The command displays the first screen of information from letter.txt, and then the following prompt appears:
+
+It is also possible to clear the screen and remove all extra blank lines before displaying the file:
+
+The command-syntax is:
+
+Return the content of the OS/2 system directory using the dir command and display it one screen at a time using the more command:

@@ -1,0 +1,15 @@
+Mark Edward Davis (born September 13, 1952) is an American specialist in the internationalization and localization of software and the co-founder and chief technical officer of the Unicode Consortium , previously serving as its president until 2022.
+
+He is one of the key technical contributors to the Unicode specifications, being the primary author or co-author of bidirectional text algorithms (used worldwide to display Arabic language and Hebrew language text), collation (used by sorting algorithms and search algorithms ), Unicode normalization , Unicode scripts , text segmentation , identifiers , regular expressions , data compression , character encoding and security .
+
+Davis was educated at Stanford University where he was awarded a PhD in Philosophy in 1979.
+
+Davis has specialized in Internationalization and localization of software for many years. After his PhD, he worked in Zurich , Switzerland for several years, then returned to the US to join Apple , where he co-authored the Macintosh KanjiTalk and Script Manager, and authored the Macintosh Arabic and Hebrew systems. He also worked on parts of the Mac OS , including contributions to the design of TrueType . Later, he was the manager and architect for the Taligent international frameworks and was then the architect for a large part of the Java international libraries. At IBM , he was the Chief Software Globalization Architect . He is the author of a number of patents, primarily in internationalization and localization . At various times he has also managed groups or departments covering text, internationalization, operating system services, porting and technical communications.
+
+Davis founded and was responsible for the overall architecture of International Components for Unicode (ICU: a major Unicode software internationalization library) and designed the core of the Java internationalization classes. He also is the vice-chair of the Unicode Common Locale Data Repository (CLDR) project, and is a co-author of Best Current Practice (BCP) 47 IETF language tag Request for Comments (RFC 4646 and RFC 5646), used for identifying languages in XML and HTML documents.
+
+Since the start of 2006, Davis has been working on software internationalization at Google , focusing on effective and secure use of Unicode (especially in the index and search pipeline), overall improvement and adoption of the software internationalization libraries (including ICU) and the introduction and maintenance of stable identifiers for languages, scripts, regions, time zones and currencies.
+
+The Unicode Standard, Version 5.0
+
+Davis is married to Anne Gundelfinger. He has two daughters from a previous marriage.

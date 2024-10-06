@@ -1,0 +1,17 @@
+expr is a command line utility on Unix and Unix-like operating systems which evaluates an expression and outputs the corresponding value.  It first appeared in Unix v7 . The command is available for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities. The expr command has also been ported to the IBM i operating system.
+
+expr evaluates integer or string expressions, including pattern matching regular expressions . Each symbol (operator, value, etc.) in the expression must be given as a separate parameter. Most of the challenge posed in writing expressions is preventing the invoking command line shell from acting on characters intended for expr to process.
+
+Syntax: expr expression
+
+The operators available
+
+The following is a (non- POSIX -compliant) example involving Boolean expressions :
+
+This example outputs "1".  This is because length "abcdef"  is 6, which is not less than 5 (so the left side of the | returns zero).  But 15 minus 4 is 11 and is greater than 8, so the right side is true, which makes the or true, so 1 is the result. The program exit status is zero for this example.
+
+For pure arithmetic, it is often more convenient to use bc .  For example:
+
+since it accepts the expression as a single argument.
+
+For portable shell programming, use of the "index", "length", "match" and "substr" commands must be avoided; string matching remains possible but it must use the "string : regexp" syntax.

@@ -1,0 +1,51 @@
+Wind chill (popularly wind chill factor ) is the sensation of cold produced by the wind for a given ambient air temperature on exposed skin as the air motion accelerates the rate of heat transfer from the body to the surrounding atmosphere. Its values are always lower than the air temperature in the range where the formula is valid. When the apparent temperature is higher than the air temperature, the heat index is used instead.
+
+A surface loses heat through conduction , evaporation , convection , and radiation . The rate of convection depends on both the difference in temperature between the surface and the fluid surrounding it and the velocity of that fluid with respect to the surface.  As convection from a warm surface heats the air around it, an insulating boundary layer of warm air forms against the surface. Moving air disrupts this boundary layer, or epiclimate, carrying the warm air away, thereby allowing cooler air to replace the warm air against the surface and increasing the temperature difference in the boundary layer. The faster the wind speed, the more readily the surface cools. Contrary to popular belief , wind chill does not refer to how cold things get, and they will only get as cold as the air temperature. This means radiators and pipes cannot freeze when wind chill is below freezing and the air temperature is above freezing.
+
+Many formulas exist for wind chill because, unlike temperature, wind chill has no universally agreed-upon standard definition or measurement.  All the formulas attempt to qualitatively predict the effect of wind on the temperature humans perceive .  Weather services in different countries use standards unique to their country or region; for example, the U.S. and Canadian weather services use a model accepted by the National Weather Service .  That model has evolved over time.
+
+The first wind chill formulas and tables were developed by Paul Allman Siple and Charles F. Passel working in the Antarctic before the Second World War, and were made available by the National Weather Service by the 1970s. They were based on the cooling rate of a small plastic bottle as its contents turned to ice while suspended in the wind on the expedition hut roof, at the same level as the anemometer . The so-called Windchill Index provided a pretty good indication of the severity of the weather.
+
+In the 1960s, wind chill began to be reported as a wind chill equivalent temperature (WCET), which is theoretically less useful.  The author of this change is unknown, but it was not Siple or Passel as is generally believed. At first, it was defined as the temperature at which the windchill index would be the same in the complete absence of wind. This led to equivalent temperatures that exaggerated the severity of the weather. Charles Eagan realized that people are rarely still and that even when it is calm, there is some air movement. He redefined the absence of wind to be an air speed of 1.8 metres per second (6.5 km/h; 4.0 mph), which was about as low a wind speed as a cup anemometer could measure. This led to more realistic (warmer-sounding) values of equivalent temperature.
+
+Equivalent temperature was not universally used in North America until the 21st century. Until the 1970s, the coldest parts of Canada reported the original Wind Chill Index, a three- or four-digit number with units of kilocalories /hour per square metre. Each individual calibrated the scale of numbers personally, through experience. The chart also provided general guidance to comfort and hazard through threshold values of the index, such as 1400, which was the threshold for frostbite .
+
+The original formula for the index was:
+
+W C I = ( 10 v − v + 10.5 ) ⋅ ( 33 − T a ) , {\displaystyle WCI=\left(10{\sqrt {v}}-v+10.5\right)\cdot \left(33-T_{\mathrm {a} }\right),} where:
+
+In November 2001, Canada, the United States, and the United Kingdom implemented a new wind chill index developed by scientists and medical experts on the Joint Action Group for Temperature Indices (JAG/TI). It is determined by iterating a model of skin temperature under various wind speeds and temperatures using standard engineering correlations of wind speed and heat transfer rate.  Heat transfer was calculated for a bare face in wind, facing the wind, while walking into it at 1.4 m/s (5.0 km/h; 3.1 mph). The model corrects the officially measured wind speed to the wind speed at face height, assuming the person is in an open field. The results of this model may be approximated, to within one degree, from the following formulas.
+
+The standard wind chill formula for Environment Canada is:
+
+T w c = 13.12 + 0.6215 T a − 11.37 v + 0.16 + 0.3965 T a v + 0.16 , {\displaystyle T_{\mathrm {wc} }=13.12+0.6215T_{\mathrm {a} }-11.37v^{+0.16}+0.3965T_{\mathrm {a} }v^{+0.16},}
+
+where T wc is the wind chill index, based on the Celsius temperature scale; T a is the air temperature in degrees Celsius; and v is the wind speed at 10 m (33 ft) standard anemometer height , in kilometres per hour.
+
+When the temperature is −20 °C (−4 °F) and the wind speed is 5 km/h (3 mph), the wind chill index is −24. If the temperature remains at −20 °C and the wind speed increases to 30 km/h (19 mph), the wind chill index falls to −33.
+
+The equivalent formula in US customary units is:
+
+T w c = 35.74 + 0.6215 T a − 35.75 v + 0.16 + 0.4275 T a v + 0.16 , {\displaystyle T_{\mathrm {wc} }=35.74+0.6215T_{\mathrm {a} }-35.75v^{+0.16}+0.4275T_{\mathrm {a} }v^{+0.16},}
+
+where T wc is the wind chill index, based on the Fahrenheit scale; T a is the air temperature in degrees Fahrenheit; and v is the wind speed in miles per hour.
+
+Windchill temperature is defined only for temperatures at or below 10 °C (50 °F) and wind speeds above 4.8 km/h (3.0 mph).
+
+As the air temperature falls, the chilling effect of any wind that is present increases. For example, a 16 km/h (10 mph) wind will lower the apparent temperature by a wider margin at an air temperature of −20 °C (−4 °F) than a wind of the same speed would if the air temperature were −10 °C (14 °F).
+
+The 2001 WCET is a steady-state calculation (except for the time-to-frostbite estimates). There are significant time-dependent aspects to wind chill because cooling is most rapid at the start of any exposure, when the skin is still warm.
+
+The apparent temperature (AT), invented in the late 1970s, was designed to measure thermal sensation in indoor conditions. It was extended in the early 1980s to include the effect of sun and wind. The AT index used here is based on a mathematical model of an adult, walking outdoors, in the shade (Steadman 1994). The AT is defined as the temperature, at the reference humidity level, producing the same amount of discomfort as that experienced under the current ambient temperature and humidity.
+
+The formula is:
+
+A T = T a + 0.33 e − 0.7 v − 4.00 , {\displaystyle \mathrm {AT} =T_{\mathrm {a} }+0.33e-0.7v-4.00,}
+
+where:
+
+The vapour pressure can be calculated from the temperature and relative humidity using the equation: e = R H 100 ⋅ 6.105 ⋅ exp ⁡ ( 17.27 ⋅ T a 237.7 + T a ) , {\displaystyle e={\frac {\mathrm {RH} }{100}}\cdot 6.105\cdot \exp {\left({\frac {17.27\cdot T_{\mathrm {a} }}{237.7+T_{\mathrm {a} }}}\right)},}
+
+where:
+
+The Australian formula includes the important factor of humidity and is somewhat more involved than the simpler North American model. The North American formula was designed to be applied at low temperatures (as low as −46 °C or −50 °F) when humidity levels are also low. The hot-weather version of the AT (1984) is used by the National Weather Service in the United States. In the United States, this simple version of the AT is known as the heat index .

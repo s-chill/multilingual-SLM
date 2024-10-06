@@ -1,0 +1,7 @@
+A lightweight web browser is a web browser that sacrifices some of the features of a mainstream web browser in order to reduce the consumption of system resources , and especially to minimize the memory footprint .
+
+The tables below compare notable lightweight web browsers. Several of them use a common layout engine , but each has a unique combination of features and a potential niche. The minimal user interface in surf , for example, does not have tabs , whereas xombrero can be driven with vi -like keyboard commands.
+
+Four of the browsers compared— Lynx , w3m , Links , and ELinks —are designed for text mode , and can function in a terminal emulator . Eww is limited to working within Emacs. Links 2 has both a text-based user interface and a graphical user interface . w3m is, in addition to being a web browser, also a terminal pager .
+
+Test scores reflect the version of the browser engine in use. Generally, a lower score indicates an older version of the browser engine.

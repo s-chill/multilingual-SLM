@@ -1,0 +1,13 @@
+The ROSE compiler framework, developed at Lawrence Livermore National Laboratory (LLNL), is an open-source software compiler infrastructure to generate source-to-source analyzers and translators for multiple source languages including C (C89, C98, Unified Parallel C (UPC)), C++ (C++98, C++11), Fortran (77, 95, 2003), OpenMP , Java , Python , and PHP .
+
+It also supports certain binary files, and auto-parallelizing compilers by generating source code annotated with OpenMP directives. Unlike most other research compilers, ROSE is aimed at enabling non-experts to leverage compiler technologies to build their own custom software analyzers and optimizers.
+
+ROSE consists of multiple front-ends, a midend operating on its internal intermediate representation (IR), and backends regenerating (unparse) source code from IR. Optionally, vendor compilers can be used to compile the unparsed source code into final executables.
+
+To parse C and C++ applications, ROSE uses the Edison Design Group's C++ front-end. Fortran support, including F2003 and earlier 1977, 1990, and 1995 versions, is based on the Open Fortran Parser (OFP) developed at Los Alamos National Laboratory .
+
+The ROSE IR consists of an abstract syntax tree , symbol tables, control flow graph, etc. It is an object-oriented IR with several levels of interfaces for quickly building source-to-source translators. All information from the input source code is carefully preserved in the ROSE IR, including C preprocessor control structure, source comments, source position information, and C++ template information, e.g., template arguments.
+
+ROSE is released under a BSD-style license . It targets Linux and OS X on both IA-32 and x86-64 platforms. Its Edison Design Group (EDG) parts are proprietary and distributed in binary form. Source files of the EDG parts can be obtained if users have a commercial or research license from EDG.
+
+The ROSE compiler infrastructure received one of the 2009 R&D 100 Awards. The R&D 100 Awards are presented annually by R&D Magazine to recognize the 100 most significant proven research and development advances introduced over the past year. An independent expert panel selects the winners.

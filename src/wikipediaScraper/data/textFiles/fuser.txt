@@ -1,0 +1,19 @@
+The Unix command fuser is used to show which processes are using a specified computer file , file system , or Unix socket .
+
+For example, to check process IDs and users accessing a USB drive:
+
+The command displays the process identifiers (PIDs) of processes using the specified files or  file
+systems.   In the default display mode, each PID is followed by a
+letter denoting the type of access:
+
+Only the PIDs are written to standard output . Additional information is written to standard error. This makes it easier to process the output with computer programs.
+
+The command can also be used to check what processes are using a network port:
+
+The command returns a non-zero code if none of the files are
+accessed or in case of a fatal error. If at least one access has succeeded, fuser returns zero. 
+The output of "fuser" may be useful in diagnosing "resource busy" messages arising when attempting to unmount filesystems.
+
+POSIX defines the following options:
+
+psmisc adds the following options, among others:

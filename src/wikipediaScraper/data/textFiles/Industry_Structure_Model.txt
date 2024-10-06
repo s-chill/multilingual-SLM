@@ -1,0 +1,13 @@
+SFIAplus is the IT training and development model of the British Computer Society (BCS). Based on the original Industry Structure Model , first published by the BCS in July 1986, which was remapped to the Skills Framework for the Information Age (SFIA) and rebranded as SFIAPlus .
+
+Responding to the wide recognition of the importance of an externally accredited professional development scheme, the BCS consulted with hundreds of contributors developing SFIAPlus to enable individuals and organisations to:
+
+SFIAPlus is used by a large number of organisations, including many major companies, to apply quality control to the practical experience and training of ICT practitioners, and is widely used outside the UK, forming the basis of the European Informatics Skills Structure used throughout Europe.
+
+While the first version in 1986 (of the Industry Structure Model ) was produced as a paper publication, the complexity in SFIAPlus mean that it is best accessed using a software interface (BCS describe it as three-dimensional as compared to the SFIA two-dimensional model ).
+
+SFIAPlus can be browsed to access the full range of ICT competencies and tasks, and there are a number of additional tools:
+
+While SFIA maps IT competencies in two dimensions (skill categories and seniority) and briefly describes the 263 tasks expected of a role in each of the 78 categories at the relevant level of seniority; SFIAPlus extends this with additional categories, making 86 specific skills and 290 tasks; adding a more thorough overview of each competency (with eight skill resources); and providing significant detail behind each task description (six task components).
+
+Task descriptions in SFIAPlus are supplemented by:

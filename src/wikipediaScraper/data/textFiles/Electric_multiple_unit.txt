@@ -1,0 +1,25 @@
+An electric multiple unit or EMU is a multiple-unit train consisting of self-propelled carriages using electricity as the motive power. An EMU requires no separate locomotive , as electric traction motors are incorporated within one or a number of the carriages. An EMU is usually formed of two or more semi-permanently coupled carriages, but electrically powered single-unit railcars are also generally classed as EMUs. The great majority of EMUs are passenger trains, but versions also exist for carrying mail.
+
+EMUs are popular on commuter, and suburban rail networks around the world due to their fast acceleration and pollution-free operation, and are used on most rapid-transit systems. Being quieter than diesel multiple units (DMUs) and locomotive -hauled trains, EMUs can operate later at night and more frequently without disturbing nearby residents. In addition, tunnel design for EMU trains is simpler as no provision is needed for exhausting fumes, although retrofitting existing limited-clearance tunnels to accommodate the extra equipment needed to transmit electric power to the train can be difficult.
+
+Multiple unit train control was first used in the 1890s.
+
+The Liverpool Overhead Railway opened in 1893 with two-car electric multiple units, controllers in cabs at both ends directly controlling the traction current to motors on both cars.
+
+The multiple unit traction control system was developed by Frank Sprague and first applied and tested on the South Side Elevated Railroad (now part of the Chicago 'L' ) in 1897. In 1895, derived from his company's invention and production of direct current elevator control systems, Frank Sprague invented a multiple unit controller for electric train operation. This accelerated the construction of electric traction railways and trolley systems worldwide. Each car of the train has its own traction motors: by means of motor control relays in each car energized by train-line wires from the front car all of the traction motors in the train are controlled in unison.
+
+The cars that form a complete EMU set can usually be separated by function into four types: power car, motor car, driving car, and trailer car.  Each car can have more than one function, such as a motor-driving car or power-driving car.
+
+On third rail systems, the outer vehicles usually carry the pick up shoes with the motor vehicles receiving the current via intra-unit connections .
+
+Many modern two-car EMU sets are set up as twin or "married pair" units. While both units in a married pair are typically driving motors, the ancillary equipment (air compressor and tanks, batteries and charging equipment, traction power and control equipment, etc.) are shared between the two cars in the set. Since neither car can operate without its "partner", such sets are permanently coupled and can only be split at maintenance facilities. Advantages of married pair units include weight and cost savings over single-unit cars (due to halving the ancillary equipment required per set) while allowing all cars to be powered, unlike a motor-trailer combination. Each car has only one control cab, located at the outer end of the pair, saving space and expense over a cab at both ends of each car. Disadvantages include a loss of operational flexibility, as trains must be multiples of two cars, and a failure on a single car could force removing both it and its partner from service.
+
+Some of the more famous electric multiple units in the world are high-speed trains: the Italian Pendolino and Frecciarossa 1000 , Shinkansen in Japan, the China Railway High-speed in China, ICE 3 in Germany, and the British Rail class 395 Javelin. The retired New York–Washington Metroliner service, first operated by the Pennsylvania Railroad and later by Amtrak , also featured high-speed electric multiple-unit cars, known as the Budd Metroliner .
+
+EMUs powered by fuel cells are under development. If successful, this would avoid the need for an overhead line or third rail . An example is Alstom ’s hydrogen -powered Coradia iLint . The term hydrail has been coined for hydrogen-powered rail vehicles.
+
+Many battery electric multiple units are in operation around the world, with the take up being strong. Many are bi-modal taking energy from onboard battery banks and line pickups such as overhead wires or third rail. In most cases the batteries are charged via the electric pickup when operating on electric mode.
+
+EMUs, when compared with electric locomotives , offer:
+
+Electric locomotives, when compared to EMUs, offer:

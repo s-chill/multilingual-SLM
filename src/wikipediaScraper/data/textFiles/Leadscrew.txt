@@ -1,0 +1,53 @@
+A leadscrew (or lead screw ), also known as a power screw or translation screw , is a screw used as a linkage in a machine, to translate turning motion into linear motion .  Because of the large area of sliding contact between their male and female members, screw threads have larger frictional energy losses compared to other linkages.  They are not typically used to carry high power, but more for intermittent use in low power actuator and positioner mechanisms.  Leadscrews are commonly used in linear actuators , machine slides (such as in machine tools ), vises , presses , and jacks . Leadscrews are a common component in electric linear actuators.
+
+Leadscrews are manufactured in the same way as other thread forms: they may be rolled, cut, or ground .
+
+A lead screw is sometimes used with a split nut (also called half nut) which allows the nut to be disengaged from the threads and moved axially, independently of the screw's rotation, when needed (such as in single-point threading on a manual lathe ). A split nut can also be used to compensate for wear by compressing the parts of the nut.
+
+A hydrostatic leadscrew overcomes many of the disadvantages of a normal leadscrew, having high positional accuracy, very low friction, and very low wear, but requires continuous supply of high-pressure fluid and high-precision manufacture, leading to significantly greater cost than most other linear motion linkages.
+
+Power screws are classified by the geometry of their thread .
+
+V-threads are less suitable for leadscrews than others such as Acme because they have more friction between the threads. Their threads are designed to induce this friction to keep the fastener from loosening. Leadscrews, on the other hand, are designed to minimize friction. Therefore, in most commercial and industrial use, V-threads are avoided for leadscrew use. Nevertheless, V-threads are sometimes successfully used as leadscrews, for example on microlathes and micromills.
+
+Square threads are named after their square geometry. They are the most efficient , having the least friction , so they are often used for screws that carry high power; however, they are also the most difficult to machine, and are thus the most expensive.
+
+Acme threads have a 29° thread angle , which is easier to machine than square threads. They are not as efficient as square threads, due to the increased friction induced by the thread angle. Acme threads are generally also stronger than square threads due to their trapezoidal thread profile, which provides greater load-bearing capabilities.
+
+Buttress threads are of a triangular shape. These are used where the load force on the screw is only applied in one direction. They are as efficient as square threads in these applications, but are easier to manufacture.
+
+The advantages of a leadscrew are:
+
+The disadvantages are that most are not very efficient. Due to this low efficiency, they cannot be used in continuous power transmission applications. They also have a high degree of friction on the threads, which can wear the threads out quickly. For square threads, the nut must be replaced; for trapezoidal threads, a split nut may be used to compensate for the wear.
+
+Alternatives to actuation by leadscrew include:
+
+The torque required to lift or lower a load can be calculated by "unwrapping" one revolution of a thread. This is most easily described for a square or buttress thread as the thread angle is 0 and has no bearing on the calculations. The unwrapped thread forms a right angle triangle where the base is π d m {\displaystyle \pi d_{\text{m}}} long and the height is the lead (pictured to the right). The force of the load is directed downward, the normal force is perpendicular to the hypotenuse of the triangle, the frictional force is directed in the opposite direction of the direction of motion (perpendicular to the normal force or along the hypotenuse), and an imaginary "effort" force is acting horizontally in the direction opposite the direction of the frictional force. Using this free-body diagram the torque required to lift or lower a load can be calculated:
+
+where
+
+Based on the T lower {\displaystyle T_{\text{lower}}} equation, it can be found that the screw is self-locking when the coefficient of friction is greater than the tangent of the lead angle. An equivalent comparison is when the friction angle is greater than the lead angle ( ϕ > λ {\displaystyle \phi >\lambda } ). When this is not true, the screw will back-drive , or lower under the weight of the load.
+
+The efficiency, calculated using the torque equations above, is:
+
+For screws that have a thread angle other than zero, such as a trapezoidal thread, this must be compensated as it increases the frictional forces. The equations below take this into account:
+
+where α {\displaystyle \alpha \,} is one half the thread angle.
+
+If the leadscrew has a collar which the load rides on, then the frictional forces between the interface must be accounted for in the torque calculations as well. For the following equation the load is assumed to be concentrated at the mean collar diameter ( d c {\displaystyle d_{\text{c}}} ):
+
+where μ c {\displaystyle \mu _{\text{c}}} is the coefficient of friction between the collar on the load and d c {\displaystyle d_{\text{c}}} is the mean collar diameter. For collars that use thrust bearings, the frictional loss is negligible and the above equation can be ignored.
+
+Efficiency for non-zero thread angles can be written as follows:
+
+η = cos ⁡ α − μ tan ⁡ λ cos ⁡ α + μ cot ⁡ λ {\displaystyle \eta ={\frac {\cos \alpha \ -\ \mu \tan \lambda }{\cos \alpha \ +\ \mu \cot \lambda }}}
+
+The running speed for a leadscrew (or ball screw) is typically limited to, at most, 80% of the calculated critical speed . The critical speed is the speed that excites the natural frequency of the screw. For a steel leadscrew or steel ballscrew, the critical speed is approximately
+
+where
+
+Alternatively using metric units:
+
+N = C d r × 10 7 L 2 {\displaystyle N={\frac {Cd_{\text{r}}\times 10^{7}}{L^{2}}}}
+
+where the variables are identical to above, but the values are in millimetres and C {\displaystyle C} is as follows:

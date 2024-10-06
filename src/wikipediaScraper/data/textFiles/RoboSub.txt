@@ -1,0 +1,26 @@
+RoboSub is a competition whose goal is to advance the development of autonomous underwater vehicles (AUVs) by challenging a new generation of engineers to perform realistic missions in an underwater environment. It was launched in 1997 and is co-sponsored by the RoboNation (formerly the AUVSI Foundation) and the Office of Naval Research (ONR). The event also serves to foster ties between young engineers and the organizations developing AUV technologies. The competition is open to high school and college teams from around the world. Since about 2002, it has been held each summer at the U.S. Navy Space and Naval Warfare Systems Center Pacific's TRANSDEC Anechoic pool in San Diego , California. In 2022, the competition took place at the University of Maryland, College Park.
+
+There were no live competition winners in 2021 as the competition was held online. Instead, competitors were judged on submitted videos, reports, and website.
+
+Autonomy Challenge Awards
+
+Design Documentation
+
+Judges Special Awards
+
+Per the Final Rules and Mission , "The fundamental goal of the mission is for an AUV to demonstrate its autonomy by completing an underwater Ides of TRANSDEC mission. The vehicle will be able to commence in training (dock/release buoys), pass over an obstacle course (PVC pipe to pass over), enter the gladiator ring (drop markers), Et tu Brute? (shoot torpedoes through a cutout), feed grapes to the emperor (manipulate a cylinder), and finally collect the Laurel wreath and crown the emperor (find a pinger, grab an object and move/release the object)."
+
+Overall Winners
+
+Video Winners
+
+Technical Design Report Winners
+
+Website Winners
+
+Special Awards
+
+Best New Team: St. Georges ($1000)
+Most with the Least: Florida Atlantic University ($500)
+Best technical paper: Kyushu ($500)
+TSA Award: Embry Riddle ($500) (vehicle was significantly damaged in shipping by the TSA)

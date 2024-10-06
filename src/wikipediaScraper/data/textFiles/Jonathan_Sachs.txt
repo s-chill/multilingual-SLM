@@ -1,0 +1,5 @@
+Jonathan Sachs (born June 25, 1947) is a programmer who co-founded Lotus Development Corporation with Mitch Kapor in 1982 and created the first version of the Lotus 1-2-3 spreadsheet program.  Sachs left Lotus in 1985 to develop photo-editing software for his own Cambridge, Massachusetts based company, Digital Light & Color, which has been distributing its product, Picture Window, since 1994.
+
+Sachs was born in Baltimore, Maryland and received his BS in math from MIT in 1970.  He later worked at MIT for several years, where he wrote the STOIC language, at Data General , and at Concentric Data Systems .
+
+1-2-3 was known for its speed and efficiency.  The original program was implemented in Intel 8088 assembly language , rather than a higher level language such as C . It was also nearly bug-free, and introduced the letter hierarchical menus still used in Windows applications. Later versions of 1-2-3 were implemented in C, becoming much larger and more complex.

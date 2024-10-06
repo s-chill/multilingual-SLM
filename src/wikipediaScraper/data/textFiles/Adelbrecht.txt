@@ -1,0 +1,6 @@
+Adelbrecht was a speaking, interactive robot in the form of a ball , designed by Martin Spanjaard (born 1952 in Haarlem , Netherlands ).
+
+A first, simple version of Adelbrecht was presented in 1985.
+Starting 1988, a second, more powerful version was developed. The successor was able to detect several different 'situations': rolling, bumping, being stuck, being petted etc. Moreover, Adelbrecht was now capable of displaying different states of nature: sleep or awake. Combined with variables nicknamed 'lust' and 'fatigue', the situations and states of nature enabled Adelbrecht to interact with, and respond to its immediate and past environment. In 1992 Adelbrecht received an honourable mentioning at the Prix Ars Electronica . Its last performance, planned at New Year's Eve 2000, never took place because of serious hardware failure. From then on, Spanjaard proclaimed Adelbrecht a 'dead robot'.
+
+The name "Adelbrecht" consists of two Middle Dutch words, Adel (Good) and Brecht (Nice). Modern versions of this name are Albert or Elbert .

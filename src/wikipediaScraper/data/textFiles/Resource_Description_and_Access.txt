@@ -1,0 +1,29 @@
+Resource Description and Access ( RDA ) is a standard for descriptive cataloging initially released in June 2010, providing instructions and guidelines on formulating bibliographic data .  Intended for use by libraries and other cultural organizations such as museums and archives, RDA is the successor to Anglo-American Cataloguing Rules , Second Edition (AACR2).
+
+RDA emerged from the International Conference on the Principles & Future Development of AACR held in Toronto in 1997. It is published jointly by the American Library Association , the Canadian Federation of Library Associations , and the Chartered Institute of Library and Information Professionals (CILIP) in the United Kingdom. Maintenance of RDA is the responsibility of the RDA Steering Committee (RSC). As of 2015, RSC is undergoing a transition to an international governance structure, expected to be in place in 2019.
+
+RDA instructions and guidelines are available through RDA Toolkit, an online subscription service, and in a print format.
+
+RDA training materials and texts are available online and in print.
+
+RDA is a package of data elements, guidelines, and instructions for creating library and cultural heritage resource metadata that are well-formed according to international models for user-focused linked data applications. The underlying conceptual models for RDA are the Functional Requirements for Bibliographic Records (FRBR), Functional Requirements for Authority Data (FRAD), and Functional Requirements for Subject Authority Data (FRSAD) maintained by IFLA , and will be compliant with the Library Reference Model , the IFLA standard that consolidates them.
+
+RDA Vocabularies is a representation of the RDA entities, elements, relationship designators, and controlled terms in RDF (Resource Description Framework). The Vocabularies are intended to support linked data applications using RDA. They are maintained in the Open Metadata Registry, a metadata registry , and released via GitHub and the RDA Registry.
+
+The human-readable labels, definitions, and other textual annotations in the Vocabularies are known as RDA Reference. The RDA Reference data are used in the production of RDA Toolkit content.
+
+The RDA Vocabularies and RDA Reference are available under an open license.
+
+RDA is in step with the Statement of International Cataloguing Principles published by IFLA in 2009, and updated in 2016.
+
+The Committee of Principals for RDA, now the RDA Board, announced its commitment to internationalization of RDA in 2015. This is reflected in the new governance structure with representation based on the United Nations Regional Groups , comprising, Africa, Asia, Europe, Latin America and the Caribbean, North America, and Oceania.
+
+As of May 2017, the RDA Toolkit has been translated from English into Catalan , Chinese, Finnish, French, German, Italian, and Spanish. RDA Reference is currently being translated into these languages as well as others including Arabic, Danish, Dutch, Greek, Hebrew, Swedish, and Vietnamese.
+
+In March 2012 the Library of Congress announced that it would fully implement RDA cataloging by the end of March 2013. Library and Archives Canada fully implemented the standard in September 2013. British Library , National Library of Australia , and Deutsche Nationalbibliothek and other national libraries have since implemented RDA .
+
+In the United States, the cataloguing community expressed reservations about the new standard in regard to both the business case for RDA in a depressed economy and the value of the standard's stated goals. Michael Gorman , one of the authors of AACR2, was particularly vocal in expression of his opposition to the new guidelines, claiming that RDA was poorly written and organized, and that the plan for RDA unnecessarily abandoned established cataloging practices. Others felt that RDA was too rooted in past practices and therefore was not a vision for the future. In response to these concerns, the three United States national libraries (Library of Congress, National Library of Medicine , and the National Agricultural Library ) organized a nationwide test of the new standard.
+
+On 13 June 2011, the Library of Congress, the National Agricultural Library, and the National Library of Medicine released the results of their testing. The test found that RDA to some degree met most of the goals that the JSC (Joint Steering Committee for Development of RDA) put forth for the new code and failed to meet a few of those goals. The Coordinating Committee admitted that they "wrestled with articulating a business case for implementing RDA", nevertheless the report recommended that RDA be adopted by the three national libraries, contingent on several improvements being made. The earliest possible date for implementation was given as January 2013, as the consensus emerging from the analysis of the test data showed that while there were discernible benefits to implementing RDA, these benefits would not be realized without further changes to current cataloging practices, including developing a successor to the MARC format.
+
+Several other institutions were involved in the RDA test.  Many of these institutions documented their findings in a special issue of Cataloging & Classification Quarterly .

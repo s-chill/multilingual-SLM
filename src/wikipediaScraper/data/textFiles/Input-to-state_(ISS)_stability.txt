@@ -1,0 +1,144 @@
+Input-to-state stability (ISS) is a stability notion widely used to study stability of nonlinear control systems with external inputs. Roughly speaking, a control system is ISS if it is globally asymptotically stable in the absence of external inputs and if its trajectories are bounded by a function of the size of the input for all sufficiently large times.
+The importance of ISS is due to the fact that the concept has bridged the gap between input–output and state-space methods , widely used within the control systems community.
+
+ISS unified the Lyapunov and input-output stability theories and revolutionized our view on stabilization of nonlinear systems, design of robust nonlinear observers , stability of nonlinear interconnected control systems, nonlinear detectability theory, and supervisory adaptive control. 
+This made ISS the dominating stability paradigm in nonlinear control theory, with such diverse applications as robotics, mechatronics, systems biology, electrical and aerospace engineering, to name a few.
+
+The notion of ISS was introduced for systems described by ordinary differential equations by Eduardo Sontag in 1989.
+
+Since that the concept was successfully used for many other classes of control systems including systems governed by partial differential equations, retarded systems, hybrid systems, etc.
+
+Consider a time-invariant system of ordinary differential equations of the form
+
+where u : R + → R m {\displaystyle u:\mathbb {R} _{+}\to \mathbb {R} ^{m}} is a Lebesgue measurable essentially bounded external input and f {\displaystyle f} is a Lipschitz continuous function w.r.t. the first argument uniformly w.r.t. the second one. This ensures that there exists a unique absolutely continuous solution of the system ( 1 ).
+
+To define ISS and related properties, we exploit the following classes of comparison functions . We denote by K {\displaystyle {\mathcal {K}}} the set of continuous increasing functions γ : R + → R + {\displaystyle \gamma :\mathbb {R} _{+}\to \mathbb {R} _{+}} with γ ( 0 ) = 0 {\displaystyle \gamma (0)=0} and L {\displaystyle {\mathcal {L}}} the set of continuous strictly decreasing functions γ : R + → R + {\displaystyle \gamma :\mathbb {R} _{+}\to \mathbb {R} _{+}} with lim r → ∞ γ ( r ) = 0 {\displaystyle \lim _{r\to \infty }\gamma (r)=0} . Then we can denote β ∈ K L {\displaystyle \beta \in {\mathcal {K}}{\mathcal {L}}} as functions where β ( ⋅ , t ) ∈ K {\displaystyle \beta (\cdot ,t)\in {\mathcal {K}}} for all t ≥ 0 {\displaystyle t\geq 0} and β ( r , ⋅ ) ∈ L {\displaystyle \beta (r,\cdot )\in {\mathcal {L}}} for all r > 0 {\displaystyle r>0} .
+
+System ( 1 ) is called globally asymptotically stable at zero (0-GAS) if the corresponding system with zero input
+
+is globally asymptotically stable , that is there exist β ∈ K L {\displaystyle \beta \in {\mathcal {K}}{\mathcal {L}}} so that for all initial values x 0 {\displaystyle x_{0}} and all times t ≥ 0 {\displaystyle t\geq 0} the following estimate is valid for solutions of ( WithoutInputs )
+
+System ( 1 ) is called input-to-state stable (ISS) if there exist functions γ ∈ K {\displaystyle \gamma \in {\mathcal {K}}} and β ∈ K L {\displaystyle \beta \in {\mathcal {K}}{\mathcal {L}}} so that for all initial values x 0 {\displaystyle x_{0}} , all admissible inputs u {\displaystyle u} and all times t ≥ 0 {\displaystyle t\geq 0} the following inequality holds
+
+The function γ {\displaystyle \gamma } in the above inequality is called the gain .
+
+Clearly, an ISS system is 0-GAS as well as BIBO stable (if we put the output equal to the state of the system). The converse implication is in general not true.
+
+It can be also proved that if lim t → ∞ | u ( t ) | = 0 {\displaystyle \lim _{t\rightarrow \infty }|u(t)|=0} , then lim t → ∞ | x ( t ) | = 0 {\displaystyle \lim _{t\rightarrow \infty }|x(t)|=0} .
+
+For an understanding of ISS its restatements in terms of other stability properties are of great importance.
+
+System ( 1 ) is called globally stable (GS) if there exist γ , σ ∈ K {\displaystyle \gamma ,\sigma \in {\mathcal {K}}} such that ∀ x 0 {\displaystyle \forall x_{0}} , ∀ u {\displaystyle \forall u} and ∀ t ≥ 0 {\displaystyle \forall t\geq 0} it holds that
+
+System ( 1 ) satisfies the asymptotic gain (AG) property if there exists γ ∈ K {\displaystyle \gamma \in {\mathcal {K}}} : ∀ x 0 {\displaystyle \forall x_{0}} , ∀ u {\displaystyle \forall u} it holds that
+
+The following statements are equivalent for sufficiently regular right-hand side f {\displaystyle f}
+
+1. ( 1 ) is ISS
+
+2. ( 1 ) is GS and has the AG property
+
+3. ( 1 ) is 0-GAS and has the AG property
+
+The proof of this result as well as many other characterizations of ISS can be found in the papers and. Other characterizations of ISS that are valid under very mild restrictions on the regularity of the rhs f {\displaystyle f} and are applicable to more general infinite-dimensional systems, have been shown in.
+
+An important tool for the verification of ISS are ISS-Lyapunov functions .
+
+A smooth function V : R n → R + {\displaystyle V:\mathbb {R} ^{n}\to \mathbb {R} _{+}} is called an ISS-Lyapunov function for ( 1 ), if ∃ ψ 1 , ψ 2 ∈ K ∞ {\displaystyle \exists \psi _{1},\psi _{2}\in {\mathcal {K}}_{\infty }} , χ ∈ K {\displaystyle \chi \in {\mathcal {K}}} and positive-definite function α {\displaystyle \alpha } , such that:
+
+and ∀ x ∈ R n , ∀ u ∈ R m {\displaystyle \forall x\in \mathbb {R} ^{n},\;\forall u\in \mathbb {R} ^{m}} it holds:
+
+The function χ {\displaystyle \chi } is called Lyapunov gain .
+
+If a system ( 1 ) is without inputs (i.e. u ≡ 0 {\displaystyle u\equiv 0} ), then the last implication reduces to the condition
+
+which tells us that V {\displaystyle V} is a "classic" Lyapunov function .
+
+An important result due to E. Sontag and Y. Wang is that a system ( 1 ) is ISS if and only if there exists a smooth ISS-Lyapunov function for it.
+
+Consider a system
+
+Define a candidate ISS-Lyapunov function V : R → R + {\displaystyle V:\mathbb {R} \to \mathbb {R} _{+}} by V ( x ) = 1 2 x 2 , ∀ x ∈ R . {\displaystyle V(x)={\frac {1}{2}}x^{2},\quad \forall x\in \mathbb {R} .}
+
+V ˙ ( x ) = ∇ V ⋅ ( − x 3 + u x 2 ) = − x 4 + u x 3 . {\displaystyle {\dot {V}}(x)=\nabla V\cdot (-x^{3}+ux^{2})=-x^{4}+ux^{3}.}
+
+Choose a Lyapunov gain χ {\displaystyle \chi } by
+
+Then we obtain that for x , u : | x | ≥ χ ( | u | ) {\displaystyle x,u:\ |x|\geq \chi (|u|)} it holds
+
+This shows that V {\displaystyle V} is an ISS-Lyapunov function for a considered system with the Lyapunov gain χ {\displaystyle \chi } .
+
+One of the main features of the ISS framework is the possibility to study stability properties of interconnections of input-to-state stable systems.
+
+Consider the system given by
+
+Here u ∈ L ∞ ( R + , R m ) {\displaystyle u\in L_{\infty }(\mathbb {R} _{+},\mathbb {R} ^{m})} , x i ( t ) ∈ R p i {\displaystyle x_{i}(t)\in \mathbb {R} ^{p_{i}}} and f i {\displaystyle f_{i}} are Lipschitz continuous in x i {\displaystyle x_{i}} uniformly with respect to the inputs from the i {\displaystyle i} -th subsystem.
+
+For the i {\displaystyle i} -th subsystem of ( WholeSys ) the definition of an ISS-Lyapunov function can be written as follows.
+
+A smooth function V i : R p i → R + {\displaystyle V_{i}:\mathbb {R} ^{p_{i}}\to \mathbb {R} _{+}} is an ISS-Lyapunov function (ISS-LF)
+for the i {\displaystyle i} -th subsystem of ( WholeSys ), if there exist
+functions ψ i 1 , ψ i 2 ∈ K ∞ {\displaystyle \psi _{i1},\psi _{i2}\in {\mathcal {K}}_{\infty }} , χ i j , χ i ∈ K {\displaystyle \chi _{ij},\chi _{i}\in {\mathcal {K}}} , j = 1 , … , n {\displaystyle j=1,\ldots ,n} , j ≠ i {\displaystyle j\neq i} , χ i i := 0 {\displaystyle \chi _{ii}:=0} and a positive-definite function α i {\displaystyle \alpha _{i}} , such that:
+
+and ∀ x i ∈ R p i , ∀ u ∈ R m {\displaystyle \forall x_{i}\in \mathbb {R} ^{p_{i}},\;\forall u\in \mathbb {R} ^{m}} it holds
+
+Cascade interconnections are a special type of interconnection, where the dynamics of the i {\displaystyle i} -th subsystem does not depend on the states of the subsystems 1 , … , i − 1 {\displaystyle 1,\ldots ,i-1} . Formally, the cascade interconnection can be written as
+
+If all subsystems of the above system are ISS, then the whole cascade interconnection is also ISS.
+
+In contrast to cascades of ISS systems, the cascade interconnection of 0-GAS systems is in general not 0-GAS. The following example illustrates this fact. Consider a system given by
+
+Both subsystems of this system are 0-GAS, but for sufficiently large initial states ( x 0 , y 0 ) {\displaystyle (x_{0},y_{0})} and for a certain finite time t ∗ {\displaystyle t^{*}} it holds x ( t ) → ∞ {\displaystyle x(t)\to \infty } for t → t ∗ {\displaystyle t\to t^{*}} , i.e. the system ( Ex_GAS ) exhibits finite escape time , and thus is not 0-GAS.
+
+The interconnection structure of subsystems is characterized by the internal Lyapunov gains χ i j {\displaystyle \chi _{ij}} . The question, whether the interconnection ( WholeSys ) is ISS, depends on the properties of the gain operator Γ : R + n → R + n {\displaystyle \Gamma :\mathbb {R} _{+}^{n}\rightarrow \mathbb {R} _{+}^{n}} defined by
+
+The following small-gain theorem establishes a sufficient condition for ISS of the interconnection of ISS systems. Let V i {\displaystyle V_{i}} be an ISS-Lyapunov function for i {\displaystyle i} -th subsystem of ( WholeSys ) with corresponding gains χ i j {\displaystyle \chi _{ij}} , i = 1 , … , n {\displaystyle i=1,\ldots ,n} . If the nonlinear small-gain condition
+
+holds, then the whole interconnection is ISS.
+
+Small-gain condition  ( SGC ) holds iff for each cycle in Γ {\displaystyle \Gamma } (that is for all ( k 1 , . . . , k p ) ∈ { 1 , . . . , n } p {\displaystyle (k_{1},...,k_{p})\in \{1,...,n\}^{p}} , where k 1 = k p {\displaystyle k_{1}=k_{p}} ) and for all s > 0 {\displaystyle s>0} it holds
+
+The small-gain condition in this form is called also cyclic small-gain condition.
+
+System ( 1 ) is called integral input-to-state stable (ISS) if there exist functions α , γ ∈ K {\displaystyle \alpha ,\gamma \in {\mathcal {K}}} and β ∈ K L {\displaystyle \beta \in {\mathcal {K}}{\mathcal {L}}} so that for all initial values x 0 {\displaystyle x_{0}} , all admissible inputs u {\displaystyle u} and all times t ≥ 0 {\displaystyle t\geq 0} the following inequality holds
+
+In contrast to ISS systems, if a system is integral ISS, its trajectories may be unbounded even for bounded inputs. To see this put α ( r ) = γ ( r ) = r {\displaystyle \alpha (r)=\gamma (r)=r} for all r ≥ 0 {\displaystyle r\geq 0} and take u ≡ c = c o n s t {\displaystyle u\equiv c=const} . Then the estimate ( 3 ) takes the form
+
+and the right hand side grows to infinity as t → ∞ {\displaystyle t\to \infty } .
+
+As in the ISS framework, Lyapunov methods play a central role in iISS theory.
+
+A smooth function V : R n → R + {\displaystyle V:\mathbb {R} ^{n}\to \mathbb {R} _{+}} is called an iISS-Lyapunov function for ( 1 ), if ∃ ψ 1 , ψ 2 ∈ K ∞ {\displaystyle \exists \psi _{1},\psi _{2}\in {\mathcal {K}}_{\infty }} , χ ∈ K {\displaystyle \chi \in {\mathcal {K}}} and positive-definite function α {\displaystyle \alpha } , such that:
+
+and ∀ x ∈ R n , ∀ u ∈ R m {\displaystyle \forall x\in \mathbb {R} ^{n},\;\forall u\in \mathbb {R} ^{m}} it holds:
+
+An important result due to D. Angeli, E. Sontag and Y. Wang is that system ( 1 ) is integral ISS if and only if there exists an iISS-Lyapunov function for it.
+
+Note that in the formula above α {\displaystyle \alpha } is assumed to be only positive definite . 
+It can be easily proved, that if V {\displaystyle V} is an iISS-Lyapunov function with α ∈ K ∞ {\displaystyle \alpha \in {\mathcal {K}}_{\infty }} , then V {\displaystyle V} is actually an ISS-Lyapunov function for a system ( 1 ).
+
+This shows in particular, that every ISS system is integral ISS. The converse implication is not true, as the following example shows. Consider the system
+
+This system is not ISS, since for large enough inputs the trajectories are unbounded. However, it is integral ISS with an iISS-Lyapunov function V {\displaystyle V} defined by
+
+An important role are also played by local versions of the ISS property. A system ( 1 ) is called locally ISS (LISS) if there exist a constant ρ > 0 {\displaystyle \rho >0} and functions
+
+γ ∈ K {\displaystyle \gamma \in {\mathcal {K}}} and β ∈ K L {\displaystyle \beta \in {\mathcal {K}}{\mathcal {L}}} so that for all x 0 ∈ R n : | x 0 | ≤ ρ {\displaystyle x_{0}\in \mathbb {R} ^{n}:\;|x_{0}|\leq \rho } , all admissible inputs u : ‖ u ‖ ∞ ≤ ρ {\displaystyle u:\|u\|_{\infty }\leq \rho } and all times t ≥ 0 {\displaystyle t\geq 0} it holds that
+
+An interesting observation is that 0-GAS implies LISS.
+
+Many other related to ISS stability notions have been introduced: incremental ISS, input-to-state dynamical stability (ISDS), input-to-state practical stability (ISpS), input-to-output stability (IOS) etc.
+
+Consider the time-invariant time-delay system
+
+Here x t ∈ C ( [ − θ , 0 ] ; R N ) {\displaystyle x^{t}\in C([-\theta ,0];\mathbb {R} ^{N})} is the state of the system ( TDS ) at time t {\displaystyle t} , x t ( τ ) = x ( t + τ ) , τ ∈ [ − θ , 0 ] {\displaystyle x^{t}(\tau )=x(t+\tau ),\ \tau \in [-\theta ,0]} and f : C ( [ − θ , 0 ] ; R N ) × R m {\displaystyle f:C([-\theta ,0];\mathbb {R} ^{N})\times \mathbb {R} ^{m}} satisfies certain assumptions to guarantee existence and uniqueness of solutions of the system ( TDS ).
+
+System ( TDS ) is ISS if and only if there exist functions β ∈ K L {\displaystyle \beta \in {\mathcal {KL}}} and γ ∈ K {\displaystyle \gamma \in {\mathcal {K}}} such that for every ξ ∈ C ( [ − θ , 0 ] , R N ) {\displaystyle \xi \in C(\left[-\theta ,0\right],\mathbb {R} ^{N})} , every admissible input u {\displaystyle u} and for all t ∈ R + {\displaystyle t\in \mathbb {R} _{+}} , it holds that
+
+In the ISS theory for time-delay systems two different Lyapunov-type sufficient conditions have been proposed: via ISS Lyapunov-Razumikhin functions and by ISS Lyapunov-Krasovskii functionals. For converse Lyapunov theorems for time-delay systems see.
+
+Input-to-state stability of the systems based on time-invariant ordinary differential equations is a quite developed theory, see a recent monograph. However, ISS theory of other classes of systems is also being investigated for time-variant ODE systems and hybrid systems . In the last time also certain generalizations of ISS concepts to infinite-dimensional systems have been proposed.
+
+1. Online Seminar: Input-to-State Stability and its Applications
+
+2. YouTube Channel on ISS

@@ -1,0 +1,3 @@
+In control theory , Hankel singular values , named after Hermann Hankel , provide a measure of energy for each state in a system. They are the basis for balanced model reduction , in which high energy states are retained while low energy states are discarded. The reduced model retains the important features of the original model.
+
+Hankel singular values are calculated as the square roots, {σ i ≥ 0, i = 1,…, n }, of the eigenvalues , {λ i ≥ 0, i = 1,…, n }, for the product of the controllability Gramian , W C , and the observability Gramian , W O .

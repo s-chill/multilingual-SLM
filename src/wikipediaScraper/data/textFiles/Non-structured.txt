@@ -1,0 +1,7 @@
+Non-structured programming is the historically earliest programming paradigm capable of creating Turing-complete algorithms . It is often contrasted with the structured programming paradigm, in particular with the use of unstructured control flow using goto statements or equivalent. The distinction was particularly stressed by the publication of the influential " Go To Statement Considered Harmful " open letter in 1968 by Dutch computer scientist Edsger W. Dijkstra , who coined the term "structured programming".
+
+Unstructured programming has been heavily criticized for producing hardly readable ("spaghetti") code .
+
+There are both high- and low-level programming languages that use non-structured programming. Some languages commonly cited as being non-structured include JOSS , FOCAL , TELCOMP , assembly languages , MS-DOS batch files , and early versions of BASIC , Fortran , COBOL , and MUMPS .
+
+A program in a non-structured language uses unstructured jumps to labels or instruction addresses.  The lines are usually numbered or may have labels: this allows the flow of execution to jump to any line in the program. This is in contrast to structured programming which uses sequential constructs of statements, selection (if/then/else) and repetition (while and for).

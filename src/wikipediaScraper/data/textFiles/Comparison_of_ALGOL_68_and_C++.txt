@@ -1,0 +1,20 @@
+C++ doesn't have:
+
+ALGOL 68 doesn't have:
+
+Assigning values into an A68 union variable is automatic, 
+the type is "tagged" to the variable, but pulling the value back out is 
+syntactically awkward as a conformity-clause is required.
+
+ALGOL 68 example:
+
+C++ example:
+
+The net effect of "type-tagging" is that Algol68's strong typing
+"half" encroaches into the union .
+
+A new mode (type) may be declared using a mode declaration:
+
+This has the similar effect as the following C++ code:
+
+Note that for ALGOL 68 only the newtype name appears to the left of the equality, and most notably the construction is made - and can be read - from left to right without regard to priorities.

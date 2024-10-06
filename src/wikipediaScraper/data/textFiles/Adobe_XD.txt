@@ -1,0 +1,33 @@
+Adobe XD (also known as Adobe Experience Design ) is a vector design tool for web and mobile applications , developed and published by Adobe Inc. It is available for macOS and Windows , and there are versions for iOS and Android to help preview the result of work directly on mobile devices. Adobe XD enables website wireframing and creating click-through prototypes.
+
+Adobe lastly announced they were developing a new interface design and prototyping tool under the name "Project Comet" at the Adobe MAX conference in October 2015, which was a response to the rising popularity of Sketch , a UX and UI design-focused vector editor, released in 2010.
+
+The first public beta was released for macOS as "Adobe Experience Design CC" to anyone with an Adobe account, on March 14, 2016. A beta of Adobe XD was released for Windows 10 on December 13, 2016. On October 18, 2017, Adobe announced that Adobe XD was out of beta. As of June 22, 2023, Adobe XD was announced as discontinued as a purchasable item.
+
+After the failure of Adobe's attempt to acquire Figma, Adobe disclosed it would not "further invest" in XD.
+
+Adobe XD creates user interfaces for mobile and web apps. Many features in XD were previously either hard to use or nonexistent in other Adobe applications like Illustrator or Photoshop .
+
+Helps creating a grid of repeating items such as lists, and photo galleries.
+
+Creates animated prototypes through linking artboards. These prototypes can be previewed on supported mobile devices.
+
+XD supports and can open files from Illustrator , Photoshop , Sketch , and After Effects . In addition to the Adobe Creative Cloud, XD can also connect to other tools and services such as Slack and Microsoft Teams to collaborate. XD is also able to auto-adjust and move from macOS to Windows. For security, prototypes can be sent with password protection to ensure full disclosure.
+
+Design and edit components without the nudging or the tinkering. Content-Aware Layout aligns and evenly-spaces as you add, remove, or resize objects. Make adjustments with smart controls and get back to exploring.
+
+Apps can be designed using voice commands. In addition, what users create for smart assistants can be previewed as well.
+
+Users can create components to create logos, buttons, and other assets for reuse. Their appearance can change with the context where they are used.
+
+Responsive resize automatically adjusts and sizes pictures and other objects on the artboards. This allows the user to have their content automatically adjusted for different screens for different sized platforms such as mobile phones and PCs.
+
+XD is compatible with custom plugins that add additional features and uses. Plugins range from design to functionality, automation and animation.
+
+Adobe offers educational articles, videos and live streams through various mediums to help designers learn Adobe XD and best practices.
+
+Launched in 2021, the Learn Hub is a resource for learning how to use XD and what features the program offers. The Getting Started series includes beginner to advanced tips & tricks for designers looking to improve their work..
+
+Adobe Live is a live stream hosted on Behance which delivers online training for a variety of Adobe applications, including Adobe XD, Photoshop and Illustrator.
+
+Adobe MAX is an annual conference held by Adobe, showing various new products by Adobe in a format similar to other tech companies as well as various sessions and workshops. What was previously an in-person event has since transitioned online.

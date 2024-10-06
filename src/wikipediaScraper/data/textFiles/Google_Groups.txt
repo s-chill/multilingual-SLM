@@ -1,0 +1,41 @@
+Google Groups is a service from Google that provides discussion groups for people sharing common interests. Until February 2024, the Groups service also provided a gateway to Usenet newsgroups, both reading and posting to them, via a shared user interface . In addition to accessing Google groups, registered users can also set up mailing list archives for e-mail lists that are hosted elsewhere.
+
+Google Groups became operational in February 2001, following Google's acquisition of Deja's Usenet archive . Deja News had been operational since March 1995.
+
+Google Groups allows any user to freely conduct and access threaded discussions , via either a web interface or e-mail. There are at least two kinds of discussion groups: forums specific to Google Groups (like mailing lists) and Usenet groups, accessible by NNTP , for which Google Groups acts as gateway and unofficial archive. The Google Groups archive of Usenet newsgroup postings dates back to 1981.
+
+On December 15, 2023, Google announced that Google Groups would end support posting or viewing new Usenet content on February 22, 2024, with existing archives remaining available.
+
+The Deja News Research Service was an archive of messages posted to Usenet discussion groups, started in March 1995 by Steve Madere in Austin, Texas . Its search engine capabilities won the service acclaim, generated controversy, and significantly changed the perceived nature of online discussion. This archive was acquired by Google in 2001.
+
+While archives of Usenet discussions had been kept for as long as the medium existed, Deja News offered a novel combination of features. It was available to the general public, provided a simple World Wide Web user interface, allowed searches across all archived newsgroups , returned immediate results, and retained messages indefinitely. The search facilities transformed Usenet from a loosely organized and ephemeral communication tool into a valued information repository. The archive's relative permanence, combined with the ability to search messages by author, raised concerns about privacy and confirmed often-repeated past admonishments that posters should be cautious in discussing themselves and others.
+
+While Madere was initially reluctant to remove archived material, protests from users and legal pressure led to the introduction of "nuking", a method for posters to permanently remove their own messages from search results. It already supported the use of an " X-No-Archive " message header, which if present would cause an article to be omitted from the archive. This did not prevent others from quoting the material in a later message and causing it to be stored. Copyright holders were also allowed to have material removed from the archive. According to Humphrey Marr of Deja News, copyright actions most frequently came from the Church of Scientology .
+
+The capability to "nuke" postings was kept open for many years but later removed without explanation under Google's tenure. Google also mistakenly restored previously "nuked" messages at one point, angering many users. "Nukes" that were in effect at the time when Google removed the possibility are still honored, however. Since May 2014, European users can request to have search results for their name from Google Groups, including their Usenet archive, delinked under the right to be forgotten law. As of 2015, Google Groups was one of the ten most delinked sites. If Google does not grant a delinking, Europeans can appeal to their local data protection agencies.
+
+The service was eventually expanded beyond search. "My Deja News" offered the ability to read Usenet in the traditional chronological, per-group manner, and to post new messages to the network. Deja Communities were private Internet forums offered primarily to businesses. In 1999 the site (now known as Deja.com) made its primary feature a shopping comparison service. During this transition, which involved relocation of the servers, many older messages in the Usenet archive became unavailable. By late 2000 the company, in financial distress, sold the shopping service to eBay , who incorporated the technology into their half.com services.
+
+By 2001, the Deja search service was shut down. In February 2001, Google acquired Deja News and its archive, and transitioned its assets to groups.google.com. Users were then able to access these Usenet newsgroups through the new Google Groups interface.
+
+By the end of 2001, the archive had been supplemented with other archived messages dating back to May 11, 1981. These early posts from 1981–1991 were donated to Google by the University of Western Ontario , based on archives by Henry Spencer from the University of Toronto . A short while later, Google released a new version that allowed users to create their own non-Usenet groups.
+
+When AOL discontinued access to Usenet around 2005, it recommended Google Groups instead.
+
+In 2008, Google broke the Groups search functionality and left it nonfunctional for about a year, until a Wired article spurred the company to fix the problems.
+
+On February 13, 2015, a Vice Media story reported that the ability to do advanced searches across all groups had again become nonfunctional, and to date, Google has neither fixed nor acknowledged the problem. The researcher interviewed stated, "Advanced searches within specific groups appear to be working, but that's hardly useful for any form of research—be it casual or academic."
+
+As of January 2024, Google Groups carries a header notice, saying:
+
+Effective from 22 February 2024, Google Groups will no longer support new Usenet content. Posting and subscribing will be disallowed, and new content from Usenet peers will not appear. Viewing and searching of historical data will still be supported as it is done today.
+
+An explanatory page adds:
+
+In addition, Google’s Network News Transfer Protocol (NNTP) server and associated peering will no longer be available, meaning Google will not support serving new Usenet content or exchanging content with other NNTP servers.
+
+This change will not impact any non-Usenet content on Google Groups, including all user and organization-created groups.
+
+Vice and Wired contributors have criticized Google for its unannounced discontinuation of the Google Groups Advanced Search page. The advanced search page allowed users to perform advanced searches across all groups. Without this page, it became difficult to find specific postings from among a multi-decade archive of posts across multiple newsgroups.
+
+Google Groups was blocked in Turkey on April 10, 2008, by a court order. According to The Guardian , the court banned Google Groups following a libel complaint by Adnan Oktar against the service. Google Groups was the first of several websites to be blocked by the Turkish government in rapid succession solely for including material that allegedly offended Islam. The ban was removed a month later on May 15, 2008.

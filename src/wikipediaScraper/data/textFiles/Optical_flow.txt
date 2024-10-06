@@ -1,0 +1,45 @@
+Optical flow or optic flow is the pattern of apparent motion of objects, surfaces, and edges in a visual scene caused by the relative motion between an observer and a scene. Optical flow can also be defined as the distribution of apparent velocities of movement of brightness pattern in an image.
+
+The concept of optical flow was introduced by the American psychologist James J. Gibson in the 1940s to describe the visual stimulus provided to animals moving through the world. Gibson stressed the importance of optic flow for affordance perception , the ability to discern possibilities for action within the environment.  Followers of Gibson and his ecological approach to psychology have further demonstrated the role of the optical flow stimulus for the perception of movement by the observer in the world; perception of the shape, distance and movement of objects in the world; and the control of locomotion .
+
+The term optical flow is also used by roboticists, encompassing related techniques from image processing and control of navigation including motion detection , object segmentation , time-to-contact information, focus of expansion calculations, luminance, motion compensated encoding, and stereo disparity measurement.
+
+Sequences of ordered images allow the estimation of motion as either instantaneous image velocities or discrete image displacements. Fleet and Weiss provide a tutorial introduction to gradient based optical flow. John L. Barron, David J. Fleet, and Steven Beauchemin provide a performance analysis of a number of optical flow techniques. It emphasizes the accuracy and density of measurements.
+
+The optical flow methods try to calculate the motion between two image frames which are taken at times t {\displaystyle t} and t + Δ t {\displaystyle t+\Delta t} at every voxel position. These methods are called differential since they are based on local Taylor series approximations of the image signal; that is, they use partial derivatives with respect to the spatial and temporal coordinates.
+
+For a (2D + t )-dimensional case (3D or n -D cases are similar) a voxel at location ( x , y , t ) {\displaystyle (x,y,t)} with intensity I ( x , y , t ) {\displaystyle I(x,y,t)} will have moved by Δ x {\displaystyle \Delta x} , Δ y {\displaystyle \Delta y} and Δ t {\displaystyle \Delta t} between the two image frames, and the following brightness constancy constraint can be given:
+
+Assuming the movement to be small, the image constraint at I ( x , y , t ) {\displaystyle I(x,y,t)} with Taylor series can be developed to get:
+
+By truncating the higher order terms (which performs a linearization) it follows that:
+
+or, dividing by Δ t {\displaystyle \Delta t} ,
+
+which results in
+
+where V x , V y {\displaystyle V_{x},V_{y}} are the x {\displaystyle x} and y {\displaystyle y} components of the velocity or optical flow of I ( x , y , t ) {\displaystyle I(x,y,t)} and ∂ I ∂ x {\displaystyle {\tfrac {\partial I}{\partial x}}} , ∂ I ∂ y {\displaystyle {\tfrac {\partial I}{\partial y}}} and ∂ I ∂ t {\displaystyle {\tfrac {\partial I}{\partial t}}} are the derivatives of the image at ( x , y , t ) {\displaystyle (x,y,t)} in the corresponding directions. I x {\displaystyle I_{x}} , I y {\displaystyle I_{y}} and I t {\displaystyle I_{t}} can be written for the derivatives in the following.
+
+Thus:
+
+or
+
+This is an equation in two unknowns and cannot be solved as such. This is known as the aperture problem of the optical flow algorithms. To find the optical flow another set of equations is needed, given by some additional constraint. All optical flow methods introduce additional conditions for estimating the actual flow.
+
+Many of these, in addition to the current state-of-the-art algorithms are evaluated on the Middlebury Benchmark Dataset. Other popular benchmark datasets are KITTI and Sintel .
+
+Motion estimation and video compression have developed as a major aspect of optical flow research. While the optical flow field is superficially similar to a dense motion field derived from the techniques of motion estimation, optical flow is the study of not only the determination of the optical flow field itself, but also of its use in estimating the three-dimensional nature and structure of the scene, as well as the 3D motion of objects and the observer relative to the scene, most of them using the image Jacobian.
+
+Optical flow was used by robotics researchers in many areas such as: object detection and tracking, image dominant plane extraction, movement detection, robot navigation and visual odometry . Optical flow information has been recognized as being useful for controlling micro air vehicles.
+
+The application of optical flow includes the problem of inferring not only the motion of the observer and objects in the scene, but also the structure of objects and the environment. Since awareness of motion and the generation of mental maps of the structure of our environment are critical components of animal (and human) vision , the conversion of this innate ability to a computer capability is similarly crucial in the field of machine vision .
+
+Consider a five-frame clip of a ball moving from the bottom left of a field of vision, to the top right. Motion estimation techniques can determine that on a two dimensional plane the ball is moving up and to the right and vectors describing this motion can be extracted from the sequence of frames. For the purposes of video compression (e.g., MPEG ), the sequence is now described as well as it needs to be. However, in the field of machine vision, the question of whether the ball is moving to the right or if the observer is moving to the left is unknowable yet critical information. Not even if a static, patterned background were present in the five frames, could we confidently state that the ball was moving to the right, because the pattern might have an infinite distance to the observer.
+
+Various configurations of optical flow sensors exist. One configuration is an image sensor chip connected to a processor programmed to run an optical flow algorithm. Another configuration uses a vision chip, which is an integrated circuit having both the image sensor and the processor on the same die, allowing for a compact implementation. An example of this is a generic optical mouse sensor used in an optical mouse . In some cases the processing circuitry may be implemented using analog or mixed-signal circuits to enable fast optical flow computation using minimal current consumption.
+
+One area of contemporary research is the use of neuromorphic engineering techniques to implement circuits that respond to optical flow, and thus may be appropriate for use in an optical flow sensor. Such circuits may draw inspiration from biological neural circuitry that similarly responds to optical flow.
+
+Optical flow sensors are used extensively in computer optical mice , as the main sensing component for measuring the motion of the mouse across a surface.
+
+Optical flow sensors are also being used in robotics applications, primarily where there is a need to measure visual motion or relative motion between the robot and other objects in the vicinity of the robot. The use of optical flow sensors in unmanned aerial vehicles (UAVs) , for stability and obstacle avoidance, is also an area of current research.

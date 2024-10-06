@@ -1,0 +1,27 @@
+A desktop environment is a collection of software designed to give functionality and a certain look and feel to an operating system .
+
+This article applies to operating systems which are capable of running the X Window System , mostly Unix and Unix-like operating systems such as Linux , Minix , illumos , Solaris , AIX , FreeBSD and Mac OS X . Microsoft Windows is incapable of natively running X applications; however, third-party X servers like Cygwin/X , Exceed , or Xming are available.
+
+A desktop environment (DE) can be broken up into several components that function independently and interact with one another to provide the look and feel and functionality of the desktop environment. A fundamental part of a DE is the window manager or WM. A window manager creates a certain way for application windows to present themselves to the user. It manages the various application windows, keeping track of which ones are open and providing features to switch between them. Another important element of a DE is the file manager . This application manages files/ folders and presents them in a way that the user finds convenient. It provides file operations like viewing, copying or moving, changing permissions and deleting. DEs usually provide utilities to set wallpapers and screensavers, display icons on the desktop, and perform some administrative tasks. They may optionally include word processors, CD/DVD writing applications, web browsers and e-mail clients.
+
+There are some exceptions: Window managers like Fluxbox , wmii and Ratpoison operate independently of a desktop environment and were written with this objective in mind. Additional hand-picked applications add functionality such as a panel and volume management which gives them some of the qualities of a full DE. This contrasts the behaviour of WMs like Metacity and KWin which were not written with the objective of operating independently of a DE.
+
+KDE Software Compilation and GNOME are written almost completely on special software libraries Qt and GTK respectively. This usually means that virtually every component of the desktop environment including the file manager explicitly depends on that library for its functioning.
+
+Notably, nothing prevents the user from installing any number of software libraries of their choice. In practice, software written on major libraries can be run under any desktop environment. Running a package designed for one desktop (which essentially means that it's written using the same libraries as the desktop itself is) within a different desktop can be visually displeasing, as well as incurring the RAM penalty of loading libraries that wouldn't otherwise be required.
+
+Some of the differences which can influence the choice of desktop environment are:
+
+This table shows basic information on the programs distributed with some desktop environments for the X Window System .
+
+Note that Razor-qt has become LXQt , a port of LXDE to the Qt framework.
+
+GNOME's graphical file manager Files (Nautilus) is intended to be very easy to use and has many features. KDE's file manager Dolphin is described as focused on usability. Prior to KDE version 4, the KDE project's standard file manager was Konqueror, which was also designed for ease of use.
+
+Both GNOME and KDE come with many graphical configuration tools, reducing the need to manually edit configuration files for new users. They have extensive bundled software such as graphical menu editors, text editors, audio players, and software for doing administrative work. All applications installed in most distributions are automatically added to the GNOME and KDE menus. No major configuration changes are necessary to begin working. However, by using graphical tools, the extent to which the desktops can be configured is determined by the power provided by those tools.
+
+Some desktop environments and window managers claim that they support applications made for other desktop environments explicitly. For example, Fluxbox states KDE support in its feature list. Using software made specifically for the desktop environment in use or window manager agnostic software is a way to avoid issues. For software developers, the Portland Project has released a set of common interfaces that allows applications to integrate across many desktop environments.
+
+A 2011 test by Phoronix with the default installation of Ubuntu 10.04 showed that LXDE 0.5's memory utilization was lower than that of Xfce 4.6, which in turn was lower than that of GNOME 2.29, with KDE 4.4 using the most RAM compared to the aforementioned desktops.
+
+In 2015, it was demonstrated in benchmarks that LXDE performed slightly faster than Xfce overall (in the average of all tests), using the Fedora Linux operating system.

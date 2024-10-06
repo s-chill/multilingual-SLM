@@ -1,0 +1,3 @@
+Blitz++ is a high-performance vector mathematics library written in C++ . This library is intended for use in scientific applications that might otherwise be implemented with Fortran or MATLAB .
+
+Blitz++ utilizes advanced C++ template metaprogramming techniques, including expression templates , to provide speed-optimized mathematical operations on sequences of data without sacrificing the natural syntax provided by other mathematical programming systems. Indeed, it has been recognized as a pioneer in the area of C++ template metaprogramming.

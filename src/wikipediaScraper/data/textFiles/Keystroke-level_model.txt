@@ -1,0 +1,27 @@
+In human–computer interaction , the keystroke-level model ( KLM ) predicts how long it will take an expert user to accomplish a routine task without errors using an interactive computer system. It was proposed by Stuart K. Card , Thomas P. Moran and Allen Newell in 1980 in the Communications of the ACM and published in their book The Psychology of Human-Computer Interaction in 1983, which is considered as a classic in the HCI field. The foundations were laid in 1974, when Card and Moran joined the Palo Alto Research Center (PARC) and created a group named Applied Information-Processing Psychology Project (AIP) with Newell as a consultant aiming to create an applied psychology of human-computer interaction. The keystroke-level model is still relevant today, which is shown by the recent research about mobile phones and touchscreens (see Adaptions ).
+
+The keystroke-level model consists of six operators: the first four are physical motor operators followed by one mental operator and one system response operator:
+
+The following table shows an overview of the times for the mentioned operators as well as the times for suggested operators:
+
+The KLM is based on the keystroke level, which belongs to the family of GOMS models. The KLM and the GOMS models have in common that they only predict behaviour of experts without errors, but in contrast the KLM needs a specified method to predict the time because it does not predict the method like GOMS. Therefore, the KLM has no goals and method selection rules, which in turn makes it easier to use. The KLM resembles the model K1 from the family of GOMS models the most because both are at the keystroke level and possess a generic M operator. The difference is that the M operator of the KLM is more aggregated and thus larger (1.35 seconds vs. 0.62 seconds), which makes its mental operator more similar to the CHOOSE operations of the model K2. All in all, the KLM represents the practical use of the GOMS keystroke level.
+
+The KLM was designed to be a quick and easy to use system design tool, which means that no deep knowledge about psychology is required for its usage. Also, task times can be predicted (given the limitations ) without having to build a prototype , recruit and test users, which saves time and money. See the example for a practical use of the KLM as a system design tool.
+
+The keystroke-level model has several restrictions:
+
+Also, one should keep in mind when assessing a computer system that other aspects of performance (errors, learning, functionality, recall, concentration, fatigue, and acceptability), types of users (novice, casual) and non-routine tasks have to be considered as well.
+
+Furthermore, tasks which take more than a few minutes take several hours to model and a source of errors is forgetting operations. This implies that the KLM is best suited for short tasks with few operators.
+In addition, the KLM can not make a perfect prediction and has a root-mean-square error of 21%.
+
+The following example slightly modified to be more compact from Kieras shows the practical use of the KLM by comparing two different ways to delete a file for an average skilled typist. Note that M is 1.35 seconds as stated in the KLM instead of 1.2 seconds used by Kieras. The difference between the two designs would remain the same either way for this example.
+
+This shows that Design B is 1 second faster than Design A, although it contains more operations.
+
+The six operators of the KLM can be reduced, but this decreases the accuracy of the model. If this low of an accuracy makes sense (e.g. “back-of-the-envelope” calculations) such a simplification can be sufficient.
+
+While the existing KLM applies to desktop applications, the model might not fulfill the range of mobile tasks, or as Dunlop and Cross declaimed KLM is no longer precise for mobile devices. There are various efforts to extend the KLM regarding the use for mobile phones or touch devices. One of the significant contributions to this field is done by Holleis, who retained existing operators while revisiting the timing specifications. Furthermore, he introduced new operators: Distraction (X), Gesture (G), Initial Act (I). 
+While Li and Holleis both agree that the KLM model can be applied to predict task times on mobile devices, Li suggests further modifications to the model, by introducing a new concept called operator blocks. These are defined as "the sequence of operators that can be used with high repeatability by analyst of the extended KLM.”. He also discards old operators and defines 5 new mental operators and 9 new physical operators, while 4 of the physical operators focus on pen-based operations. 
+Rice and Lartigue suggest numerous operators for touch devices together with updating existing operators naming the model TLM (Touch Level Model).
+They retain the operators Keystroke (K/B), Homing (H), Mental (M) and Response Time (R(t)) and suggest new touch specific operators partly based on Holleis’ suggested operators:

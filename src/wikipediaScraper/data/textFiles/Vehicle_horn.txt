@@ -1,0 +1,49 @@
+A vehicle horn is a sound-making device installed on motor vehicles , trains , boats , and other types of vehicles. The sound it makes usually resembles a “honk” (older vehicles) or a “beep” (modern vehicles). The driver uses the horn to warn people of danger. The horn is activated to warn others of the vehicle's presence or approach, or to call attention to some hazard. Motor vehicles, ships and trains are required by law in some countries to have horns. Trams, trollies, streetcars, and even bicycles are also legally required to have an audible warning device in many areas.
+
+Modern car horns are usually electric, driven by a flat circular steel diaphragm that has an electromagnet acting on it in one direction and a spring pulling in the opposite direction. The diaphragm is attached to contact points that repeatedly interrupt the current to that electromagnet causing the diaphragm to spring back the other way, which completes the circuit again. This arrangement opens and closes the circuit hundreds of times per second, which creates a loud noise like a buzzer or electric bell , which sound enters a horn to be amplified.
+
+A traditional style automobile horn includes an expansion chamber cast into its body, once spiral shaped, to better match the acoustical impedance of the diaphragm with open air, and thus more effectively transfer the sound energy. Sound levels of typical car horns are approximately 107–109 decibels , and they typically draw 5–6 amperes of current.
+
+Horns can be used singly, but are often arranged in pairs to produce an interval consisting of two notes, sounded together; although this doubles the sound volume, the use of two differing frequencies is more perceptible to the human ear than two horns of the same frequency, particularly in an environment with a high ambient noise level . Typical frequencies of a pair of horns of this design are 500 Hz and 405–420 Hz (approximately B 4 and G ♯ 4 , minor third ).
+
+Most cars, motorcycles , and motor scooters have for some time used a cheaper and smaller alternative design, which, despite retaining the name "horn," abandons the actual horn ducting and instead relies on a larger flat diaphragm to reach the required sound level . Sound levels of such horns are approximately 109–112 decibels, and they typically draw 2.5–5 amperes of current. Again, these horns can be either single, or arranged in pairs; typical frequencies for a pair are 420–440 Hz and 340–370 Hz (approximately G ♯ 4 –A 4 and F 4 –F ♯ 4 ) for this design.
+
+A horn grille is a part of some designs of car or other motor vehicle that has an electric horn, such as a motor scooter .
+
+Larger, louder air horns , as found on trucks (lorries) and buses , are driven by air compressors , or supplied by reservoirs charged to operate their air brakes . The compressor forces air past a diaphragm in the horn's throat, causing it to vibrate. Usually two are used, with varied frequencies generally lower than those of automobile horns, in the 125–180 Hz (approximately C 3 –G 3 ) range. Sound levels are approximately 117–118 decibels.
+
+In order to be heard at the longer distances that trains require to warn of danger or stop, their locomotives have pneumatic train horns that are both louder and lower in frequency than motor vehicle  horns. Operated by compressed air from the train's air brake system, their sound level is 146–175 dB. In the United States , train horns are required to have a minimum sound level of 96 dB and a maximum sound level of 110 dB at 100 ft (30 m) in front of the train.
+
+To distinguish their sound from truck and bus air horns, train horns in the U.S. consist of groups of two to five horns (called "chimes") which have different notes, sounded together to form a chord .
+
+In Japan , most modern trains like 209 series or E233 series from the first half of the 1990s onwards use electric horns as primary in passenger use. Although electric horns were used by Seibu 2000 series , air horns were primarily used until the 1990s. Modern Japanese trains may still be equipped with both air horns and electric horns.
+
+Most modern streetcars, trams and trolley cars including low-floor vehicles around the world also employ horns or whistles as a secondary auditory warning signal in addition to the gong /bell which either use the sound of air horns or electric automobile car horns.
+
+Ships signal to each other and to the shore with air horns , sometimes called whistles, that are driven with compressed air or from steam tapped from the power plant. Low frequencies are used, because they travel further than high frequencies; horns from ships have been heard as far as fifteen kilometres (ten miles). Traditionally, the lower the frequency, the larger the ship. The RMS Queen Mary , an ocean liner launched in 1934, had three horns based on 55 Hz (corresponding to A1 ), a frequency chosen because it was low enough that the very loud sound of it would not be painful to the passengers. Modern International Maritime Organization regulations specify that ships' horn frequencies be in the range 70–200 Hz (corresponding to C ♯ 2 -G 3 ) for vessels that are over 200 m (660 ft) in length.  For vessels between 200 and 75 m (660 and 250 ft) the range is 130–350 Hz and for vessels under 75 m (250 ft) it is 70–700 Hz.
+
+Smaller craft typically use electric diaphragm horns.
+
+Portable air horns driven by canned compressed air are also used, as well as for officiating sports events and recreational activities.
+
+Small battery -operated electric horns, as well as the traditional single-reed bulb horn , are typically used on bicycles .
+
+A klaxon is a type of an electromechanical horn or alerting device. Mainly used on cars , trains and ships , it produces an easily identifiable sound, often transcribed onomatopoeiacally in English as "awooga". Like most mechanical horns, it has largely been replaced by solid-state electronic alarms, though the memorable tone has persisted. Klaxon was originally a brand name .
+
+The klaxon horn's characteristic sound is produced by a spring-steel diaphragm with a rivet in the center that is repeatedly struck by the teeth of a rotating cogwheel. The diaphragm is attached to a horn that acts as an acoustic transformer and controls the direction of the sound.
+
+In the first klaxons, the wheel was driven either by hand or by an electric motor. American inventor Miller Reese Hutchison (later chief engineer of Thomas Edison ) patented the mechanism in 1908. The Lovell-McConnell Manufacturing Company of Newark, New Jersey bought the rights to the device and it became standard equipment on General Motors cars. Franklyn Hallett Lovell Jr., the founder, coined the name klaxon from the Ancient Greek verb klazō , "I shriek".
+
+Klaxons were first fitted to automobiles and bicycles in 1908. They were originally powered by six-volt dry cells , and from 1911 by rechargeable batteries . Later hand-powered versions were used as military evacuation alarms and factory sirens. They were also used as submarine dive and surface alarms beginning in the Second World War .
+
+The English company Klaxon Signals Ltd. has been based in Oldham , England for the last 80 years, with premises also in Birmingham . The French Klaxon company was acquired by the Italian Fiamm Group in the 1990s. In 2005 Klaxon Signals sold the rights for the hooter or klaxon range to Moflash Signalling Ltd., based in the original Klaxon Factory in Birmingham, England.
+
+The Moflash Company discontinued the Klaxet hooter in 2013, but continued to produce the A1 hooter, the only original Klaxon left in production.
+
+Several languages have either borrowed or transcribed the name into their lexicons. In Japanese, the word "klaxon" ( クラクション , kurakushon ) refers to car horns in general . This is also true in languages such as French ( klaxon ), Italian ( clacson ), Greek ( κλάξον ), Dutch ( claxon ), Russian ( клаксон ), Polish ( klakson ), Spanish ( claxon ), Romanian ( claxon ), Czech ( klakson ), Turkish ( klakson ), Indonesian ( klakson ), some Arabic dialects ( كلاكسون ) and Korean ( 클랙슨 ).
+
+In countries applying the Vienna Convention on Road Traffic , usage of audible warnings is limited, and allowed only in two cases:
+
+Various types of vehicle horns are used by percussionists as sound effects , or even melodically, in musical works. For example, George Gershwin 's 1928 orchestral work An American in Paris calls for the use of 4 taxi horns. György Ligeti 's opera Le Grand Macabre features two "Car Horn Preludes" scored for 12 bulb horns, each one tuned to a specific pitch.
+
+The hornophone consists of a set of bulb horns tuned to a chromatic scale and arranged as a musical keyboard on a frame like a xylophone . The klaxophone is a similar musical instrument using a set of klaxons.

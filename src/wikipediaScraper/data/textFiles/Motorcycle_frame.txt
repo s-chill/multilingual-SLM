@@ -1,0 +1,60 @@
+A motorcycle frame is a motorcycle 's core structure. It supports the engine, provides a location for the steering and rear suspension , and supports the rider and any passenger or luggage. Also attached to the frame are the fuel tank and battery. At the front of the frame is found the steering head tube that holds the pivoting front fork , while at the rear there is a pivot point for the swingarm suspension motion. Some motorcycles include the engine as a load-bearing stressed member; while some other bikes do not use a single frame, but instead have a front and a rear subframe attached to the engine.
+
+In the early days, motorcycles were little more than motorised bicycles , and consequently frames were tubular steel .  While the use of steel tubing is still common, in modern times other materials, such as titanium , aluminium , magnesium , and carbon-fibre , along with composites of these materials, are now used. As different motorcycles have varying design parameters (such as cost, complexity, weight distribution , stiffness, power output and speed), there is no single ideal frame design, and designers must make an informed decision of the optimum choice.
+
+In Europe and the USA, steel tubing was the default material until recent times.  All the major manufacturers (AJS, Ariel, BSA, Matchless, Norton, Sunbeam, Triumph, Velocette, BMW, DKW, Ducati, Moto-Guzzi, Harley-Davidson and Indian) used steel tubing.
+
+Unlike the development seen in bicycle frames where tubular steel frames were succeeded by frames welded out of round or ovalized aluminium tubing, the aluminium in motorcycle frames is almost exclusively welded in more angular forms, and often forming a monocoque frame.
+
+In 1983, Armstrong motorcycles produced a 250cc Grand Prix motorcycle using a revolutionary carbon fiber frame. Following the technology being used by the Formula One industry, Armstrong designers Mike Eatough and Barry Hart created the first motorcycle using a carbon fiber frame to compete in Grand Prix racing.
+
+The motorcycle engine is suspended from a single spine. Spine could be a solid structure.
+
+The motorcycle engine is held in a single cradle with a single spine.
+
+Examples
+
+The motorcycle engine is held in a double cradle with a
+single spine and single downtube.
+
+The motorcycle engine is held in place within a pair of separate cradles.  The  Norton Featherbed frame was the classic example, but many "duplex" frames actually have a single spine beneath the tank.
+
+Also called beam or twin spar , two beams wrap around the engine to join the steering head and swing arm in the shortest distance possible for better rigidity. Beams are usually made of pressed metal (steel/aluminium). The trellis frame employs the same concept but uses welded members to form a trellis instead of pressed metal.
+
+Antonio Cobas is credited with pioneering the modern, aluminum perimeter frame chassis now used on many modern racing and production motorcycles. In 1982, Cobas developed a stronger and lighter aluminum twin-beam chassis to replace the steel backbone frames. The technology was copied by major motorcycle manufacturers and by the 1990s, all the major racing teams in Grand Prix competition used the aluminum frame design pioneered by Cobas.
+
+The frame is pressed or stamped from sheet metal to form a car-type semi- monocoque . One of the earliest examples was the 965cc motorcycle produced by Louis Janoir in 1920, which used pressed steel for the frame, rear swinging arm, and the front forks. The frame may be entirely pressed (Ariel Arrow), or may have just a pressed aft section connected to the steering head by a conventional steel tubular spine (Honda Super Cub).  Both the Super Cub and the Arrow also have pressed steel forks, instead of conventional telescopic forks .
+
+More common in the car world, a monocoque frame comprises a structure where loads are supported through its external skin. On motorcycles they are used almost exclusively on racing motorcycles.
+
+French industrialist and engineer Georges Roy attempted in the 1920s to improve on the bicycle-inspired motorcycle frames of the day, which lacked rigidity. This limited their handling and therefore performance. He applied for a patent in 1926, and at the 1929 Paris Automotive Show unveiled his new motorcycle, the Art-Deco styled 1930 Majestic. Its new type of monocoque body solved the problems he had addressed, and along with better rigidity it did double-duty, as frame and bodywork provided some protection from the elements. Strictly considered, it was more of a semi-monocoque, as it used a box-section, pressed-steel frame with twin side rails riveted together via crossmembers, along with floor pans and rear and front bulkheads.
+
+A Piatti light scooter was produced in the 1950s using a monocoque hollow shell of sheet-steel pressings welded together, into which the engine and transmission were installed from underneath. The machine could be tipped onto its side, resting on the bolt-on footboards for mechanical access.
+
+A monocoque-framed motorcycle was developed by Spanish manufacturer Ossa for the 1967 Grand Prix motorcycle racing season . Although the single-cylinder Ossa had 20 horsepower (15 kW) less than its rivals, it was 45 pounds (20 kg) lighter and its monocoque frame was much stiffer than conventional motorcycle frames, giving it superior agility on the racetrack. Ossa won four Grands Prix races with the monocoque bike before their rider died after a crash during the 250 cc event at the 1970 Isle of Man TT , causing the Ossa factory to withdraw from Grand Prix competition.
+
+Notable designers such as Eric Offenstadt and Dan Hanebrink created unique monocoque designs for racing in the early 1970s. The F750 event at the 1973 Isle of Man TT races was won by Peter Williams on the monocoque-framed John Player Special that he helped to design based on Norton Commando . Honda also experimented with the NR500 , a monocoque Grand Prix racing motorcycle in 1979 . The bike had other innovative features, including an engine with oval shaped cylinders, and eventually succumbed to the problems associated with attempting to develop too many new technologies at once. In 1987 John Britten developed the Aero-D One, featuring a composite monocoque chassis that weighed only 12 kg (26 lb).
+
+An aluminium monocoque frame was used for the first time on a mass-produced motorcycle from 2000 on Kawasaki's ZX-12R , their flagship production sportbike aimed at being the fastest production motorcycle . It was described by Cycle World in 2000 as a "monocoque backbone...a single large diameter beam" and "Fabricated from a combination of castings and sheet-metal stampings".
+
+Single-piece carbon fiber bicycle frames are sometimes described as monocoques; however as most use components to form a frame structure (even if molded in a single piece), these are frames not monocoques, and the pedal-cycle industry continues to refer to them as framesets.
+
+If a "monocoque" frame uses additional support, such as tubes or longerons, the frame is more properly called a "semi-monocoque". An example is Peter Williams' semi-monocoque Norton racer.
+
+A trellis frame connects the steering head to the swingarm pivot as directly as possible using metal tube arranged in triangulated reinforcement. Using lattice girder principles, a trellis frame is typically constructed of round or oval section metal tubular segments that are welded or brazed together. A well-designed trellis frame should provide a strong, lightweight structure that simplifies placement of engine and components, and gives good access for maintenance. Although construction of a trellis frame needs a more complicated process than, say, an alloy beam frame, it requires only a simple jig and a competent welder. No heavy capital outlay is required, so a trellis frame is ideal for a model that may be made in relatively small numbers. For this reason, the trellis frame has found favour with European manufacturers, and Ducati in particular.
+
+Some motorcycles, such as the Yamaha TRX850 , have hybrid frames that employ alloy castings at the swingarm pivot area. Another variation is to suspend the engine from a trellis frame, but have the swingarm pivot cast into the rear of the engine.
+
+For rider comfort, a motorcycle's engine can be mounted on rubber bushings to isolate vibration from the rest of the machine. This strategy means the engine contributes little to frame stiffness, and absorbing rather than dissipating vibration can lead to stress damage to the frame, exhaust pipes, and other parts.
+
+Instead, if the engine is rigidly mounted to the frame, vibrations pass to and are dissipated via the whole frame, and the rider. Rigid mounting allows the engine to contribute to the overall stiffness of the frame. It also becomes possible to mount the swingarm directly to the engine rather than the frame, avoiding the need for frame members extending downward to the swingarm pivot. By increasing the number of mounting points between the engine and frame, vibrations and stress can be better dissipated in the frame, typically creating a triangle between the swingarm in the rear, the cylinder head at the top and the lower crankcase area at the front. If a rigidly mounted engine not only contributes to, but is critical to, the stiffness of the frame, and is an integral part of closing the triangle or trellis structure that transfers force from the headstock to the swingarm, to the point that without the engine the frame would be deformed, the engine is called a stressed member , or a lifted engine . Sharing the load between the engine and frame reduces the overall weight of the motorcycle.
+
+Stressed member engines were pioneered at least as early as the 1916 Harley-Davidson 8-valve racer, and incorporated in the production Harley-Davidson Model W by 1919. This was called a keystone, or diamond, frame. The 1946 Vincent Series B Rapide was designed with an advanced chassis, termed a "tour de force for its day," that included a stressed member engine. During early testing of the 1983 Kawasaki GPZ900R , twin downtubes were included, creating a full cradle, but the downtubes were found to carry little load, so they were removed, relying entirely on the combination of the steel backbone and engine for chassis rigidity. BMW 's R1100 series twins of 1994 relieved the frame of stress entirely, with the engine carrying the total load from the front Telelever fork to the rear Monolever .
+
+Frame stiffness is a problem for motorcycle designers, as it was for the bicycle frames that motorcycles are descendants of.
+
+Modifying the stiffness of a factory-produced frame can be undertaken to improve handling characteristics. This is often done by triangulating the factory frame. Triangulation is a technique used in many engineering applications to stiffen structures. However doing so can also have undesirable effects if it overloads other parts of the frame, as a flexible frame acts as a spring to absorb some loads.
+
+In the 21st century, advances like high power engines driving high traction tires, and better-performing suspension components, especially forks, led to a situation where designs with increased overall frame stiffness were made available to consumers. Analysts differ on whether infinite lateral stiffness is desirable, or whether a finite degree of built-in flex is preferable.
+
+If the handling of the motorcycle is not appropriate, it is important to check the deformation of the geometry of the motorcycle frame. This measurement can be important after an accident or before buying a used motorcycle.

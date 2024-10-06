@@ -1,0 +1,29 @@
+In chemical engineering , process design is the choice and sequencing of units for desired physical and/or chemical transformation of materials. Process design is central to chemical engineering, and it can be considered to be the summit of that field, bringing together all of the field's components.
+
+Process design can be the design of new facilities or it can be the modification or expansion of existing facilities.  The design starts at a conceptual level and ultimately ends in the form of fabrication and construction plans.
+
+Process design is distinct from equipment design, which is closer in spirit to the design of unit operations.  Processes often include many unit operations .
+
+Process design documents serve to define the design and they ensure that the design components fit together.  They are useful in communicating ideas and plans to other engineers involved with the design, to external regulatory agencies, to equipment vendors, and to construction contractors.
+
+In order of increasing detail, process design documents include:
+
+Process designers typically write operating manuals on how to start-up, operate and shut-down the process.  They often also develop accident plans and projections of process operation on the environment.
+
+Documents are maintained after construction of the process facility for the operating personnel to refer to.  The documents also are useful when modifications to the facility are planned.
+
+A primary method of developing the process documents is process flowsheeting .
+
+Design conceptualization and considerations can begin once objectives are defined and constraints identified.
+
+Objectives that a design may strive to meet include:
+
+Constraints include:
+
+Other factors that designers may include are:
+
+Designers usually do not start from scratch, especially for complex projects.  Often the engineers have pilot plant data available or data from full-scale operating facilities.  Other sources of information include proprietary design criteria provided by process licensors, published scientific data, laboratory experiments, and suppliers of feedstocks and utilities.
+
+Design starts with process synthesis - the choice of technology and combinations of industrial units to achieve goals.  More detailed design proceeds as other engineers and stakeholders sign off on each stage: conceptual to detailed design.
+
+Simulation software is often used by design engineers.  Simulations can identify weaknesses in designs and allow engineers to choose better alternatives.  However, engineers still rely on heuristics, intuition, and experience when designing a process.  Human creativity is an element in complex designs.

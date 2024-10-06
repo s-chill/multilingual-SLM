@@ -1,0 +1,5 @@
+libLAS is a library for reading and writing geospatial data encoded in the ASPRS laser (LAS) file format , versions 1.0, 1.1 and 1.2. LAS-formatted data is heavily used in lidar processing operations. The LAS format is a sequential binary format used to store data from sensors and as intermediate processing storage by some applications.
+
+libLAS software consists of base library with multiple application programming interfaces available for programming languages like C , C++ , Python as well as languages available in .NET Framework and Mono . Also, a variety of useful command-line utilities is provided for translating LAS files from one version of the LAS format to another, inspecting header information, and translating LAS data to and from text.
+
+Initial development of libLAS software was supported by the Iowa Geological Survey of the Iowa DNR for use in its statewide lidar project.

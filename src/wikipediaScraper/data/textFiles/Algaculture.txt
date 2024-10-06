@@ -1,0 +1,149 @@
+Algaculture is a form of aquaculture involving the farming of species of algae .
+
+The majority of algae that are intentionally cultivated fall into the category of microalgae (also referred to as phytoplankton , microphytes , or planktonic algae ). Macroalgae , commonly known as seaweed , also have many commercial and industrial uses, but due to their size and the specific requirements of the environment in which they need to grow, they do not lend themselves as readily to cultivation (this may change, however, with the advent of newer seaweed cultivators, which are basically algae scrubbers using upflowing air bubbles in small containers).
+
+Commercial and industrial algae cultivation has numerous uses, including production of nutraceuticals such as omega-3 fatty acids (as algal oil) or natural food colorants and dyes , food , fertilizers , bioplastics , chemical feedstock (raw material), protein-rich animal/ aquaculture feed, pharmaceuticals , and algal fuel , and can also be used as a means of pollution control and natural carbon sequestration .
+
+Global production of farmed aquatic plants, overwhelmingly dominated by seaweeds, grew in output volume from 13.5 million tonnes in 1995 to just over 30 million tonnes in 2016. Cultured microalgae already contribute to a wide range of sectors in the emerging bioeconomy . Research suggests there are large potentials and benefits of algaculture for the development of a future healthy and sustainable food system .
+
+Several species of algae are raised for food. While algae have qualities of a sustainable food source, "producing highly digestible proteins, lipids, and carbohydrates, and are rich in essential fatty acids, vitamins, and minerals" and e.g. having a high protein productivity per acre, there are several challenges "between current biomass production and large-scale economic algae production for the food market".
+
+Australian scientists at Flinders University in Adelaide have been experimenting with using marine microalgae to produce proteins for human consumption, creating products like " caviar ", vegan burgers, fake meat , jams and other food spreads . By manipulating microalgae in a laboratory , the protein and other nutrient contents could be increased, and flavours changed to make them more palatable. These foods leave a much lighter carbon footprint than other forms of protein, as the microalgae absorb rather than produce carbon dioxide , which contributes to the greenhouse gases .
+
+For centuries seaweed has been used as fertilizer . It is also an excellent source of potassium for manufacture of potash and potassium nitrate . Some types of microalgae can be used this way as well.
+
+Both microalgae and macroalgae are used to make agar .
+
+With concern over global warming , new methods for the thorough and efficient capture of CO 2 are being sought out. The carbon dioxide that a carbon-fuel burning plant produces can feed into open or closed algae systems, fixing the CO 2 and accelerating algae growth. Untreated sewage can supply additional nutrients, thus turning two pollutants into valuable commodities.
+
+Waste high-purity CO 2 as well as sequestered carbon from the atmosphere can be used, with potential significant benefits for climate change mitigation .
+
+Algae cultivation is under study for uranium/plutonium sequestration and purifying fertilizer runoff.
+
+Business, academia and governments are exploring the possibility of using algae to make gasoline, bio-diesel, biogas and other fuels. Algae itself may be used as a biofuel, and additionally be used to create hydrogen.
+
+Microalgae are also researched for hydrogen production – e.g. micro-droplets for algal cells or synergistic algal-bacterial multicellular spheroid microbial reactors capable of producing oxygen as well as hydrogen via photosynthesis in daylight under air.
+
+The BIQ House [ de ] built in 2013 in Germany is a showcase experimental bionic house using glass facade panels for the cultivation of micro algae . Once the panels heat up thermal energy can also be extracted through a heat exchanger in order to supply warm water to the building. The technology is still in an early stage and not yet fit for a wider use.
+
+The Green Power House in Montana, United States used newly-developed Algae Aquaculture Technology within a system that uses sunlight and woody debris waste from a lumber mill for providing nutrients to eight algae ponds of the AACT that cover its floor. Identified challenges of algae façades include durability of microalgae panels, the need for maintenance, and construction and maintenance costs
+
+Seaweed grow in shallow and coastal areas, and capture significant amounts of carbon that can be transported to the deep ocean by oceanic mechanisms; seaweed reaching the deep ocean sequester carbon and prevent it from exchanging with the atmosphere over millennia. Growing seaweed offshore with the purpose of sinking the seaweed in the depths of the sea to sequester carbon has been suggested. In addition, seaweed grows very fast and can theoretically be harvested and processed to generate biomethane , via anaerobic digestion to generate electricity, via cogeneration/CHP or as a replacement for natural gas . One study suggested that if seaweed farms covered 9% of the ocean they could produce enough biomethane to supply Earth's equivalent demand for fossil fuel energy, remove 53 gigatonnes of CO 2 per year from the atmosphere and sustainably produce 200 kg per year of fish, per person, for 10 billion people. Ideal species for such farming and conversion include Laminaria digitata , Fucus serratus and Saccharina latissima .
+
+Both macroalgae and microalgae are being investigated as possible means of carbon sequestration. Marine phytoplankton perform half of the global photosynthetic CO 2 fixation (net global primary production of ~50 Pg C per year) and half of the oxygen production despite amounting to only ~1% of global plant biomass.
+
+Because algae lack the complex lignin associated with terrestrial plants , the carbon in algae is released into the atmosphere more rapidly than carbon captured on land. Algae have been proposed as a short-term storage pool of carbon that can be used as a feedstock for the production of various biogenic fuels.
+
+Chlorella , particularly a transgenic strain which carries an extra mercury reductase gene , has been studied as an agent for environmental remediation due to its ability to reduce Hg to the less toxic elemental mercury.
+
+Cultured strains of a common coral microalgal endosymbionts are researched as a potential way to increase corals' thermal tolerance for climate resilience and bleaching tolerance .
+
+Cultured microalgae is used in research and development for potential medical applications, in particular for microbots such as biohybrid microswimmers for targeted drug delivery .
+
+Cultivated algae serve many other purposes, including cosmetics, animal feed, bioplastic production, dyes and colorant production, chemical feedstock production, and pharmaceutical ingredients.
+
+Most growers prefer monocultural production and go to considerable lengths to maintain the purity of their cultures. However, the microbiological contaminants are still under investigation.
+
+With mixed cultures, one species comes to dominate over time and if a non-dominant species is believed to have particular value, it is necessary to obtain pure cultures in order to cultivate this species. Individual species cultures are also much needed for research purposes.
+
+A common method of obtaining pure cultures is serial dilution . Cultivators dilute either a wild sample or a lab sample containing the desired algae with filtered water and introduce small aliquots (measures of this solution) into a large number of small growing containers. Dilution follows a microscopic examination of the source culture that predicts that a few of the growing containers contain a single cell of the desired species. Following a suitable period on a light table, cultivators again use the microscope to identify containers to start larger cultures.
+
+Another approach is to use a special medium which excludes other organisms, including invasive algae.  For example, Dunaliella is a commonly grown genus of microalgae which flourishes in extremely salty water that few other organisms can tolerate.
+
+Alternatively, mixed algae cultures can work well for larval mollusks . First, the cultivator filters the sea water to remove algae which are too large for the larvae to eat. Next, the cultivator adds nutrients and possibly aerates the result. After one or two days in a greenhouse or outdoors, the resulting thin soup of mixed algae is ready for the larvae. An advantage of this method is low maintenance.
+
+Water, carbon dioxide , minerals and light are all important factors in cultivation, and different algae have different requirements. The basic reaction for algae growth in water is carbon dioxide + light energy + water = glucose + oxygen + water. This is called autotrophic growth.  It is also possible to grow certain types of algae without light, these types of algae consume sugars (such as glucose). This is known as heterotrophic growth.
+
+The water must be in a temperature range that will support the specific algal species being grown mostly between 15˚C and 35˚C.
+
+In a typical algal-cultivation system, such as an open pond, light only penetrates the top 3 to 4 inches (76–102 mm) of the water, though this depends on the algae density. As the algae grow and multiply, the culture becomes so dense that it blocks light from reaching deeper into the water. Direct sunlight is too strong for most algae, which can use only about 1 ⁄ 10 the amount of light they receive from direct sunlight; however, exposing an algae culture to direct sunlight (rather than shading it) is often the best course for strong growth, as the algae underneath the surface is able to utilize more of the less intense light created from the shade of the algae above.
+
+To use deeper ponds, growers agitate the water, circulating the algae so that it does not remain on the surface. Paddle wheels can stir the water and compressed air coming from the bottom lifts algae from the lower regions. Agitation also helps prevent over-exposure to the sun.
+
+Another means of supplying light is to place the light in the system. Glow plates made from sheets of plastic or glass and placed within the tank offer precise control over light intensity, and distribute it more evenly.  They are seldom used, however, due to high cost.
+
+The odor associated with bogs , swamps , and other stagnant waters can be due to oxygen depletion caused by the decay of deceased algal blooms . Under anoxic conditions, the bacteria inhabiting algae cultures break down the organic material and produce hydrogen sulfide and ammonia , which causes the odor. This hypoxia often results in the death of aquatic animals. In a system where algae is intentionally cultivated, maintained, and harvested, neither eutrophication nor hypoxia are likely to occur.
+
+Some living algae and bacteria also produce odorous chemicals, particularly certain cyanobacteria (previously classed as blue-green algae) such as Anabaena . The most well known of these odor-causing chemicals are MIB ( 2-methylisoborneol ) and geosmin . They give a musty or earthy odor that can be quite strong. Eventual death of the cyanobacteria releases additional gas that is trapped in the cells. These chemicals are detectable at very low levels – in the parts per billion range – and are responsible for many "taste and odor" issues in drinking water treatment and distribution. Cyanobacteria can also produce chemical toxins that have been a problem in drinking water.
+
+Nutrients such as nitrogen (N), phosphorus (P), and potassium (K) serve as fertilizer for algae, and are generally necessary for growth. Silica and iron, as well as several trace elements, may also be considered important marine nutrients as the lack of one can limit the growth of, or productivity in, a given area.  Carbon dioxide is also essential; usually an input of CO 2 is required for fast-paced algal growth. These elements must be dissolved into the water, in bio-available forms, for algae to grow.
+
+Farming of macroalgae
+
+Seaweed farming or kelp farming is the practice of cultivating and harvesting seaweed . In its simplest form farmers gather from natural beds, while at the other extreme farmers fully control the crop's life cycle .
+
+The seven most cultivated taxa are Eucheuma spp., Kappaphycus alvarezii , Gracilaria spp., Saccharina japonica , Undaria pinnatifida , Pyropia spp., and Sargassum fusiforme . Eucheuma and K. alvarezii are attractive for carrageenan (a gelling agent ); Gracilaria is farmed for agar ; the rest are eaten after limited processing. Seaweeds are different from mangroves and seagrasses , as they are photosynthetic algal organisms and are non-flowering.
+
+The largest seaweed-producing countries as of 2022 are China (58.62%) and Indonesia (28.6%); followed by South Korea (5.09%) and the Philippines (4.19%). Other notable producers include North Korea (1.6%), Japan (1.15%), Malaysia (0.53%), Zanzibar ( Tanzania , 0.5%), and Chile (0.3%). Seaweed farming has frequently been developed to improve economic conditions and to reduce fishing pressure.
+
+The Food and Agriculture Organization (FAO) reported that world production in 2019 was over 35 million tonnes. North America produced some 23,000 tonnes of wet seaweed. Alaska, Maine, France, and Norway each more than doubled their seaweed production since 2018 . As of 2019, seaweed represented 30% of marine aquaculture .
+
+An open system of algae cultivation involves the growth of algae in shallow water streams which could originate from a natural system or artificially prepared. In this system, algae can be cultivated in natural water bodies like lakes, rivers, and in oceans, as well as artificial ponds made up of concrete, plastic, pond liners or variety of materials. The open system of algae cultivation is simple and cost-effective, making it an attractive option for commercial production of algae-based products.
+
+Open ponds are highly vulnerable to contamination by other microorganisms, such as other algal species or bacteria. Thus cultivators usually choose closed systems for monocultures. Open systems also do not offer control over temperature and lighting. The growing season is largely dependent on location and, aside from tropical areas, is limited to the warmer months.
+
+Open pond systems are cheaper to construct, at the minimum requiring only a trench or pond. Large ponds have the largest production capacities relative to other systems of comparable cost. Also, open pond cultivation can exploit unusual conditions that suit only specific algae. For instance, Dunaliella salina grow in extremely salty water; these unusual media exclude other types of organisms, allowing the growth of pure cultures in open ponds. Open culture can also work if there is a system of harvesting only the desired algae, or if the ponds are frequently re-inoculated before invasive organisms can multiply significantly.  The latter approach is frequently employed by Chlorella farmers, as the growth conditions for Chlorella do not exclude competing algae.
+
+The former approach can be employed in the case of some chain diatoms since they can be filtered from a stream of water flowing through an outflow pipe . A " pillow case " of a fine mesh cloth is tied over the outflow pipe allowing other algae to escape. The chain diatoms are held in the bag and feed shrimp larvae (in Eastern hatcheries ) and inoculate new tanks or ponds.
+
+Enclosing a pond with a transparent or translucent barrier effectively turns it into a greenhouse. This solves many of the problems associated with an open system. It allows more species to be grown, it allows the species that are being grown to stay dominant, and it extends the growing season – if heated, the pond can produce year round. Open race way ponds were used for removal of lead using live Spirulina (Arthospira) sp .
+
+A lagoon is a type of aquatic ecosystem that is characterized by a shallow body of water that is separated from the open ocean by natural barriers such as sandbars, barrier islands, or coral reefs. The Australian company Cognis Australia is a well-known company that specializes in producing β-carotene from Dunaliella salina harvested from hypersaline extensive ponds located in Hutt Lagoon and Whyalla . These ponds are primarily used for wastewater treatment, and the production of D. salina is a secondary benefit.
+
+Open sea cultivation is a method of cultivating seaweed in the open ocean, as well as on a costal line in shallow water. Seaweed farming industry serves commercial needs for various products such as food, feed, pharma chemicals, cosmetics, biofuels , and bio-stimulants. Seaweed extracts act as bio-stimulants, reducing biotic stress and increasing crop production. Additionally, it presents opportunities for creating animal and human nutrition products that can improve immunity and productivity. Open ocean seaweed cultivation is an eco-friendly technology that doesn't require land, fresh water, or chemicals. It also helps mitigate the effects of climate change by sequestering CO 2 .
+
+Open sea cultivation method involves the use of rafts or ropes anchored in the ocean, where the seaweed grows attached to them. This method is widely used for commercial seaweed farming, as it allows for large-scale production and harvesting. The process of open sea cultivation of seaweed involves several steps. First, a suitable site in the ocean is identified, based on factors such as water depth, temperature, salinity, and nutrient availability. Once a site is chosen, ropes or rafts are anchored in the water, and the seed pieces of seaweed are attached to them using specialized equipment. The seaweed is then left to grow for several months, during which it absorbs nutrients from the water and sunlight through photosynthesis.
+
+Raceway-type ponds and lakes are open to the elements. They are one of the most common and economic methods of large-scale algae cultivation, and offer several advantages over other cultivation methods. An open raceway pond is a shallow, rectangular-shaped pond used for the cultivation of algae. Because it is designed to circulate water in a continuous loop or raceway, allowing algae to grow in a controlled environment. Open system is a low-cost method of algae cultivation, and it is relatively easy to construct and maintain. The pond is typically lined with a synthetic material, such as polyethylene (HDPE) or polyvinyl chloride, to prevent the loss of water and nutrients. The pond is also equipped with paddlewheels or other types of mechanical devices to provide mixing and aeration.
+
+High-Rate Algal Ponds (HRAPs) are a type of open algae cultivation system that has gained popularity in recent years due to their efficiency and low cost of operation. HRAPs are shallow ponds, typically between 0.1 to 0.4 meters deep, that are used for the cultivation of algae. The ponds are equipped with a paddlewheel or other type of mechanical agitation system that provides mixing and aeration, which promotes algae growth. HRAP system is also recommended in wastewater treatment using algae.
+
+Algae can also be grown in a photobioreactor (PBR). A PBR is a bioreactor which incorporates a light source. Virtually any translucent container could be called a PBR; however, the term is more commonly used to define a closed system, as opposed to an open tank or pond.
+
+Because PBR systems are closed, the cultivator must provide all nutrients, including CO 2 .
+
+A PBR can operate in " batch mode", which involves restocking the reactor after each harvest, but it is also possible to grow and harvest continuously. Continuous operation requires precise control of all elements to prevent immediate collapse. The grower provides sterilized water, nutrients, air, and carbon dioxide at the correct rates. This allows the reactor to operate for long periods. An advantage is that algae that grows in the " log phase " is generally of higher nutrient content than old " senescent " algae. Algal culture is the culturing of algae in ponds or other resources. Maximum productivity occurs when the "exchange rate" (time to exchange one volume of liquid) is equal to the "doubling time" (in mass or volume) of the algae.
+
+PBRs can hold the culture in suspension, or they can provide a substrate on which the culture can form a biofilm . Biofilm-based PBRs have the advantage that they can produce far higher yields for a given water volume, but they can suffer from problems with cells separating from the substrate due to the water flow required to transport gases and nutrients to the culture.
+
+Flat panel PBRs consist of a series of flat, transparent panels that are stacked on top of each other, creating a thin layer of liquid between them. Algae are grown in this thin layer of liquid, which is continuously circulated to promote mixing and prevent stagnation. The panels are typically made of glass or plastic and can be arranged in various configurations to optimize light exposure. Flat panel PBRs are generally used for low-to-medium density cultivation and are well-suited for species that require lower light intensity and maximum surface area for optimum light exposure. The temperature control in Flat panel PBR system is carried out by cooling down the culture in reservoir chamber using chilled water jacket as well as by sprinkling cold water on the flat panel surface.
+
+Tubular PBRs consist of long, transparent tubes that are either vertically or horizontally oriented. Algae are grown inside the tubes, which are typically made of glass or plastic. The tubes are arranged in a helical or serpentine pattern to increase surface area for light exposure. The tubing can be either continuously or intermittently circulated to promote mixing and prevent stagnation. Tubular PBRs are generally used for high-density cultivation and are well-suited for species that require high light intensity. The temperature control in tubular PBR is a difficult task which is generally achieved by external sprinkling of deionized water which allow cooling of the tubes and subsequently reduces the temperature of culture circulating inside the tubes.
+
+Biofilm PBRs include packed bed and porous substrate PBRs. Packed bed PBRs can be different shapes, including flat plate or tubular. In Porous Substrate Bioreactors (PSBRs), the biofilm is exposed directly to the air and receives its water and nutrients by capillary action through the substrate itself. This avoids problems with cells becoming suspended because there is no water flow across the biofilm surface. The culture could become contaminated by airborne organisms, but defending against other organisms is one of the functions of a biofilm.
+
+V-shaped plastic bags are commonly used in closed systems of algae cultivation for several reasons. These bags are made from high-density polyethylene (HDPE) and are designed to hold algae cultures in a closed environment, providing an ideal environment for algae growth. V-shaped plastic bags are effective for growing a variety of algae species, including Chlorella , Spirulina , and Nannochloropsis . The growth rate and biomass yield of Chlorella vulgaris in V-shaped plastic bags was found to be higher than any other shaped plastic bags. Different designs of plastic bags based PBR is developed from sealing the plastic bags at different places that generated, flat bottom hanging plastic bags, V-shaped hanging plastic bags, horizontally laying plastic bags that serves kind of flat PBR system, etc. Many plastic bag-based designs are proposed but few are utilized on commercial scale due to their productivities. Operation of plastic bags is tedious as they need to be replaced after every use to maintain the sterility, which is a laborious task for large scale facility.
+
+Algae can be harvested using microscreens, by centrifugation , by flocculation and by froth flotation .
+
+Interrupting the carbon dioxide supply can cause algae to flocculate on its own, which is called "autoflocculation".
+
+" Chitosan ", a commercial flocculant , more commonly used for water purification, is far more expensive. The powdered shells of crustaceans are processed to acquire chitin , a polysaccharide found in the shells, from which chitosan is derived via deacetylation . Water that is more brackish , or saline requires larger amounts of flocculant. Flocculation is often too expensive for large operations.
+
+Alum and ferric chloride are used as chemical flocculants.
+
+In froth flotation, the cultivator aerates the water into a froth, and then skims the algae from the top.
+
+Ultrasound and other harvesting methods are currently under development.
+
+Algae oils have a variety of commercial and industrial uses, and are extracted through a  variety of methods. Estimates of the cost to extract oil from microalgae vary, but are likely to be around three times higher than that of extracting palm oil .
+
+In the first step of extraction, the oil must be separated from the rest of the algae. The simplest method is mechanical crushing . When algae is dried it retains its oil content, which then can be "pressed" out with an oil press . Different strains of algae warrant different methods of oil pressing, including the use of screw, expeller and piston. Many commercial manufacturers of vegetable oil use a combination of mechanical pressing and chemical solvents in extracting oil. This use is often also adopted for algal oil extraction.
+
+Osmotic shock is a sudden reduction in osmotic pressure , this can cause cells in a solution to rupture. Osmotic shock is sometimes used to release cellular components, such as oil.
+
+Ultrasonic extraction, a branch of sonochemistry , can greatly accelerate extraction processes. Using an ultrasonic reactor, ultrasonic waves are used to create cavitation bubbles in a solvent material.  When these bubbles collapse near the cell walls, the resulting shock waves and liquid jets cause those cells walls to break and release their contents into a solvent. Ultrasonication can enhance basic enzymatic extraction.
+
+Chemical solvents are often used in the extraction of the oils.  The downside to using solvents for oil extraction are the dangers involved in working with the chemicals. Care must be taken to avoid exposure to vapors and skin contact, either of which can cause serious health damage. Chemical solvents also present an explosion hazard.
+
+A common choice of chemical solvent is hexane , which is widely used in the food industry and is relatively inexpensive. Benzene and ether can also separate oil.  Benzene is classified as a carcinogen .
+
+Another method of chemical solvent extraction is Soxhlet extraction.  In this method, oils from the algae are extracted through repeated washing, or percolation , with an organic solvent such as hexane or petroleum ether , under reflux in a special glassware. The value of this technique is that the solvent is reused for each cycle.
+
+Enzymatic extraction uses enzymes to degrade the cell walls with water acting as the solvent. This makes fractionation of the oil much easier. The costs of this extraction process are estimated to be much greater than hexane extraction.
+
+Supercritical CO 2 can also be used as a solvent.  In this method, CO 2 is liquefied under pressure and heated to the point that it becomes supercritical (having properties of both a liquid and a gas), allowing it to act as a solvent.
+
+Other methods are still being developed, including ones to extract specific types of oils, such as those with a high production of long-chain highly unsaturated fatty acids.
+
+Specific algal strains can be acquired from algal culture collections, with over 500 culture collections registered with the World Federation for Culture Collections.

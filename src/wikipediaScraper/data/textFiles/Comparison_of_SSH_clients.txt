@@ -1,0 +1,7 @@
+An SSH client is a software program which uses the secure shell protocol to connect to a remote computer . This article compares a selection of notable clients.
+
+The operating systems or virtual machines the SSH clients are designed to run on without emulation include several possibilities:
+
+The list is not exhaustive, but rather reflects the most common platforms today.
+
+This table lists standard authentication key algorithms implemented by SSH clients. Some SSH implementations include both server and client implementations and support custom non-standard authentication algorithms not listed in this table.

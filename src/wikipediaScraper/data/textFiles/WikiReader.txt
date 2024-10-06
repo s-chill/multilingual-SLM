@@ -1,0 +1,11 @@
+WikiReader was a project to deliver an offline , text-only version of Wikipedia on a mobile device . The project was sponsored by Openmoko and made by Pandigital , and its source code has been released.
+
+The project debuted an offline portable reader for Wikipedia in October 2009. Updates in multiple languages were available online and a twice-yearly offline update service delivered via Micro SD card was also available at a cost of $29 per year. WikiReader versions of the English Wikipedia , Wikiquote , Wiktionary and Project Gutenberg can be installed together on a user-supplied 16 GB Micro SDHC memory card . Unlike Wikipedia itself, the device features parental controls .
+
+The device can also run programs written in the Forth programming language; a simple calculator program is included.
+
+In late 2014, the WikiReader website and project itself were abandoned, following Pandigital going out of business.
+
+The last official WikiReader image was released in 2011, however unofficial images are still being produced by a Reddit community centered around the WikiReader.
+
+Images can still be generated based on the latest English Wikipedia using the officially released tools.

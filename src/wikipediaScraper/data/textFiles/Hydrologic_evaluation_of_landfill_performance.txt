@@ -1,0 +1,1 @@
+The Hydrologic Evaluation of Landfill Performance ( HELP ) model is a quasi-two-dimensional hydrologic numerical model for conducting water balance analysis of landfills , cover systems, and other solid waste containment facilities; it was developed for the United States Environmental Protection Agency .

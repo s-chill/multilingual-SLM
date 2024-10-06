@@ -1,0 +1,11 @@
+NESSIE ( New European Schemes for Signatures, Integrity and Encryption ) was a European research project funded from 2000 to 2003 to identify secure cryptographic primitives . The project was comparable to the NIST AES process and the Japanese Government-sponsored CRYPTREC project, but with notable differences from both. In particular, there is both overlap and disagreement between the selections and recommendations from NESSIE and CRYPTREC (as of the August 2003 draft report). The NESSIE participants include some of the foremost active cryptographers in the world, as does the CRYPTREC project.
+
+NESSIE was intended to identify and evaluate quality cryptographic designs in several categories, and to that end issued a public call for submissions in March 2000. Forty-two were received, and in February 2003 twelve of the submissions were selected. In addition, five algorithms already publicly known, but not explicitly submitted to the project, were chosen as "selectees". The project has publicly announced that "no weaknesses were found in the selected designs".
+
+The selected algorithms and their submitters or developers are listed below. The five already publicly known, but not formally submitted to the project, are marked with a "*". Most may be used by anyone for any purpose without needing to seek a patent license from anyone; a license agreement is needed for those marked with a "#", but the licensors of those have committed to "reasonable non-discriminatory license terms for all interested", according to a NESSIE project press release.
+
+None of the six stream ciphers submitted to NESSIE were selected because every one fell to cryptanalysis .  This surprising result led to the eSTREAM project.
+
+Entrants that did not get past the first stage of the contest include Noekeon , Q , Nimbus , NUSH , Grand Cru , Anubis , Hierocrypt , SC2000 , and LILI-128 .
+
+The contractors and their representatives in the project were:

@@ -1,0 +1,95 @@
+Netpbm (formerly Pbmplus) is an open-source package of graphics programs and a programming library. It is used mainly in the Unix world, where one can find it included in all major open-source operating system distributions, but also works on Microsoft Windows , macOS , and other operating systems.
+
+Several graphics formats are used and defined by the Netpbm project:
+
+are image file formats designed to be easily exchanged between platforms. They are also sometimes referred to collectively as the portable anymap format ( PNM ), not to be confused with the related portable arbitrary map format (PAM). The "magic number" (Px) at the beginning of a file determines the type, not the file extension, although it is best practice to use the correct extension if possible.
+
+The PBM format was invented by Jef Poskanzer in the 1980s as a format that allowed monochrome bitmaps to be transmitted within an email message as plain ASCII text, allowing it to survive any changes in text formatting. Poskanzer developed the first library of tools to handle the PBM format, Pbmplus, released in 1988. It mainly contained tools to convert between PBM and other graphics formats. By the end of 1988, Poskanzer had developed the PGM and PPM formats along with their associated tools and added them to Pbmplus. The final release of Pbmplus was December 10, 1991.
+
+In 1993, the Netpbm library was developed to replace the unmaintained Pbmplus. It was simply a repackaging of Pbmplus with additions and fixes submitted by people all over the world.
+
+Each file starts with a two-byte magic number (in ASCII) that identifies the type of file it is (PBM, PGM, and PPM) and its encoding ( ASCII /"plain" or binary/"raw"). The magic number is a capital P followed by a single-digit number.
+
+A value of P7 refers to the PAM file format that is covered as well by the netpbm library.
+
+The ASCII ("plain") formats allow for human readability and easy transfer to other platforms; the binary ("raw") formats are easier to parse by programs and more efficient in file size.
+
+In the binary formats, PBM uses 1 bit per pixel, PGM uses 8 or 16 bits per pixel, and PPM uses 24 or 48 bits per pixel: 8/16 for red, 8/16 for green, 8/16 for blue. Application support for the 16 bit variants is still rare.
+
+PGM and PPM documentation defines that gray and color values use the BT.709 color space and gamma transfer function. However, depending on the application, the used color space may be sRGB , linear or some other color space . There is no metadata in the file to indicate which color space is being used.
+
+A simple example of the PBM format is as follows. (Not shown are the newline character(s) at the end of each line.):
+
+The string P1 identifies the file format. The number sign introduces a comment. The next two numbers give the width and the height. Then follows the matrix with the pixel values (in the monochrome case here, only zeros and ones).
+
+It is not required that pixels are nicely lined up, the format ignores whitespaces and linefeeds in the data section, although it's recommended that no line is longer than 76 characters. The following displays the same image:
+
+Here is the resulting image:
+
+Here it is again magnified 20 times:
+
+A value of 0 signifies a white pixel, and a 1 signifies a black pixel. This differs from the other formats, where higher values signify brighter pixels.
+
+The P4 binary format of the same image represents each pixel with a single bit. A row is width pixels wide packed to the length of 8 pixels or a byte. The first pixel in a row is the most significant bit. The extra bits used to make the length equal to a byte are ignored. The following formula can be used to calculate the number of required bytes ⌈ width / 8⌉ * height . If we use the example above a ⌈6 / 8⌉ * 10 would be 10 bytes.
+
+The PGM and PPM formats (both ASCII and binary versions) have an additional parameter for the maximum value (numbers of grey between black and white) after the X and Y dimensions and before the actual pixel data. Black is 0 and max value is white. (Not shown are the newline character(s) at the end of each line.)
+
+This is an example of a color RGB image stored in PPM format. (Not shown are the newline character(s) at the end of each line.)
+
+The P6 binary format of the same image represents each color component of each pixel with one byte (thus three bytes per pixel) in the order red, green, then blue. The file is smaller, but the color information is more difficult to read by humans. The header remains in ASCII and the arguments are still separated by a whitespace. The binary image information comes after the header (which ends with a whitespace).
+
+In the binary format, last headerline must be like "255\n", with data immediately following it; any comment added after 255 will be taken as the start of image data, and the image will be skewed to the right (at least when opened by the image-manipulation program GIMP (December 2022)).
+
+The PPM format is not compressed, and thus requires more space and bandwidth than a compressed format would. For example, the above 192×128 PNG ( Portable Network Graphics ) image has a file size of 166 bytes. When converted to a 192×128 PPM image, the file size is 73,848 bytes. Filesize reduction factor 100 or so when converting to png is typical if the image is a line drawing; if the image is a photo, it is best converted to jpeg, which yields a greater filesize reduction.
+
+The PPM format is generally an intermediate format used for image work before converting to a more efficient format, for example the PNG format, without any loss of information in the intermediate step.
+
+The image shown above using only 0 or the maximal value for the r ed- g reen- b lue channels can be also encoded as:
+
+White space including line ends and comment lines is syntactically equivalent to a single space within the PNM headers. For the plain formats P1...P3 this also affects the pixmap lines; in fact lines should be limited to 70 characters:
+
+The original definition of the PGM and the PPM binary formats (the P5 and P6 formats) did not allow bit depths greater than 8 bits. While the ASCII format can accommodate greater bit depths, it increases file size and thus slows read and write operations. Accordingly, many programmers extended the format to allow higher bit depths. Using higher bit depths encounters the problem of having to decide on the endianness of the file. The various implementations did not agree on which byte order to use, and some connected the 16-bit endianness to the pixel packing order. The current documentation of PGM and PPM says that the most significant byte is first and the Netpbm implementation also uses the big-endian byte order.
+
+The PFM (Portable Floatmap) is the unofficial four byte IEEE 754 single precision floating point extension.
+
+After the header the file proceeds with floating point numbers for each pixel, specified in left-to-right, bottom-to-top order. Some programs suggest PF4 as an additional extension for the RGBA format.
+
+PFM is supported by the programs Photoshop , GIMP , and ImageMagick . It is supported by the de facto reference implementation netpbm.
+
+The Netpbm package contains over 350 programs, most of which have "pbm", "pgm", "ppm", "pam", or "pnm" in their names. For example, one might use pamscale to shrink an image by 10%, pamcomp to overlay one image on top of another, pbmtext to create an image of text, or reduce the number of colors in an image with pnmquant .
+
+The programs are designed to be minimal building blocks that can be used in various combinations to do other things.  The Netpbm package can, for example, use two successive conversion programs to turn a color picture in the GIF format into a .bmp file:
+
+This is more commonly done as a pipeline , to save execution time and to avoid leaving a temporary somepic.ppm file around:
+
+The Netpbm programs are frequently used as intermediates to convert between obscure formats. For instance, there may be no tool to convert an X11 window dump ( XWD format) directly to a Macintosh PICT file, but one can do this by running xwdtopnm , then ppmtopict . (Tools which say that they output PNM output either PBM, PGM, or PPM. Tools importing PNM will read any of the three formats.) As a more complex example, Netpbm tools can convert 48×48 XBM to Ikon and eventually X-Face .
+
+The PBM (black and white) format was invented by Jef Poskanzer in the mid-1980s.  At the time, there was no standard, reliable way to send binary files in email, and attempting to send anything other than 7-bit ASCII in email often resulted in data corruption .  PBM was designed to allow images to be sent via email without being corrupted.  Poskanzer released the forerunner of Netpbm, called Pbmplus in 1988.  By the end of 1988, Poskanzer had developed the PGM (greyscale) and PPM (color) formats and released them with Pbmplus.
+
+The last release of Pbmplus was on December 10, 1991. Poskanzer never released any further updates, and in 1993, Netpbm was developed to replace it. At first, it was nothing more than a renamed release of Pbmplus, but updates continued to occur until 1995 when the package again became abandoned. In 1999, the Netpbm package was picked up by its present maintainer, Bryan Henderson.
+
+In 2000, PAM was added to the file formats of the Netpbm library allowing an alpha channel.
+
+The name Netpbm came from the program developers collaborating over the Internet , which was notable at the time; the NetBSD operating system and NetHack game got their names similarly. (Unlike with the later, more widespread Portable Network Graphics (PNG) format, the "net" in the name is not actually in reference to the image itself being optimized for transfer over a network.)
+
+Portable Arbitrary Map ( PAM ) is an extension of the older binary P4...P6 graphics formats , introduced with netpbm version 9.7 (August 2000). PAM generalises all features of PBM, PGM, and PPM, and provides for extensions. PAM defines two new attributes; depth and tuple type:
+
+PAM is supported by XnView and FFmpeg . As specified the TUPLTYPE is optional; however, FFmpeg requires it.
+
+The header for the PAM file format begins with P7, and (unlike in the other formats) ends in an explicit close: "ENDHDR" followed by a whitespace. Line ends in a PAM header are significant; for PNM, line ends are whitespace.
+
+There is no plain (human-readable, ASCII -based) version of PAM. PAM files are always binary, and attempts to use the switch -plain with Netpbm programs that produce PAM output results in an error message.
+
+For the black-and-white version of PAM (depth 1, tuple type BLACKANDWHITE), corresponding to PBM, PAM uses one byte per pixel, instead of PBM's use of one bit per pixel (packing eight pixels in one byte). Also, the value 1 in such a PAM image stands for white ("light on"), as opposed to black in PBM ("ink on").
+
+All of the basic tuple types (BLACKANDWHITE, GRAYSCALE, and RGB) have a variant with an opacity channel .  The tuple type is created by appending "_ALPHA" as a suffix to the base tuple type.
+
+For example, an image with a tuple type of GRAYSCALE is equivalent to PGM (portable graymap). GRAYSCALE_ALPHA with transparency is not directly possible in PGM. The specification permits MAXVAL 1 for GRAYSCALE, but it would have the same effect as BLACKANDWHITE.
+
+An example in the BMP article shows an RGBA image with 4×2=8 blue, green, red, and white pixels; half transparent (0x7F) in the first lower row, opaque (0xFF) in the second upper row; hex. FF00007F 00FF007F 0000FF7F FFFFFF7F FF0000FF 00FF00FF 0000FFFF FFFFFFFF in BGRA order. For PAM, this bitmap has to be given in RGBA order, swapping the 1st and 3rd byte in each pixel. BMP rows are typically arranged bottom-up, for PAM and PNM rows are given top-down (i.e. for this example 0000FFFF 00FF00FF FF0000FF FFFFFFFF 0000FF7F 00FF007F FF00007F FFFFFF7F ). The PAM header for this example could be:
+
+PAM's tuple-type mechanism allows for many extensions.  In theory, PAM can be extended to represent color models such as CMYK.
+
+The format is not even limited to graphics, its definition allows it to be used for arbitrary three-dimensional matrices of unsigned integers.  Some programs of the Netpbm package, for example pamsummcol , function as crude matrix arithmetic processors and use the PAM format this way.
+
+Netpbm consists of hundreds of different tools, each offered with a public copyright license of its own. An analysis by Debian developer Steve McIntyre from 2001 suggests mostly free software licenses, one non-commercial license (non-free) and a dozen without any license offered (thus also non-free). As mentioned in the analysis, it obviously doesn't cover changes since.

@@ -1,0 +1,17 @@
+Aurora (formerly Eeebuntu ) is a discontinued operating system for netbooks . The latest version is based on Ubuntu , though newer versions were planned to be based on Debian Unstable. Eeebuntu was designed originally for the Asus Eee PC line of netbooks.
+
+Four versions are available for installation: Standard, NBR (standard with Ubuntu Netbook Edition ), Base and LXDE .
+
+Eeebuntu was created in December 2007 by Steve Wood. At that time, Eeebuntu was little more than a collection of scripts applied to a live Ubuntu image.  As the project matured, the post-install scripts were dropped in favour of a modified kernel that contained pre-compiled hardware drivers.
+
+Other developers took interest in the project, and by December 2008, Eeebuntu had grown into a Linux distribution in its own right, with around 1,300 registered forum users. Eeebuntu 2.0 was the first Eeebuntu version to completely remove Ubuntu branding and use its own artwork and themes.
+
+With the expanded interest in Eeebuntu as a distro for numerous netbooks (beyond its namesake Asus Eee PCs), support was expanded to multiple netbooks with new kernel changes and drivers.
+
+In 2008, other notable members of the leadership joined the project.  Such members include Paul McDonough, who was responsible for the kernel patching, packaging, design, and promotion of Eeebuntu, thereby allowing Steve and other contributors to focus on development of new capabilities. Work was done alongside other notable distributions at the time, such as elementary OS , to share FOSS code and provide improvements such as optimised versions of the Nautilus file manager and other applications in the base system of Eeebuntu 3.0.
+
+Eeebuntu has 4 versions:
+
+The 3.0 release of Eeebuntu is based on Ubuntu 9.04. It addresses a number of issues with the integrated Intel graphics cards and provides Eee PC specific optimization.
+
+Major changes to the approach of Eeebuntu's release saw rapid adoption with over 800,000 downloads and resulted in this version being awarded the Sourceforge Community Choice award for best new project in 2009.

@@ -1,0 +1,21 @@
+A variable-frequency transformer ( VFT ) is used to transmit electricity between two ( asynchronous or synchronous) alternating current frequency domains. The VFT is a relatively recent development. Most asynchronous grid inter-ties use high-voltage direct current converters, while synchronous grid inter-ties are connected by lines and "ordinary" transformers , but without the ability to control power flow between the systems, or with phase-shifting transformer with some flow control.
+
+It can be thought of as a very high power synchro , or a rotary converter acting as a frequency changer , which is more efficient than a motor–generator of the same rating.
+
+A variable-frequency transformer is a doubly fed electric machine resembling a vertical shaft hydroelectric generator with a three-phase wound rotor , connected by slip rings to one external power circuit. The stator is connected to the other. With no applied torque, the shaft rotates due to the difference in frequency between the networks connected to the rotor and stator. A direct-current torque motor is mounted on the same shaft; changing the direction of torque applied to the shaft changes the direction of power flow.
+
+The variable-frequency transformer behaves as a continuously adjustable phase-shifting transformer . It allows control of the power flow between two networks. Unlike power electronics solutions such as back-to-back HVDC , the variable frequency transformer does not demand harmonic filters and reactive power compensation. Limitations of the concept are the current-carrying capacity of the slip rings for the rotor winding.
+
+Five small variable-frequency transformer with a total power rate of 25 MVA were in use at Neuhof Substation , Bad Sachsa, Germany for coupling power grids of former East and West Germany between 1985 and 1990.
+
+Langlois Substation in Québec , Canada ( 45°17′13.76″N 74°0′56.07″W ﻿ / ﻿ 45.2871556°N 74.0155750°W ﻿ / 45.2871556; -74.0155750 ) installed a 100 MW variable-frequency transformer in 2004 to connect the asynchronous grids in Québec and the northeastern United States . This was the first large scale, commercial variable frequency transformer, and was installed at Hydro-Québec Langlois substation and is located electrically near sixteen hydro generators at Les Cèdres, Quebec and thirty-six more hydro generators at Beauharnois, Quebec . The operating experience since April 2004 has demonstrated the VFT's inherent compatibility with the nearby generators
+
+AEP Texas installed a 100 MW VFT substation in Laredo , Texas, United States ( 27°34′13.64″N 99°30′34.98″W ﻿ / ﻿ 27.5704556°N 99.5097167°W ﻿ / 27.5704556; -99.5097167 ) in early 2007. It connects the power systems of ERCOT (in the United States) to CFE (in Mexico). (See The Laredo VFT Project .)
+
+Smaller VFTs are used in large land-based wind turbines , so that the turbine rotation speed can vary while connected to an electric power distribution grid .
+
+General Electric installed a 3 × 100 MW VFT substation in Linden, New Jersey , in the United States in 2009. It connects the power systems of PJM & New York Independent System Operator (NYISO). This installation is in parallel with three existing phase-shifting transformers to regulate synchronous power flow.
+
+VFTs provide the technical feasibility to flow power in both directions between two grids, permitting power exchanges that were previously impossible. Energy in a grid with lower costs can be transmitted to a grid with higher costs (higher demand), with energy trading. Power capacity is sold by providers. Transmission scheduling rights (TSRs) are auctioned by the transmission line owners.
+
+Financial transmission rights (FTRs) are a financial instrument used to balance energy congestion and demand costs.

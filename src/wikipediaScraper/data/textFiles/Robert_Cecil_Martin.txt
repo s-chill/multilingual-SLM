@@ -1,0 +1,13 @@
+Robert Cecil Martin (born 5 December 1952), colloquially called "Uncle Bob", is an American software engineer , instructor, and author. He is most recognized for promoting many software design principles and for being an author and signatory of the influential Agile Manifesto .
+
+Martin has authored many books and magazine articles. He was the editor-in-chief of C++ Report magazine and served as the first chairman of the Agile Alliance.
+
+Martin joined the software industry at age 17 and is self-taught.
+
+In 1991, Martin founded Object Mentor, now defunct, which provided instructor-led training on the extreme programming methodology. As of November 2023 , he operated Uncle Bob Consulting, which provides consulting and training services. He serves as Master Craftsman / Mentor at Clean Coders, a company run by his son Micah Martin, and produces training videos.
+
+Martin is a proponent of software craftsmanship , agile software development , and test-driven development .
+
+He is credited with introducing the collection of object-oriented programming (OOP) design principles that came to be known as SOLID .
+
+Notable guests of his video channel include Grady Booch and Ward Cunningham

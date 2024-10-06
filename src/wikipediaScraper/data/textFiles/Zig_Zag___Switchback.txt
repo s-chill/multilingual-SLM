@@ -1,0 +1,11 @@
+A railway zig zag or switchback is a railway operation in which a train is required to switch its direction of travel in order to continue its journey. While this may be required purely from an operations standpoint, it is also ideal for climbing steep gradients with minimal need for tunnels and heavy earthworks. For a short distance (corresponding to the middle leg of the letter "Z"), the direction of travel is reversed, before the original direction is resumed. Some switchbacks do not come in pairs, and the train may then need to travel backwards for a considerable distance.
+
+A location on railways constructed by using a zig-zag alignment at which trains must reverse direction to continue is a reversing station .
+
+One of the best examples is the Darjeeling Himalayan Railway , a UNESCO World Heritage Site railway in India, which has six full zig zags and three spirals .
+
+Zig zags tend to be cheaper to construct because the grades required are discontinuous. Civil engineers can generally find a series of shorter segments going back and forth up the side of a hill more easily and with less grading than they can a continuous grade, which must contend with the larger scale geography of the hills to be surmounted.
+
+Zig zags suffer from a number of limitations:
+
+If the wagons in a freight train are marshaled poorly, with a light vehicle located between heavier ones (particularly with buffer couplings ), the move on the middle road of a zig zag can cause derailment of the light wagon.

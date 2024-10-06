@@ -1,0 +1,56 @@
+A solar car is a solar vehicle for use on public roads or race tracks. Solar vehicles are electric vehicles that use self-contained solar cells to provide full or partial power to the vehicle via sunlight. Solar vehicles typically contain a rechargeable battery to help regulate and store the energy from the solar cells and from regenerative braking . Some solar cars can be plugged into external power sources to supplement the power of sunlight used to charge their battery.
+
+Solar cars combine technology typically used in the aerospace , bicycle , alternative energy and automotive industries. The design of solar vehicles always emphasizes energy efficiency to make maximum use of the limited amount of energy they can receive from sunlight. Most solar cars have been built for the purpose of solar car races . However several prototypes of solar cars designed for use on public roads have been designed and built.
+
+There are various solar car competitions around the world that are generally partaken by collegiate and company teams. The most notable competitions is the World Solar Challenge , which is an international competition that takes place in Australia. Some other competitions include the American Solar Challenge and the United Solar Challenge.
+
+As of December 2022, only one solar car had reached production, the Lightyear 0 , but at the limited delivery rate of one car a week. In January 2023 the company halted vehicle manufacture and sales, and the vehicle maker's production company, Atlas Technologies B.V., requested bankruptcy protection.
+
+The Aptera 's production is expected to start in  2024.
+
+Solar cars depend on a solar array that uses photovoltaic cells (PV cells) to convert sunlight into electricity. Unlike solar thermal energy which converts solar energy to heat, PV cells directly convert sunlight into electricity. When sunlight (photons) strike PV cells, they excite electrons and allow them to flow, creating an electric current. PV cells are made of semiconductor materials such as silicon and alloys of indium, gallium and nitrogen. Crystalline silicon is the most common material used and has an efficiency rate of 15–25%.
+
+The first model solar car invented was a tiny 15-inch vehicle created by General Motors employee, William G. Cobb. Designated the Sunmobile , he displayed it in 1955 at the Chicago, Powerama convention. It was made up of 12 selenium photovoltaic cells and a small electric motor.
+
+In 1962 the International Rectifier Company added a solar panel to a 1912 Baker Electric, and unveiled the first solar car that could carry passengers.
+
+The solar array consists of hundreds of solar cells converting sunlight into electricity. In order to construct an array, PV cells are placed together to form modules which are placed together to form an array. The larger arrays in use can produce over 2 kilowatts (2.6 hp).
+
+The solar array can be mounted in six ways:
+
+The choice of solar array geometry involves an optimization between power output, aerodynamic resistance and vehicle mass, as well as practical considerations. For example, a free horizontal canopy gives 2-3 times the surface area of a vehicle with integrated cells but offers better cooling of the cells and shading of the riders. There are also thin flexible solar arrays in development.
+
+Solar arrays on solar cars are mounted and encapsulated very differently from stationary solar arrays. Solar arrays on solar cars are usually mounted using industrial grade double-sided adhesive tape right onto the car's body. The arrays are encapsulated using thin layers of Tedlar.
+
+Some solar cars use gallium arsenide solar cells, with efficiencies around thirty percent. Other solar cars use silicon solar cells, with efficiencies around twenty percent.
+
+The battery pack in a typical solar car is sufficient to allow the car to go 250 miles (400 km) without sun, and allow the car to continuously travel at speeds of 60 mph (97 km/h).
+
+The motors used in solar cars typically generate about 2 or 3 horsepower, yet experimental light solar cars may attain the same speed as a typical family car (100 mph (160 km/h)).
+
+Two solar car races are the World Solar Challenge and the American Solar Challenge, overland road rally-style competitions contested by a variety of university and corporate teams.
+
+The World Solar Challenge features a field of competitors from around the world who race to cross the Australian continent , over a distance of 3,000 kilometres (1,900 mi). Speeds of the vehicles have steadily increased. For example, the high speeds of 2005 race participants led to the rules being changed for solar cars starting in the 2007 race and 2014 also.
+
+The American Solar Challenge , previously known as the 'North American Solar Challenge' and 'Sunrayce USA', features mostly collegiate teams racing in timed intervals in the United States and Canada. This race also changed rules for the most recent race due to teams reaching the regulated speed limits. The most recent American Solar Challenge took place from Independence , Missouri to Twin Falls , Idaho from July 9 to July 16, 2022.
+
+The Dell-Winston School Solar Car Challenge is an annual solar-powered car race for high school students. The event attracts teams from around the world, but mostly from American high schools. The race was first held in 1995. Each event is the end product of a two-year education cycle launched by the Winston Solar Car Team. In odd-numbered years, the race is a road course that starts at the Dell Diamond in Round Rock, Texas; the end of the course varies from year to year. In even-numbered years, the race is a track race around the Texas Motor Speedway. Dell has sponsored the event since 2002.
+
+The South African Solar Challenge is a bi-annual two-week race of solar-powered cars through the length and breadth of South Africa. Teams will have to build their own cars, design their own engineering systems and race those same machines through the most demanding terrain that solar cars have ever seen. The 2008 race proved that this event can attract the interest of the public, and that it has the necessary international backing from the FIA. Late in September, all entrants will take off from Pretoria and make their way to Cape Town via the N1, then drive along the coast to Durban, before climbing the escarpment on their way back to the finish line in Pretoria 10 days later. In 2008 the event was endorsed by International Solarcar Federation (ISF), Fédération Internationale de l'Automobile (FIA), World Wildlife Fund (WWF) making it the first Solar Race to receive endorsement from these 3 organizations.
+
+There are other distance races, such as Suzuka , Phaethon , WGC (WSR/JISFC/WSBR) and the World Solar Rally in Taiwan . Suzuka and WGC is a yearly track race in Japan and Phaethon was part of the Cultural Olympiad in Greece right before the 2004 Olympics .
+
+Guinness World Records recognize a land speed record for vehicles powered only by solar panels. This record is currently held by the Sky Ace TIGA from the Ashiya University . The record of 91.332 km/h (56.75 mph) was set on 20 August 2014 at the Shimojishima Airport , in Miyakojima , Okinawa , Japan. The previous record was held by the University of New South Wales with the car Sunswift IV . Its 25-kilogram (55 lb) battery was removed so the vehicle was powered only by its solar panels. The record of 88.8 km/h (55.2 mph) was set on 7 January 2011 at the naval air base HMAS Albatross in Nowra , breaking the record previously held by the General Motors car Sunraycer of 78.3 kilometres per hour (48.7 mph). The record takes place over a flying 500 metres (1,600 ft) stretch, and is the average of two runs in opposite directions.
+
+The first solar family car was built in 2013. Researchers at Case Western Reserve University , have also developed a solar car which can recharge more quickly, due to materials used in the solar panels.
+
+Chinese solar panel manufacturer Hanergy plans to build and sell solar cars equipped with lithium-ion batteries to consumers in China. Hanergy says that five to six hours of sunlight should allow the cars' thin-film solar cells to generate 8–10 kWh of energy a day, allowing the car to travel about 80 km (50 mi) on solar power alone. Maximum range is about 350 km (217 mi).
+
+In June 2019 the solar-electric Lightyear One was announced, since renamed the Lightyear 0 . Designed by former engineers from Tesla and Ferrari , the car's hood and roof are composed of solar panels. The vehicle also charges on regular electric power as well as fast-charging stations. In September 2021, the company Lightyear was reported to have raised enough money to bring the vehicle to limited production, at a cost of €149,000, delivering the first units in 2022.
+
+In August 2019, Aptera Motors announced a funding campaign for a solar-powered, very efficient "Never Charge" EV, the Aptera , with up to a 1000-mile range. That funding campaign was successful and the first Aptera prototype was shown and the EV launched on December 4, 2020. As of July 2023, three generations of prototypes have been built and shown, production equipment and tooling is being acquired and fundraising continues.
+
+In July 2020, the German car manufacturer Audi signed an MOU with an Israeli start-up Apollo-Power for development plan to incorporate the company proprietary lightweight flexible panels into Car parts.
+Apollo-Power's Agenda is to turn every car in the world to become Solar.
+
+In 2019 the Squad Solar City Car by Squad Mobility was announced and in May 2022 it was finally presented in the Media. The Squad Solar City Car is the first Solar Micro Car for (sub)urban use.

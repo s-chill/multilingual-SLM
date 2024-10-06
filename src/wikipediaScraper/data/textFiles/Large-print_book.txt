@@ -1,0 +1,32 @@
+Large-print (also large-type or large-font ) refers to the formatting of a book or other text document in which the typeface (or font ) are considerably larger than usual to accommodate people who have low vision . Frequently the medium is also increased in size to accommodate the larger text.  Special-needs libraries and many public libraries will stock large-print versions of books, along with versions written in Braille .
+
+The font size for large print is typically at least 18 points in size, equivalent to 24px for a web CSS font size. Different sizes are made to suit different visual needs, with a common rule of thumb to be at least twice the minimum acuity size.
+
+The American National Association for Visually Handicapped (NAVH) provides the NAVH Seal of Approval to commercial publishers in the US, for books
+that meet their large print standards. ( Lighthouse International acquired NAVH in 2010.)
+
+The standards call for:
+
+The American Printing House for the Blind defines font sizes as:
+
+In addition to enlarging type size, page layout and font characteristics can have a positive effect on readability. Fonts designed for legibility make it easier to distinguish one character from another. Some characteristics of such fonts are:
+
+Here are the primary things to think about when selecting a font for use by persons with low vision:
+
+Examples of more-easily read fonts are Antique Olive , Tahoma, Tiresias , and Verdana .
+
+Companies offering the large-print formatting uses diverse formats (also called ratios) to support the larger font size . Among these ratios, we find:
+
+Among the first large print book publishers, the Clear Type Publishing Company published a collection of books in 36 point type, c. 1910 . The Ohio-based company specialized in large print, publishing books in 36pt and 24pt.
+
+In 1914 Robert Irwin produced a series of textbooks in 36 point, for low-vision children in Cleveland, Ohio schools. This type proved to be too large and was soon abandoned for the more popular 24 point. Research sponsored by Irwin in 1919 indicated 24 point type to be the most readable of the sizes evaluated. Further research by others in 1952 and 1959 supported 18 point or 24 point type.
+
+In the UK in 1964, Frederick Thorpe began publishing standard print titles with type approximately twice the size of the original printing. The books were given plain dust jackets, color-coded to indicate categories like mysteries (black), general fiction (red), romances (blue), Westerns (orange), etc. These physically large editions were reported to be difficult for some readers to handle.
+
+In 1969, Thorpe's company, Ulverscroft, began producing the books in 16 point type and normal-sized bindings, which the company claims increased the acceptance of large print in public libraries. 16 point type is smaller than the minimum recommended by the American Council of the Blind, which recommends 20 point, with 18 point as a suggested minimum.
+
+In 2008 the W3.org released the WCAG 2.0 web accessibility standards, which define large text as 18pt, which is 24px in CSS. Further, the standard specifies that users must be able to increase the font size 200% without breaking content.
+
+Today large print editions of some current books are published simultaneously with regular print editions by their publishers and usually feature the same full-color jackets and jacket design. Public libraries often have large print sections, and many bookstores carry some large print editions.
+
+Since 2005, some companies have begun offering a variety of font sizes for large print books.

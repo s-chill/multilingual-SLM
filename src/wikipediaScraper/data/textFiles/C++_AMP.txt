@@ -1,0 +1,16 @@
+C++ Accelerated Massive Parallelism ( C++ AMP ) is a native programming model that contains elements that span the C++ programming language and its runtime library . It provides an easy way to write programs that compile and execute on data-parallel hardware, such as graphics cards ( GPUs ).
+
+Beginning with Visual Studio 2022 (version 17.0), C++ AMP is declared as deprecated, indicating its end of support beyond Visual Studio 2022.
+
+C++ AMP is a library implemented on DirectX 11 and an open specification from Microsoft for implementing data parallelism directly in C++. It is intended to make programming GPUs easy for the developer by supporting a range of expertise from none (in which case the system does its best) to being more finely controllable, but still portable. In Microsoft's implementation, code that cannot be run on GPUs will fall back onto one or more CPUs instead and use SSE instructions. The Microsoft implementation is included in Visual Studio 2012, including debugger and profiler support.
+
+The initial C++ AMP release from Microsoft requires at least Windows 7 or Windows Server 2008 R2. As C++ AMP is an open specification it is expected that in time implementations outside Microsoft will appear; one early example of this is Shevlin Park, Intel's experimental implementation of C++ AMP on Clang/LLVM and OpenCL.
+
+On November 12, 2013 the HSA Foundation announced a C++ AMP compiler that outputs to OpenCL , Standard Portable Intermediate Representation (SPIR), and HSA Intermediate Language (HSAIL) supporting the current C++ AMP specification. The source is available at https://github.com/RadeonOpenCompute/hcc .  C++ AMP support is considered obsolete and the current ROCm 1.9 series will be the last to support it.
+
+The basic concepts behind C++AMP, like using C++ classes to express parallel and heterogeneous programming features, have been inspirational to the SYCL standard.
+
+Microsoft added the restrict(amp) feature, which can be applied to any function (including lambdas) to declare that the function can be executed on a C++ AMP accelerator. The compiler will automatically generate a compute kernel , saving the boilerplate of management and having to use a separate language. The restrict keyword instructs the compiler to statically check that the function uses only those language features that are supported by most GPUs, for example, void myFunc() restrict(amp) {…} Microsoft or other implementer of the open C++ AMP specification could add other restrict specifiers for other purposes, including for purposes that are unrelated to C++ AMP.
+
+Beyond the new language feature, the rest of C++ AMP is available through the <amp.h> header file in the concurrency namespace. The key C++ AMP classes are: array (container for data on an accelerator), array_view (wrapper for data), index (N-dimensional point), extent (N-dimensional size), accelerator (computational resource, such as a GPU, on which to allocate memory and execute), and accelerator_view (view of an accelerator).
+There is also a global function, parallel_for_each , which you use to write a C++ AMP parallel loop.

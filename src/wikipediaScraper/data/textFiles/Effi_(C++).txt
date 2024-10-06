@@ -1,0 +1,11 @@
+Effi is C++ application development framework .
+
+Effi is application development framework . It provides full range of development tools to create web-based C++ software applications with rich Windows -like GUI .
+
+The framework includes declarative language for application description, provides API for XML documents manipulating, facilities for large data lists representation, thread synchronization, localization and data logging. Effi also contains dedicated libraries for interaction with RDBMS as well as for data storage and serialization/restoration etc. - the full list of libraries is below.
+
+Particular Effi components are distributed as free and open source software .
+
+Effi-based applications have web front-end available with the following browsers:
+
+ASoft uses Effi framework for own development. Wide range of products have been created with Effi platform:

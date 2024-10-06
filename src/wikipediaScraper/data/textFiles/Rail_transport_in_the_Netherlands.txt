@@ -1,0 +1,63 @@
+Rail transport in the Netherlands uses a dense railway network which connects nearly all major towns and cities. There are as many train stations as there are municipalities in the Netherlands . The network totals 3,223 route km (2,003 mi) on 6,830 kilometres (4,240 mi) of track; a line may run both ways, or two lines may run (one in each direction) on major routes. Three-quarters of the lines have been electrified .
+
+The Dutch rail network primarily supports passenger transport. Rail travel comprises the majority of the distance travelled on Dutch public transport . The national rail infrastructure is managed and maintained by the government agency ProRail , and a number of operators have concessions to operate their trains. The entire network is standard gauge . The Netherlands is a member of the International Union of Railways (UIC), and its country code is 84.
+
+Most Dutch trains are equipped with Wi-Fi. They offer no onboard catering, except for a limited service on some international trains, due to the short distances involved.
+
+Public-transport authorities in the Netherlands issue concessions for groups of lines:
+
+Foreign railway operators with NS authorization service several Dutch stations:
+
+A common fare system applies nationwide, although operators tend to use separate tariffs. Although most trains have first- and second-class compartiments, Keolis Nederland and (sometimes) Arriva have second-class compartments only. The Netherlands' largest cargo carrier is DB Cargo ; others include ACTS , Crossrail, ERS Railways , Häfen und Güterverkehr Köln , Rail4chem and Veolia Cargo . The network is maintained by the government-owned ProRail , which is responsible for allocating slots to companies.
+
+The Dutch National Railway Company (Nederlandse Spoorwegen/NS) was founded in 1837 and tasked with building the Dutch railway network. The first Dutch railway was built and opened in 1839 on a short stretch between Amsterdam and Haarlem , and was expanded between 1840 and 1847 to The Hague and Rotterdam . Originally built with a broad gauge of 1,945 mm ( 6 ft 4 + 9 ⁄ 16 in ), it was converted to 1,435 mm ( 4 ft 8 + 1 ⁄ 2 in ) standard gauge in 1866. Further 19th-century expansion connected the rest of the country. Most of the main lines were electrified during the 20th century, beginning with the Hofpleinlijn in 1908. Since 1922, after a government-commission report, a 1.5 kV DC system with an overhead line has been used.
+
+The network focuses on passenger rail and connects nearly all major cities. A few towns still lack a train station, including Nieuwegein , Drachten , Amstelveen , Oosterhout , and Katwijk .
+
+Most freight routes run east-west, connecting the Port of Rotterdam and Koninklijke Hoogovens in IJmuiden with Germany . Freight trains usually share the tracks with passenger trains; the only exception is the Betuweroute , which opened in 2007 as the first freight-only route.
+
+The network is well-developed; no extensions are currently planned, although there is a focus on upgrading efficiency and capacity. Some sections may require an increase in maximum speed to 160 kilometres per hour (99 mph).
+
+Major lines have been built in recent years, including the HSL-Zuid high-speed line, the Betuweroute and the Hanzelijn , connecting the province of Flevoland with the rail hub at Zwolle .
+
+Most of the network is electrified at 1.5 kV DC (which limits interoperability with neighbouring countries), although Belgian trains – built for 3 kV DC – can run on the Dutch network at reduced power. Both the HSL-Zuid and the Betuweroute have been electrified at 25 kV AC ; although conversion of existing electrified lines to 25 kV AC was considered in 1997, 2005 and 2012 at a cost of over €10 billion, a 2015 proposal (revised in 2017) is to convert to 3 kV DC at a 2017 cost of €1 billion. The higher DC voltage would reduce power losses and have faster acceleration above 60 to 70 kilometres per hour (37 to 43 mph), so stopping trains would save seven to 20 seconds per stop.
+
+Speed is generally limited to 130–140 kilometres per hour (81–87 mph), but on most secondary lines the maximum speed is significantly lower. On the HSL-Zuid line, the maximum speed is 300 kilometres per hour (190 mph). Newer lines have been built to permit higher speeds.
+
+Trains are frequent, with one or two trains per hour on lesser lines, two to four trains per hour on rural sections and up to eight or 10 trains per hour in cities. There are two types of trains: stoptreinen (local trains, which Dutch Railways calls "sprinters") and InterCities , with faster long-distance service. An intermediate category ( sneltreinen , "fast trains") began being discontinued in 2007, although regional operators continue to use the term. Sneltrein and InterCity service were very similar.
+
+All railways in the Netherlands are 1,435 mm ( 4 ft 8 + 1 ⁄ 2 in ) standard gauge , and they have a total length of 3,061 route kilometers (7,028 track kilometers). In 2001, 2,061 kilometres (1,281 mi) were electrified at 1,500 V DC . Only 931 kilometres (578 mi) is single track . The country has 2,589 level crossings , of which 1,598 are protected. The system has 7,071 switch tracks, 12,036 signals, 725 rail viaducts, 455 rail bridges (of which 56 are movable), and 15 tunnels.
+
+ProRail maintains Dutch rail infrastructure (except metros and trams ), allocating rail capacity, and traffic control. Capacity supplied by ProRail is used by five public-transport operators and the cargo operators DB Schenker , ERS , ACTS and Rail4Chem . There are also small operators such as the seven-carriage Herik Rail , which can be chartered for parties and meetings.
+
+Two stations have a bi-level crossing, rather than a level or double junction requiring protection by signals: Amsterdam Sloterdijk and Duivendrecht. Other Dutch line crossings have grade separations .
+
+The following figure is the timetable number :
+
+Dutch railways have a variety of rolling stock. Intercity trains have a yellow-and-blue colour scheme, and local trains are blue, white and yellow.
+
+The Dutch network has several cross-border sections to Belgium and Germany . Terneuzen is linked to Belgium (freight only), but not to the rest of the Dutch network; Lanaken was at one time connected to Maastricht (also freight only), but not to the Belgian network. Seven cross-border links are electrified. Due to voltage differences, trains must change single-voltage locomotives at Bad Bentheim or Venlo ; Belgian 3 kV trains reach Roosendaal and Maastricht with reduced power under the Dutch 1.5 kV. The HSL Zuid has no voltage change at the border. Multi-system train units or diesel traction are also used. Several border crossings are disused or freight-only, and there are no gauge breaks at any of the crossings.
+
+To Germany, north to south:
+
+To Belgium, east to west:
+
+There are several regional cross-border connections.
+
+NS offers a limited night service (Nachtnet). On weeknights, it is a U-shaped stretch with hourly service connecting Rotterdam Central, Delft , The Hague Hollands Spoor , Leiden Central , Schiphol Airport, Amsterdam Central and Utrecht Central (most of the Randstad 's large cities and the main airport). Due to the U-shaped route, travel time from the first five stations to Utrecht is longer than during the day. Because the relatively-short distance between stations, no sleeping cars are used. During the weekend, night service is extended to Dordrecht and four cities in the province of North Brabant . On Friday and Saturday nights, there is an additional service between Rotterdam and Amsterdam.
+
+A common fare system applies nationwide with NS ticket machines, although individual concessionaires have separate fares. The OV-chipkaart (public-transport card) permits ticket integration and price differentiation. Travellers must be aware of the different operators; for off-peak pass subscribers, a station requiring an operator change may experience delays during peak hours.
+
+Printed paper tickets were discontinued on 9 July 2014. Although ticket machines sell cardboard tickets with an electric chip, there is a €1 surcharge per ticket in addition to the OV-chipkaart fare. The surcharge also applies to tickets sold over the counter. For international journeys, passengers can print a pdf ticket at home, which carries a barcode permitting access to stations,
+
+Passengers without a valid ticket are fined €50 in addition to the base fare, unless a ticket machines is out of order or another exemption applies. The fine must to be paid at once, unless the passenger can provide a valid identification card; in that case, they will receive a collection notice by mail. Travellers from abroad beginning Dutch train journey at Schiphol must purchase a ticket before boarding the train.
+
+Payment can be made with all major credit cards at all ticket vending machines and the website.
+
+Since 2023, one can travel using contactless payments on all Dutch public transport [1] : on all domestic trains, metros, trams and busses, nationwide [2] . Using contactless one travels 2nd class. The price is the same [3] regular / full price as using the anonymous ov-chipcard (see above). You do not need an app or ticket, nor do you have to register or signup to use this. Apple Pay, Google Pay and many contactless debit and credit cards can directly be used [4] .
+
+Off-peak hours are weekdays from midnight to 06:35, 08:55–16:05 and 18:25–24:00 and all day Saturday and Sunday. With a discount pass, the discount is automatically applied based on the type of discount product and the time of check-in. Discounts include free travel.
+
+A Dal Voordeel [ nl ] (off-peak discount pass) provides a 40-percent discount on travel beginning in off-peak hours. Up to four people can receive the discount if they have a public-transport card. A supplemental fare gives riders over age 60 years free off-peak travel seven days per year. Annual off-peak free passes ( Dal Vrij ) and unlimited passes are also available, with some restrictions.
+
+Saba , Sint Eustatius and Bonaire (the Caribbean Netherlands ) have no railways, and there are no railways on Sint Maarten and Curaçao . Local tram service on Aruba began in 2012, built in cooperation with the Haguish tramway company HTM . Its rolling stock consists of one open, non-articulated single-deck tram and two open double-deckers, running on standard-gauge track. Two industrial narrow-gauge rail lines on the island have been removed.

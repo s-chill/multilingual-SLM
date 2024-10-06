@@ -1,0 +1,94 @@
+Packaging is the science , art and technology of enclosing or protecting products for distribution, storage, sale, and use. Packaging also refers to the process of designing, evaluating, and producing packages. Packaging can be described as a coordinated system of preparing goods for transport, warehousing, logistics , sale, and end use. Packaging contains, protects, preserves, transports, informs, and sells. In many countries it is fully integrated into government, business, institutional, industrial, and for personal use.
+
+Package labeling ( American English ) or labelling ( British English ) is any written, electronic, or graphic communication on the package or on a separate but associated label .  Many countries or regions have regulations governing the content of package labels.  Merchandising, branding, and persuasive graphics are not covered in this article.
+
+The first packages used the natural materials available at the time: baskets of reeds, wineskins ( bota bags ), wooden boxes , pottery vases , ceramic amphorae , wooden barrels , woven bags, etc. Processed materials were used to form packages as they were developed:  first glass and bronze vessels.  The study of old packages is an essential aspect of archaeology .
+
+The first usage of paper for packaging was sheets of treated mulberry bark used by the Chinese to wrap foods as early as the first or second century BC.
+
+The usage of paper-like material in Europe was when the Romans used low grade and recycled papyrus for the packaging of incense .
+
+The earliest recorded use of paper for packaging dates back to 1035, when a Persian traveller visiting markets in Cairo , Arab Egypt , noted that vegetables, spices and hardware were wrapped in paper for the customers after they were sold.
+
+The use of tinplate for packaging dates back to the 18th century. The manufacturing of tinplate was the monopoly of Bohemia for a long time; in 1667 Andrew Yarranton , an English engineer , and Ambrose Crowley brought the method to England where it was improved by ironmasters including Philip Foley . By 1697, John Hanbury had a rolling mill at Pontypool for making "Pontypoole Plates". The method pioneered there of rolling iron plates by means of cylinders enabled more uniform black plates to be produced than was possible with the former practice of hammering .
+
+Tinplate boxes first began to be sold from ports in the Bristol Channel in 1725.  The tinplate was shipped from Newport, Monmouthshire . By 1805, 80,000 boxes were made and 50,000 exported. Tobacconists in London began packaging snuff in metal-plated canisters from the 1760s onwards.
+
+With the discovery of the importance of airtight containers for food preservation by French inventor Nicholas Appert , the tin canning process was patented by British merchant Peter Durand in 1810. After receiving the patent, Durand did not himself follow up with canning food. He sold his patent in 1812 to two other Englishmen, Bryan Donkin and John Hall, who refined the process and product and set up the world's first commercial canning factory on Southwark Park Road, London. By 1813, they were producing the first canned goods for the Royal Navy .
+
+The progressive improvement in canning stimulated the 1855 invention of the can opener . Robert Yeates, a cutlery and surgical instrument maker of Trafalgar Place West, Hackney Road, Middlesex , UK, devised a claw-ended can opener with a hand-operated tool that haggled its way around the top of metal cans. In 1858, another lever-type opener of a more complex shape was patented in the United States by Ezra Warner of Waterbury, Connecticut .
+
+Set-up boxes were first used in the 16th century and modern folding cartons date back to 1839.  The first corrugated box was produced commercially in 1817 in England. Corrugated (also called pleated) paper received a British patent in 1856 and was used as a liner for tall hats. Scottish-born Robert Gair invented the pre-cut paperboard box in 1890—flat pieces manufactured in bulk that folded into boxes. Gair's invention came about as a result of an accident: as a Brooklyn printer and paper-bag maker during the 1870s, he was once printing an order of seed bags, and the metal ruler, commonly used to crease bags, shifted in position and cut them. Gair discovered that by cutting and creasing in one operation he could make prefabricated paperboard boxes.
+
+Commercial paper bags were first manufactured in Bristol , England , in 1844, and the American Francis Wolle patented a machine for automated bag-making in 1852.
+
+Packaging advancements in the early 20th century included Bakelite closures on bottles , transparent cellophane overwraps and panels on cartons . These innovations increased processing efficiency and improved food safety .  As additional materials such as aluminum and several types of plastic were developed, they were incorporated into packages to improve performance and functionality.
+
+In 1952, Michigan State University became the first university in the world to offer a degree in Packaging Engineering .
+
+In-plant recycling has long been typical for producing packaging materials. Post-consumer recycling of aluminum and paper-based products has been economical for many years:  since the 1980s, post-consumer recycling has increased due to curbside recycling , consumer awareness, and regulatory pressure.
+
+Many prominent innovations in the packaging industry were developed first for military use.  Some military supplies are packaged in the same commercial packaging used for general industry. Other military packaging must transport materiel , supplies, foods, etc. under severe distribution and storage conditions. Packaging problems encountered in World War II led to Military Standard or "mil spec" regulations being applied to packaging, which was then designated "military specification packaging". As a prominent concept in the military, mil spec packaging officially came into being around 1941, due to operations in Iceland experiencing critical losses, ultimately attributed to bad packaging. In most cases, mil spec packaging solutions (such as barrier materials, field rations , antistatic bags , and various shipping crates ) are similar to commercial grade packaging materials, but subject to more stringent performance and quality requirements.
+
+As of 2003 , the packaging sector accounted for about two percent of the gross national product in developed countries . About half of this market was related to food packaging . In 2019 the global food packaging market size was estimated at USD 303.26 billion, exhibiting a CAGR of 5.2% over the forecast period. Growing demand for packaged food by consumers owing to quickening pace of life and changing eating habits is expected to have a major impact on the market.
+
+Packaging and package labeling have several objectives
+
+Packaging may be of several different types. For example, a transport package or distribution package can be the shipping container used to ship, store, and handle the product or inner packages.  Some identify a consumer package as one which is directed toward a consumer or household.
+
+Packaging may be described in relation to the type of product being packaged: medical device packaging, bulk chemical packaging, over-the-counter drug packaging, retail food packaging , military materiel packaging, pharmaceutical packaging, etc.
+
+It is sometimes convenient to categorize packages by layer or function: primary , secondary , tertiary ,etc.
+
+These broad categories can be somewhat arbitrary.  For example, depending on the use, a shrink wrap can be primary packaging when applied directly to the product, secondary packaging when used to combine smaller packages, or tertiary packaging when used to facilitate some types of distribution, such as to affix a number of cartons on a pallet.
+
+Packaging can also have categories based on the package form.  For example, thermoform packaging and flexible packaging describe broad usage areas.
+
+Many types of symbols for package labeling are nationally and internationally standardized.  For consumer packaging, symbols exist for product certifications (such as the FCC and TÜV marks), trademarks , proof of purchase , etc.  Some requirements and symbols exist to communicate aspects of consumer rights and safety, for example the CE marking or the estimated sign that notes conformance to EU weights and measures accuracy regulations. Examples of environmental and recycling symbols include the recycling symbol , the recycling code (which could be a resin identification code ), and the "Green Dot" . Food packaging may show food contact material symbols. In the European Union , products of animal origin which are intended to be consumed by humans have to carry standard, oval-shaped EC identification and health marks for food safety and quality insurance reasons.
+
+Bar codes , Universal Product Codes , and RFID labels are common to allow automated information management in logistics and retailing . Country-of-origin labeling is often used. Some products might use QR codes or similar matrix barcodes . Packaging may have visible registration marks and other printing calibration and troubleshooting cues.
+
+The labelling of medical devices includes many symbols, many of them covered by international standards, foremost ISO 15223-1.
+
+Several aspects of consumer package labeling are subject to regulation.  One of the most important is to accurately state the quantity (weight, volume, count) of the package contents.  Consumers expect that the label accurately reflects the actual contents.  Manufacturers and packagers must have effective quality assurance procedures and accurate equipment; even so, there is inherent variability in all processes .
+
+Regulations attempt to handle both sides of this.  In the US, the Fair Packaging and Labeling Act provides requirements for many types of products.  Also, NIST has Handbook 133, Checking the Net Contents of Packaged Goods. This is a procedural guide for compliance testing of net contents and is referenced by several other regulatory agencies.
+
+Other regions and countries have their own regulatory requirements.  For example, the UK has its Weights and Measures (Packaged Goods) Regulations as well as several other regulations . In the EEA , products with hazardous formulas need to have a UFI .
+
+Technologies related to shipping containers are identification codes, bar codes , and electronic data interchange ( EDI ).  These three core technologies serve to enable the business functions in the process of shipping containers throughout the distribution channel.  Each has an essential function: identification codes either relate product information or serve as keys to other data, bar codes allow for the automated input of identification codes and other data, and EDI moves data between trading partners within the distribution channel.
+
+Elements of these core technologies include UPC and EAN item identification codes, the SCC-14 (UPC shipping container code), the SSCC-18 (Serial Shipping Container Codes), Interleaved 2-of-5 and UCC/EAN-128 (newly designated GS1-128 ) bar code symbologies , and ANSI ASC X12 and UN/EDIFACT EDI standards.
+
+Small parcel carriers often have their own formats.  For example, United Parcel Service has a MaxiCode 2-D code for parcel tracking.
+
+RFID labels for shipping containers are also increasingly used.  A Wal-Mart division, Sam's Club , has also moved in this direction and is putting pressure on its suppliers to comply.
+
+Shipments of hazardous materials or dangerous goods have special information and symbols (labels, placards, etc.) as required by UN, country, and specific carrier requirements. On transport packages, standardized symbols are also used to communicate handling needs. Some are defined in the ASTM D5445 "Standard Practice for Pictorial Markings for Handling of Goods", ISO 780 "Pictorial marking for handling of goods", and GHS hazard pictograms .
+
+Package design and development are often thought of as an integral part of the new product development process.  Alternatively, the development of a package (or component) can be a separate process but must be linked closely with the product to be packaged.
+Package design starts with the identification of all the requirements: structural design, marketing , shelf life , quality assurance , logistics , legal, regulatory, graphic design , end-use, environmental, etc. The design criteria, performance (specified by package testing ),  completion time targets, resources, and cost constraints need to be established and agreed upon.  Package design processes often employ rapid prototyping , computer-aided design , computer-aided manufacturing and document automation .
+
+An example of how package design is affected by other factors is its relationship to logistics .  When the distribution system includes individual shipments by a small parcel carrier, the sorting, handling, and mixed stacking make severe demands on the strength and protective ability of the transport package. If the logistics system consists of uniform palletized unit loads , the structural design of the package can be designed to meet those specific needs, such as vertical stacking for a longer time frame.  A package designed for one mode of shipment may not be suited to another.
+
+With some types of products, the design process involves detailed regulatory requirements for the packaging.  For example, any package components that may contact foods are designated food contact materials . Toxicologists and food scientists need to verify that such packaging materials are allowed by applicable regulations. Packaging engineers need to verify that the completed package will keep the product safe for its intended shelf life with normal usage.  Packaging processes, labeling, distribution, and sale need to be validated to assure that they comply with regulations that have the well being of the consumer in mind.
+
+Sometimes the objectives of package development seem contradictory.  For example, regulations for an over-the-counter drug might require the package to be tamper-evident and child resistant : These intentionally make the package difficult to open. The intended consumer, however, might be disabled or elderly and unable to readily open the package. Meeting all goals is a challenge.
+
+Package design may take place within a company or with various degrees of external packaging engineering : independent contractors , consultants , vendor evaluations, independent laboratories, contract packagers, total outsourcing , etc.  Some sort of formal project planning and project management methodology is required for all but the simplest package design and development programs. An effective quality management system and Verification and Validation protocols are mandatory for some types of packaging and recommended for all.
+
+Package development involves considerations of sustainability , environmental responsibility, and applicable environmental and recycling regulations. It may involve a life cycle assessment which considers the material and energy inputs and outputs to the package, the packaged product (contents), the packaging process, the logistics system, waste management , etc.  It is necessary to know the relevant regulatory requirements for point of manufacture, sale, and use.
+
+The traditional "three R's" of reduce, reuse, and recycle are part of a waste hierarchy which may be considered in product and package development.
+
+Development of sustainable packaging is an area of considerable interest to standards organizations , governments, consumers, packagers, and retailers.
+
+Sustainability is the fastest-growing driver for packaging development, particularly for packaging manufacturers that work with the world's leading brands, as their CSR (Corporate Social Responsibility) targets often exceed those of the EU Directive.
+
+Choosing packaging machinery includes an assessment of technical capabilities, labor requirements, worker safety, maintainability , serviceability, reliability , ability to integrate into the packaging line, capital cost, floorspace, flexibility (change-over, materials, multiple products, etc.), energy requirements, quality of outgoing packages, qualifications (for food, pharmaceuticals, etc.), throughput, efficiency, productivity, ergonomics , return on investment , etc.
+
+Packaging machinery can be:
+
+Efforts at packaging line automation increasingly use programmable logic controllers and robotics .
+
+Packaging machines may be of the following general types:

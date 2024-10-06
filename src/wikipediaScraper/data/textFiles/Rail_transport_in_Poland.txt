@@ -1,0 +1,31 @@
+The Polish railways network consists of around 18,510 kilometres (11,500 mi) of track as of 2019, of which 11,998 km (7,455 mi) is electrified. The national electrification system runs at 3 kV DC.
+
+Poland is a member of the International Union of Railways (UIC), its UIC Country Code is 51.
+
+Rail services are operated by a range of public and private rail operators. The state-owned PKP Group operates the majority of rail services. In addition to PKP owned companies, there are a number of private cargo operators, as well as a number of independent passenger operators, with the latter owned predominantly by Voivodeship provincial governments .
+
+The vast majority of the network was built before World War II by various railway companies, including by the German Deutsche Reichsbahn and by the Russian Imperial State Railways , and a minor component was built from 1946 onwards by the Communist authorities of the Polish People's Republic . During the invasion of Poland at the beginning of World War II the Polish railway network was crippled by the Luftwaffe bombing campaign . Due to the average age of the network and lack of maintenance, many sections are limited to speeds below 160 km/h (99 mph) even on trunk lines. 2,813 km (1,748 mi) allow 160 km/h (99 mph) or more.
+
+Since Poland's entry into the European Union in 2004, major financing has been made available by European financing institutions to improve both the Polish rail network and the rolling stock fleet. Up to June 2014, the European Investment Bank had provided loans totalling €1.9 billion for rail modernization projects in Poland. An additional €578 million had been provided through December 2013 to modernize 70 percent of PKP Intercity rolling stock. The €665 million purchase of twenty Alstom Pendolino high-speed trains delivered in 2014 was financed in part by €342 million from the European Investment Bank.
+
+Poland currently has no high-speed lines operated at speeds above 200 km/h (124 mph).  The Central Rail Line , centralna magistrala kolejowa , 'CMK', which links Warsaw to Katowice and Kraków , was designed with an alignment to permit 250 km/h (155 mph), but for over 30 years after its construction Poland possessed no rolling stock capable of speeds above 160 km/h (99 mph). Since 2008 the CMK has been upgraded to allow higher speeds, including installation of European Train Control System Level 1 which provides the Cab signalling required by high speed trains. Most trains on the CMK still operate at speeds up to 160 km/h (99 mph), but since 14 December 2014 new Alstom Pendolino ED250 trains operate on a 90 km section of the CMK at 200 km/h (124 mph), and improvements under way should raise the authorized speed to 200 km/h (124 mph) on most of the line. In test runs on the CMK in November 2013 a new Pendolino ED250 train set a new Polish speed record of 293 km/h (182 mph).
+
+In 2011–2015 the Warsaw-Gdańsk-Gdynia railway line has undergone a major upgrading costing $3 billion, partly funded by the European Investment Bank , including track replacement, realignment of curves and relocation of sections of track to allow speeds up to 200 km/h (124 mph), modernization of stations, and installation of the most modern ETCS Level 2 signalling system, which is to be completed in June 2015. In December 2014 new Alstom Pendolino high-speed trains were put into service between Gdańsk , Warsaw and Kraków reducing the rail travel time from Gdańsk to Warsaw to 2 hours 58 minutes, to be reduced in late 2015 to 2 hours 37 minutes.
+
+In 2008, the government announced the construction of a dedicated high speed line based on the French TGV model and possibly using TGV style trainsets, by 2020. The Y-shaped line would link Warsaw to Łódź , Poznań and Wrocław at speeds of up to 320 km/h (199 mph). The plans included an upgrade of the Central Rail Line to 250 km/h (155 mph) or more, as this line has an LGV -like profile. In December 2011 plans to build the high speed 'Y' line were postponed until 2030, due to the high cost.
+
+As of 2008, foreign services include EuroCity and EuroNight trains between Western and Eastern Europe, most notably the EN Jan Kiepura direct sleeping cars between Amsterdam , Basel and Munich via Warsaw, Poznan and Germany. They generally consist of coaches from different rail operators that are added to the train as it passes through their area of operation.
+
+Voltage of electrification systems may differ. The Polish voltage is 3 kV DC.
+
+The network is standard gauge except for the Linia Hutnicza Szerokotorowa (literally meaning "Broad Gauge Metallurgy Line", but typically known by its abbreviation LHS ) and a few short stretches near border crossings . The LHS to Sławków is the longest broad-gauge line, single track, almost 400 km long, from the Ukrainian border just east of Hrubieszów . It is the westernmost broad gauge line connected to the system of the former Soviet Union .
+
+Since the 2022 Russian invasion of Ukraine , there are proposed to build more broad-gauge lines in and around Poland. Linia Hutnicza Szerokotorowa westward extension from Slawkow via Gliwice, Gorlitz, Jena, Paderborn and Oberhausen to Amsterdam and Rotterdam, and branch to Hamburg, and new broad-gauge link from Ukrainian border via Chelm, Lublin, Bialystok and Suwalki to Mockai (Lithuania) and branch to Gdansk Port.
+
+Polish State Railways (PKP), a state-owned corporate group and part of the PKP Group conglomerate, is the main provider of railway services, holding an almost complete monopoly on long-distance passenger services. It is both supported and partly funded by the government.
+
+There are three main PKP companies:
+
+While PKP is the largest rail operator in Poland, there are several independent operators of passenger and cargo railway services. Independent Cargo operators are predominantly privately owned. Passenger operators are predominantly owned by Voivodeship governments. These include:
+
+Freight services are provided by a number of private and public rail operators. These include:

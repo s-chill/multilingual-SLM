@@ -1,0 +1,17 @@
+Parts stress modelling is a method in engineering and especially electronics to find an expected value for the rate of failure of the mechanical and electronic components of a system. It is based upon the idea that the more components that there are in the system, and the greater stress that they undergo in operation, the more often they will fail.
+
+Parts count modelling is a simpler variant of the method, with component stress not taken into account.
+
+Various organisations have published standards specifying how parts stress modelling should be carried out. Some from electronics are:
+
+These "standards" produce different results, often by a factor of more than two, for the same modelled system. The differences illustrate the fact that this modelling is not an exact science. System designers often have to do the modelling using a standard specified by a customer, so that the customer can compare the results with other systems modelled in the same way.
+
+All of these standards compute an expected overall failure rate for all the components in the system, which is not necessarily the rate at which the system as a whole fails. Systems often incorporate redundancy or fault tolerance so that they do not fail when an individual component fails.
+
+Several companies provide programs for performing parts stress modelling calculations. It's also possible to do the modelling with a spreadsheet .
+
+All these models implicitly assume the idea of "random failure". Individual components fail at random times but at a predictable rate, analogous to the process of nuclear decay . One justification for this idea is that components fail by a process of wearout, a predictable decay after manufacture, but that the wearout life of individual components is scattered widely about some very long mean. The observed "random" failures are then just the extreme outliers at the early edge of this distribution. However, this may not be the whole picture.
+
+All the models use basically the same process, with detailed variations.
+
+Other global modification parameters can be employed, which are assumed to have the same effect on every component failure rate. The most usual are the environment, such as ground benign or airborne, commercial , and the purchasing quality assurance process. The standards specify overall multiplier factors for these various choices.

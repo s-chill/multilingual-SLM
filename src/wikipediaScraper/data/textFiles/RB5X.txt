@@ -1,0 +1,5 @@
+The RB5X is a personal robot manufactured by RB Robot Corporation of Golden, Colorado .
+
+A cylinder-shaped robot with an optional arm, and a transparent, dome-shaped top, RB5X has an RS-232 communications interface and is programmable in TinyBASIC or Savvy. It was first released circa 1983. Its inputs include eight bumper panels, a photodiode and a sonic transducer . The robot learns from experience.
+
+The RB5X was an early commercial implementation of the concept of autonomous mobile robotics (AMR)  proposed and demonstrated by author/ inventor, David L. Heiserman in 1976.

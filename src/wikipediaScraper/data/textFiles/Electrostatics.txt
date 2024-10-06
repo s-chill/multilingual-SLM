@@ -1,0 +1,63 @@
+Electrostatics is a branch of physics that studies slow-moving or stationary electric charges .
+
+Since classical times , it has been known that some materials, such as amber , attract lightweight particles after rubbing . The Greek word for amber, ἤλεκτρον ( ḗlektron ), was thus the source of the word electricity . Electrostatic phenomena arise from the forces that electric charges exert on each other. Such forces are described by Coulomb's law .
+
+There are many examples of electrostatic phenomena, from those as simple as the attraction of plastic wrap to one's hand after it is removed from a package, to the apparently spontaneous explosion of grain silos, the damage of electronic components during manufacturing, and photocopier and laser printer operation.
+
+The electrostatic model accurately predicts electrical phenomena in "classical" cases where the velocities are low and the system is macroscopic so no quantum effects are involved. It also plays a role in quantum mechanics, where additional terms also need to be included.
+
+Coulomb's law states that:
+
+The magnitude of the electrostatic force of attraction or repulsion between two point charges is directly proportional to the product of the magnitudes of charges and inversely proportional to the square of the distance between them.
+
+The force is along the straight line joining them. If the two charges have the same sign, the electrostatic force between them is repulsive; if they have different signs, the force between them is attractive.
+
+If r {\displaystyle r} is the distance (in meters ) between two charges, then the force between two point charges Q {\displaystyle Q} and q {\displaystyle q} is:
+
+where ε 0 = 8.854 187 8188 (14) × 10 F⋅m ‍ is the vacuum permittivity .
+
+The SI unit of ε 0 is equivalently A ⋅ s ⋅kg ⋅m or C ⋅ N ⋅m or F ⋅m .
+
+The electric field, E {\displaystyle \mathbf {E} } , in units of Newtons per Coulomb or volts per meter, is a vector field that can be defined everywhere, except at the location of point charges (where it diverges to infinity). It is defined as the electrostatic force , {\displaystyle \mathbf {,} } on a hypothetical small test charge at the point due to Coulomb's law, divided by the charge q {\displaystyle q}
+
+Electric field lines are useful for visualizing the electric field. Field lines begin on positive charge and terminate on negative charge. They are parallel to the direction of the electric field at each point, and the density of these field lines is a measure of the magnitude of the electric field at any given point.
+
+A collection of n {\displaystyle n} particles of charge q i {\displaystyle q_{i}} , located at points r i {\displaystyle \mathbf {r} _{i}} (called source points ) generates the electric field at r {\displaystyle \mathbf {r} } (called the field point ) of:
+
+where r i = r − r i {\textstyle \mathbf {r} _{i}=\mathbf {r} -\mathbf {r} _{i}} is the displacement vector from a source point r i {\displaystyle \mathbf {r} _{i}} to the field point r {\displaystyle \mathbf {r} } , and r ^ i = d e f r i | r i | {\textstyle {\hat {\mathbf {r} }}_{i}\ {\stackrel {\mathrm {def} }{=}}\ {\frac {\mathbf {r} _{i}}{|\mathbf {r} _{i}|}}} is a unit vector that indicates the direction of the field. For a single point charge, q {\displaystyle q} , at the origin, the magnitude of this electric field is E = q / 4 π ε 0 r 2 {\displaystyle E=q/4\pi \varepsilon _{0}r^{2}} and points away from that charge if it is positive. The fact that the force (and hence the field) can be calculated by summing over all the contributions due to individual source particles is an example of the superposition principle . The electric field produced by a distribution of charges is given by the volume charge density ρ ( r ) {\displaystyle \rho (\mathbf {r} )} and can be obtained by converting this sum into a triple integral :
+
+Gauss's law states that "the total electric flux through any closed surface in free space of any shape drawn in an electric field is proportional to the total electric charge enclosed by the surface." Many numerical problems can be solved by considering a Gaussian surface around a body. Mathematically, Gauss's law takes the form of an integral equation:
+
+where d 3 r = d x d y d z {\displaystyle \mathrm {d} ^{3}r=\mathrm {d} x\ \mathrm {d} y\ \mathrm {d} z} is a volume element. If the charge is distributed over a surface or along a line, replace ρ d 3 r {\displaystyle \rho \,\mathrm {d} ^{3}r} by σ d A {\displaystyle \sigma \,\mathrm {d} A} or λ d ℓ {\displaystyle \lambda \,\mathrm {d} \ell } . The divergence theorem allows Gauss's Law to be written in differential form:
+
+where ∇ ⋅ {\displaystyle \nabla \cdot } is the divergence operator .
+
+The definition of electrostatic potential, combined with the differential form of Gauss's law (above), provides a relationship between the potential Φ and the charge density ρ :
+
+This relationship is a form of Poisson's equation . In the absence of unpaired electric charge, the equation becomes Laplace's equation :
+
+The validity of the electrostatic approximation rests on the assumption that the electric field is irrotational :
+
+From Faraday's law , this assumption implies the absence or near-absence of time-varying magnetic fields:
+
+In other words, electrostatics does not require the absence of magnetic fields or electric currents. Rather, if magnetic fields or electric currents do exist, they must not change with time, or in the worst-case, they must change with time only very slowly . In some problems, both electrostatics and magnetostatics may be required for accurate predictions, but the coupling between the two can still be ignored. Electrostatics and magnetostatics can both be seen as non-relativistic Galilean limits for electromagnetism. In addition, conventional electrostatics ignore quantum effects which have to be added for a complete description.
+
+As the electric field is irrotational , it is possible to express the electric field as the gradient of a scalar function, ϕ {\displaystyle \phi } , called the electrostatic potential (also known as the voltage ). An electric field, E {\displaystyle E} , points from regions of high electric potential to regions of low electric potential, expressed mathematically as
+
+The gradient theorem can be used to establish that the electrostatic potential     is the amount of work per unit charge required to move a charge from point a {\displaystyle a} to point b {\displaystyle b} with the following line integral :
+
+From these equations, we see that the electric potential is constant in any region for which the electric field vanishes (such as occurs inside a conducting object).
+
+A test particle 's potential energy, U E single {\displaystyle U_{\mathrm {E} }^{\text{single}}} , can be calculated from a line integral of the work, q n E ⋅ d ℓ {\displaystyle q_{n}\mathbf {E} \cdot \mathrm {d} \mathbf {\ell } } . We integrate from a point at infinity, and assume a collection of N {\displaystyle N} particles of charge Q n {\displaystyle Q_{n}} , are already situated at the points r i {\displaystyle \mathbf {r} _{i}} . This potential energy (in Joules ) is:
+
+where R i = r − r i {\displaystyle \mathbf {\mathcal {R_{i}}} =\mathbf {r} -\mathbf {r} _{i}} is the distance of each charge Q i {\displaystyle Q_{i}} from the test charge q {\displaystyle q} , which situated at the point r {\displaystyle \mathbf {r} } , and ϕ ( r ) {\displaystyle \phi (\mathbf {r} )} is the electric potential that would be at r {\displaystyle \mathbf {r} } if the test charge were not present. If only two charges are present, the potential energy is Q 1 Q 2 / ( 4 π ε 0 r ) {\displaystyle Q_{1}Q_{2}/(4\pi \varepsilon _{0}r)} . The total electric potential energy due a collection of N charges is calculating by assembling these particles one at a time :
+
+where the following sum from, j = 1 to N , excludes i = j :
+
+This electric potential, ϕ i {\displaystyle \phi _{i}} is what would be measured at r i {\displaystyle \mathbf {r} _{i}} if the charge Q i {\displaystyle Q_{i}} were missing. This formula obviously excludes the (infinite) energy that would be required to assemble each point charge from a disperse cloud of charge. The sum over charges can be converted into an integral over charge density using the prescription ∑ ( ⋯ ) → ∫ ( ⋯ ) ρ d 3 r {\textstyle \sum (\cdots )\rightarrow \int (\cdots )\rho \,\mathrm {d} ^{3}r} :
+
+This second expression for electrostatic energy uses the fact that the electric field is the negative gradient of the electric potential, as well as vector calculus identities in a way that resembles integration by parts . These two integrals for electric field energy seem to indicate two mutually exclusive formulas for electrostatic energy density, namely 1 2 ρ ϕ {\textstyle {\frac {1}{2}}\rho \phi } and 1 2 ε 0 E 2 {\textstyle {\frac {1}{2}}\varepsilon _{0}E^{2}} ; they yield equal values for the total electrostatic energy only if both are integrated over all space.
+
+On a conductor , a surface charge will experience a force in the presence of an electric field . This force is the average of the discontinuous electric field at the surface charge. This average in terms of the field just outside the surface amounts to:
+
+This pressure tends to draw the conductor into the field, regardless of the sign of the surface charge.

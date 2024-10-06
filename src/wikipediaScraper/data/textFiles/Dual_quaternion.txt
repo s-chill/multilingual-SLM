@@ -1,0 +1,144 @@
+In mathematics , the dual quaternions are an 8-dimensional real algebra isomorphic to the tensor product of the quaternions and the dual numbers .  Thus, they may be constructed in the same way as the quaternions, except using dual numbers instead of real numbers as coefficients.  A dual quaternion can be represented in the form A + ε B , where A and B are ordinary quaternions and ε is the dual unit, which satisfies ε = 0 and commutes with every element of the algebra.  
+Unlike quaternions, the dual quaternions do not form a division algebra .
+
+In mechanics , the dual quaternions are applied as a number system to represent rigid transformations in three dimensions. Since the space of dual quaternions is 8-dimensional and a rigid transformation has six real degrees of freedom, three for translations and three for rotations, dual quaternions obeying two algebraic constraints are used in this application. Since unit quaternions are subject to two algebraic constraints, unit quaternions are standard to represent rigid transformations.
+
+Similar to the way that rotations in 3D space can be represented by quaternions of unit length, rigid motions in 3D space can be represented by dual quaternions of unit length. This fact is used in theoretical kinematics (see McCarthy ), and in applications to 3D computer graphics , robotics and computer vision . Polynomials with coefficients given by (non-zero real norm) dual quaternions have also been used in the context of mechanical linkages design.
+
+W. R. Hamilton introduced quaternions in 1843, and by 1873 W. K. Clifford obtained a broad generalization of these numbers that he called biquaternions , which is an example of what is now called a Clifford algebra .
+
+In 1898 Alexander McAulay used Ω with Ω = 0 to generate the dual quaternion algebra. However, his terminology of "octonions" did not stick as today's octonions are another algebra.
+
+In 1891 Eduard Study realized that this associative algebra was ideal for describing the group of motions of three-dimensional space . He further developed the idea in Geometrie der Dynamen in 1901. B. L. van der Waerden called the structure "Study biquaternions", one of three eight-dimensional algebras referred to as biquaternions .
+
+In 1895, Russian mathematician Aleksandr Kotelnikov developed dual vectors and dual quaternions for use in the study of mechanics.
+
+In order to describe operations with dual quaternions, it is helpful to first consider quaternions .
+
+A quaternion is a linear combination of the basis elements 1, i , j , and k .  Hamilton's product rule for i , j , and k is often written as
+
+Compute i ( i j k ) = − j k = − i , to obtain j k = i , and ( i j k ) k = − i j = − k or i j = k . Now because j ( j k ) = j i = − k , we see that this product yields i j = − j i , which links quaternions to the properties of determinants.
+
+A convenient way to work with the quaternion product is to write a quaternion as the sum of a scalar and a vector (strictly speaking a bivector ), that is A = a 0 + A , where a 0 is a real number and A = A 1 i + A 2 j + A 3 k is a three dimensional vector.  The vector dot and cross operations can now be used to define the quaternion product of A = a 0 + A and C = c 0 + C as
+
+A dual quaternion is usually described as a quaternion with dual numbers as coefficients.  A dual number is an ordered pair â = ( a , b ) .  Two dual numbers add componentwise and multiply by the rule â ĉ = ( a , b ) ( c , d ) = ( a c , a d + b c ) .  Dual numbers are often written in the form â = a + ε b , where ε is the dual unit that commutes with i , j , k and has the property ε = 0 .
+
+The result is that a dual quaternion  can be written as an ordered pair of quaternions ( A , B ) .  Two dual quaternions add componentwise and multiply by the rule,
+
+It is convenient to write a dual quaternion as the sum of a dual scalar and a dual vector, Â = â 0 + A , where â 0 = ( a , b ) and A = ( A , B ) is the dual vector that defines a screw .  This notation allows us to write the product of two dual quaternions as
+
+The addition of dual quaternions is defined componentwise so that given,
+
+and
+
+then
+
+Multiplication of two dual quaternion follows from the multiplication rules for the quaternion units i, j, k and commutative multiplication by the dual unit ε.  In particular, given
+
+and
+
+then
+
+Notice that there is no BD term, because the definition of dual numbers requires that ε = 0 .
+
+This gives us the multiplication table (note the multiplication order is row times column):
+
+The conjugate of a dual quaternion is the extension of the conjugate of a quaternion, that is
+
+As with quaternions, the conjugate of the product of dual quaternions, Ĝ = ÂĈ , is the product of their conjugates in reverse order,
+
+It is useful to introduce the functions Sc(∗) and Vec(∗) that select the scalar and vector parts of a quaternion, or the dual scalar and dual vector parts of a dual quaternion.  In particular, if Â = â 0 + A , then
+
+This allows the definition of the conjugate of Â as
+
+or,
+
+The product of a dual quaternion with its conjugate yields
+
+This is a dual scalar which is the magnitude squared of the dual quaternion.
+
+A second type of conjugate of a dual quaternion is given by taking the dual number conjugate, given by
+
+The quaternion and dual number conjugates can be combined into a third form of conjugate given by
+
+In the context of dual quaternions, the term "conjugate" can be used to mean the quaternion conjugate, dual number conjugate, or both.
+
+The norm of a dual quaternion | Â | is computed using the conjugate to compute | Â | = √ Â Â .  This is a dual number called the magnitude of the dual quaternion.  Dual quaternions with | Â | = 1 are unit dual quaternions .
+
+Dual quaternions of magnitude 1 are used to represent spatial Euclidean displacements. Notice that the requirement that Â Â = 1 , introduces two algebraic constraints on the components of Â , that is
+
+The first of these constraints, A A ∗ = 1 , {\displaystyle AA^{*}=1,} implies that A {\displaystyle A} has magnitude 1, while the second constraint, A B ∗ + B A ∗ = 0 , {\displaystyle AB^{*}+BA^{*}=0,} implies that A {\displaystyle A} and B {\displaystyle B} are orthogonal.
+
+If p + ε q is a dual quaternion, and p is not zero, then the inverse dual quaternion is given by
+
+Thus the elements of the subspace { ε q : q ∈ H } do not have inverses. This subspace is called an ideal in ring theory. It happens to be the unique maximal ideal of the ring of dual numbers.
+
+The group of units of the dual number ring then consists of numbers not in the ideal. The dual numbers form a local ring since there is a unique maximal ideal. The group of units is a Lie group and can be studied using the exponential mapping . Dual quaternions have been used to exhibit transformations in the Euclidean group . A typical element can be written as a screw transformation .
+
+A benefit of the dual quaternion formulation of the composition of two spatial displacements D B = ([ R B ], b ) and D A = ([ R A ], a ) is that the resulting dual quaternion yields directly the screw axis and dual angle of the composite displacement D C = D B D A .
+
+In general, the dual quaternion associated with a spatial displacement D = ([ A ], d ) is constructed from its screw axis S = ( S , V ) and the dual angle ( φ , d ) where φ is the rotation about and d the slide along this axis, which defines the displacement D .  The associated dual quaternion is given by,
+
+Let the composition of the displacement D B with D A be the displacement D C = D B D A .  The screw axis and dual angle of D C is obtained from the product of the dual quaternions of D A and D B , given by
+
+That is, the composite displacement D C =D B D A has the associated dual quaternion given by
+
+Expand this product in order to obtain
+
+Divide both sides of this equation by the identity
+
+to obtain
+
+This is Rodrigues ' formula for the screw axis of a composite displacement defined in terms of the screw axes of the two displacements.  He derived this formula in 1840.
+
+The three screw axes A, B, and C form a spatial triangle and the dual angles at these vertices between the common normals that form the sides of this triangle are directly related to the dual angles of the three spatial displacements.
+
+The matrix representation of the quaternion product is convenient for programming quaternion computations using matrix algebra, which is true for dual quaternion operations as well.
+
+The quaternion product AC is a linear transformation by the operator A of the components of the quaternion C, therefore there is a matrix representation of A operating on the vector formed from the components of C.
+
+Assemble the components of the quaternion C = c 0 + C into the array C = (C 1 , C 2 , C 3 , c 0 ) .  Notice that the components of the vector part of the quaternion are listed first and the scalar is listed last.  This is an arbitrary choice, but once this convention is selected we must abide by it.
+
+The quaternion product AC can now be represented as the matrix product
+
+The product AC can also be viewed as an operation by C on the components of A, in which case we have
+
+The dual quaternion product ÂĈ = (A, B)(C, D) = (AC, AD+BC) can be formulated as a matrix operation as follows.  Assemble the components of Ĉ into the eight dimensional array Ĉ = (C 1 , C 2 , C 3 , c 0 , D 1 , D 2 , D 3 , d 0 ), then ÂĈ is given by the 8x8 matrix product
+
+As we saw for quaternions, the product ÂĈ can be viewed as the operation of Ĉ on the coordinate vector Â, which means ÂĈ can also be formulated as,
+
+The dual quaternion of a displacement D=([A], d ) can be constructed from the quaternion S=cos(φ/2) + sin(φ/2) S that defines the rotation [A] and the vector quaternion constructed from the translation vector d , given by D = d 1 i + d 2 j + d 3 k.   Using this notation, the dual quaternion for the displacement D=([A], d ) is given by
+
+Let the Plücker coordinates of a line in the direction x through a point p in a moving body and its coordinates in the fixed frame which is in the direction X through the point P be given by,
+
+Then the dual quaternion of the displacement of this body transforms Plücker coordinates in the moving frame to Plücker coordinates in the fixed frame by the formula
+
+Using the matrix form of the dual quaternion product this becomes,
+
+This calculation is easily managed using matrix operations.
+
+It might be helpful, especially in rigid body motion, to represent unit dual quaternions as homogeneous matrices . As given above a dual quaternion can be written as: q ^ = r + d ε r {\displaystyle {\hat {q}}=r+d\varepsilon r} where r and d are both quaternions. The r quaternion is known as the real or rotational part and the d {\displaystyle d} quaternion is known as the dual or displacement part.
+
+The rotation part can be given by
+
+where θ {\displaystyle \theta } is the angle of rotation about the direction given by unit vector a → {\displaystyle {\vec {a}}} . The displacement part can be written as
+
+The dual-quaternion equivalent of a 3D-vector is
+
+and its transformation by q ^ {\displaystyle {\hat {q}}} is given by
+
+These dual quaternions (or actually their transformations on 3D-vectors) can be represented by the homogeneous transformation matrix
+
+where the 3×3 orthogonal matrix is given by
+
+For the 3D-vector
+
+the transformation by T is given by
+
+Besides being the tensor product of two Clifford algebras, the quaternions and the dual numbers , the dual quaternions have two other formulations in terms of Clifford algebras.
+
+First, dual quaternions are isomorphic to the Clifford algebra generated by 3 anticommuting elements i {\displaystyle i} , j {\displaystyle j} , e {\displaystyle e} with i 2 = j 2 = − 1 {\displaystyle i^{2}=j^{2}=-1} and e 2 = 0 {\displaystyle e^{2}=0} .  If we define k = i j {\displaystyle k=ij} and ε = e k {\displaystyle \varepsilon =ek} , then the relations defining the dual quaternions are implied by these and vice versa. Second, the dual quaternions are isomorphic to the even part of the Clifford algebra generated by 4 anticommuting elements e 1 , e 2 , e 3 , e 4 {\displaystyle e_{1},e_{2},e_{3},e_{4}} with
+
+For details, see Clifford algebras: dual quaternions .
+
+Since both Eduard Study and William Kingdon Clifford used and wrote about dual quaternions, at times authors refer to dual quaternions as "Study biquaternions" or "Clifford biquaternions". The latter eponym has also been used to refer to split-biquaternions . Read the article by Joe Rooney linked below for view of a supporter of W.K. Clifford's claim. Since the claims of Clifford and Study are in contention, it is convenient to use the current designation dual quaternion to avoid conflict.

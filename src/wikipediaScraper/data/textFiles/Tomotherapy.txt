@@ -1,0 +1,33 @@
+Tomotherapy is a type of radiation therapy treatment machine. In tomotherapy a thin radiation beam is modulated as it rotates around the patient, while they are moved through the bore of the machine. The name comes from the use of a strip-shaped beam, so that only one “slice” (Greek prefix “tomo-”) of the target is exposed at any one time by the radiation. The external appearance of the system and movement of the radiation source and patient can be considered analogous to a CT scanner (computed tomography), which uses lower doses of radiation for imaging. Like a conventional machine used for X-ray external beam radiotherapy (often referred to as a linear accelerator or linac, their main component), a linear accelerator generates the radiation beam, but the external appearance of the machine, the patient positioning, and treatment delivery is different. Conventional linacs do not work on a slice-by-slice basis but typically have a large area beam which can also be resized and modulated.
+
+The treatment field's length (the width of the radiation slice) is adjustable using collimator jaws. In static-jaw delivery, the field length remains constant during a treatment. In dynamic-jaw delivery, the field length changes so that it begins and ends at its minimum setting.
+
+Tomotherapy treatment times vary compared to normal radiation therapy treatment times. Tomotherapy treatment times can be as low as 6.5 minutes for common prostate treatment, excluding extra time for imaging. Modern tomotherapy and conventional linac systems incorporate one or both of megavoltage X-ray or kilovoltage X-ray imaging systems, enabling image-guided radiation therapy (IGRT). In tomotherapy, images are acquired in a very similar manner to a CT scanner, thanks to their closely related design.
+
+There are few head-to-head comparisons of tomotherapy and other IMRT techniques, however there is some evidence that a conventional linac using VMAT can provide faster treatment whereas tomotherapy is better able to spare surrounding healthy tissue while delivering a uniform dose.
+
+In helical tomotherapy, the linac rotates on its gantry at a constant speed while the beam is delivered; so that from the patient's perspective, the shape traced out by the linac is helical.
+
+While helical tomotherapy can treat very long volumes without a need to abut fields in the longitudinal direction, it does display a distinct artifact due to "thread effect" when treating non-central tumors. Thread effect can be suppressed during planning through good pitch selection.
+
+Fixed-angle tomotherapy uses multiple tomotherapy beams, each delivered from a separate fixed gantry angle, in which only the couch moves during beam delivery. This is branded as TomoDirect, but has also been called topotherapy.
+
+The technology enables fixed beam treatments by moving the patient through the machine bore while maintaining specified beam angles.
+
+Lung cancer , head and neck tumors , breast cancer , prostate cancer , stereotactic radiosurgery (SRS) and stereotactic body radiotherapy (SBRT) are some examples of treatments commonly performed using tomotherapy.
+
+In general, radiation therapy (or radiotherapy) has developed with a strong reliance on homogeneity of dose throughout the tumor.  Tomotherapy embodies the sequential delivery of radiation to different parts of the tumor which raises two important issues.  First, this method is known as "field matching" and brings with it the possibility of a less-than-perfect match between two adjacent fields with a resultant hot and/or cold spot within the tumor.  The second issue is that if the patient or tumor moves during this sequential delivery, then again, a hot or cold spot will result.  The first problem is reduced by use of a helical motion, as in spiral computed tomography .
+
+Some research has suggested tomotherapy provides more conformal treatment plans and decreased acute toxicity.
+
+Non-helical static beam techniques such as IMRT and TomoDirect are well suited to whole breast radiation therapy. These treatment modes avoid the low-dose integral splay and long treatment times associated with helical approaches by confining dose delivery to tangential angles.
+
+This risk is accentuated in younger patients with early-stage breast cancer, where cure rates are high and life expectancy is substantial.
+
+Static beam angle approaches aim to maximize the therapeutic ratio by ensuring that the tumor control probability (TCP) significantly outweighs the associated normal tissue complication probability (NTCP).
+
+The tomotherapy technique was developed in the early 1990s at the University of Wisconsin–Madison by Professor Thomas Rockwell Mackie and Paul Reckwerdt. A small megavoltage x-ray source was mounted in a similar fashion to a CT x-ray source, and the geometry provided the opportunity to provide CT images of the body in the treatment setup position.  Although original plans were to include kilovoltage CT imaging, current models use megavoltage energies.  With this combination, the unit was one of the first devices capable of providing modern image-guided radiation therapy (IGRT).
+
+The first implementation of tomotherapy was the Corvus system developed by Nomos Corporation, with the first patient treated in April 1994. This was the first commercial system for planning and delivering intensity modulated radiation therapy (IMRT). The original system, designed solely for use in the brain, incorporated a rigid skull-based fixation system to prevent patient motion between the delivery of each slice of radiation. But some users eschewed the fixation system and applied the technique to tumors in many different parts of the body.
+
+Due to their internal shielding and small footprint, TomoTherapy Hi-Art and TomoTherapy TomoHD treatment machines were the only high energy radiotherapy treatment machines used in relocatable radiotherapy treatment suites. Two different types of suites were available: TomoMobile developed by TomoTherapy Inc. which was a moveable truck; and Pioneer, developed by UK-based Oncology Systems Limited. The latter was developed to meet the requirements of UK and European transport law requirements and was a contained unit placed on a concrete pad, delivering radiotherapy treatments in less than five weeks.

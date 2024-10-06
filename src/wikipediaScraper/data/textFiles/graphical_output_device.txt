@@ -1,0 +1,89 @@
+An output device is any piece of computer hardware that  converts information or data into a human-perceptible form or, historically, into a physical machine-readable form for use with other non-computerized equipment. It can be text, graphics, tactile, audio, or video. Examples include monitors, printers, speakers, headphones, projectors, GPS devices, optical mark readers, and braille readers.
+
+In an industrial setting, output devices also include "printers" for paper tape and punched cards, especially where the tape or cards are subsequently used to control industrial equipment, such as an industrial loom with electrical robotics which is not fully computerized .
+
+A display device is the most common form of output device which presents output visually on computer screen. The output appears temporarily on the screen and can easily be altered or erased.
+
+With all-in-one PCs, notebook computers, hand held PCs and other devices; the term display screen is used for the display device. The display devices are also used in home entertainment systems, mobile systems, cameras and video game systems.
+
+Display devices form images by illuminating a desired configuration of . Raster display devices are organized in the form of a 2-dimensional matrix with rows and columns. This is done many times within a second, typically 60, 75, 120 or 144 Hz on consumer devices.
+
+The interface between a computer's CPU and the display is a Graphics Processing Unit (GPU). This processor is used to form images on a framebuffer . When the image is to be sent to the display, the GPU sends its image through a video display controller to generate a video signal , which is then sent to a display interface such as HDMI , VGA , or DVI
+
+GPUs can be divided into discrete and integrated units, the former being an external unit and the latter of which is included within a CPU die. Discrete graphics cards are almost always connected to the host through the PCI Express bus, while older graphics cards may have used AGP or PCI . Some mobile computers support an external graphics card through Thunderbolt (via PCIe).
+
+A monitor is a standalone display commonly used with a desktop computer , or in conjunction to a laptop as an external display. The monitor is connected to the host through the use of a display cable, such as HDMI , DisplayPort , VGA , and more.
+
+Older monitors use CRT technology, while modern monitors are typically flat panel displays using a plethora of technologies such as TFT-LCD , LED , OLED , and more.
+
+Almost all mobile devices incorporate an internal display. These internal displays are connected to the computer through an internal display interface such as LVDS or eDP . The chief advantage of these displays is their portability.
+
+Prior to the development of modern pixel-oriented displays, computer terminals were used, composed of a character-oriented display device known as a VDU and a computer keyboard .
+
+These terminals were often monochromatic, and could only display text. Rudimentary graphics could be displayed through the use of ASCII art along with box-drawing characters . Teleprinters were the precursors to these devices.
+
+A projector is a display that projects the computer image onto a surface through the use of a high power lamp. These displays are seen in use to show slideshow presentations or in movie screenings.
+
+Display technologies can be classified based on working principle, lighting (or lack thereof), pixel layout, and more.
+
+A monochrome display is a type of CRT common in the early days of computing , from the 1960s through the 1980s, before color monitors became popular.
+
+They are still widely used in applications such as computerized cash register systems. Green screen was the common name for a monochrome monitor using a green "P1" phosphor screen.
+
+Color monitors, sometimes called RGB monitors, accept three separate signals (red, green, and blue), unlike a monochromatic display which accepts one. Color monitors implement the RGB color model by using three different phosphors that appear red, green, and blue when activated. By placing the phosphors directly next to each other, and activating them with different intensities, color monitors can create an unlimited number of colors. In practice, however, the real number of colors that any monitor can display is controlled by the video adapter .
+
+A speaker is an output device that produces sound through an oscillating transducer called a driver. The equivalent input device is a microphone .
+
+Speakers are plugged into a computer's sound card via a myriad of interfaces, such as a phone connector for analog audio, or SPDIF for digital audio. While speakers can be connected through cables, wireless speakers are connected to the host device through radio technology such as Bluetooth .
+
+Speakers are most often used in pairs, which allows the speaker system to produce positional audio . When more than one pair is used, it is referred to as surround sound .
+
+Certain models of computers includes a built-in speaker, which may sacrifice audio quality in favor of size. For example, the built-in speaker of a smartphone allows the users to listen to media without attaching an external speaker.
+
+The interface between an auditory output device and a computer is the sound card . Sound cards may be included on a computer's motherboard , installed as an expansion card , or as a desktop unit .
+
+The sound card may offer either an analog or digital output. In the latter case, output is often transmitted using SPDIF as either an electrical signal or an optical interface known as TOSLINK . Digital outputs are then decoded by an AV receiver .
+
+In the case of wireless audio, the computer merely transmits a radio signal , and responsibility of decoding and output is shifted to the speaker.
+
+While speakers can be used for any purpose, there are computer speakers which are built for computer use. These speakers are designed to sit on a desk, and as such, cannot be as large as conventional speakers.
+
+Computer speakers may be powered via USB , and are most often connected through a 3.5mm phone connector.
+
+The PC speaker is a simple loudspeaker built into IBM PC compatible computers. Unlike a speaker used with a sound card, the PC speaker is only meant to produce square waves to produce sounds such as beeping .
+
+Modern computers utilize a piezoelectric buzzer or a small speaker as the PC speaker.
+
+PC speakers are used during Power-on self-test to identify errors during the computer's boot process, without needing a video output device to be present and functional.
+
+A Studio monitor is a speaker used in a studio environment. These speakers optimize for accuracy. A monitor produces a flat (linear) frequency response which does not emphasize or de-emphasize of particular frequencies.
+
+Headphones , earphones , and earpieces are a kind of speaker which is supported either on the user's head, or the user's ear.
+
+Unlike a speaker, headphones are not meant to be audible to people nearby, which suits them for use in the public , office or other quiet environments.
+
+Noise-cancelling headphones are built with ambient noise reduction capabilities which may employ active noise cancelling .
+
+Loudspeakers are composed of several components within an enclosure , such as several drivers , active amplifiers , crossovers , and other electronics. Multiple drivers are used to reproduce the full frequency range of human hearing , with tweeters producing high pitches and woofers producing low pitches. Full-range speakers use only one driver to produce as much of a frequency response as possible.
+
+While Hi-Fi speakers attempt to produce high quality sound, computer speakers may compromise on these aspects due to their limited size and to be inexpensive, and the latter often uses full-range speakers as a result.
+
+A refreshable braille display outputs braille characters through the use of pins raised out of holes on its surface. It is ordinarily used by visually-impaired individuals as an alternative to a screen reader .
+
+Haptic technology involves the use of vibration and other motion to induce a sense of touch. Haptic technology was introduced in the late 1990s for use in game controllers , to provide tactile feedback while a user is playing a video game. Haptic feedback has seen further uses in the automotive field, aircraft simulation systems, and brain-computer interfaces .
+
+In mobile devices, Apple added haptic technology in various devices, marketed as 3D Touch and Force Touch . In this form, several devices could sense the amount of force exerted on its touchscreen, while MacBooks could sense two levels of force on its touchpad , which will produce a haptic sensation.
+
+A printer is a device that outputs data to be put on a physical item, usually a piece of paper . Printers operate by transferring ink onto this medium in the form of the image received from the host.
+
+Early printers could only print text, but later developments allowed printing of graphics. Modern printers can receive data in multiple forms like vector graphics , as an image , a program written in a page description language , or a string of characters.
+
+Multiple types of printers exist:
+
+A plotter is a type of printer used to print vector graphics . Instead of drawing pixels onto the printing medium, the plotter draws lines, which may be done with a writing implement such as a pencil or pen.
+
+A teleprinter or teletypewriter (TTY) is a type of printer that is meant for sending and receiving messages. Before displays were used to display data visually, early computers would  only have a teleprinter for use to access the system console . As the operator would enter commands into its keyboard, the teleprinter would output the results onto a piece of paper. The teleprinter would ultimately be succeeded by a computer terminal , which had a display instead of a printer.
+
+A computer can still function without an output device, as is commonly done with servers , where the primary interaction is typically over a data network. A number of protocols exist over serial ports or LAN cables to determine operational status, and to gain control over low-level configuration from a remote location without having a local display device. If the server is configured with a video output, it is often possible to connect a temporary display device for maintenance or administration purposes while the server continues to operate normally; sometimes several servers are multiplexed to a single display device though a KVM switch or equivalent.
+
+Some methods to use remote systems are:

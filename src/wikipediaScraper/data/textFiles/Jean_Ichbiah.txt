@@ -1,0 +1,15 @@
+Jean David Ichbiah (25 March 1940 – 26 January 2007) was a French computer scientist . From 1977 to 1983 he was the chief designer of Ada , a general-purpose , strongly typed programming language with certified validated compilers .
+
+Ichbiah was a descendant of Greek and Turkish Jews from Thessaloniki who emigrated to France.
+
+In 1980 fund the Company Alsys . From 1972 to 1974, he worked on designing an experimental system implementation language called LIS , based on Pascal and Simula . (He had been chairman of the Simula User's Group.) He was also one of the founding members of IFIP WG 2.4 on Systems Implementation Languages.
+
+He then joined CII Honeywell Bull (CII-HB) in Louveciennes, France , becoming a member of the Programming Research division. Among other projects he worked on the rewrite of the Siris 7  operating system into Siris 8 computer restructuring Iris 80 .
+
+Ichbiah's team submitted a language design labelled "Green" to a competition to choose the United States Department of Defense 's embedded programming language. When Green was selected in 1978, he continued as chief designer of the language, now named " Ada ". In 1980, Ichbiah left CII-HB and founded the Alsys corporation in La Celle-Saint-Cloud , which continued language definition to standardize Ada 83, and later went into the Ada compiler business, also supplying special validated compiler systems to NASA , the US Army , and others. He later moved to the Waltham, Massachusetts subsidiary of Alsys.
+
+In the 1990s, Ichbiah designed the keyboard layout FITALY , which is specifically optimized for stylus or touch-based input . Subsequently, he started the Textware Solutions company, which sells text entry software for PDAs and tablet PCs , as well as text-entry software for medical transcription on PCs.
+
+In 1979, Jean Ichbiah was designated a chevalier (knight) of the French Legion of Honour and a correspondent of the French Academy of Sciences . He received a Certificate of Distinguished Service from the United States Department of Defense for his work on Ada.
+
+Jean Ichbiah died from complications of a brain tumor on January 26, 2007.

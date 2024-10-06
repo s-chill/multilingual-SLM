@@ -1,0 +1,29 @@
+Centrifugal casting or rotocasting is a casting technique that is typically used to cast thin-walled cylinders. It is typically used to cast materials such as metals, glass, and concrete. A high quality is attainable by control of metallurgy and crystal structure. Unlike most other casting techniques, centrifugal casting is chiefly used to manufacture rotationally symmetric stock materials in standard sizes for further machining , rather than shaped parts tailored to a particular end-use.
+
+Typical materials that can be centrifugal cast are metals, cements, concretes, glass, and pottery materials. Typical metals cast are iron , steel , stainless steels , and alloys of nickel , aluminum , and copper , magnesium .
+
+Two materials can be combined by introducing a second material during the process. A common example is cast iron pipe coated on the interior with cement.
+
+In centrifugal casting, a permanent mold is rotated continuously at high speeds (300 to 3000 rpm) as the molten metal is poured. The molten metal spreads along the inside mold wall, where it solidifies after cooling. The casting is usually a fine-grained casting with an especially fine-grained outer diameter, due to the rapid cooling at the surface of the mold. Lighter impurities and inclusions move towards the inside diameter and can be machined away following the casting.
+
+Casting machines may be either horizontal or vertical-axis. Horizontal axis machines are preferred for long, thin cylinders, vertical machines for rings and bearings.
+
+Castings usually solidify from the outside in. This directional solidification improves some metallurgical properties. Often the inner and outermost layers are removed and only the intermediary columnar zone is used.
+
+Centrifugal casting was the invention of Alfred Krupp , who used it to manufacture railway tyres ( cast steel tyres for railway wheels) starting in 1852.
+
+Typical parts made by this process are pipes , flywheels , cylinder liners , and other parts that are axi-symmetric . It is notably used to cast cylinder liners and sleeve valves for piston engines, parts which could not be reliably manufactured otherwise. UFIP is notable for applying this process to the manufacture of Cymbals .
+
+The technique is known in the glass industry as " spinning ". The centrifugal force pushes the molten glass against the mold wall, where it solidifies. The cooling process often takes between 16 and 72 hours depending on the impurities or volume of material. Typical products made using this process are television tubes and missile nose cones.
+
+Spin casting is also used to manufacture large telescope mirrors, where the natural curve followed by the molten glass greatly reduces the amount of grinding required. Rather than pouring glass into a mold an entire turntable containing the peripheral mold and the back pattern (a honeycomb pattern to reduce the mass of the finished product) is contained within a furnace and charged with the glass material used. The assembly is then heated and spun at slow speed until the glass is liquid, then gradually cooled over a period of months.
+
+Centrifugal casting is also commonly used to shape glass into spherical objects such as marbles .
+
+Cylinders and shapes with rotational symmetry are most commonly cast by this technique. Long castings are often produced with the long axis parallel to the ground rather than standing up in order to distribute the effect of gravity evenly.
+
+Thin-walled cylinders are difficult to cast by other means. Centrifugal casting is particularly suited as they behave in the manner of shallow flat castings relative to the direction of the centrifugal force.
+
+Centrifugal casting is also used to manufacture disk and cylinder shaped objects such as railway carriage wheels or machine fittings where grain, flow, and balance are important to the durability and utility of the finished product.
+
+Noncircular shapes may also be cast providing the shape is relatively constant in radius.

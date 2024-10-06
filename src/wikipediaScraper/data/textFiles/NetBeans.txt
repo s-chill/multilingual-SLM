@@ -1,0 +1,45 @@
+NetBeans is an integrated development environment (IDE) for Java . NetBeans allows applications to be developed from a set of modular software components called modules . NetBeans runs on Windows , macOS , Linux and Solaris . In addition to Java development, it has extensions for other languages like PHP , C , C++ , HTML5 , and JavaScript . Applications based on NetBeans, including the NetBeans IDE, can be extended by third party developers .
+
+NetBeans began in 1996 as Xelfi (word play on Delphi ), a Java IDE student project under the guidance of the Faculty of Engineering and Technology at Charles University in Prague . In 1997, Roman Staněk formed a company around the project and produced commercial versions of the NetBeans IDE until it was bought by Sun Microsystems in 1999. Sun open-sourced the NetBeans IDE in June of the following year. Since then, the NetBeans community has continued to grow. In 2010, Sun (and thus NetBeans) was acquired by Oracle Corporation . Under Oracle, NetBeans had to find some synergy with JDeveloper , a freeware IDE that has historically been a product of the company, by 2012 both IDEs were rebuilt around a shared codebase - the NetBeans Platform. In September 2016, Oracle submitted a proposal to donate the NetBeans project to The Apache Software Foundation , stating that it was "opening up the NetBeans governance model to give NetBeans constituents a greater voice in the project's direction and future success through the upcoming release of Java 9 and NetBeans 9 and beyond". The move was endorsed by Java creator James Gosling . The project entered the Apache Incubator in October 2016.
+
+NetBeans IDE is an open-source integrated development environment. NetBeans IDE supports development of all Java application types ( Java SE (including JavaFX ), Java ME , web , EJB and mobile applications) out of the box. Among other features are an Ant -based project system, Maven support, refactorings , version control (supporting CVS , Subversion , Git , Mercurial and Clearcase ).
+
+Modularity: All the functions of the IDE are provided by modules. Each module provides a well-defined function, such as support for the Java language , editing, or support for the CVS versioning system, and SVN. NetBeans contains all the modules needed for Java development in a single download, allowing the user to start working immediately. Modules also allow NetBeans to be extended. New features, such as support for other programming languages, can be added by installing additional modules. For instance, Sun Studio , Sun Java Studio Enterprise, and Sun Java Studio Creator from Sun Microsystems are all based on the NetBeans IDE.
+
+License: The IDE is licensed under the Apache License 2.0 . Previously, from July 2006 through 2007, NetBeans IDE was licensed under Sun's Common Development and Distribution License (CDDL), a license based on the Mozilla Public License (MPL). In October 2007, Sun announced that NetBeans would henceforth be offered under a dual license of the CDDL and the GPL version 2 licenses, with the GPL linking exception for GNU Classpath . Oracle has donated NetBeans Platform and IDE to the Apache Foundation where it underwent incubation and graduated as a top level project in April 2019.
+
+In an October 2016 interview with Gabriela Motroc, Oracle Vice President Bill Pataky stated that Oracle has a number of products that depend on NetBeans.
+
+These modules are part of the NetBeans IDE:
+
+The NetBeans Profiler is a tool for the monitoring of Java applications: It helps developers find memory leaks and optimize speed. Formerly downloaded separately, it is integrated into the core IDE since version 6.0.
+The Profiler is based on a Sun Laboratories research project that was named JFluid. That research uncovered specific techniques that can be used to lower the overhead of profiling a Java application. One of those techniques is dynamic bytecode instrumentation, which is particularly useful for profiling large Java applications. Using dynamic bytecode instrumentation and additional algorithms, the NetBeans Profiler is able to obtain runtime information on applications that are too large or complex for other profilers. NetBeans also support Profiling Points that let you profile precise points of execution and measure execution time.
+
+Formerly known as project Matisse , the GUI design -tool enables developers to prototype and design Swing GUIs by dragging and positioning GUI components.
+
+The GUI builder has built-in support for JSR 295 (Beans Binding technology), but the support for JSR 296 ( Swing Application Framework ) was removed in 7.1.
+
+The NetBeans JavaScript editor provides extended support for JavaScript , Ajax, and CSS .
+
+JavaScript editor features comprise syntax highlighting , refactoring , code completion for native objects and functions, generation of JavaScript class skeletons, generation of Ajax callbacks from a template; and automatic browser compatibility checks.
+
+CSS editor features comprise code completion for styles names, quick navigation through the navigator panel, displaying the CSS rule declaration in a List View and file structure in a Tree View, sorting the outline view by name, type or declaration order (List & Tree), creating rule declarations (Tree only), refactoring a part of a rule name (Tree only).
+
+The NetBeans 7.4 and later uses the new Nashorn JavaScript engine developed by Oracle.
+
+Users can choose to download NetBeans IDE bundles tailored to specific development needs. Users can also download and install all other features at a later date directly through the NetBeans IDE.
+
+The NetBeans IDE Bundle for Web & Java EE provides complete tools for all the latest Java EE 6 standards, including the new Java EE 6 Web Profile, Enterprise Java Beans (EJBs), servlets, Java Persistence API, web services, and annotations.
+NetBeans also supports the JSF 2.0 (Facelets), JavaServer Pages (JSP), Hibernate, Spring, and Struts frameworks, and the Java EE 5 and J2EE 1.4 platforms. It includes GlassFish and Apache Tomcat .
+
+Some of its features with Java EE include:
+
+NetBeans supports PHP since version 5.6. The bundle for PHP includes:
+
+Oracle also releases a version of NetBeans that includes all of the features of the above bundles. This bundle includes:
+
+Official Ruby support was removed with the release of 7.0.
+
+NetBeans IDE is translated into the following languages:
+
+Community translations of the IDE are also available in the following languages:

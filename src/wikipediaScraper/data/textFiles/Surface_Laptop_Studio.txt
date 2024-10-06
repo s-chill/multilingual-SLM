@@ -1,0 +1,7 @@
+The Surface Laptop Studio is a 2-in-1 convertible laptop developed by Microsoft . It was announced by the company alongside the Surface Go 3 and Surface Pro 8 , Surface Duo 2 and several Surface accessories at their Surface Event on September 22, 2021. The device is a new form factor featuring a dual-pivoting screen that flips into tablet mode. The laptop shipped with Windows 11 .
+
+On 4 February, 2022, Microsoft announced the general availability for organizations across industries in the UAE of its Surface Laptop Studio and Surface Pro 8 .
+
+Microsoft announced its replacement, the Surface Laptop Studio 2 in September 2023.
+
+The Surface Laptop Studio will be powered by the new Windows 11 operating system with a 30-day trial of Microsoft 365 . Consumer models will get the Home edition and the business models will get the Pro edition of the operating system. The device also supports Windows Hello login using biometric facial recognition .

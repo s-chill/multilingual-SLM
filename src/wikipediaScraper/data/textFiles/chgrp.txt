@@ -1,0 +1,17 @@
+The chgrp (from ch ange gr ou p ) command may be used by unprivileged users on various operating systems to change the group associated with a file system object (such as a computer file , directory , or link) to one of which they are a member. A file system object has 3 sets of access permissions, one set for the owner, one set for the group and one set for others. Changing the group of an object could be used to change which users can write to a file.
+
+The chgrp command was originally developed as part of the Unix operating system by AT&T Bell Laboratories .
+
+It is also available in the Plan 9 and Inferno operating systems and in most Unix-like systems.
+
+The chgrp command has also been ported to the IBM i operating system.
+
+The version of chgrp bundled in GNU coreutils was written by David MacKenzie.
+
+-R recurse through subdirectories.
+
+-v verbosely output names of objects changed. Most useful when "FSO" is a list.
+
+-f force or forge ahead with other objects even if an error is encountered.
+
+The above command changes the group associated with file prog.conf from wheel to staff (provided the executing user is a member of that group). This could be used to allow members of staff to modify the configuration for programs prog and prox .

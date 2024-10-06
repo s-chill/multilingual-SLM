@@ -1,0 +1,15 @@
+A bootsplash , also known as a bootscreen , is a graphical representation of the boot process of the operating system .
+
+A bootsplash can be a simple visualization of the scrolling boot messages in the console , but it can also present graphics or some combinations of both.
+
+Unlike splash screens , a bootsplash is not necessarily designed for marketing purposes; it can be intended to enhance the experience of the user as eye candy, or provide the user with messages (with an added advantage of color-coding facility) to diagnose the state of the system.
+
+All versions of Microsoft Windows feature a boot screen, which is loaded during the startup process. With extra, third-party utilities, it is possible to replace the default Windows boot screen with custom images, text, and/or animations.
+
+In Windows Vista , the default boot screen is represented by a green indeterminate progress indicator . The boot screen can be changed so that it displays a static image of an aurora with the text, "Starting Windows Vista" by enabling the "No GUI boot" option within the Windows System Configuration Utility (msconfig.exe). Microsoft would update the aurora image throughout the lifecycle of the operating system, starting with the first service pack , where it was altered to match the image displayed during the operating system's hibernation screen.
+
+In Windows 7 , the boot screen will initially display the "Starting Windows" text, then a Windows flag animation will appear at the center of the screen. On unsupported systems, and sometimes when booting into recovery environment , the Windows Vista boot screen will be used instead as the fallback.
+
+Changes of the boot screen, although possible through third-party utilities, is extremely risky and may cause the system to be unable to boot. Also, the hidden "Aurora" boot screen was removed.
+
+In Windows 8 and later, the boot screen will display the Windows logo along with the loading circle. On Legacy boot, the boot screen is displayed in 1024×768 resolution, and the boot screen is squished to accommodate for the 16:9 aspect ratio. On UEFI boot, the boot screen is displayed in highest resolution available. If the ACPI BGRT table is present, the boot screen will display the OEM logo instead.

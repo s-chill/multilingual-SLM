@@ -1,0 +1,105 @@
+In solid-state physics , the tight-binding model (or TB model ) is an approach to the calculation of electronic band structure using an approximate set of wave functions based upon superposition of wave functions for isolated atoms located at each atomic site. The method is closely related to the LCAO method (linear combination of atomic orbitals method) used in chemistry. Tight-binding models are applied to a wide variety of solids. The model gives good qualitative results in many cases and can be combined with other models that give better results where the tight-binding model fails. Though the tight-binding model is a one-electron model, the model also provides a basis for more advanced calculations like the calculation of surface states and application to various kinds of many-body problem and quasiparticle calculations.
+
+The name "tight binding" of this electronic band structure model suggests that this quantum mechanical model describes the properties of tightly bound electrons in solids. The electrons in this model should be tightly bound to the atom to which they belong and they should have limited interaction with states and potentials on surrounding atoms of the solid. As a result, the wave function of the electron will be rather similar to the atomic orbital of the free atom to which it belongs. The energy of the electron will also be rather close to the ionization energy of the electron in the free atom or ion because the interaction with potentials and states on neighboring atoms is limited.
+
+Though the mathematical formulation of the one-particle tight-binding Hamiltonian may look complicated at first glance, the model is not complicated at all and can be understood intuitively quite easily. There are only three kinds of matrix elements that play a significant role in the theory. Two of those three kinds of elements should be close to zero and can often be neglected. The most important elements in the model are the interatomic matrix elements, which would simply be called the bond energies by a chemist.
+
+In general there are a number of atomic energy levels and atomic orbitals involved in the model. This can lead to complicated band structures because the orbitals belong to different point-group representations. The reciprocal lattice and the Brillouin zone often belong to a different space group than the crystal of the solid. High-symmetry points in the Brillouin zone belong to different point-group representations. When simple systems like the lattices of elements or simple compounds are studied it is often not very difficult to calculate eigenstates in high-symmetry points analytically. So the tight-binding model can provide nice examples for those who want to learn more about group theory .
+
+The tight-binding model has a long history and has been applied in many ways and with many different purposes and different outcomes. The model doesn't stand on its own. Parts of the model can be filled in or extended by other kinds of calculations and models like the nearly-free electron model . The model itself, or parts of it, can serve as the basis for other calculations. In the study of conductive polymers , organic semiconductors and molecular electronics , for example, tight-binding-like models are applied in which the role of the atoms in the original concept is replaced by the molecular orbitals of conjugated systems and where the interatomic matrix elements are replaced by inter- or intramolecular hopping and tunneling parameters. These conductors nearly all have very anisotropic properties and sometimes are almost perfectly one-dimensional.
+
+By 1928, the idea of a molecular orbital had been advanced by Robert Mulliken , who was influenced considerably by the work of Friedrich Hund . The LCAO method for approximating molecular orbitals was introduced in 1928 by B. N. Finklestein and G. E. Horowitz, while the LCAO method for solids was developed by Felix Bloch , as part of his doctoral dissertation in 1928, concurrently with and independent of the LCAO-MO approach. A much simpler interpolation scheme for approximating the electronic band structure, especially for the d-bands of transition metals , is the parameterized tight-binding method conceived in 1954 by John Clarke Slater and George Fred Koster , sometimes referred to as the SK tight-binding method .   With the SK tight-binding method, electronic band structure calculations on a solid need not be carried out with full rigor as in the original Bloch's theorem but, rather, first-principles calculations are carried out only at high-symmetry points and the band structure is interpolated over the remainder of the Brillouin zone between these points.
+
+In this approach, interactions between different atomic sites are considered as perturbations . There exist several kinds of interactions we must consider. The crystal Hamiltonian is only approximately a sum of atomic Hamiltonians located at different sites and atomic wave functions overlap adjacent atomic sites in the crystal, and so are not accurate representations of the exact wave function. There are further explanations in the next section with some mathematical expressions.
+
+In the recent research about strongly correlated material the tight binding approach is basic approximation because highly localized electrons like 3-d transition metal electrons sometimes display strongly correlated behaviors. In this case, the role of electron-electron interaction must be considered using the many-body physics description.
+
+The tight-binding model is typically used for calculations of electronic band structure and band gaps in the static regime.  However, in combination with other methods such as the random phase approximation (RPA) model, the dynamic response of systems may also be studied. In 2019, Bannwarth et al. introduced the GFN2-xTB method, primarily for the calculation of structures and non-covalent interaction energies.
+
+We introduce the atomic orbitals φ m ( r ) {\displaystyle \varphi _{m}(\mathbf {r} )} , which are eigenfunctions of the Hamiltonian H a t {\displaystyle H_{\rm {at}}} of a single isolated atom. When the atom is placed in a crystal, this atomic wave function overlaps adjacent atomic sites, and so are not true eigenfunctions of the crystal Hamiltonian. The overlap is less when electrons are tightly bound, which is the source of the descriptor "tight-binding".  Any corrections to the atomic potential Δ U {\displaystyle \Delta U} required to obtain the true Hamiltonian H {\displaystyle H} of the system, are assumed small:
+
+where V ( r − R n ) {\displaystyle V(\mathbf {r} -\mathbf {R} _{n})} denotes the atomic potential of one atom located at site R n {\displaystyle \mathbf {R} _{n}} in the crystal lattice . A solution ψ m {\displaystyle \psi _{m}} to the time-independent single electron Schrödinger equation is then approximated as a linear combination of atomic orbitals φ m ( r − R n ) {\displaystyle \varphi _{m}(\mathbf {r-R_{n}} )} :
+
+where m {\displaystyle m} refers to the m-th atomic energy level.
+
+The Bloch theorem states that the wave function in a crystal can change under translation only by a phase factor:
+
+where k {\displaystyle \mathbf {k} } is the wave vector of the wave function. Consequently, the coefficients satisfy
+
+By substituting R p = R n − R ℓ {\displaystyle \mathbf {R} _{p}=\mathbf {R} _{n}-\mathbf {R_{\ell }} } , we find
+
+or
+
+Normalizing the wave function to unity:
+
+so the normalization sets b m ( 0 ) {\displaystyle b_{m}(0)} as
+
+where α m ( R p ) {\displaystyle {\alpha _{m}(\mathbf {R} _{p})}} are the atomic overlap integrals, which frequently are neglected resulting in
+
+and
+
+Using the tight binding form for the wave function, and assuming only the m-th atomic energy level is important for the m-th energy band, the  Bloch energies ε m {\displaystyle \varepsilon _{m}} are of the form
+
+Here in the last step it was assumed that the overlap integral is zero and thus b m ∗ ( 0 ) b m ( 0 ) = 1 N {\displaystyle b_{m}^{*}(\mathbf {0} )b_{m}(\mathbf {0} )={\frac {1}{N}}} . The energy then becomes
+
+where E m is the energy of the m -th atomic level, and α m , l {\displaystyle \alpha _{m,l}} , β m {\displaystyle \beta _{m}} and γ m , l {\displaystyle \gamma _{m,l}} are the tight binding matrix elements discussed below.
+
+The elements β m = − ∫ φ m ∗ ( r ) Δ U ( r ) φ m ( r ) d 3 r , {\displaystyle \beta _{m}=-\int {\varphi _{m}^{*}(\mathbf {r} )\Delta U(\mathbf {r} )\varphi _{m}(\mathbf {r} )\,d^{3}r}{\text{,}}} are the atomic energy shift due to the potential on neighboring atoms. This term is relatively small in most cases. If it is large it means that potentials on neighboring atoms have a large influence on the energy of the central atom.
+
+The next class of terms γ m , l ( R n ) = − ∫ φ m ∗ ( r ) Δ U ( r ) φ l ( r − R n ) d 3 r , {\displaystyle \gamma _{m,l}(\mathbf {R} _{n})=-\int {\varphi _{m}^{*}(\mathbf {r} )\Delta U(\mathbf {r} )\varphi _{l}(\mathbf {r} -\mathbf {R} _{n})\,d^{3}r}{\text{,}}} is the interatomic matrix element between the atomic orbitals m and l on adjacent atoms. It is also called the bond energy or two center integral and it is the dominant term in the tight binding model.
+
+The last class of terms α m , l ( R n ) = ∫ φ m ∗ ( r ) φ l ( r − R n ) d 3 r , {\displaystyle \alpha _{m,l}(\mathbf {R} _{n})=\int {\varphi _{m}^{*}(\mathbf {r} )\varphi _{l}(\mathbf {r} -\mathbf {R} _{n})\,d^{3}r}{\text{,}}} denote the overlap integrals between the atomic orbitals m and l on adjacent atoms.  These, too, are typically small; if not, then Pauli repulsion has a non-negligible influence on the energy of the central atom.
+
+As mentioned before the values of the β m {\displaystyle \beta _{m}} -matrix elements are not so large in comparison with the ionization energy because the potentials of neighboring atoms on the central atom are limited. If β m {\displaystyle \beta _{m}} is not relatively small it means that the potential of the neighboring atom on the central atom is not small either. In that case it is an indication that the tight binding model is not a very good model for the description of the band structure for some reason. The interatomic distances can be too small or the charges on the atoms or ions in the lattice is wrong for example.
+
+The interatomic matrix elements γ m , l {\displaystyle \gamma _{m,l}} can be calculated directly if the atomic wave functions and the potentials are known in detail. Most often this is not the case. There are numerous ways to get parameters for these matrix elements. Parameters can be obtained from chemical bond energy data . Energies and eigenstates on some high symmetry points in the Brillouin zone can be evaluated and values integrals in the matrix elements can be matched with band structure data from other sources.
+
+The interatomic overlap matrix elements α m , l {\displaystyle \alpha _{m,l}} should be rather small or neglectable. If they are large it is again an indication that the tight binding model is of limited value for some purposes. Large overlap is an indication for too short interatomic distance for example. In metals and transition metals the broad s-band or sp-band can be fitted better to an existing band structure calculation by the introduction of next-nearest-neighbor matrix elements and overlap integrals but fits like that don't yield a very useful model for the electronic wave function  of a metal. Broad bands in dense materials are better described by a nearly free electron model .
+
+The tight binding model works particularly well in cases where the band width is small and the electrons are strongly localized, like in the case of d-bands and f-bands. The model also gives good results in the case of open crystal structures, like diamond or silicon, where the number of neighbors is small. The model can easily be combined with a nearly free electron model in a hybrid NFE-TB model.
+
+Bloch functions describe the electronic states in a periodic crystal lattice . Bloch functions can be represented as a Fourier series
+
+where R n {\displaystyle \mathbf {R} _{n}} denotes an atomic site in a periodic crystal lattice, k {\displaystyle \mathbf {k} } is the wave vector of the Bloch's function, r {\displaystyle \mathbf {r} } is the electron position, m {\displaystyle m} is the band index, and the sum is over all N {\displaystyle N} atomic sites. The Bloch's function is an exact eigensolution for the wave function of an electron in a periodic crystal potential corresponding to an energy E m ( k ) {\displaystyle E_{m}(\mathbf {k} )} , and is spread over the entire crystal volume.
+
+Using the Fourier transform analysis, a spatially localized wave function for the m -th energy band can be constructed from multiple Bloch's functions:
+
+These real space wave functions a m ( R n , r ) {\displaystyle {a_{m}(\mathbf {R} _{n},\mathbf {r} )}} are called Wannier functions , and are fairly closely localized to the atomic site R n {\displaystyle \mathbf {R} _{n}} . Of course, if we have exact Wannier functions , the exact Bloch functions can be derived using the inverse Fourier transform.
+
+However it is not easy to calculate directly either Bloch functions or Wannier functions . An approximate approach is necessary in the calculation of electronic structures of solids. If we consider the extreme case of isolated atoms, the Wannier function would become an isolated atomic orbital. That limit suggests the choice of an atomic wave function as an approximate form for the Wannier function, the so-called tight binding approximation.
+
+Modern explanations of electronic structure like t-J model and Hubbard model are based on tight binding model. Tight binding can be understood by working under a second quantization formalism.
+
+Using the atomic orbital as a basis state, the second quantization Hamiltonian operator in the tight binding framework can be written as:
+
+Here, hopping integral t {\displaystyle \displaystyle t} corresponds to the transfer integral γ {\displaystyle \displaystyle \gamma } in tight binding model. Considering extreme cases of t → 0 {\displaystyle t\rightarrow 0} , it is impossible for an electron to hop into neighboring sites. This case is the isolated atomic system. If the hopping term is turned on ( t > 0 {\displaystyle \displaystyle t>0} ) electrons can stay in both sites lowering their kinetic energy .
+
+In the strongly correlated electron system, it is necessary to consider the electron-electron interaction. This term can be written in
+
+This interaction Hamiltonian includes direct Coulomb interaction energy and exchange interaction energy between electrons. There are several novel physics induced from this electron-electron interaction energy, such as metal-insulator transitions (MIT), high-temperature superconductivity , and several quantum phase transitions .
+
+Here the tight binding model is illustrated with a s-band model for a string of atoms with a single s-orbital in a straight line with spacing a and σ bonds between atomic sites.
+
+To find approximate eigenstates of the Hamiltonian, we can use a linear combination of the atomic orbitals
+
+where N = total number of sites and k {\displaystyle k} is a real parameter with − π a ≦ k ≦ π a {\displaystyle -{\frac {\pi }{a}}\leqq k\leqq {\frac {\pi }{a}}} . (This wave function is normalized to unity by the leading factor 1/√N provided overlap of atomic wave functions is ignored.) Assuming only nearest neighbor overlap, the only non-zero matrix elements of the Hamiltonian can be expressed as
+
+The energy E i is the ionization energy corresponding to the chosen atomic orbital and U is the energy shift of the orbital as a result of the potential of neighboring atoms. The ⟨ n ± 1 | H | n ⟩ = − Δ {\displaystyle \langle n\pm 1|H|n\rangle =-\Delta } elements, which are the Slater and Koster interatomic matrix elements , are the bond energies E i , j {\displaystyle E_{i,j}} . In this one dimensional s-band model we only have σ {\displaystyle \sigma } -bonds between the s-orbitals with bond energy E s , s = V s s σ {\displaystyle E_{s,s}=V_{ss\sigma }} . The overlap between states on neighboring atoms is S . We can derive the energy of the state | k ⟩ {\displaystyle |k\rangle } using the above equation:
+
+where, for example,
+
+and
+
+Thus the energy of this state | k ⟩ {\displaystyle |k\rangle } can be represented in the familiar form of the energy dispersion:
+
+This example is readily extended to three dimensions, for example, to a body-centered cubic or face-centered cubic lattice by introducing the nearest neighbor vector locations in place of simply n a . Likewise, the method can be extended to multiple bands using multiple different atomic orbitals at each site. The general formulation above shows how these extensions can be accomplished.
+
+In 1954 J.C. Slater and G.F. Koster published, mainly for the calculation of transition metal d-bands, a table of interatomic matrix elements
+
+which can also be derived from the cubic harmonic orbitals straightforwardly. The table expresses the matrix elements as functions of LCAO two-centre bond integrals between two cubic harmonic orbitals, i and j , on adjacent atoms. The bond integrals are for example the V s s σ {\displaystyle V_{ss\sigma }} , V p p π {\displaystyle V_{pp\pi }} and V d d δ {\displaystyle V_{dd\delta }} for sigma , pi and delta bonds (Notice that these integrals should also depend on the distance between the atoms, i.e. are a function of ( l , m , n ) {\displaystyle (l,m,n)} , even though it is not explicitly stated every time.).
+
+The interatomic vector is expressed as
+
+where d is the distance between the atoms and l , m and n are the direction cosines to the neighboring atom.
+
+Not all interatomic matrix elements are listed explicitly. Matrix elements that are not listed in this table can be constructed by permutation of indices and cosine directions of other matrix elements in the table. Note that swapping orbital indices  amounts to taking ( l , m , n ) → ( − l , − m , − n ) {\displaystyle (l,m,n)\rightarrow (-l,-m,-n)} , i.e. E α , β ( l , m , n ) = E β , α ( − l , − m , − n ) {\displaystyle E_{\alpha ,\beta }(l,m,n)=E_{\beta ,\alpha }(-l,-m,-n)} . For example, E x , s = − l V s p σ {\displaystyle E_{x,s}=-lV_{sp\sigma }} .

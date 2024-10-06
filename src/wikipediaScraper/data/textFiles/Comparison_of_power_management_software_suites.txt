@@ -1,0 +1,19 @@
+PC power management refers to software-based mechanisms for controlling the power use of personal computer hardware . This is typically achieved through software that puts the hardware into the lowest power demand state available, making it an aspect of green computing .
+
+A typical office PC uses about 90 watts when active (approximately 50 watts for the base unit, and 40 watts for a typical LCD screen); and three to four watts when ‘ asleep ’. Up to 10% of a modern office’s electricity demand can be due to PCs and monitors.
+
+While most PCs allow low power settings, there are frequently situations, especially in a networked environment, where processes running on the computer will prevent the low power settings from taking effect. This can have a dramatic effect on energy use that is invisible to the user. Operational testing has shown that on any given day an average of over 50% of an organization's computers will fail to go to sleep, and over long periods of time this affects over 90% of machines. This leads to most computers having the option of customizing power management systems and has created a market for third-party power management software to further control a computer’s power use.
+
+The Windows power management system is based upon an idle timer. If the computer is idle for longer than the pre-set time, then the PC may be configured to sleep or ' hibernate '. Windows uses a combination of user activity and CPU activity to determine when the computer is idle.
+
+Applications can temporarily inhibit this timer by using the ' SetThreadExecutionState ' API. There are legitimate reasons why this may be necessary such as burning a DVD or playing a video. However, in many cases applications can unnecessarily prevent power management from lowering power demand. This is commonly known as Windows 'Insomnia' and can be a barrier to successfully implementing power management.
+
+Common causes include:
+
+Operating systems have built-in settings to control power use. Microsoft Windows supports predefined power plans and custom sleep and hibernation settings through a Control Panel Power Options applet. Apple's macOS includes idle and sleep configuration settings through the Energy Saver System Preferences applet. Likewise, Linux distributions include a variety of power management settings and tools.
+
+There is a significant market in third-party PC power management software offering features beyond those present in the Windows operating system. Notable vendors Data Synergy's 'PowerMAN' , Faronics' 'Power Save', and Verdiem's 'SURVEYOR'.
+
+Some studies have suggested that power management tools can save on average 200 kg of CO 2 emissions per PC per year and generate $ 36 per PC per year in energy savings.
+
+The following tables compare technical information for a commercial PC Power Management software suites. Please see the individual products' articles for further information. The table only includes systems that are widely used and currently available.

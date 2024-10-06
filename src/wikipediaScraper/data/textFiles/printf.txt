@@ -1,0 +1,113 @@
+printf is a C standard library function that formats text and writes it to standard output .
+
+The name, printf is short for print formatted where print refers to output to a printer although the functions are not limited to printer output.
+
+The standard library provides many other similar functions that form a family of printf-like functions. These functions accept a format string parameter and a variable number of value parameters that the function serializes per the format string and writes to an output stream or a string buffer .
+
+The format string is encoded as a template language consisting of verbatim text and format specifiers that each specify how to serialize a value. As the format string is processed left-to-right , a subsequent value is used for each format specifier found. A format specifier starts with a % character and has one or more following characters that specify how to serialize a value.
+
+The format string syntax and semantics is the same for all of the functions in the printf-like family.
+
+Mismatch between the format specifiers and count and type of values can cause a crash or vulnerability .
+
+The printf format string is complementary to the scanf format string , which provides formatted input ( lexing a.k.a. parsing ). Both format strings provide relatively simple functionality compared to other template engines, lexers and parsers.
+
+The formatting design has been copied in other programming languages .
+
+Early programming languages like Fortran used special statements with different syntax from other calculations to build formatting descriptions. In this example, the format is specified on line 601, and the PRINT command refers to it by line number:
+
+Hereby:
+
+An output with input arguments 100, 200, and 1500.25 might look like this:
+
+In 1967, BCPL appeared. Its library included the writef routine. An example application looks like this:
+
+Hereby:
+
+In 1968, ALGOL 68 had a more function-like API , but still used special syntax (the $ delimiters surround special formatting syntax):
+
+In contrast to Fortran, using normal function calls and data types simplifies the language and compiler, and allows the implementation of the input/output to be written in the same language. These advantages outweigh the disadvantages (such as a complete lack of type safety in many instances) and in most newer languages I/O is not part of the syntax.
+
+In 1973, printf is included as a C routine as part of Version 4 Unix .
+
+In 1990, a printf shell command is attested as part of 4.3BSD-Reno . It is modeled after the standard library function.
+
+In 1991, a printf command is bundled with GNU shellutils (now part of GNU Core Utilities ).
+
+Formatting a value is specified as markup in the format string. For example, the following outputs "Your age is " and then the value of variable age in decimal format.
+
+The syntax for a format specifier is:
+
+The parameter field is optional. If included, then matching specifiers to values is not sequential. The numeric value, n , selects the nth value parameter.
+
+This is a POSIX extension; not C99 .
+
+This field allows for using the same value multiple times in a format string instead of having to pass the value multiple times. If a specifier includes this field, then subsequent specifiers must also.
+
+For example,
+
+outputs: 17 0x11; 16 0x10 .
+
+This field is particularly useful for localizing messages to different natural languages that often use different word order.
+
+In Microsoft Windows, support for this feature is via a different function, printf_p .
+
+The flags field can be zero or more of (in any order):
+
+The width field specifies the minimum number of characters to output. If the value can be represented in fewer characters, then the value is left-padded with spaces so that output is the number of characters specified. If the value requires more characters, then the output is longer than the specified width. A value is never truncated.
+
+For example, printf ( "%3d" , 12 ) specifies a width of 3 and outputs 12 with a space on the left to output 3 characters. The call printf ( "%3d" , 1234 ) outputs 1234 which is 4 characters long since that is the minimum width for that value even though the width specified is 3.
+
+If the width field is omitted, the output is the minimum number of characters for the value.
+
+If the field is specified as * , then the width value is read from the list of values in the call. For example, printf ( "%*d" , 3 , 10 ) outputs 10 where the second parameter, 3, is the width (matches with *) and 10 is the value to serialize (matches with d).
+
+Though not part of the width field, a leading zero is interpreted as the zero-padding flag mentioned above, and a negative value is treated as the positive value in conjunction with the left-alignment - flag also mentioned above.
+
+The width field can be used to format values as a table (tabulated output). But, columns do not align if any value is larger than fits in the width specified. For example, notice that the last line value (1234) does not fit in the first column of width 3 and therefore the column is not aligned.
+
+The precision field usually specifies a maximum limit of the output, depending on the particular formatting type. For floating-point numeric types, it specifies the number of digits to the right of the decimal point that the output should be rounded. For the string type, it limits the number of characters that should be output, after which the string is truncated.
+
+The precision field may be omitted, or a numeric integer value, or a dynamic value when passed as another argument when indicated by an asterisk * . For example, printf ( "%.*s" , 3 , "abcdef" ) outputs abc .
+
+The length field can be omitted or be any of:
+
+Platform-specific length options came to exist prior to widespread use of the ISO C99 extensions, including:
+
+ISO C99 includes the inttypes.h header file that includes a number of macros for platform-independent printf coding. For example: printf ( "%" PRId64 , t ); specifies decimal format for a 64-bit signed integer. Since the macros evaluate to a string literal, and the compiler concatenates adjacent string literals, the expression "%" PRId64 compiles to a single string.
+
+Macros include:
+
+The type field can be any of:
+
+A common way to handle formatting with a custom data type is to format the custom data type value into a string, then use the %s specifier to include the serialized value in a larger message.
+
+Some printf-like functions allow extensions to the escape-character -based mini-language , thus allowing the programmer to use a specific formatting function for non-builtin types. One is the (now deprecated) glibc 's register_printf_function() . However, it is rarely used due to the fact that it conflicts with static format string checking. Another is Vstr custom formatters , which allows adding multi-character format names.
+
+Some applications (like the Apache HTTP Server ) include their own printf-like function, and embed extensions into it. However these all tend to have the same problems that register_printf_function() has.
+
+The Linux kernel printk function supports a number of ways to display kernel structures using the generic %p specification, by appending additional format characters. For example, %pI4 prints an IPv4 address in dotted-decimal form.  This allows static format string checking (of the %p portion) at the expense of full compatibility with normal printf.
+
+Variants of printf provide the formatting features but with additional or slightly different behavior.
+
+fprintf outputs to a system file object which allows output to other than standard output.
+
+sprintf writes to a string buffer instead of standard output.
+
+snprintf provides a level of safety over sprintf since the caller provides a length (n) parameter that specifies the maximum number or chars to write to the buffer.
+
+For most printf-family functions, there is a variant that accepts va_list rather than a variable length parameter list. For example, there is a vfprintf , vsprintf , vsnprintf .
+
+Extra value parameters are ignored, but if the format string has more format specifiers than value parameters passed the behavior is undefined . For some C compilers, an extra format specifier results in consuming a value even though there isn't one. This can allow the format string attack . Generally, for C, arguments are passed on the stack. If too few arguments are passed, then printf can read past the end of the stackframe, thus allowing an attacker to read the stack.
+
+Some compilers, like the GNU Compiler Collection , will statically check the format strings of printf-like functions and warn about problems (when using the flags -Wall or -Wformat ). GCC will also warn about user-defined printf-style functions if the non-standard "format" __attribute__ is applied to the function.
+
+The format string is often a string literal , which allows static analysis of the function call. However, the format string can be the value of a variable, which allows for dynamic formatting but also a security vulnerability known as an uncontrolled format string exploit.
+
+Although an outputting function on the surface, printf allows writing to a memory location specified by an argument via %n . This functionality is occasionally used as a part of more elaborate format-string attacks.
+
+The %n functionality also makes printf accidentally Turing-complete even with a well-formed set of arguments. A game of tic-tac-toe written in the format string is a winner of the 27th IOCCC .
+
+Notable programming languages that include printf or printf-like functionality.
+
+Excluded are languages that use format strings that deviate from the style in this article (such as AMPL and Elixir ), languages that inherit their implementation from the JVM or other environment (such as Clojure and Scala ), and languages that do not have a standard native printf implementation but have external libraries which emulate printf behavior (such as JavaScript ).

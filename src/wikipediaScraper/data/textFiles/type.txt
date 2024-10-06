@@ -1,0 +1,11 @@
+In Unix and Unix-like operating systems , type is a command that describes how its arguments would be interpreted if used as command names.
+
+Where applicable, type will display the command name's path. Possible command types are:
+
+The command returns a non-zero exit status if command names cannot be found.
+
+The type command was a shell builtin for Bourne shell that was introduced in AT&T's System V Release 2 (SVR2) in 1984, and continues to be included in many other POSIX-compatible shells such as Bash . However, type is not part of the POSIX standard . With a POSIX shell, similar behavior is retrieved with
+
+In the KornShell , the command whence provides similar functionality.
+
+The command is available as a separate package for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities.

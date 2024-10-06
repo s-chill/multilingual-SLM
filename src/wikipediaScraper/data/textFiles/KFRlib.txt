@@ -1,0 +1,4 @@
+KFRlib is an open-source cross-platform C++ DSP framework written in C++ .
+It is covered by a dual GPL/commercial license.
+
+KFR is supported on the following platforms.

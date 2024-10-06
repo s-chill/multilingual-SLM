@@ -1,0 +1,7 @@
+Botan is a BSD-licensed cryptographic and TLS library written in C++11 . It provides a wide variety of cryptographic algorithms, formats, and protocols, e.g. SSL and TLS . It is used in the Monotone distributed revision control program, the OpenDNSSEC system, and ISC's Kea DHCP server among other projects.
+
+The project was originally called OpenCL , a name now used by Apple Inc. and Khronos Group for a heterogeneous system programming framework . It was renamed Botan in 2002.
+
+In 2007, the German Federal Office for Information Security contracted FlexSecure GmbH to add an implementation of Card Verifiable Certificates for ePassports to Botan; the modified version of Botan was released under the name InSiTo.
+
+Starting in 2015, the German Federal Office for Information Security funded a project, which included improving the documentation, test suite and feature set of Botan, culminating in 2017, when it was evaluated and recommended as a library suitable for "applications with increased security requirements".

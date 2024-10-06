@@ -1,0 +1,37 @@
+Coined in 1987, the term Knowledge Navigator described a future computing system and how people might use it to navigate worlds of knowledge. In a sense, the user is actually the “Knowledge Navigator,” though the term often refers to the system’s primary interface, a tablet computer. That part (i.e., the tablet) often stands for the whole system. The term is also the title of an Apple “vision video.” The concept was described by former Apple Computer CEO John Sculley and John A. Byrne in their book, Odyssey: Pepsi to Apple .
+
+“A future-generation Macintosh, which we should have early in the twenty-first century, might well be a wonderful fantasy machine called the Knowledge Navigator, a discoverer of worlds, a tool as galvanizing as the printing press. Individuals could use it to drive through libraries, museums, databases, or institutional archives. This tool wouldn't just take you to the doorstep of these great resources as sophisticated computers do now; it would invite you deep inside its secrets, interpreting and explaining—converting vast quantities of information into personalized and understandable knowledge.”
+
+Apple’s Knowledge Navigator video illustrated the use of a series of technologies including:
+
+Apple produced several concept videos showcasing the idea:
+
+Many of them featured a tablet style computer with numerous advanced capabilities, including an excellent text-to-speech system with no hint of "computerese", a gesture based interface resembling the multi-touch interface later used on the iPhone and an equally powerful speech understanding system, allowing the user to converse with the system via an animated "butler" as the software agent .
+
+In the Knowledge Navigator video, a university professor returns home and turns on his computer, in the form of a tablet the size of a large-format book. The agent is a bow-tie wearing butler who appears on the screen and informs him that he has several calls waiting. He ignores most of these, from his mother, and instead uses the system to compile data for a talk on deforestation in the Amazon Rainforest . While he is doing this, the computer informs him that a colleague is calling, and they then exchange data through their machines and co-create a simulation, while holding a video based conversation.
+
+In the Project 2000 video, a young student uses a smaller handheld version of the system to prompt him while he gives a class presentation on volcanoes, eventually sending a movie of an exploding volcano to the video "blackboard". In a final installment a user scans in a newspaper by placing it on the screen of the full-sized version, and then has it help him learn to read by listening to him read the scanned results, and prompting when he pauses.
+
+The first three videos were funded and sponsored by Bud Colligan , Director of Apple's higher education marketing group, written and creatively developed by Hugh Dubberly and Doris Mitsch of Apple Creative Services, with technical and conceptual input from Mike Liebhold of Apple's Advanced Technologies Group.
+
+The videos were produced by The Kenwood Group in San Francisco and directed by Randy Field. The director of photography was Bill Zarchy. Jane Hernandez was Kenwood’s producer; Christina Crowley managed Kenwood. The post-production mix was done by Gary Clayton at Russian Hill Recording for The Kenwood Group. The product industrial design was created by Gavin Ivester and Adam Grosser of Apple design.
+
+The concepts behind Knowledge Navigator owe a debt to many pioneers, especially Alan Kay and his vision of the Dynabook . Liebhold had worked with Kay at Atari, and Kay met weekly with Sculley, who wrote, “When I trace the origins of the most exciting and outrageous ideas behind the personal computer revolution, most paths lead directly to Alan.” Sculley also credits the work of Ted Nelson and Bill Atkinson . Kay was a student of Ivan Sutherland , whose work has been fundamental to modern computing. Kay was also influenced by the work of JCR Licklider , Bob Taylor , and Douglas Engelbart .
+
+Dubberly and Mitsch interviewed Paul Saffo , Bob Johansen , and Aaron Marcus as input and subsequently met with Kay. Another important influence was MIT’s Arch Mach group and its work on the “Jeep Repair Manual,” an interactive, hypertext, multi-media system, which Dubberly had visited as a student in 1981. Stewart Brand’s book “The Media Lab”, Vernor Vinge's story “True Names,” and William Gibson’s “ Neuromancer ” were also part of their research. And Vannevar Bush’s “ As We May Think ” was foundational.
+
+The Knowledge Navigator video premiered in 1987 at Educom , the leading higher education conference, in a keynote by John Sculley , with demos of multimedia, hypertext and interactive learning directed by Bud Colligan. The video’s project schedule was six weeks from start to keynote. The budget was $60,000.
+
+The music featured in this video is Georg Anton Benda 's Harpsichord Concerto in C.
+
+In 1988, John Markoff wrote in The New York Times:
+
+“During the last year John Sculley, Apple's chairman, has widely shown a public relations film called ‘Knowledge Navigator’ that features an advanced PC. In Apple's vision, future users will interact with computers capable of displaying TV-like animation and speaking to them.”
+
+The software agent in the video has been discussed in the domain of human–computer interaction . It was criticized as being an unrealistic portrayal of the capacities of any software agent in the foreseeable future, or even in a distant future.
+
+Some visions put forth by proponents of the Semantic Web have been likened to that of the Knowledge Navigator by Marshall and Shipman, who argue that some of these visions "ignore the difficulty of scaling knowledge-based systems to reason across domains, like Apple's Knowledge Navigator," and conclude that, as of 2003, "scenarios of the complexity of [a previously quoted] Knowledge Navigator-like approach to interacting with people and things in the world seem unlikely."
+
+New York Times tech columnist John Markoff has linked Knowledge Navigator and Siri.
+
+The notion of Siri was firmly planted at Apple 25 years ago though “Knowledge Navigator” with the voice of the assistant was only a concept prototype. In one of the videos, a man is seen asking the assistant to search for an article published 5 years before his time, the assistant finds it and tells the article being dated to 2006, and due to this we can conclude that the video is set to take place in September 2011. In October 2011, Apple relaunched Siri , a voice activated personal assistant software vaguely similar to that aspect of the Knowledge Navigator just a month after their initial prediction.

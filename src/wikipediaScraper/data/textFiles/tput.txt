@@ -1,0 +1,19 @@
+In computing , tput is a standard Unix operating system command which makes use of terminal capabilities .
+
+Depending on the system, tput uses the terminfo or termcap database, as well as looking into the environment for the terminal type.
+
+Tput was provided in UNIX System V in the early 1980s.  A clone of the AT&T tput was submitted to volume 7 of the mod.sources newsgroup (later comp.sources.unix ) in September 1986. In contrast to the System V program, the clone used termcap rather than terminfo.  It accepted command-line parameters for the cm (cursor addressing) capability, and recognized terminfo capability names.
+
+System V Release 3 provided an improved version which combined the different initialization capabilities as a new option init , and the reset capabilities as reset , thereby simplifying use of tput for initializing or reinitializing the terminal. System V Release 3.2 added several printer-specific capabilities to the terminfo database, such as swidm (enter_doublewide_mode) which tput could use.  It also added capabilities for color.
+
+System V Release 4 defined additional terminfo capabilities including standardized ANSI color capabilities setaf and setab , which could be used by tput .
+
+BSD platforms provided a different implementation of tput in 4.3BSD-Reno (June 1990). It used termcap, recognizing only termcap capability names, and did not accept command-line parameters for cursor-addressing. FreeBSD used this in 1994, improving it by accepting one or two numeric command-line parameters.
+
+Ross Ridge's mytinfo package in 1992 provided a tput which accepted either termcap or terminfo capability names.  Like the Reno implementation, it did not pass command-line arguments to parameterized capabilities. ncurses incorporated the mytinfo code in June 1995.  The initial version added a -S option, and interpreted command-line parameters as described in the System V Release 4 documentation.
+
+The Open Group defines one option ( -T , to specify the terminal type) and three keywords ( init , clear and reset ).
+Most implementations accept the name of a terminal capability together with any parameters that may be needed for that.
+However, some implementations expect a termcap name, while others expect a terminfo name.
+
+All System V Release 4 implementations, as well as those which are designed to be compatible, also recognize a -S option (to tell tput to read data from the standard input), and an additional keyword longname .  They also accept command-line parameters, usually distinguishing numeric from string parameters by the form of the parameter, checking for all-numeric characters.  That makes it impossible for example to set a function-key label to a string of digits.  Using a different approach, ncurses determines the expected type of the parameters with a table of the terminfo capabilities which use string parameters, eliminating the ambiguity.

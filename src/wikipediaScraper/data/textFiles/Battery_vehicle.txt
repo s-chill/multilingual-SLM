@@ -1,0 +1,103 @@
+A battery electric vehicle ( BEV ), pure electric vehicle , only-electric vehicle , fully electric vehicle or all-electric vehicle is a type of electric vehicle (EV) that uses energy exclusively from an on-board battery . This definition excludes hybrid electric vehicles . BEVs use electric motors and motor controllers instead of internal combustion engines (ICEs) for propulsion. They derive all power from battery packs and thus have no internal combustion engine, fuel cell , or fuel tank . BEVs include – but are not limited to – motorcycles, bicycles, scooters, skateboards, railcars, watercraft, forklifts, buses, trucks, and cars.
+
+In 2016, there were 210 million electric bikes worldwide used daily. Cumulative global sales of highway-capable light-duty pure electric car vehicles passed the one million unit milestone in September 2016. As of October 2020 , the world's top selling all-electric car in history is the Tesla Model 3 , with an estimated 645,000 sales, followed by the Nissan Leaf with over 500,000 sales as of September 2020 .
+
+During the 1880s, Gustave Trouvé , Thomas Parker and Andreas Flocken built experimental electric cars, but the first practical battery electric vehicles appeared during the 1890s. Battery vehicle milk floats expanded in 1931, and by 1967, gave Britain the largest electric vehicle fleet in the world.
+
+Hybrid electric vehicles use both electric motors and internal combustion engines, and are not considered pure or all-electric vehicles.
+
+Hybrid electric vehicles whose batteries can be charged externally are called plug-in hybrid electric vehicles (PHEV) and run as BEVs during their charge-depleting mode. PHEVs with a series powertrain are also called range-extended electric vehicles (REEVs), such as the Chevrolet Volt and Fisker Karma .
+
+Plug-in electric vehicles (PEVs) are a subcategory of electric vehicles that includes battery electric vehicles (BEVs) and plug-in hybrid vehicles (PHEVs).
+
+The electric vehicle conversions of hybrid electric vehicles and conventional internal combustion engine vehicles (aka all-combustion vehicles) belong to one of the two categories.
+
+In China, plug-in electric vehicles, together with hybrid electric vehicles are called new energy vehicles (NEVs). However, in the United States, neighborhood electric vehicles (NEVs) are battery electric vehicles that are legally limited to roads with posted speed limits no higher than 45 miles per hour (72 km/h), are usually built to have a top speed of 30 miles per hour (48 km/h), and have a maximum loaded weight of 3,000 pounds (1,400 kg).
+
+The concept of battery electric vehicles is to use charged batteries on board vehicles for propulsion. Battery electric cars are becoming more and more attractive with the higher oil prices and the advancement of new battery technology ( lithium-ion ) that have higher power and energy density (i.e., greater possible acceleration and more range with fewer batteries). Compared to older battery types such as lead-acid batteries. Lithium-ion batteries for example now have an energy density of 0.9–2.63 MJ/L whereas lead-acid batteries had an energy density of 0.36 MJ/L (so 2.5 to 7.3x higher). There is still a long way to go if comparing it to petroleum-based fuels and biofuels, however (gasoline having an energy density of 34.2 MJ/L -38x to 12.92x higher- and ethanol having an energy of 24 MJ/L -26x to 9.12x higher-). This is partially offset by higher conversion efficiency of electric motors – BEVs travel roughly 3x further than similar-size internal combustion vehicles per MJ of stored energy.
+
+BEVs include automobiles , light trucks , and neighborhood electric vehicles .
+
+Battery electric trains in the form of BEMUs (battery electric multiple units) are operated commercially in Japan . They are charged via pantographs , either when driving on electrified railway lines or during stops at specially equipped train stations. They use battery power for propulsion when driving on railway lines that are not electrified, and have successfully replaced diesel multiple units on some such lines.
+
+Other countries have also tested or ordered such vehicles.
+
+Chattanooga, Tennessee , operates nine zero-fare electric buses, which have been in operation since 1992 and have carried 11.3 million passengers and covered a distance of 3,100,000 kilometres (1,900,000 mi). They were made locally by Advanced Vehicle Systems. Two of these buses were used for the 1996 Summer Olympics in Atlanta.
+
+Beginning in the summer of 2000, Hong Kong Airport began operating a 16-passenger Mitsubishi Rosa electric shuttle bus, and in the fall of 2000, New York City began testing a 66-passenger battery-powered school bus , an all-electric version of the Blue Bird TC/2000 . A similar bus was operated in Napa Valley, California , for 14 months ending in April 2004.
+
+The 2008 Beijing Olympics used a fleet of 50 electric buses, which have a range of 130 km (81 mi) with the air conditioning on. They use lithium-ion batteries , and consume about 1 kW⋅h/mi (0.62 kW⋅h/km; 2.2 MJ/km). The buses were designed by the Beijing Institute of Technology and built by the Jinghua Coach. The batteries are replaced with fully charged ones at the recharging station to allow 24-hour operation of the buses.
+
+In France , the electric bus phenomenon is in development, but some buses are already operating in numerous cities. PVI, a medium-sized company located in the Paris region, is one of the leaders of the market with its brand Gepebus (offering Oreos 2X and Oreos 4X ).
+
+In the United States , the first battery-electric, fast-charge bus has been in operation in Pomona, California , since September 2010 at Foothill Transit . The Proterra EcoRide BE35 uses lithium-titanate batteries and is able to fast-charge in less than 10 minutes.
+
+In 2012, heavy-duty trucks and buses contributed 7% of global warming emissions in California.
+
+In 2014, the first production model all-electric school bus was delivered to the Kings Canyon Unified School District in California's San Joaquin Valley . The bus was one of four the district ordered. This battery-electric school bus, which has four sodium nickel batteries, is the first modern electric school bus approved for student transportation by any state.
+
+In 2016, including the light heavy-duty vehicles, there were roughly 1.5 million heavy-duty vehicles in California.
+
+The same technology is used to power the Mountain View Community Shuttles. This technology was supported by the California Energy Commission, and the shuttle program is being supported by Google.
+
+Thunder Sky (based in Hong Kong) builds lithium-ion batteries used in submarines and has three models of electric buses, the 10/21 passenger EV-6700 with a range of 280 km (170 mi) under 20 mins quick-charge, the EV-2009 city buses, and the 43 passenger EV-2008 highway bus, which has a range of 300 km (190 mi) under quick-charge (20 mins to 80 percent), and 350 km (220 mi) under full charge (25 mins). The buses will also be built in the United States and Finland.
+
+Tindo is an all-electric bus from Adelaide, Australia . The Tindo (aboriginal word for sun) is made by Designline International in New Zealand and gets its electricity from a solar PV system on Adelaide's central bus station . Rides are zero-fare as part of Adelaide's public transport system.
+
+Proterra 's EcoRide BE35 transit bus, called the Ecoliner by Foothill Transit in West Covina, California, is a heavy-duty, fast charge, battery-electric bus. Proterra's ProDrive drive-system uses a UQM motor and regenerative braking that captures 90 percent of the available energy and returns it to the TerraVolt energy storage system, which in turn increases the total distance the bus can drive by 31–35 percent. It can travel 30–40 miles (48–64 km) on a single charge, is up to 600 percent more fuel-efficient than a typical diesel or CNG bus, and produces 44 percent less carbon than CNG. Proterra buses have had several problems, most notably in Philadelphia where the entire fleet was removed from service.
+
+For most of the 20th century, the majority of the world's battery electric road vehicles were British milk floats . The 21st century saw the massive development of BYD electric trucks.
+
+In March 2012, Smith Electric Vehicles announced the release of the Newton Step-Van, an all-electric, zero-emission vehicle built on the versatile Newton platform that features a walk-in body produced by Indiana-based Utilimaster .
+
+BYD supplies DHL with electric distribution fleet of commercial BYD T3 .
+
+Although electric cars often give good acceleration and have generally acceptable top speed, the lower specific energy of production batteries available in 2015 compared with carbon-based fuels means that electric cars need batteries that are a fairly large fraction of the vehicle mass but still often give a relatively low range between charges. Recharging can also take significant lengths of time. For journeys within a single battery charge, rather than long journeys, electric cars are practical forms of transportation and can be recharged overnight.
+
+Electric cars can significantly reduce city pollution by having zero emissions . Vehicle greenhouse gas savings depend on how the electricity is generated.
+
+Electric cars are having a major impact in the auto industry given advantages in city pollution , less dependence on oil and combustion, and scarcity and expected rise in gasoline prices. World governments are pledging billions to fund development of electric vehicles and their components.
+
+Formula E is a fully electric international single-seater championship. The series was conceived in 2012, and the inaugural championship started in Beijing on 13 September 2014. The series is sanctioned by the FIA. Alejandro Agag is the current CEO of Formula E.
+
+The Formula E championship is currently contested by ten teams with two drivers each (after the withdrawal of Team Trulli, there are temporarily only nine teams competing). Racing generally takes place on temporary city-center street circuits which are approximately 2 to 3.4 kilometres (1.2 to 2.1 mi) long. Currently, only the Mexico City ePrix takes place on a road course, a modified version of the Autódromo Hermanos Rodríguez.
+
+Special-purpose vehicles come in a wide range of types, ranging from relatively common ones such as golf carts , things like electric golf trolleys , milk floats , all-terrain vehicles , neighborhood electric vehicles , and a wide range of other devices. Certain manufacturers specialize in electric-powered "in plant" work machines.
+
+Three-wheeled vehicles include electric rickshaws , a powered variant of the cycle rickshaw . The large-scale adoption of electric two-wheelers can reduce traffic noise and road congestion but may necessitate adaptations of the existing urban infrastructure and safety regulations.
+
+Ather Energy from India has launched their BLDC motor powered Ather 450 electric scooter with Lithium Ion batteries in 2018. Also from India, AVERA – a new and renewable energy company is going to launch two models of electric scooters at the end of 2018, with Lithium Iron Phosphate Battery technology.
+
+India is the world’s biggest market for bicycles at 22 million units per year. By 2024, electric two-wheelers will be a $2 billion market with over 3 million units being sold in India.
+
+The Indian government is launching schemes and incentives to promote the adoption of electric vehicles in the country, and is aiming to be a manufacturing hub for electric vehicles within the next five years.
+
+China has experienced an explosive growth of sales of non-assisted e-bikes including the scooter type, with annual sales jumping from 56,000 units in 1998 to over 21 million in 2008, and reaching an estimated 120 million e-bikes on the road in early 2010. China is the world's leading manufacturer of e-bikes, with 22.2 million units produced in 2009.
+
+An increasing variety of personal transporters are being manufactured, including the one-wheeled self-balancing unicycles , self-balancing scooters , electric kick scooters , and electric skateboards .
+
+Several battery electric ships operate throughout the world, some for business. Electric ferries are being operated and constructed.
+
+The motor controller receives a signal from potentiometers linked to the accelerator pedal, and it uses this signal to determine how much electric power is needed. This DC power is supplied by the battery pack, and the controller regulates the power to the motor, supplying either variable pulse width DC or variable frequency variable amplitude AC, depending on the motor type. The controller also handles regenerative braking , whereby electrical power is gathered as the vehicle slows down and this power recharges the battery. In addition to power and motor management, the controller performs various safety checks such as anomaly detection, functional safety tests and failure diagnostics.
+
+Most electric vehicles today use an electric battery , consisting of electrochemical cells with external connections in order to provide power to the vehicle.
+
+Battery technology for EVs has developed from early lead-acid batteries used in the late 19th century to the 2010s, to lithium-ion batteries which are found in most EVs today. The overall battery is referred to as a battery pack , which is a group of multiple battery modules and cells. For example, the Tesla Model S battery pack has up to 7,104 cells, split into 16 modules with 6 groups of 74 cells in each. Each cell has a nominal voltage of 3–4 volts , depending on its chemical composition.
+
+Electric cars have traditionally used series wound DC motors, a form of brushed DC electric motor . Separately excited and permanent magnet are just two of the types of DC motors available. More recent electric vehicles have made use of a variety of AC motor types, as these are simpler to build and have no brushes that can wear out. These are usually induction motors or brushless AC electric motors which use permanent magnets. There are several variations of the permanent magnet motor which offer simpler drive schemes and/or lower cost including the brushless DC electric motor .
+
+Once electric power is supplied to the motor (from the controller), the magnetic field interaction inside the motor will turn the drive shaft and ultimately the vehicle's wheels.
+
+EV battery storage is a key element for the global energy transition which is dependent on more electricity storage right now. As energy availability is the most important factor for the vitality of an economy the mobile storage infrastructure of EV batteries can be seen as one of the most meaningful infrastructure projects facilitating the energy transition to a fully sustainable economy based on renewables. A meta-study graphically showing the importance of electricity storage depicts the technology in context.
+
+Electric vehicles produce no greenhouse gas (GHG) emissions in operation, but the electricity used to power them may do so in its generation. The two factors driving the emissions of battery electric vehicles are the carbon intensity of the electricity used to recharge the Electric Vehicle (commonly expressed in grams of CO 2 per kWh) and the consumption of the specific vehicle (in kilometers/kWh).
+
+The carbon intensity of electricity varies depending on the source of electricity where it is consumed. A country with a high share of renewable energy in its electricity mix will have a low C.I. In the European Union, in 2013, the carbon intensity had a strong geographic variability but in most of the member states, electric vehicles were "greener" than conventional ones. On average, electric cars saved 50–60% of CO 2 emissions compared to diesel and gasoline fuelled engines.
+
+Moreover, the de-carbonisation process is constantly reducing the GHG emissions due to the use of electric vehicles. In the European Union, on average, between 2009 and 2013 there was a reduction in the electricity carbon intensity of 17%. In a life-cycle assessment perspective, considering the GHG necessary to build the battery and its end-of-life, the GHG savings are 10–13% lower.
+
+The open source VencoPy model framework can be used to study the interactions between vehicles, owners, and the electricity system at large.
+
+GHGs are also emitted when the electric vehicle is being manufactured. The lithium-ion batteries used in the vehicle take more materials and energy to produce because of the extraction process of the lithium and cobalt essential to the battery. This means the bigger the electric vehicle, the more carbon dioxide emitted. The same size-to-emission relationship applies to manufacturing of all products.
+
+The mines that are used to produce the lithium and cobalt used in the battery are also creating problems for the environment, as fish are dying up to 240 km (150 mi) downstream from mining operations due to chemical leaks and the chemicals also leak into the water sources the people that live near the mines use, creating health problems for the animals and people that live nearby.

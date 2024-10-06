@@ -1,0 +1,13 @@
+The relational calculus consists of two calculi, the tuple relational calculus and the domain relational calculus , that is part of the relational model for databases and provide a declarative way to specify database queries. The raison d'être of relational calculus is the formalization of query optimization , which is finding more efficient manners to execute the same query in a database.
+
+The relational calculus is similar to the relational algebra , which is also part of the relational model: While the relational calculus is meant as a declarative language that prescribes no execution order on the subexpressions of a relational calculus expression, the relational algebra is meant as an imperative language: the sub-expressions of a relational algebraic expression are meant to be executed from left-to-right and inside-out following their nesting.
+
+Per Codd's theorem , the relational algebra and the domain-independent relational calculus are logically equivalent .
+
+A relational algebra expression might prescribe the following steps to retrieve the phone numbers and names of book stores that supply Some Sample Book :
+
+A relational calculus expression would formulate this query in the following descriptive or declarative manner:
+
+The relational algebra and the domain-independent relational calculus are logically equivalent : for any algebraic expression, there is an equivalent expression in the calculus, and vice versa. This result is known as Codd's theorem .
+
+The raison d'être of the relational calculus is the formalization of query optimization . Query optimization consists in determining from a query the most efficient manner (or manners) to execute it. Query optimization can be formalized as translating a relational calculus expression delivering an answer A into efficient relational algebraic expressions delivering the same answer A.

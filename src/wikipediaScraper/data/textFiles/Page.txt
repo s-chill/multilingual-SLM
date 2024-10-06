@@ -1,0 +1,15 @@
+A page is one side of a leaf (a sheet or half-sheet) of paper , parchment or other material (or electronic media) in a book, magazine, newspaper, or other collection of sheets, on which text or illustrations can be printed, written or drawn, to create documents . It can be used as a measure of communicating general quantity of information ("That topic covers twelve pages") or more specific quantity ("there are 535 words in a standard page in twelve point font type").
+
+The word "page" comes from the Latin term pagina , which means, "a written page, leaf, sheet", which in turn comes from an earlier meaning "to create a row of vines that form a rectangle". The Latin word pagina derives from the verb pangere , which means to stake out boundaries when planting vineyards.
+
+Compound words:
+
+Idiomatic expressions:
+
+In library science , the number of pages in a book forms part of its physical description, coded in subfield $300a in MARC 21 and in subfield $215a in UNIMARC . This description consists of the number of pages (or a list of such numberings separated by commas, if the book contains separately-numbered sections), followed by the abbreviation "p." for "page(s)". The number of pages is written in the same style ( Arabic or Roman numerals , uppercase or lowercase , etc.) as the numbering in each section. Unnumbered pages are not described.
+
+For example,
+
+describes a book with two sections, where section one contains 11 pages numbered using uppercase Roman numerals, and section two contains 2050 pages numbered using Arabic numerals; the total number of pages is thus 2061 pages, plus any unnumbered pages.
+
+If the book contains too many separately-numbered sections, too many unnumbered pages, or only unnumbered pages, the librarian may choose to describe the book as just "1 v." (one volume) when doing original cataloguing.

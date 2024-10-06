@@ -1,0 +1,42 @@
+Zivid is a Norwegian machine vision technology company headquartered in Oslo , Norway. It designs and sells 3D color cameras with vision software that are used in autonomous industrial robot cells, collaborative robot ( cobot ) cells and other industrial automation systems.
+
+The company's primary hardware product is the industrial Zivid 2+, Zivid 2, and Zivid One+ 3D color cameras. It is supported by companion software products: the Zivid Software Development Kit (SDK) and the Zivid Studio, a graphical user interface (GUI).
+
+Zivid 3D cameras are in use across a broad range of applications in different industries. These applications include bin-picking, assembly, and machine tending in automation and production. They are also being used in high-speed piece picking and parcel sorting in e-commerce and logistics.
+
+The Zivid company (originally named Zivid Labs) was founded in 2015, by Henrik Schumann-Olsen and Øysten Skotheim, who were colleagues at SINTEF , Norway's largest independent research organization.
+
+Henrik Schumann-Olsen and Øystein Skotheim worked together at SINTEF, conducting research into machine and robot vision solutions covering a range of different 3D imaging techniques. In 2010 Microsoft launched the Kinect motion sensor add-on for Xbox, integrating a new form of 3D depth camera.
+
+Microsoft ’s Kinect enabled researchers and tech-enthusiasts to modify an off-the-shelf 3D camera, and at SINTEF the vision team's concept of a ‘Kinect for Industry’ was born. By the end of 2014, a prototype product, named ShapeCrafter 3D, was introduced, showcasing 3D vision capabilities and color point clouds . ShapeCrafter was demonstrated for the first time at VISION 2014 in Stuttgart, Germany.
+
+The Research Council of Norway provided 6M NOK for further research into 3D industrial machine vision cameras. Henrik Schumann-Olsen and Øystein Skotheim founded Zivid Labs as a spin-out from SINTEF.
+
+In March 2017, Zivid Labs introduced its first mass-produced product, the Zivid One 3D color camera. The camera was rated IP65 for industrial use.
+
+An upgraded version of Zivid One, the Zivid One+ was launched in November 2018 as VISION 2018 in Stuttgart, Germany. The Zivid One+ product portfolio included three 3D color cameras spanning working distances from 30 centimetres (12 in) to 3 metres (9.8 ft). In September 2018, logistics company DHL installed its first fully automated e-fulfilment robot in its Behringe, Netherlands warehouse. The robotic system integrated the Zivid One 3D color camera and was used for de-palletizing, picking, and order-fulfilment operations. The Zivid One 3D camera received Red Dot's "Product Design" award, Vision System Design's "Gold Innovators Award" and inVISION Magazine's "Top Innovation Award". Zivid appointed Thomas Embla Bonnerud as CEO. The company changed its name from Zivid Labs to Zivid.
+
+Zivid introduced a new software development kit and graphical user interface in March 2019. The SDK provided Windows and Linux support, and included a re-engineered API and a second-generation vision engine. The Zivid Studio GUI provided developers with a ready-to-use application for 3D point cloud capture, visualization and exploration.
+Zivid opened sales offices in China, South Korea, and North America, and appointed first distributors in Canada, China, Japan and USA.
+
+In November 2020, Zivid announced Zivid 2, a faster, high-precision 3D color camera. More compact and lighter in weight than previous products, it was purpose-designed to suit both on-arm and stationary mounted applications.
+
+Major updates to the Zivid software development kit were also announced in June and December 2020. The SDK 2.0 provided: stripe patterns to suppress interreflections, filtering to correct contrast distortion artifacts, enhanced HDR image capture sequencing, and multi-camera calibration.
+
+To simplify camera mounting, Zivid announced a range of accessories in July 2020. For robot arm mounting, a camera mount, bracket, and extender to the ISO 9409-1-50-4-M6 coupling plate standard were introduced along with cable guide, power and data cables. For stationary applications, a reconfigurable pan and tilt camera mount was provided.
+
+An all-in-one 3D camera developer kit bundle was introduced in November 2020, comprising: Zivid One+ or Zivid 2 camera, accessory set, in-field calibration board, tripod adapter and 2-year warranty.
+
+In October 2022, Zivid announced Zivid 2 L100, designed to enable robotic picking in deeper, larger bins than are typical of the manufacturing industry. L100 is built on the established Zivid 2 platform, and the original Zivid 2 will become the Zivid 2 M70.
+
+In June 2023, Zivid unveiled the Zivid 2+ family, comprising the M60, M130, and L110 3D camera models. This product line unified 5-megapixel 3D and 2D data, resulting in improved point cloud resolution and transparent imaging capabilities. This 3D camera lineup is designed to cover a broad range of use cases with different working distances and volumes that are particularly suited to particular applications.
+
+"Transparency has long been considered an impossible feat in 3D machine vision, and as a leading innovator in 3D vision, Zivid strives to make the impossible possible. Years of R&D efforts are now manifesting themselves in a product that enables consistent and reliable captures from all but the clearest glass."
+
+To obtain a machine-readable 3-dimensional image of a target object, the Zivid camera technology uses a technique known as structured light , or fringe projection, to arrive at a high-definition point cloud , a highly-accurate set of data points in space. A defined grid pattern is projected onto an object in white LED light, and a 2D color image sensor captures any distortion of the pattern as is strikes the surface. By merging multiple images, complete object depth and surface data are acquired and used to create a full-color 3D point cloud. The Zivid 3D color camera integrates a 1920 pixel x 1200 pixel image sensor to produce a high-quality 5.0 Mpixel point cloud resolution, with XYZ coordinate, native RGB and contrast data for each individual pixel in the point cloud. A good point cloud is characterized by a high density of points and no missing data, yielding a lifelike 3D model of the captured scene.
+
+The Zivid 3D color cameras and software are being used as the machine vision sub-system for a variety of autonomous industrial robot cells, collaborative robot cells and other industrial automation systems.
+
+The cameras are applied to tasks including random bin picking , pick-and-place , de-palletizing, assembly, packaging and quality inspection in a range of different manufacturing and logistics sectors.
+
+The company name Zivid was derived by combining the English word ‘Vivid’, meaning very bright, clear and detailed, with the letter ‘Z’, the depth parameter in a 3D image.

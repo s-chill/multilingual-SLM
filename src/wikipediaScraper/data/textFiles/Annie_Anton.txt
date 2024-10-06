@@ -1,0 +1,11 @@
+Annie Antón is an academic and researcher in the fields of computer science, mathematical logic, and bioinformatics.
+
+She is a professor in the School of Interactive Computing at Georgia Tech , within its College of Computing . She is the founder and director of ThePrivacyPlace.org, a research center devoted to issues of privacy protection in information systems. She has also held advisory positions in industry and government.
+
+Antón served as chair of the School of Interactive Computing from 2012 to 2017. From 1998 to 2012, Antón served as a professor of software engineering at North Carolina State University .
+
+Antón is a Cuban American . She attended St. Pius X Catholic High School in Atlanta. Despite having dyslexia and attention deficit disorder , she continued on to college, eventually receiving her B.S. , M.S. and Ph.D. degrees in computer science from the College of Computing at the Georgia Institute of Technology , finishing in 1997. She was active in several student organizations, including as a student member of the Georgia Tech National Advisory Board and was an honorary member of the ANAK Society.
+
+After a year on the faculty of the University of South Florida , Professor Antón joined the faculty at North Carolina State University in 1998. There, her research and teaching interests were in software engineering (especially requirements engineering ), information security , privacy , and public policy .  In 2012, Professor Antón left NCSU to become Chair of Georgia Tech's School of Interactive Computing .
+
+Antón is the founder and director of ThePrivacyPlace.org, a research group of students and faculty at NCSU , Georgia Tech , and Purdue University . She is leading this group in the development of technology to assist practitioners and policymakers in meeting the challenge of eliciting and expressing policies (a form of requirements). These tools help ensure that privacy policies are aligned with the software systems that they govern.

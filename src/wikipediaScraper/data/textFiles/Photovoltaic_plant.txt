@@ -1,0 +1,151 @@
+A photovoltaic power station , also known as a solar park , solar farm , or solar power plant , is a large-scale grid-connected photovoltaic power system (PV system) designed for the supply of merchant power . They are different from most building-mounted and other decentralized solar power because they supply power at the utility level, rather than to a local user or users. Utility-scale solar is sometimes used to describe this type of project.
+
+This approach differs from concentrated solar power , the other major large-scale solar generation technology, which uses heat to drive a variety of conventional generator systems. Both approaches have their own advantages and disadvantages, but to date, for a variety of reasons, photovoltaic technology has seen much wider use. As of 2019 , about 97% of utility-scale solar power capacity was PV.
+
+In some countries, the nameplate capacity of photovoltaic power stations is rated in megawatt-peak (MW p ), which refers to the solar array's theoretical maximum DC power output. In other countries, the manufacturer states the surface and the efficiency. However, Canada, Japan, Spain, and the United States often specify using the converted lower nominal power output in MW AC , a measure more directly comparable to other forms of power generation. Most solar parks are developed at a scale of at least 1 MW p . As of 2018, the world's largest operating photovoltaic power stations surpassed 1 gigawatt . At the end of 2019, about 9,000 solar farms were larger than 4 MW AC (utility scale), with a combined capacity of over 220 GW AC .
+
+Most of the existing large-scale photovoltaic power stations are owned and operated by independent power producers , but the involvement of community and utility-owned projects is increasing. Previously, almost all were supported at least in part by regulatory incentives such as feed-in tariffs or tax credits , but as levelized costs fell significantly in the 2010s and grid parity has been reached in most markets, external incentives are usually not needed.
+
+The first 1 MW p solar park was built by Arco Solar at Lugo near Hesperia, California , at the end of 1982, followed in 1984 by a 5.2 MW p installation in Carrizo Plain . Both have since been decommissioned (although a new plant, Topaz Solar Farm , was commissioned in Carrizo Plain in 2015). The next stage followed the 2004 revisions to the feed-in tariffs in Germany , when a substantial volume of solar parks were constructed.
+
+Several hundred installations over 1 MW p have since been installed in Germany, of which more than 50 are over 10 MW p . With its introduction of feed-in tariffs in 2008, Spain briefly became the largest market with some 60 solar parks over 10 MW, but these incentives have since been withdrawn. The USA, China, India, France, Canada, Australia, and Italy, among others, have also become major markets as shown on the list of photovoltaic power stations .
+
+The largest sites under construction have capacities of hundreds of MW p and some more than 1 GW p .
+
+The land area required for a desired power output varies depending on the location, the efficiency of the solar panels, the slope of the site, and the type of mounting used. Fixed tilt solar arrays using typical panels of about 15% efficiency on horizontal sites, need about 1 hectare (2.5 acres)/MW in the tropics and this figure rises to over 2 hectares (4.9 acres) in northern Europe.
+
+Because of the longer shadow the array casts when tilted at a steeper angle, this area is typically about 10% higher for an adjustable tilt array or a single axis tracker, and 20% higher for a 2-axis tracker, though these figures will vary depending on the latitude and topography.
+
+The best locations for solar parks in terms of land use are held to be brown field sites , or where there is no other valuable land use. Even in cultivated areas, a significant proportion of the site of a solar farm can also be devoted to other productive uses, such as crop growing or biodiversity. The change in albedo affects local temperature. One study claims a temperature rise due to the heat island effect, and another study claims that surroundings in arid ecosystems become cooler.
+
+Agrivoltaics is using the same area of land for both solar photovoltaic power and agriculture . A recent study found that the value of solar generated electricity coupled to shade-tolerant crop production created an over 30% increase in economic value from farms deploying agrivoltaic systems instead of conventional agriculture.
+
+A Solar landfill is a repurposed used landfill that is converted to a solar array solar farm.
+
+In some cases, several different solar power stations with separate owners and contractors are developed on adjacent sites. This can offer the advantage of the projects sharing the cost and risks of project infrastructure such as grid connections and planning approval. Solar farms can also be co-located with wind farms.
+
+Sometimes 'solar park' is used to describe a set of individual solar power stations, which share sites or infrastructure, and 'cluster' is used where several plants are located nearby without any shared resources. Some examples of solar parks are the Charanka Solar Park , where there are 17 different generation projects; Neuhardenberg , with eleven plants, and the Golmud solar park with total reported capacity over 500 MW. An extreme example would be calling all of the solar farms in the Gujarat state of India a single solar park, the Gujarat Solar Park .
+
+To avoid land use altogether, in 2022, a 5 MW floating solar park was installed in the Alqueva Dam reservoir, Portugal, enabling solar power and hydroelectric energy to be combined. Separately, a German engineering firm committed to integrating an offshore floating solar farm with an offshore wind farm to use ocean space more efficiently. The projects involve " hybridization ", in which different renewable energy technologies are combined in one site.
+
+The first successful test in January 2024 of a solar farm in space—collecting solar power from a photovoltaic cell and beaming energy down to Earth—constituted an early feasibility demonstration completed. Such setups are not limited by cloud cover or the Sun’s cycle.
+
+Most solar parks are ground mounted PV systems, also known as free-field solar power plants. They can either be fixed tilt or use a single axis or dual axis solar tracker . While tracking improves the overall performance, it also increases the system's installation and maintenance cost. A solar inverter converts the array's power output from DC to AC , and connection to the utility grid is made through a high voltage, three phase step up transformer of typically 10 kV and above.
+
+The solar arrays are the subsystems which convert incoming light into electrical energy. They comprise a multitude of solar panels , mounted on support structures and interconnected to deliver a power output to electronic power conditioning subsystems. The majority are free-field systems using ground-mounted structures, usually of one of the following types:
+
+Many projects use mounting structures where the solar panels are mounted at a fixed inclination calculated to provide the optimum annual output profile. The panels are normally oriented towards the Equator, at a tilt angle slightly less than the latitude of the site. In some cases, depending on local climatic, topographical or electricity pricing regimes, different tilt angles can be used, or the arrays might be offset from the normal east–west axis to favour morning or evening output.
+
+A variant on this design is the use of arrays, whose tilt angle can be adjusted twice or four times annually to optimise seasonal output. They also require more land area to reduce internal shading at the steeper winter tilt angle. Because the increased output is typically only a few percent, it seldom justifies the increased cost and complexity of this design.
+
+To maximise the intensity of incoming direct radiation, solar panels should be orientated normal to the sun's rays. To achieve this, arrays can be designed using two-axis trackers , capable of tracking the sun in its daily movement across the sky, and as its elevation changes throughout the year.
+
+These arrays need to be spaced out to reduce inter-shading as the sun moves and the array orientations change, so need more land area. They also require more complex mechanisms to maintain the array surface at the required angle. The increased output can be of the order of 30% in locations with high levels of direct radiation , but the increase is lower in temperate climates or those with more significant diffuse radiation , due to overcast conditions. So dual axis trackers are most commonly used in subtropical regions, and were first deployed at utility scale at the Lugo plant.
+
+A third approach achieves some of the output benefits of tracking, with a lesser penalty in terms of land area, capital and operating cost. This involves tracking the sun in one dimension – in its daily journey across the sky – but not adjusting for the seasons. The angle of the axis is normally horizontal, though some, such as the solar park at Nellis Air Force Base, which has a 20° tilt, incline the axis towards the equator in a north–south orientation – effectively a hybrid between tracking and fixed tilt.
+
+Single axis tracking systems are aligned along axes roughly north–south. Some use linkages between rows so that the same actuator can adjust the angle of several rows at once.
+
+Solar panels produce direct current (DC) electricity, so solar parks need conversion equipment to convert this to alternating current (AC), which is the form transmitted by the electricity grid. This conversion is done by inverters . To maximise their efficiency, solar power plants also vary the electrical load , either within the inverters or as separate units. These devices keep each solar array string close to its peak power point .
+
+There are two primary alternatives for configuring this conversion equipment; centralized and string inverters, although in some cases individual, or micro-inverters are used. Single inverters allows optimizing the output of each panel, and multiple inverters increases the reliability by limiting the loss of output when an inverter fails.
+
+These units have relatively high capacity, typically of the order between 1 MW up to 7 MW for newer units (2020), so they condition the output of a substantial block of solar arrays, up to perhaps 2 hectares (4.9 acres) in area. Solar parks using centralized inverters are often configured in discrete rectangular blocks, with the related inverter in one corner, or the centre of the block.
+
+String inverters are substantially lower in capacity than central inverters, of the order of 10 kW up to 250 KW for newer models (2020), and condition the output of a single array string. This is normally a whole, or part of, a row of solar arrays within the overall plant. String inverters can enhance the efficiency of solar parks, where different parts of the array are experiencing different levels of insolation, for example where arranged at different orientations, or closely packed to minimise site area.
+
+The system inverters typically provide power output at voltages of the order of 480 V AC up to 800 V AC . Electricity grids operate at much higher voltages of the order of tens or hundreds of thousands of volts, so transformers are incorporated to deliver the required output to the grid. Due to the long lead time, the Long Island Solar Farm chose to keep a spare transformer onsite, as transformer failure would have kept the solar farm offline for a long period. Transformers typically have a life of 25 to 75 years, and normally do not require replacement during the life of a photovoltaic power station.
+
+The performance of a solar park depends on the climatic conditions, the equipment used and the system configuration. The primary energy input is the global light irradiance in the plane of the solar arrays, and this in turn is a combination of the direct and the diffuse radiation. In some regions soiling , the accumulation of dust or organic material on the solar panels that blocks incident light, is a significant loss factor.
+
+A key determinant of the output of the system is the conversion efficiency of the solar panels, which depends in particular on the type of solar cell used.
+
+There will be losses between the DC output of the solar panels and the AC power delivered to the grid, due to a wide range of factors such as light absorption losses, mismatch, cable voltage drop, conversion efficiencies, and other parasitic losses . A parameter called the 'performance ratio' has been developed to evaluate the total value of these losses. The performance ratio gives a measure of the output AC power delivered as a proportion of the total DC power which the solar panels should be able to deliver under the ambient climatic conditions. In modern solar parks the performance ratio should typically be in excess of 80%.
+
+Early photovoltaic systems output decreased as much as 10%/year, but as of 2010 the median degradation rate was 0.5%/year, with panels made after 2000 having a significantly lower degradation rate, so that a system would lose only 12% of its output performance in 25 years. A system using panels which degrade 4%/year will lose 64% of its output during the same period. Many panel makers offer a performance guarantee, typically 90% in ten years and 80% over 25 years. The output of all panels is typically warranted at plus or minus 3% during the first year of operation.
+
+Solar power plants are developed to deliver merchant electricity into the grid as an alternative to other renewable, fossil or nuclear generating stations.
+
+The plant owner is an electricity generator. Most solar power plants today are owned by independent power producers (IPP's), though some are held by investor- or community-owned utilities.
+
+Some of these power producers develop their own portfolio of power plants, but most solar parks are initially designed and constructed by specialist project developers. Typically the developer will plan the project, obtain planning and connection consents, and arrange financing for the capital required. The actual construction work is normally contracted to one or more engineering, procurement, and construction (EPC) contractors.
+
+Major milestones in the development of a new photovoltaic power plant are planning consent , grid connection approval, financial close , construction, connection and commissioning. At each stage in the process, the developer will be able to update estimates of the anticipated performance and costs of the plant and the financial returns it should be able to deliver.
+
+Photovoltaic power stations occupy at least one hectare for each megawatt of rated output, so require a substantial land area; which is subject to planning approval. The chances of obtaining consent, and the related time, cost and conditions, vary by jurisdiction and location. Many planning approvals will also apply conditions on the treatment of the site after the station has been decommissioned in the future. A professional health, safety and environment assessment is usually undertaken during the design of a PV power station in order to ensure the facility is designed and planned in accordance with all HSE regulations.
+
+The availability, locality and capacity of the connection to the grid is a major consideration in planning a new solar park, and can be a significant contributor to the cost.
+
+Most stations are sited within a few kilometres of a suitable grid connection point. This network needs to be capable of absorbing the output of the solar park when operating at its maximum capacity. The project developer will normally have to absorb the cost of providing power lines to this point and making the connection; in addition often to any costs associated with upgrading the grid, so it can accommodate the output from the plant. Therefore, solar power stations are sometimes built at sites of former coal-fired power stations to reuse existing infrastructure.
+
+Once the solar park has been commissioned, the owner usually enters into a contract with a suitable counterparty to undertake operation and maintenance (O&M). In many cases this may be fulfilled by the original EPC contractor.
+
+Solar plants' reliable solid-state systems require minimal maintenance, compared to rotating machinery. A major aspect of the O&M contract will be continuous monitoring of the performance of the plant and all of its primary subsystems, which is normally undertaken remotely. This enables performance to be compared with the anticipated output under the climatic conditions actually experienced. It also provides data to enable the scheduling of both rectification and preventive maintenance. A small number of large solar farms use a separate inverter or maximizer for each solar panel, which provide individual performance data that can be monitored. For other solar farms, thermal imaging is used to identify non-performing panels for replacement.
+
+A solar park's income derives from the sales of electricity to the grid, and so its output is metered in real-time with readings of its energy output provided, typically on a half-hourly basis, for balancing and settlement within the electricity market.
+
+Income is affected by the reliability of equipment within the plant and also by the availability of the grid network to which it is exporting. Some connection contracts allow the transmission system operator to curtail the output of a solar park, for example at times of low demand or high availability of other generators. Some countries make statutory provision for priority access to the grid for renewable generators, such as that under the European Renewable Energy Directive .
+
+In recent years, PV technology has improved its electricity generating efficiency , reduced the installation cost per watt as well as its energy payback time (EPBT). It has reached grid parity in most parts of the world and become a mainstream power source.
+
+As solar power costs reached grid parity, PV systems were able to offer power competitively in the energy market. The subsidies and incentives, which were needed to stimulate the early market as detailed below, were progressively replaced by auctions and competitive tendering leading to further price reductions.
+
+The improving competitiveness of utility-scale solar became more visible as countries and energy utilities introduced auctions for new generating capacity. Some auctions are reserved for solar projects, while others are open to a wider range of sources.
+
+The prices revealed by these auctions and tenders have led to highly competitive prices in many regions. Amongst the prices quoted are:
+
+Solar generating stations have become progressively cheaper in recent years, and this trend is expected to continue. Meanwhile, traditional electricity generation is becoming progressively more expensive. These trends led to a crossover point when the levelised cost of energy from solar parks, historically more expensive, matched or beat the cost of traditional electricity generation. This point depends on locations and other factors, and is commonly referred to as grid parity.
+
+For merchant solar power stations, where the electricity is being sold into the electricity transmission network, the levelised cost of solar energy will need to match the wholesale electricity price. This point is sometimes called 'wholesale grid parity' or 'busbar parity'.
+
+Prices for installed PV systems show regional variations, more than solar cells and panels, which tend to be global commodities. The IEA explains these discrepancies due to differences in "soft costs", which include customer acquisition, permitting, inspection and interconnection, installation labor and financing costs.
+
+In the years before grid parity had been reached in many parts of the world, solar generating stations needed some form of financial incentive to compete for the supply of electricity. Many countries used such incentives to support the deployment of solar power stations.
+
+Feed-in tariffs are designated prices which must be paid by utility companies for each kilowatt hour of renewable electricity produced by qualifying generators and fed into the grid. These tariffs normally represent a premium on wholesale electricity prices and offer a guaranteed revenue stream to help the power producer finance the project.
+
+These standards are obligations on utility companies to source a proportion of their electricity from renewable generators. In most cases, they do not prescribe which technology should be used and the utility is free to select the most appropriate renewable sources.
+
+There are some exceptions where solar technologies are allocated a proportion of the RPS in what is sometimes referred to as a 'solar set aside'.
+
+Some countries and states adopt less targeted financial incentives, available for a wide range of infrastructure investment, such as the US Department of Energy loan guarantee scheme, which stimulated a number of investments in the solar power plant in 2010 and 2011.
+
+Another form of indirect incentive which has been used to stimulate investment in solar power plant was tax credits available to investors. In some cases the credits were linked to the energy produced by the installations, such as the Production Tax Credits. In other cases the credits were related to the capital investment such as the Investment Tax Credits
+
+In addition to free market commercial incentives, some countries and regions have specific programs to support the deployment of solar energy installations.
+
+The European Union 's Renewables Directive sets targets for increasing levels of deployment of renewable energy in all member states. Each has been required to develop a National Renewable Energy Action Plan showing how these targets would be met, and many of these have specific support measures for solar energy deployment. The directive also allows states to develop projects outside their national boundaries, and this may lead to bilateral programs such as the Helios project.
+
+The Clean Development Mechanism of the UNFCCC is an international programme under which solar generating stations in certain qualifying countries can be supported.
+
+Additionally many other countries have specific solar energy development programmes. Some examples are India 's JNNSM , the Flagship Program in Australia , and similar projects in South Africa and Israel .
+
+The financial performance of the solar power plant is a function of its income and its costs.
+
+The electrical output of a solar park will be related to the solar radiation, the capacity of the plant and its performance ratio. The income derived from this electrical output will come primarily from the sale of the electricity, and any incentive payments such as those under Feed-in Tariffs or other support mechanisms.
+
+Electricity prices may vary at different times of day, giving a higher price at times of high demand. This may influence the design of the plant to increase its output at such times.
+
+The dominant costs of solar power plants are the capital cost , and therefore any associated financing and depreciation . Though operating costs are typically relatively low, especially as no fuel is required, most operators will want to ensure that adequate operation and maintenance cover is available to maximise the availability of the plant and thereby optimise the income to cost ratio.
+
+The first places to reach grid parity were those with high traditional electricity prices and high levels of solar radiation. The worldwide distribution of solar parks is expected to change as different regions achieve grid parity. This transition also includes a shift from rooftop towards utility-scale plants, since the focus of new PV deployment has changed from Europe towards the Sunbelt markets where ground-mounted PV systems are favored.
+
+Because of the economic background, large-scale systems are presently distributed where the support regimes have been the most consistent, or the most advantageous. Total capacity of worldwide PV plants above 4 MW AC was assessed by Wiki-Solar as c. 220 GW in c. 9,000 installations at the end of 2019 and represents about 35 percent of estimated global PV capacity of 633 GW , up from 25 percent in 2014. Activities in the key markets are reviewed individually below.
+
+In 2013 China overtook Germany as the nation with the most utility-scale solar capacity. Much of this has been supported by the Clean Development Mechanism . The distribution of power plants around the country is quite broad, with the highest concentration in the Gobi desert and connected to the Northwest China Power Grid.
+
+The first multi-megawatt plant in Europe was the 4.2 MW community-owned project at Hemau, commissioned in 2003. But it was the revisions to the German feed-in tariffs in 2004, which gave the strongest impetus to the establishment of utility-scale solar power plants. The first to be completed under this programme was the Leipziger Land solar park developed by Geosol. Several dozen plants were built between 2004 and 2011, several of which were at the time the largest in the world . The EEG , the law which establishes Germany's feed-in tariffs, provides the legislative basis not just for the compensation levels, but other regulatory factors, such as priority access to the grid. The law was amended in 2010 to restrict the use of agricultural land, since which time most solar parks have been built on so-called 'development land', such as former military sites. Partly for this reason, the geographic distribution of photovoltaic power plants in Germany is biased towards the former East Germany .
+
+India has been rising up the leading nations for the installation of utility-scale solar capacity. The Charanka Solar Park in Gujarat was opened officially in April 2012 and was at the time the largest group of solar power plants in the world.
+
+Geographically the states with the largest installed capacity are Telangana , Rajasthan and Andhra Pradesh with over 2 GW of installed solar power capacity each. Rajasthan and Gujarat share the Thar Desert , along with Pakistan. In May 2018, the Pavagada Solar Park became functional and had a production capacity of 2GW. As of February 2020, it is the largest Solar Park in the world. In September 2018 Acme Solar announced that it had commissioned India's cheapest solar power plant, the 200 MW Rajasthan Bhadla solar power park.
+
+Italy has a large number of photovoltaic power plants, the largest of which is the 84 MW Montalto di Castro project .
+
+By the end of 2017, it was reported that more than 732 MW of solar energy projects had been completed, which contributed to 7% of Jordan's electricity. After having initially set the percentage of renewable energy Jordan aimed to generate by 2020 at 10%, the government announced in 2018 that it sought to beat that figure and aim for 20%.
+
+The majority of the deployment of solar power stations in Spain to date occurred during the boom market of 2007–8. The stations are well distributed around the country, with some concentration in Extremadura , Castile-La Mancha and Murcia .
+
+The US deployment of photovoltaic power stations is largely concentrated in southwestern states. The Renewable Portfolio Standards in California and surrounding states provide a particular incentive.
+
+The following solar parks were, at the time they became operational, the largest in the world or their continent, or are notable for the reasons given:

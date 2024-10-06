@@ -1,0 +1,9 @@
+William Aaron Woods (born June 17, 1942), generally known as Bill Woods , is a researcher in natural language processing , continuous speech understanding , knowledge representation , and knowledge-based search technology . He is currently a Software Engineer at Google .
+
+Woods received a bachelor's degree from Ohio Wesleyan University (1964) and a Master's (1965) and Ph.D. (1968) in Applied Mathematics from Harvard University , where he then served as an Assistant Professor and later as a Gordon McKay Professor of the Practice of Computer Science.
+
+Woods built one of the first natural language question answering systems ( LUNAR ) to answer questions about the Apollo 11 Moon rocks for the NASA Manned Spacecraft Center while he was at Bolt Beranek and Newman (BBN) in Cambridge, Massachusetts. At BBN, he was a Principal Scientist and manager of the Artificial Intelligence Department in the '70's and early '80's. He was the principal investigator for BBN's early work in natural language processing and knowledge representation and for its first project in continuous speech understanding. Subsequently, he was Chief Scientist for Applied Expert Systems and Principal Technologist for ON Technology , Cambridge start-ups. In 1991, he joined Sun Microsystems Laboratories as a Principal Scientist and Distinguished Engineer, and in 2007, he joined ITA Software as a Distinguished Software Engineer.  ITA was acquired by Google in 2011, where he now works.
+
+Woods' 1975 paper "What's in a Link" is a widely cited critical review of early work in semantic networks .  This paper has been cited in the context of querying and natural language processing approaches that make use of Semantic Networks and general knowledge modeling. The paper attempts to clarify notions of meaning and semantics in computational systems. Woods further elaborated on the issues and how they relate to contemporary systems in "Meaning and Links" (2007).
+
+Woods has received many honors:

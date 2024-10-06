@@ -1,0 +1,19 @@
+AT&T Labs, Inc. (formerly AT&T Laboratories, Inc. ) is the research & development division of AT&T , the telecommunications company. It employs some 1,800 people in various locations, including: Bedminster NJ ; Middletown, NJ ; Manhattan , NY; Warrenville, IL; Austin, TX; Dallas, TX; Atlanta, GA; San Francisco, CA; San Ramon, CA; and Redmond, WA. The main research division, made up of around 450 people, is based across the Bedminster, Middletown, San Francisco, and Manhattan locations.
+
+AT&T Labs traces its history from AT&T Bell Labs . Much research is in areas traditionally associated with networks and systems, ranging from the physics of optical transmission to foundational topics in computing and communications. Other research areas address the technical challenges of large operational networks and the resulting large data sets.
+
+Researchers at AT&T Labs wrote Hancock , a data mining language that sorted through 100 million records nightly from the parent company's long-distance phone network. The Online Encyclopedia of Integer Sequences (now operated by the OEIS foundation) is the creation of former AT&T Researcher Neil Sloane .
+
+Researchers at AT&T Labs have successfully transmitted 100 Gigabits per second over a single optical link. In 2009, AT&T researchers led the winning team in the Netflix Prize competition for helping to improve Netflix's movie recommendation algorithm.
+
+AT&T Laboratories, Inc., known informally as AT&T Labs, was founded in 1996, as a result of the split of AT&T Bell Laboratories into separate R&D organizations supporting AT&T Corporation and Lucent Technologies . Lucent retained the name Bell Labs and AT&T adopted the name AT&T Laboratories for its R&D organization.
+
+AT&T Labs also traces its origin to Southwestern Bell Technology Resources, Inc. (SWB TRI) which was founded in 1988 as the R&D arm of Southwestern Bell Corporation. It had no connection to Bellcore , the R&D organization owned equally by all of the Baby Bells .
+
+In 1995, Southwestern Bell Corporation renamed itself SBC Communications, Inc., resulting in the subsequent name changes of companies such as SWB TRI to SBC Technology Resources, Inc. (SBC TRI).
+
+In 2003, SBC TRI changed its name to SBC Laboratories, Inc.. SBC Laboratories focused on four core areas: Broadband Internet, Wireless Systems, Network Services, and Network IT.
+
+In 2005, SBC Communications and AT&T Corporation merged to form AT&T . AT&T Labs, Inc. became the new name of the combined SBC Laboratories, Inc. and AT&T Laboratories along with its research facilities in New Jersey .
+
+In 2006, BellSouth Telecommunications Science and Technology (S&T) was also merged with AT&T Labs.  BellSouth Science and Technology had offices in Birmingham , Alabama and Atlanta , Georgia .

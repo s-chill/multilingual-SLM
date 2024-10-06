@@ -1,0 +1,15 @@
+Dancer is an open source lightweight web application framework written in Perl and inspired by Ruby's Sinatra .
+
+In April 2011, Dancer was rewritten from scratch and released as Dancer2 . The reason for the rewrite was to fix architectural issues and eliminate the use of singletons . Development of Dancer1 was at first frozen, but was later continued to maintain backward compatibility for existing apps.
+
+Dancer is developed through GitHub , with stable releases available via CPAN . Dancer2 is released as a separate module.
+
+Unlike other frameworks such as Catalyst , Dancer only requires a handful of CPAN modules and is very self-contained.
+
+Dancer includes a standalone development server that can be used for developing and testing applications.
+
+Dancer supports the PSGI specification, and can thus be run on any compliant PSGI server, including Plack , uWSGI or Mongrel 2 .
+
+Since most parts of Dancer are abstracted and has a plugin architecture, extending Dancer is fairly straightforward, and a thriving community has sprung up around building these extensions.
+
+Dancer features a lightweight object system, exception throwing similar to Try::Tiny, and is fast, especially in CGI environments.

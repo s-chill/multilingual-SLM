@@ -1,0 +1,32 @@
+Crypto++ (also known as CryptoPP , libcrypto++ , and libcryptopp ) is a free and open-source C++ class library of cryptographic algorithms and schemes written by Wei Dai . Crypto++ has been widely used in academia, student projects, open-source, and non-commercial projects, as well as businesses. Released in 1995, the library fully supports 32-bit and 64-bit architectures for many major operating systems and platforms, including Android (using STLport ), Apple (macOS and iOS), BSD , Cygwin , IBM AIX , Linux , MinGW , Solaris , Windows , Windows Phone and Windows RT . The project also supports compilation using C++03, C++11, C++14, and C++17 runtime libraries; and a variety of compilers and IDEs , including Borland Turbo C++ , Borland C++ Builder , Clang , CodeWarrior Pro , GCC (including Apple's GCC), Intel C++ Compiler (ICC) , Microsoft Visual C/C++ , and Sun Studio .
+
+Crypto++ 1.0 was released in June 1995, but the download is no longer available. The Crypto++ 1.0 release was withdrawn due to RSA Data Security, Inc asserting its patent over the RSA algorithm . All other versions of the library are available for download.
+
+Crypto++ ordinarily provides complete cryptographic implementations and often includes less popular, less frequently-used schemes. For example, Camellia is an ISO / NESSIE / IETF -approved block cipher roughly equivalent to AES , and Whirlpool is an ISO / NESSIE / IETF -approved hash function roughly equivalent to SHA ; both are included in the library.
+
+Additionally, the Crypto++ library sometimes makes proposed and bleeding-edge algorithms and implementations available for study by the cryptographic community. For example, VMAC , a universal hash-based message authentication code , was added to the library during its submission to the Internet Engineering Task Force (CFRG Working Group) ; and Brainpool curves, proposed in March 2009 as an Internet Draft in RFC 5639, were added to Crypto++ 5.6.0 in the same month.
+
+The library also makes available primitives for number-theoretic operations such as fast multi-precision integers; prime number generation and verification; finite field arithmetic, including GF(p) and GF(2 ); elliptical curves; and polynomial operations.
+
+Furthermore, the library retains a collection of insecure or obsolescent algorithms for backward compatibility and historical value: MD2, MD4, MD5, Panama Hash, DES, ARC4, SEAL 3.0, WAKE, WAKE-OFB, DESX (DES-XEX3), RC2, SAFER, 3-WAY, GOST, SHARK, CAST-128, and Square.
+
+In a 2007 ECRYPT workshop paper focusing on public key implementations of eight libraries , Ashraf Abusharekh and Kris Kaj found that "Crypto++ 5.1 [sic] leads in terms of support for cryptographic primitives and schemes, but is the slowest of all investigated libraries."
+
+In 2008, speed tests carried out by Timo Bingmann using seven open-source security libraries with 15 block ciphers , Crypto++ 5.5.2 was the top-performing library under two block ciphers and did not rank below the average library performance under the remaining block ciphers.
+
+Crypto++ also includes an auto-benchmarking feature, available from the command line ( cryptest.exe b ), the results of which are available at Crypto++ 5.6.0 Benchmarks .
+
+As with many other cryptographic libraries available for 32-bit and 64-bit x86 architectures , Crypto++ includes assembly routines for AES using AES-NI . With AES-NI, AES performance improves dramatically: 128-bit AES - GCM throughput increases from approximately 28.0 cycles per byte to 3.5 cycles per byte.
+
+Crypto++ 1.0 was released in June 1995. Since its initial release, the library has seen nearly two dozen revisions, including an architectural change in version 5.0. There have been ten releases using the version 5.0 architecture since March 2009.
+
+Lawrence Teo's compilation of previous Crypto++ releases dating back to 1995 can be found in the users group archives.
+
+Crypto++ has received three Federal Information Processing Standard (FIPS) 140-2 Level 1 module validations with no post-validation issues.
+
+Crypto++ was moved to the CMVP's Historical Validation List in 2016. The move effectively means the library is no longer validated.
+
+As of version 5.6.1, Crypto++ consists of only public domain files, with a compilation copyright and a single open source license for the compilation copyright:
+
+The License of Crypto++ is somewhat unusual amongst open source projects. A distinction is made between the library as a compilation (i.e., collection), which is copyrighted by Wei Dai , and the individual files in it, which are public domain.
+The library is copyrighted as a compilation in order to place certain disclaimers (regarding warranty, export, and patents) in the license and to keep the attributions and public domain declarations intact when Crypto++ is distributed in source code form. The fact that individual files are public domain means that legally you can place code segments, entire files, or small sets of files (up to the limit set by fair use) into your own project and do anything you want with them without worrying about the copyright.

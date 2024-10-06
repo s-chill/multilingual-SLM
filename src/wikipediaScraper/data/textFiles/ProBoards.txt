@@ -1,0 +1,41 @@
+ProBoards is a free, remotely hosted message board service that facilitates online discussions by allowing people to create their own online communities.
+
+ProBoards was founded by Patrick Clinger, who wrote the ProBoards software . Prior to launching ProBoards, Clinger had run HostedScripts, a company aimed at creating free web widgets .
+
+The service hosts over 3,000,000 internet forums, which in turn have approximately 22,800,000 users worldwide. Currently, all ProBoards forums combined receive a total of over 600 million pageviews per month, making ProBoards one of the largest websites on the Internet.
+
+However, according to TechCrunch writer Anthony Ha, those numbers have seemingly dropped as of 2014. In an interview, founder/owner Patrick Clinger stated "ProBoards has been used to create 3.5 million forums", but about 1.2 million of them are still active (i.e. resulting in the occasional page view). In October 2021, ProBoards was purchased by internet company VerticalScope Holdings.
+
+Proboards is coded in Perl , a popular programming language with web developers. Previously, due to the remotely hosted nature of the service, users could not modify the software directly as with some forum systems, but some customisation was possible through the use of CSS or JavaScript codes. With the release of v.5, however, ProBoards gives Administrators and certain other members access to the HTML and CSS of the webpage, for easier coding purposes.
+
+The first day of business for ProBoards was January 1, 2000.  At first, ProBoards originally used software created by the owner, Patrick Clinger. In late 2001, though, ProBoards switched to the YaBB system. At the same time, other changes to the service made it the first remotely hosted service to offer a subdomain with each forum (e.g. username.proboards[servernumber].com)
+
+On June 11, 2002, ProBoards Version 2 was launched. This was coded by Clinger and was a rewrite of the entire software rather than improvements to the existing YaBB based setup. The main goals of this rewrite were to improve the overall speed of the software and add new features to keep the product competitive.
+
+In February 2003, version 3 of the ProBoards software was released, again making improvements on the overall speed of the software and including over 30 new features.
+
+ProBoards upgraded to version 4 of its software on April 30, 2005. This time, the upgrade added over 100 new features and enhancements to the service. Despite this, bugs of varying levels of severity still existed.
+
+The current version of the software is v5.
+
+ProBoards' servers - physical machines running the ProBoards software - are hosted by SoftLayer . Previous to November 2010, ProBoards was hosted by ThePlanet.com , and previous to 2006, EV1 Servers. The servers are hosted in multiple SoftLayer datacenters in Texas.
+
+In 2005, Patrick Clinger was invited by EV1 Servers to take part in a commercial for their business. The commercial opened with a voiceover introducing Clinger as the owner of ProBoards.com, and he then gave a testimonial about how EV1's hosting benefited ProBoards. The commercial was shown at the 2005 Houston Bowl . Since 2007, EV1 no longer exists as a webhost, having merged with The Planet.
+
+As of March 2009, the server numbers (boardname.proboards##.com) no longer need to be used due to a recent change that allows every ProBoards forum to be accessed without a server number in the URL. (For example, boardname.proboards.com)
+
+Due to the advent of Facebook, ProBoards transitioned into a social network and forum service hybrid with the introduction of version 5 in 2013. In 2014, ProBoards launched Forums.net, a monthly subscription-based service for hosting private message boards for businesses.
+
+Although a number of subscription style features are optionally available, there is no obligation for any user to purchase anything from ProBoards. Forums are hosted for free, with no bandwidth or webspace cap, provided users allow advertisements to be displayed on their forum.
+
+Until September 2003, ProBoards was supported by popunders , but these were discontinued in favor of less intrusive methods of advertising. Currently a typical forum will contain a Google AdSense banner ad and some small text links on every page. ProBoards also sells advertising directly to users through a selfserve system.
+
+ProBoards also has an agreement with a third party chatroom provider, addonInteractive, to provide Java-based chatrooms to users. Each forum admin can activate a free version of the chat on their forum, with paid upgrades available for busy forums. The chats integrate fully with forum accounts.
+
+ProBoards users are bound by a number of Terms of Service , restricting the type of content which may appear on a ProBoards forum. ProBoards prohibits illegal or adult content. Formerly, only English forums were allowed, but in May 2010 this policy was changed, allowing boards to be created in any language. In addition to content policies, Proboards terms also seemingly prohibit the use of "ad-blocking" technology when accessing its services. In November 2020, ProBoards took the decision to remove a forum used by members of the New York Police Department after an officer who was a regular poster on the board was outed as having used it to share "racist, misogynistic, anti-Semitic, and homophobic sentiments".
+
+User privacy is protected by a Privacy Policy outlining the use of logged information, as well as cookie policy, forum monitoring, and publicly available information.
+
+The US COPPA law is enforced by requiring all users to enter their date of birth on registration. Users aged under 13 are not permitted to register at any ProBoards forum. According to the Terms of Service, any user under the age of 18 also requires parental permission to register, but this is taken as implied when they accept the registration agreement and not verified.
+
+ProBoards allows users to apply affiliate marketing practices to monetize their communities via a partnership with VigLink announced January 2014. This partnership allows any ProBoards forum managers or creators to generate revenue from traffic with VigLink Insert.

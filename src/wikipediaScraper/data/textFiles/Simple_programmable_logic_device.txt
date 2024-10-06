@@ -1,0 +1,15 @@
+A simple programmable logic device ( SPLD ) is a programmable logic device with complexity below that of a complex programmable logic device (CPLD) .
+
+The term commonly refers to devices such as ROMs , PALs , PLAs and GALs .
+
+Simple programmable logic devices (SPLD) are the simplest, smallest and least-expensive forms of programmable logic devices. SPLDs can be used in boards to replace standard logic components (AND, OR, and NOT gates), such as 7400-series TTL.
+
+They typically comprise 4 to 22 fully connected macrocells. These macrocells typically consist of some combinatorial logic (such as AND OR gates) and a flip-flop. In other words, a small Boolean logic equation can be built within each macrocell. This equation will combine the state of some number of binary inputs into a binary output and, if necessary, store that output in the flip-flop until the next clock edge. Of course, the particulars of the available logic gates and flip-flops are specific to each manufacturer and product family. But the general idea is always the same.
+
+Most SPLDs use either fuses or non-volatile memory cells ( EPROM , EEPROM , Flash , and others) to define the functionality.
+
+These devices are also known as:
+
+PLDs are often used for address decoding, where they have several clear advantages over the 7400-series TTL parts that they replaced: 
+One chip requires less board area, power, and wiring than several do.
+The design inside the chip is flexible, so a change in the logic does not require any rewiring of the board. Rather, simply replacing one PLD with another part that has been programmed with the new design can alter the decoding logic.

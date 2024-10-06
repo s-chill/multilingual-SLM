@@ -1,0 +1,25 @@
+In computer programming , event-driven programming is a programming paradigm in which the flow of the program is determined by external events . UI events from mice , keyboards , touchpads and touchscreens , and external sensor inputs are common cases. Events may also be programmatically generated, such as from messages from other programs , notifications from other threads , or other network events.
+
+Event-driven programming is the dominant paradigm used in graphical user interfaces applications and network servers.
+
+In an event-driven application, there is generally an event loop that listens for events and then triggers a callback function when one of those events is detected.
+
+Event-driven programs can be written in any programming language , although the task is easier in languages that provide high-level abstractions .
+
+Although they do not exactly fit the event-driven model, interrupt handling and exception handling have many similarities.
+
+It's important to differentiate between event-driven and message-driven (aka queue driven) paradigms: Event-driven services (e.g. AWS SNS ) are decoupled from their consumers. Whereas queue / message driven services (e.g. AWS SQS ) are coupled with their consumers.
+
+Because the event loop of retrieving/dispatching of events are common amongst applications, many programming frameworks take care of their implementation and expect the user to provide only the code for the event handlers.
+
+RPG , an early programming language from IBM , whose 1960s design concept was similar to event-driven programming discussed above, provided a built-in main I/O loop (known as the "program cycle") where the calculations responded in accordance to 'indicators' ( flags ) that were set earlier in the cycle.
+
+The actual logic is contained in event-handler routines. These routines handle the events to which the main program will respond. For example, a single left-button mouse-click on a command button in a GUI program may trigger a routine that will open another window, save data to a database or exit the application. Many IDEs provide the programmer with GUI event templates, allowing the programmer to focus on writing the event code.
+
+While keeping track of history is normally trivial in a sequential program.  Because event handlers execute in response to external events, correctly structuring the handlers to work when called in any order can require special attention and planning in an event-driven program.
+
+In addition to writing the event handlers, event handlers also need to be bound to events so that the correct function is called when the event takes place. For UI events, many IDEs combine the two steps: double-click on a button, and the editor creates an (empty) event handler associated with the user clicking the button and opens a text window so you can edit the event handler.
+
+Most existing GUI architectures use event-driven programming. Windows has an event loop . The Java AWT framework processes all UI changes on a single thread, called the Event dispatching thread . Similarly, all UI updates in the Java framework JavaFX occur on the JavaFX Application Thread.
+
+Most network servers and frameworks such as Node.js are also event-driven.

@@ -1,0 +1,60 @@
+Observability is a measure of how well internal states of a system can be inferred from knowledge of its external outputs.
+In control theory , the observability and controllability of a linear system are mathematical duals .
+
+The concept of observability was introduced by the Hungarian-American engineer Rudolf E. Kálmán for linear dynamic systems. A dynamical system designed to estimate the state of a system from measurements of the outputs is called a state observer for that system, such as Kalman filters .
+
+Consider a physical system modeled in state-space representation . A system is said to be observable if, for every possible evolution of state and control vectors , the current state can be estimated using only the information from outputs (physically, this generally corresponds to information obtained by sensors ). In other words, one can determine the behavior of the entire system from the system's outputs. On the other hand, if the system is not observable, there are state trajectories that are not distinguishable by only measuring the outputs.
+
+For time-invariant linear systems in the state space representation, there are convenient tests to check whether a system is observable. Consider a SISO system with n {\displaystyle n} state variables (see state space for details about MIMO systems) given by
+
+If and only if the column rank of the observability matrix , defined as
+
+is equal to n {\displaystyle n} , then the system is observable. The rationale for this test is that if n {\displaystyle n} columns are linearly independent, then each of the n {\displaystyle n} state variables is viewable through linear combinations of the output variables y {\displaystyle y} .
+
+The observability index v {\displaystyle v} of a linear time-invariant discrete system is the smallest natural number for which the following is satisfied: rank ( O v ) = rank ( O v + 1 ) {\displaystyle {\text{rank}}{({\mathcal {O}}_{v})}={\text{rank}}{({\mathcal {O}}_{v+1})}} , where
+
+The unobservable subspace N {\displaystyle N} of the linear system is the kernel of the linear map G {\displaystyle G} given by
+
+G : R n → C ( R ; R n ) x ( 0 ) ↦ C e A t x ( 0 ) {\displaystyle {\begin{aligned}G\colon \mathbb {R} ^{n}&\rightarrow {\mathcal {C}}(\mathbb {R} ;\mathbb {R} ^{n})\\x(0)&\mapsto Ce^{At}x(0)\end{aligned}}}
+
+where C ( R ; R n ) {\displaystyle {\mathcal {C}}(\mathbb {R} ;\mathbb {R} ^{n})} is the set of continuous functions from R {\displaystyle \mathbb {R} } to R n {\displaystyle \mathbb {R} ^{n}} . N {\displaystyle N} can also be written as
+
+Since the system is observable if and only if rank ⁡ ( O ) = n {\displaystyle \operatorname {rank} ({\mathcal {O}})=n} ,  the system is observable if and only if N {\displaystyle N} is the zero subspace.
+
+The following properties for the unobservable subspace are valid:
+
+A slightly weaker notion than observability is detectability . A system is detectable if all the unobservable states are stable.
+
+Detectability conditions are important in the context of sensor networks .
+
+Consider the continuous linear time-variant system
+
+Suppose that the matrices A {\displaystyle A} , B {\displaystyle B} and C {\displaystyle C} are given as well as inputs and outputs u {\displaystyle u} and y {\displaystyle y} for all t ∈ [ t 0 , t 1 ] ; {\displaystyle t\in [t_{0},t_{1}];} then it is possible to determine x ( t 0 ) {\displaystyle x(t_{0})} to within an additive constant vector which lies in the null space of M ( t 0 , t 1 ) {\displaystyle M(t_{0},t_{1})} defined by
+
+where φ {\displaystyle \varphi } is the state-transition matrix .
+
+It is possible to determine a unique x ( t 0 ) {\displaystyle x(t_{0})} if M ( t 0 , t 1 ) {\displaystyle M(t_{0},t_{1})} is nonsingular .  In fact, it is not possible to distinguish the initial state for x 1 {\displaystyle x_{1}} from that of x 2 {\displaystyle x_{2}} if x 1 − x 2 {\displaystyle x_{1}-x_{2}} is in the null space of M ( t 0 , t 1 ) {\displaystyle M(t_{0},t_{1})} .
+
+Note that the matrix M {\displaystyle M} defined as above has the following properties:
+
+The system is observable in [ t 0 , t 1 ] {\displaystyle [t_{0},t_{1}]} if and only if there exists an interval [ t 0 , t 1 ] {\displaystyle [t_{0},t_{1}]} in R {\displaystyle \mathbb {R} } such that the matrix M ( t 0 , t 1 ) {\displaystyle M(t_{0},t_{1})} is nonsingular.
+
+If A ( t ) , C ( t ) {\displaystyle A(t),C(t)} are analytic, then the system is observable in the interval [ t 0 {\displaystyle t_{0}} , t 1 {\displaystyle t_{1}} ] if there exists t ¯ ∈ [ t 0 , t 1 ] {\displaystyle {\bar {t}}\in [t_{0},t_{1}]} and a positive integer k such that
+
+where N 0 ( t ) := C ( t ) {\displaystyle N_{0}(t):=C(t)} and N i ( t ) {\displaystyle N_{i}(t)} is defined recursively as
+
+Consider a system varying analytically  in ( − ∞ , ∞ ) {\displaystyle (-\infty ,\infty )} and matrices
+
+A ( t ) = [ t 1 0 0 t 3 0 0 0 t 2 ] , C ( t ) = [ 1 0 1 ] . {\displaystyle A(t)={\begin{bmatrix}t&1&0\\0&t^{3}&0\\0&0&t^{2}\end{bmatrix}},\,C(t)={\begin{bmatrix}1&0&1\end{bmatrix}}.}
+
+Then [ N 0 ( 0 ) N 1 ( 0 ) N 2 ( 0 ) ] = [ 1 0 1 0 1 0 1 0 0 ] {\displaystyle {\begin{bmatrix}N_{0}(0)\\N_{1}(0)\\N_{2}(0)\end{bmatrix}}={\begin{bmatrix}1&0&1\\0&1&0\\1&0&0\end{bmatrix}}} , and since this matrix has rank = 3, the system is observable on every nontrivial interval of R {\displaystyle \mathbb {R} } .
+
+Given the system x ˙ = f ( x ) + ∑ j = 1 m g j ( x ) u j {\displaystyle {\dot {x}}=f(x)+\sum _{j=1}^{m}g_{j}(x)u_{j}} , y i = h i ( x ) , i ∈ p {\displaystyle y_{i}=h_{i}(x),i\in p} . Where x ∈ R n {\displaystyle x\in \mathbb {R} ^{n}} the state vector, u ∈ R m {\displaystyle u\in \mathbb {R} ^{m}} the input vector and y ∈ R p {\displaystyle y\in \mathbb {R} ^{p}} the output vector. f , g , h {\displaystyle f,g,h} are to be smooth vector fields.
+
+Define the observation space O s {\displaystyle {\mathcal {O}}_{s}} to be the space containing all repeated Lie derivatives , then the system is observable in x 0 {\displaystyle x_{0}} if and only if dim ⁡ ( d O s ( x 0 ) ) = n {\displaystyle \dim(d{\mathcal {O}}_{s}(x_{0}))=n} , where
+
+Early criteria for observability in nonlinear dynamic systems were discovered by Griffith and Kumar, Kou, Elliot and Tarn, and Singh.
+
+There also exist an observability criteria for nonlinear time-varying systems.
+
+Observability may also be characterized for steady state systems (systems typically defined in terms of algebraic equations and inequalities), or more generally, for sets in R n {\displaystyle \mathbb {R} ^{n}} . Just as observability criteria are used to predict the behavior of Kalman filters or other observers in the dynamic system case,  observability criteria for sets in R n {\displaystyle \mathbb {R} ^{n}} are used to predict the behavior of data reconciliation and other static estimators. In the nonlinear case,  observability can be characterized for individual variables, and also for local estimator behavior rather than just global behavior.

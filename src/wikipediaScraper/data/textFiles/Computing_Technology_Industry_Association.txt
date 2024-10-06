@@ -1,0 +1,31 @@
+The Computing Technology Industry Association , more commonly known as CompTIA , is an American non-profit trade association that issues professional certifications for the information technology (IT) industry. It is considered one of the IT industry's top trade associations.
+
+Based in Downers Grove, Illinois , CompTIA issues vendor-neutral professional certifications in over 120 countries. The organization releases industry studies to track industry trends and changes. Over 2.2 million people have earned CompTIA certifications since the association was established.
+
+CompTIA was created in 1982 as the Association of Better Computer Dealers (ABCD). ABCD later changed its name to the Computing Technology Industry Association.
+
+In 2010, CompTIA moved its headquarters into a new office space in a facility in Downers Grove, Illinois.
+
+The CompTIA portal moved to a hybrid version of the open-access model in April 2014 with exclusive content for dues-paying members. The move expanded the organization's reach to engage a broader, more diverse set of members, and within a year, CompTIA's membership grew from 2,050 members to more than 50,000 in 2015. By the close of 2016, the organization boasted more than 100,000 members worldwide.
+
+Skillsboost, CompTIA's online resource for schools, was launched in June 2015. It contained resources for students, parents and teachers to promote the importance of computer skills. CompTIA held its first annual ChannelCon Vendor Summit in 2015. The Vendor Summit is exclusive to people attending ChannelCon, the industry's premier conference for collaboration, education and networking. It addresses issues within the IT industry.
+
+In January 2017, CompTIA launched an IT professional association built on its acquisition of the Association of Information Technology Professionals.
+
+CompTIA offers trustmarks to businesses to certify their security capabilities and credentials.
+
+The CompTIA Security Trustmark+ is based on the NIST Cybersecurity Framework and demonstrates compliance with key industry regulations such as PCI-DSS , SSAE-16 , HIPAA , and others reliant on the NIST Framework. It is based on a third-party assessment of security policies, procedures and operations.
+
+CompTIA offered additional trustmarks, a Managed Services Trustmark and Managed Print Trustmark, that were retired on Sept. 30, 2021.
+
+CompTIA administers its vendor-neutral certification exams through Pearson VUE testing centers. (Note: For A+ up through CASP+ one can renew or extend their certification by satisfying in these cases 20 to 75 CEUs a.k.a. "Continuing Education Units,"  over the three-year period.)
+
+CompTIA Advanced Security Practitioner (CASP+) is the highest level certification in CompTIA's cybersecurity pathway after Security+, CySA+, and PenTest+. The CASP+ certification was accredited by the International Organization for Standardization (ISO) and the American National Standards Institute (ANSI) on December 13, 2011. The CASP+ exam will certify that the successful candidate has the technical knowledge and skills required to conceptualize, design, and engineer secure solutions across complex enterprise environments. In March 2013, the U.S. Department of Defense approved the certification as a baseline certification accepted for Information Assurance Technical Level III, IS Manager Level II and IA Systems Architect and Engineer Levels I and II. The name of CASP+ is being changed to SecurityX+ when the latest version, CAS-005, is released in Q4 of 2024.
+
+In January 2018, CompTIA released stackable certifications:
+
+CompTIA initially lobbied against the right to repair . On February 21, 2020, CompTIA posted stated that as of February 3, 2020, "CompTIA permanently stepped back from all lobbying activity related to right to repair legislation."
+
+CompTIA established a 501(c)(3) nonprofit organization called Creating IT Futures.
+
+Previously, CompTIA marketed its flagship A+, Network+, and Security+ certifications as being valid for a lifetime. In January 2011, CompTIA changed the status of these certifications so that they would expire every three years. Under this proposal, certified individuals would have to re-certify for the exams or pay a yearly maintenance fee for a CEU (Continuing Education Units) system. CompTIA modified the guidelines so that only certificates received after January 1, 2011, would need to be renewed every three years and would require documented continuing education hours. The un-expirable certificates, issued before 2011, are officially called Good-for-Life, and getting a more updated (and expirable) certification does not replace the Good-for-Life one – the professional can have both.

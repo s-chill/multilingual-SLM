@@ -1,0 +1,22 @@
+In computing , a visual programming language ( visual programming system , VPL , or, VPS ), also known as diagrammatic programming , graphical programming or block coding , is a programming language that lets users create programs by manipulating program elements graphically rather than by specifying them textually . A VPL allows programming with visual expressions, spatial arrangements of text and graphic symbols, used either as elements of syntax or secondary notation . For example, many VPLs are based on the idea of "boxes and arrows", where boxes or other screen objects are treated as entities, connected by arrows, lines or arcs which represent relations. VPLs are generally the basis of Low-code development platforms .
+
+VPLs may be further classified, according to the type and extent of visual expression used, into icon-based languages, form-based languages, and diagram languages. Visual programming environments provide graphical or iconic elements which can be manipulated by users in an interactive way according to some specific spatial grammar for program construction.
+
+The general goal of VPLs is to make programming more accessible to novices and to support programmers at three different levels
+
+As of 2005, current developments try to integrate the visual programming approach with dataflow programming languages to either have immediate access to the program state , resulting in online debugging, or automatic program generation and documentation. Dataflow languages also allow automatic parallelization , which is likely to become one of the greatest programming challenges of the future.
+
+The Visual Basic , Visual C# , Visual J# etc. languages of the Microsoft Visual Studio integrated development environment (IDE) are not visual programming languages: the representation of algorithms etc. is textual even though the IDE embellishes the editing and debugging activities with a rich user interface. A similar consideration applies to most other rapid application development environments which typically support a form designer and sometimes also have graphical tools to illustrate (but not define) control flow and data dependencies.
+
+Parsers for visual programming languages can be implemented using graph grammars .
+
+The following list is not mutually exclusive, as some visual programming environments may incorporate elements from multiple paradigms. The choice of visual programming paradigm often depends on the specific requirements of the application or the preferences of the users or the developers.
+
+Most of the VPLs are designed for education or domain-specific usage where the target users are novice programmers. But there are some research projects try to provide a general-purpose visual programming language that can be used by mainstream programmers in any software project instead of using textual programming languages (like C , C++ , Java , etc.).
+
+For example, research projects such as Envision and PWCT are designed to achieve this goal. 
+It's common for a VPL to be developed using a textual programming language. Developing general-purpose VPLs allows the other way around. For example, a new textual programming language Compiler and Virtual Machine is developed using visual programming in 2016.
+
+The following contains a list of notable visual programming languages.
+
+Many modern video games make use of behavior trees , which are in principle a family of simple programming languages designed to model behaviors for non-player characters . The behaviors are modeled as trees, and are often edited in graphical editors.

@@ -1,0 +1,53 @@
+Banner blindness is a phenomenon in web usability where visitors to a website consciously or unconsciously ignore banner-like information. A broader term covering all forms of advertising is ad blindness , and the mass of banners that people ignore is called banner noise .
+
+The term banner blindness was coined in 1998 as a result of website usability tests where a majority of the test subjects either consciously or unconsciously ignored information that was presented in banners. The information that was overlooked included both external advertisement banners and internal navigational banners, often called "quick links".
+
+This does not, however, mean that banner ads do not influence viewers. Website viewers may not be consciously aware of an ad, but it does have an unconscious influence on their behavior. A banner's content affects both businesses and visitors of the site. Native advertising and social media are used to avoid banner blindness.
+
+When searching for specific information on a website, users focus only on the parts of the page where they expect that information will be, e.g. small text and hyperlinks. A 2011 study investigated via eye-tracking analysis whether users avoided looking at ads inserted on a non-search website, and whether they retained ad content in memory. The study found that most participants fixated (looked at) ads at least once during their website visit. When a viewer is working on a task, ads may cause a disturbance, eventually leading to ad avoidance. If a user wants to find something on the web page and ads disrupt or delay their search, they will try to avoid the source of interference.
+
+A higher than expected number of advertisements may cause a user to view the page as cluttered. The number of adverts and annoyances on a webpage contribute to this perception of clutter. As users can concentrate on only one stimulus at a time, having too many objects in their field of vision causes them to lose focus. This contributes to behaviors such as ad avoidance or banner blindness.
+
+As a user becomes familiar with a webpage, they learn where to expect content, and where to expect adverts, and learn to ignore banner ads without looking at them. Usability tests that compared the perception of banners between subjects searching for specific information and subjects aimlessly browsing seem to support this theory. A 2014 eye-tracking study examined how right-side images (in contrast to plain text ) in Google AdWords affect users' visual behavior. The analysis concludes that the appearance of images does not change user interaction with ads.
+
+If a user is already aware of a brand, viewing an ad banner for that brand would reconfirm their existing attitudes towards it, whether positive or negative. A banner ad may only leave a positive impression in the viewer if they already have a positive perception of the brand. Similarly, someone seeing an ad for a brand they have a negative perception of may further dissuade them from buying from that brand.
+
+If viewers have a neutral or no opinion about a brand, then a banner ad for that brand could leave a positive impression, due to the mere-exposure effect : A tendency to develop a preference for something due to familiarity.
+
+Unlike advertisements in television or radio, which completely interrupt and temporarily replace the content, banner adverts exist alongside the content. Websites typically contain various elements in different sizes, shapes, and colours. As a banner ad only occupies part of a website, it cannot hold the user's complete attention.
+
+Banner ads that seem to contain useful information, and which are easy for the viewer to comprehend, are more likely to be viewed and clicked on than adverts the user does not find useful, or finds difficult to understand.
+
+Prices and promotions, when mentioned in banner ads, do not have a major impact on their perceived usefulness. Users assume that all ads signify promotions of some sort and hence do not give much weight to it.
+
+Congruity is the relationship of an advert with the surrounding web content. There have been mixed results of congruity on users. Click through rates increased when the ads shown on a website were similar to the products or services of that website. A banner with colour schemes incongruent with the rest of website does grab the viewer's attention, but they tend to respond negatively to it, compared with banners whose color schemes were congruent.
+
+Congruency has more impact when the user browses fewer web pages. When users were given specific web tasks in a 2013 study, incongruent ads grabbed their attention, but they displayed ad avoidance behaviors. The relevance of the ad's content to the user's goal and to the website does not affect view time due to the expectation that an advert will be irrelevant.
+
+Congruency between the advert and the web content has no effect on view duration, according to a 2011 study.
+
+Banners with phrases that invite action, such as "click here", do not attract views or clicks.
+
+Advertisers and webmasters may attempt to prevent or subvert banner blindness by eliminating one or more possible causes:
+
+Users generally read webpage from top left to bottom right, so adverts in this path may be more noticeable. As viewers are less likely to notice something in their peripheral vision , adverts to the right of the page content will be seen less than adverts to the left. Banner ads just below the navigation area may be viewed more, as users expect content at the top of the page. Confusion about whether the top of page has content or advertisement results in more views of the advert.
+
+Users dislike animated ads since they can cause loss of focus. This distraction may increase the attention of some users when they are involved in free browsing (not seeking to complete a specific goal). Users involved in a specific task typically fail to recall animated ads, take longer to complete their task, and experience an increased perceived workload. Moderate animation can increase recognition rates. Rapidly animated banner ads can cause lower recognition rates of the advert itself, and negative attitudes toward the advertiser.
+
+In visual search tasks, animated ads did not impact the performance of users and did not capture more views than static ads. Animations signal to users of the existence of ads and lead to ad avoidance behavior, but repetitive exposure to them can induce the mere exposure effect.
+
+Personalized ads use and include information about viewers, like demographics, PII , and purchasing habits. An ad is noticed more if it has a higher degree of personalization , even if it causes discomfort in users. Personalized ads are found to be clicked more often than other ads. If a user is involved in a demanding task, more attention is paid to a personalized ad than an unpersonalised ad.
+
+Such ads do, however, increase privacy concerns and can appear 'creepy'. An individual with greater existing privacy concerns will avoid personalised ads, primarily due to concerns over their data being shared with third parties. Users are more likely to accept behavior tracking if they have faith in the company that permitted the ad. Though this can be an effective method for advertisers, users do not always prefer their behaviors be used to personalize ads. Ads are more often clicked when they show something relevant to the user's search but if the purchase has been made, and the ad continues to appear, it causes frustration.
+
+Personalization enhanced recognition for the content of banners while the effect on attention was weaker and less significant, in the studies conducted by Koster et al. Exploration of web pages and recognition of task-relevant information was not influenced. Visual exploration of banners typically proceeds from the picture to the logo and finally to the slogan.
+
+If a website serves ads unrelated to its viewers' interests, about 75% of viewers experience frustration with the website. Advertising efforts must focus on the user's current intention and interest and not just previous searches. Publishing fewer, but more relative, ads is more effective.
+
+Advertisers may use data analytics and campaign management tools to categorise viewers and serve ads that are more likely to be relevant to the user's interests. Information about users could be gained through gamification tools which could reward them for providing that information. Such tools could be quizzes, calculators, chats, or questionnaires.
+
+Native advertising often places adverts inline with expected, non-ad content. For example, video advertisements playing within a video-streaming website before, during, or after the main video feature. Another common format is a text or image advert within a social media feed, formatted to resemble posts made by users.
+
+Native ads are designed to resemble the user's expected experience. They can have greater viewability than other forms of advertising because they are less easy to distinguish from expected, non-advert content.
+
+Through social media , advertisers can transfer feelings of trust in known individuals to adverts, thereby validating the ads. Peer pressure can encourage users to change attitudes or behavior regarding advertising to adapt to group customs. Advertisement through known people piqued interests of users and increased ad views much more effectively than banner ads.

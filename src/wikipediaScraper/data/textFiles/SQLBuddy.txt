@@ -1,0 +1,5 @@
+SQL Buddy is an open-source web-based application primarily coded in PHP , that allows users to control both MySQL and SQLite database through a web browser . The project was well regarded for its easy installation process and the friendly user interface it offered.
+
+The application was further praised for its cross-platform compatibility, meaning users could manage their databases on various operating systems, including Linux , Windows , and macOS .
+
+The development of SQL Buddy has stopped, with version 1.3.3 being the final release on January 18, 2011. No further releases are expected.

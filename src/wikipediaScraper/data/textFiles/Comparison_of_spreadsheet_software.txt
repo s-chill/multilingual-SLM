@@ -1,0 +1,7 @@
+Spreadsheet is a class of application software design to analyze tabular data called "worksheets". A collection of worksheets is called a "workbook". Online spreadsheets do not depend on a particular operating system but require a standards-compliant web browser instead. One of the incentives for the creation of online spreadsheets was offering worksheet sharing and public sharing or workbooks as part of their features which enables collaboration between multiple users. Some on-line spreadsheets provide remote data update, allowing data values to be extracted from other users' spreadsheets even though they may be inactive at the time.
+
+The operating systems the software can run on natively (without emulation ).  Android and iOS apps can be optimized for Chromebooks and iPads which run the operating systems ChromeOS and iPadOS respectively, the operating optimizations include things like multitasking capabilities, large and multi-display support, better keyboard and mouse support.
+
+This table gives a comparison of what file formats each spreadsheet can import and export.  "Yes" means can both import and export.
+
+-* 32-bit addressable memory on Microsoft Windows, i.e. ~2.5 GB.

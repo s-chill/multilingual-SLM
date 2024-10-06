@@ -1,0 +1,61 @@
+A lithium polymer battery , or more correctly, lithium-ion polymer battery (abbreviated as LiPo , LIP , Li-poly , lithium-poly, and others), is a rechargeable battery of lithium-ion technology using a polymer electrolyte instead of a liquid electrolyte. Highly conductive semisolid ( gel ) polymers form this electrolyte. These batteries provide higher specific energy than other lithium battery types. They are used in applications where weight is critical, such as mobile devices , radio-controlled aircraft , and some electric vehicles .
+
+Lithium polymer cells follow the history of lithium-ion and lithium-metal cells, which underwent extensive research during the 1980s, reaching a significant milestone with Sony 's first commercial cylindrical lithium-ion cell in 1991. After that, other packaging forms evolved, including the flat pouch format.
+
+Lithium polymer cells have evolved from lithium-ion and lithium-metal batteries. The primary difference is that instead of using a liquid lithium-salt electrolyte (such as lithium hexafluorophosphate , LiPF 6 ) held in an organic solvent (such as EC / DMC / DEC ), the battery uses a solid polymer electrolyte (SPE) such as polyethylene glycol (PEG), polyacrylonitrile (PAN), poly(methyl methacrylate) (PMMA) or poly(vinylidene fluoride) (PVdF).
+
+In the 1970s, the original polymer design used a solid dry polymer electrolyte resembling a plastic-like film, replacing the traditional porous separator soaked with electrolyte.
+
+The solid electrolyte can typically be classified into three types: dry SPE, gelled SPE, and porous SPE. The dry SPE was the first used in prototype batteries, around 1978 by Michel Armand , and 1985 by ANVAR and Elf Aquitaine of France, and Hydro-Québec of Canada. Since 1990, several organisations, such as Mead and Valence in the United States and GS Yuasa in Japan, have developed batteries using gelled SPEs. In 1996, Bellcore in the United States announced a rechargeable lithium polymer cell using porous SPE.
+
+A typical cell has four main components: a positive electrode , a negative electrode, a separator, and an electrolyte . The separator itself may be a polymer , such as a microporous film of polyethylene (PE) or polypropylene (PP); thus, even when the cell has a liquid electrolyte, it will still contain a "polymer" component. In addition to this, the positive electrode can be further divided into three parts: the lithium-transition-metal-oxide (such as LiCoO 2 or LiMn 2 O 4 ), a conductive additive, and a polymer binder of poly(vinylidene fluoride) (PVdF). The negative electrode material may have the same three parts, only with carbon replacing the lithium-metal-oxide. The main difference between lithium-ion polymer cells and lithium-ion cells is the physical phase of the electrolyte, such that LiPo cells use dry solid, gel-like electrolytes, whereas Li-ion cells use liquid electrolytes.
+
+Like other lithium-ion cells, LiPos work on the intercalation and de-intercalation of lithium ions from a positive electrode material and a negative electrode material, with the liquid electrolyte providing a conductive medium. To prevent the electrodes from touching each other directly, a microporous separator is in between, which allows only the ions and not the electrode particles to migrate from one side to the other.
+
+The voltage of a single LiPo cell depends on its chemistry and varies from about 4.2 V (fully charged) to about 2.7–3.0 V (fully discharged). The nominal voltage is 3.6 or 3.7 volts (about the middle value of the highest and lowest value) for cells based on lithium-metal-oxides (such as LiCoO 2 ). This compares to 3.6–3.8 V (charged) to 1.8–2.0 V (discharged) for those based on lithium-iron-phosphate (LiFePO 4 ).
+
+The exact voltage ratings should be specified in product data sheets, with the understanding that the cells should be protected by an electronic circuit that won't allow them to overcharge or over-discharge under use.
+
+LiPo battery packs , with cells connected in series and parallel, have separate pin-outs for every cell. A specialized charger may monitor the charge per cell so that all cells are brought to the same state of charge (SOC).
+
+Unlike lithium-ion cylindrical and prismatic cells, with a rigid metal case, LiPo cells have a flexible, foil-type (polymer laminate ) case, so they are relatively unconstrained.
+Moderate pressure on the stack of layers that compose the cell results in increased capacity retention, because the contact between the components is maximised and delamination and deformation is prevented, which is associated with increase of cell impedance and degradation.
+
+LiPo cells provide manufacturers with compelling advantages. They can easily produce batteries of almost any desired shape. For example, the space and weight requirements of mobile devices and notebook computers can be met. They also have a low self-discharge rate of about 5% per month.
+
+LiPo batteries are now almost ubiquitous when used to power commercial and hobby drones ( unmanned aerial vehicles ), radio-controlled aircraft , radio-controlled cars , and large-scale model trains, where the advantages of lower weight and increased capacity and power delivery justify the price. Test reports warn of the risk of fire when the batteries are not used per the instructions.
+
+The voltage for long-time storage of LiPo battery used in the R/C model should be 3.6~3.9 V range per cell, otherwise it may cause damage to the battery.
+
+LiPo packs also see widespread use in airsoft , where their higher discharge currents and better energy density than traditional NiMH batteries have very noticeable performance gain (higher rate of fire).
+
+LiPo batteries are pervasive in mobile devices , power banks , very thin laptop computers , portable media players , wireless controllers for video game consoles, wireless PC peripherals, electronic cigarettes , and other applications where small form factors are sought. The high energy density outweighs cost considerations.
+
+Hyundai Motor Company uses this type of battery in some of its battery-electric and hybrid vehicles and Kia Motors in its battery-electric Kia Soul . The Bolloré Bluecar , which is used in car-sharing schemes in several cities, also uses this type of battery.
+
+Lithium-ion batteries are becoming increasingly commonplace in Uninterruptible power supply (UPS) systems. They offer numerous benefits over the traditional VRLA battery , and with stability and safety improvements confidence in the technology is growing. Their power-to-size and weight ratio is seen as a major benefit in many industries requiring critical power backup, including data centers where space is often at a premium. The longer cycle life, usable energy (Depth of discharge), and thermal runaway are also seen as a benefit of using Li-po batteries over VRLA batteries.
+
+The battery used to start a vehicle engine is typically 12 V or 24 V, so a portable jump starter or battery booster uses three or six LiPo batteries in series (3S1P/6S1P) to start the vehicle in an emergency instead of the other jump-start methods .
+The price of a lead-acid jump starter is less but they are bigger and heavier than comparable lithium batteries. So such products have mostly switched to LiPo batteries or sometimes lithium iron phosphate batteries.
+
+All Li-ion cells expand at high levels of state of charge (SOC) or overcharge due to slight vaporisation of the electrolyte. This may result in delamination and, thus, bad contact with the internal layers of the cell, which in turn diminishes the reliability and overall cycle life. This is very noticeable for LiPos, which can visibly inflate due to the lack of a hard case to contain their expansion. Lithium polymer batteries' safety characteristics differ from those of lithium iron phosphate batteries .
+
+Polymer electrolytes can be divided into two large categories: dry solid polymer electrolytes (SPE) and gel polymer electrolytes (GPE). In comparison to liquid electrolytes and solid organic electrolytes, polymer electrolytes offer advantages such as increased resistance to variations in the volume of the electrodes throughout the charge and discharge processes, improved safety features, excellent flexibility, and processability.
+
+Solid polymer electrolyte was initially defined as a polymer matrix swollen with lithium salts, now called dry solid polymer electrolyte. Lithium salts are dissolved in the polymer matrix to provide ionic conductivity. Due to its physical phase, there is poor ion transfer, resulting in poor conductivity at room temperature. To improve the ionic conductivity at room temperature, gelled electrolyte is added resulting in the formation of GPEs. GPEs are formed by incorporating an organic liquid electrolyte in the polymer matrix. Liquid electrolyte is entrapped by a small amount of polymer network, hence the properties of GPE is characterized by properties between those of liquid and solid electrolytes. The conduction mechanism is similar for liquid electrolytes and polymer gels, but GPEs have higher thermal stability and a low volatile nature which also further contribute to safety.
+
+Cells with solid polymer electrolytes have not been fully commercialised and are still a topic of research. Prototype cells of this type could be considered to be between a traditional lithium-ion battery (with liquid electrolyte) and a completely plastic, solid-state lithium-ion battery .
+
+The simplest approach is to use a polymer matrix, such as polyvinylidene fluoride (PVdF) or poly(acrylonitrile) (PAN), gelled with conventional salts and solvents, such as LiPF 6 in EC / DMC / DEC .
+
+Nishi mentions that Sony started research on lithium-ion cells with gelled polymer electrolytes (GPE) in 1988, before the commercialisation of the liquid-electrolyte lithium-ion cell in 1991. At that time, polymer batteries were promising, and it seemed polymer electrolytes would become indispensable. Eventually, this type of cell went into the market in 1998. However, Scrosati argues that, in the strictest sense, gelled membranes cannot be classified as "true" polymer electrolytes but rather as hybrid systems where the liquid phases are contained within the polymer matrix. Although these polymer electrolytes may be dry to the touch, they can still include 30% to 50% liquid solvent. In this regard, how to define a "polymer battery" remains an open question.
+
+Other terms used in the literature for this system include hybrid polymer electrolyte (HPE), where "hybrid" denotes the combination of the polymer matrix, the liquid solvent, and the salt. It was a system like this that Bellcore used to develop an early lithium-polymer cell in 1996, which was called a "plastic" lithium-ion cell (PLiON) and subsequently commercialised in 1999.
+
+A solid polymer electrolyte (SPE) is a solvent-free salt solution in a polymer medium. It may be, for example, a compound of lithium bis(fluorosulfonyl)imide (LiFSI) and high molecular weight poly(ethylene oxide) (PEO), a high molecular weight poly(trimethylene carbonate) (PTMC), polypropylene oxide (PPO), poly[bis(methoxy-ethoxy-ethoxy)phosphazene] (MEEP), etc .
+
+PEO exhibits the most promising performance as a solid solvent for lithium salts, mainly due to its flexible ethylene oxide segments and other oxygen atoms that comprise a strong donor character, readily solvating Li cations. PEO is also commercially available at a very reasonable cost.
+
+The performance of these proposed electrolytes is usually measured in a half-cell configuration against an electrode of metallic lithium , making the system a " lithium-metal " cell. Still, it has also been tested with a common lithium-ion cathode material such as lithium-iron-phosphate (LiFePO 4 ).
+
+Other attempts to design a polymer electrolyte cell include the use of inorganic ionic liquids such as 1-butyl-3-methylimidazolium tetrafluoroborate ([BMIM]BF 4 ) as a plasticizer in a microporous polymer matrix like poly(vinylidene fluoride-co-hexafluoropropylene)/poly(methyl methacrylate) (PVDF-HFP/PMMA).

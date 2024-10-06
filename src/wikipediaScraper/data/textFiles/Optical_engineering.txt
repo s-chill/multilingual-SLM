@@ -1,0 +1,5 @@
+Optical engineering is the field of engineering encompassing the physical phenomena and technologies associated with the generation, transmission, manipulation, detection, and utilization of light . Optical engineers use the science of optics to solve problems and to design and build devices that make light do something useful. They design and operate optical equipment that uses the properties of light using physics and chemistry , such as lenses , microscopes , telescopes , lasers , sensors , fiber-optic communication systems and optical disc systems (e.g. CD , DVD ).
+
+Optical engineering metrology uses optical methods to measure either micro-vibrations with instruments like the laser speckle interferometer , or properties of masses with instruments that measure refraction .
+
+Nano-measuring and nano-positioning machines are devices designed by optical engineers. These machines, for example microphotolithographic steppers , have nanometer precision, and consequently are used in the fabrication of goods at this scale.

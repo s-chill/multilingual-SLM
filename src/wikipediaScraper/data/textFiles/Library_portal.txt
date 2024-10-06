@@ -1,0 +1,21 @@
+A library portal is an interface to access library resources and services through a single access and management point for users: for example, by combining the circulation and catalog functions of an integrated library system (ILS) with additional tools and facilities.
+
+A library portal is defined as "a combination of software components that unify the user experience of discovering and accessing information" in contrast to a "single technology" to provide "services that support discovery, access and effective use of information."
+
+In addition to the basic functions of access to the library catalog , and a user's subscription records, significant elements of a library portal normally include:
+
+More recently, the focus has been on the discovery goal, which has led to even more difficulties in defining a library portal. The terms " discovery tools ", "discovery services", "next-generation discovery tool", and "next-generation OPAC " are often used interchangeably.
+
+The focus on discovery tools has led to increased competitors in the discovery services market; the competitors that   existed in the library portal market   have also shifted their focus to this particular function.
+
+A list of competitors in the current library portal market who have recently been awarded contracts by various libraries for their entire portal include  :
+
+By contrast, the following list highlights contracts signed by libraries for specific discovery service tools, mostly   at more recent dates
+
+When  building a portal for a library, one of the challenges discussed by Morgan is communication: the building of a portal requires consensus with regards to what should be included. Another challenge is ensuring a user-centered design for the portal. This involves conducting surveys, focus group interviews, and usability studies – all of which can be seen as time-consuming. Additionally, compatibility with the hosting institution is critical. Finally, the question of whether a library should go with open source software or commercial products is always a point of contention.
+
+There are no accepted standards for library portals. The only standards   in the literature are the more general search and retrieval standards, including Z39.50 and ZING (Z39.50-International: Next Generation), the Open Archives Initiative Protocol for Metadata Harvesting , and OpenURL .
+
+As a result of the lack of standards, and since customization is required in a library portal, individual institutions decide  what they expect their   portal to look like, and what services it will provide. For example, Harvard University is currently conducting a library portal project, which will begin implementation during the summer of 2012. They have identified their own list of criteria, which naturally differs substantially from the needs of other institutions. The various general areas that the committee has looked at include: content, user experience, features and capabilities, infrastructure and security, and search and discovery. It is uncertain which areas will be selected as part of the Phase I implementation of the portal.
+
+The online public access catalog (OPAC) is a basic module, part of the library's integrated library system . Earlier, the OPAC has been limited to searching physical texts, and sometimes digital copies but has only limited special features. Caplan argues that they are in process of replacement by newer "discovery tools" allowing more customization. Yang and Hofmann suggest that vendors see money in building either separate discovery tools or Next-Generation OPACs to be purchased as an add-on feature. A problem with vocabulary arises here. Yang and Wagner (2010, in Yang and Hofmann, 2011) refer to discovery tools by many names, including "stand-alone OPAC, discovery layer , and next-generation catalog [sic.]" This contrasts Bair, Boston, and Garrison, who differentiate between next-generation catalogues and web-scale discovery services. Despite any confusion, it is clear that the OPAC as it currently stands is outdated, and will be replaced by more modern, user-friendly tools. The next-generation OPAC as described by Yang and Hofmann will ideally have the following 12 features (although not all features are currently available in any single discovery product):

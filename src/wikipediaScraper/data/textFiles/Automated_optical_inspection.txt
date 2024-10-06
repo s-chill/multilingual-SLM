@@ -1,0 +1,17 @@
+Automated optical inspection ( AOI ) is an automated visual inspection of printed circuit board (PCB) (or LCD , transistor ) manufacture where a camera autonomously scans the device under test for both catastrophic failure (e.g. missing component) and quality defects (e.g. fillet size or shape or component skew). It is commonly used in the manufacturing process because it is a non-contact test method. It is implemented at many stages through the manufacturing process including bare board inspection, solder paste inspection (SPI), pre-reflow and post-re-flow as well as other stages.
+
+Historically, the primary place for AOI systems has been after solder re-flow or "post-production." Mainly because, post-re-flow AOI systems can inspect for most types of defects (component placement, solder shorts, missing solder, etc.) at one place in the line with one single system. In this way the faulty boards are reworked and the other boards are sent to the next process stage.
+
+AOIs for a PCB board with components may inspect the following features:
+
+AOI can be used in the following locations in the SMT lines: post paste, pre-reflow, post-reflow, or wave areas.
+
+AOI for a bare PCB board inspection may detect these features:
+
+The triggering of a defects report may be either rule-based (e.g. no lines on the board should be smaller than 50μ) or CAD based in which the board is locally compared with the intended design.
+
+This inspection is much more reliable and repeatable than manual visual inspection.
+
+In many cases, smaller circuit board designs are driving up the demand for AOI vs in-circuit testing.
+
+The following are related technologies and are also used in electronic production to test for the correct operation of electronics printed circuit boards:

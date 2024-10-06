@@ -1,0 +1,59 @@
+Data orientation refers to how tabular data is represented in a linear memory model such as in-disk or in-memory .The two most common representations are column-oriented (columnar format) and row-oriented (row format).
+
+The choice of data orientation is a trade-off and a architectural decision in databases , query engines, and numerical simulations. As a result of these tradeoffs, row-oriented formats are more commonly used in Online transaction processing (OLTP)
+and column-oriented formats are more commonly used in Online analytical processing (OLAP).
+
+Examples of column-oriented formats include Apache ORC , Apache Parquet , Apache Arrow , formats used by BigQuery , Amazon Redshift and Snowflake .
+Predominant examples of row-oriented formats include CSV, formats used in most relational databases , in-memory format of Apache Spark , and Apache Avro .
+
+Tabular data is two dimensional in nature - data is represented in rows and columns.
+However, modern operating systems logically represent data in a linear memory model , both in-disk and in-memory. Therefore, a table in a linear memory model requires projecting its two-dimensional items in a one-dimensional space.
+Data orientation refers to the decision taken in this projection.
+There are two prominent choices of orientation: row-oriented and column-oriented.
+
+In row-oriented, the elements of the table
+
+are stored linearly as
+
+I.e. each row of the table is located one after the other.
+In this orientation, values on the same row are close in space (e.g. similar address in an addressable space).
+
+In column-oriented, the elements of the table
+
+are stored linearly as
+
+I.e. each column of the table is located one after the other.
+In this orientation, values on the same column are close in space (e.g. similar address in an addressable space).
+
+See list of column-oriented DBMSes for more examples.
+
+The data orientation is an important architectural decision of systems handling data because it results in important tradeoffs in performance and storage . Below are selected dimensions of this tradeoff.
+
+Row-oriented benefits from fast random access of rows.
+Column-oriented benefits from fast random access of columns.
+In both cases, this is the result of fewer page or cache misses when accessing the data.
+
+Row-oriented benefits from fast insertion of a new row.
+Column-oriented benefits from fast insertion of a new column.
+
+This dimension is an important reason why row-oriented formats are more commonly used in Online transaction processing (OLTP), as it results in faster transactions in comparison to column-oriented.
+
+Row-oriented benefits from fast access under a filter.
+Column-oriented benefits from fast access under a projection.
+
+Column-oriented benefits from fast analytics operations.
+This is the result of being able to leverage SIMD instructions.
+
+Column-oriented benefits from smaller uncompressed size.
+This is the result of the possibility that this orientation offers to represent certain data types with dedicated encodings.
+
+For example, a table of 128 rows with a boolean column requires 128 bytes a row-oriented format (one byte per Boolean)
+but 128 bits (16 bytes) in a column-oriented format (via a bitmap).
+Another example is the use of run-length encoding to encode a column.
+
+Column-oriented benefits from smaller compressed size.
+This is the result of a higher homogeneity within a column than within multiple rows.
+
+Because both orientations represent the same data, it is possible to convert a row-oriented dataset to a column-oriented dataset and vice-versa at the expense of compute.
+In particular, advanced query engines often leverage each orientation's advantages, and convert from one orientation to the other as part of their execution.
+As an example, an Apache Spark query may

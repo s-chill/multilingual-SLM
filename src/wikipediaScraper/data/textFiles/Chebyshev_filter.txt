@@ -1,0 +1,359 @@
+Chebyshev filters are analog or digital filters that have a steeper roll-off than Butterworth filters , and have either passband ripple (type I) or stopband ripple (type II). Chebyshev filters have the property that they minimize the error between the idealized and the actual filter characteristic over the operating frequency range of the filter, but they achieve this with ripples in the passband. This type of filter is named after Pafnuty Chebyshev because its mathematical characteristics are derived from Chebyshev polynomials . Type I Chebyshev filters are usually referred to as "Chebyshev filters", while type II filters are usually called "inverse Chebyshev filters". Because of the passband ripple inherent in Chebyshev filters, filters with a smoother response in the passband but a more irregular response in the stopband are preferred for certain applications.
+
+Type I Chebyshev filters are the most common types of Chebyshev filters. The gain (or amplitude ) response, G n ( ω ) {\displaystyle G_{n}(\omega )} , as a function of angular frequency ω {\displaystyle \omega } of the n {\displaystyle n} th-order low-pass filter is equal to the absolute value of the transfer function H n ( s ) {\displaystyle H_{n}(s)} evaluated at s = j ω {\displaystyle s=j\omega } :
+
+where ε {\displaystyle \varepsilon } is the ripple factor, ω 0 {\displaystyle \omega _{0}} is the cutoff frequency and T n {\displaystyle T_{n}} is a Chebyshev polynomial of the n {\displaystyle n} th order.
+
+The passband exhibits equiripple behavior, with the ripple determined by the ripple factor ε {\displaystyle \varepsilon } . In the passband, the Chebyshev polynomial alternates between -1 and 1 so the filter gain alternate between maxima at G = 1 {\displaystyle G=1} and minima at G = 1 / 1 + ε 2 {\displaystyle G=1/{\sqrt {1+\varepsilon ^{2}}}} .
+
+The ripple factor ε is thus related to the passband ripple δ in decibels by:
+
+At the cutoff frequency ω 0 {\displaystyle \omega _{0}} the gain again has the value 1 / 1 + ε 2 {\displaystyle 1/{\sqrt {1+\varepsilon ^{2}}}} but continues to drop into the stopband as the frequency increases. This behavior is shown in the diagram on the right. The common practice of defining the cutoff frequency at −3 dB is usually not applied to Chebyshev filters; instead the cutoff is taken as the point at which the gain falls to the value of the ripple for the final time.
+
+The 3 dB frequency ω H {\displaystyle \omega _{H}} is related to ω 0 {\displaystyle \omega _{0}} by:
+
+The order of a Chebyshev filter is equal to the number of reactive components (for example, inductors ) needed to realize the filter using analog electronics .
+
+An even steeper roll-off can be obtained if ripple is allowed in the stopband, by allowing zeros on the ω {\displaystyle \omega } -axis in the complex plane. While this produces near-infinite suppression at and near these zeros (limited by the quality factor of the components, parasitics, and related factors), overall suppression in the stopband is reduced. The result is called an elliptic filter , also known as a Cauer filter.
+
+For simplicity, it is assumed that the cutoff frequency is equal to unity. The poles ( ω p m ) {\displaystyle (\omega _{pm})} of the gain function of the Chebyshev filter are the zeroes of the denominator of the gain function. Using the complex frequency s {\displaystyle s} , these occur when:
+
+Defining − j s = cos ⁡ ( θ ) {\displaystyle -js=\cos(\theta )} and using the trigonometric definition of the Chebyshev polynomials yields:
+
+Solving for θ {\displaystyle \theta }
+
+where the multiple values of the arc cosine function are made explicit using the integer index m {\displaystyle m} . The poles of the Chebyshev gain function are then:
+
+Using the properties of the trigonometric and hyperbolic functions, this may be written in explicitly complex form:
+
+where m = 1 , 2 , . . . , n {\displaystyle m=1,2,...,n} and
+
+This may be viewed as an equation parametric in θ n {\displaystyle \theta _{n}} and it demonstrates that the poles lie on an ellipse in s {\displaystyle s} -space centered at s = 0 {\displaystyle s=0} with a real semi-axis of length sinh ⁡ ( a r s i n h ( 1 / ε ) / n ) {\displaystyle \sinh(\mathrm {arsinh} (1/\varepsilon )/n)} and an imaginary semi-axis of length of cosh ⁡ ( a r s i n h ( 1 / ε ) / n ) . {\displaystyle \cosh(\mathrm {arsinh} (1/\varepsilon )/n).}
+
+The above expression yields the poles of the gain G {\displaystyle G} . For each complex pole, there is another which is the complex conjugate, and for each conjugate pair there are two more that are the negatives of the pair. The transfer function must be stable, so that its poles are those of the gain that have negative real parts and therefore lie in the left half plane of complex frequency space. The transfer function is then given by
+
+where s p m − {\displaystyle s_{pm}^{-}} are only those poles of the gain with a negative sign in front of the real term, obtained from the above equation.
+
+The group delay is defined as the derivative of the phase with respect to angular frequency:
+
+The gain and the group delay for a 5th-order type I Chebyshev filter with ε=0.5 are plotted in the graph on the left. Its stop band has no ripples. But the ripples of group delay in its passband indicate that different frequency components have different delay, which along with the ripples of gain in its passband results in distortion of the waveform's shape.
+
+Even order Chebyshev filters implemented with passive elements, typically inductors, capacitors, and transmission lines, with terminations of equal value on each side cannot be implemented with the traditional Chebyshev transfer function without the use of coupled coils, which may not be desirable or feasible, particularly at the higher frequencies.  This is due to the physical inability to accommodate the even order Chebyshev reflection zeros that result in a scattering matrix S12 values that exceed the S12 value at ω = 0 {\displaystyle \omega =0} .  If it is not feasible to design the filter with one of the terminations increased or decreased to accommodate the pass band S12, then the Chebyshev transfer function must be modified so as to move the lowest even order reflection zero to ω = 0 {\displaystyle \omega =0} while maintaining the equi-ripple response of the pass band.
+
+The needed modification involves mapping each pole of the Chebyshev transfer function in a manner that maps the lowest frequency reflection zero to zero and the remaining poles as needed to maintain the equi-ripple pass band.  The lowest frequency reflection zero may be found from the Chebyshev Nodes , c o s ( π ( n − 1 ) 2 n ) {\displaystyle cos{\Bigl (}{\frac {\pi (n-1)}{2n}}{\Bigl )}} .  The complete Chebyshev pole mapping function is shown below.
+
+P ′ = [ ( P 2 + c o s 2 ( π ( n − 1 ) 2 n ) 1 − c o s 2 ( π ( n − 1 ) 2 n ) ) ] Left Half Plane {\displaystyle P'=\left[{\sqrt {\left({\frac {P^{2}+cos^{2}{\Bigl (}{\frac {\pi (n-1)}{2n}}{\Bigl )}}{1-{cos^{2}{\Bigl (}{\frac {\pi (n-1)}{2n}}{\Bigl )}}}}\right)}}\right]_{\text{Left Half Plane }}}
+
+Where:
+
+n is the order of the filter (must be even)
+
+P is a traditional Chebyshev transfer function pole
+
+P' is the mapped pole for the modified even order transfer function.
+
+"Left Half Plane" indicates to use the square root containing a negative real value.
+
+When complete, a replacement equi-ripple transfer function is created with reflection zero scattering matrix values for S12 of one and S11 of zero when implemented with equally terminated passive networks.  The illustration below shows an 8th order Chebyshev filter modified to support even order equally terminated passive networks by relocating the lowest frequency reflection zero from a finite frequency to 0 while maintaining an equi-ripple pass band frequency response.
+
+The LC element value formulas in the Cauer topology are not applicable to the even order modified Chebyshev transfer function, and cannot be used.  It is therefore necessary to calculate the LC values from traditional continued fractions of the impedance function, which may be derived from the reflection coefficient , which in turn may be derived from the transfer function.
+
+To design a Chebyshev filter using the minimum required number of elements, the minimum order of the Chebyshev filter may be calculated as follows. The equations account for standard low pass Chebyshev filters, only.  Even order modifications and finite stop band transmission zeros will introduce error that the equations do not account for.
+
+n = c e i l [ cosh − 1 ⁡ 10 α s / 10 − 1 10 α p / 10 − 1 cosh − 1 ⁡ ( ω s / ω p ) ] {\displaystyle n=ceil{\bigg [}{\frac {\cosh ^{-1}{\sqrt {\frac {10^{\alpha _{s}/10}-1}{10^{\alpha _{p}/10}-1}}}}{\cosh ^{-1}{(\omega _{s}/\omega _{p})}}}{\bigg ]}}
+
+where:
+
+ω p {\displaystyle \omega _{p}} and α p {\displaystyle \alpha _{p}} are the pass band ripple frequency and maximum ripple attenuation in dB
+
+ω s {\displaystyle \omega _{s}} and α s {\displaystyle \alpha _{s}} are the stop band frequency and attenuation at that frequency in dB
+
+n {\displaystyle n} is the minimum number of poles, the order of the filter.
+
+ceil [] is a round up to next integer function.
+
+Pass band cutoff attenuation for Chebyshev filters is usually the same as the pass band ripple attenuation, set by the  computation above. However, many applications such as diplexers and triplexers, require a cutoff attenuation of -3.0103 dB in order to obtain the needed reflections. Other specialized applications may require other specific values for cutoff attenuation for various reasons. It is therefore useful to have a means available of setting the Chebyshev pass band cutoff attenuation independently of the pass band ripple attenuation, such as -1 dB, -10 dB, etc. The cutoff attenuation may be set by frequency scaling the poles of the transfer function .
+
+The scaling factor may be determined by direct algebraic manipulation of the defining Chebyshev filter function , G n ( ω ) {\displaystyle G_{n}(\omega )} , including ε {\displaystyle \varepsilon } and T n ( ω / ω 0 ) {\displaystyle T_{n}(\omega /\omega _{0})} .  The general definition of the Chebyshev function, T n ( ω / ω 0 ) = c o s ( n cos − 1 ⁡ ( ω / ω 0 ) ) {\displaystyle T_{n}(\omega /\omega _{0})=cos(n\cos ^{-1}(\omega /\omega _{0}))} is required, which may be derived from the Chebyshev Polynomials equations, and the inverse Chebyshev function, T n − 1 ( ω / ω 0 ) = c o s ( cos − 1 ⁡ ( ω / ω 0 ) / n ) {\displaystyle T_{n}^{-1}(\omega /\omega _{0})=cos(\cos ^{-1}(\omega /\omega _{0})/n)} .  To keep the numbers real for values of ω / ω 0 ≥ 1 {\displaystyle \omega /\omega _{0}\geq 1} , complex hyperbolic identities may be used to rewrite the equations  as, T n ( ω / ω 0 ) = c o s h ( n cosh − 1 ⁡ ( ω / ω 0 ) ) {\displaystyle T_{n}(\omega /\omega _{0})=cosh(n\cosh ^{-1}(\omega /\omega _{0}))} and T n − 1 ( ω / ω 0 ) = c o s h ( cosh − 1 ⁡ ( ω / ω 0 ) / n ) {\displaystyle T_{n}^{-1}(\omega /\omega _{0})=cosh(\cosh ^{-1}(\omega /\omega _{0})/n)} .
+
+Using simple algebra on the above equations and references, the expression to scale each Chebyshev poles is:
+
+p A = p 1 / T n − 1 ( 10 α / 10 − 1 10 δ / 10 − 1 , n ) For 0 < δ < ∞ and δ ≤ α < ∞ = p 1 ∗ s e c h ( 1 n c o s h − 1 ( 10 α / 10 − 1 10 δ / 10 − 1 ) ) For 0 < δ < ∞ and δ ≤ α < ∞ {\displaystyle {\begin{aligned}p_{A}&=p_{1}/T_{n}^{-1}{\Biggr (}{\sqrt {\frac {10^{{\alpha }/10}-1}{10^{\delta /10}-1}}},n{\Biggr )}\qquad &{\text{For }}0<\delta <\infty {\text{   and  }}\delta \leq \alpha <\infty \\&=p_{1}*sech{\Biggr (}{\frac {1}{n}}cosh^{-1}{\Bigr (}{\sqrt {\frac {10^{\alpha /10}-1}{10^{\delta /10}-1}}}{\Bigr )}{\Biggr )}&{\text{For }}0<\delta <\infty {\text{   and   }}\delta \leq \alpha <\infty \\\end{aligned}}}
+
+Where:
+
+p A {\displaystyle p_{A}} is the relocated pole positioned to set the desired cutoff attenuation.
+
+p 1 {\displaystyle p_{1}} is a ripple cutoff pole that lies on the oval.
+
+δ {\displaystyle \delta } is the passband attenuation ripple in dB (.05 dB, 1 dB, etc.)).
+
+α {\displaystyle \alpha } is the desired passband attenuation at the cutoff frequency in dB (1 dB, 3 dB, 10 dB, etc.)
+
+n {\displaystyle n} is the number of poles (the order of the filter).
+
+A quick sanity check on the above equation using passband ripple attenuation for the passband cutoff attenuation ( α = δ ) {\displaystyle (\alpha =\delta )} reveals that the pole adjustment will be 1.0 for this case, which is what is expected.
+
+For Chebyshev filters being designed with modified for even order pass band ripple for passive equally terminated filters, the attenuation frequency computation needs to include the even order adjustment by performing the even order adjustment operation on the computed attenuation frequency.  This makes the even order adjustment arithmetic slightly simpler, since frequency can be treated as a real variable, in this case ( ( J ω ) 2 becomes − ω 2 ) {\displaystyle ((J\omega )^{2}{\text{ becomes }}-\omega ^{2})} .
+
+p A = p 1 1 − c o s 2 ( π ( n − 1 ) 2 n ) c o s h 2 ( 1 n c o s h − 1 ( 10 α / 10 − 1 10 δ / 10 − 1 ) ) − c o s 2 ( π ( n − 1 ) 2 n ) For 0 < δ < ∞ and δ ≤ α < ∞ {\displaystyle {\begin{aligned}p_{A}=p_{1}{\sqrt {\frac {1-{cos^{2}({\frac {\pi (n-1)}{2n}})}}{cosh^{2}{\Biggr (}{\frac {1}{n}}cosh^{-1}{\Bigr (}{\sqrt {\frac {10^{\alpha /10}-1}{10^{\delta /10}-1}}}{\Bigr )}{\Biggr )}-cos^{2}({\frac {\pi (n-1)}{2n}})}}}{\text{  For }}0<\delta <\infty {\text{   and   }}\delta \leq \alpha <\infty \\\end{aligned}}}
+
+Where:
+
+p A {\displaystyle p_{A}} is the relocated pole positioned to set the desired cutoff attenuation.
+
+p 1 {\displaystyle p_{1}} is a ripple cutoff pole that has been modified for even order pass bands.
+
+δ {\displaystyle \delta } is the passband attenuation ripple in dB (.05 dB, 1 dB, etc.)).
+
+α {\displaystyle \alpha } is the desired passband attenuation at the cutoff frequency in dB (1 dB, 3 dB, 10 dB, etc.)
+
+n {\displaystyle n} is the number of poles (the order of the filter).
+
+c o s ( π ( n − 1 ) 2 n ) {\displaystyle cos({\frac {\pi (n-1)}{2n}})} is the smallest even order Chebyshev Node
+
+Also known as inverse Chebyshev filters, the Type II Chebyshev filter type is less common because it does not roll off as fast as Type I, and requires more components. It has no ripple in the passband, but does have equiripple in the stopband. The gain is:
+
+In the stopband, the Chebyshev polynomial oscillates between -1 and 1 so that the gain will oscillate between zero and
+
+and the smallest frequency at which this maximum is attained is the cutoff frequency ω o {\displaystyle \omega _{o}} . The parameter ε is thus related to the stopband attenuation γ in decibels by:
+
+For a stopband attenuation of 5 dB, ε = 0.6801; for an attenuation of 10 dB, ε = 0.3333. The frequency f 0 = ω 0 /2 π is the cutoff frequency. The 3 dB frequency f H is related to f 0 by:
+
+Assuming that the cutoff frequency is equal to unity, the poles ( ω p m ) {\displaystyle (\omega _{pm})} of the gain of the Chebyshev filter are the zeroes of the denominator of the gain:
+
+The poles of gain of the type II Chebyshev filter are the inverse of the poles of the type I filter:
+
+where m = 1 , 2 , . . . n {\displaystyle m=1,2,...n} . The zeroes ( ω z m ) {\displaystyle (\omega _{zm})} of the type II Chebyshev filter are the zeroes of the numerator of the gain:
+
+The zeroes of the type II Chebyshev filter are therefore the inverse of the zeroes of the Chebyshev polynomial.
+
+for m = 1 , 2 , . . . n {\displaystyle m=1,2,...n} .
+
+The transfer function is given by the poles in the left half plane of the gain function, and has the same zeroes but these zeroes are single rather than double zeroes.
+
+The gain and the group delay for a fifth-order type II Chebyshev filter with ε=0.1 are plotted in the graph on the left. It can be seen that there are ripples in the gain in the stopband but not in the pass band.
+
+Just like Chebyshev filter even order filters, the standard Chebyshev II even order filter cannot be implemented with equally terminated passive elements without the use of coupled coils, which may not be desirable or feasible.  In the Chebyshev Ii case, this is due to finite attenuation of S12 in the stop band. However, even order Chebyshev II filters may be modified by translating the highest frequency finite transmission zero to infinity, while maintaining the equi-ripple functions of the Chebyshev II stop band.  To do this translation, an even order modified Chebyshev function is used in place of the standard Chebyshev function to define the Chebyshev II poles needed to create the even order modified Chebyshev II transfer function.  Zeros are created using the roots of the even order modified Chebyshev polynomial , which are the even order modified Chebyshev nodes .
+
+The illustration below shows an 8th order Inverse Chebyshev filter modified to support even order equally terminated passive networks by relocating the highest frequency transmission zero from a finite frequency to ∞ {\displaystyle \infty } while maintaining an equi-ripple stop band frequency response.
+
+To design an Inverse Chebyshev filter using the minimum required number of elements, the minimum order of the Inverse Chebyshev filter may be calculated as follows. The equations account for standard low pass Inverse Chebyshev filters, only.  Even order modifications will introduce error that the equations do not account for.  The equations is identical to that used for Chebyshev filter minimum order, with a slightly different variable definitions.
+
+n = c e i l [ cosh − 1 ⁡ 10 α s / 10 − 1 10 α p / 10 − 1 cosh − 1 ⁡ ( ω s / ω p ) ] {\displaystyle n=ceil{\bigg [}{\frac {\cosh ^{-1}{\sqrt {\frac {10^{\alpha _{s}/10}-1}{10^{\alpha _{p}/10}-1}}}}{\cosh ^{-1}{(\omega _{s}/\omega _{p})}}}{\bigg ]}}
+
+where:
+
+ω p {\displaystyle \omega _{p}} and α p {\displaystyle \alpha _{p}} are the pass band frequency and attenuation at that frequency in dB
+
+ω s {\displaystyle \omega _{s}} and α s {\displaystyle \alpha _{s}} are the stop band frequency and minimum stop band attenuation in dB
+
+n {\displaystyle n} is the minimum number of poles, the order of the filter.
+
+ceil [] is a round up to next integer function.
+
+The standard cutoff attenuation as described is the same at the pass band ripple attenuation.  However, just as in Chebyshev filters, it is useful to set the cutoff attenuation to a desired value, and for the same reasons.  Setting the Chebyshev II cutoff attenuation is the same as for Chebyshev cutoff attenuation , except the arithmetic attenuation and ripple entries are inverted in the equation and the poles and zeros are multiplied by the result, as opposed to divided by in the Chebyshev case..
+
+p A = p 1 ∗ T n − 1 ( 10 δ / 10 − 1 10 α / 10 − 1 , n ) For 0 < δ < ∞ and 0 ≤ α < ∞ = p 1 ∗ c o s h ( 1 n c o s h − 1 ( 10 δ / 10 − 1 10 α / 10 − 1 ) ) For 0 < δ < ∞ and δ ≤ α < ∞ {\displaystyle {\begin{aligned}p_{A}&=p_{1}*T_{n}^{-1}{\Biggr (}{\sqrt {\frac {10^{{\delta }/10}-1}{10^{\alpha /10}-1}}},n{\Biggr )}\qquad &{\text{For }}0<\delta <\infty {\text{   and  }}0\leq \alpha <\infty \\&=p_{1}*cosh{\Biggr (}{\frac {1}{n}}cosh^{-1}{\Bigr (}{\sqrt {\frac {10^{\delta /10}-1}{10^{\alpha /10}-1}}}{\Bigr )}{\Biggr )}&{\text{For }}0<\delta <\infty {\text{   and   }}\delta \leq \alpha <\infty \\\end{aligned}}}
+
+The same even order adjustment to the poles and zeros that was used for the Chebyshev even order modified cutoff attenuation may also be used for the Chebyshev II case, except the poles are multiplied by the result.
+
+p A = p 1 c o s h 2 ( 1 n c o s h − 1 ( 10 δ / 10 − 1 10 α / 10 − 1 ) ) − c o s 2 ( π ( n − 1 ) 2 n ) 1 − c o s 2 ( π ( n − 1 ) 2 n ) For 0 < δ < ∞ and δ ≤ α < ∞ {\displaystyle {\begin{aligned}p_{A}=p_{1}{\sqrt {\frac {cosh^{2}{\Biggr (}{\frac {1}{n}}cosh^{-1}{\Bigr (}{\sqrt {\frac {10^{\delta /10}-1}{10^{\alpha /10}-1}}}{\Bigr )}{\Biggr )}-cos^{2}({\frac {\pi (n-1)}{2n}})}{1-{cos^{2}({\frac {\pi (n-1)}{2n}})}}}}{\text{  For }}0<\delta <\infty {\text{   and   }}\delta \leq \alpha <\infty \\\end{aligned}}}
+
+A passive LC Chebyshev low-pass filter may be realized using a Cauer topology . The inductor or capacitor values of an n {\displaystyle n} th-order Chebyshev prototype filter may be calculated from the following equations:
+
+G 1 , G k are the capacitor or inductor element values.
+f H , the 3 dB frequency is calculated with: f H = f 0 cosh ⁡ ( 1 n cosh − 1 ⁡ 1 ε ) {\displaystyle f_{H}=f_{0}\cosh \left({\frac {1}{n}}\cosh ^{-1}{\frac {1}{\varepsilon }}\right)}
+
+The coefficients A , γ , β , A k , and B k may be calculated from the following equations:
+
+where δ {\displaystyle \delta } is the passband ripple in decibels.
+The number 17.37 {\displaystyle 17.37} is rounded from the exact value 40 / ln ⁡ ( 10 ) {\displaystyle 40/\ln(10)} .
+
+The calculated G k values may then be converted into shunt capacitors and series inductors as shown on the right, or they may be converted into series capacitors and shunt inductors. For example,
+
+or
+
+Note that when G 1 is a shunt capacitor or series inductor, G 0 corresponds to the input resistance or conductance, respectively. The same relationship holds for G n+1 and G n . The resulting circuit is a normalized low-pass filter. Using frequency transformations and impedance scaling , the normalized low-pass filter may be transformed into high-pass , band-pass , and band-stop filters of any desired cutoff frequency or bandwidth .
+
+As with most analog filters, the Chebyshev may be converted to a digital (discrete-time) recursive form via the bilinear transform . However, as digital filters have a finite bandwidth, the response shape of the transformed Chebyshev is warped . Alternatively, the Matched Z-transform method may be used, which does not warp the response.
+
+The following illustration shows the Chebyshev filters next to other common filter types obtained with the same number of coefficients (fifth order):
+
+Chebyshev filters are sharper than the Butterworth filter ; they are not as sharp as the elliptic one , but they show fewer ripples over the bandwidth.
+
+Chebyshev filter design flexibility may be augmented by more advanced design methods documented in this section. Transmission zeros may be inserted into the stop band to neutralize specific undesired frequencies or increase the cut-off attenuation, or may be inserted off-axis to obtain a more desirable group delay .  Asymmetric Chebyshev band pass filters may be created that contain differing number of poles on each side of the pass band to meet frequency asymmetric design requirements more efficiently.  The equi-ripple pass bands and that Chebyshev filters are known for may be restricted to a percentage of the pass band to meet design requirements more efficiently that only call for a portion of the pass band to be equi-ripple .
+
+Chebyshev filters may be designed with arbitrarily placed finite transmission zeros in the stop band while retaining an equi-ripple pass band.  Stop band zeros along the j ω {\displaystyle j\omega } axis are generally used to eliminate unwanted frequencies.  Stop band zeros along the real axis or quadruplet stop band zeros in the complex plane may be used to modify the group delay to a more desirable shape.  The transmission zeros design utilizes characteristic polynomials, K(S), to place the transmission and reflection zeros, which in turn are used to create the transfer function, G ( s ) {\displaystyle G(s)} ,
+
+G ( s ) = 1 1 + ε 2 K ( s ) K ( − s ) | left half plane (LHP) poles {\displaystyle G(s)={\sqrt {\frac {1}{1+\varepsilon ^{2}K(s)K(-s)}}}{\bigg |}_{\text{left half plane (LHP) poles}}}
+
+The calculation of K(S) relies upon the following observed equality.
+
+| ∏ i = 1 N j ω z i 2 + 1 z i + 1 − ω 2 ( 1 − j ω / z i ) | = 1. for 0 ≤ ω ≤ 1 {\displaystyle {\begin{aligned}&{\begin{array}{lcr}&{\bigg |}\prod _{i=1}^{N}{\frac {j\omega {\frac {\sqrt {z_{i}^{2}+1}}{z_{i}}}+{\sqrt {1-\omega ^{2}}}}{(1-j\omega /z_{i})}}{\bigg |}=1.&&{\text{ for }}0\leq \omega \leq 1\end{array}}\\\end{aligned}}}
+
+for all z i = ∞ {\displaystyle z_{i}=\infty } , imaginary conjugate pairs ,  quadruplet conjugate pairs, or real opposing signed pairs.
+
+Given the magnitude is always one in the pass bane ( 0 ≤ ω ≤ 1 {\displaystyle 0\leq \omega \leq 1} ) the rational and irrational terms must vary between 0 and 1.  Therefore, if only the rational term is used to create the K ( s ) {\displaystyle K(s)} characteristic function, an equi-ripple response is expected in the pass band, and characteristic poles (transmission zeros) are expected at all s = z i {\displaystyle s=z_{i}} .
+
+The design process for K(S) using the above expression is below.
+
+K ( s ) = { ∏ i = 1 N ( M i s + s 2 + 1 ) } rational term only ∏ i = 1 N ( 1 − s / z i ) M i = z i 2 + 1 z i for σ i ≠ 0 or ω i > 1 = ω i 2 − 1 ω i for σ i = 0 and ω i > 1 = 1 for ω i = ∞ z i = σ i + j ω i = complex transmision zero {\displaystyle {\begin{aligned}K(s)&={\frac {{\bigg \{}\prod _{i=1}^{N}{\bigg (}M_{i}s+{\sqrt {s^{2}+1}}{\bigg )}{\bigg \}}_{\text{rational term only}}}{\prod _{i=1}^{N}(1-s/z_{i})}}\\M_{i}&={\frac {\sqrt {z_{i}^{2}+1}}{z_{i}}}{\text{ for }}\sigma _{i}\neq 0{\text{ or }}\omega _{i}>1\\&={\frac {\sqrt {\omega _{i}^{2}-1}}{\omega _{i}}}{\text{ for }}\sigma _{i}=0{\text{ and }}\omega _{i}>1\\&=1{\text{ for  }}\omega _{i}=\infty \\z_{i}&=\sigma _{i}+j\omega _{i}={\text{ complex transmision zero}}\\\end{aligned}}}
+
+Use the positive M i {\displaystyle M_{i}} solution for real and imaginary z i {\displaystyle z_{i}} pairs.  Use the positive real and conjugate imaginary M i {\displaystyle M_{i}} solution for quadruplet complex z i {\displaystyle z_{i}} pairs.
+
+K ( s ) {\displaystyle K(s)} should be normalized such that | K ( s ) | = 1 at s = j {\displaystyle |K(s)|=1{\text{ at }}s=j} , if needed.
+
+The, "rational terms only" indicates to keep the rational part of the product, and to discard the irrational part.  The rational term may be obtained by manually performing the polynomial arithmetic, or with the short cut below which is a solution derived from polynomial arithmetic and uses binomial coefficients .  The algorithm is extremely efficient if the Binomial coefficients are implemented from a look-up table of pre-calculated values.
+
+B = ∏ i = 1 N ( M i s + 1 ) K ( s ) n u m = ∑ i = N i ≥ 0 , step = − 2 [ ∑ j = i j ≥ 0 , step = − 2 B j ( ( N − j ) / 2 ( N − i ) / 2 ) ] s i N = order of the Chebyshev filter B = a polynomial created by the product of the specified factors B j = the j t h order coefficent of polynomial B ( n k ) is the binomial coefficient function {\displaystyle {\begin{aligned}&B=\prod _{i=1}^{N}(M_{i}s+1)\\&K(s)_{num}=\sum _{i=N}^{i\geq 0{\text{, step }}=-2}{\bigg [}\sum _{j=i}^{j\geq 0{\text{, step }}=-2}B_{j}{\binom {(N-j)/2}{(N-i)/2}}{\bigg ]}s^{i}\\&N={\text{ order of the Chebyshev filter}}\\&B={\text{a polynomial created by the product of the specified factors}}\\&B_{j}={\text{ the }}j_{th}{\text{ order coefficent of polynomial }}B\\&{\binom {n}{k}}{\text{ is the binomial coefficient function}}\\\end{aligned}}}
+
+When all M values are set to one, then K ( s ) n u m {\displaystyle K(s)_{num}} will be the standard Chebyshev equation, which is expected since the all transmission zeros are it ∞ {\displaystyle \infty } . Even order finite transmission zero Chebyshev filters have the same limitation as the all-pole case in that they cannot be constructed using equally terminated passive networks. The same even order modification may be made to the even order characteristic polynomials, K ( s ) {\displaystyle K(s)} , to make equally terminated passive network implementations possible. However, the even order modification will also move the finite transmission zeros slightly. This movement may be significantly mitigated by propositioning the transmission zeros with the inverse of the even order modification using the lowest Chebyshev node , c o s ( π ( N − 1 ) / ( 2 N ) ) {\displaystyle cos(\pi (N-1)/(2N))} .
+
+z i ′ = z i 2 ( 1. − C 0 2 ) − C 0 2 C 0 2 = c o s 2 ( π ( N − 1 ) 2 N ) z i = desired finite transmission zero z i ′ = prepositioned finite transmission zero {\displaystyle {\begin{aligned}&z_{i}'={\sqrt {z_{i}^{2}(1.-C_{0}^{2})-C_{0}^{2}}}\\&C_{0}^{2}=cos^{2}({\frac {\pi (N-1)}{2N}})\\&z_{i}={\text{desired finite transmission zero}}\\&z_{i}'={\text{prepositioned finite transmission zero}}\\\end{aligned}}}
+
+Design a 3 pole Chebyshev filter with a 1 dB pass band, a transmission zero at 2 rad/sec, and a transmission zero at ∞ {\displaystyle \infty } :
+
+M 1 = M 2 = ( j 2 ) 2 + 1 / j 2 = 1 − 4 / j 2 = 3 / 2 = 0.866025 , M 3 = ∞ 2 + 1 / ∞ = 1 Full polynomial derivation: K ( s ) n u m = ( 0.86602540 s + s 2 + 1 ) ( 0.86602540 s + s 2 + 1 ) ( s + s 2 + 1 ) K ( s ) n u m = 3.4820508 s 3 + 2.7320508 s + … discarding the irrational … and keeping only the rational part: K ( s ) n u m = 3.4820508 s 3 + 2.7320508 s K ( s ) n u m shortcut derivation: B = ( 0.86602540 s + 1 ) ( 0.86602540 s + 1 ) ( s + 1 ) = .75 s 3 + 2.4820508 s 2 + 2.7320508 s + 1 K ( s ) n u m = ( 0.75 ( 0 0 ) + 2.4820508 ( 1 0 ) ) s 3 + ( 2.7320508 ( 1 1 ) ) s K ( s ) n u m = 3.4820508 s 3 + 2.7320508 s k ( s ) d e n = ( s j 2 + 1 ) ( s − j 2 + 1 ) = 0.25 s 2 + 1 Check | K ( s ) | at s = j to insure it is unity, and adjust with a constant, if necessary: | K ( s ) n u m ( s = j ) K ( s ) d e n ( s = j ) | = 1 Check! K ( s ) = 3.4820508 s 3 + 2.7320508 s 0.25 s 2 + 1 {\displaystyle {\begin{aligned}&M_{1}=M_{2}={\sqrt {(j2)^{2}+1}}/j2={\sqrt {1-4}}/j2={\sqrt {3}}/2=0.866025{\text{, }}M_{3}={\sqrt {\infty ^{2}+1}}/\infty =1\\&\\&{\text{Full polynomial derivation:}}\\&K(s)_{num}={\bigr (}0.86602540s+{\sqrt {s^{2}+1}}{\bigr )}{\bigr (}0.86602540s+{\sqrt {s^{2}+1}}{\bigr )}{\bigr (}s+{\sqrt {s^{2}+1}}{\bigr )}\\&K(s)_{num}=3.4820508s^{3}+2.7320508s+{\sqrt {\dots }}\\&{\text{discarding the irrational }}{\sqrt {\dots }}{\text{ and keeping only the rational part:}}\\&K(s)_{num}=3.4820508s^{3}+2.7320508s\\&\\&K(s)_{num}{\text{ shortcut derivation:}}\\&B=(0.86602540s+1)(0.86602540s+1)(s+1)=.75s^{3}+2.4820508s^{2}+2.7320508s+1\\&K(s)_{num}={\bigg (}0.75{\binom {0}{0}}+2.4820508{\binom {1}{0}}{\bigg )}s^{3}+{\bigg (}2.7320508{\binom {1}{1}}{\bigg )}s\\&K(s)_{num}=3.4820508s^{3}+2.7320508s\\&\\&k(s)_{den}=({\frac {s}{j2}}+1)({\frac {s}{-j2}}+1)=0.25s^{2}+1\\&{\text{Check }}|K(s)|{\text{ at }}s=j{\text{ to insure it is unity, and adjust with a constant, if necessary:}}\\&{\bigg |}{\frac {K(s)_{num}(s=j)}{K(s)_{den}(s=j)}}{\bigg |}=1{\text{ Check!}}\\&K(s)={\frac {3.4820508s^{3}+2.7320508s}{0.25s^{2}+1}}\\\end{aligned}}}
+
+To find the G ( s ) {\displaystyle G(s)} transfer function, do the following.
+
+ε 2 = 10 1 d B / 10. − 1. = .25892541 G ( s ) = G ( s ) G ( − s ) | LHP poles = 1 1 + ε 2 K ( s ) K ( − s ) | LHP poles = K ( s ) d e n K ( − s ) d e n K ( s ) d e n K ( − s ) d e n + ε 2 K ( s ) n u m K ( − s ) n u m | LHP poles = { 0.25 ( s ) 2 + 1 } { 0.25 ( − s ) 2 + 1 } { 0.25 ( s ) 2 + 1 } { 0.25 ( − s ) 2 + 1 } + .25892541 { 3.4820508 ( s ) 3 + 2.7320508 ( s ) } { 3.4820508 ( − s ) 3 + 2.7320508 ( − s ) } | LHP poles = 0.25 ( s ) 2 + 1 − 3.1393872 s 6 − 4.8638872 s 4 − 1.4326456 s 2 + 1 | LHP poles {\displaystyle {\begin{aligned}&\varepsilon ^{2}=10^{1dB/10.}-1.=.25892541\\&G(s)={\sqrt {G(s)G(-s)}}{\bigg |}_{\text{LHP poles}}={\sqrt {\frac {1}{1+\varepsilon ^{2}K(s)K(-s)}}}{\bigg |}_{\text{LHP poles}}={\sqrt {\frac {K(s)_{den}K(-s)_{den}}{K(s)_{den}K(-s)_{den}+\varepsilon ^{2}K(s)_{num}K(-s)_{num}}}}{\bigg |}_{\text{LHP poles}}\\&={\sqrt {\frac {\{0.25(s)^{2}+1\}\{{0.25(-s)^{2}+1}\}}{\{0.25(s)^{2}+1\}\{{0.25(-s)^{2}+1}\}+.25892541\{3.4820508(s)^{3}+2.7320508(s)\}\{3.4820508(-s)^{3}+2.7320508(-s)\}}}}{\bigg |}_{\text{LHP poles}}\\&={\frac {0.25(s)^{2}+1}{{\sqrt {-3.1393872s^{6}-4.8638872s^{4}-1.4326456s^{2}+1}}{\bigr |}_{\text{LHP poles}}}}\\\end{aligned}}}
+
+To obtain G ( s ) {\displaystyle G(s)} from the left half plane, factor the numerator and denominator to obtain the roots.  Discard all roots from the right half plane of the denominator, half the repeated roots in the numerator, and rebuild G ( s ) {\displaystyle G(s)} with the remaining roots.  Generally, normalize | G ( s ) | {\displaystyle |G(s)|} to 1 at s = 0 {\displaystyle s=0} .
+
+G ( s ) = 0.25 s 2 + 1 1.7718316 s 3 + 1.7200107 s 2 + 2.2074118 s + 1 {\displaystyle {\begin{aligned}&G(s)={\frac {0.25s^{2}+1}{1.7718316s^{3}+1.7200107s^{2}+2.2074118s+1}}\\\end{aligned}}}
+
+To confirm that the example G ( s ) {\displaystyle G(s)} is correct, the plot of G ( s ) {\displaystyle G(s)} along j ω {\displaystyle j\omega } is shown below with a pass band ripple of 1 dB, a cut off frequency of 1 rad/sec, and a stop band zero at 2 rad/sec.
+
+Chebyshev band pass filters may be designed with a geometrically asymmetric frequency response by placing the desired number of transmission zeros at zero and infinity with the use of the more generalized form of the Chebyshev transmission zeros equation above, and shown below.  The K ( s ) {\displaystyle K(s)} equations below consider a frequency normalized pass band from 1 to ω 2 {\displaystyle \omega _{2}} .  If the number of transmission zeros at 0 is not the same as the number of transmission zeros at ∞ {\displaystyle \infty } , the filter will be geometrically asymmetric.  The filter will also be asymmetric if finite transmission zeros are not place symmetrically about the geometric center frequency, which in this case is ω 2 {\displaystyle {\sqrt {\omega _{2}}}} .  There is a restriction in that he filter must be net even order, that is the sum of all the poles must be even, to make the asymmetric K ( s ) {\displaystyle K(s)} equation produce usable results.  Real and complex quadruplet transmission zeros may also be created using this technique and are useful to modify the group delay response, just as in the low pass case.  The derivation of the characteristic equation, K ( s ) {\displaystyle K(s)} , to create an asymmetric Chebyshev band pass filter is shown below.
+
+K ( s ) = { ∏ i = 1 N ( M i s 2 + ω 2 2 + s 2 + 1 ) } rational term only s N z ∏ i = 1 N f ( 1 − s / z i ) M i = z i 2 + 1 z i 2 + ω 2 2 for σ i ≠ 0 or ω i < 1 or ω i > ω 2 = 1 − ω i 2 ω 2 2 − ω i 2 for σ i = 0 and 0 < ω i < 1 = ω i 2 − 1 ω i 2 − ω 2 2 for σ i = 0 and ω 2 < ω i < ∞ = 1 ω 2 for z i = 0 = 1 for z i = ∞ N z = number of transmission zeros at zero N f = number of finite transmission zeros (imaginary, real, and complex) z i = σ i + j ω i = complex transmision zero ω 2 = upper passband corner frequency (lower corner is normalized to 1) {\displaystyle {\begin{aligned}K(s)&={\frac {{\bigg \{}\prod _{i=1}^{N}{\bigg (}M_{i}{\sqrt {s^{2}+\omega _{2}^{2}}}+{\sqrt {s^{2}+1}}{\bigg )}{\bigg \}}_{\text{rational term only}}}{s^{N_{z}}\prod _{i=1}^{N_{f}}(1-s/z_{i})}}\\M_{i}&={\sqrt {\frac {z_{i}^{2}+1}{z_{i}^{2}+\omega _{2}^{2}}}}{\text{ for }}\sigma _{i}\neq 0{\text{ or }}\omega _{i}<1{\text{ or }}\omega _{i}>\omega _{2}\\&={\sqrt {\frac {1-\omega _{i}^{2}}{\omega _{2}^{2}-\omega _{i}^{2}}}}{\text{ for }}\sigma _{i}=0{\text{ and }}0<\omega _{i}<1\\&={\sqrt {\frac {\omega _{i}^{2}-1}{\omega _{i}^{2}-\omega _{2}^{2}}}}{\text{ for }}\sigma _{i}=0{\text{ and }}\omega _{2}<\omega _{i}<\infty \\&={\frac {1}{\omega _{2}}}{\text{ for  }}z_{i}=0\\&=1{\text{ for  }}z_{i}=\infty \\N_{z}&={\text{ number of transmission zeros at zero}}\\N_{f}&={\text{ number of finite transmission zeros (imaginary, real, and complex)}}\\z_{i}&=\sigma _{i}+j\omega _{i}={\text{ complex transmision zero}}\\\omega _{2}&={\text{ upper passband corner frequency (lower corner is normalized to 1)}}\\\end{aligned}}}
+
+K ( s ) {\displaystyle K(s)} should be normalized such that | K ( s ) | = 1 at s = j {\displaystyle |K(s)|=1{\text{ at }}s=j} , if needed.
+
+Design an asymmetric Chebyshev filter with 1dB pass band ripple from 1 to 2 rad/sec, one transmission zero at ∞ {\displaystyle \infty } , and three transmission zeros at 0.  By applying the numeral values to the equations above, the characteristic polynomials, K ( s ) {\displaystyle K(s)} , may be calculated as follows.
+
+ω 2 = 2 M 1 = M 2 = M 3 = .5 M 4 = 1 K ( s ) = { ( .5 s 2 + 2 2 + s 2 + 1 ) ( .5 s 2 + 2 2 + s 2 + 1 ) ( .5 s 2 + 2 2 + s 2 + 1 ) ( s 2 + 2 2 + s 2 + 1 ) } rational term only s 3 K ( s ) = C 3.375 s 4 + 14.25 s 2 + 12 + … s 3 where C is a constant used to normalize the magnitude to 1 at s = j {\displaystyle {\begin{aligned}\omega _{2}&=2\\M_{1}&=M_{2}=M_{3}=.5\\M_{4}&=1\\K(s)&={\frac {{\bigg \{}{\bigg (}.5{\sqrt {s^{2}+2^{2}}}+{\sqrt {s^{2}+1}}{\bigg )}{\bigg (}.5{\sqrt {s^{2}+2^{2}}}+{\sqrt {s^{2}+1}}{\bigg )}{\bigg (}.5{\sqrt {s^{2}+2^{2}}}+{\sqrt {s^{2}+1}}{\bigg )}{\bigg (}{\sqrt {s^{2}+2^{2}}}+{\sqrt {s^{2}+1}}{\bigg )}{\bigg \}}_{\text{rational term only}}}{s^{3}}}\\K(s)&=C{\frac {3.375s^{4}+14.25s^{2}+12+{\sqrt {\dots }}}{s^{3}}}{\text{ where C is a constant used to normalize the magnitude to 1 at }}s=j\\\end{aligned}}}
+
+Discarding the irrational part and normalizing | K ( s ) | {\displaystyle |K(s)|} to 1 at s=j:
+
+K ( s ) = 3 s 4 + 12.666667 s 2 + 10.666667 s 3 {\displaystyle {\begin{aligned}K(s)&={\frac {3s^{4}+12.666667s^{2}+10.666667}{s^{3}}}\\\end{aligned}}}
+
+Use the same process as in the low pass case to find G ( s ) {\displaystyle G(s)} from K ( s ) {\displaystyle K(s)} , using constant C {\displaystyle C} to scale the magnitude.
+
+ε 2 = 10 1 d B / 10. − 1. = .25892541 G ( s ) = C K ( s ) d e n K ( − s ) d e n K ( s ) d e n K ( − s ) d e n + ε 2 K ( s ) n u m K ( − s ) n u m | LHP poles = C s 3 ( s ) 3 ( − s ) 3 + .25892541 { 3 ( s ) 4 + 12.666667 ( s ) 2 + 10.666667 } { 3 ( − s ) 4 + 12.666667 ( − s ) 2 + 10.666667 } | LHP poles = C s 3 2.3303287 s 8 + 18.678331 s 6 + 58.11437 s 4 + 69.9674 s 2 + 29.459958 | LHP poles {\displaystyle {\begin{aligned}\varepsilon ^{2}&=10^{1dB/10.}-1.=.25892541\\G(s)&=C{\sqrt {\frac {K(s)_{den}K(-s)_{den}}{K(s)_{den}K(-s)_{den}+\varepsilon ^{2}K(s)_{num}K(-s)_{num}}}}{\bigg |}_{\text{LHP poles}}\\&=C{\frac {s^{3}}{{\sqrt {(s)^{3}(-s)^{3}+.25892541\{3(s)^{4}+12.666667(s)^{2}+10.666667\}\{3(-s)^{4}+12.666667(-s)^{2}+10.666667\}}}{\bigr |}_{\text{LHP poles}}}}\\&=C{\frac {s^{3}}{{\sqrt {2.3303287s^{8}+18.678331s^{6}+58.11437s^{4}+69.9674s^{2}+29.459958}}{\bigr |}_{\text{LHP poles}}}}\\\end{aligned}}}
+
+When reconstructing the denominator from the left half plane poles, it will be necessary to set the G ( s ) {\displaystyle G(s)} magnitude such that the reflection zeros occur at 0dB.  To do this, G ( s ) {\displaystyle G(s)} should be scaled such that | G ( s ) | {\displaystyle |G(s)|} = -1dB at the pass band corner frequencies, s = j {\displaystyle s=j} and s = j 2 {\displaystyle s=j2} .  Once accomplished, the final transfer function for the designed asymmetric Chebyshev filter is shown below.
+
+G ( s ) = 0.18424001 s 3 0.28125000 s 4 + 0.34089984 s 3 + 1.3337548 s 2 + 0.54084155 s + 1 {\displaystyle {\begin{aligned}G(s)&={\frac {0.18424001s^{3}}{0.28125000s^{4}+0.34089984s^{3}+1.3337548s^{2}+0.54084155s+1}}\\\end{aligned}}}
+
+Evaluating | G ( s ) | {\displaystyle |G(s)|} at s=j and at s=2j produces a value of -1dB in both cases, yielding an assurance that the example has been synthesized correctly.  The frequency response is below, showing a Chebyshev 1dB equi-ripple pass band response for 1 < ω < 2 {\displaystyle 1<\omega <2} , cutoff attenuation of -1dB at the pass band edges, -60dB / decade attenuation toward ω = 0 {\displaystyle \omega =0} , -20dB / decade attenuation toward ω = ∞ {\displaystyle \omega =\infty } , and Chebyshev style steepened slopes near the pass band edges.
+
+Standard low pass Chebyshev filter design creates an equi-ripple pass band beginning from 0 rad/sec to a frequency normalized value of 1 rad/sec.  However, some design requirements do not need an equi-ripple pass band at the low frequencies.  A standard full-equi-ripple Chebyshev filter for this application would result in an over designed filter.  Constricting the equi-ripple to a defined percentage of the pass band creates a more efficient design, reducing the size of the filter and potentially eliminating one or two components, which is useful in maximizing board space efficiency and minimizing production costs for mass produced items.
+
+Constricted pass band ripple can be achieved by designing an asymmetric Chebyshev band pass filter using the techniques described above in this article with a 0 order asymmetric high pass side (no transmission zeros at 0) and an ω 2 {\displaystyle \omega 2} set to the constricted ripple frequency.  The order of the low pass side is N-1 for odd order filters, N-2 for even order modified filters, and N for standard even order filters. This results in a less than unity S12 at ω = 0 {\displaystyle \omega =0} , which is typical of even order standard Chebyshev design, so for standard even order Chebyshev designs, the process is complete at this step.  It will be necessary to insert a single reflection zero at ω = 0 {\displaystyle \omega =0} for odd order designs, and two reflection zeros at ω = 0 {\displaystyle \omega =0} for even order modified designs.   Added reflection zeros introduces a noticeable error in the pass band that is likely to be objectionable.  This error may be removed quickly and accurately  by repositioning the finite reflection zeros with the use of Newton's method for systems of equations .
+
+Positioning the reflection zeros with Newton's method requires three pieces of information:
+
+Since the Chebyshev characteristic equations, K ( s ) {\displaystyle K(s)} , have all reflection zeros located on the j ω {\displaystyle j\omega } axis, and all the transmission zeros either on the j ω {\displaystyle j\omega } axis or symmetric bout the j ω {\displaystyle j\omega } axis (required for passive element implementation), the locations of the pass band ripple minima may be obtained by factoring the numerator of the derivative of K ( s ) {\displaystyle K(s)} , ( d K ( s ) / d s ) n u m {\displaystyle (dK(s)/ds)_{num}} , with the use of a root finding algorithm .  The roots of this polynomial will be the pass band minima frequencies. ( d K ( s ) / d s ) n u m {\displaystyle (dK(s)/ds)_{num}} is obtainable from standard polynomial derivative definitions , and is ( d K ( s ) / d s ) n u m = K ( s ) d e n ( d ( K ( s ) n u m ) / d s ) − K ( s ) n u m ( d ( K ( s ) d e n ) / d s ) {\displaystyle (dK(s)/ds)num=K(s)_{den}(d(K(s)_{num})/ds)-K(s)_{num}(d(K(s)_{den})/ds)} .
+
+The partial derivatives may be calculated digitally with ∂ | K ( R k , j ω ) K ( j ) = 1 | / ∂ R k = | K ( R k , j ω ) | K ( j ) | = 1 | − | K ( R k + △ R k , j ω ) | K ( j ) | = 1 | ) / △ R k {\displaystyle \partial |K(R_{k},j\omega )_{K(j)=1}|/\partial R_{k}=|K(R_{k},j\omega )_{|K(j)|=1}|-|K(R_{k}+\vartriangle R_{k},j\omega )_{|K(j)|=1}|)/\vartriangle R_{k}} , however, the continuous partial derivative generally provides greater accuracy and less convergence time, and is recommended.  To obtain the continuous partial derivatives of | K ( s ) | K ( j ) | = 1 | {\displaystyle |K(s)_{|K(j)|=1}|} with respect to the reflections zeros, a continuous expression for K ( s ) {\displaystyle K(s)} needs to be obtained that forces | K ( j ) | = 1 {\displaystyle |K(j)|=1} at all times.  This may be achieved by expressing K ( s ) {\displaystyle K(s)} as a function of its conjugate root pairs, as shown below.
+
+| K ( s ) | K ( j ) | = 1 | = { K f i n i t e ( s ) if n is even s K f i n i t e ( s ) if n is odd K f i n i t e ( s ) = ∏ i = 1 N R z ( R z i 2 + s 2 ) ∏ i = 1 N T z ( T z i 2 + s 2 ) ∏ i = 1 N T z ( T z i 2 − 1 ) ∏ i = 1 N R z ( R z i 2 − 1 ) {\displaystyle {\begin{aligned}|K(s)_{|K(j)|=1}|&={\begin{cases}K_{finite}(s)&{\text{if }}n{\text{ is even}}\\sK_{finite}(s)&{\text{if }}n{\text{ is odd}}\\\end{cases}}\\&\\K{finite}(s)&={\frac {\prod _{i=1}^{N_{Rz}}(Rz_{i}^{2}+s^{2})}{\prod _{i=1}^{N_{Tz}}(Tz_{i}^{2}+s^{2})}}{\frac {\prod _{i=1}^{N_{Tz}}(Tz_{i}^{2}-1)}{\prod _{i=1}^{N_{Rz}}(Rz_{i}^{2}-1)}}\\\end{aligned}}}
+
+Where K f i n i t e ( s ) {\displaystyle K{finite}(s)} includes finite reflection and transmission zeros, only, N R z {\displaystyle N_{Rz}} and N T z {\displaystyle N_{Tz}} refer to the number of reflection and transmission zero conjugate pairs, and R z i {\displaystyle Rz_{i}} and T z i {\displaystyle Tz_{i}} are the reflection and transmission zero conjugate pairs. The s {\displaystyle s} odd term accounts for the single reflection zero at 0 that occurs in odd order Chebyshev filters.  Note that if quadruplet transmission zeros are employed, the expression must be modified to accommodate quadruplet terms.  It is seen by inspection that | K ( s ) | = 1 {\displaystyle |K(s)|=1} whenever s = j {\displaystyle s=j} in the above expression.
+
+Since only movement of the reflection zeros is needed to shape the Chebyshev pass band, the partial derivative expression only needs to be made on the R z i {\displaystyle Rz_{i}} terms, and the T z i {\displaystyle Tz_{i}} terms are treated as a constant.  To aid in the determination of the partial derivative expression for each R z i {\displaystyle Rz_{i}} , the expression above may be rewritten, as shown below.
+
+| K ( j ω ) | K ( j ) | = 1 | = R z k 2 − ω 2 R z k 2 − 1 | K ( j ω ) | less the R z k 2 terms {\displaystyle |K(j\omega )_{|K(j)|=1}|={\frac {Rz_{k}^{2}-\omega ^{2}}{Rz_{k}^{2}-1}}{\bigg |}K(j\omega ){\bigg |}_{{\text{less the }}Rz_{k}^{2}{\text{ terms}}}}
+
+Where R z k 2 {\displaystyle Rz_{k}^{2}} designates a specific reflection zero conjugate pair.
+
+This derivative of this expression with respect to R z k {\displaystyle Rz_{k}} may be easily computed following standard derivative rules .  The constant requires the dividing out of the R k 2 {\displaystyle R_{k}^{2}} terms to maintain the integrity of the function.  The easiest way to do this is to multiply | K ( j ω ) | {\displaystyle |K(j\omega )|} by the inverse of the R k 2 {\displaystyle R_{k}^{2}} terms that were moved to the front.  The differentiable expression may be rewritten as follows.
+
+| K ( j ω ) | K ( j ) | = 1 | = R z k 2 − ω 2 R z k 2 − 1 { | K ( j ω ) | | R z k 2 − 1 R z k 2 − ω 2 | } constant {\displaystyle |K(j\omega )_{|K(j)|=1}|={\frac {Rz_{k}^{2}-\omega ^{2}}{Rz_{k}^{2}-1}}{\bigg \{}{\bigg |}K(j\omega ){\bigg |}{\bigg |}{\frac {Rz_{k}^{2}-1}{Rz_{k}^{2}-\omega ^{2}}}{\bigg |}{\bigg \}}_{\text{constant}}}
+
+The partial derivative may then be determined by applying standard derivative procedures to R z k {\displaystyle Rz_{k}} and then simplifying.  The result is below.
+
+∂ | K ( j ω ) | K ( j ) | = 1 | ∂ | R z k | = 2 R z k 2 ( 1 − ω 2 ) ( 1 − R z k 2 ) ( R z k 2 − ω 2 ) | K ( j ω ) | {\displaystyle {\frac {\partial |K(j\omega )_{|K(j)|=1}|}{\partial |Rz_{k}|}}={\frac {2Rz_{k}^{2}(1-\omega ^{2})}{(1-Rz_{k}^{2})(Rz_{k}^{2}-\omega ^{2})}}|K(j\omega )|}
+
+Since the only frequencies of relevance are the frequencies at the constriction point and the i = 2 to N R z {\displaystyle i=2{\text{ to }}N_{Rz}} roots of | ( d K ( s ) / d s ) n u m | {\displaystyle |(dK(s)/ds)_{num}|} , the Jacobian matrix may be constructed as follows.
+
+J ( R z k , ω i ) = [ ∂ | K ( R z 1 , j ω 1 ) | K ( j ) | = 1 | ∂ R z 1 ∂ | K ( R z 2 , j ω 1 ) | K ( j ) | = 1 | ∂ R z 2 … ∂ | K ( R z N R z , j ω 1 ) | K ( j ) | = 1 | ∂ R z N R z ∂ | K ( R z 1 , j ω 2 ) | K ( j ) | = 1 | ∂ R z 1 ∂ | K ( R z 2 , j ω 2 ) | K ( j ) | = 1 | ∂ R z 2 … ∂ | K ( R z N R z , j ω 2 ) | K ( j ) | = 1 | ∂ R z N R z ⋮ ⋮ ⋱ ⋮ ∂ | K ( R z 1 , j ω N R z ) | K ( j ) | = 1 | ) ∂ R z 1 ∂ | K ( R z 2 , j ω N R z ) | K ( j ) | = 1 | ∂ R z 2 … ∂ | K ( R z N R z , j ω N R z ) | K ( j ) | = 1 | ∂ R z N R z ] {\displaystyle J(Rz_{k},\omega _{i})={\begin{bmatrix}{\frac {\partial {|K(Rz_{1},j\omega _{1})_{|K(j)|=1}|}}{\partial {Rz_{1}}}}&{\frac {\partial {|K(Rz_{2},j\omega _{1})_{|K(j)|=1}|}}{\partial {Rz_{2}}}}&\dots &{\frac {\partial {|K(Rz_{N_{Rz}},j\omega _{1})_{|K(j)|=1}|}}{\partial {Rz_{N_{Rz}}}}}\\{\frac {\partial {|K(Rz_{1},j\omega _{2})_{|K(j)|=1}|}}{\partial {Rz_{1}}}}&{\frac {\partial {|K(Rz_{2},j\omega _{2})_{|K(j)|=1}|}}{\partial {Rz_{2}}}}&\dots &{\frac {\partial {|K(Rz_{N_{Rz}},j\omega _{2})_{|K(j)|=1}|}}{\partial {Rz_{N_{Rz}}}}}\\\vdots &\vdots &\ddots &\vdots \\{\frac {\partial {|K(Rz_{1},j\omega _{N_{Rz}})_{|K(j)|=1}|)}}{\partial {Rz_{1}}}}&{\frac {\partial {|K(Rz_{2},j\omega _{N_{Rz}})_{|K(j)|=1}|}}{\partial {Rz_{2}}}}&\dots &{\frac {\partial {|K(Rz_{N_{Rz}},j\omega _{N_{Rz}})_{|K(j)|=1}|}}{\partial {Rz_{N_{Rz}}}}}\\\end{bmatrix}}}
+
+Where ω 1 {\displaystyle \omega _{1}} is the constriction limit frequency, and ω ( i > 1 ) {\displaystyle \omega _{(i>1)}} are the magnitude of the roots of the remaining pass band minima, | d K ( s ) / d s ) n u m | {\displaystyle |dK(s)/ds)_{num}|} , and R z k {\displaystyle Rz_{k}} are the reflection zeros.
+
+Assuming that the filter cut-off attenuation is the same as the ripple magnitude, the value of | K ( j ω i ) | {\displaystyle |K(j\omega _{i})|} is 1 at all ω i {\displaystyle \omega _{i}} , so the solution vector entries are all 1, and the iterative equations to solve for Newton's method is
+
+[ B k ] = [ | K ( j ω 1 ) | K ( j ) | = 1 | − 1 | K ( j ω 2 ) | K ( j ) | = 1 | − 1 ⋮ | K ( j ω N R z ) | K ( j ) | = 1 | − 1 ] [ J ( R k , ω i ) ] [ Δ k ] = [ B k ] [ R z k + 1 ] = [ R z k ] + [ Δ k ] {\displaystyle {\begin{aligned}&[B_{k}]={\begin{bmatrix}|K(j\omega _{1})_{|K(j)|=1}|-1\\|K(j\omega _{2})_{|K(j)|=1}|-1\\\vdots \\|K(j\omega _{N_{Rz}})_{|K(j)|=1}|-1\\\end{bmatrix}}\\&\\&[J(R_{k},\omega _{i})][\Delta _{k}]=[B_{k}]\\&\\&[Rz_{k+1}]=[Rz_{k}]+[\Delta _{k}]\\\end{aligned}}}
+
+Convergence is achieved when the sum of all ∑ k = 1 N R z | Δ k | < δ {\displaystyle \sum _{k=1}^{N_{Rz}}|\Delta _{k}|<\delta } and δ {\displaystyle \delta } is sufficiently small for the application, typically between 1.e-05 and 1.e-16.  For larger filters, it may be necessary to restrict the size of each Δ k {\displaystyle \Delta _{k}} to prevent excessive swings early in the convergence, and to restrict the size of each R z k + 1 {\displaystyle Rz_{k+1}} to keep their values inside the constricted ripple range during convergence.
+
+Design a 7 pole Chebyshev filter with a 1 dB equi-ripple pass band constricted to 55% of the pass band.
+
+Step 1: Design the K ( s ) {\displaystyle K(s)} characteristic polynomials for an asymmetric frequency response from .45 to 1 with 6 low pass poles at ∞ {\displaystyle \infty } ,and 0 high pass poles using the asymmetric synthesis process above (use corner frequency ω 2 {\displaystyle \omega _{2}} = 0.45) .
+
+K ( s ) = 63.089619 s 6 + 113.7979 s 4 + 60.897476 s 2 + 9.1891952 1 {\displaystyle K(s)={\frac {63.089619s^{6}+113.7979s^{4}+60.897476s^{2}+9.1891952}{1}}}
+
+Step 2: Insert a single reflection zero into the K ( s ) {\displaystyle K(s)} from step 1. (two reflection zero additions would be required for even order modified filters)
+
+K ( s ) = 63.089619 s 7 + 113.7979 s 5 + 60.897476 s 3 + 9.1891952 s 1 {\displaystyle K(s)={\frac {63.089619s^{7}+113.7979s^{5}+60.897476s^{3}+9.1891952s}{1}}}
+
+Step 3: Determine ω ( 1 to N ) {\displaystyle \omega _{(1{\text{ to }}N)}} from the pass band zero derivative frequencies by computing the positive real or imaginary values of the roots of | ( d K ( s ) / d s ) n u m | {\displaystyle |(d{K(s)}/ds)_{num}|} , and substitute the lowest root with the constriction frequency of 0.45 for ω 1 {\displaystyle \omega _{1}} .
+
+Step 4 : Determine the value of | K ( j ω i ) | {\displaystyle |K(j\omega _{i})|} at each constricted and derivative zero point.
+
+Step 5 : Create the B vector for the linear equations by subtracting the target values at each ω k {\displaystyle \omega _{k}} frequency, which in this case are all 1 due to the cutoff attenuation being equal to the pass band ripple attenuation in this specific example. | K ( j ) | = 1 {\displaystyle |K(j)|=1} at the cut-off frequency of j {\displaystyle j} .
+
+Step 6: Determine the Jacobian matrix of partial derivative of | K ( j ω i ) | K ( j ) | = 1 | {\displaystyle |K(j\omega _{i})_{|K(j)|=1}|} for each ω ( 1 to N ) {\displaystyle \omega _{(1{\text{ to }}N)}} with respect to each reflection zero, R z k {\displaystyle Rz_{k}} , ∂ | K ( j ω i ) | K ( j ) | = 1 | ∂ | R z k | = 2 R z k 2 ( 1 − ω i 2 ) ( 1 − R z k 2 ) ( R z k 2 − ω i 2 ) | K ( j ω i ) K ( j ) = 1 | {\displaystyle {\frac {\partial |K(j\omega _{i})_{|K(j)|=1}|}{\partial |Rz_{k}|}}={\frac {2Rz_{k}^{2}(1-\omega _{i}^{2})}{(1-Rz_{k}^{2})(Rz_{k}^{2}-\omega _{i}^{2})}}|K(j\omega _{i})_{K(j)=1}|}
+
+Step 7 : Get the reflection zeros movements by solving for [ Δ k ] {\displaystyle [\Delta _{k}]} the linear set of equations [ J ( R k , ω i ) ] [ Δ k ] = [ B k ] {\displaystyle [J(R_{k},\omega _{i})][\Delta _{k}]=[B_{k}]} using the B vector from step 5.
+
+Step 8: Compute new reflection zero locations by subtracting the calculated [ Δ ] {\displaystyle [\Delta ]} above from the past iteration of reflection zero positions.
+
+[ R z k ] next = [ R z k ] − [ Δ z k ] {\displaystyle [Rz_{k}]_{\text{next}}=[Rz_{k}]-[\Delta z_{k}]}
+
+Repeat steps 3 through 8 until the application convergence criteria, ∑ k = 1 N R z | Δ k | < δ m i n {\displaystyle \sum _{k=1}^{N_{Rz}}|\Delta _{k}|<\delta _{min}} ,  has been met, which for this example is chosen to be 1.e-12.  When complete, the final K ( s ) {\displaystyle K(s)} may be constructed from the final reflection zeros positions, +/-j0.5278143, +/-J0.80460874, +/-J0.97721056, and 0.  When amplitude normalized such that | K ( j ) | = 1 {\displaystyle |K(j)|=1} , the constructed K ( s ) {\displaystyle K(s)} is shown below.
+
+K ( s ) = 87.245248 s 7 + 164.10165 s 5 + 92.882626 s 3 + 15.026225 s 1 {\displaystyle K(s)={\frac {87.245248s^{7}+164.10165s^{5}+92.882626s^{3}+15.026225s}{1}}}
+
+G ( s ) = K ( s ) d e n K ( s ) d e n K ( − s ) d e n + ε 2 K ( s ) n u m K ( − s ) n u m | LHP roots {\displaystyle G(s)={\frac {K(s)_{den}}{{\sqrt {K(s)_{den}K(-s)_{den}+\varepsilon ^{2}K(s)_{num}K(-s)_{num}}}|_{\text{LHP roots}}}}}
+
+Where ε 2 = 10 ( 1 d B / 10 ) − 1 = 0.25892541 {\displaystyle {\text{Where }}\varepsilon ^{2}=10^{(1dB/10)}-1=0.25892541}
+
+G ( s ) = 1 44.394495 s 7 + 30.711417 s 6 + 94.125494 s 5 + 46.949428 s 4 + 58.490258 s 3 + 17.844618 S 2 + 9.7031614 s + 1 {\displaystyle G(s)={\frac {1}{44.394495s^{7}+30.711417s^{6}+94.125494s^{5}+46.949428s^{4}+58.490258s^{3}+17.844618S^{2}+9.7031614s+1}}}
+
+The synthesis process may be validated by doing a quick check of | G ( j ω k ) | {\displaystyle |G(j\omega _{k})|} for each ω k {\displaystyle \omega _{k}} from step 3 to insure a 1 dB attenuation at those frequencies, and that the cut-off attenuation at ω = 1 {\displaystyle \omega =1} is also 1dB.  The summary of the computation below validates the example synthesis process.
+
+The final magnitude frequency response of the forward transfer function, | G ( j w ) | {\displaystyle |G(jw)|} , is shown below.
+
+Standard low pass Inverse Chebyshev filter design creates an equi-ripple stop band beginning from a normalized value of 1 rad/sec to ∞ {\displaystyle \infty } .  However, some design requirements do not need an equi-ripple pass band at the high frequencies.  A standard full-equi-ripple Inverse Chebyshev filter for this application would result in an over designed filter.  Constricting the equi-ripple to a defined percentage of the stop band creates a more efficient design, reducing the size of the filter and potentially eliminating one or two components, which is useful in maximizing board space efficiency and minimizing production costs for mass produced items.
+
+Inverse Chebyshev filters with constricted stop band ripple are synthesized in exactly the same process as standard a inverse Chebyshev.  A constricted ripple Chebyshev is designed with an inverted ε {\displaystyle \varepsilon } , ε 2 = 1 / ( 10 ( γ / 10 ) − 1 ) {\displaystyle \varepsilon ^{2}=1/(10^{(\gamma /10)}-1)} where γ {\displaystyle \gamma } is the stop band attenuation in dB,  the poles and zeros of the designed constricted ripple Chebyshev filter are inverted, and the cut-off attenuation is set.  Since standard Chebyshev equations will not work with constricted ripple design, the cut-off attenuation must be set using the process described in the Elliptic Hourglass design.
+
+Below are the |S11| and |S12| scattering parameters for a 7 pole constricted ripple Inverse Chebyshev filter with 3dB cut-off attenuation.
+
+The constricted ripple example above is intentionally kept simple by keeping the cut-off attenuation equal to the pass band ripple attenuation, omitting optional transmission zeros, and using an odd order that does not potentially require even order modification.  However, non-standard cutoff attenuations may be accommodated by calculating  the target values in step 5 to be offset from the required 1 that exists at the cut-off frequency of ω = j {\displaystyle \omega =j} , including a K ( s ) {\displaystyle K(s)} denominator as part of the derivative constant that includes transmission zeros, and inserting two reflection zeros instead of one in to the original K ( s ) {\displaystyle K(s)} in step 2.
+
+When including stop band transmission zeros, it is import to remember that the roots of d K ( s ) / d s ) n u m {\displaystyle dK(s)/ds)_{num}} will include stop band maxima with ω > 1 {\displaystyle \omega >1} .  These roots should not be included in the pass band minima used in the computations..
+
+Since ε 2 {\displaystyle \varepsilon ^{2}} may be used to set the cut-off attenuation in G ( s ) {\displaystyle G(s)} , the step 5 K ( s ) {\displaystyle K(s)} target values may be made with respect to 1.  The target values in step 5 may be calculated using the expression for | K ( j ω ) | {\displaystyle |K(j\omega )|} obtainable from the equations above.
+
+| K ( j ω ) | = 10 A r i p p l e d B / 10 − 1. 10 A c u t d B / 10 − 1. = 0.01010101... at the pass band minima frequencies | K ( j ω ) | = 1 at the pass band cut-off frequency ε 2 = 10 ( A c u t d B / 10 ) − 1 = 99.0 {\displaystyle {\begin{aligned}&|K(j\omega )|={\sqrt {\frac {10^{Aripple_{dB}/10}-1.}{10^{Acut_{dB}/10}-1.}}}=0.01010101...{\text{ at the pass band minima frequencies}}\\&|K(j\omega )|=1{\text{ at the pass band cut-off frequency}}\\&\varepsilon ^{2}=10^{(Acut_{dB}/10)}-1=99.0\\\end{aligned}}}
+
+Consider a filter design of %constriction = 55, order = 8, single transmission zero at 1.1,  pass band ripple attenuation = 0.043648054 (equivalent of S12 = 20dB attenuation based on the relation | S 11 | 2 + | S 12 | 2 = 1 {\displaystyle |S_{11}|^{2}+|S_{12}|^{2}=1} for lossless networks ), and pass band cut-off attenuation = 20dB.
+
+The target value in step 5 is .01010101, and the ε 2 {\displaystyle \varepsilon ^{2}} to compute G ( s ) {\displaystyle G(s)} is 99.  When complete, the characteristic polynomials , K ( s ) {\displaystyle K(s)} , and forward transfer function, G ( s ) {\displaystyle G(s)} , are below.
+
+K ( s ) = 2.3081085 s 8 + 3.7315386 s 6 + 1.8867298 s 4 + 0.28974597 s 2 0.82644628 s 2 + 1 {\displaystyle K(s)={\frac {2.3081085s^{8}+3.7315386s^{6}+1.8867298s^{4}+0.28974597s^{2}}{0.82644628s^{2}+1}}}
+
+G ( s ) = K ( s ) d e n K ( s ) d e n K ( − s ) d e n + ε 2 K ( s ) n u m K ( − s ) n u m | LHP roots {\displaystyle G(s)={\frac {K(s)_{den}}{{\sqrt {K(s)_{den}K(-s)_{den}+\varepsilon ^{2}K(s)_{num}K(-s)_{num}}}|_{\text{LHP roots}}}}}
+
+Where ε 2 = 10 ( 20 d B / 10 ) − 1 = 99.0 {\displaystyle {\text{Where }}\varepsilon ^{2}=10^{(20_{dB}/10)}-1=99.0}
+
+G ( s ) = 0.82644628 s 2 + 1 22.96539 s 8 + 39.774072 s 7 + 71.570971 s 6 + 73.962937 s 5 + 65.358572 s 4 + 40.848153 s 3 + 19.393829 S 2 + 6.0938301 s + 1 {\displaystyle G(s)={\frac {0.82644628s^{2}+1}{22.96539s^{8}+39.774072s^{7}+71.570971s^{6}+73.962937s^{5}+65.358572s^{4}+40.848153s^{3}+19.393829S^{2}+6.0938301s+1}}}
+
+The validation consists of calculating scattering parameters | S 12 | and | S 11 | {\displaystyle |S12|{\text{ and }}|S11|} ( | G ( s ) | {\displaystyle |G(s)|} and 1 − | G ( s ) | 2 {\displaystyle {\sqrt {1-|G(s)|^{2}}}} respectively) for the constriction frequency, the cutoff frequency, the remaining pass band minima frequencies in between, and the transmission zero frequency and as shown below.
+
+The final magnitude frequency response of | S 12 | and | S 11 | {\displaystyle |S_{12}|{\text{ and }}|S_{11}|} are shown below.

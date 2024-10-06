@@ -1,0 +1,97 @@
+The following outline is provided as an overview of and topical guide to marketing:
+
+Marketing – social and managerial processes by which products, services, and value are exchanged in order to fulfill individuals' or groups' needs and wants. These processes include, but are not limited to, advertising, promotion, distribution, and product management.
+
+Marketers may sell goods or services directly to consumers, known as business to customer (B2C marketing); commercial organizations (known as business to business marketing or B2B ), to government ; to not-for-profit organizations ( Not-for-profit organization (NFP) ) or some combination of any of these.
+
+Marketers typically begin planning with a detailed understanding of customer needs and wants.
+
+Exchange , the act of giving or taking one thing of value in return for another is central to marketing activities. Not all exchange involves Financial transactions , but may also involve barter , contra dealing or other form of trade . The object of exchange can include: Goods ; services or experiences ; concepts or ideas ; causes and may even involve celebrity marketing
+
+Given that marketing has its roots in economics, it shares many foundation concepts with that discipline. Most practicing marketers will have a working knowledge of basic economic concepts and theories.
+
+Businesses seek to compete by achieving competitive advantages or comparative advantages . Competitive advantages often focus on reducing costs through achieving one or more of the following: Economies of scope ; Economies of scale ; Experience effects ; First-mover advantages . Alternatively a business may seek to develop uniqueness through product differentiation or developing unique competencies such as market sensing, rapid market response or delivering superior customer value .
+superior value.
+
+Different types of competitive markets can be identified: Duopoly ; Monopoly ; Monopolistic competition ; Imperfect competition ; Oligopoly
+
+Understanding demand and supply is essential for determining market size and market potential as well as in the price-setting function.
+
+In Western economies, the capitalist economy dominates. However, other types of economic systems such as barter economies and the Sharing economy can be identified.
+
+Value-in-ownership Value-in-use
+
+Marketing planning is just one facet of the overall company's planning. Marketing plans must therefore take their guidance from the overall strategic plan or business plan . Most companies produce both a strategic plan and a managerial plan (also known as an operational plan). The distinction between strategic planning and management planning is that they are two phases with different goals.
+
+Strategic planning requires sophisticated research and analysis to document the firm's current situation as well as to identify opportunities with the potential to be developed.
+
+Strategic research is primarily concerned with the identification of new business opportunities and threats, which derive from the external operating environment. Accordingly, strategic analysts rely less on traditional market research methods. Instead, they use methods such as: Environmental scanning ; Marketing intelligence (also known as competitive intelligence ) and Futures research
+
+Marketers draw on a very wide variety of techniques and tools when analyzing the market and the broader operating conditions. The technique selected depends on the nature of the situation or problem to be investigated and the analyst's skill and experience. Strategic analysts employ some 200 different quantitative and qualitative analytical techniques including:
+
+Brand Development Index (BDI) ; Category development index (CDI) ; Brand/ Category penetration ; Benchmarking ; Blind spot analysis ; Functional capability and resource analysis; Impact analysis ; Counterfactual analysis; Demand analysis ; Emerging Issues Analysis ; Experience curve analysis ; Gap analysis ; impact analysis ; se Analysis (also known as Porter's five forces analysis ); Management profiling; Market segmentation analysis; Market share analysis ; Market Segmentation analysis; Perceptual mapping ; PEST analysis or its variants including PESTLE, STEEPLED and STEER; Portfolio analysis, such as BCG growth-share matrix or GE business screen matrix ; Positioning analysis ; Precursor Analysis or Evolutionary analysis; Product life cycle analysis and S-curve analysis (also known as technology life cycle or hype cycle analysis); Product evolutionary cycle analysis; Scenario analysis ; Segment Share Analysis; Situation analysis ; Strategic Group Analysis ; SWOT analysis ; Trend Analysis ; Value chain analysis
+
+Implementations and control is an important feature of the planning process. From time to time, marketers will use appropriate measures of performance to gauge whether plans are achieving the desired results. If necessary, corrective action can be taken to get back on track.
+
+The book titled, The Marketing Book, 7th ed., Routledge, Oxon, UK, 2016 edited by Michael J. Baker and Susan Hart identifies the distinct branches of marketing practice as:
+
+For a more detailed breakdown of the relevant topics for each of these key branches of marketing, see Branches of Marketing: Detailed Topics on this page. For special applications of marketing including marketing of specific types of products (e.g. agricultural marketing, faith based marketing, pharmaceutical marketing, political marketing, sports marketing, etc.,) or marketing to specific target groups (e.g. marketing to children, marketing to older people, LBGT marketing) see: Special applications of marketing practice ).
+
+Marketing orientations are the philosophies or mindsets that guide and shape marketing planning and marketing practice. Some marketing historians believe that different philosophies have informed marketing practice at different times in marketing's history. Although there is no real agreement amongst scholars about the precise nature or number of distinct marketing orientations, the most commonly cited include:
+
+Marketing planning or the process of developing a marketing program requires a detailed understanding of the marketing framework including Consumer behavior ; Market segmentation and Marketing research . In the process of understanding the consumer market to be served, marketers may need to consider such issues as:
+
+The main steps in the consumer's purchase decision process are: Need or problem recognition → Information search → Evaluation of alternatives → Product/Brand Choice → Post purchase evaluation
+
+Consumers purchase decisions are influenced by a range of internal and external factors including:
+
+Marketing research refers to research activities designed to understand the marketing environment, including competitors, the socio-cultural environment and the politico-legal operating environment. Market research specifically refers to research concerned with understanding the market, that is consumers and is designed to yield actionable customer insights .
+
+Quantitative methods may also be known as Scientific methods .
+
+List of abbreviations for market segments
+
+The main bases for segmenting consumer markets include:
+
+The main bases for segmenting business or industrial markets include:
+
+To support, market segmentation analysis marketers may require access to databases with large sample sizes. A number of commercial companies provide such data which typically includes proprietary software designed to interrogate the data and backed by algorithms that support different types of segmentation approaches. These commercial databases are often country or region specifically.
+Popular geo-demographic segmentation databases include:
+
+Popular psychometric tools include:
+
+The marketing program, also known as the marketing mix or the 4 ps consists of the product, price, place and promotion.
+
+Innovation and New product development are an important part of a firm's long term growth strategy.
+
+The steps in a basic new production development process are:
+
+The NPD process can be applied to:
+
+A recent trend in NPD is the use of participatory design , also known as co-design or co-operative design, which involves stakeholders such as employees or consumers in the design process.
+
+Sources of new product ideas include: Research and development ; Consumers or Users ; distributors, suppliers or crowdsourcing .
+
+Types of innovation
+
+NPD represents a high risk activity. It requires substantial investment and a list of product failures suggests that the probability of failure is relatively high.
+
+New product adoption and diffusion
+
+In order to develop a superior understanding of how new products are adopted by the market place and the factors that influence adoption rates, marketers often turn to a number of models or theories of the adoption/diffusion process:
+
+New product development, including the design of product features, manufacturing processes, packaging design etc. involves creative work and therefore constitutes intellectual property . A number of different legal avenues are available to protect different types of intellectual property.
+
+The following methods are prohibited in most nations:
+
+The extended marketing mix is used in the marketing of services , ideas and customer experiences and typically refers to a model of 7 Ps and includes the original 4 Ps plus process, physical evidence and people. Some texts use a model of 8 Ps and include performance level (service quality) as an 8th P.
+
+Marketing activities are costly and represent an investment in a company or brand's long term future. With the increased emphasis on accountability, marketers must consider how they measure marketing's performance and communicate that to stakeholders. Various types of metrics that are in widespread use may be classified as:
+
+Measures of market/ competitive performance
+
+Measures of advertising and promotional effectiveness
+
+Measures of brand health
+
+Customer-oriented measures

@@ -1,0 +1,21 @@
+Infobright is a commercial provider of column-oriented relational database software with a focus in machine-generated data . The company's head office is located in Toronto , Ontario , Canada.  Most of its research and development is based in Warsaw , Poland .  Support personnel are located in various offices around the world.
+
+Infobright was founded in 2005. It became an open source company in September 2008, when it issued the first free release of its software. At the same time its  community site was launched.
+
+The company is funded by venture capital investors Flybridge Capital Partners and Information Venture Partners.
+
+In 2009, Infobright was recognized as MySQL's Partner of the Year, and a Gartner Cool Vendor in Data Management and Integration. It is also certified for use with Sun's Unified Storage product line. It is the assignee of published patent applications on data compression, query optimization, and data organization.
+
+In July 2016, Infobright officially transitioned away from its open source community edition to focus on their OEM and direct customer markets.
+
+Infobright's database software is integrated with MySQL , but with its own proprietary data storage and query optimization layers.
+
+Infobright uses a columnar approach to database design.  When data is loaded into a table, it is broken into the groups of 2 rows, further decomposed into separate data packs for each of the columns.  By breaking each column by the same number of rows, it maintains its integrity with other columns for the same entry.  For example, row 1, column 1 is the first entry in the first datapack for column 1.  Row 1 in column 2 is the first entry in the first datapack for column 2.
+
+Each data pack is separately compressed to approximately 20:1 on average.
+
+Infobright Enterprise Edition is available in PostgreSQL and MySQL.
+
+Knowledge Grid A metadata layer (called the Database Knowledge Grid) stores compact information about the contents and relationships between the data packs, replacing the concept of a traditional database index .
+
+Query execution The optimizer uses theories of rough sets and Granular Computing by categorizing which data packs need to be decompressed and by refining such categorization using partial results obtained from the Knowledge Grid and already decompressed data packs.

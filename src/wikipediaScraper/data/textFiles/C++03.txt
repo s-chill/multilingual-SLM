@@ -1,0 +1,5 @@
+C++03 is a version of the ISO / IEC 14882 standard for the C++ programming language. It is defined by two standards organizations , the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC), in standard ISO/IEC 14882:2003.
+
+C++03 replaced the prior C++98 standard. C++03 was later replaced by C++11 . C++03 was primarily a bug fix release for the implementers to ensure greater consistency and portability. This revision addressed 92 core language defect reports, 125 library defect reports, and included only one new language feature: value initialization.
+
+Among the more noteworthy defect reports addressed by C++03 was the library defect report 69, whose resolution added the requirement that elements in a vector are stored contiguously. This codifies the common expectation that a C++ std::vector object uses a memory layout similar to an array. While most implementations satisfied this expectation, it was not required by C++98.

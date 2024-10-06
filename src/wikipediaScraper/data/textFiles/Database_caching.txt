@@ -1,0 +1,7 @@
+Database caching is a process included in the design of computer applications which generate web pages on-demand (dynamically) by accessing backend databases.
+
+When these applications are deployed on multi-tier environments that involve browser-based clients, web application servers and backend databases, middle-tier database caching is used to achieve high scalability and performance.
+
+In a three tier architecture , the application software tier and data storage tier can be in different hosts. Throughput of an application can be limited by the network speed. This limitation can be minimized by having the database at the application tier. Because commercial database software makes extensive use of system resources, it is not always practical to have the application and the database at the same host. In this case, a more light-weight database application can be used to cache data from the commercial database management system .
+
+Database caching improves scalability by distributing query workload from backend to multiple cheap front-end systems.  It allows flexibility in the processing of data; for example, the data of Platinum customers can be cached while that of ordinary customers are not.  Caching can improve availability of data, by providing continued service for applications that depend only on cached tables even if the backend server is unavailable.  Another benefit is improved data access speeds brought about by locality of data and smoothing out load peaks by avoiding round-trips between middle-tier and data-tier.

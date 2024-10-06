@@ -1,0 +1,21 @@
+The Android Package with the file extension apk is the file format used by the Android operating system , and a number of other Android-based operating systems for distribution and installation of mobile apps , mobile games and middleware . A file using this format can be built from source code written in either Java or Kotlin .
+
+APK files can be generated and signed from Android App Bundles .
+
+APK is analogous to other software packages such as APPX in Microsoft Windows , APP for HarmonyOS or a Debian package in Debian -based operating systems. To make an APK file, a program for Android is first compiled using a tool such as Android Studio or Visual Studio and then all of its parts are packaged into one container file. An APK file contains all of a program's code (such as .dex files), resources, assets, certificates, and manifest file . As is the case with many file formats, APK files can have any name needed, but it may be required that the file name ends in the file extension for being recognized as such.
+
+Most Android implementations allow users to manually install APK files only after they turn on an "Unknown Sources" setting that allows installation from sources other than trusted ones like Google Play . One may do so for many reasons, such as during the development of apps, to install apps not found on the store, or to install an older version of an existing app.
+
+Blackberry Limited supported Android 4.1 Jelly Bean apps and up through Android Runtime to now discontinued Blackberry 10 through the January 2014 10.2.1 firmware update. On June 18, 2014, BlackBerry announced an official relationship with Amazon.com , which resulted in the 10.3 update bundling the Amazon Appstore .
+
+At 2015 Build, Microsoft had also announced an Android runtime environment for Windows 10 Mobile known as "Astoria", which would allow Android apps to run in an emulated environment with minimal changes, and have access to Microsoft platform APIs such as Bing Maps and Xbox Live as nearly drop-in replacements for equivalent Google Mobile Services . Google Mobile Services and certain core APIs would not be available, and apps with "deep integration into background tasks" were said to poorly support the environment.
+
+On February 25, 2016, after already having delayed it in November 2015, Microsoft announced that "Astoria" would be shelved, arguing that it was redundant to the native Windows Bridge toolkit since iOS is already a primary target for mobile app development. The company also encouraged use of products from Xamarin (which they had acquired the previous day) for multi-platform app development using C# programming language instead. Portions of Astoria were used as a basis for the Windows Subsystem for Linux (WSL) platform on the PC version of Windows 10.
+
+On August 9, 2019, HarmonyOS came with APK compatibility via AOSP base with Linux kernel on HarmonyOS 1.0 for TVs and also June 2, 2021, HarmonyOS 2.0 version expanded to smartphones and tablets until Galaxy Edition version under HarmonyOS NEXT system for the next iterative HarmonyOS 5 beta to commercial version, starting in Q2, June 2024.
+
+At the Windows 11 announcement event in June 2021, Microsoft showcased the new Windows Subsystem for Android (WSA) that will enable support for the Android Open Source Project (AOSP) and will allow users to run Android apps on their Windows desktop. Microsoft confirmed users will be able to sideload Android apps onto Windows and that it would be possible to install APK files downloaded from third-party sources. On March 5, 2024, Microsoft announced to end its Android apps on Windows 11 subsystem by March 5, 2025, as part of its effort to depreciate the subsystem from Windows NT kernel dropping Android apk apps compatibility, including Android apps from Amazon App Store .
+
+Google announced plans in December 2021 to bring Android games to Windows in 2022.
+
+An APK file is a ZIP archive that usually contains the following files and directories:

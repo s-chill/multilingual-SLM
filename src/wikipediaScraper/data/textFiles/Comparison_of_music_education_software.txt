@@ -1,0 +1,5 @@
+The following comparison of music education software compares general and technical information for different music education software.
+
+For the purpose of this comparison, music education software is defined as any application which can teach music.
+
+This section lists the operating systems on which the software supports. There may be multiple versions of a player for different operating systems.

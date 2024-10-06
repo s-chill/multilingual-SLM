@@ -1,0 +1,15 @@
+A centralized database (sometimes abbreviated CDB ) is a database that is located, stored, and maintained in a single location. This location is most often a central computer or database system, for example a desktop or server CPU , or a mainframe computer. In most cases, a centralized database would be used by an organization (e.g. a business company) or an institution (e.g. a university.) Users access a centralized database through a computer network which is able to give them access to the central CPU, which in turn maintains to the database itself.
+
+The need for databases rose in the 60's with the invention of direct access storage, which allowed users to directly access records. Previously, computer systems were tape based, meaning records could only be accessed sequentially. Organizations quickly adopted databases for storage and retrieval of data. The traditional approach for storing data was to use a centralized database, and users would query the data from various points over a network.
+
+An example for a centralized database could be given with the Australian Department of Defense , which centralized their databases in the mid 1970s.
+
+Centralized databases hold a substantial amount of advantages against other types of databases. Some of them are listed below:
+
+Centralized databases also have a certain amount of limitations, such as those described below:
+
+The underlying idea of centralized databases is that they should be able to receive, maintain, and complete every single request that the main system must perform by themselves. There is only one database file, kept at a single location on a given network.
+
+A distributed database , however, is a database in which all the information is stored on multiple physical locations. Distributed databases are divided into two groups: homogeneous and heterogeneous . It relies on replication and duplication within its multiple sub-databases in order to maintain its records up to date. It is composed of multiple database files, all controlled by a central DBMS.
+
+The main differences between centralized and distributed databases arise due to their respective basic characteristics. Differences include but are not limited to:

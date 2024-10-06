@@ -1,0 +1,9 @@
+Petroleum production engineering is a subset of petroleum engineering .
+
+Petroleum production engineers design and select subsurface equipment to produce oil and gas well fluids . They often are degreed as petroleum engineers , although they may come from other technical disciplines (e.g., mechanical engineering , chemical engineering , physicist ) and subsequently be trained by an oil and gas company.
+
+Petroleum production engineers' responsibilities include:
+
+Note: Surface equipments are designed by Chemical engineers and Mechanical engineers according to data provided by the production engineers.
+
+Outflow should be defined as flow from the casing perforations to the surface facilities.

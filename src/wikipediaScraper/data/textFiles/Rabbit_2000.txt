@@ -1,0 +1,8 @@
+The Rabbit 2000 is a high-performance 8-bit microcontroller designed by Rabbit Semiconductor for embedded system applications. Rabbit Semiconductor has been bought by Digi International , which is since selling the Rabbit microcontrollers and hardware based on them.  The instruction set is based on the original Z80 microprocessor , but with some additions of new instructions as well as deletions of some instructions.  Among the Z80 instructions missing in the Rabbit, cpir is particularly notable, since it allows for much more efficient implementations of some often-used standard C functions such as strlen (), strnlen() and memchr(). According to the Rabbit documentation, it executes its instructions 5 times faster than the original Z80 microprocessor , that is, similarly to the Zilog eZ80 .
+
+The Rabbit 3000 is a variant of the Rabbit 2000 with the same core, but more powerful integrated peripherals . The Rabbit 3000A variant adds a small number of additional instructions for I/O and large integer arithmetic. The Rabbit 4000 again adds more integrated peripherals. The further derivatives, starting with the Rabbit 5000 have a substantially different architecture .
+
+Most of the Rabbit microcontrollers come with built-in flash memory and SRAM .  They also have ADC and timers built-in.
+
+The Rabbit 2000 is supported by the free (GPL) Small Device C Compiler and Z88DK .
+There also are the non-free Dynamic C provided by the makers of the Rabbit and the commercial third-party CROSS-C . The latter two are quite incomplete in their support of the C standard, and their Rabbit 2000 backends are no longer available in current compiler versions.

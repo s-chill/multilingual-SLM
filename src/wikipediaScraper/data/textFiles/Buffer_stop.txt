@@ -1,0 +1,11 @@
+A buffer stop , bumper , bumping post , bumper block or stopblock (US), is a device to prevent railway vehicles from going past the end of a physical section of track .
+
+The design of the buffer stop is dependent, in part, on the kind of couplings that the railway uses, since the coupling gear is the first part of the vehicle that the buffer stop touches. The term "buffer stop" is of British origin, since railways in Great Britain principally use buffer-and-screw couplings between vehicles.
+
+Several different types of buffer stop have been developed. They differ depending on the type of coupler used and on the intended application.
+
+If there is extra room behind the bumper block, there is usually a sand or ballast drag that is designed to further retard a runaway train. One such accident occurred in 1975 on the London Underground system , when a Northern City Line train powered past the bumper block at Moorgate station .
+
+Largely because of its mass, a train transfers an enormous amount of kinetic energy in a collision with a buffer stop. Rigid buffers can safely cope only with very low-speed impacts. ( i.e. , nearly stationary). To improve stopping performance, a way of dissipating this energy is needed, through compression or friction. Following a buffer stop accident at Frankfurt am Main in 1902, the Rawie company developed a large range of energy-absorbing buffer stops. Similar hydraulic buffer stops were developed by Ransomes & Rapier in the UK.
+
+Wheel stops or car stops are used to stop small numbers of light vehicles at the end of level storage tracks or to chock individual railroad cars on shallow grades .

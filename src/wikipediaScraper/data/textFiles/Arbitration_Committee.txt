@@ -1,0 +1,33 @@
+On Wikimedia Foundation projects, an Arbitration Committee ( ArbCom ) is a binding dispute resolution panel of editors. Each of Wikimedia's projects are editorially autonomous and independent, and some of them have established their own ArbComs who work according to rules developed by the project's editors and are usually annually elected by their communities. ArbComs generally address misconduct by administrators and editors with access to advanced tools, and a range of " real-world " issues related to harmful conduct that can arise in the context of Wikimedia projects. Rulings, policies and procedures differ between projects depending on local and cultural contexts. According to the Wikimedia Terms of Use, users are not obliged to have a dispute solved by an ArbCom.
+
+The first Wikimedia project to use an arbitration committee was the Swedish Wikipedia , soon followed by the widely covered English Wikipedia Committee. Over time, other Wikimedia projects have established Arbitration Committees as well.
+
+The English Wikipedia ArbCom was created by Jimmy Wales on December 4, 2003, as an extension of the decision-making power he formerly held as CEO of site-owner Bomis . Wales appointed members of the committee either in person or by email following advisory elections; Wales generally appointed editors who received the most votes to the ArbCom.
+
+The English Wikipedia's ArbCom acts as a court of last resort for disputes among editors and has been described in the media as "quasi-judicial" and a Wikipedian "High or Supreme Court", although the Committee states it is not and does not pretend to be a formal court of law. English Wikipedia's ArbCom has decided several hundred cases in its history. The Foundation's Arbitration Committee process has been examined by academics researching dispute resolution, and has been reported in public media in connection with case decisions and Wikipedia-related controversies.
+
+In November 2002, Swedish Wikipedia's Tinget became the first instance akin to a prototype arbitration committee on any Wikipedia language version.
+
+In October 2003, as part of an etiquette discussion on Wikipedia, Alex T. Roshuk , then legal adviser to the Wikimedia Foundation , drafted a 1,300-word outline of mediation and arbitration. This outline evolved into the twin Mediation Committee (MedCom) and Arbitration Committee, formally announced by Jimmy Wales on December 4, 2003. Over time the concept of an "Arbitration Committee" was adopted by other communities within the Wikimedia Foundation's hosted projects.
+
+When founded, the Committee consisted of 12 arbitrators divided into three groups of four members each.
+
+In 2004, an Arbitration Committee was founded on the French Wikipedia , and in 2007, on the German , Polish , Finnish and Dutch Wikipedias. In 2023 Arbitration Committees were used on eleven Wikipedia versions and the English Wikinews .
+
+The Arbitration Committee does not seek to every type of dispute on Wikipedia . A statistical study published in the Emory Law Journal in 2010 indicated that the committee has generally adhered to the principles of ignoring the content of user disputes and focusing on user conduct. The same study also found that despite every case being assessed on its own merits, a correlation emerged between the types of conduct found to have occurred and the remedies and decisions imposed by the committee.
+
+In 2007, an arbitrator using the username Essjay resigned from the committee after it was found he had made false claims about his academic qualifications and professional experiences in an interview with The New Yorker . Also in 2007, the committee banned Massachusetts Institute of Technology professor Carl Hewitt from editing the online encyclopedia for "disruptive" behavior of manipulating articles to align with his own research.
+
+In 2008, the committee decided upon a set of rules of conduct for editors when editing articles related to the Israeli–Palestinian conflict . Editors are required to have made over 500 edits for at least 30 days to edit articles related to the conflict, can only make one revert per day across the entire field, and can be banned from editing related articles. The ruling was reaffirmed and expanded in 2009 and 2015.
+
+In May 2009, an arbitrator who edited under the username Sam Blacketer resigned from the committee after it became known he had concealed his past editing when obtaining the role.
+
+In 2009, the committee was brought to media attention as a result of its decision to ban "all IP addresses owned or operated by the Church of Scientology and its associates, broadly interpreted", as part of the fourth Scientology-related case. Such an action had "little precedent" in the eight-year history of Wikipedia and was reported on several major news services such as The New York Times , ABC News , and The Guardian . Satirical news-show host Stephen Colbert ran a segment on The Colbert Report parodying the ban. In 2022, the Committee lifted the ban citing the lack of disruption in recent years.
+
+In 2015, the committee received attention for its ruling pertaining to the Gamergate controversy , in which one editor was indefinitely banned from the site and several others were banned from editing topics relating to Gamergate and gender.
+
+In June 2015, the committee removed advanced permissions from Richard Symonds, an activist for the British political party Liberal Democrats . Symonds had improperly blocked a Wikipedia account and associated its edits with former Chairman of the Conservative Party Grant Shapps , and leaked this to The Guardian . Shapps denied ownership of the account, calling the allegations "categorically false and defamatory". Symonds said in an interview he stood by his actions.
+
+A 2017 study found the committee's decision making was mostly unaffected by extra-legal factors such as nationality, activity, experience, and conflict avoidance. The same study found the committee's decision making was much more affected by time constraints than that of conventional courts.
+
+On March 13, 2023, the Arbitration Committee began an investigation into the coverage of the history of Jews in Poland in response to an essay published by Jan Grabowski and Shira Klein. Klein stated that the coverage of the topic was flawed largely due to "a group of committed Wikipedia editors have been promoting a skewed version of history on Wikipedia". In its decision, the committee confirmed that source manipulation is a conduct issue and strengthened the already-tight restrictions on the type of sources that could be used in the area. Three editors were topic-banned.

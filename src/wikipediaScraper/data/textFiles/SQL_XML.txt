@@ -1,0 +1,13 @@
+SQL/XML or XML-Related Specifications is part 14 of the Structured Query Language (SQL) specification. In addition to the traditional predefined SQL data types like NUMERIC, CHAR, TIMESTAMP, ... it introduces the predefined data type XML together with constructors, several routines, functions, and XML-to-SQL data type mappings to support manipulation and storage of XML in a SQL database .
+
+The specification defines the data type XML , functions for working with XML, including element construction, mapping data from relational tables, combining XML fragments, and embedding XQuery expressions in SQL statements. Functions which can be embedded include XMLQUERY (which extracts XML or values from an XML field) and XMLEXISTS (which predicates whether an XQuery expression is matched).
+
+Further information and examples of the SQL/XML functions are provided in the external links below .
+
+The result of Wagner's objective evaluation of the SQL/XML :2006 standard compliance of Oracle 11g Release 1, MS SQL Server 2008 and MySQL 5.1.30 is shown in the following table , to which the data for PostgreSQL 9.1, and IBM DB2 has been added:
+
+The sample SQLXML query below has SQLXML type as output(tested on DB2 9.7 and Oracle 11g):
+
+And the output:
+
+Samples are taken from javalobby article .

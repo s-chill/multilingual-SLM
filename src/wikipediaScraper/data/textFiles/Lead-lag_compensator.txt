@@ -1,0 +1,44 @@
+A lead–lag compensator is a component in a control system that improves an undesirable frequency response in a feedback and control system .  It is a fundamental building block in classical control theory .
+
+Lead–lag compensators influence disciplines as varied as robotics , satellite control, automobile diagnostics, LCDs and laser frequency stabilisation. They are an important building block in analog control systems, and
+can also be used in digital control.
+
+Given the control plant, desired specifications can be achieved using compensators. I, P , PI , PD , and PID , are optimizing controllers which are used to improve system parameters (such as reducing steady state error, reducing resonant peak, improving system response by reducing rise time). All these operations can be done by compensators as well,
+used in cascade compensation technique.
+
+Both lead compensators and lag compensators introduce a pole–zero pair into the open loop transfer function .  The transfer function can be written in the Laplace domain as
+
+where X is the input to the compensator, Y is the output, s is the complex Laplace transform variable, z is the zero frequency and p is the pole frequency.  The pole and zero are both typically negative , or left of the origin in the complex plane .  In a lead compensator, | z | < | p | {\displaystyle |z|<|p|} ,
+while in a lag compensator | z | > | p | {\displaystyle |z|>|p|} .
+
+A lead-lag compensator consists of a lead compensator cascaded with a lag compensator.  The overall transfer function can be written as
+
+Typically | p 1 | > | z 1 | > | z 2 | > | p 2 | {\displaystyle |p_{1}|>|z_{1}|>|z_{2}|>|p_{2}|} ,  where z 1 and p 1 are the zero and pole of the lead compensator and z 2 and p 2 are the zero and pole of the lag compensator.  The lead compensator provides phase lead at high frequencies.  This shifts the root locus  to the left, which enhances the responsiveness and stability of the system.  The lag compensator provides phase lag at low frequencies which reduces
+the steady state error.
+
+The precise locations of the poles and zeros depend on both the desired characteristics of the closed loop response and the characteristics of the system being controlled.  However, the pole and zero of the lag compensator should be close together so as not to cause the poles to shift right, which could cause instability or slow convergence.
+Since their purpose is to affect the low frequency behaviour, they should be near the origin.
+
+Both analog and digital control systems use lead-lag compensators. The technology used for the implementation is different in each case, but the underlying principles are the same. The transfer function is rearranged so that the output is expressed in terms of sums of terms involving the input, and integrals of the input and output. For example,
+
+In analog control systems, where integrators are expensive, it is common to group terms
+together to minimize the number of integrators required:
+
+In analog control, the control signal is typically an electrical voltage or current (although other signals such as hydraulic pressure can be used).
+In this case a lead-lag compensator will consist of 
+a network of operational amplifiers ("op-amps") connected as integrators and weighted adders . A possible physical realization of a lead-lag compensator is shown below (note that the op-amp is used to isolate the networks):
+
+In digital control, the operations are performed numerically by discretization of the derivatives and integrals.
+
+The reason for expressing the transfer function as an integral equation is that
+differentiating signals amplify the noise on the signal, since even very small
+amplitude noise has a high derivative if its frequency is high, while integrating a
+signal averages out the noise.  This makes implementations in terms of integrators
+the most numerically stable.
+
+To begin designing a lead-lag compensator, an engineer must consider whether the system needing correction can be classified as a lead-network, a lag-network, or a combination of the two: a lead-lag network (hence the name "lead-lag compensator"). The electrical response of this network to an input signal is expressed by the network's Laplace-domain transfer function, a complex mathematical function which itself can be expressed as one of two ways: as the current-gain ratio transfer function or as the voltage-gain ratio transfer function. Remember that a complex function can be in general written as F ( x ) = A ( x ) + i B ( x ) {\displaystyle F(x)=A(x)+iB(x)} , where A ( x ) {\displaystyle A(x)} is the real part and B ( x ) {\displaystyle B(x)} is the imaginary part of the single-variable function, F ( x ) {\displaystyle F(x)} .
+
+The phase angle of the network is the argument of F ( x ) {\displaystyle F(x)} ; in the left half plane this is arctan ( B ( x ) / A ( x ) ) {\displaystyle \arctan \!{\bigl (}B(x)/A(x){\bigr )}} . If the phase angle
+is negative for all signal frequencies in the network then the network is classified as a lag network .  If the phase angle is positive for all signal frequencies in the network then the network is classified as a lead network .  If the total network phase angle has a combination of positive and negative phase as a function of frequency then it is a lead-lag network .
+
+Depending upon the nominal operation design parameters of a system under an active feedback control, a lag or lead network can cause instability and poor speed and response times.

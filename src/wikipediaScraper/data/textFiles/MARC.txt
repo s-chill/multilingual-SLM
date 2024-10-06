@@ -1,0 +1,13 @@
+MARC ( Mailing list ARChive ) is a computer -related mailing list archive . It archives over 31 million e-mails from over 2400 mailing lists, with approximately 320,000 new mails added per month. The archive is hosted by KoreLogic, and is maintained by a group of volunteers led by Hank Leininger.
+
+Mailing list indexes includes popular mailing list such as Linux kernel mailing list .
+
+MARC was founded in 1996 to serve as a unified archive of electronic mailing lists , similar to what DejaNews (now Google Groups ) did for Usenet .
+
+MARC uses a MySQL relational database to store its messages and Perl to access the data. The archive can be searched for mailing list names, authors, subject lines and full-text of the e-mail messages.
+
+In controversy with Right to be forgotten MARC is very reluctant to delete posts upon user requests.
+
+The strict requirements are:
+
+Mails not conforming to this rules are ignored and not responded to.

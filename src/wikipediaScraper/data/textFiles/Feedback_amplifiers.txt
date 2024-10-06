@@ -1,0 +1,145 @@
+A negative-feedback amplifier (or feedback amplifier ) is an electronic amplifier that subtracts a fraction of its output from its input, so that negative feedback opposes the original signal. The applied negative feedback can improve its performance (gain stability, linearity, frequency response, step response ) and reduces sensitivity to parameter variations due to manufacturing or environment. Because of these advantages, many amplifiers and control systems use negative feedback.
+
+An idealized negative-feedback amplifier as shown in the diagram is a system of three elements (see Figure 1):
+
+Fundamentally, all electronic devices that provide power gain (e.g., vacuum tubes , bipolar transistors , MOS transistors ) are nonlinear . Negative feedback trades gain for higher linearity (reducing distortion ) and can provide other benefits. If not designed correctly, amplifiers with negative feedback can under some circumstances become unstable due to the feedback becoming positive, resulting in unwanted behavior such as oscillation . The Nyquist stability criterion developed by Harry Nyquist of Bell Laboratories is used to study the stability of feedback amplifiers.
+
+Feedback amplifiers share these properties:
+
+Pros:
+
+Cons:
+
+Paul Voigt patented a negative feedback amplifier in January 1924, though his theory lacked detail. Harold Stephen Black independently invented the negative-feedback amplifier while he was a passenger on the Lackawanna Ferry (from Hoboken Terminal to Manhattan) on his way to work at Bell Laboratories (located in Manhattan instead of New Jersey in 1927) on August 2, 1927 (US Patent 2,102,671, issued in 1937). Black was working on reducing distortion in repeater amplifiers used for telephone transmission. On a blank space in his copy of The New York Times , he recorded the diagram found in Figure 1 and the equations derived below. On August 8, 1928, Black submitted his invention to the U. S. Patent Office, which took more than 9 years to issue the patent. Black later wrote: "One reason for the delay was that the concept was so contrary to established beliefs that the Patent Office initially did not believe it would work."
+
+Using the model of two unilateral blocks, several consequences of feedback are simply derived.
+
+Below, the voltage gain of the amplifier with feedback, the closed-loop gain A FB , is derived in terms of the gain of the amplifier without feedback, the open-loop gain A OL and the feedback factor β, which governs how much of the output signal is applied to the input (see Figure 1). The open-loop gain A OL in general may be a function of both frequency and voltage; the feedback parameter β is determined by the feedback network that is connected around the amplifier. For an operational amplifier , two resistors forming a voltage divider may be used for the feedback network to set β between 0 and 1. This network may be modified using reactive elements like capacitors or inductors to (a) give frequency-dependent closed-loop gain as in equalization/tone-control circuits or (b) construct oscillators. The gain of the amplifier with feedback is derived below in the case of a voltage amplifier with voltage feedback.
+
+Without feedback, the input voltage V′ in is applied directly to the amplifier input. The according output voltage is
+
+Suppose now that an attenuating feedback loop applies a fraction β ⋅ V out {\displaystyle \beta \cdot V_{\text{out}}} of the output to one of the subtractor inputs so that it subtracts from the circuit input voltage V in applied to the other subtractor input. The result of subtraction applied to the amplifier input is
+
+Substituting for V′ in in the first expression,
+
+Rearranging:
+
+Then the gain of the amplifier with feedback, called the closed-loop gain, A FB is given by
+
+If A OL ≫ 1, then A FB ≈ 1 / β, and the effective amplification (or closed-loop gain) A FB is set by the feedback constant β, and hence set by the feedback network, usually a simple reproducible network, thus making linearizing and stabilizing the amplification characteristics straightforward. If there are conditions where β A OL = −1, the amplifier has infinite amplification – it has become an oscillator, and the system is unstable. The stability characteristics of the gain feedback product β A OL are often displayed and investigated on a Nyquist plot (a polar plot of the gain/phase shift as a parametric function of frequency). A simpler, but less general technique, uses Bode plots .
+
+The combination L = −β A OL appears commonly in feedback analysis and is called the loop gain . The combination (1 + β A OL ) also appears commonly and is variously named as the desensitivity factor , return difference , or improvement factor .
+
+Feedback can be used to extend the bandwidth of an amplifier at the cost of lowering the amplifier gain. Figure 2 shows such a comparison. The figure is understood as follows. Without feedback the so-called open-loop gain in this example has a single-time-constant frequency response given by
+
+where f C is the cutoff or corner frequency of the amplifier: in this example f C = 10 Hz, and the gain at zero frequency A 0 = 10 V/V. The figure shows that the gain is flat out to the corner frequency and then drops. When feedback is present, the so-called closed-loop gain, as shown in the formula of the previous section, becomes
+
+The last expression shows that the feedback amplifier still has a single-time-constant behavior, but the corner frequency is now increased by the improvement factor (1 + β A 0 ), and the gain at zero frequency has dropped by exactly the same factor. This behavior is called the gain–bandwidth tradeoff . In Figure 2, (1 + β A 0 ) = 10 , so A FB (0) = 10 / 10 = 100 V/V, and f C increases to 10 × 10 = 10 Hz.
+
+When the close-loop gain has several poles, rather than the single pole of the above example, feedback can result in complex poles (real and imaginary parts). In a two-pole case, the result is peaking in the frequency response of the feedback amplifier near its corner frequency and ringing and overshoot in its step response . In the case of more than two poles, the feedback amplifier can become unstable and oscillate. See the discussion of gain margin and phase margin . For a complete discussion, see Sansen.
+
+A principal idealization behind the formulation of the Introduction is the network's division into two autonomous blocks (that is, with their own individually determined transfer functions), a simple example of what often is called "circuit partitioning", which refers in this instance to the division into a forward amplification block and a feedback block. In practical amplifiers, the information flow is not unidirectional as shown here. Frequently these blocks are taken to be two-port networks to allow inclusion of bilateral information transfer. Casting an amplifier into this form is a non-trivial task, however, especially when the feedback involved is not global (that is directly from the output to the input) but local (that is, feedback within the network, involving nodes that do not coincide with input and/or output terminals).
+
+In these more general cases, the amplifier is analyzed more directly without the partitioning into blocks like those in the diagram, using instead some analysis based upon signal-flow analysis , such as the return-ratio method or the asymptotic gain model . Commenting upon the signal-flow approach, Choma says:
+
+Following up on this suggestion, a signal-flow graph for a negative-feedback amplifier is shown in the figure, which is patterned after one by D'Amico et al. . Following these authors, the notation is as follows:
+
+Using this graph, these authors derive the generalized gain expression in terms of the control parameter P that defines the controlled source relationship x j = Px i :
+
+Combining these results, the gain is given by
+
+To employ this formula, one has to identify a critical controlled source for the particular amplifier circuit in hand. For example, P could be the control parameter of one of the controlled sources in a two-port network , as shown for a particular case in D'Amico et al. As a different example, if we take a 12 = a 21 = 1, P = A , a 22 = –β (negative feedback) and a 11 = 0 (no feedforward), we regain the simple result with two unidirectional blocks.
+
+Although, as mentioned in the section Signal-flow analysis , some form of signal-flow analysis is the most general way to treat the negative-feedback amplifier, representation as two two-ports is the approach most often presented in textbooks and is presented here. It retains a two-block circuit partition of the amplifier, but allows the blocks to be bilateral. Some drawbacks of this method are described at the end .
+
+Electronic amplifiers use current or voltage as input and output, so four types of amplifier are possible (any of two possible inputs with any of two possible outputs). See classification of amplifiers . The objective for the feedback amplifier may be any one of the four types of amplifier and is not necessarily the same type as the open-loop amplifier, which itself may be any one of these types. So, for example, an op amp (voltage amplifier) can be arranged to make a current amplifier instead.
+
+Negative-feedback amplifiers of any type can be implemented using combinations of two-port networks. There are four types of two-port network, and the type of amplifier desired dictates the choice of two-ports and the selection of one of the four different connection topologies shown in the diagram. These connections are usually referred to as series or shunt (parallel) connections. In the diagram, the left column shows shunt inputs; the right column shows series inputs. The top row shows series outputs; the bottom row shows shunt outputs. The various combinations of connections and two-ports are listed in the table below.
+
+For example, for a current-feedback amplifier, current from the output is sampled for feedback and combined with current at the input. Therefore, the feedback ideally is performed using an (output) current-controlled current source (CCCS), and its imperfect realization using a two-port network also must incorporate a CCCS, that is, the appropriate choice for feedback network is a g-parameter two-port . Here the two-port method used in most textbooks is presented, using the circuit treated in the article on asymptotic gain model .
+
+Figure 3 shows a two-transistor amplifier with a feedback resistor R f . The aim is to analyze this circuit to find three items: the gain, the output impedance looking into the amplifier from the load, and the input impedance looking into the amplifier from the source.
+
+The first step is replacement of the feedback network by a two-port . Just what components go into the two-port?
+
+On the input side of the two-port we have R f . If the voltage at the right side of R f changes, it changes the current in R f that is subtracted from the current entering the base of the input transistor. That is, the input side of the two-port is a dependent current source controlled by the voltage at the top of resistor R 2 .
+
+One might say the second stage of the amplifier is just a voltage follower , transmitting the voltage at the collector of the input transistor to the top of R 2 . That is, the monitored output signal is really the voltage at the collector of the input transistor. That view is legitimate, but then the voltage follower stage becomes part of the feedback network. That makes analysis of feedback more complicated.
+
+An alternative view is that the voltage at the top of R 2 is set by the emitter current of the output transistor. That view leads to an entirely passive feedback network made up of R 2 and R f . The variable controlling the feedback is the emitter current, so the feedback is a current-controlled current source (CCCS). We search through the four available two-port networks and find the only one with a CCCS is the g-parameter two-port, shown in Figure 4. The next task is to select the g-parameters so that the two-port of Figure 4 is electrically equivalent to the L-section made up of R 2 and R f . That selection is an algebraic procedure made most simply by looking at two individual cases: the case with V 1 = 0, which makes the VCVS on the right side of the two-port a short-circuit; and the case with I 2 = 0. which makes the CCCS on the left side an open circuit. The algebra in these two cases is simple, much easier than solving for all variables at once. The choice of g-parameters that make the two-port and the L-section behave the same way are shown in the table below.
+
+The next step is to draw the small-signal schematic for the amplifier with the two-port in place using the hybrid-pi model for the transistors. Figure 5 shows the schematic with notation R 3 = R C2 || R L and R 11 = 1 / g 11 , R 22 = g 22 .
+
+Figure 3 indicates the output node, but not the choice of output variable. A useful choice is the short-circuit current output of the amplifier (leading to the short-circuit current gain). Because this variable leads simply to any of the other choices (for example, load voltage or load current), the short-circuit current gain is found below.
+
+First the loaded open-loop gain is found. The feedback is turned off by setting g 12 = g 21 = 0. The idea is to find how much the amplifier gain is changed because of the resistors in the feedback network by themselves, with the feedback turned off. This calculation is pretty easy because R 11 , R B , and r π1 all are in parallel and v 1 = v π . Let R 1 = R 11 || R B || r π1 . In addition, i 2 = −(β+1) i B . The result for the open-loop current gain A OL is:
+
+In the classical approach to feedback, the feedforward represented by the VCVS (that is, g 21 v 1 ) is neglected. That makes the circuit of Figure 5 resemble the block diagram of Figure 1, and the gain with feedback is then:
+
+where the feedback factor β FB = −g 12 . Notation β FB is introduced for the feedback factor to distinguish it from the transistor β.
+
+Feedback is used to better match signal sources to their loads. For example, a direct connection of a voltage source to a resistive load may result in signal loss due to voltage division , but interjecting a negative feedback amplifier can increase the apparent load seen by the source, and reduce the apparent driver impedance seen by the load, avoiding signal attenuation by voltage division. This advantage is not restricted to voltage amplifiers, but analogous improvements in matching can be arranged for current amplifiers, transconductance amplifiers and transresistance amplifiers.
+
+To explain these effects of feedback upon impedances, first a digression on how two-port theory approaches resistance determination, and then its application to the amplifier at hand.
+
+Figure 6 shows an equivalent circuit for finding the input resistance of a feedback voltage amplifier (left) and for a feedback current amplifier (right). These arrangements are typical Miller theorem applications .
+
+In the case of the voltage amplifier, the output voltage β V out of the feedback network is applied in series and with an opposite polarity to the input voltage V x travelling over the loop (but in respect to ground, the polarities are the same). As a result, the effective voltage across and the current through the amplifier input resistance R in decrease so that the circuit input resistance increases (one might say that R in apparently increases). Its new value can be calculated by applying Miller theorem (for voltages) or the basic circuit laws. Thus Kirchhoff's voltage law provides:
+
+where v out = A v v in = A v I x R in . Substituting this result in the above equation and solving for the input resistance of the feedback amplifier, the result is:
+
+The general conclusion from this example and a similar example for the output resistance case is: A series feedback connection at the input (output) increases the input (output) resistance by a factor ( 1 + β A OL ) , where A OL = open loop gain.
+
+On the other hand, for the current amplifier, the output current β I out of the feedback network is applied in parallel and with an opposite direction to the input current I x . As a result, the total current flowing through the circuit input (not only through the input resistance R in ) increases and the voltage across it decreases so that the circuit input resistance decreases ( R in apparently decreases). Its new value can be calculated by applying the dual Miller theorem (for currents) or the basic Kirchhoff's laws:
+
+where i out = A i i in = A i V x / R in . Substituting this result in the above equation and solving for the input resistance of the feedback amplifier, the result is:
+
+The general conclusion from this example and a similar example for the output resistance case is: A parallel feedback connection at the input (output) decreases the input (output) resistance by a factor ( 1 + β A OL ) , where A OL = open loop gain.
+
+These conclusions can be generalized to treat cases with arbitrary Norton or Thévenin drives, arbitrary loads, and general two-port feedback networks . However, the results do depend upon the main amplifier having a representation as a two-port – that is, the results depend on the same current entering and leaving the input terminals, and likewise, the same current that leaves one output terminal must enter the other output terminal.
+
+A broader conclusion, independent of the quantitative details, is that feedback can be used to increase or to decrease the input and output impedance.
+
+These resistance results now are applied to the amplifier of Figure 3 and Figure 5. The improvement factor that reduces the gain, namely ( 1 + β FB A OL ), directly decides the effect of feedback upon the input and output resistances of the amplifier. In the case of a shunt connection, the input impedance is reduced by this factor; and in the case of series connection, the impedance is multiplied by this factor. However, the impedance that is modified by feedback is the impedance of the amplifier in Figure 5 with the feedback turned off, and does include the modifications to impedance caused by the resistors of the feedback network.
+
+Therefore, the input impedance seen by the source with feedback turned off is R in = R 1 = R 11 || R B || r π1 , and with the feedback turned on (but no feedforward)
+
+where division is used because the input connection is shunt : the feedback two-port is in parallel with the signal source at the input side of the amplifier. A reminder: A OL is the loaded open loop gain found above , as modified by the resistors of the feedback network.
+
+The impedance seen by the load needs further discussion. The load in Figure 5 is connected to the collector of the output transistor, and therefore is separated from the body of the amplifier by the infinite impedance of the output current source. Therefore, feedback has no effect on the output impedance, which remains simply R C2 as seen by the load resistor R L in Figure 3.
+
+If instead we wanted to find the impedance presented at the emitter of the output transistor (instead of its collector), which is series connected to the feedback network, feedback would increase this resistance by the improvement factor ( 1 + β FB A OL ).
+
+The gain derived above is the current gain at the collector of the output transistor. To relate this gain to the gain when voltage is the output of the amplifier, notice that the output voltage at the load R L is related to the collector current by Ohm's law as v L = i C ( R C2 || R L ). Consequently, the transresistance gain v L / i S is found by multiplying the current gain by R C2 || R L :
+
+Similarly, if the output of the amplifier is taken to be the current in the load resistor R L , current division determines the load current, and the gain is then:
+
+Some drawbacks of the two two-port approach follow, intended for the attentive reader.
+
+Figure 7 shows the small-signal schematic with the main amplifier and the feedback two-port in shaded boxes. The feedback two-port satisfies the port conditions : at the input port, I in enters and leaves the port, and likewise at the output, I out enters and leaves.
+
+Is the main amplifier block also a two-port? The main amplifier is shown in the upper shaded box. The ground connections are labeled. Figure 7 shows the interesting fact that the main amplifier does not satisfy the port conditions at its input and output unless the ground connections are chosen to make that happen. For example, on the input side, the current entering the main amplifier is I S . This current is divided three ways: to the feedback network, to the bias resistor R B and to the base resistance of the input transistor r π . To satisfy the port condition for the main amplifier, all three components must be returned to the input side of the main amplifier, which means all the ground leads labeled G 1 must be connected, as well as emitter lead G E1 . Likewise, on the output side, all ground connections G 2 must be connected and also ground connection G E2 . Then, at the bottom of the schematic, underneath the feedback two-port and outside the amplifier blocks, G 1 is connected to G 2 . That forces the ground currents to divide between the input and output sides as planned. Notice that this connection arrangement splits the emitter of the input transistor into a base-side and a collector-side – a physically impossible thing to do, but electrically the circuit sees all the ground connections as one node, so this fiction is permitted.
+
+Of course, the way the ground leads are connected makes no difference to the amplifier (they are all one node), but it makes a difference to the port conditions. This artificiality is a weakness of this approach: the port conditions are needed to justify the method, but the circuit really is unaffected by how currents are traded among ground connections.
+
+However, if no possible arrangement of ground conditions leads to the port conditions, the circuit might not behave the same way. The improvement factors (1 + β FB A OL ) for determining input and output impedance might not work. This situation is awkward, because a failure to make a two-port may reflect a real problem (it just is not possible), or reflect a lack of imagination (for example, just did not think of splitting the emitter node in two). As a consequence, when the port conditions are in doubt, at least two approaches are possible to establish whether improvement factors are accurate: either simulate an example using Spice and compare results with use of an improvement factor, or calculate the impedance using a test source and compare results.
+
+A more practical choice is to drop the two-port approach altogether, and use various alternatives based on signal flow graph theory, including the Rosenstark method , the Choma method , and use of Blackman's theorem . That choice may be advisable if small-signal device models are complex, or are not available (for example, the devices are known only numerically, perhaps from measurement or from SPICE simulations).
+
+Summarizing the two-port analysis of feedback, one can get this table of formulas.
+
+The variables and their meanings are
+
+A {\displaystyle A} - gain, I {\displaystyle I} - current, V {\displaystyle V} - voltage, β {\displaystyle \beta } - feedback gain and R {\displaystyle R} - resistance.
+
+The subscripts and their meanings are
+
+f {\displaystyle f} - feedback amplifier, v {\displaystyle v} - voltage, g {\displaystyle g} - transconductance, Z {\displaystyle Z} - transresistance, o {\displaystyle o} - output and i {\displaystyle i} - current for gains and feedback and i {\displaystyle i} - input for resistances.
+
+For example A v f {\displaystyle A_{vf}} means voltage feedback amplifier gain.
+
+Simple amplifiers like the common emitter configuration have primarily low-order distortion, such as the 2nd and 3rd harmonics.  In audio systems, these can be minimally audible because musical signals are typically already a harmonic series , and the low-order distortion products are hidden by the masking effect of the human hearing system .
+
+After applying moderate amounts of negative feedback (10–15 dB), the low-order harmonics are reduced, but higher-order harmonics are introduced. Since these are not masked as well, the distortion becomes audibly worse, even though the overall THD may go down. This has led to a persistent myth that negative feedback is detrimental in audio amplifiers, leading audiophile manufacturers to market their amplifiers as "zero feedback" (even when they use local feedback to linearize each stage).
+
+However, as the amount of negative feedback is increased further, all harmonics are reduced, returning the distortion to inaudibility, and then improving it beyond the original zero-feedback stage (provided the system is strictly stable). So the problem is not negative feedback, but insufficient amounts of it.

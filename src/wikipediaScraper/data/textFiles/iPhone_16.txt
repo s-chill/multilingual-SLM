@@ -1,0 +1,31 @@
+The iPhone 16 and iPhone 16 Plus are smartphones developed and marketed by Apple Inc . They are the eighteenth -generation iPhones , succeeding the iPhone 15 and iPhone 15 Plus . The devices were unveiled alongside the higher-priced iPhone 16 Pro and 16 Pro Max during the September 9, 2024 Apple Event at Apple Park in Cupertino, California .
+
+The devices were unveiled during an event on September 9, 2024, marking the first time an iPhone release had been announced on a Monday.
+
+The screen curves subtly around the sides, enhancing the immersive experience while still keeping a comfortable grip.
+
+The iPhone 16 and 16 Plus come in five new colors: Ultramarine, Teal, Pink, White and Black.
+
+The iPhone 16 and the iPhone 16 Plus use an Apple A18 system on a chip . The chip is optimized for running Generative artificial intelligence and features a Neural Engine that is twice as fast as its predecessor.
+
+The iPhone 16 includes an updated 48-megapixel Fusion camera, the same resolution as the iPhone 15 , with 2 μm, quad pixel PDAF, sensor-shift OIS, 100% Focus Pixels, support for super-high-resolution photos (24MP and 48MP). It has a new ultrawide camera with a wider aperture , automatic focus and 1.4 μm, 100% Focus Pixels.
+
+All ‌iPhone 16‌ models have an improved thermal design. The main logic board has been updated, centralizing chip placement and optimizing the surrounding architecture. The recycled aluminum substructure dissipates heat for up to 30 percent higher sustained performance for gaming.
+
+Every model in the iPhone 16 lineup has support for WiFi 7 .
+
+The iPhone 16 and iPhone 16 Plus now come with the Action Button, first featured on the iPhone 15 Pro lineup. By default, the Action Button toggles silent mode. However, users can change the button's feature to do different things other than silent mode, like open the Camera app or toggle a focus mode.
+
+All iPhone 16 models now come with a new button called Camera Control. This button is on the right side of the device, and allows the user to open the camera app, switch between different camera controls and features, and taking photos and videos. The button can distinguish between light and hard presses. By pressing the button once, it opens the camera app. By lightly pressing it twice, it opens a small menu with different camera controls, such as zoom or tone. And if you press it hard once, it takes a photo. If you hold it for a few seconds, it starts a video.
+
+The iPhone 16 has been upgraded in terms of battery capacity. The base iPhone 16 has duration of video playback up to 22 hours. The iPhone 16 Plus has video playback up to 27 hours, a 22.73 % increase. The iPhone 16 has duration of audio playback up to 80 hours, 20 % less then the iPhone 16 Plus with 100 hours of audio playback.  The MagSafe wireless charging standard has been refreshed with a longer cable as an option, offering to charge the iPhone 16 and iPhone 16 Plus exclusively at a faster charging speed of 25W with a 30W power adapter.
+
+The enclosure is made up of 85 % recycled content.
+
+The iPhone 16 launched with iOS 18. While the device was announced alongside Apple Intelligence, these features were delayed until after release.
+
+iOS 18 includes RecoveryOS on the iPhone 16 series that allows users to recover and restore firmware wirelessly using another iPhone.
+
+The iPhone 16 and 16 Plus has a vertical camera layout, similar to the iPhone 12 , as opposed to the diagonal layout for iPhone 13 , iPhone 14 , and iPhone 15 . USB Type-C port is used, albeit with USB 2.0 data transfer speeds up to 480 Mb/s.
+
+The iPhone 16 has a starting price of US$799 , while the iPhone 16 Plus starts at US$899 . Pre-orders began on September 13, 2024, and sales started September 20.

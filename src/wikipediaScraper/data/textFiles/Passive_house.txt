@@ -1,0 +1,131 @@
+Passive house ( ‹See Tfd› German : Passivhaus ) is a voluntary standard for energy efficiency in a building , which reduces the building's carbon footprint . Conforming to these standards results in ultra-low energy buildings that require less energy for space heating or cooling. A similar standard, MINERGIE-P , is used in Switzerland . Standards are available for residential properties and several office buildings , schools , kindergartens and a supermarket have also been constructed to the standard. Energy efficiency is not an attachment or supplement to architectural design, but a design process that integrates with architectural design. Although it is generally applied to new buildings, it has also been used for refurbishments.
+
+In 2008, estimates of the number of passive house buildings around the world ranged from 15,000 to 20,000 structures. In 2016, there were approximately 60,000 such certified structures of all types worldwide. The vast majority of passive house structures have been built in German-speaking countries and Scandinavia .
+
+The term "Passive House" has had at least two meanings in the literature. Its earlier meaning, used since the 1970s, was for a low-energy building designed to exploit passive solar technologies and establish a comfortable indoor temperature with a low-energy requirement for heating or cooling. More recently, the term has been used to indicate a building that is certified to meet the criteria for the passivhaus standard, including heating, cooling and primary energy demands in addition to airtightness, thermal comfort requirements and non-heating related energy demands.
+
+The passivhaus standard originated from a conversation in May 1988 between Bo Adamson of Lund University , in Sweden , and Wolfgang Feist of the Institut für Wohnen und Umwelt (Institute for Housing and the Environment), in Darmstadt , Germany . Their concept was developed through a number of research projects, with financial assistance from the German state of Hessen .
+
+Many of the early "passive house" builds were based on research and the experience of North American builders during the 1970s, who—in response to the OPEC oil embargo —sought to build homes that used little to no energy. These designs often utilized expansive solar-gain windows, which used the sun as a heat source. However, superinsulation became a key feature of such efforts, as seen in the Saskatchewan Conservation House in Regina , Saskatchewan (1977) and the Leger House in Pepperell, Massachusetts (1977). The Saskatchewan Conservation House was a project of the Saskatchewan Research Council (SRC) with Harold Orr as its lead engineer. The team independently developed a heat recovery air exchanger, hot water recovery, and a blower-door apparatus to measure building air-tightness. Notably, the house was designed for the extreme −40°C to +40°C climate of the Canadian Prairies . The SRC and Leger houses were predated by the Lyngby, Denmark house (1975), developed by the Technical University of Denmark , and several homes were built between 1977 and 1979 based on the Lo-Cal house design (1976) developed by the University of Illinois at Urbana–Champaign .
+
+The name 'passive' can be partly attributed to William Shurcliff , an American physicist who contributed to the WWII Manhattan Project , and in the 1970s became an advocate for energy-efficient home design:
+
+"What name should be given to this new system? Superinsulated passive? Super-save passive? Mini-need passive? Micro-load passive? I lean toward ‘micro-load passive.’ Whatever it is called, it has (I predict) a big future." - William Shurcliff, 1979
+
+An early book explaining the concepts of passive house construction was The Passive Solar Energy Book by Edward Mazria in 1979.
+
+The eventual construction of four row houses (terraced houses or town homes) were designed for four private clients by the architectural firm Bott, Ridder and Westermeyer. The first Passivhaus residences were built in Darmstadt in 1990, and occupied the following year.
+
+In September 1996, the Passivhaus-Institut was founded in Darmstadt to promote and control passivhaus standards. By 2010 more than 25,000 passivhaus structures were estimated to have been built. Most are located in Germany and Austria , others in various countries worldwide.
+
+In 1996, after the concept had been validated at the Institute in Darmstadt, with space heating at 90% less than that required for a standard new building at the time, the economical passive houses working group was created. This group developed the planning package and initiated the production of the innovative components that had been used, notably the windows and the high-efficiency ventilation systems. Meanwhile, further passive houses were built in Stuttgart (1993), Naumburg, Hesse , Wiesbaden , and Cologne (1997).
+
+Products that had been developed according to the passivhaus standard were further commercialized during and following the European Union sponsored CEPHEUS project, which proved the concept in five European countries in the winter of 2000–2001. The first certified house was built in 2006 near Bemidji, Minnesota , in Camp Waldsee of the German Concordia Language Villages . The first US passive retrofit project, the remodeled craftsman O'Neill house in Sonoma, California , was certified in July 2010.
+
+In the United States, the concept of passivhaus design was first implemented by Katrin Klingenberg in 2003 when she built a passive home prototype named "The Smith House" in Urbana, Illinois . Consequently, she and builder Mike Kernagis co-founded the Ecological Construction Laboratory (E-Colab) in 2004 to further explore the feasibility of the affordable passive design. It eventually led to the inception of the Passive House Institute United States (PHIUS) in 2007. Afterwards, the PHIUS has released their PHIUS + 2015 Building Standard and has certified over 1,200 projects and 1.1 million square feet (100,000 m ) across the United States. In 2019, Park Avenue Green, a low-income housing building in New York was built with passivhaus standard. The building later became the largest certified "passive house" in North America.
+
+Ireland's first "passive house" was built in 2005 by Tomas O'Leary, a "passive house" designer and teacher. The house was called 'Out of the Blue'. Upon completion, Tomas moved into the building.
+
+The world's first standardised passive prefabricated house was built in Ireland in 2005 by Scandinavian Homes a Swedish company, that has since built more passive houses in England and Poland .
+
+The first certified "passive house" in the Antwerp region of Belgium was built in 2010. In 2011, the city of Heidelberg in Germany initiated the Bahnstadt project, which was seen as the world's largest passive house building area. A company in Qatar planned the country's first Passive House in 2013, the first in the region.
+
+The world's tallest "passive house" was built in the Bolueta neighborhood in Bilbao , Spain . At 289 feet (88 m), it is currently the world's tallest building certified under the standard in 2018. The $14.5 million, 171-unit development (including a nine-story companion to the high-rise) consists entirely of social housing.
+
+Gaobeidian , China hosted the 23rd International Passive House Conference in 2019, and later built Gaobeidian Railway City apartment complex which is reported to be "the world's largest passive house project". China have taken a leadership role in passive house construction, with 73 different companies "making windows to the 'passive house' standards."
+
+The United Kingdom’s first passivhaus health centre , in Foleshill was opened in November 2021.
+
+While some techniques and technologies were specifically developed for the "passive house" standard, others, such as superinsulation , already existed, and the concept of passive solar building design dates back to antiquity. There were other previous buildings with low-energy building standards, notably the German Niedrigenergiehaus (low-energy house) standard, in addition to buildings constructed to the demanding energy codes of Sweden and Denmark .
+
+The passivhaus standard requires that the building fulfills the following requirements:
+
+The specific heat load for the heating source at design temperature is recommended, but not required, to be less than 10 W /m (3.17 btu /(h⋅ft )).
+
+These standards are much higher than houses built to most normal building codes. For comparisons, see the international comparisons section below.
+
+National partners within the 'consortium for the Promotion of European Passive Houses' are thought to have some flexibility to adapt these limits locally.
+
+If a building meets the passivhaus standards, it does not need conventional heating systems, though some heating will still be required and most passivhaus buildings include supplemental space heating. This is normally distributed through the low-volume heat recovery ventilation system that is required to maintain air quality, rather than by a conventional hydronic or high-volume forced-air heating system, as described in the space heating section below.
+
+In the US there are two versions of "passive house" being promoted by two separate entities: the Passive House Institute (PHI) and the Passive House Institute US (PHIUS).
+
+PHIUS was originally an affiliate and approved trainer and certifier for the Passive House Institute. In 2011, PHI cancelled its contract with PHIUS for misconduct. PHIUS disputed the claims by PHI and continued working to launch an independent building performance program.
+
+In 2015 PHIUS launched its own "PHIUS+" standard.
+
+The PHIUS + 2015 Standard primarily focuses on reducing negative effects of building operations, for any type of building. This standard also uses climate data sets to determine specific building performance criteria for different regions. Such information is determined using metrics that represent a space where significant carbon and energy reduction overlap with cost-effectiveness. Overall, the PHIUS database includes more than 1000 climate data sets for North America. The Institute believes that this approach to the Standard is essential, as North America has variety of different climates and different passive measures may be more effective than others.
+
+The standard is based on five principles: airtightness , ventilation , waterproofing , heating and cooling, and electrical loads. Within these principles, projects must pass building specified blower door, ventilation airflow, overall airflow, and electrical load tests; buildings must also achieve other measures such as low-emission materials, renewable energy systems, moisture control, outdoor ventilation, and energy efficient ventilation and space conditioning equipment. All buildings must also pass a quality assurance and quality control test – this is implemented to ensure that the building continues to adhere to the regional criteria set forth by the PHIUS’ climate data. These tests and analyses of operative conditions are performed by PHIUS raters or verifiers. These are accredited professionals from the PHIUS that are able to perform on-site testing and inspections to ensure that the newly constructed building is adhering to the construction plans, created energy models, and desired operating conditions.
+
+The two standards ("passive house" and PHIUS+) are distinct and target different performance metrics and use different energy modeling software and protocols.
+
+In the US, the International Passive House Standard is supported by the North American Passive House Network (NAPHN) and its chapters, as well as by independent affiliates such as Passive House California and New York Passive House.
+
+In passivhaus buildings, the cost savings from dispensing with the conventional heating system can be used to fund the upgrade of the building envelope and the heat recovery ventilation system. With careful design and increasing competition in the supply of the specifically designed passivhaus building products, in Germany it is currently possible to construct buildings for the same cost as those built to normal German building standards , as was done with the passivhaus apartments at Vauban, Freiburg . On average passive houses are reported to be more expensive upfront than conventional buildings – 5% to 8% in Germany, 8% to 10% in UK and 5% to 10% in USA.
+
+Evaluations have indicated that while it is technically possible, the costs of meeting the passivhaus standard increase significantly when building in Northern Europe above 60° latitude . European cities at approximately 60° include Helsinki in Finland and Bergen in Norway. London is at 51°; Moscow is at 55°.
+
+Achieving the major decrease in heating energy consumption required by the standard involves a shift in approach to building design and construction. Design may be assisted by use of the 'Passivhaus Planning Package' (PHPP), which uses specifically designed computer simulations .
+
+Below are the techniques used to achieve the standard.
+
+Passive solar building design and energy-efficient landscaping support the passive house energy conservation and can integrate them into a neighborhood and environment. Following passive solar building techniques , where possible buildings are compact in shape to reduce their surface area, with principal windows oriented towards the equator – south in the northern hemisphere and north in the southern hemisphere – to maximize passive solar gain . However, the use of solar gain, especially in temperate climate regions, is secondary to minimizing the overall house energy requirements. In climates and regions needing to reduce excessive summer passive solar heat gain, whether from direct or reflected sources, brise soleil , trees , attached pergolas with vines , vertical gardens , green roofs , and other techniques are implemented.
+
+Exterior wall color, when the surface allows choice, for reflection or absorption insolation qualities depends on the predominant year-round ambient outdoor temperature. The use of deciduous trees and wall trellised or self attaching vines can assist in climates not at the temperature extremes.
+
+Passivhaus buildings employ superinsulation to significantly reduce the heat transfer through the walls, roof and floor compared to conventional buildings. A wide range of thermal insulation materials can be used to provide the required high R-values (low U-values , typically in the 0.10 to 0.15 W/(m ·K) range). Special attention is given to eliminating thermal bridges .
+
+A disadvantage resulting from the thickness of wall insulation required is that, unless the external dimensions of the building can be enlarged to compensate, the internal floor area of the building may be less compared to traditional construction.
+
+In Sweden, to achieve passive house standards, the insulation thickness would be 33.5 centimetres (13.2 in) (0.10 W/(m ·K)) and the roof 50 centimetres (20 in) (U-value 0.066 W/(m ·K)).
+
+To meet the requirements of the passivhaus standard, windows are manufactured with exceptionally high R-values (low U-values, typically 0.85 to 0.45 W/(m ·K) for the entire window including the frame). The windows normally combine triple or quadruple -pane insulated glazing (with an appropriate solar heat-gain coefficient, low-emissivity coatings, sealed argon or krypton gas filled inter-pane voids, and 'warm edge' insulating glass spacers) with air-seals and specially developed thermal break window frames.
+
+In Central Europe and most of the United States , for unobstructed south-facing passivhaus windows, the heat gains from the sun are, on average, greater than the heat losses, even in mid-winter.
+
+Building envelopes under the passivhaus standard are required to be extremely airtight compared to conventional construction. They are required to meet 0.60 ACH50 (air changes per hour at 50 pascals) based on the building's volume. In order to achieve these metrics, recommended best practice is to test the building air barrier enclosure with a blower door at mid-construction if possible.
+
+"Passive house" is designed so that most of the air exchange with exterior is done by controlled ventilation through a heat-exchanger in order to minimize heat loss (or gain, depending on climate), so uncontrolled air leaks are best avoided. Another reason is the passive house standard makes extensive use of insulation which usually requires a careful management of moisture and dew points . This is achieved through air barriers, careful sealing of every construction joint in the building envelope, and sealing of all service penetrations.
+
+Use of passive natural ventilation is an integral component of passive house design where ambient temperature is conducive — either by singular or cross ventilation, by a simple opening or enhanced by the stack effect from smaller ingress with larger egress windows and/or clerestory -operable skylight .
+
+When ambient climate is not conducive, mechanical heat recovery ventilation systems, with a heat recovery rate of over 80% and high-efficiency electronically commutated motors (ECM), are employed to maintain air quality, and to recover sufficient heat to dispense with a conventional central heating system. Since passively designed buildings are essentially air-tight , the rate of air change can be optimized and carefully controlled at about 0.4 air changes per hour . All ventilation ducts are insulated and sealed against leakage.
+
+Some passivhaus builders promote the use of earth warming tubes . The tubes are typically around 200 millimetres (7.9 in) in diameter, 40 metres (130 ft) long at a depth of about 1.5 metres (4.9 ft). They are buried in the soil to act as earth-to-air heat exchangers and pre-heat (or pre-cool) the intake air for the ventilation system. In cold weather, the warmed air also prevents ice formation in the heat recovery system's heat exchanger . Concerns about this technique have arisen in some climates due to problems with condensation and mold.
+
+Alternatively, an earth to air heat exchanger can use a liquid circuit instead of an air circuit, with a heat exchanger (battery) on the supply air.
+
+In addition to using passive solar gain , passivhaus buildings make extensive use of their intrinsic heat from internal sources—such as waste heat from lighting, major appliances and other electrical devices (but not dedicated heaters)—as well as body heat from the people and other animals inside the building. This is due to the fact that people, on average, emit heat equivalent to 100 watts each of radiated thermal energy .
+
+Together with the comprehensive energy conservation measures taken, this means that a conventional central heating system is not necessary, although they are sometimes installed due to client's skepticism.
+
+Instead, "passive houses" sometimes have a dual purpose 800 to 1,500 watt heating and/or cooling element integrated with the supply air duct of the ventilation system, for use during the coldest days. It is fundamental to the design that all the heat required can be transported by the normal low air volume required for ventilation. A maximum air temperature of 50 °C (122 °F) is applied, to prevent any possible smell of scorching from dust that escapes the filters in the system.
+
+The air-heating element can be heated by a small heat pump , by direct solar thermal energy , annualized geothermal solar , or simply by a natural gas or oil burner . In some cases a micro-heat pump is used to extract additional heat from the exhaust ventilation air, using it to heat either the incoming air or the hot water storage tank . Small wood-burning stoves can also be used to heat the water tank, although care is required to ensure that the room in which stove is located does not overheat.
+
+Beyond the recovery of heat by the heat recovery ventilation unit, a well designed Passive house in the European climate should not need any supplemental heat source if the heating load is kept under 10 W/m .
+
+Because the heating capacity and the heating energy required by a passive house both are very low, the particular energy source selected has fewer financial implications than in a traditional building, although renewable energy sources are well suited to such low loads.
+
+The "passive house" standards in Europe set a space heating and cooling energy demand of 15 kWh/m (4,750 BTU/sq ft) per year, and 10 W/m (3.2 Btu/h/sq ft) peak demand. In addition, the total energy to be used in the building operations including heating, cooling, lighting, equipment, hot water, plug loads, etc. is limited to 120 kWh/m (38,000 BTU/sq ft) of treated floor area per year.
+
+To minimize the total primary energy consumption, the many passive and active daylighting techniques are the first daytime solution to employ. For low-light days, non-daylighted spaces, and nighttime, the use of creative-sustainable lighting design using low-energy sources can be used. Low-energy sources include 'standard voltage' compact fluorescent lamps , solid-state lighting with LED lamps , organic light-emitting diodes , PLED – polymer light-emitting diodes , 'low voltage' electrical filament - Incandescent light bulbs , compact metal halide , xenon , and halogen lamps .
+
+Solar powered exterior circulation, security, and landscape lighting – with photovoltaic cells on each fixture or connecting to a central Solar panel system, are available for gardens and outdoor needs. Low voltage systems can be used for more controlled or independent illumination, while still using less electricity than conventional fixtures and lamps. Timers, motion detection and natural light operation sensors reduce energy consumption, and light pollution even further for a passivhaus setting.
+
+Appliance consumer products meeting independent energy efficiency testing and receiving Ecolabel certification marks for reduced electrical-'natural-gas' consumption, as well as product manufacturing carbon emission labels are preferred for use in Passive houses. The eco-label certification marks of Energy Star and EKOenergy are examples.
+
+Typically, passive houses feature:
+
+A net zero -energy building (ZEB) is a building that over a year does not use more energy than it generates. The first 1979 Zero Energy Design building used passive solar heating and cooling techniques with airtight construction and super insulation. A few ZEBs fail to fully exploit more affordable conservation technology and all use onsite active renewable energy technologies like photovoltaic to offset the building's primary energy consumption. "Passive house" and ZEB are regarded as complementary synergistic technology approaches, based on the same physics of thermal energy transfer and storage: ZEBs drive the annual energy consumption down to 0 kWh/m with help from on-site renewable energy sources and can benefit from materials and methods which are used to meet the  passive house demand constraint of 120 kWh/m which will minimize the need for the often costly on-site renewable energy sources. Energy Plus houses are similar to both passivhaus and ZEB but emphasize the production of more energy per year than they consume, e.g., annual energy performance of −25 kWh/m is an Energy Plus house.
+
+With advances in ultra low U-value glazing, a "passive house" based (nearly) zero heating building is proposed to supersede nearly-zero energy buildings in EU. The zero heating building reduces on the passive solar design and makes the building more opened to conventional architectural design.
+
+The annual specific heat demand for the zero-heating house should not exceed 3 kWh/m a. Zero heating building is generally considered to be simpler to design and to operate as there is no need for modulated sun shading.
+
+In a tropical climate, passivhaus standard have proven to be helpful for ideal internal conditions by using energy recovery ventilation instead of heat recovery ventilation to reduce the humidity load of ventilation on the mechanical dehumidification system. Although dehumidifiers might be used, heat pump hot water heaters also will act to cool and condense interior humidity (where it can be dumped into drains ) and dump the heat into the hot water tank . Passive cooling , solar air conditioning , and other solutions in passive solar building design have been studied to adapt the "passive house" concept for use in more regions of the world.
+
+A certified "passive house" was built in the hot and humid climate of Lafayette , Louisiana , USA. It uses energy recovery ventilation and an efficient one ton air-conditioner to provide cooling and dehumidification.
+
+Solar access have been a very important factor in any design of a passive house as it allows the structure to use the solar energy to heat and light the space naturally, and to replace electrical water heaters with solar energy-based water heaters.

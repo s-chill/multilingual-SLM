@@ -1,0 +1,7 @@
+An air classifier is an industrial machine which separates materials by a combination of size, shape, and density .
+
+It works by injecting the material stream to be sorted into a chamber which contains a column of rising air . Inside the separation chamber, air drag on the objects supplies an upward force which counteracts the force of gravity and lifts the material to be sorted up into the air. Due to the dependence of air drag on object size and shape, the objects in the moving air column are sorted vertically and can be separated in this manner.
+
+Air classifiers are commonly employed in industrial processes where a large volume of mixed materials with differing physical characteristics need to be separated quickly and efficiently.  Air classifier is helpful for cement, air pollution control, food processing, pigments, pharmaceutical, cosmetics or chemical industries. One such example is in municipal recycling centers, where various types of metal , paper , and plastics arrive mixed together and need to be sorted before further processing can take place.
+
+Air classifiers can also be used as a step in the automotive recycling process.  For example, after the crushing and shredding steps, steel is removed by electromagnets, and nonferrous metals are removed by eddy-current separators .  Then an air classifier can be used to deal with the remaining dense materials (such as glass) as well as the remaining materials of various densities, most notably plastics, foams, and cloth.

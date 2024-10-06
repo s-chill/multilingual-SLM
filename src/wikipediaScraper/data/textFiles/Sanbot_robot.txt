@@ -1,0 +1,18 @@
+Sanbot is an intelligent, cloud-enabled service robot developed by Qihan Technology Co. Ltd., a robotics and AI company who has their headquarters in Shenzhen , China . Qihan has launched three generations of intelligent robots under the Sanbot brand – Sanbot Elf (QIHAN Technology renamed the first generation Sanbot to Sanbot Elf, ) Sanbot King Kong and Sanbot Nano.
+
+Sanbot was first introduced to the public at the Internationale Funkausstellung (IFA) in Berlin in 2016. The initial model, later known as Sanbot Elf, featured capabilities like voice recognition, interactive touchscreens, and the ability to perform tasks such as greeting and assisting customers. Sanbot Elf was deployed in various applications, including customs and airport services at locations such as Gongbei Port of Entry and Shenzhen Bao'an International Airport, where it was used for passenger service and security purposes.
+
+QIHAN Technology continued to innovate with the release of Sanbot King Kong at the 2017 World Robot Conference in Beijing, and its introduction to the North American market at CES 2018. The Sanbot King Kong model was designed to move at speeds up to five meters per second and tow up to 165 pounds.
+
+Sanbot Nano, another iteration designed for home use, was launched in 2017 at the IFA Expo in Berlin. Sanbot Nano integrated Amazon's Alexa Voice Service, allowing users to control home appliances through voice commands.
+
+The Elf has 360 perception. The robot also is able to use Voice Interaction & localization, Facial Recognition , Video Chat , Obstacle Avoidance , and Auto charging.
+
+Sanbot robot adopts components and systems from other international tech companies for its hardware and software. The forward cameras are from Sony , and touchscreen from Sharp . IBM Watson powers the artificial intelligence capabilities, and Nuance provides the voice recognition.
+
+Standing at 4.8 feet (1.5 m) tall, Sanbot King Kong has two  bionic arms and hands that provide degrees of freedom similar to a human arm. Its waist can  change the body’s center of gravity and adjust its posture, for carrying objects on uneven terrain. Sanbot King Kong features a four-wheel drive system with an external wheel motor and Mecanum wheel chassis design achieving speeds up to 5 metres per second (18 km/h). Sanbot King Kong can tow up to 165 pounds.
+
+Sanbot King Kong has six built-in microphones in its head and a speech recognition program that can separate background noise in busy or loud areas. With an AI system powered by IBM Watson and Nuance , Sanbot King Kong is capable of speech recognition and can identify and communicate in 26 different languages. Sanbot King Kong has 3D cameras vSLAM (vision simultaneous localization and mapping ), combining infrared, ultrasound and visual obstacle avoidance technology to allow Sanbot King Kong to map out unfamiliar environments and avoid glass doors and falling objects. Sanbot King Kong has a security password system on its head to protect the robot from unwanted access to its USB ports and power-supply ports.
+
+Sanbot Nano stands at 2.7 feet tall and is equipped with over 50 sensors to avoid objects in its way, recognize voices and know when someone enters the room. 
+Sanbot Nano inherits popular features from Sanbot Elf including the Android SDK , Sanbot App Store and automatic charging. It adopts Amazon’s Alexa (Alexa Voice Service) and families can use it to control lights, thermostats and home appliances. It is the first home robot adopting the Amazon Alexa AI system.

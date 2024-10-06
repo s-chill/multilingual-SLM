@@ -1,0 +1,9 @@
+The Global Industry Classification Standard ( GICS ) is an industry taxonomy developed in 1999 by MSCI and Standard & Poor's (S&P) for use by the global financial community. The GICS structure consists of 11 sectors, 25 industry groups, 74 industries and 163 sub-industries into which S&P has categorized all major public companies .  The system is similar to ICB ( Industry Classification Benchmark ), a classification structure maintained by FTSE Group.
+
+GICS is used as a basis for S&P and MSCI indexes used in the financial field which each company is assigned to a sub-industry, and to an industry, industry group, and sector, by its principal business activity. "GICS" is a registered trademark of McGraw Hill Financial and MSCI Inc.
+
+The classification is as follows:
+
+Per the MSCI World index, Information Technology is the biggest sector, with 22% of world capitalisation.
+
+The classification standard is regularly updated by S&P Dow Jones Indices and MSCI. Numerous changes over the years have resulted in the addition, deletion, or redefinition of various sub-industries, industries, or industry groups. Since 1999, there have been two revisions at the sector level:

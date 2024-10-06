@@ -1,0 +1,9 @@
+John Millar Carroll (born 1950) is an American distinguished professor of Information Sciences and Technology at Pennsylvania State University , where he previously served as the Edward Frymoyer Chair of Information Sciences and Technology. Carroll is perhaps best known for his theory of Minimalism in computer instruction, training, and technical communication .
+
+Carroll was a founder of the study of human–computer interaction, one of the nine core areas of Computer Science identified by the Association for Computing Machinery (ACM). He served on the program committee of the 1982 Bureau of Standards Conference on the Human Factors of Computing Systems that in effect inaugurated the field, and was the direct predecessor of the field's flagship conference series, the ACM CHI Conferences.
+
+Since the 1980s, Carroll has been involved in the development of the field of human–computer Interaction. In 1984 he founded the User Interface Institute at the IBM Thomas J. Watson Research Center . In 1994, he joined Virginia Tech as Department Head of Computer Science to establish an HCI focus in research and teaching at the university's Center for Human-Computer Interaction.
+
+He was a founding associate editor of the field's premier journal, ACM Transactions on Computer-Human Interaction , and a founding member of editorial boards of Transactions on Information Systems , Behavior and Information Technology , and the International Journal of Human-Computer Interaction .
+
+Carroll was elected to the CHI Academy in 2002 and received the ACM SIGCHI Lifetime Achievement Award in 2003 for his contribution to the field of human–computer interaction (HCI or CHI). He was named an Honorary Fellow of the Society for Technical Communication in 2015 for his groundbreaking work on Minimalism.

@@ -1,0 +1,11 @@
+An event tree is an inductive analytical diagram in which an event is analyzed using Boolean logic to examine a chronological series of subsequent events or consequences. For example, event tree analysis is a major component of nuclear reactor safety engineering.
+
+An event tree displays sequence progression, sequence end states and sequence-specific dependencies across time.
+
+Event tree analysis is a logical evaluative process which works by tracing forward in time or forwards through a causal chain to model risk.  It does not require the premise of a known hazard. An event tree is an inductive investigatory process.
+
+In contrast, the Fault tree analysis (FTA) evaluates risk by tracing backwards in time or backwards through a cause chain.  The analysis takes as a premise a given hazard. FTA is a deductive investigatory process.
+
+An event tree may start from a specific initiator such as loss of critical supply, or component failure.
+
+Some industries use both fault trees and event trees.  Software has been created for fault tree analysis and event tree analysis and is licensed for use at the world's nuclear power plants for Probabilistic Safety Assessment .

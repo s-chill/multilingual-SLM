@@ -1,0 +1,15 @@
+A safety barrier is a component which prevents passage into a dangerous area, and is commonly used to mitigate risk .
+
+A safety barrier is a component which prevents passage into a dangerous area. It is commonly used to mitigate risk in the Hazard-Barrier-Target model, as studied in safety science . Work Safe Victoria (an Australian organization) defines a Safety Barrier as a device that:
+
+Hard barriers are fixed or removable guards which prevent entry. These include fences, traffic barriers , and crush barriers.
+
+Soft barriers are devices such as light curtains . They detect the presence of a foreign body and are tied into the control circuit to stop the machine.
+
+Hard barriers are fixed into the ground as a bollard or gate , removable on stands, or clipped to a structure. Regardless of the barrier type, the components and overall assembly will be similar.
+
+The material of rails used to stop the flow of objects into the protected area must be durable and strong enough to withstand any impacts related to the environment in which it is installed; for example, a guard rail on the side of the road must be able to contain and safely stop or drastically slow down a vehicle weighing up to 40 tons ( cable barriers are most effective against tractor trailers), whereas a pedestrian safety barrier only needs to be tall enough, designed with a lattice effect to keep people from climbing through it, or highly visible when being used to display caution.
+
+Safety barriers vary depending on their application. In an industrial setting, a safety barrier may be a fence or window, designed to keep the operator away from moving parts or other hazards. Railings should be closed cornered with rounded or flared edges to prevent any further damage to personnel or machinery in the event of a collision. Safety barriers can also be used to protect the corners of fixtures, support columns, exposed pipes or cables, or designated areas on the work floor.
+
+In an automotive setting, the barrier may be a traffic barrier or Jersey barrier , separating lanes/directions of traffic flow. In crowd control, terraces use crush barriers to reduce the risk of human crush in large crowds.

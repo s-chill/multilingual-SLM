@@ -1,0 +1,11 @@
+The KHR-1 is a programmable, bipedal humanoid robot introduced in June 2004 by a Japanese company Kondo Kagaku . At the time of its introduction it was one of the least expensive programmable bipedal robots (prices averaging around $1,600 in the United States and ¥128,000 in Japan). The robot is 34 cm high and has 17 degrees of freedom (each joint is powered by individual servomotor ). It is capable of a wide range of motions, including quick kung-fu -style fighting moves.
+
+The KHR-1 can be controlled via RF remote control and modified receiver; however, these units do not come with the robot and must be purchased separately. Other accessories/modifications include additional degrees of freedom (waist and leg motion), a high performance motion processor microcontroller capable of real-time master/slave operation, gyros and multi-axis accelerometers, larger foot/sole plates.
+
+The basic robot, as supplied by Kondo, uses simple control application, named HearttoHeart that allows the user to create or capture a sequence of poses and control the transition speeds. The software also has provisions for creating a series of motions into a longer scenario.
+
+Users of the KHR-1 have developed a number of more advanced control, programming and simulation applications making it possible to create and modify the robot's movements and scenarios on a personal computer.
+
+The KHR-1 is the most commonly used robotic platform used for ROBO-ONE J class robots in Japan. In 2004 the robot won in the Robo-One Jr category (lightweight robots) in the RoboGames (held in the United States).
+
+The KHR series also includes the KHR-2HV and KHR-3HV robots.

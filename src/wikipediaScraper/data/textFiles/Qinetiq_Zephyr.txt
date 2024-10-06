@@ -1,0 +1,43 @@
+The Zephyr is a series of high-altitude platform station aircraft produced by Airbus .  They were designed originally by QinetiQ , a commercial offshoot of the UK Ministry of Defence . In July 2010, the Zephyr 7 flew for 14 days. In March 2013, the project was sold to Airbus Defence and Space . In the summer of 2022, the Zephyr 8/S flew for 64 days.
+
+The unmanned aerial vehicles are powered by solar cells , recharging batteries in daylight to stay aloft at night. The latest Zephyr 8/S weighs 60 kg (130 lb), has a wingspan of 25 m (82 ft), can reach 23,200 m (76,100 ft) and can lift a 5 kg (11 lb) payload for months. They can be used for mobile phone coverage , environmental monitoring , military reconnaissance or as a communications relay .
+
+In 2003, QinetiQ , a commercial offshoot of the UK Ministry of Defence , was planning to fly its Zephyr 3 up to 40 km at 70 m/s (250 km/h; 140 kn), after being released from a high-altitude balloon at 9 km, besting the NASA Helios which had reached 29 km. It was envisionned as an alternative to space satellites , stationed permanently in the stratosphere for environmental monitoring , mobile phone coverage or military applications. The QinetiQ 1 balloon altitude record attempt failed in 2003.
+
+In February 2005, Qinetiq was preparing a demonstration above 30,000 ft for the UK Ministry of Defence at the Woomera Test Range in Australia, for reconnaissance or as a communications relay .
+
+Between 28 and 31 July 2008, in a demonstration for the US military at its Yuma Proving Ground in Arizona, the Zephyr 6 flew for 82 hours and 37 minutes, an unofficial record as the FAI wasn't involved.
+
+On 23 July 2010, the Zephyr 7 took the FAI -sanctioned duration record after a 336 hours (14 days), 22 min and 8 s flight, reaching 21,562 m (70,741 ft). It exceeded the nine days (216 hours) of the 1986 round-the-world flight of the Rutan Voyager .
+
+In March 2013, the project was sold to EADS Astrium (now Airbus Defence and Space ).
+
+In 2014 it flew for 11 days in the short days of winter whilst carrying a small payload for the British Ministry of Defence, and later near civilian airspace.
+
+In February 2016, the UK Ministry of Defence purchased two Zephyr 8 planes. In August 2016, a third was purchased.
+
+In 2016, a twin-tailed Zephyr T variant, providing a maritime surveillance and communications capability, was scheduled for flight testing in 2018.
+
+In summer 2018, for its maiden flight from Arizona, the Zephyr S remained aloft for 25 days 23 hours 57 minutes, nearly twice as long as the previous record flight of 14 days set by its predecessor. By October 2021, it had flown 2,435 hours.
+
+On 15 June 2022, the Zephyr S took off in Arizona , venturing for the first time into international airspace and over water. On 19 August, the plane was lost over the Arizona desert after a flight time of 64 days. It covered 56,000 km over the southern United States, the Gulf of Mexico, and South America.
+
+The aircraft was lost when one engine component (redesigned since) failed in an unusual high-altitude storm turbulence at 17 km. By early 2023, Airbus planned to launch operations from the end of 2024 with around 18 aircraft. By 2034, a 1,000 aircraft constellation could cover 2.9 billion people, and would provide emergency 4G/5G following natural disasters. The larger Zephyr variant, with twice the payload capacity, is expected for 2026.
+
+In January 2023, the Aalto HAPS company was set up by Airbus to sell its mobile connectivity and earth observation services. In June 2024, a Japanese consortium led by NTT Docomo and Space Compass committed to invest USD$100m in AALTO to commercialise connectivity HAPS services in Asia, targeting a 2026 introduction.
+
+The 12 m (39 ft) wide aircraft had a carbon composite frame to weigh 12 kg (26 lb), and 1 kW of solar cells powering five motors.
+
+The carbon fiber Zephyr 6 has a 18 m (59 ft) span and weighs 30–34 kg (70 lb) for a 2 kg (4.5 lb) payload. Amorphous silicon solar cells from Unisolar recharge lithium-sulphur batteries from Sion Corporation with twice the energy density of the best alternative, lithium polymer batteries . Launched by hand, it can reach 18 km (60,000 ft). The first version had a battery capacity of 3 kW·h, driving two propellers.
+
+Zephyr 7 was larger, at 53 kg, and capable of a maximum altitude between 20 and 21 km, it required five ground crew to launch, as opposed to three previously for the Zephyr 6.
+
+Designed to fly at 20 km (65,000 ft) for more than a month, the 25 m (82 ft) wide Zephyr 8 is 30% lighter and can lift 50% more batteries than the Zephyr 7. It weighs 60 kg, 40% of which are batteries (24 kg), and the 5 kg payload can transmit video with a 50 cm resolution from above 20 km. They should be able to operate year-round between 40 degrees North and South , while winter operation gets more difficult at higher latitudes .
+
+It used Amprius lithium-ion batteries with silicon nanowire anodes for a 435 Wh/kg specific energy up from 300–320 Wh/kg. Solar cells are high-efficiency, lightweight, and flexible inverted metamorphic multi-junction epitaxial lift-off GaAs sheets manufactured by MicroLink Devices , with specific power exceeding 1,500 W/kg and areal powers greater than 350 W/m .
+
+One Zephyr can replace 250 cell phone towers . It can be used to perform intelligence, surveillance and reconnaissance (ISR) with a wide visual payload coverage of 20×30 km (12.4×18.6 mi) and can be equipped with radar, LIDAR and infrared technologies.
+
+Endurance is targeted for up to 200–300 days. An 8 kg (17.6 lb) mobile connectivity payload can serve up to 100,000 people on the ground. A 5 kg Airbus-developed Opaz optical sensor can deliver 18 cm-resolution imagery.
+
+As of August 2022 , three hull losses have been reported:

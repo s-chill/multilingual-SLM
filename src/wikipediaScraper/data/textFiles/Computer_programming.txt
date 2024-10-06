@@ -1,0 +1,11 @@
+The following outline is provided as an overview of and topical guide to computer programming:
+
+Computer programming – process that leads from an original formulation of a computing problem to executable computer programs. Programming involves activities such as analysis, developing understanding, generating algorithms , verification of requirements of algorithms including their correctness and resources consumption, and implementation (commonly referred to as coding ) of algorithms in a target programming language . Source code is written in one or more programming languages . The purpose of programming is to find a sequence of instructions that will automate performing a specific task or solving a given problem.
+
+Programming language – formal constructed language designed to communicate instructions to a machine, particularly a computer. Programming languages can be used to create programs to control the behavior of a machine or to express algorithms.
+
+The top 20 most popular programming languages as of December 2022 :
+
+Programming language comparisons
+
+Software engineering –

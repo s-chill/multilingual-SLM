@@ -1,0 +1,13 @@
+A windsock (a wind cone or wind sleeve) is a conical textile tube that resembles a giant sock . It can be used as a basic indicator of wind speed and direction , or as decoration. Windsocks are typically used at airports to show the direction and strength of the wind to pilots, and at chemical plants where there is risk of gaseous leakage. They are also sometimes located alongside highways at windy locations.
+
+At many airports, windsocks are externally or internally lit at night. Wind direction is opposite the direction in which the windsock is pointing. Wind speed is indicated by the windsock's angle relative to the mounting pole ‍ — in low winds it droops; in high winds, it flies horizontally.
+
+Alternating stripes of high-visibility orange and white were initially used to help estimate wind speed, with each stripe adding 3 knots (5.6 km/h; 3.5 mph) to the estimated speed. However, some circular frame mountings cause windsocks to be held open at one end, indicating a velocity of 3 knots even when stripes are not present. A fully extended windsock suggests a wind speed of 15 knots (28 km/h; 17 mph) or greater.
+
+Per FAA standards, a properly functioning windsock orients itself to a breeze of at least 3 knots (5.6 km/h; 3.5 mph) and fully extends in a wind of 15 knots (28 km/h; 17 mph).
+
+Per Transport Canada standards, a 15-knot wind fully extends the windsock; a 10-knot (19 km/h; 12 mph) wind raises it to 5° below the horizontal; and a 6-knot (11 km/h; 6.9 mph) wind raises it to 30° below the horizontal.
+
+ICAO standards specify a truncated cone-shaped windsock at least 3.6 metres (12 ft) long and 0.9 metres (3 ft) in diameter at the large end. It should be readable from an altitude of 300 metres (980 ft) and ideally be of a single colour. If it is necessary to use two colours, they should ideally be orange and white, arranged in five alternating bands, with the first and last darker in tone. In wind speeds of 3 knots (5.6 km/h; 3.5 mph) or more, they must indicate wind direction to within ±5°.
+
+Wind tees and wind tetrahedrons are two other commonly used wind direction indicators in airports. Wind tees are shaped like an airplane so that they match with the heading of an aircraft ready to take off and land. Wind tetrahedrons always have their pointy ends pointing to the wind. Wind tees and tetrahedrons can swing freely and align themselves with the wind direction, but neither measures the wind speed, unlike a windsock. Since a wind tee or tetrahedron can also be manually set to align with the runway in use, a pilot should also look at the wind sock for wind information, if one is available.

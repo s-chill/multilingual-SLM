@@ -1,0 +1,43 @@
+A slurry is a mixture of denser solids suspended in liquid, usually water. The most common use of slurry is as a means of transporting solids or separating minerals, the liquid being a carrier that is pumped on a device such as a centrifugal pump . The size of solid particles may vary from 1 micrometre up to hundreds of millimetres .
+The particles may settle below a certain transport velocity and the mixture can behave like a Newtonian or non-Newtonian fluid. Depending on the mixture, the slurry may be abrasive and/or corrosive.
+
+Examples of slurries include:
+
+To determine the percent solids (or solids fraction) of a slurry from the density of the slurry, solids and liquid
+
+where
+
+In aqueous slurries, as is common in mineral processing, the specific gravity of the species is typically used, and since specific gravity of water is taken to be 1, this relation is typically written:
+
+even though specific gravity with units tonnes/m (t/m ) is used instead of the SI density unit, kg/m .
+
+To determine the mass of liquid in a sample given the mass of solids and the mass fraction:
+By definition
+
+therefore
+
+and
+
+then
+
+and therefore
+
+where
+
+Equivalently
+
+and in a minerals processing context where the specific gravity of the liquid (water) is taken to be one:
+
+So
+
+and
+
+Then combining with the first equation:
+
+So
+
+Then since
+
+we conclude that
+
+where

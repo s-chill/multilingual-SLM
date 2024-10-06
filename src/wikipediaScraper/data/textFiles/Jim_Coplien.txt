@@ -1,0 +1,17 @@
+James O. Coplien , also known as Cope , is a writer, lecturer, and researcher in the field of computer science . He held the 2003–4 Vloeberghs Leerstoel (Vloeberghs Chair) at Vrije Universiteit Brussel and has been a visiting professor at University of Manchester .
+
+He is known for his involvement in founding the pattern movement as part of the Hillside Group , organizing events in the Pattern Languages of Programs conference series, and his writings on software design patterns and organizational patterns .
+
+His ongoing work with Liping Zhao includes a monograph entitled "A Generalized Formal Design Theory" which explores the foundations of symmetry and symmetry-breaking in design in general, and in patterns in particular.
+
+Cope was a founding Member of Hillside Group with Kent Beck , Grady Booch , Ward Cunningham , Ralph Johnson , Ken Auer and Hal Hildebrand . He has started up several of the conferences in the Pattern Languages of Programs (PLoP) conference series and is a longstanding pattern author and PLoP shepherd. His pattern form, the "Coplien Form," is a simplified way to structure a pattern in preparation for writing a more literate version in Alexandrian form. Together with Trygve Reenskaug, he was a principal in the design of the data, context and interaction (DCI) paradigm.
+
+He was also Program Chair of Object-Oriented Programming, Systems, Languages & Applications conference ( OOPSLA ) in 1996, and has been a co-founder and sometime chair of many software pattern conferences.
+
+Books he has written, co-written or edited include:
+
+His early work on C++ idioms was one of the three primary sources of the popular Design Patterns . He also named the curiously recurring template pattern C++ idiom. His work on organizational patterns was an inspiration for both extreme programming and for Scrum daily standups. In Organizational Patterns of Agile Software Development book he co-presented an alternative version of Conway's law .
+
+Coplien has presented several times in the UK at the ACCU conference:
+
+He has given several conference keynotes, such as "Reflections on Reflection" at SPLASH 2013, "Kaizen and Certification" at the 2013 Scrum Alliance Regional Conference in Tokyo, and "Objects of the people, by the people, and for the people" at the AOSD Conference in Berlin in 2012.

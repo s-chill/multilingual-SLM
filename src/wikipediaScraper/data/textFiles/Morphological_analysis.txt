@@ -1,0 +1,11 @@
+Morphological analysis or general morphological analysis is a method for exploring possible solutions to a multi-dimensional, non-quantified complex problem. It was developed by Swiss astronomer Fritz Zwicky . General morphology has found use in fields including engineering design , technological forecasting , organizational development and policy analysis.
+
+General morphology was developed by Fritz Zwicky, the Bulgarian-born, Swiss-national astrophysicist based at the California Institute of Technology . Among others, Zwicky applied morphological analysis to astronomical studies and jet and rocket propulsion systems. As a problem-structuring and problem-solving technique, morphological analysis was designed for multi-dimensional, non-quantifiable problems where causal modelling and simulation do not function well, or at all.
+
+Zwicky developed this approach to address seemingly non-reducible complexity: using the technique of cross-consistency assessment (CCA), the system allows for reduction by identifying the possible solutions that actually exist, eliminating the illogical solution combinations in a grid box rather than reducing the number of variables involved.
+
+Problems that involve many governing factors, where most of them cannot be expressed numerically can be well suited for morphological analysis.
+
+The conventional approach is to break a complex system into parts, isolate the parts (dropping the 'trivial' elements) whose contributions are critical to the output and solve the simplified system for desired scenarios. The disadvantage of this method is that many real-world phenomena do not have obviously trivial elements and cannot be simplified.
+
+Morphological analysis works backwards from the output towards the system internals without a simplification step. The system's interactions are fully accounted for in the analysis.

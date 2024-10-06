@@ -1,0 +1,13 @@
+In Unix shells , wait is a command which pauses until execution of a background process has ended.
+
+where n is the pid or job ID of a currently executing background process (job). If n is not given, the command waits until all jobs known to the invoking shell have terminated.
+
+wait normally returns the exit status of the last job which terminated. It may also return 127 in the event that n specifies a non-existent job or zero if there were no jobs to wait for.
+
+Because wait needs to be aware of the job table of the current shell execution environment, it is usually implemented as a shell builtin .
+
+This command can be useful where part of a script can execute in parallel to implement a barrier where an upcoming section depends on the successful completion of the preceding sections.
+
+The following example will fetch the src/ directory from a machine named iona using rsync and simultaneously update the libraries on which this program depends, before building the combination.
+
+Wait for specified job control id number:

@@ -1,0 +1,17 @@
+Sarfus is an optical quantitative imaging technique based on the association of:
+
+Sarfus visualization is based on the perfect control of the reflection properties of polarized light on a surface, which leads to an increase in the axial sensitivity of optical microscope by a factor of around 100 without reducing its lateral resolution. Thus this new technique increases the sensitivity of standard optical microscope to a point that it becomes possible to directly visualize thin films (down to 0.3 micrometer) and isolated nano-objects in real-time, be it in air or in water.
+
+A recent study on polarized light coherence leads to the development of new supports – the surfs – having contrast amplification properties for standard optical microscopy in cross polarizers mode. Made of optical layers on an opaque or transparent substrate, these supports do not modify the light polarization after reflection even if the numerical aperture of the incident source is important. This property is modified when a sample is present on a surf, a non-null light component is then detected after the analyzer rendering the sample visible.
+
+The performances of these supports are estimated from the measurement of the contrast (C) of the sample defines by: C = (I 1 -I 0 )/(I 0 +I 1 ) where I 0 and I 1 represent the intensities reflected by the bare surf and by the analyzed sample on the surf, respectively. For a one nanometer-film thickness, the surfs display a contrast 200 times higher than on silicon wafer.
+
+This high contrast increase allows the visualization with standard optical microscope of films with thicknesses down to 0.3 nm, as well as nano-objects (down to 2 nm diameter) and this, without any kind of sample labelling (neither fluorescence, nor radioactive marker). An illustration of the contrast enhance is given hereafter with the observation in optical microscopy between cross polarizers of a Langmuir-Blodgett structure on a silicon wafer and on a surf.
+
+In addition to visualization, recent developments have allowed accessing to the thickness measurement of the analyzed sample. A colorimetric correspondence is carried out between a calibration standard made of nano-steps and the analyzed sample. Indeed, due to optical interference, a correlation exists between RGB (red, green, blue) parameters of the sample and its optical thickness. This leads to 3D-representation of the analyzed samples, the measurement of profile sections, roughness and other topological measurements.
+
+The experimental set-up is simple: the sample to be characterized is deposited by usual deposit techniques such as dip-coating, spin-coating, deposit pipette, evaporation... on a surf instead of the traditional microscope slide. The support is then placed on the microscope stage.
+
+The sarfus technique can be integrated in existing analysis equipment ( atomic force microscope (AFM), Raman spectroscopy , etc.) to add new functionalities, such as optical image, thickness measurement, kinetic study, and also for sample pre-localization to save time and consumables (AFM tips, etc.).
+
+Optical microscopy has several advantages compared to the usual techniques of nanocharacterization. It is easy-to-use and directly visualizes the sample. The analysis in real-time allows kinetic studies (real-time crystallization, dewetting, etc.). The broad choice of magnification (2.5 to 100x) allows fields of view from several mm to a few tens μm . Observations can be performed in controlled atmosphere and temperature.

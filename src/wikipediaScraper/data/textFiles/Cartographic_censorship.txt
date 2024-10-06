@@ -1,0 +1,49 @@
+Cartographic censorship is the  deliberate modification of publicly available maps in order to disguise, remove, or obfuscate potentially strategic locations or buildings, such as military bases , power plants or transmitters . Sensitive objects and places have been removed from maps since historic times, sometimes as a disinformation tactic in times of war, and also to serve competitive political and economic interests, such as during the Age of Discovery when strategic geographic information was highly sought after. In modern times requests for censorship are sent to Google Earth for certain sites that are deemed to pose security risks for national governments.
+
+The renowned map historian, J.B. Harley , wrote in 1989:
+
+Throughout the history of modern cartography in the West ... there have been numerous instances of where maps have been falsified, of where they have been censored or kept secret, or of where they have surreptitiously contradicted the rules of their proclaimed scientific status.
+
+The early policy of secrecy proved difficult to enforce and soon maps became subject to censorship and falsification.  Cartographic disinformation has long been a weapon in political propaganda, military counter-intelligence and covert diplomacy.
+
+Maps are weapons of war and the falsification of maps is a legitimate ruse de guerre . However, such Machiavellian arts were not confined to wartime, particularly in an age when there was very little peacetime. Fake maps were a weapon for all seasons, to be used against all rivals, political and commercial.
+
+In October 1941, before the United States entered World War II, President Franklin D. Roosevelt announced that he had "a secret map" of South America titled "Luftverkehrsnetz der Vereinigten Staaten Süd-Amerikas Hauptlinien". He said the map had been "made in Germany by Hitler's government" and that it showed that the Nazis had designs against the United States. It was a fake map, probably created by British intelligence agents, but Roosevelt may have thought it was genuine.
+
+In the Age of Discovery there was a premium on geographic information: ports of call for wood and fresh water, deep natural harbours, shorter passages and straits.
+
+Censorship of maps was also used in former East Germany , especially for the areas near the border to West Germany in order to make attempts of defection more difficult.
+
+The Dutch East India Company , or VOC, had a mission to censor cartographic knowledge of newly explored regions. It complained when ships owned by its rival, the Australische Compagnie, entered the Pacific by a new passage round Cape Horn , named the Le Maire Strait . The VOC persuaded the Dutch government to prohibit the publication of this latest geographical information. However, the injunction was lifted after twelve months and Willem Blaeu and other cartographers were permitted to publish revised maps.
+
+The German cartographer Henricus Martellus made his famous mappamundi (World Map), soon after the Portuguese navigator, Bartolomeu Dias , sailed round  the southern tip of Africa. The map is based on a Portuguese prototype (which has not survived), but the coast of southern Africa is greatly extended and dislocated. Some scholars have suggested that this distortion is a result of misinformation circulated by King John II . His purpose was to pretend that the new eastern sea route to Asia and was far longer than it actually is, in order to discourage foreign interlopers from profiting from Portuguese discoveries.
+
+Christopher Columbus may have consulted Martellus' map (or a copy) before leaving Spain in 1492 to find the western route to Asia.
+
+In 1765, the Swiss geographer Samuel Engel , accused the Russian government of deliberately falsifying maps by extending Siberia 30° eastward. Its purpose, according to Engel, was to exaggerate the length and difficulty of the Northeast Passage along the arctic coast, in the hope of discouraging rival European merchants from attempting this route to the Pacific and China.
+
+When Francis Drake sailed on his voyage round the world in 1577, he was given clear instructions that "none shall make any charts or descriptions of the said voyage." Furthermore, all charts made or captured from foreigners had to be delivered to the Lords of Her Majesty's Privy Council. Two hundred years later, the Admiralty 's instructions to Captain Cook were almost identical.
+
+The British Admiralty sent James Cook on his three Pacific voyages during the Second Hundred Years War when France and Britain were vying for commercial supremacy and control of shipping lanes around the world.
+
+Cook has been accused of making "major mistakes in his charting", such as depicting "Stewart Island as a peninsula, and the failure to determine the insular character of Tasmania".
+
+However, Cook was the greatest navigator of his day and too experienced to make such errors. During his three Pacific voyages, Cook was on a mission to keep secret any strategic discoveries he made such as off-shore islands and deep, natural harbours. He would report such prizes to the Admiralty when he returned to London, but meanwhile he would omit them from his journal and charts. Cook's program of disinformation was first proposed in the book Lying for the Admiralty: Captain Cook's Endeavour Voyage (2018).
+
+In 1770, Cook found Sydney Harbour by walking overland from Botany Bay , along an Aboriginal track connecting the two inlets. He also identified Bass Strait which separates Tasmania from mainland Australia. However, off-shore islands can provide a base from which operations could be mounted by a hostile power so he concealed Tasmania's insularity. Similarly, Cook depicted New Zealand's Stewart Island as a peninsula, concealing Foveaux Strait .
+
+Captain Cook's fake maps were not fake enough for the Admiralty. It wanted even greater concealment of politically sensitive discoveries when it commissioned Dr. Hawkesworth to write the official account of Cook's voyages. Thus the Admiralty's engraver  deliberately altered and refined Cook's manuscript charts when preparing them for printing. Hawkesworth's "Journals" was a bestseller in Europe, and the Admiralty's fake maps misled Britain's rivals for decades.
+
+In the United Kingdom, during the Cold War period and shortly after, a number of military installations (including " prohibited places ") did not appear on commercially issued Ordnance Survey mapping. This practice was effectively curtailed with the mass availability of satellite imagery. Another aspect of map censorship in the UK is that the internal layout of HM Prison facilities were not shown on public OS mapping.
+
+A variant of censorship of maps is putting in false altitudes. This can be important for predicting flooding . In World War I many German soldiers were killed in Belgium after their camps were flooded, even though the maps used by German military indicated the camp sites were not prone to flooding.
+
+Censorship of maps is today still often applied, although it is less effective in the age of satellite picture services. A "dead map" is a term often applied to sensitive government maps that show the location of top secret facilities and other highly sensitive installations within a country. Russia, the United States and Great Britain all have such maps.
+
+Google Earth censors places that may be of special security concern. The following is a selection of such concerns:
+
+Censorship of maps is also applied by Google Maps , where certain areas are greyed out or areas are purposely left outdated with old imagery.
+
+In Lebanon , all maps concerning the country are property of the Lebanese Army and are issued by the Directory of Geographic affairs of the Lebanese military. It is considered a felony to reproduce whole or portions of maps without the permission of the military, although maps can be issued to certain universities and urban design schools for use by students and can be issued to civilian upon presenting certain documents. A notice is written on the maps prohibiting reproduction, copying or sale of the map and that it should be returned to the Ministry of National Defense upon request. This policy is meant to prohibit terrorists, outlaws, and entities that are at war with Lebanon from obtaining those maps.
+
+Lists of air traffic obstacles may not be published by many countries as many of them are strategically important (chimneys of power stations, radio masts, etc.)

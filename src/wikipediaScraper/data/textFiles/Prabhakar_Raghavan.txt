@@ -1,0 +1,21 @@
+Prabhakar Raghavan is a business executive and former researcher of web information retrieval . He is a senior vice president at Google , where he is responsible for Google Search , Assistant, Geo, Ads, Commerce, and Payments products. His research spans algorithms, web search and databases. He is the co-author of the textbooks Randomized Algorithms with Rajeev Motwani and Introduction to Information Retrieval .
+
+Prabhakar spent his youth in Bhopal , Madras and Manchester . In 1981, he earned a bachelor degree in electrical engineering from the Indian Institute of Technology Madras , followed by a Master of Science in electrical and computer engineering from the University of California, Santa Barbara in 1982.
+
+Prabhakar continued his education at the University of California, Berkeley , where he earned a Ph.D. in computer science in 1986.
+
+After completing his doctorate, Prabhakar worked in various research positions at IBM . He began as a research staff member at the Thomas J. Watson Research Center . In 1994, he was promoted to manager of theory of computing. A year later, he relocated to the Almaden center in Silicon Valley to become the senior manager of the computer science principles and methodologies department of IBM Research until 2000. His research group focused on algorithms, complexity theory , cryptography , text mining, and other fields. While working for IBM in the late 1990s, he was also a consulting professor at Stanford University .
+
+Raghavan's research team at Stanford co-existed with another researching search engines that included students Larry Page and Sergey Brin , who later founded Google .
+
+After working 14 years at IBM, he became senior vice president and chief technology officer at enterprise search vendor Verity in 2004. In July 2005, he was hired by Yahoo! to lead Yahoo! Research in Sunnyvale , California. At Yahoo!, worked on research projects including search and advertising . In 2011, he was appointed as Yahoo!'s chief strategy officer by CEO Carol Bartz , who replaced the co-founder Jerry Yang in 2009 and was fired in 2011 as the company declined.
+
+In 2012, Prabhakar joined Google after severe funding cuts in Yahoo!'s research division. In 2020 he was Head of Ads at Google and took over the role of Head of Search from Ben Gomes , amid a push to increase advertising revenue from Google Search .
+
+Prabhakar is a member of the National Academy of Engineering and a Fellow of both the Association for Computing Machinery and the Institute of Electrical and Electronics Engineers (IEEE). From 2003 to 2009, Prabhakar was the editor-in-chief of Journal of the ACM .
+
+In 1986, Prabhakar received the Machtey Award for Best Student Paper. In 2000, he was named a fellow of the IEEE; received the Best Paper Award at the ACM Symposium on Principles of Database Systems; and received the Best Paper Award at the Ninth International World Wide Web Conference (WWW9). In 2002, Prabhakar was named a fellow of the ACM. He received the 2006 Distinguished Alumnus Award, UC Berkeley Division of Computer Science. In 2008, Prabhakar was made a member of the National Academy of Engineering, and in 2009, he was awarded a Laurea honoris causa from the University of Bologna . In 2012, he was named a Distinguished Alumnus by the IIT Madras . In 2017, Prabhakar and co-authors received the Seoul test of time award for their 2000 paper “Graph Structure in the Web” at the WWW conference.
+
+In 2024, Raghavan became the face of declining quality at Google for his  takeover of Google search and subsequent focus on ad revenue in the prioritization of search results.
+
+Google-internal documents show that in 2019, there was growing concern by long-time Googlers, most notably Ben Gomes, that Search was at risk of focusing on short-term revenue increases ("growth") over results quality. Gomes, then head of search, began a campaign to push back against pressure for "growth" by the Ads team. Soon thereafter, Google leadership removed Gomes as head of search, replacing him with the head of the Ads team, Raghavan. In the time since Raghavan's takeover of Google Search, its reputation for high quality has suffered, seemingly for the first time in Google's history.

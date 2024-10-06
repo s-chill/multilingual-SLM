@@ -1,0 +1,20 @@
+International Certification of Digital Literacy ( ICDL ), formerly known as European Computer Driving Licence ( ECDL ), is a computer literacy certification program provided by ECDL Foundation, a not-for-profit organisation.
+The ICDL / ECDL certification is a globally recognised information and communication technology (ICT) and digital literacy qualification.
+
+In 1995 the ECDL certification programme was developed through a task force of the Council of European Professional Informatics Societies (CEPIS) and was recommended by the European Commission High Level Group, ESDIS, to be a Europe-wide certification scheme. The task force compared several national certification schemes and chose the CDL from Finland as the basis for piloting and later adoption into the ECDL.
+
+Though the ICDL does not refer to Microsoft or its Office software suite by name in the official course syllabus, training occurs almost exclusively with Microsoft's products as they are ubiquitous in the business world. Users can also be introduced to Google Applications.
+
+For the Base certificate, there are no pre-requisites regarding computer use.
+
+The ICDL Base certificate comprises all four of these modules:
+
+The ICDL Standard certificate involves the aforementioned Base module, and three of the following modules:
+
+The ICDL Advanced certificate comprises one of the following modules; the ICDL Expert certificate three of the following modules:
+
+In order to take the tests, a candidate buys an ECDL Skills Card, which usually is issued electronically and serves as a login to the testing platform. To prepare for a module test, the candidate may use ECDL diagnostic tests. Testing is done using software which simulates the Windows/Microsoft Office environment. The candidate's mouse movements and keystrokes are monitored and the result of the test is reported immediately after the test is completed.
+
+The ICDL certificates are seen as valuable in business/government administration – as they save the time to evaluate an applicant's computer skills.
+
+In professions like publishing, graphic and web design , science or information technology, a completed ICDL course is not a desired quality however as the work requires specialist skills and experience with other software.

@@ -1,0 +1,21 @@
+Statistical multiplexing is a type of communication link sharing, very similar to dynamic bandwidth allocation (DBA). In statistical multiplexing, a communication channel is divided into an arbitrary number of variable bitrate digital channels or data streams. The link sharing is adapted to the instantaneous traffic demands of the data streams that are transferred over each channel. This is an alternative to creating a fixed sharing of a link, such as in general time division multiplexing (TDM) and frequency division multiplexing (FDM). When performed correctly, statistical multiplexing can provide a link utilization improvement, called the statistical multiplexing gain .
+
+Statistical multiplexing is facilitated through packet mode or packet-oriented communication, which among others is utilized in packet switched computer networks . Each stream is divided into packets that normally are delivered asynchronously in a first-come first-served fashion. In alternative fashion, the packets may be delivered according to some scheduling discipline for fair queuing or differentiated and/or guaranteed quality of service.
+
+Statistical multiplexing of an analog channel, for example a wireless channel, is also facilitated through the following schemes:
+
+Statistical multiplexing normally implies "on-demand" service rather than one that preallocates resources for each data stream. Statistical multiplexing schemes do not control user data transmissions.
+
+Time domain statistical multiplexing (packet mode communication) is similar to time-division multiplexing (TDM), except that, rather than assigning a data stream to the same recurrent time slot in every TDM , each data stream is assigned time slots (of fixed length) or data frames (of variable lengths) that often appear to be scheduled in a randomized order, and experience varying delay (while the delay is fixed in TDM).
+
+Statistical multiplexing allows the bandwidth to be divided arbitrarily among a variable number of channels (while the number of channels and the channel data rate are fixed in TDM).
+
+Statistical multiplexing ensures that slots will not be wasted (whereas TDM can waste slots). The transmission capacity of the link will be shared by only those users who have packets.
+
+Static TDM and other circuit switching is carried out at the physical layer in the OSI model and TCP/IP model , while statistical multiplexing is carried out at the data link layer and above.
+
+In statistical multiplexing, each packet or frame contains a channel/data stream identification number, or (in the case of datagram communication) complete destination address information.
+
+Examples of statistical multiplexing are:
+
+In digital audio and video broadcasting, for example, a statistical multiplexer is a content aggregating device that allows broadcasters to provide the greatest number of audio or video services for a given bandwidth by sharing a pool of fixed bandwidth among multiple services or streams of varying bitrates. The multiplexer allocates to each service the bandwidth required for its real-time needs so that services with complex scenes receive more bandwidth than services with less complex ones. This bandwidth sharing technique produces the best video quality at the lowest possible aggregate bandwidth.

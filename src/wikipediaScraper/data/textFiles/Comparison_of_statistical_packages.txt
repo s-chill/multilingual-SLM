@@ -1,0 +1,9 @@
+The following tables compare general and technical information for a number of statistical analysis packages.
+
+Support for various ANOVA methods
+
+Support for various regression methods.
+
+Support for various time series analysis methods.
+
+Support for various statistical charts and diagrams .

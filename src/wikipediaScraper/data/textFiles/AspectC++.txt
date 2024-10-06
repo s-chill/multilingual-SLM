@@ -1,0 +1,19 @@
+AspectC++ is an aspect-oriented extension of C and C++ languages. It has a source-to-source compiler , which translates AspectC++ source code into compilable C++. The compiler is available under the GNU GPL , though some extensions specific to Microsoft Windows are only available through pure-systems GmbH.
+
+Aspect-oriented programming allows modularizing cross-cutting concerns in a single module , an aspect .
+Aspects can modify existing classes , but most commonly they provide 'advice' that runs before, after, or around
+existing functionality.
+
+All calls to a specific function can be traced using an aspect, rather than inserting 'cerr' or print statements in many places:
+
+The Tracer aspect will print out a message before any call to %Iter::Reset .  The %Iter syntax
+means that it will match all classes that end in Iter.
+
+Each 'matched' location in the source code is called a join point —the advice is joined to (or advises) that code.
+AspectC++ provides a join point API to provide and access to information about the join point.  For example, the function:
+
+returns the name of the function (that matched %Iter::Reset ) that is about to be called.
+
+The join point API also provides compile-time type information that can be used within an
+aspect to access the type or the value of the arguments and the return type and return value of a
+method or function.

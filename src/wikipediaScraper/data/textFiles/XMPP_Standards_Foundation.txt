@@ -1,0 +1,17 @@
+XMPP Standards Foundation ( XSF ) is the foundation in charge of the standardization of the protocol extensions of XMPP , the open standard of instant messaging and presence of the IETF .
+
+The XSF was originally called the Jabber Software Foundation (JSF). The Jabber Software Foundation was originally established to provide an independent, non-profit, legal entity to support the development community around Jabber technologies (and later XMPP). Originally its main focus was on developing JOSL, the Jabber Open Source License (since deprecated), and an open standards process for documenting the protocols used in the Jabber/XMPP developer community. Its founders included Michael Bauer and Peter Saint-Andre .
+
+Members of the XSF vote on acceptance of new members, a technical Council, and a Board of Directors. However, membership is not required to publish, view, or comment on the standards that it promulgates. The unit of work at the XSF is the XMPP Extension Protocol (XEP); XEP-0001 specifies the process for XEPs to be accepted by the community. Most of the work of the XSF takes place on the XMPP Extension Discussion List, the jdev and the xsf chat room .
+
+The Board of Directors of the XMPP Standards Foundation oversees the business affairs of the organization. As elected by the XSF membership, the Board of Directors for 2020-2021 consists of the following individuals:
+
+The XMPP Council is the technical steering group that approves XMPP Extension Protocols, as governed by the XSF Bylaws and XEP-0001 . The Council is elected by the members of the XMPP Standards Foundation each year in September. The XMPP Council (2020–2021) consists of the following individuals:
+
+There are currently 66 elected members of the XSF.
+
+The following individuals are emeritus members of the XMPP Standards Foundation:
+
+One of the most important outputs of the XSF is a series of "XEPs", or XMPP Extension Protocols, auxiliary protocols defining additional features. Some have chosen to pronounce "XEP" as if it were spelled "JEP", rather than "ZEP", in order to keep with a sense of tradition. Some XEPs of note include:
+
+The XSF biannually holds a XMPP Summit where software and protocol developers from all around the world meet and share ideas and discuss topics around the XMPP protocol and the XEPs. In winter it takes place around the FOSDEM event in Brussels, Belgium and in summer it takes place around the RealtimeConf event in Portland, USA. These meetings are open to anyone and focus on discussing both technical and non-technical issues that the XSF members wish to discuss with no costs attached for the participants. However the XSF is open to donations. The first XMPP Summit took place on July 24 and 25, 2006, in Portland.

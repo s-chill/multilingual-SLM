@@ -1,0 +1,7 @@
+The International Conference on Computer-Aided Design ( ICCAD ) is a yearly conference about electronic design automation . From the start in 1982 until 2014 the conference was held in San Jose, California . It is sponsored by the IEEE Circuits and Systems Society , Computer-Aided Design Technical Committee (CANDE), the IEEE Council on Electronic Design Automation (CEDA), and SIGDA , and in cooperation with the IEEE Electron Devices Society and the IEEE Solid State Circuits Society.
+
+Unlike the Design Automation Conference , Design Automation and Test in Europe (DATE), and Asia and South Pacific Design Automation Conference (ASP-DAC), ICCAD is primarily a technical conference, with only a small trade show component.
+
+The ICCAD Scholar Program assists students who lack other support opportunities to attend ICCAD conferences to participate in activities such as:
+
+Since 2012, the CAD Contest at ICCAD has been research and development competition, focusing on advanced, real-world problems in the field of Electronic Design Automation (EDA).

@@ -1,0 +1,65 @@
+pax is an archiving utility available for various operating systems and defined since 1995. Rather than sort out the incompatible options that have crept up between tar and cpio , along with their implementations across various versions of Unix , the IEEE designed a new archive utility pax that could support various archive formats with useful options from both archivers. The pax command is available on Unix and Unix-like operating systems and on IBM i , and Microsoft Windows NT until Windows 2000 .
+
+In 2001, IEEE defined a new pax format which is basically tar with additional extended attributes. The format is not supported by pax commands in most Linux distributions and in FreeBSD, but it is supported by tar commands from GNU and FreeBSD; the format is further supported by pax commands in AIX, Solaris and HP-UX.
+
+The name "pax" is an acronym for portable archive exchange , but is also an allusion to the Latin word for "peace"; the command invocation and structure represents somewhat of a peaceful unification of both tar and cpio .
+
+The first public implementation of pax was written by Mark H. Colburn in 1989. Colburn posted it to comp.sources.unix as Usenix/IEEE POSIX replacement for TAR and CPIO . Manual pages for pax on HP-UX , IRIX , and SCO UNIX attribute pax to Colburn.
+
+As early as POSIX.2 draft 10 from July 1990 covers pax command. Furthermore, POSIX.2 and IEEE 1003.1b drafts in 1991 cover pax command, featuring cpio and ustar archive formats.
+
+Another version of the pax program was created by Keith Muller in 1992–1993. The version first appeared in 4.4BSD (1995). Pax command appeared in X/Open issue 4 ( Single Unix Specification version 1) in 1995, featuring cpio and ustar archive formats, which were also the only two formats featuring in the 1997 Single Unix Specification.
+
+In 1997, Sun Microsystems proposed a method for adding extensions to the ustar format. This method was accepted for the POSIX.1-2001 standard as the new pax file format. The POSIX specification for the pax utility was updated to include this format.
+
+pax has four general modes that are invoked by a combination of the -r ("read") and -w ("write") options.
+
+This table summarizes the modal behaviour:
+
+This model is similar to cpio, which has a similar set of basic operations.
+
+List contents of an archive:
+
+Extract contents of an archive into the current directory:
+
+Create an archive of the current directory:
+
+Copy current directory tree to another location:
+
+(The target directory must exist beforehand!)
+
+By default, pax uses the standard input/output for archive and listing operations. This can be changed with the "tar-style" option -f that specifies the archive file. Pax differs from cpio by recursively considering the content of a directory; to disable this behavior, POSIX pax has an option -d to disable it.
+
+The pax command is a mish-mash of cpio and tar features. Like tar , pax processes directory entries recursively, a feature that can be disabled with -d for cpio-style behavior. The handling of file input/outputs is also a mix: when a list of file names is specified on the command line, they are taken as shell globs for file input or listing (tar-like); otherwise pax takes the cpio -style behavior of using the standard input for a file list. Finally, pax supports reading/writing to a named archive file using tar's -f FILE option.
+
+For example, if one desires a cpio-style archiving of the current directory, pax can be used with find just like one does using cpio:
+
+(This construct is pointless without any filters for find , as it becomes identical to the above example.)
+
+The command for extracting the contents for an archive is the same as cpio :
+
+It is possible to invoke these commands in a tar -like syntax as well:
+
+Most implementations of pax use the -z ( gzip ) and -j ( bzip2 ) switches for compression; this feature however, is not specified by POSIX. It is important to note that pax cannot append to compressed archives. Example for extracting a gzipped archive:
+
+As in tar and cpio, pax output can be piped to another compressor/decompressor program. As an example xz is used here:
+
+and listing an xz-compressed archive as the input:
+
+POSIX.1-2001 requires that pax command supports the archive formats cpio, ustar and pax at a minimum.
+
+The versions of pax command that stem from the 4.4BSD implementation usually inherit the formats supported by that version, selectable via the -x option:
+
+The POSIX.1-2001 pax format is not supported by this BSD version of pax command. The format is not supported on most Linux distributions (whose pax command is from the MirBSD branch of MirCPIO-paxmirabilis ) and on FreeBSD . The format is supported by pax command in AIX, Solaris and HP-UX. It is further supported by Python tarfile module, by BSD-licensed libarchive, by 7-ZIP and further by GNU tar and FreeBSD tar. The Heirloom Project pax command, developed by Gunnar Ritter in 2003, supports the pax format as well as many extra formats.
+
+pax supports archiving on multiple volumes. When the end of a volume is reached, the following message appears:
+
+When restoring an archive from multiple media, pax asks for the next media in the same fashion, when the end of the media is reached before the end of the archive.
+
+Despite being standardized in 2001 by IEEE, as of 2010, pax enjoys relatively little popularity or adoption. This is in part because there was not any need for it from the Unix users; it was just the POSIX committee that wants to have a more consistent interface. Pax is also fairly chatty and expects user interactions when things go wrong.
+
+pax is required to be present in all conformant systems by Linux Standard Base since version 3.0 (released on July 6, 2005), but so far few Linux distributions ship and install it by default. However, most distributions include pax as a separately installable package.
+
+pax has also been present in Windows NT , where it is limited to file archives (tapes not supported). It was later moved to the Interix subsystem. It does not support archiving or restoring Win32 ACLs . pax was further present in Windows 2000.
+
+Packages handled by the Installer (macOS) often carry the bulk of their contents in an Archive.pax.gz file that may be read using the system's pax (heirloom) utility.

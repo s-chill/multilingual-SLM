@@ -1,0 +1,7 @@
+This article lists DVD ripper software capable of ripping and converting DVD discs, ISO image files or DVD folders to computer, mobile handsets and media players supported file formats.
+
+Note: Applications with a purple background are no longer in development.
+
+This table lists the operating systems compatibility
+
+Note: As at 2009-12-10 much of the data below is based on available wiki-pages, official website pages & some limited user experience (i.e. where this table reads 'Yes' OR 'No', may be true OR may in fact need to read 'Partial', or 'Obsolete' as many encryption methods may change over time.)

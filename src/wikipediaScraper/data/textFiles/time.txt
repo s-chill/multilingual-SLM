@@ -1,0 +1,31 @@
+In computing , time is a command in Unix and Unix-like operating systems. It is used to determine the duration of execution of a particular command .
+
+time(1) can exist as a standalone program (such as GNU time) or as a shell builtin in most cases (e.g. in sh , bash , tcsh or in zsh ).
+
+The total CPU time is the combination of the amount of time the CPU or CPUs spent performing some action for a program and the amount of time they spent performing system calls for the kernel on the program's behalf. When a program loops through an array, it is accumulating user CPU time. Conversely, when a program executes a system call such as exec or fork , it is accumulating system CPU time.
+
+The term "real time" in this context refers to elapsed wall-clock time , like using a stop watch. The total CPU time (user time + sys time) may be more or less than that value. Because a program may spend some time waiting and not executing at all (whether in user mode or system mode) the real time may be greater than the total CPU time. Because a program may fork children whose CPU times (both user and sys) are added to the values reported by the time command, but on a multicore system these tasks are run in parallel, the total CPU time may be greater than the real time.
+
+To use the command, simply precede any command by the word time , such as:
+
+When the command completes, time will report how long it took to execute the ls command in terms of user CPU time , system CPU time, and real time. The output format varies between different versions of the command, and some give additional statistics, as in this example:
+
+time (either a standalone program, or when Bash shell is running in POSIX mode AND time is invoked as time -p ) reports to standard error output.
+
+Portable scripts should use time -p mode, which uses a different output format, but which is consistent with various implementations:
+
+Current versions of GNU time, report more than just a time by default:
+
+Format of the output for GNU time, can be adjusted using TIME environment variable, and it can include information other than the execution time (i.e. memory usage). This behavior is not available in general POSIX -compliant time, or when executing as time -p .
+
+Documentation of this time can be usually accessed using man 1 time .
+
+According to the source code of the GNU implementation of time , most information shown by time is derived from the wait3 system call. On systems that do not have a wait3 call that returns status information, the times system call is used instead.
+
+In a popular Unix shell Bash , time is a special keyword, that can be put before a pipeline (or single command), that measures time of entire pipeline, not just a singular (first) command, and uses a different default format, and puts empty line before reporting times:
+
+The reported time is a time used by both seq and wc -l added up. Format of the output can be adjusted using TIMEFORMAT variable.
+
+The time is not a builtin, but a special keyword, and can't be treated as a function or command. It also ignores pipeline redirections (even when executed as time -p , unless entire Bash is run in "POSIX mode").
+
+Documentation of this time can be accessed using man 1 bash , or within bash itself using help time .

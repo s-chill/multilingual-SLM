@@ -1,0 +1,5 @@
+Effective Perl Programming , sometimes known as the Shiny Ball Book by Perl programmers , is an intermediate to advanced text by Joseph N. Hall covering the Perl programming language . Randal L. Schwartz contributed a foreword and technical editing.
+
+Effective Perl Programming follows the numbered "rules" format begun in Scott Meyers ' Effective C++ . A small number of errors were corrected in the 2nd and 4th printings.
+
+An expanded second edition ( ISBN 0321496949 ), Effective Perl Programming: Ways to Write Better, More Idiomatic Perl, 2/E . by Hall, Joshua A McAdams, and brian d foy was published in 2010 by Pearson.

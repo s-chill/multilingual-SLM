@@ -1,0 +1,117 @@
+SpringBoard is the standard application that manages the iPhone 's home screen. Other tasks include starting WindowServer, launching and bootstrapping applications, and setting some of the device's settings on startup.
+
+Android's equivalent of iOS' SpringBoard would be a Launcher, offering similar functionalities.
+
+In 2008, with Apple's release of iPhone OS 1.1.3 and the January App Pack, the SpringBoard underwent some substantial changes. Holding a finger on any application for a few seconds causes all of the icons to wiggle. From this view, you can rearrange your icons, delete web apps and web clips, and create multiple pages by dragging an application to the side of the screen. If the Home button is pressed, the icons will stop wiggling and apps can be opened again.
+
+In July 2008, third-party applications were introduced with iPhone OS 2.0. These applications are installed through the App Store and deleted with the traditional "wiggle mode" method.
+
+In June 2009, in iPhone OS 3 , Spotlight Search was added to the SpringBoard. This allowed the user to search for applications and other files stored in the iPhone.
+
+In June 2010, in iOS 4 , home screen wallpapers were introduced to the SpringBoard. Folders were introduced as well: dragging an application on top of another application while in "wiggle mode" will result in a folder being created. After that, more applications may be added to that folder by dragging an application on top of the folder. Applications can be removed from a folder by simply dragging it out into the main home screen. Folders can be removed by removing every application from the folder.
+
+In June 2013, in iOS 7 , a brand new design of the home screen was introduced, including the redesigned icons, status bar, and dock. Spotlight Search can only be accessed in a new way.
+
+In June 2016, iOS 10 was revealed in WWDC 16, where some of the pre-installed apps are allowed to be "deleted", where they are actually hidden from the home screen rather than actually be uninstalled. On jailbroken devices , unsigned applications (applications installed through Cydia ) cannot be deleted by the traditional method of holding a finger on the application and selecting delete as they are installed as System applications. Instead, they need to be removed through Cydia, unless CyDelete is installed, allowing that method to be used.
+
+In June 2017, with the announcement of iOS 11 , several app icons have been redesigned, such as the App Store and the iTunes Store. In September, iPhone X was introduced, coming with a new gesture to access the home screen by swiping up the "Home Indicator" rather than clicking the home button.
+
+In June 2019, when Dark Mode was first coming to iPhone with iOS 13 , the home screen gained new contextual menus and dark appearance as well as a dark version of wallpaper (dimmed version of photo if system wallpapers aren't being used). In the same year iOS on the iPad was separated as " iPadOS ".
+
+In June 2020, iOS 14 was announced with some big changes to the SpringBoard. Widgets were added along with what Apple called the App Library. With the addition of an app library, users are now able to remove apps from their Home Screen without actually uninstalling them, which was impossible in prior versions of iOS.
+
+In June 2021, iOS 15 allowed users to move and manage home screen pages.
+
+In June 2022, with iOS 16 , a new continuous wallpaper can be applied to the home screen.
+
+Researchers found that on mobile devices users organize icons on their SpringBoards mainly based on usage-frequency and relatedness of the applications, as well as for reasons of usability and aesthetics.
+
+In June 2008, Spotlight Search was added to SpringBoard. It can be accessed by swiping left from the first page of the Home Screen.
+
+In June 2013, in iOS 7 , instead of swiping left on the first page of apps, Spotlight Search can only be accessed by swiping down on the home screen.
+
+In June 2015, with the announcement of iOS 9 , swiping left to access Spotlight Search was re-enabled on certain models, coming along with some new features like Siri Suggestions. This re-enablement was only supported on iOS devices with an A6 Chip or later, which means that on A5 / A5X devices like iPhone 4S , iPod Touch 5 and iPad 3 , Spotlight Search can still only be accessed by swiping down on the home screen.
+
+In June 2016, however, in iOS 10 , you can open Today View by swiping left, instead of the traditional Spotlight Search suggestions, which can still be accessed by swiping down from the home screen. Also, Spotlight Search can be accessed through the search bar in Notification Center.
+
+In June 2022, with iOS 16 , you can also access Spotlight by clicking the "Search Button".
+
+Before 2012, all iOS devices (for iPad , it should be in portrait position) have the home screen icon layout of 4(columns) x 5(rows) (same for contents below), excluding the dock (same for contents below). The layout on an iPad in landscape position will appear to be 6 x 4.
+
+In 2012, with the introduction of the iPhone 5 , the screen icon layout was changed to 4x6 since the screen has become longer (from an aspect ratio of 3:4 to 9:16). The layout on an iPad hasn't changed.
+
+In September 2014, the iPhone 6 Plus first brought the landscape home screen to iPhones.
+
+In September 2017, the iPhone 8 Plus was released. Despite iOS versions, iPhone 8 Plus is the last iPhone that still supports a landscape home screen in present. (After June 2022, iPhone 8 Plus is the only 5.5-inch device supported for iOS 16 , making it the only usable model to support this feature. However, iOS 17 no longer supports iPhone 8 Plus specifically, making it the last Plus model iPhone to have a landscape home screen.)
+
+In the same "Apple Special Event", iPhone X was released with an even more "Long" aspect ratio of 9:19.5 (1125 x 2436). However, the app layout was still 4x6.
+
+In 2019, with iPadOS 13 , users could choose a more compact home screen. In the new compact home screen, icons could be displayed in a layout of 6x5 in both portrait and landscape modes.
+
+In 2020, with iOS 14 , widgets could be put on the home screen of the iPhone.
+
+In 2021, with iPadOS 15 , widgets could be put on the iPad home screen as well. Hence, the new compact home screen was changed. If no widgets were placed on the home screen, the layout would be 5x6 for portrait, and 6 x 5 for landscape. If there was a widget, even with the smallest size, the layout would be 4x6 for portrait, and 6x4 for landscape. Due to the increased freedom and complexity of the new home screen on iPad , this is just a rough listing of facts.
+
+In 2010, multitasking was introduced with iOS 4 . By double-clicking the home button, the screen would lift up to free up the space for a multitask drawer. In this drawer, all the running apps, excluding the app currently running, would show up as an icon. Long pressing one could trigger the "wiggle mode" with a little "-" button on the top-right corner of every icon. Tapping the "-" button would close the app.
+
+In June 2013 with iOS 7 , the multitasking view was redesigned. By double-clicking the home button, the multitasking view appeared as cards. Each card listing from left to right, under which lies the icon with its app name, was a screenshot of the corresponding app. Besides, on the most left place, there was a screenshot of the home screen as well. Swipe the corresponding card up can close an app.
+
+In June 2014 with iOS 8 , quick actions to contacts were added to the multitasking view. When entering multitasking, contact avatars appeared at the very top of the list of cards. By clicking them you could get to further actions, like FaceTime , Messages, and Phone Call.
+
+In June 2015 with iOS 9 , the multitasking view was redesigned and the quick action to contacts was removed. The cards lifted on top of each other from left to right with the icon and app name on top of it. In the very right position of the list is the view of the home screen.
+
+In June 2017 with iOS 11 , the home screen view no longer appeared in the multitasking view. After iOS 11 Developer Beta 3, if all apps were closed, SpringBoard would directly display the home screen. In previous versions of iOS 11 Developer Beta, there will be a Gaussian Blur effect over the home screen, where clicking the home button is required in order to return to the home screen. Before iOS 11 (and after iOS 7 ), the screenshot of the home screen would stay and, in the same way, clicking the home button could return home as well.
+
+Before iOS 11 (and after iOS 7 ), multitasking on an iPad could only be accessed by double-clicking the home button or swiping up with five fingers (if enabled in settings). In iOS 11 on iPad, a single swiping up from the bottom of the screen would bring up a newly designed dock. By continue swiping, a new "grid-like" multitasking view would appear, along with the redesigned Control Center . You could still double-click the home button or swipe up with five fingers to access it on an iPad. In fact, iOS 11 on the iPad was the only iOS version where Control Center and Multitasking were merged.
+
+Since September 2017 with iPhone X , multitasking could be accessed by swiping up the Home Indicator and pausing for a little while.
+
+In June 2018, Control Center was removed from the Multitasking view in iOS 12 on the iPad .
+
+In iPad Pro 2018 , the home button was removed. Therefore, the previous double-clicking home button process to access Multitask view was replaced with a process that involves swiping up from the Home Indicator.
+
+In December 2018, iOS 12.1.2 was released to the public with a new closing animation in the multitasking view. The previous animation, where screenshots simply move all the way up to disappear, was said to violate the patent claims in China. The new animation is that the screenshot slides up a little and fades away in the meantime. This feature is only introduced to users in China. The animation was brought back again with iOS 12.3 Beta 3.
+
+In 2021, with iPadOS 15 , a multitasking menu appears at the top of apps in iPads, letting users enter Split View or Slide Over more easily.
+
+In 2022, with iPadOS 16 , Stage Manager (only available on select iPads) gives iPad users access to a multi-window view for multitasking.
+
+Since 2019, native icons (for instance, tab bar icons) are replaced by SF Symbols.
+
+The layout of the SpringBoard is in a property list file /var/mobile/Library/SpringBoard/IconState.plist .
+
+In iPhone OS/iOS versions before 1.1.3, jailbreaking patched the SpringBoard for displaying third-party applications.
+
+In iPhone OS/iOS versions 1.1.3 and beyond, patching is no longer required as SpringBoard natively renders third-party icons. Jailbroken applications are however stored in /Applications, instead of Apple's native third-party application folder of /var/mobile/Applications.
+
+The SpringBoard on jailbroken devices can be customized with themes or skins . These can be applied through theming "platforms" such as WinterBoard ( iOS 2 – iOS 9 ), Anemone ( iOS 7 – iOS 11 ), the more recent SnowBoard ( iOS 11 – iOS 14.3 ) and iThemer ( iOS 11 – iOS 12 ). All of these theming "engines" can be installed via third-party package managers on jailbroken devices such as Cydia , Sileo, Zebra, and Installer 5 . Applications and user interface elements of SpringBoard can be manually themed but most users choose to use these theming platforms as they are more stable, straightforward, and offer features such as the ability to easily enable/disable themes seamlessly whenever the user chooses. Cydia can be installed via third-party jailbreaking software such as the more recent applications unc0ver ( iOS 11 – iOS 14 ), Checkra1n for A7-A11 [Is in beta, iOS 12 – iOS 14 100% supported, other, newer, versions work but are experimental], Chimera for A12 ( iOS 12 , Sileo as the default package manager instead of Cydia), Chimera's predecessor and successor Electra ( iOS 11 ), and Cheyote (unreleased).
+
+Themes can have a variety of changes to the appearance of SpringBoard, mainly on the homescreen icon appearance. However themes also change elements of the user interface such as the dock, folder backgrounds and icons inside settings.
+
+The default SpringBoard can be changed with tweaks like FrontPage.
+
+A bug was discovered in May 2015 where users pasted a certain set of characters and Unicode in a set order, causing the SpringBoard to crash and relaunch, which displays a black or white screen and white or black Apple logo (depending on the user's device) that looks identical to the boot screen. The phenomenon was later narrowed down to it only happening when the message was shown via the notification drop-down or the lock screen ; the bug thus could be mitigated by disabling this. If the message is unread and the victim opens the iMessage app or any other app that received the message then that app would crash.
+
+The code most commonly used to trigger the bug was:
+
+effective. Power لُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ 冗
+
+The "effective." section was not required for the bug to work. The bug affected iPhones , the Apple Watch and iPod Touch , Mac computers and iPads .
+
+With the release of iOS 8.4 on June 30, 2015, the "effective. Power" bug has been fixed.
+
+Since the release of iOS 11, some users were complaining about random reboots on their iPhone or iPod Touch caused by the clock reaching 12:15 am every night. This issue was fixed with the release of the iOS 11.2 update.
+
+Shortly after the release of iOS 11 a bug ( CVE - 2018-4124 ) was discovered that would cause the SpringBoard to crash and relaunch, which displays a black or white screen and white or black Apple logo (depending on the user's device) that looks identical to the boot screen. This happens due to an issue with the CoreText component. Viewing the character on devices running iOS 11 – iOS 11 .3 causes a denial of service due to memory corruption.
+
+The character was:
+
+జ్ఞ‌ా
+
+Apple later patched this bug with the release of iOS 11 .2.6. The reason why an iPhone crashes is because the font that iPhones use does not support the character.
+
+As of iOS 4.3.3, SpringBoard looks for applications in the /Applications and /var/mobile/Applications directories of the iPhone's filesystem to display on the home screen.
+
+Mac OS X Lion and later versions include a feature called 'Launchpad", based on the appearance of SpringBoard in iOS. It includes the same features (like folders), but was not made as the home screen, more as an extension on the dock (like Dashboard ).
+
+Before the Developer Preview of Mac OS X Lion , SpringBoard was renamed Launchpad. Even though the name displayed in the dock remains the same, the images used to make up Launchpad are still named "SpringBoard" (or "sb"), and can be found in /System/Library/CoreServices/Dock.app/Contents/Resources .

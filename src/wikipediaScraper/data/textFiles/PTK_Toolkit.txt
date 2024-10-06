@@ -1,0 +1,5 @@
+PTK is a 2D rendering engine and SDK developed by Phelios, Inc., that allows computer programmers create downloadable games in C++ that are portable to Microsoft Windows and Mac OS X . It is currently used by about 60 downloadable games It is mainly known for powering breakaway casual hits from funpause and Big Fish Games , such as Azada , Atlantis, Atlantis Sky Patrol , Mystic Inn and Fairies.
+
+PTK was designed for programmers to enjoy basic -like ease of programming using the C++ . It abstracts rendering, input and I/O and removes the need for directly setting up complex renderers such as DirectX or OpenGL .
+
+PTK uses a "2D in 3D" paradigm. While it is a 2D engine, it uses 3D acceleration for rendering, enabling very good, bicubic filtered rendering of scaled, rotated sprites and per-pixel alpha blending at no expense of computing time. A game such as Mystic Inn make extensive use of PTK's rendering capabilities.

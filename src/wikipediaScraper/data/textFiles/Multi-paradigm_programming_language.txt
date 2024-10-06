@@ -1,0 +1,3 @@
+Programming languages can be grouped by the number and types of paradigms supported.
+
+A concise reference for the programming paradigms listed in this article.

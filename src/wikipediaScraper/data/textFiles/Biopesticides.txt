@@ -1,0 +1,37 @@
+A Biopesticide is a biological substance or organism that damages, kills, or repels organisms seens as pests. Biological pest management intervention involves predatory, parasitic, or chemical relationships.
+
+They are obtained from organisms including plants , bacteria and other microbes , fungi , nematodes , etc . They are components of integrated pest management (IPM) programmes, and have received much practical attention as substitutes to synthetic chemical plant protection products (PPPs).
+
+Regulatory positions can be influenced by public perceptions, thus:
+
+Biopesticides usually have no known function in photosynthesis, growth or other basic aspects of plant physiology. Many chemical compounds produced by plants protect them from pests ; they are called antifeedants . These materials are biodegradable and renewable, which can be economical for practical use. Organic farming systems embraces this approach to pest control.
+
+Biopesticides can be classified thusly:
+
+RNA interference is under study for use in spray-on insecticides ( RNAi insecticides ) by companies including Syngenta and Bayer . Such sprays do not modify the genome of the target plant. The RNA can be modified to maintain its effectiveness as target species evolve to tolerate the original. RNA is a relatively fragile molecule that generally degrades within days or weeks of application. Monsanto estimated costs to be on the order of $5/acre.
+
+RNAi has been used to target weeds that tolerate Roundup . RNAi can be mixed with a silicone surfactant that lets the RNA molecules enter air-exchange holes in the plant's surface. This disrupted the gene for tolerance long enough to let the herbicide work. This strategy would allow the continued use of glyphosate -based herbicides.
+
+They can be made with enough precision to target specific insect species. Monsanto is developing an RNA spray to kill Colorado potato beetles . One challenge is to make it stay on the plant for a week, even if it's raining. The potato beetle has become resistant to more than 60 conventional insecticides.
+
+Monsanto lobbied the U.S. EPA to exempt RNAi pesticide products from any specific regulations (beyond those that apply to all pesticides) and be exempted from rodent toxicity, allergenicity and residual environmental testing. In 2014 an EPA advisory group found little evidence of a risk to people from eating RNA.
+
+However, in 2012, the Australian Safe Food Foundation claimed that the RNA trigger designed to change the starch content of wheat might interfere with the gene for a human liver enzyme . Supporters countered that RNA does not appear to survive human saliva or stomach acids. The US National Honey Bee Advisory Board told EPA that using RNAi would put natural systems at "the epitome of risk". The beekeepers cautioned that pollinators could be hurt by unintended effects and that the genomes of many insects are still undetermined. Other unassessed risks include ecological (given the need for sustained presence for herbicides) and possible RNA drift across species boundaries.
+
+Monsanto invested in multiple companies for their RNA expertise, including Beeologics (for RNA that kills a parasitic mite that infests hives and for manufacturing technology) and Preceres (nanoparticle lipidoid coatings) and licensed technology from Alnylam and Tekmira . In 2012 Syngenta acquired Devgen, a European RNA partner. Startup Forest Innovations is investigating RNAi as a solution to citrus greening disease that in 2014 caused 22 percent of oranges in Florida to fall off the trees.
+
+Mycopesticides include fungi and fungi cell components. Propagules such as conidia, blastospores, chlamydospores, oospores, and zygospores have been evaluated, along with hydrolytic enzyme mixtures. The role of hydrolytic enzymes especially chitinases in the killing process, and the possible use of chitin synthesis inhibitors are the prime research areas.
+
+Bacillus thuringiensis is a bacterium capable of causing disease of Lepidoptera , Coleoptera and Diptera . The toxin from B. thuringiensis ( Bt toxin ) has been incorporated directly into plants via genetic engineering . Bt toxin manufacturers claim it has little effect on other organisms , and is more environmentally friendly than synthetic pesticides.
+
+Other microbial control agents include products based on:
+
+Various animal, fungal, and plant  organisms and extracts have been used as biopesticides. Products in this category include:
+
+Microbial agents, effective control requires appropriate formulation and application .
+
+Biopesticides have established themselves on a variety of crops for use against crop disease. For example, biopesticides help control downy mildew diseases. Their benefits include: a 0-day pre-harvest interval (see: maximum residue limit ), success under moderate to severe disease pressure, and the ability to use as a tank mix or in a rotational program with other fungicides. Because some market studies estimate that as much as 20% of global fungicide sales are directed at downy mildew diseases, the integration of biofungicides into grape production has substantial benefits by extending the useful life of other fungicides, especially those in the reduced-risk category.
+
+A major growth area for biopesticides is in the area of seed treatments and soil amendments . Fungicidal and biofungicidal seed treatments are used to control soil-borne fungal pathogens that cause seed rot, damping-off, root rot and seedling blights. They can also be used to control internal seed-borne fungal pathogens as well as fungal pathogens on the seed surface. Many biofungicidal products show capacities to stimulate plant host defense and other physiological processes that can make treated crops more resistant to stresses.
+
+The market for agricultural biologicals was forecast to reach $19.5 billion by 2031.

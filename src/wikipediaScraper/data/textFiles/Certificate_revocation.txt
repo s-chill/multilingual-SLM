@@ -1,0 +1,89 @@
+In public key cryptography , a certificate may be revoked before it expires, which signals that it is no longer valid. Without revocation, an attacker could exploit such a compromised or misissued certificate until expiry. Hence, revocation is an important part of a public key infrastructure . Revocation is performed by the issuing certificate authority , which produces a cryptographically authenticated statement of revocation.
+
+For distributing revocation information to clients, the timeliness of the discovery of revocation (and hence the window for an attacker to exploit a compromised certificate) trades off against resource usage in querying revocation statuses and privacy concerns. If revocation information is unavailable (either due to an accident or an attack), clients must decide whether to fail-hard and treat a certificate as if it is revoked (and so degrade availability ) or to fail-soft and treat it as unrevoked (and allow attackers to sidestep revocation).
+
+Due to the cost of revocation checks and the availability impact from potentially-unreliable remote services, Web browsers limit the revocation checks they will perform, and will fail soft where they do. Certificate revocation lists are too bandwidth-costly for routine use, and the Online Certificate Status Protocol presents connection latency and privacy issues. Other schemes have been proposed but have not yet been successfully deployed to enable fail-hard checking.
+
+The Heartbleed vulnerability, which was disclosed in 2014, triggered a mass revocation of certificates, as their private keys may have been leaked. GlobalSign revoked over 50% of their issued certificates. StartCom was criticised for issuing free certificates but then charging for revocation.
+
+A 2015 study found an overall revocation rate of 8% for certificates used on the Web, though this may have been elevated due to Heartbleed.
+
+Despite Web security being a priority for most browsers , due to the latency and bandwidth requirements associated with OCSP and CRLs, browsers place limits on checking certificate status. In 2015, Google Chrome only actively checked Extended Validation certificates, no mobile browser performed any validity checks, and no browser fully checked all certificates. Chrome and Firefox perform push-based checks for a small set of domains deemed critical. Browsers show little agreement in corner cases around certificate validity, potentially confusing even experienced users.
+
+The number of certificates in the Web PKI increased massively during the last portion of the 2010s, from 30 million in January 2017 to 434 million in January 2020. A significant factor in this growth is Let's Encrypt providing free domain validated certificates . The size of the potentially-revocable set of certificates places requirements on the scalability of the revocation mechanism.
+
+Chuat et al. (2020) call revocation "notoriously challenging". In 2022, RFC 9325 characterised certificate revocation as an important problem with "no complete and efficient solution". OCSP and OCSP stapling are recommended as the "foundation for a possible solution".
+
+Certificate revocation is "an important tool" for dealing with attacks and accidental compromises. RFC 9325 places a normative requirement on TLS implementations to have some means of distrusting certificates. Without revocation, an attacker can use a compromised certificate to impersonate its owner until expiry.
+
+Revocation may not be necessary for certificates of sufficiently short lifetime, roughly on the order of hours to days, which is comparable to the lifetime of an OCSP response. The associated frequent certificate issuance typically requires automation (e.g., the ACME protocol) and may stress other infrastructural elements (e.g., transparency logs). Short-lived certificates also present complications with TLS connection resumption , though not necessarily insuperably.
+
+Revocation may be initiated by a certificate holder (who, for example, may know that a private key has been compromised), who informs the CA. The CA then produces and distributes cryptographically authenticated attestations that the certificate has been revoked. The CA/B requirements also allow a CA to autonomously revoke certificates if the CA is aware of a possibility of compromise. Anyone may submit such evidence.
+
+Revocation statuses are not typically preserved and archived for long beyond the certificate's expiry, making research into and auditing of revocation behaviours difficult. One proposal to solve this involves submitting 'postcertificates' to Certificate Transparency logs for each revocation, which would also allow revocation to be performed without action by a CA; an alternative proposal, also based around Certificate Transparency, involves CRVs being sent to the CT logs by CAs.
+
+If revocation status is unavailable (which may be benign or due to an attack), a client is faced with a dilemma when evaluating a certificate: it may fail-soft and assume that the certificate is still valid; or it may fail-hard and assume that the certificate has been revoked. This is a trade-off between security and availability: failing-soft allows downgrade attacks , while failing-hard allows denial of service (from attacks) or causes unavailability.
+
+An attacker with the ability to present a compromised certificate likely also has the ability to prevent the client performing an online revocation status check; in this case, failing-soft effectively provides no protection at all. Browsers have chosen this arm of the dilemma and preferred availability over security.
+
+Failing-hard can introduce new denial-of-service attack vectors. For example, if clients expect OCSP stapling and fail-hard otherwise, a denial of service against OCSP responders is amplified to a denial of service against all services wishing to use those OCSP responses.
+
+There are two scenarios for the evaluation of resource usage: normal conditions, and mass revocation events. Revocation schemes should be efficient under normal conditions, and functional during mass revocation events.
+
+Retrieving revocation information incurs bandwidth and latency costs for clients.
+
+During the 2014 Heartbleed mass revocation event, where revocation rates rose from 1% to 11%, Cloudflare estimated that the bandwidth that GlobalSign used to distribute CRLs could have cost 400,000 USD (equivalent to 510,000 USD in 2023 ).
+
+If revocation status is not freshly retrieved for every check (e.g., due to caching or periodic retrievals), there is a delay between a certificate being revoked and all clients being guaranteed to be aware of the revocation. This presents a trade-off between latency, efficiency, and security: longer cache times or less-frequent updates use fewer resources and reduce latency but mean that a compromised certificate can be abused for longer.
+
+Clients that perform pull-based checks can leak the user's browsing information to third parties, namely the distributor of revocation information.
+
+It is desirable to avoid creating a trusted third party in a PKI. If an actor within a scheme is auditable , then clients (or agents acting on behalf of clients) can provably verify that an actor is behaving correctly.
+
+A revocation status distribution that places heavy burdens on CAs may not succeed, especially if the CA is unable to derive countervailing benefits from implementation. Reducing the number of parties that must make changes to adopt it also eases deployability: potentially involved are CAs, clients, server administrators, and server software producers. Forwards compatibility is a double-edged sword, in that old clients and servers will not be disrupted by a new scheme, but their users may not realise that they are missing the benefits of revocation.
+
+There are three broad architectures for how clients access revocation status: pull-based , where clients retrieve revocation status at validation time; push-based , where clients retrieve revocation status ahead of validation and cache it; and network-assisted , where revocation checking is tightly integrated with the TLS protocol and separate checks may not be needed.
+
+Pull-based checking typically has latency and availability issues. Clients performing pull-based checking will typically cache responses for a short period. A purely pull-based check combined with failing-soft does not add security.
+
+Push-based checking is less bandwidth efficient than pull-based checking, but gains availability and privacy. Different methods may be used on a certificate-by-certificate basis, allowing for fine-tuning the trade-off: both Google Chrome and Mozilla Firefox perform push-based checks on a small set of critical certificates.
+
+A certificate revocation list (CRL) enumerates revoked certificates. They are cryptographically authenticated by the issuing CA.
+
+CRLs have scalability issues, and rely on the client having enough network access to download them prior to checking a certificate's status.
+
+A CRL contains information about all of the certificates revoked by a CA, which means distributors and clients must incur transfer costs for information that is likely irrelevant. A 2015 study found that the median certificate had a CRL with size 51 kB, and the largest CRL was 76 MB.
+
+The Online Certificate Status Protocol (OCSP) allows clients to interactively ask a server (an OCSP responder ) about a certificate's status, receiving a response that is cryptographically authenticated by the issuing CA. It was designed to address issues with CRLs. A typical OCSP response is less than 1 kB.
+
+OCSP suffers from scalability issues. It relies on the client having network access at the time of checking the certificate's revocation status; further, the OCSP responder must be accessible and produce usable responses, or else the check will fail and the client must choose between failing-soft and failing-hard. Many certificate authorities do not publish useful OCSP responses for intermediate certificates .
+
+As requests to the responder are made in response to users' browsing, OCSP responders can learn about the users' browsing, which is a privacy issue. It also introduces latency to connections, as the responder must be queried before a new connection can be used.
+
+A 2018 study found that 1.7% of requests to responders were unavailable at the network level, and a further c. 2% produced unusable OCSP responses, with significant hetereogeneity across CAs and client vantage points.
+
+OCSP stapling is a TLS extension providing for OCSP responses being provided to the client, together with the certificate, at connection initiation.
+
+OCSP stapling can solve the operational challenges of OCSP, namely additional network requests causing latency and privacy degradation. However, it can be susceptible to downgrade attacks by an on-path attacker. RFC 7633 defines an extension that embeds a requirement into a certificate to be stapled to a valid OCSP response. With this extension, stapling can be effective for the case where a certificate has been compromised after proper issuance; however, if a certificate can be misissued without the extension, stapling may not provide any security.
+
+Beyond clients and CAs enabling stapling and the must-staple extension, server administrators must also take action to support stapling by regularly retrieving responses and then providing them to clients during the handshake. In 2018, only Firefox supported must-staple, and neither of the two most-used Web servers ( Apache httpd and Nginx ) supported OCSP stapling at all.
+
+CRLite provides revocation statuses by a cascade of Bloom filters . A single filter constructed from a list of revoked certificates produces false positives . With an open domain, this is an insuperable problem for revocation checking. However, by using Certificate Transparency to enumerate all unexpired certificates, an exhaustive list of false positives can be produced. This list is then used to construct a second filter, which is consulted if a certificate matches the first (and hence has a strictly smaller domain); if the second filter does not match, then it is a true positive and the certificate has been revoked; however, a match in the second filter may be a false negative, necessitating a third filter, and so on. As the universe is finite and the domain of each filter strictly decreases at each step, this procedure produces a finite filter cascade.
+
+CRLite allows clients to fail-hard.
+
+The revocation status of all certificates in the Web PKI in January was estimated to be 10 MB in size when using the Bloom filter cascade, with updates of 580 kB per day. In March 2018, this had grown to 18 MB. In a simulation with 100 million certificates, a 1% daily expiration rate, and a 2% revocation rate, CRLite required an initial provision of 3.1 MB, and then 408 kB per day for updates.
+
+As all clients retrieve the same information, CRLite has no privacy concerns.
+
+CRLite has not yet been widely deployed. It is, however, deployable, only requiring an aggregator to retrieve CRLs from CAs and then provide the filter cascade and updates to it, and for clients to use it; no action from CAs is needed, and nor is any needed from certificate holders. The aggregator does not need to be a trusted third party : the filter cascade can be audited to prove that it accurately reflects the input CRLs. Private CAs also require special handling within CRLite.
+
+Let's Revoke uses bit vectors of revocation statuses (called certificate revocation vectors , or CRVs) to allow large amounts of revocation statuses to be efficiently retrieved by clients. CAs generate CRVs for their own certificates, with one CRV per expiration date. CRV maintenance for CAs is linear in the number of certificates issued. CAs must add a new field, a revocation number, to each issued certificate, allowing certificates from a single CA to be identified by a tuple of certificate expiration date and revocation number; this tuple allows a client to efficiently locate a bit giving the identified certificate's status within the CRV. CRVs may be compressed; they are expected to compress very well, as most bits will be unset most of the time. As each CRV is associated with a fixed expiration date, old CRVs can be efficiently discarded. Updates to CRVs are batched, with the update timestamped and signed for distribution to clients. The updates may be in one of three forms, with the optimal choice depending on the revocation rate, allowing for both efficient normal operation and mass revocation events.
+
+CRVs are expected to be small enough to enable push-based checking, but more constrained clients may still perform pull-based checks, only accessing select CRVs, or deferring retrieval of CRVs until certificate validation. A client using Let's Revoke with push-based checking is able to fail-hard for any certificate with a revocation number. The privacy impact and availability of Let's Revoke depends on the architecture: if all checks are push-based, then there is no privacy leakage and a reduced vulnerability to denial-of-service or downtime; if pull-based checks are used, however, some information about the user's activities is leaked (in the form of which CRVs are accessed), and the CRVs may be inaccessible at validation time.
+
+In a simulation with 100 million certificates, 1% daily expiration rate, and a 2% revocation rate, Let's Revoke required an initial provision of 2.2 MB, and then 114 kB per day for updates.
+
+Let's Revoke has not yet been widely deployed. Besides client implementations, it requires CAs to make operational changes, and does not provide as much information as CRLs or OCSP (only a bit per certificate for validity); CRLs or OCSP may still be used to supplement Let's Revoke and provide that additional information. Deployment can be performed CA by CA, with clients benefitting from fail-hard behaviour incrementally. Due to the efficiency of CRVs over CRLs and OCSP responses, CAs may be incentivised to deploy Let's Revoke.
+
+Private information retrieval techniques can allay the privacy concern with pull-based checks. Rather than clients performing revocation checks, a middlebox could instead, centralising the cost of revocation checking and amortising it across many connections; the clients need to dedicate no storage to revocation information. Another proposal involved broadcasting revocation information on FM radio .

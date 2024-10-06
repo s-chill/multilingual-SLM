@@ -1,0 +1,65 @@
+Geoffrey Everest Hinton CC FRS FRSC (born 6 December 1947) is a British-Canadian computer scientist and cognitive psychologist , most noted for his work on artificial neural networks , which has earned him the title as the "Godfather of AI". From 2013 to 2023, he divided his time working for Google ( Google Brain ) and the University of Toronto , before publicly announcing his departure from Google in May 2023, citing concerns about the risks of artificial intelligence (AI) technology. In 2017, he co-founded and became the chief scientific advisor of the Vector Institute in Toronto.
+
+With David Rumelhart and Ronald J. Williams , Hinton was co-author of a highly cited paper published in 1986 that popularized the backpropagation algorithm for training multi-layer neural networks, although they were not the first to propose the approach. Hinton is viewed as a leading figure in the deep learning community. The image-recognition milestone of the AlexNet designed in collaboration with his students Alex Krizhevsky and Ilya Sutskever for the ImageNet challenge 2012 was a breakthrough in the field of computer vision.
+
+Hinton received the 2018 Turing Award , often referred to as the " Nobel Prize of Computing ", together with Yoshua Bengio and Yann LeCun , for their work on deep learning. They are sometimes referred to as the "Godfathers of Deep Learning", and have continued to give public talks together.
+
+In May 2023, Hinton announced his resignation from Google to be able to "freely speak out about the risks of A.I." He has voiced concerns about deliberate misuse by malicious actors , technological unemployment , and existential risk from artificial general intelligence . He noted that establishing safety guidelines will require cooperation among those competing in use of AI in order to avoid the worst outcomes.
+
+Hinton was educated at Clifton College in Bristol and King's College, Cambridge . After repeatedly changing his degree between different subjects like natural sciences , history of art , and philosophy , he eventually graduated in 1970 with a Bachelor of Arts in experimental psychology . He continued his study at the University of Edinburgh where he was awarded a PhD in artificial intelligence in 1978 for research supervised by Christopher Longuet-Higgins .
+
+After his PhD, Hinton worked at the University of Sussex and, after difficulty finding funding in Britain, the University of California, San Diego and Carnegie Mellon University . He was the founding director of the Gatsby Charitable Foundation Computational Neuroscience Unit at University College London . He is currently a professor in the computer science department at the University of Toronto .
+
+He holds a Canada Research Chair in Machine Learning and, as of June 2024, is an advisor for the Learning in Machines & Brains program at the Canadian Institute for Advanced Research . Hinton taught a free online course on Neural Networks on the education platform Coursera in 2012. He joined Google in March 2013 when his company, DNNresearch Inc., was acquired, and was at that time planning to "divide his time between his university research and his work at Google".
+
+Hinton's research concerns ways of using neural networks for machine learning , memory , perception , and symbol processing. He has written or co-written more than 200 peer reviewed publications.
+
+While Hinton was a postdoc at UC San Diego, David E. Rumelhart and Hinton and Ronald J. Williams applied the backpropagation algorithm to multi-layer neural networks. Their experiments showed that such networks can learn useful internal representations of data. In a 2018 interview, Hinton said that " David E. Rumelhart came up with the basic idea of backpropagation, so it's his invention". Although this work was important in popularising backpropagation, it was not the first to suggest the approach. Reverse-mode automatic differentiation , of which backpropagation is a special case, was proposed by Seppo Linnainmaa in 1970, and Paul Werbos proposed to use it to train neural networks in 1974.
+
+In 1985, Hinton co-invented Boltzmann machines with David Ackley and Terry Sejnowski . His other contributions to neural network research include distributed representations , time delay neural network , mixtures of experts, Helmholtz machines and Product of Experts . An accessible introduction to Geoffrey Hinton's research can be found in his articles in Scientific American in September 1992 and October 1993. In 2007, Hinton coauthored an unsupervised learning paper titled Unsupervised learning of image transformations . In 2008, he developed the visualization method t-SNE with Laurens van der Maatens.
+
+In October and November 2017 respectively, Hinton published two open access research papers on the theme of capsule neural networks , which according to Hinton, are "finally something that works well".
+
+At the 2022 Conference on Neural Information Processing Systems (NeurIPS) he introduced a new learning algorithm for neural networks that he calls the "Forward-Forward" algorithm. The idea of the new algorithm is to replace the traditional forward-backward passes of backpropagation with two forward passes, one with positive (i.e. real) data and the other with negative data that could be generated solely by the network.
+
+In May 2023, Hinton publicly announced his resignation from Google. He explained his decision by saying that he wanted to "freely speak out about the risks of A.I." and added that a part of him now regrets his life's work.
+
+Notable former PhD students and postdoctoral researchers from his group include Peter Dayan , Sam Roweis, Max Welling , Richard Zemel , Brendan Frey , Radford M. Neal , Yee Whye Teh , Ruslan Salakhutdinov , Ilya Sutskever , Yann LeCun , Alex Graves , and Zoubin Ghahramani .
+
+Hinton was elected a Fellow of the Royal Society (FRS) in 1998 . He was the first winner of the Rumelhart Prize in 2001. His certificate of election for the Royal Society reads:
+
+Geoffrey E. Hinton is internationally known for his work on artificial neural nets, especially how they can be designed to learn without the aid of a human teacher. He has compared effects of brain damage with effects of losses in such a net, and found striking similarities with human impairment, such as for recognition of names and losses of categorisation. His work includes studies of mental imagery, and inventing puzzles for testing originality and creative intelligence. It is conceptual, mathematically sophisticated, and experimental. He brings these skills together with striking effect to produce important work of great interest.
+
+In 2001, Hinton was awarded an honorary doctorate from the University of Edinburgh . He was the 2005 recipient of the IJCAI Award for Research Excellence lifetime-achievement award. He was awarded the 2011 Herzberg Canada Gold Medal for Science and Engineering . In 2012, he received the Canada Council Killam Prize in Engineering. In 2013, Hinton was awarded an honorary doctorate from the Université de Sherbrooke .
+
+In 2016, he was elected a foreign member of National Academy of Engineering "for contributions to the theory and practice of artificial neural networks and their application to speech recognition and computer vision". He received the 2016 IEEE/RSE Wolfson James Clerk Maxwell Award .
+
+He won the BBVA Foundation Frontiers of Knowledge Award (2016) in the Information and Communication Technologies category, "for his pioneering and highly influential work" to endow machines with the ability to learn.
+
+Together with Yann LeCun , and Yoshua Bengio , Hinton won the 2018 Turing Award for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
+
+In 2018, he became a Companion of the Order of Canada . In 2021, he received the Dickson Prize in Science from the Carnegie Mellon University and in 2022 the Princess of Asturias Award in the Scientific Research category, along with Yann LeCun , Yoshua Bengio , and Demis Hassabis . In 2023, he was named an ACM Fellow .
+
+In 2023, Hinton expressed concerns about the rapid progress of AI . Hinton previously believed that artificial general intelligence (AGI) was "30 to 50 years or even longer away." However, in a March 2023 interview with CBS , he stated that "general-purpose AI" may be fewer than 20 years away and could bring about changes "comparable in scale with the industrial revolution or electricity ."
+
+In an interview with The New York Times published on 1 May 2023, Hinton announced his resignation from Google so he could "talk about the dangers of AI without considering how this impacts Google." He noted that "a part of him now regrets his life's work" due to his concerns and he expressed fears about a race between Google and Microsoft .
+
+In early May 2023, Hinton claimed in an interview with BBC that AI might soon surpass the information capacity of the human brain. He described some of the risks posed by these chatbots as "quite scary". Hinton explained that chatbots have the ability to learn independently and share knowledge. This means that whenever one copy acquires new information, it is automatically disseminated to the entire group. This allows AI chatbots to have the capability to accumulate knowledge far beyond the capacity of any individual.
+
+Hinton has expressed concerns about the possibility of an AI takeover , stating that "it's not inconceivable" that AI could "wipe out humanity" . Hinton states that AI systems capable of intelligent agency will be useful for military or economic purposes. He worries that generally intelligent AI systems could "create sub-goals" that are unaligned with their programmers' interests. He states that AI systems may become power-seeking or prevent themselves from being shut off, not because programmers intended them to, but because those sub-goals are useful for achieving later goals . In particular, Hinton says "we have to think hard about how to control" AI systems capable of self-improvement .
+
+Hinton reports concerns about deliberate misuse of AI by malicious actors, stating that "it is hard to see how you can prevent the bad actors from using [AI] for bad things." In 2017, Hinton called for an international ban on lethal autonomous weapons .
+
+Hinton was previously optimistic about the economic effects of AI, noting in 2018 that: "The phrase 'artificial general intelligence' carries with it the implication that this sort of single robot is suddenly going to be smarter than you. I don't think it's going to be that. I think more and more of the routine things we do are going to be replaced by AI systems." Hinton also previously argued that AGI won't make humans redundant: "[AI in the future is] going to know a lot about what you're probably going to want to do... But it's not going to replace you."
+
+In 2023, however, Hinton became "worried that AI technologies will in time upend the job market" and take away more than just "drudge work." He again stated in 2024 that the British government will have to establish a universal basic income to deal with the impact of AI on inequality. In Hinton's view, AI will boost productivity and generate more wealth. But unless the government intervenes, it will only make the rich richer and hurt the people who might lose their jobs. "That's going to be very bad for society," he said.
+
+Hinton moved from the U.S. to Canada in part due to disillusionment with Ronald Reagan -era politics and disapproval of military funding of artificial intelligence.
+
+In August 2024, Hinton co-authored a letter with Yoshua Bengio , Stuart Russell , and Laurence Lessig in support of SB 1047 , a California AI safety bill that would require companies training models which cost more than $100 million to perform risk assessments before deployment. They claimed the legislation was the "bare minimum for effective regulation of this technology."
+
+Hinton's second wife, Rosalind Zalin, died of ovarian cancer in 1994; his third wife, Jackie, died in September 2018, also of cancer.
+
+Hinton is the great-great-grandson of the mathematician and educator Mary Everest Boole and her husband, the logician George Boole . George Boole's work eventually became one of the foundations of modern computer science. Another great-great-grandfather of his was the surgeon and author James Hinton , who was the father of the mathematician Charles Howard Hinton .
+
+Hinton's father was the entomologist Howard Hinton . His middle name comes from another relative, George Everest , the Surveyor General of India after whom the mountain is named. He is the nephew of the economist Colin Clark .

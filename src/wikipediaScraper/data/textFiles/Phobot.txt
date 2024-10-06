@@ -1,0 +1,5 @@
+Phobot is a robot that exhibits behaviour that mimics fear and overcoming it by graded exposure . The robot was voted the public's favourite at a conference on human–robot interaction in Amsterdam . It was designed by a team of students at the University of Amsterdam , and constructed from Lego . It was designed to help children deal with phobias and anxieties .
+
+When Phobot sees a larger robot, it retreats, and spins around, making high pitched noises, seemingly in panic. When it is gradually exposed to smaller robots, and is coached by holding its hands and talking to it in a soothing manner, it learns to overcome its fear. This approach mimics the process of systematic desensitization, or graded exposure treatment, common in the treatment of phobias.
+
+Phobot was built for a competition at the international conference on human-robot interaction 2008 from a Lego Mindstorms robot kit, and its behaviour implemented in the Mindstorms software. It uses RFID , sound and touch sensors to interact with humans. It was designed as a low cost proof of concept for an affective robot, coaching children to deal with phobias and anxieties.

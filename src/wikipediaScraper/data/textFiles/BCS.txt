@@ -1,0 +1,90 @@
+The British Computer Society ( BCS ), branded BCS, The Chartered Institute for IT , since 2009, is a professional body and a learned society that represents those working in information technology (IT), computing , software engineering , computer engineering and computer science , both in the United Kingdom and internationally. Founded in 1957, BCS has played an important role in educating and nurturing IT professionals, computer scientists, software engineers, computer engineers, upholding the profession, accrediting Chartered IT Professional (CITP) and Chartered Engineer (CEng) status, and creating a global community active in promoting and furthering the field and practice of computing.
+
+With a worldwide membership of 57,625 members as of 2021, BCS is a registered charity and was incorporated by Royal Charter in 1984. Its objectives are to promote the study and application of communications technology and computing technology and to advance knowledge of education in ICT for the benefit of professional practitioners and the general public.
+
+BCS is a member institution of the Engineering Council , through which it is licensed to award the designation of Incorporated Engineer and Chartered Engineer and therefore is responsible for the regulation of ICT and computer science fields within the UK. The BCS is also a member of the Council of European Professional Informatics Societies , the Seoul Accord for international tertiary degree recognition, and the European Quality Assurance Network for Informatics Education EQANIE . BCS was previously a member organisation of the Science Council , through which it was licensed to award the designation of Chartered Scientist .
+
+BCS has an office in London. The main administrative offices are in Swindon , Wiltshire , west of London. It also has two overseas offices in Sri Lanka and Mauritius .
+
+Members are sent the quarterly IT professional magazine ITNOW (formerly The Computer Bulletin ).
+
+BCS is a member organisation of the Federation of Enterprise Architecture Professional Organizations (FEAPO), a worldwide association of professional organisations which have come together to provide a forum to standardise, professionalise, and otherwise advance the discipline of Enterprise Architecture .
+
+The forerunner of BCS was the "London Computer Group" (LCG), founded in 1956. BCS was formed a year later from the merger of the LCG and an unincorporated association of scientists into an unincorporated club. In October 1957, BCS was incorporated, by Articles of Association , as "The British Computer Society Ltd": the first President of BCS was Sir Maurice Wilkes (1913–2010), FRS .
+
+In 1966, the BCS was granted charitable status and in 1970, the BCS was given Armorial Bearings including the shield and crest.
+The major ethical responsibilities of BCS are emphasised by the leopard's face, surmounting the whole crest and depicting eternal vigilance over the integrity of the Society and its members.
+
+The BCS patron is The Duke of Kent , KG . He became patron in December 1976 and has been actively involved in BCS activities, particularly having been President in the Silver Jubilee Year in 1982–1983.
+
+On 21 September 2009, the British Computer Society went through a transformation and re-branded itself as "BCS, The Chartered Institute for IT". In 2010, an Extraordinary General Meeting was called to discuss the direction of the BCS. The debate has been covered by the computing press.
+
+BCS is governed by a Trustee Board comprising the President, the Deputy President, the immediate past President, up to nine Vice Presidents (including Vice-President Finance), and five Professional Members elected by the Advisory Council. Sir Maurice Wilkes , Professor of Computer Science at Cambridge University, served as its first president. Each president serves for a 2-year term. A list of presidents of the British Computer Society can be found on the BCS website.
+
+The BCS Advisory Council elects the Honorary Officers – the President, the Deputy President and up to nine Vice-Presidents, together with the immediate past President and five members of Council. Lists of Trust Board and Advisory Council members are maintained online.
+
+The Advisory Council provides advice to the Trustee Board on the direction and operation of BCS; in particular, it is consulted on strategic plans and the annual budget. The Council is a representative body of the membership, with members elected directly by the professional membership, and by the Branches, Groups and Forums.
+
+The Fellow of the BCS (FBCS) title is conferred on individuals to recognise their outstanding achievements and contributions to Information Technology (engineering, product management, business leadership, etc). Fellows are expected to give something back to the profession, by promoting and evangelising the profession to the
+public and society, and contributing to debates in conferences, panels, meetings, etc. 
+Fellows are nominated to the society each year and have to be supported by one or more existing fellows. Criteria for election to fellow include:
+
+Current fellows include distinguished individuals from industries and universities. Some of the prominent fellows include:
+
+The society also awards Honorary Fellowships. Examples include:
+
+Since July 2021, Fellows are eligible to be appointed to the Fellows Technical Advisory Group (F-TAG). F-TAG provides technical thought leadership governance for BCS, informing policy positions and content.
+
+The BCS is the only professional body in the United Kingdom with the ability to grant chartered status to IT professionals under its Royal Charter , granted to them by the Privy Council . Thus having the ability to grant Chartered (Professional) status to both its Fellows and Professional members. Known as Chartered IT Professional , they are entitled to use the suffix CITP . The BCS keeps a register of current Chartered Members and Fellows.
+
+Other Professional membership bodies apply to the BCS for a licence that enables them to award CITP to their eligible members.
+
+BCS has different grades of membership:
+
+Members are encouraged to display the designatory letters to which they are entitled whenever appropriate. The order of designatory (post-nominal) letters is complex and open to a certain amount of interpretation. The accepted authority on this subject is Debrett's Correct Form . Normally these should appear after decorations, degrees and chartered letters. Members holding CEng should also display the designatory letters of the institution through which they are registered immediately after the CEng. Conventionally, members holding Chartered status ( CITP ) display this immediately after their membership letters (e.g., FBCS CITP or MBCS CITP). However, as CITP may now be awarded by other organisations it may also be displayed separately, following that of the awarding institution.
+
+The society provides several awards to recognise outstanding computer scientists, engineers, experienced and young IT professionals.
+The awards include:
+
+BCS provides a range of qualifications both for users of computers and for IT professionals.
+
+BCS offers qualifications that cover all areas of IT, including understanding Spreadsheets and Presentation Software, Animation, Video Editing and Social Networking safety.
+
+The current IT user qualifications are:
+
+BCS conducts its own BCS Higher Education Qualifications in many countries. It was formerly known as BCS Professional Examinations which consisted of Parts 1 and 2 of which passing of Part 2 with the professional project was equivalent to a British honours degree. These programs had an early history of success, with participants coming from all parts of the world, including Asia. Many private computing schools outside the UK have hosted students in preparation for BCS Part 1 and 2 examinations. The level of current qualifications are:
+
+e-type is a qualification that allows individuals to improve and certify their typing skills. The average user can save up to 21 days a year by improving their typing speed as well as preventing repetitive strain injury (RSI). e-type comes with full support materials and computer-based courseware before allowing the user to assess their skills using a simple online test.
+
+Digital Creator is a set of engaging qualifications that teach digital media skills through creative projects. They are designed for all types and ages of learners – in schools from Key Stage 2 to Key Stage 4 and in all areas of adult learning.
+
+The BCS ITQ is a range of IT user qualifications made up of a combination of units available on the ITQ framework.
+
+The framework consists of a wide range of units covering all aspects of IT user applications, including word processing, spreadsheets, the internet, multimedia software and design software.
+
+BCS also offers professional qualifications via its Professional Certifications board, formerly known as ISEB ( Information Systems Examination Board ).
+
+Professional Certifications (ISEB) provides a wide range of qualifications for IT professionals covering major areas including Management, Development, Service Delivery and Quality.
+
+BCS via FEDIP provides 4 different professional registration levels for health and care informatics professionals:
+Practitioner, Senior Practitioner, Advanced Practitioner, Leading Practitioner.
+
+FEDIPAdvPra – post-nominals for Advanced Practitioner.
+
+FEDIP is the Federation for Informatics Professionals in Health and Social Care, a collaboration between the leading professional bodies in health and care informatics supporting the development of the informatics profession.
+
+The e-Citizen qualification allows beginners to get online and start using the Internet. The qualification has been designed to provide a basic understanding of the Internet and to start using the web safely, from reading email to shopping online.
+
+M_o_R Foundation is suitable for any organisation or individual seeing the need for guidance on a controlled approach to identification, assessment and control risk at strategic, programme, project and operational perspectives.
+
+In common with many professional institutions, BCS has a number of regional branches and specialist groups.  Currently, there are 45 regional branches in the UK, 16 international sections and over 50 specialist groups.
+
+The UK branches are:
+
+In September 2010, BCS sponsored the one-off 'Digital Revolutions Film Workshop' for amateurs and professionals to "hone their skills", and in October 2010, in conjunction with Sheffield Doc/Fest , sponsored the 'Digital Revolutions Film Competition'.
+
+BCS magazines include:
+
+Their journals are mostly published by Oxford University Press and include:
+
+Electronic Workshops in Computing (eWiC) is a series for conference and workshop proceedings, published by the BCS, also available open access via ScienceOpen .

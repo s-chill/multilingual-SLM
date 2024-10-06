@@ -1,0 +1,4 @@
+XOWA is a free and open-source application written primarily in Java by anonymous developers and is intended for users who wish to run their own copy of Wikipedia , or any other compatible Wiki , offline without an internet connection .
+XOWA is compatible with Microsoft Windows , MacOS , Linux and Android . Licensed under the GNU AGPLv3 , XOWA is free software .
+
+XOWA allows users to download and import their own copy of Wikipedia using official database dumps , or by special database files specifically created for use within XOWA. The application is designed to accurately display Wikipedia content through its own internal browser, or by a locally hosted web server which allows users to access content using any browser of choice. Users can also host content across their own network.

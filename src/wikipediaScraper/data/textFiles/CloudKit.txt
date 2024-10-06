@@ -1,0 +1,7 @@
+CloudKit is an integrated macOS , iOS , iPadOS , watchOS , and tvOS API that functions as a backend as a service (BaaS). CloudKit is the framework that powers iCloud on those operating systems and on the web.
+
+Application developers can utilize CloudKit for integrated access to Apple's iCloud servers into iOS and macOS applications. The framework provides authentication, a private database, a public database and structured asset storage services allowing developers to focus on client-side development. It is the foundation for both iCloud Storage and iCloud Photo Library.
+
+CloudKit also offers several APIs to access the iCloud Storage, where a user can store data and files so that they can be easily accessible from other devices.
+
+Developers claim that this framework "replaces back-end web services like old-school databases, file storage and user authentication systems."

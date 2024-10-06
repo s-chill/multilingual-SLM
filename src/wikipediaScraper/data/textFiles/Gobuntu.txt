@@ -1,0 +1,33 @@
+Gobuntu was a short-lived official derivative of the Ubuntu operating system that was conceived to provide a distribution consisting entirely of free software . It was first released in October 2007.
+
+Because Ubuntu now incorporates a "free software only" installer option, the Gobuntu project was rendered redundant in early 2008. As a result, Canonical made the decision officially to end the Gobuntu project with version 8.04.
+
+In March 2009, it was announced that "Gobuntu 8.04.1 is the final release of Gobuntu. The project has merged back to mainline Ubuntu, so there is no need for a separate distribution".
+
+Mark Shuttleworth first mentioned the idea of creating an Ubuntu derivative named Gnubuntu consisting entirely of free software , on 24 November 2005. Due to Richard Stallman 's disapproval of the name, the project was later renamed Ubuntu-libre . Stallman had previously endorsed a distribution based on Ubuntu called gNewSense , and has criticized Ubuntu for using proprietary and non-free software in successive distributions, most notably, Ubuntu 7.04.
+
+While introducing Ubuntu 7.10, Mark Shuttleworth said that it would
+
+feature a new flavour - as yet unnamed - which takes an ultra-orthodox view of licensing: no firmware, drivers, imagery, sounds, applications, or other content which do not include full source materials and come with full rights of modification, remixing and redistribution. There should be no more conservative home, for those who demand a super-strict interpretation of the "free" in free software.
+
+Gobuntu was officially announced by Mark Shuttleworth on 10 July 2007 and daily builds of Gobuntu 7.10 began to be publicly released. The initial version, Gobuntu 7.10, was released on 18 October 2007, as an in text-only installer. The next release was the Long-Term Release codenamed "Hardy Heron", which was also only made available as an alternate installation image.
+
+Release 7.10 initially met with criticism from some free software advocates because it included Mozilla Firefox . Firefox is not considered to be 100% free software because it includes Mozilla Foundation copyrighted icons. The Mozilla licence for the icons states that they "...may not be reproduced without permission". After some debate on the developer list, this problem was quickly addressed by Canonical , and the applications with non-free logos were replaced in the follow-up Gobuntu release, Hardy Heron. Firefox was replaced by Epiphany , which has free logos.
+
+Because some drivers , firmware , and " binary blobs " were removed from Gobuntu, it would run on fewer computers than Ubuntu. Canonical stated at the time of release of 7.10:
+
+because running Gobuntu on most laptops and many desktops will be difficult, Gobuntu is intended for experienced Linux enthusiasts at this time.
+
+On 13 June 2008 Ubuntu Community Manager Jono Bacon announced that the Gobuntu project would end with the release of Gobuntu 8.04:
+
+The Gobuntu development team would like to announce that after 8.04 release of Gobuntu, the project will aim to merge many of the Gobuntu changes into mainline Ubuntu, such as our "Free Software Only" installer option which only installs software considered free by the Free Software Foundation's definition of software freedom. This installer option now obviates the need for a separate derivative project, and in the interest of reducing the workload of Ubuntu core developers, the Gobuntu project will instead focus on merging as many changes as possible into mainline Ubuntu.
+
+Shuttleworth explained:
+
+"I think it would be better to channel the energy from Gobuntu into gNewSense...I'm not sure that the current level of activity in Gobuntu warrants the division of attention it creates, either for folks who are dedicated to Ubuntu primarily, or to folks who are interested in gNewSense. I would like us to have a good relationship with the gNewSense folks, because I do think that their values and views are important and I would like Ubuntu to be a useful starting point for them. But perhaps Gobuntu isn't the best way to achieve that."
+
+The project ended with the release of version 8.04.1.
+
+Gobuntu versions were intended to be released twice a year, coinciding with Ubuntu releases. Gobuntu uses the same version numbers and code names as Ubuntu, using the year and month of the release as the version number . The first Gobuntu release, for example, was 7.10, indicating October 2007.
+
+Gobuntu releases are also given code names , using an adjective and an animal with the same first letter e.g.: "Gutsy Gibbon". These are the same as the respective Ubuntu code names . Commonly, Gobuntu releases are referred to by developers and users by only the adjective portion of the code name, for example Gutsy Gibbon is often called just Gutsy .

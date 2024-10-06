@@ -1,0 +1,53 @@
+In user interface design, a mode is a distinct setting within a computer program or any physical machine interface , in which the same user input will produce perceived results different from those that it would in other settings. Modal interface components include the Caps lock and Insert keys on the standard computer keyboard , both of which typically put the user's typing into a different mode after being pressed, then return it to the regular mode after being re-pressed.
+
+An interface that uses no modes is known as a modeless interface. Modeless interfaces avoid mode errors , in which the user performs an action appropriate to one mode while in another mode, by making it impossible for the user to commit them.
+
+In his book The Humane Interface , Jef Raskin defines modality as follows:
+
+"An human-machine interface is modal with respect to a given gesture
+when (1) the current state of the interface is not the user's locus of
+attention and (2) the interface will execute one among several
+different responses to the gesture, depending on the system's current
+state." (Page 42).
+
+In Raskin's sense and according to his definition, an interface is not modal as long as the user is fully aware of its current state. Raskin refers to this as "locus of attention" (from the Latin word locus meaning "place" or "location"). Typically a user is aware of a system state if the state change was purposefully initiated by the user, or if the system gives some strong signals to notify the user of the state change in the place where interaction occurs. If the user's locus of attention changes to a different area, the state of the interface may then represent a mode since the user is no longer aware of it.
+
+Larry Tesler defined modes as "a state of the user interface that lasts for a period of time, is not associated with any particular object, and has no role other than to place an interpretation on operator input."
+
+Several examples of software have been described as modal or using interface modes:
+
+Larry Tesler at PARC devised insights for a modeless word processor from the feedback gathered from a user test with newly-hired Sylvia Adams, where she was asked to ad lib some gestures to correct proofreading marks on the digital text. This test convinced Tesler's manager Bill English of the problems with their previous modal interface.
+
+Modes are often frowned upon in interface design because they are likely to produce mode errors when the user forgets what state the interface is in, performs an action that is appropriate to a different mode, and gets an unexpected and undesired response. A mode error can be quite startling and disorienting as the user copes with the sudden violation of their user expectations.
+
+Problems occur if a change in the system state happens unnoticed (initiated by the system, or by another person, such as the user who was previously using the machine), or if after some time the user forgets about the state change. Another typical problem is a sudden change of state that interrupts a user's activity, such as focus stealing . In such a situation it can easily happen that the user does some operations with the old state in mind, while the brain has not yet fully processed the signals indicating the state change.
+
+Modes are intended to grab the user's full attention and to cause them to acknowledge the content present in them, in particular when critical confirmation from the user is required. This latter use is criticised as ineffective for its intended use (protection against errors in destructive actions) due to habituation .  Actually making the action reversible (providing an "undo" option) is recommended instead. Though modes can be successful in particular usages to restrict dangerous or undesired operations, especially when the mode is actively maintained by a user as a quasimode .
+
+Modes are sometimes used to represent information pertinent to the task that do not fit well into the main visual flow. Modes can also work as well-understood conventions, such as painting tools.
+
+Modal proponents may argue that many common activities are modal and users adapt to them.  An example of modal interaction is that of driving motor vehicles.  A driver may be surprised when pressing the acceleration pedal does not accelerate the vehicle in the forward direction, most likely because the vehicle has been placed in an operating mode like park, neutral, or reverse.  Modal interfaces require training and experience to avoid mode errors like these.
+
+Interface expert Jef Raskin came out strongly against modes, writing, "Modes are a significant source of errors, confusion, unnecessary restrictions, and complexity in interfaces." Later he notes, " 'It is no accident that swearing is denoted by #&%!#$&,' writes my colleague, Dr. James Winter; it is 'what a typewriter used to do when you typed numbers when the Caps Lock was engaged'." Raskin dedicated his book The Humane Interface to describe the principles of a modeless interface for computers. Those principles were implemented in the Canon Cat and Archy systems.
+
+Some interface designers have recently taken steps to make modal windows more obvious and user friendly by darkening the background behind the window or allowing any mouse click outside of the modal window to force the window to close – a design called a Lightbox – thus alleviating the risk of modal errors. Jakob Nielsen states as an advantage of modal dialogs that it improves user awareness. "When something does need fixing, it's better to make sure that the user knows about it." For this goal, the Lightbox design provides strong visual contrast of the dialog over the rest of the visuals. However, while such a method may reduce the risk of inadvertent wrong interactions, it does not solve the problem that the modal window blocks use of the application's normal features and so prevents the user from taking any action to fix the difficulty, or even from scrolling the screen to bring into view information which they need to correctly choose from the options the modal window presents, and it does nothing to alleviate the user's frustration at having blundered into a dead end from which they cannot escape without some more or less destructive consequence.
+
+Larry Tesler , of Xerox PARC and Apple Computer , disliked modes sufficiently to get a personalized license plate for his car that read: "NO MODES". He used this plate on various cars from the early 1980s until his death in 2020. Along with others, he also used the phrase "Don't Mode Me In" for years as a rallying cry to eliminate or reduce modes.
+
+Bruce Wyman, the designer of a multi-touch table for a Denver Art Museum art exhibition argues that interfaces for several simultaneous users must be modeless, in order to avoid bringing any single user into focus.
+
+Alternatives to modes such as the undo command and the recycle bin are recommended when possible. HCI researcher Donald Norman argues that the best way to avoid mode errors, in addition to clear indications of state, is helping the users to construct an accurate mental model of the system which will allow them to predict the mode accurately.
+
+This is demonstrated, for example, by some stop signs at road intersections. A driver may be conditioned by a four-way stop sign near his or her home to assume that similar intersections will also be four way stops. If it happens to be only two way, the driver could proceed through if he or she sees no other cars. Especially if there is an obstructed view, a car could come though and hit the first car broadside. An improved design alleviates the problem by including a small diagram showing which of the directions have a stop sign and which do not, thus improving the situational awareness of drivers.
+
+Modal controls are best placed where the focus is in the task flow. For example, a modal window can be placed next to the graphical control element that triggers its activation. Modal controls can be disruptive, so efforts should be made to reduce their capacity to block user work. After completing the task for which the mode was activated, or after a cancel action such as the Escape key , returning to the previous state when a mode is dismissed will reduce the negative impact.
+
+In the book The Humane Interface , Jef Raskin championed what he termed quasimodes , which are modes that are kept in place only through some constant action on the part of the user; such modes are also called spring-loaded modes . The term quasimode is a composite of the Latin prefix quasi- (which means almost , to some degree ) and the English word " mode ".
+
+Modifier keys on the keyboard, such as the Shift key , the Alt key and the Control key , are all examples of a quasimodal interface.
+
+The application enters into that mode as long as the user is performing a conscious action, like pressing a key and keeping it pressed while invoking a command. If the sustaining action is stopped without executing a command, the application returns to a neutral status.
+
+The purported benefit of this technique is that the user does not have to remember the current state of the application when invoking a command: the same action will always produce the same perceived result. An interface that uses quasimodes only and has no full modes is still modeless according to Raskin's definition.
+
+The StickyKeys feature turns a quasimode into a mode by serializing keystrokes of modifier keys with normal keys, so that they do not have to be pressed simultaneously. In this case the increased possibility of a mode error is largely compensated for by the improved accessibility for users with physical disabilities.

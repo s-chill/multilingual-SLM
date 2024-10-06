@@ -1,0 +1,5 @@
+A parallel database system seeks to improve performance through parallelization of various operations, such as loading data, building indexes and evaluating queries. Although data may be stored in a distributed fashion, the distribution is governed solely by performance considerations. Parallel databases improve processing and input/output speeds by using multiple CPUs and disks in parallel. Centralized and client–server database systems are not powerful enough to handle such applications. In parallel processing, many operations are performed simultaneously, as opposed to serial processing, in which the computational steps are performed sequentially. Parallel databases can be roughly divided into two groups, the first group of architecture is the multiprocessor architecture, the alternatives of which are the following:
+
+The other architecture group is called hybrid architecture, which includes:
+
+in this switches or hubs are used to connect different computers its most cheapest way and simplest way only simple topologies are used to connect different computers . much smarter if switches are implemented.

@@ -1,0 +1,25 @@
+Ladder track is a type of railway track in which the track is laid on longitudinal supports with transverse connectors holding the two rails at the correct gauge distance. Modern ladder track can be considered a development of baulk road , which supported rails on longitudinal wooden sleepers . Synonyms include longitudinal beam track .
+
+Ladder type track has also been used historically on bridges lacking ballast, and in situations requiring good drainage or ease of maintenance such as stations.
+
+Described as track with longitudinal bearers with cross ties, ladder track type was common on early British railways (c.1830/40s), including the Birmingham and Gloucester Railway , Dublin and Kingstown Railway , Glasgow, Paisley, Kilmarnock and Ayr Railway , Great Western Railway (see Baulk road ), Ulster Railway , Newcastle and North Shields Railway , Slamannan Railway (part of), Hull and Selby Railway (two thirds of), Manchester and Bolton Railway (including lontudinal stone sleepers), and the London and Greenwich Railway (partly). On the Hull and Selby Railway it was used in part as it was noted to produce smooth running, and low wheel wear. However the contact between rail and sleeper produced hydraulic pumping in wet conditions, which led to rolling stock becoming dirtied very quickly. The longitudinal track was also found to cause issue with wheel slip on inclines, and to be noticeably inferior to transverse sleepered track in terms of traction. No longitudinally laid track remained on the line after 1860.
+
+Research into longitudinal sleepers took place in Japan, Russia and France in the mid 20th century. In the late 20th century, interest in ladder type tracks increased due to its potential for lower cost and lower maintenance railways, as well as increased stability benefits over sleepered track.
+
+In general, ladder track produces lower pressures on the road bed: both the maximum pressure and the amplitude of pressure pulses are smaller than transverse sleepered track, which can reduce maintenance costs in ballasted systems. An additional benefit in ballasted ladder track is increased resistance to ballast wash out and other forms of ballast degradation due to the additional longitudinal support and rigidity in ladder track; the same structural rigidity also adds to buckling resistance.
+
+Tubular Modular Track ( TMT ) is a type of ballastless ladder track manufactured by Tubular Track (Pty.) Ltd. of South Africa first introduced in 1989. and invented by Peter Küsel.
+
+The track consists of steel rail resting on concrete supports via rubberised cork absorption pads with galvanised steel tie beams which wrap around the concrete members rather than being cast into the concrete as with other ladder tracks. The track is modular and precast, rather than being cast in situ. Modular turnouts are also produced. The modular nature and controlled production of the track sections has the advantage of rapid installation and good quality control. The ballastless and modular nature of the track makes it advantageous for both wet and desert conditions where ballast degradation is problematic, as well as in mines where transportation of the track components is simplified. Since the rail is continuously supported rail stresses are less; a 34 tonne axle load version has been designed and lighter rails can be used compared to sleepered track, additionally maintenance costs of ballast are reduced.
+
+The track has been used mainly in southern Africa, including a section of the Gautrain line in South Africa. The system has also been used in Saudi Arabia.
+
+The Railway Technical Research Institute of Japan has developed two types of ladder track; ballasted and a floating un-ballasted type.
+
+Both types utilise a 'combined rail' of steel rails each attached through a conventional modern railway fastener to a longitudinal pre-stressed concrete supports (6.25m long) which are kept in gauge by thick walled tubular steel cross members embedded in the concrete. Forms for axle load of 40 tonnes have been designed.
+
+The ballasted track show reduced maintenance (tamping) compared to conventional cross-tie sleeper track, longitudinal creep is greater than that in conventional track; for this reason transverse 'anti creep' panels are included in the structure.
+
+The non-ballasted track is supported by vibration absorbing springs (or elastomeric pads ) on a concrete road bed; the combined structure shows reduced vertical vibrations of the track bed compared to conventional track This property gives reduced noise levels when the track is utilised in a steel girder bridge.
+
+Specialised Track Systems (Pty.) Ltd. licenses its technology for ladder track to contractors; the track system is ballastless with steel lateral braces in a concrete roadbed, support of the track is by conventional rail fastening systems spaced at regular intervals. The design can also incorporate ducts within the beams (for cabling) and can be converted to slab track by in-situ concrete pouring. The company's main market is mining applications.

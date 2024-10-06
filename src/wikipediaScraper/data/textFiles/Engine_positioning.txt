@@ -1,0 +1,33 @@
+The powertrain layout of a motorised vehicle such as a car is often defined by the location of the engine or motors and the drive wheels .
+
+Layouts can roughly be divided into three categories: front-wheel drive (FWD), rear-wheel drive (RWD) and four-wheel drive (4WD). Many different combinations of engine location and driven wheels are found in practice, and the location of each is dependent on the application for which the vehicle will be used.
+
+The front-engine, front-wheel-drive layout (abbreviated as FF layout) places both the internal combustion engine and driven wheels at the front of the vehicle. This is the most common layout for cars since the late 20th century.
+
+Some early front-wheel drive cars from the 1930s had the engine located in the middle of the car.
+
+A rear-engine, front-wheel-drive layout is one in which the engine is between or behind the rear wheels, and drives the front wheels via a driveshaft, the complete reverse of a conventional front-engine, rear-wheel-drive vehicle layout. This layout has only been used on prototype and concept cars.
+
+The front-engine, rear-wheel drive layout (abbreviated as FR layout) is one where the engine is located at the front of the vehicle and driven wheels are located at the rear. This was the traditional automobile layout for most of the 20th century, and remains the most common layout for rear-wheel drive vehicles.
+
+The mid-engine, rear-wheel drive layout (abbreviated as MR layout) is one where the rear wheels are driven by an engine placed just in front of them, behind the passenger compartment. In contrast to the rear-engined RR layout, the center of mass of the engine is in front of the rear axle. This layout is typically chosen for its low moment of inertia and relatively favorable weight distribution.
+
+The rear-engine, rear-wheel drive layout (abbreviated as RR layout) places both the engine and drive wheels at the rear of the vehicle. In contrast to the MR layout, the center of mass of the engine is between the rear axle and the rear bumper. Although common in electric cars, and in transit buses and coaches due to the elimination of the drive shaft with low-floor bus, this layout has become increasingly rare in fossil-fuelled passenger cars. The Porsche 911 is notable for its continuous use of the RR layout since 1963.
+
+Drivetrains where power can be sent to all four wheels are referred to as either four-wheel drive (4WD) or all-wheel drive (AWD).
+
+The front-engine, four-wheel drive layout (abbreviated as F4 layout) places the engine at the front of the vehicle and drives all four roadwheels. This layout is typically chosen for better control on many surfaces, and is an important part of rally racing as well as off-road driving.
+
+Most four-wheel-drive layouts are front-engined and are derivatives of earlier front-engine, rear-wheel-drive designs.
+
+The mid-engine, four-wheel drive layout (abbreviated as M4 layout) places the engine in the middle of the vehicle, between both axles and drives all four road wheels.
+
+Although the term "mid-engine" can mean the engine is placed anywhere in the vehicle such that the centre of gravity of the engine lies between the front and rear axles, it is usually used for sports cars and racing cars where the engine is behind the passenger compartment. The motive output is then sent down a shaft to a differential in the centre of the car, which in the case of an M4 layout, distributes power to both front and rear axles.
+
+The rear-engine, four-wheel drive layout (abbreviated as R4) places the engine at the rear of the vehicle, and drives all four wheels.
+
+This layout is typically chosen to improve the traction or the handling of existing vehicle designs using the rear-engine, rear-wheel-drive layout (RR). For example, the Porsche 911 added all-wheel drive to the existing line-up of rear-wheel drive models in 1989.
+
+In automotive design , dual-motor, four-wheel-drive layout is mainly used by battery electric vehicles by placing electric motors on both front and rear axles and drives all four roadwheels, creating a four-wheel drive layout. This layout is made possible by the small size of electric motors compared to internal combustion engines , allowing it to be placed in multiple locations. It also eliminates the need of a drive shaft that are commonly used by conventional four-wheel drive vehicles to create space for batteries that are commonly mounted on the floor of electric vehicles.
+
+The layout is also beneficial to distribute available electrical horsepower to maximize torque and power in response to road grip conditions and weight transfer in the vehicle. For example, during hard acceleration, the front motor must reduce torque and power in order to prevent the front wheels from spinning as weight transfers to the rear of the vehicle. The excess power is transferred to the rear motor where it can be used immediately. The opposite applies when braking, when the front motor can accept more regenerative braking torque and power. However dual motors usually have less range.

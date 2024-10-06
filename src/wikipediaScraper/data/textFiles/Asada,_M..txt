@@ -1,0 +1,11 @@
+Minoru Asada (1953–present) is a Japanese engineer. He is a professor of Adaptive Machine Systems at the Graduate School of Engineering at Osaka University , Japan. He is a research leader for and director of neuroscience robotics and Constructive Developmental Science based on understanding the process of neuro-dynamics to social interaction. His research focuses on emergent robotics to better understand the interaction between the robot and its environment in an attempt to comprehend the complex cognitive processes in both natural and artificial systems.
+
+Asada attended 7 years of school in Nagahama City in Japan; 6 in elementary and 1 in junior high school. His father was an employee of the Japan National Railroad (JNR), and was posted to the north part of Japan to Toyama Prefecture . After one year, his father had to move again, however, fortunately for Asada, his older brother had just gotten into Toyama University . This allowed Asada to complete his education in this city. While in high school, he decided on the direction he would go as an engineer or scientist. He enrolled in Osaka University at 18 to study control engineering.
+
+He received a Ph.D. in control engineering from Osaka in 1982 and later became the Professor in the Department of Adaptive Machine Systems at the Graduate School of Engineering at that university in 1997.
+
+In 1982 he began to research “computer vision”, or pattern recognition , and the structure of motion in mobile robots. Asada is known for his work on image processing and robotic behaviors.
+
+He served as president of the International RoboCup Federation from 2002 to 2008 and Research “Director of the ASADA Synergistic Intelligence Project of ERATO” from 2005 to 2011.
+
+In 2012, the Japan Society for the Promotion of Science (JSPS) named him to serve as the Research Leader for the Specially Promoted Research Project (Tokusui) on Constructive Developmental Science Based on Understanding the Process From Neuro-Dynamics to Social Interaction. Since 2018, he has been the administrative director of Symbiotic Intelligent Systems Research Center at the Institute for Open and Transdisciplinary Research Initiatives at Osaka University.

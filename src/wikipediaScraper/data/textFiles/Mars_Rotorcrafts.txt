@@ -1,0 +1,43 @@
+A Mars aircraft is a vehicle capable of sustaining powered flight in the atmosphere of Mars . So far, the Mars helicopter Ingenuity is the only aircraft ever to fly on Mars , completing 72 successful flights covering 17.242 km (10.714 mi) in 2 hours, 8 minutes and 48 seconds of flight time. Ingenuity operated on Mars for 1042 sols (1071 total days ; 1 year, 341 days ), until its rotor blades, possibly all four, were damaged, causing NASA to retire the craft.
+
+It made the first powered flight on 19 April 2021, taking off from the surface. Previously, the experimental aircraft, NASA Mini-Sniffer , was considered for possible missions to fly in and study Mars' atmosphere, but that idea was abandoned. Aircraft may provide on site measurements of the atmosphere of Mars, as well as additional observations over extended areas. A long-term goal is to develop piloted Mars aircraft.
+
+Compared to Earth, the air on Mars is much thinner at the surface, with pressure less than 1% of Earth's at sea level, requiring a more efficient method to achieve lift . Offsetting that disadvantage, Mars air, mostly consisting of carbon dioxide ( CO 2 ), is denser per unit of volume than Earth air, and gravity on Mars is less than 40% of Earth's.
+
+In 1918, the Danish science fiction film Himmelskibet (aka A Trip to Mars ) featured an aerospace craft called Excelsior for a crewed trip to Mars.
+
+Before the start of Mars exploration with spacecraft, the density of Mars' atmosphere was suspected to be higher than was later measured to be, leading engineers to think that winged flight would be much easier than it actually is.  In his " Mars Project " ("Das Marsprojekt") concept, Wernher von Braun proposed winged vehicles for landing human missions on Mars.
+
+The first detailed Mars lander contracted by NASA was to Ford/Philco Aeronutronic in the early 1960s, which was for a lifting body design for the lander; this is when some of best estimates for the Mars atmosphere were significantly denser than revealed by the Mariner IV measurements in July 1965. The lander had a tub-shaped lifting body with winglets , and was one of the first detailed designs for Mars lander although it would not be able to fly in the revised figures for the Mars atmospheric conditions. The Aeronutronic Mars lifting-body lander design was based on Mars atmosphere of mostly nitrogen about 10% of Earth.
+
+July 1965 marked a shift away from lifting body and winged glider style Mars landers to ballistic entry gumdrop style landers.
+
+In the 1970s the Mini-Sniffer aircraft were made in several versions so it could also operate in an all- CO 2 environment. The Mini-Sniffer could run without oxygen by using hydrazine , and the design was considered for sampling the atmosphere of Mars. The airplane had a large propeller to be effective in the thin air and many flights of various configurations were made between 1975 and 1982.
+
+A winged rover design was proposed in the 1970s, to cover more area than the stationary Viking landers. There was a proposal by NASA in the 1990s for a Mars airplane to fly on Mars by the anniversary of the Wright Brothers 's first flight , in the "Faster, Better, Cheaper" era. The ARES Mars airplane proposal was selected as a Mars Scout Program candidate, but not selected for flight.
+
+In 2015, a Mars aircraft was considered as an option in the re-boot of the Japanese MELOS mission. One early design proposed a wing-span of 1.2m, a mass of 2.1 kg, and with the following mission profile: During the landing phase of the surface element of MELOS, the aircraft would be released at an altitude of 5 km then fly 4 minutes, covering 25 horizontal km.
+
+On April 19, 2021, the NASA helicopter Ingenuity became the first powered and controlled Mars aircraft to take flight. It originally landed on the planet while stored under the NASA Mars rover Perseverance .
+
+Prototype Mars planes have flown at close to 30 km (98,000 ft) altitude on Earth (in roughly twice of the average air pressure at Mars' surface), and tested expandable wings that cure in ultraviolet light. For flight in Mars' atmosphere, the Reynolds number would be very low compared to flight in Earth's atmosphere. Valles Marineris was targeted for an uncrewed aircraft flight and by Mars' gliders.
+
+Gliders could carry more scientific instrumentation, but cover less area. Hydrazine has been proposed as a fuel for Mars aircraft. At one point, NASA was developing plans for a wok-sized airplane "micromission", which would piggyback on a separate Mars bound payload. Mach 1 on Mars can be about 240 m/s (790 ft/s) while it is about 332 m/s (1,090 ft/s) on Earth.
+
+The Daedalus proposal in the canceled Mars Scout program designed a Mars glider that would fly over 400 km (250 mi) along the Coprates Chasma
+
+Proposed Mars airplane concepts include:
+
+Balloons may provide an alternative to parachutes, allowing for a soft landing. A balloon could allow a lander to take off and land at a new site. Two types of balloon technology are super-pressure and Montgolfiere. The super-pressure balloons try to contain the pressure caused by heating to maintain altitude.
+
+The Montgolfiere would use heated Martian air to create lift. An example of concept for Mars balloon was the Mars Geoscience Aerobot. Some work has been done to develop extremely thin, flexible solar cells that could allow a balloon's skin itself to generate power from the Sun.
+
+Airships with vacuum used to create lift have also been proposed.
+
+In 2002 a paper was published suggesting autonomous robotic helicopters for Mars exploration would be possible for the Mars Scout Program . A number of advantages of a viable rotorcraft design were noted, including the ability to pass over difficult Mars terrain yet still visit multiple sites in situ . The short hop made by Lunar Surveyor 6 in 1967 was noted as example of hopping to visit another site.
+
+Ingenuity , part of NASA 's Mars 2020 mission, is a defunct robotic helicopter that was deployed from the Perseverance rover and demonstrated the first rotorcraft flight in the atmosphere of Mars. NASA will be able to build on the design for future Mars missions. NASA announced the end of mission for Ingenuity as engineers found that the helicopter sustained damage after a communications blackout with Perseverance mid-flight. The helicopter flew 72 times in a period spanning three years; final system tests and data gathering are expected to continue for several months.
+
+India's ISRO , as a part of its Mangalyaan project aims to send a rotorcraft named MARBLE or Martian Boundary Layer Explorer . It is presently in the Conceptual stage of design.
+
+The Mars Express High Resolution Stereo Camera and the Mars Reconnaissance Orbiter ' s HiRISE camera can both provide virtual Mars flyovers by draping surface pictures over 3D terrain models.

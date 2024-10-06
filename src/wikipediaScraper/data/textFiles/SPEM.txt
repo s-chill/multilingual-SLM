@@ -1,0 +1,66 @@
+Meta-process modeling is a type of metamodeling used in software engineering and systems engineering for the analysis and construction of models applicable and useful to some predefined problems.
+
+Meta-process modeling supports the effort of creating flexible process models . The purpose of process models is to document and communicate processes and to enhance the reuse of processes. Thus, processes can be better taught and executed. Results of using meta-process models are an increased productivity of process engineers and an improved quality of the models they produce.
+
+Meta-process modeling focuses on and supports the process of constructing process models . Its main concern is to improve process models and to make them evolve, which in turn, will support the development of systems. This is important due to the fact that " processes change with time and so do the process models underlying them. Thus, new processes and models may have to be built and existing ones improved". "The focus has been to increase the level of formality of process models in order to make possible their enactment in process-centred software environments".
+
+A process meta-model is a meta model , "a description at the type level of a process model. A process model is, thus, an instantiation of a process meta-model. [..] A meta-model can be instantiated several times in order to define various process models. A process meta-model is at the meta-type level with respect to a process."
+
+There exist standards for several domains:
+
+There are different techniques for constructing process models. "Construction techniques used in the information systems area have developed independently of those in software engineering . In information systems, construction techniques exploit the notion of a meta-model and the two principal techniques used are those of instantiation and assembly . In software engineering the main construction technique used today is language-based. However, early techniques in both, information systems and software engineering were based on the experience of process engineers and were, therefore, ad hoc in nature."
+
+"Traditional process models are expressions of the experiences of their developers. Since this experience is not formalised and is, consequently, not available as a fund of knowledge, it can be said that these process models are the result of an ad hoc construction technique. This has two major consequences: it is not possible to know how these process models were generated, and they become dependent on the domain of experience. If process models are to be domain independent and if they are to be rapidly generable and modifiable, then we need to go away from experience based process model construction. Clearly, generation and modifiability relate to the process management policy adopted (see Usage World). Instantiation and assembly, by promoting modularization, facilitate the capitalisation of good practice and the improvement of given process models."
+
+The assembly technique is based on the idea of a process repository from which process components can be selected. Rolland (1998) lists two selection strategies:
+
+For the assembly technique to be successful, it is necessary that process models are modular. If the assembly technique is combined with the instantiation technique then the meta-model must itself be modular.
+
+For reusing processes a meta-process model identifies "the common, generic features of process models and represents them in a system of concepts. Such a representation has the potential to 'generate' all process models that share these features. This potential is realised when a generation technique is defined whose application results in the desired process model."
+
+Process models are then derived from the process meta-models through instantiation . Rolland associates a number of advantages with the instantiation approach:
+
+"The instantiation technique has been used, for example, in NATURE, Rolland 1993, Rolland 1994, and Rolland 1996. The process engineer must define the instances of contexts and relationships that comprise the process model of interest."
+
+Rolland (1998) lists numerous languages for expressing process models used by the software engineering community:
+
+as well as further computational paradigms:
+
+Languages are typically related to process programs whereas instantiation techniques have been used to construct process scripts.
+
+The meta-modeling process is often supported through software tools, called CAME tools (Computer Aided Method Engineering) or MetaCASE tools (Meta-level Computer Assisted Software Engineering tools).
+Often the instantiation technique "has been utilised to build the repository of Computer Aided Method Engineering environments".
+
+Example tools for meta-process modeling are:
+
+Colette Rolland (1999) provides an example of a meta-process model which utilizes the instantiation and assembly technique. In the paper the approach is called "Multi-model view" and was applied on the CREWS-L'Ecritoire method. The CREWS-L'Ecritoire method represents a methodical approach for Requirements Engineering , "the part of the IS development that involves investigating problems and requirements of the users community and developing a specification of the future system, the so-called conceptual schema.".
+
+Besides the CREWS-L'Ecritoire approach, the multi-model view has served as a basis for representing:
+
+Furthermore, the CREWS-L'Ecritoire utilizes process models and meta-process models in order to achieve flexibility for the situation at hand. The approach is based on the notion of a labelled graph of intentions and strategies called a map as well as its associated guidelines . Together, map (process model) and the guidelines form the method.
+The main source of this explanation is the elaboration of Rolland.
+
+The map is "a navigational structure which supports the dynamic selection of the intention to be achieved next and the appropriate strategy to achieve it"; it is "a process model in which a nondeterministic ordering of intentions and strategies has been included. It is a labelled directed graph with intentions as nodes and strategies as edges between intentions. The directed nature of the graph shows which intentions can follow which one."
+
+The map of the CREWS-L'Ecritoire method looks as follow:
+
+The map consists of goals / intentions (marked with ovals) which are connected by strategies (symbolized through arrows). An intention is a goal, an objective that the application engineer has in mind at a given point of time. A strategy is an approach, a manner to achieve an intention. The connection of two goals with a strategy is also called section .
+
+A map "allows the application engineer to determine a path from Start intention to Stop intention. The map contains a finite number of paths, each of them prescribing a way to develop the product, i.e. each of them is a process model. Therefore the map is a multi-model. It embodies several process models, providing a multi-model view for modeling a class of processes. None of the finite set of models included in the map is recommended 'a priori'. Instead the approach suggests a dynamic construction of the actual path by navigating in the map. In this sense the approach is sensitive to the specific situations as they arise in the process. The next intention and strategy to achieve it are selected dynamically by the application engineer among the several possible ones offered by the map. Furthermore, the approach is meant to allow the dynamic adjunction of a path in the map, i.e. adding a new strategy or a new section in the actual course of the process. In such a case guidelines that make available all choices open to handle a given situation are of great convenience. The map is associated to such guidelines".
+
+A guideline "helps in the operationalisation of the selected intention"; it is "a set of indications on how to proceed to achieve an objective or perform an activity." The description of the guidelines is based on the NATURE project's contextual approach and its corresponding enactment mechanism. Three types of guidelines can be distinguished:
+
+In our case, the following guidelines – which correspond with the map displayed above – need to be defined:
+
+The following graph displays the details for the Intention Achievement Guideline 8 (IAG-8).
+
+In the multi-model view as presented in the paper of C. Rolland, the meta-process (the instance of the meta-process model) is "a process for the generation of a path from the map and its instantaneous enactment for the application at hand." While the meta-process model can be represented in many different ways, a map was chosen again as a means to do so. It is not to be mixed up with the map for the process model as presented above.
+
+Colette Rolland describes the meta-model as follows: (Meta-intentions are in bold, meta-strategies in italic – in green in the map.)
+
+"The Start meta-intention starts the construction of a process by selecting a section in the method map which has map intention Start as source. The Choose Section meta-intention results in the selection of a method map section. The Enact Section meta-intention causes the execution of the method map section resulting from Choose Section . Finally, the Stop meta-intention stops the construction of the application process. This happens when the Enact Section meta-intention leads to the enactment of the method map section having Stop as the target. 
+As already explained in the previous sections, there are two ways in which a section of a method map can be selected, namely by selecting an intention or by selecting a strategy. Therefore, the meta-intention Choose Section has two meta-strategies associated with it, select intention and select strategy respectively. Once a method map section has been selected by Choose Section , the IAG to support its enactment must be retrieved; this is represented in [the graph] by associating the meta-strategy automated support with the meta-intention, Enact Section ."
+
+The sample process "Eliciting requirements of a Recycling Machine" is about a method for designing the requirements of recycling facilities. The recycling facilities are meant for customers of a supermarket. The adequate method is obtained through instantiation of the meta-process model on the process model.
+
+The following table displays the stepwise trace of the process to elicit requirements for the recycling machine (from ):

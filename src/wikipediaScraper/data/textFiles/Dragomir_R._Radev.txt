@@ -1,0 +1,15 @@
+Dragomir R. Radev (August 7, 1968 – March 29, 2023) was an American computer scientist who was a professor at Yale University , working on natural language processing and information retrieval . He also served as a University of Michigan computer science professor and Columbia University computer science adjunct professor, as well as a Member of the Advisory Board of Lawyaw .
+
+Radev worked in the fields of open domain question answering , multi-document summarization , and the application of NLP in Bioinformatics, Social Network Analysis and Political Science.
+
+Radev received his PhD in Computer Science from Columbia University in 1999. He had served on the executive committee of the Association for Computational Linguistics , and as survey editor and associate editor of the Journal of Artificial Intelligence Research .
+
+Radev died on March 29, 2023, at the age of 54.
+
+Radev served as the coach and led the US national team in the International Linguistics Olympiad (IOL) to several gold medals [1] [2] .
+
+As NACLO founder, Radev shared the Linguistic Society of America 2011 Linguistics, Language and the Public Award . He was the co-winner of the Gosnell Prize (2006) .
+
+In 2015, he was named a fellow of the Association for Computing Machinery "for contributions to natural language processing and computational linguistics ." He was elected a Fellow of the Association for the Advancement of Artificial Intelligence in 2020.
+
+In 2022, Dragomir Radev received the 2022 ACL Distinguished Service Award.

@@ -1,0 +1,127 @@
+Nanotribology is the branch of tribology that studies friction , wear , adhesion and lubrication phenomena at the nanoscale , where atomic interactions and quantum effects are not negligible. The aim of this discipline is characterizing and modifying surfaces for both scientific and technological purposes.
+
+Nanotribological research has historically involved both direct and indirect methodologies. Microscopy techniques, including Scanning Tunneling Microscope (STM), Atomic-Force Microscope (AFM) and Surface Forces Apparatus , (SFA) have been used to analyze surfaces with extremely high resolution, while indirect methods such as computational methods and Quartz crystal microbalance (QCM) have also been extensively employed.
+
+Changing the topology of surfaces at the nanoscale, friction can be either reduced or enhanced more intensively than macroscopic lubrication and adhesion; in this way, superlubrication and superadhesion can be achieved. In micro- and nano-mechanical devices problems of friction and wear, that are critical due to the extremely high surface volume ratio, can be solved covering moving parts with super lubricant coatings . On the other hand, where adhesion is an issue, nanotribological techniques offer a possibility to overcome such difficulties.
+
+Friction and wear have been technological issues since ancient periods. On the one hand, the scientific approach of the last centuries towards the comprehension of the underlying mechanisms was focused on macroscopic aspects of tribology. On the other hand, in nanotribology, the systems studied are composed of nanometric structures , where volume forces (such as those related to mass and gravity ) can often be considered negligible compared to surface forces . Scientific equipment to study such systems have been developed only in the second half of the 20th century. In 1969 the very first method to study the behavior of a molecularly thin liquid film sandwiched between two smooth surfaces through the SFA was developed. From this starting point, in 1980s researchers would employ other techniques to investigate solid state surfaces at the atomic scale.
+
+Direct observation of friction and wear at the nanoscale started with the first Scanning Tunneling Microscope (STM), which can obtain three-dimensional images of surfaces with atomic resolution; this instrument was developed by Gerd Binnig and Henrich Rohrer in 1981. STM can study only conductive materials, but in 1985 with the invention of the Atomic Force Microscope (AFM) by Binning and his colleagues, also non conductive surfaces can be observed. Afterwards, AFMs were modified to obtain data on normal and frictional forces: these modified microscopes are called Friction Force Microscopes (FFM) or Lateral Force Microscopes (LFM). The term "Nanotribology" was first used in the title of a 1990 publication and in a 1991 publication . in a title of a major review paper published in Nature in 1995 and in a title of a major Nanotribology Handbook in 1995.
+
+From the beginning of the 21st century, computer-based atomic simulation methods have been employed to study the behaviour of single asperities, even those composed by few atoms. Thanks to these techniques, the nature of bonds and interactions in materials can be understood with a high spatial and time resolution.
+
+The SFA ( Surface Forces Apparatus ) is an instrument used for measuring physical forces between surfaces, such as adhesion and capillary forces in liquids and vapors , and van der Waals interactions . Since 1969, the year in which the first apparatus of this kind was described, numerous versions of this tool have been developed.
+
+SFA 2000, which has fewer components and is easier to use and clean than previous versions of the apparatus, is one of the currently most advanced equipment utilized for nanotribological purposes on thin films , polymers , nanoparticles and polysaccharides . SFA 2000 has one single cantilever which is able to generate mechanically coarse and electrically fine movements in seven orders of magnitude, respectively with coils and with piezoelectric materials. The extra-fine control enables the user to have a positional accuracy lesser than 1 Å . The sample is trapped by two molecularly smooth surfaces of mica in which it perfectly adheres epitaxially .
+
+Normal forces can be measured by a simple relation:
+
+where Δ D a p p l i e d {\displaystyle \Delta D_{applied}} is the applied displacement by using one of the control methods mentioned before, k {\displaystyle k} is the spring constant and Δ D m e a s u r e d {\displaystyle \Delta D_{measured}} is the actual deformation of the sample measured by MBI . Moreover, if ∂ F ( D ) ∂ D > k {\displaystyle {\partial F(D) \over \partial D}>k} then there is a mechanical instability and therefore the lower surface will jump to a more stable region of the upper surface. And so, the adhesion force is measured with the following formula:
+
+Using the DMT model , the interaction energy per unit area can be calculated:
+
+where R {\displaystyle R} is the curvature radius and F c u r v e d ( D ) {\displaystyle F_{curved}(D)} is the force between cylyndrically curved surfaces.
+
+SPM techniques such as AFM and STM are widely used in nanotribology studies. The Scanning Tunneling Microscope is used mostly for morphological topological investigation of a clean conductive sample, because it is able to give an image of its surface with atomic resolution.
+
+The Atomic Force Microscope is a powerful tool in order to study tribology at a fundamental level. It provides an ultra-fine surface-tip contact with a high refined control over motion and atomic-level precision of measure . The microscope consists, basically, in a high flexible cantilever with a sharp tip, which is the part in contact with the sample and therefore the crossing section must be ideally atomic-size, but actually nanometric (radius of the section varies from 10 to 100 nm). In nanotribology AFM is commonly used for measuring normal and friction forces with a resolution of pico-Newtons .
+
+The tip is brought close to the sample's surface, consequently forces between the last atoms of the tip and the sample's deflect the cantilever proportionally to the intensity of this interactions. Normal forces bend the cantilever vertically up or down of the equilibrium position, depending on the sign of the force. The normal force can be calculated by means of the following equation:
+
+where k {\displaystyle k} is the spring constant of the cantilever, Δ V {\displaystyle \Delta V} is the output of the photodetector , which is an electric signal, directly with the displacement of the cantilever and σ {\displaystyle \sigma } is the optical-lever sensitivity of the AFM.
+
+On the other hand, lateral forces can be measured with the FFM, which is fundamentally very similar to the AFM. The main difference resides in the tip motion, that slides perpendicularly to its axis. These lateral forces, i.e. friction forces in this case, result in twisting the cantilever, which is controlled to ensure that only the tip touches the surface and not other parts of the probe. At every step the twist is measured and related with the frictional force with this formula:
+
+where Δ V {\displaystyle \Delta V} is the output voltage , k ϕ {\displaystyle k_{\phi }} is the torsional constant of the cantilever, h e f f {\displaystyle h_{eff}} is the height of the tip plus the cantilever thickness and δ {\displaystyle \delta } is the lateral deflection sensitivity.
+
+Since the tip is part of a compliant apparatus, the cantilever, the load can be specified and so the measurement is made in load-control mode; but in this way the cantilever has snap-in and snap-out instabilities and so in some regions measurements cannot be completed stably. These instabilities can be avoided with displacement-controlled techniques, one of this is the interfacial force microscopy.
+
+The tap can be at contact with the sample in the whole measurement process, and this is called contact mode (or static mode), otherwise it can be oscillated and this is called tapping mode (or dynamic mode). Contact mode is commonly applied on hard sample, on which the tip cannot leave any sign of wear, such as scars and debris. For softer materials tapping mode is used to minimize the effects of friction. In this case the tip is vibrated by a piezo and taps the surface at the resonant frequency of the cantilever, i.e. 70-400 kHz , and with an amplitude of 20-100 nm, high enough to allow the tip to not get stuck to the sample because of the adhesion force.
+
+The atomic force microscope can be used as a nanoindenter in order to measure hardness and Young's modulus of the sample. For this application, the tip is made of diamond and it is pressed against the surface for about two seconds, then the procedure is repeated with different loads. The hardness is obtained dividing the maximum load by the residual imprint of the indenter, which can be different from the indenter section because of sink-in or pile-up phenomena. The Young's modulus can be calculated using the Oliver and Pharr method, which allows to obtain a relation between the stiffness of the sample, function of the indentation area, and its Young's and Poisson's moduli.
+
+Computational methods are particularly useful in nanotribology for studying various phenomena, such as nanoindentation, friction, wear or lubrication. In an atomistic simulation, every single atom's motion and trajectory can be tracked with a very high precision and so this information can be related to experimental results, in order to interpret them, to confirm a theory or to have access to phenomena, that are invisible to a direct study. Moreover, many experimental difficulties do not exist in an atomistic simulation, such as sample preparation and instrument calibration . Theoretically every surface can be created from a flawless one to the most disordered. As well as in the other fields where atomistic simulations are used, the main limitations of these techniques relies on the lack of accurate interatomic potentials and the limited computing power . For this reason, simulation time is very often small ( femtoseconds ) and the time step is limited to 1 fs for fundamental simulations up to 5 fs for coarse-grained models.
+
+It has been demonstrated with an atomistic simulation that the attraction force between the tip and sample's surface in a SPM measurement produces a jump-to-contact effect. This phenomenon has a completely different origin from the snap-in that occurs in load-controlled AFM, because this latter is originated from the finite compliance of the cantilever. The origin of the atomic resolution of an AFM was discovered and it has been shown that covalent bonds form between the tip and the sample which dominate van der Waals interactions and they are responsible for a such high resolution. Simulating an AFM scansion in contact mode, It has been found that a vacancy or an adatom can be detected only by an atomically sharp tip. Whether in non-contact mode vacancies and adatoms can be distinguished with the so-called frequency modulation technique with a non-atomically sharp tip. In conclusion only in non-contact mode can be achieved atomic resolution with an AFM.
+
+Friction, the force opposing to the relative motion, is usually idealized by means of some empirical laws such as Amonton ’s First and Second laws and Coulomb's law . At the nanoscale, however, such laws may lose their validity. For instance, Amonton's second law states that friction coefficient is independent from the area of contact. Surfaces, in general, have asperities, that reduce the real area of contact and therefore, minimizing such area can minimize friction.
+
+During the scanning process with an AFM or FFM, the tip, sliding on the sample's surface, passes through both low (stable) and high potential energy points, determined, for instance, by atomic positions or, on a larger scale, by surface roughness. Without considering thermal effects, the only force that makes the tip overcome these potential barriers is the spring force given by the support: this causes the stick-slip motion.
+
+At the nanoscale, friction coefficient depends on several conditions. For example, with light loading conditions, tend to be lower than those at the macroscale. With higher loading conditions, such coefficient tends to be similar to the macroscopic one. Temperature and relative motion speed can also affect friction.
+
+Lubrication is the technique used to reduce friction between two surfaces in mutual contact. Generally, lubricants are fluids introduced between these surfaces in order to reduce friction.
+
+However, in micro- or nano-devices, lubrication is often required and traditional lubricants become too viscous when confined in layers of molecular thickness. A more effective technique is based on thin films, commonly produced by Langmuir–Blodgett deposition, or self-assembled monolayers
+
+Thin films and self-assembled monolayers are also used to increase adhesion phenomena.
+
+Two thin films made of perfluorinated lubricants (PFPE) with different chemical composition were found to have opposite behaviors in humid environment: hydrophobicity increases the adhesive force and decreases lubrication of films with nonpolar end groups; instead, hydrophilicity has the opposite effects with polar end groups.
+
+“ Superlubricity is a frictionless tribological state sometimes occurring in nanoscale material junctions”.
+
+At the nanoscale, friction tends to be non isotropic: if two surfaces sliding against each other have incommensurate surface lattice structures, each atom is subject to different amount of force from different directions . Forces, in this situation, can offset each other, resulting in almost zero friction.
+
+The very first proof of this was obtained using a UHV-STM to measure.  If lattices are incommensurable, friction was not observed, however, if the surfaces are commensurable, friction force is present. At the atomic level, these tribological properties are directly connected with superlubricity.
+
+An example of this is given by solid lubricants , such as graphite , MoS2 and Ti3SiC2: this can be explained with the low resistance to shear between layers due to the stratified structure of these solids.
+
+Even if at the macroscopic scale friction involves multiple microcontacts with different size and orientation, basing on these experiments one can speculate that a large fraction of contacts will be in superlubric regime. This leads to a great reduction in average friction force, explaining why such solids have a lubricant effect.
+
+Other experiments carried out with the LFM shows that the stick-slip regime is not visible if the applied normal load is negative: the sliding of the tip is smooth and the average friction force seems to be zero.
+
+Other mechanisms of superlubricity may include: (a) Thermodynamic repulsion due to a layer of free or grafted macromolecules between the bodies so that the entropy of the intermediate layer decreases at small distances due to stronger confinement; (b) Electrical repulsion due to external electrical voltage; (c) Repulsion due to electrical double layer; (d) Repulsion due to thermal fluctuations.
+
+With the introduction of AFM and FFM, thermal effects on lubricity at the atomic scale could not be considered negligible any more. Thermal excitation can result in multiple jumps of the tip in the direction of the slide and backward. When the sliding velocity is low, the tip takes a long time to move between low potential energy points and thermal motion can cause it to make a lot of spontaneous forward and reverse jumps: therefore, the required lateral force to make the tip follow the slow support motion is small, so the friction force becomes very low.
+
+For this situation was introduced the term thermolubricity.
+
+Adhesion is the tendency of two surfaces to stay attached together.
+
+The attention in studying adhesion at the micro- and nanoscale increased with the development of AFM: it can be used in nanoindentation experiments, in order to quantify adhesion forces
+
+According to these studies, hardness was found to be constant with film thickness, and it's given by:
+
+where A c {\textstyle A_{c}} is the indentation's area and P c {\textstyle P_{c}} is the load applied to the indenter.
+
+Stiffness, defined as S = d P d h {\textstyle S={\frac {dP}{dh}}} , where h {\displaystyle h} is the indentation's depth, can be obtained from r c {\textstyle r_{c}} , the radius of the indenter-contact line.
+
+E ′ {\textstyle E'} is the reduced Young's modulus, E i {\textstyle E_{i}} and ν i {\displaystyle \nu _{i}} are the indenter's Young's modulus and Poisson's ratio and E s {\displaystyle E_{s}} , ν s {\displaystyle \nu _{s}} are the same parameters for the sample.
+
+However, r c {\textstyle r_{c}} can't always be determined from direct observation; it could be deduced from the value of h c {\textstyle h_{c}} (depth of indentation), but it's possible only if there is no sink-in or pile-up (perfect Sneddon's surface conditions).
+
+If there is sink in, for example, and the indenter is conical the situation is described below.
+
+From the image, we can see that:
+
+From Oliver and Pharr's study
+
+where ε depends on the geometry of the indenter; ϵ = 1 − 2 π {\textstyle \epsilon =1-{\frac {2}{\pi }}} if it's conical, ϵ = 1 2 {\textstyle \epsilon ={\frac {1}{2}}} if it's spherical and ϵ = 1 {\textstyle \epsilon =1} if it's a flat cylinder.
+
+Oliver and Pharr, therefore, did not consider adhesive force, but only elastic force, so they concluded:
+
+Considering adhesive force
+
+Introducing W a {\textstyle W_{a}} as the adhesion energy and γ a {\displaystyle \gamma _{a}} as the work of adhesion:
+
+obtaining
+
+In conclusion:
+
+The consequences of the additional term of adhesion is visible in the following graph:
+
+During loading, indentation depth is higher when adhesion is not negligible: adhesion forces contributes to the work of indentation; on the other hand, during unloading process, adhesion forces opposes indentation process.
+
+Adhesion is also related to capillary forces acting between two surfaces when in presence of humidity.
+
+This phenomenon is very important in thin films, because a mismatch between the film and the surface can cause internal stresses and, consequently interface debonding.
+
+When a normal load is applied with an indenter, the film deforms plastically, until the load reaches a critical value: an interfacial fracture starts to develop. The crack propagates radially, until the film is buckled.
+
+On the other hand, adhesion was also investigated for its biomimetic applications: several creatures including insects, spiders, lizards and geckos have developed a unique climbing ability that are trying to be replicated in synthetic materials .
+
+It was shown that a multi-level hierarchical structure produces adhesion enhancement: a synthetic adhesive replicating gecko feet organization was created using nanofabrication techniques and self-assembly .
+
+Wear is related to the removal and the deformation of a material caused by the mechanical actions. At the nanoscale, wear is not uniform. The mechanism of wear generally begins on the surface of material. The relative motion of two surfaces can cause indentations obtained by the removal and deformation of surface material. Continued motion can eventually grow in both width and depth these indentations.
+
+At the macro scale wear is measured by quantifying the volume (or mass) of material loss or by measuring the ratio of wear volume per energy dissipated. At the nanoscale, however, measuring such volume can be difficult and therefore, it is possible to use evaluate wear by analyzing modifications in surface topology, generally by means of AFM scanning.

@@ -1,0 +1,25 @@
+BioPerl is a collection of Perl modules that facilitate the development of Perl scripts for bioinformatics applications. It has played an integral role in the Human Genome Project .
+
+BioPerl is an active open source software project supported by the Open Bioinformatics Foundation . The first set of Perl codes of BioPerl was created by Tim Hubbard and Jong Bhak at MRC Centre Cambridge, where the first genome sequencing was carried out by Fred Sanger . MRC Centre was one of the hubs and birthplaces of modern bioinformatics as it had a large quantity of DNA sequences and 3D protein structures. Hubbard was using the th_lib.pl Perl library, which contained many useful Perl subroutines for bioinformatics. Bhak, Hubbard's first PhD student, created jong_lib.pl . Bhak merged the two Perl subroutine libraries into Bio.pl . The name BioPerl was coined jointly by Bhak and Steven Brenner at the Centre for Protein Engineering (CPE). In 1995, Brenner organized a BioPerl session at the Intelligent Systems for Molecular Biology conference, held in Cambridge. BioPerl had some users in coming months including Georg Fuellen who organized a training course in Germany. Fuellen's colleagues and students greatly extended BioPerl; this was further expanded by others, including Steve Chervitz who was actively developing Perl codes for his yeast genome database. The major expansion came when Cambridge student Ewan Birney joined the development team.
+
+The first stable release was on 11 June 2002; the most recent stable (in terms of API) release is 1.7.2 from 7 September 2017. There are also developer releases produced periodically. Version series 1.7.x is considered to be the most stable (in terms of bugs) version of BioPerl and is recommended for everyday use.
+
+In order to take advantage of BioPerl, the user needs a basic understanding of the Perl programming language including an understanding of how to use Perl references, modules, objects, and methods.
+
+BioPerl provides software modules for many of the typical tasks of bioinformatics programming. These include:
+
+Example of accessing GenBank to retrieve a sequence:
+
+Example code for transforming formats
+
+Example of gathering statistics for a given sequence
+
+In addition to being used directly by end-users, BioPerl has also provided the base for a wide variety of bioinformatic tools, including amongst others :
+
+New tools and algorithms from external developers are often integrated directly into BioPerl itself:
+
+BioPerl was one of the first biological module repositories that increased its usability. It has very easy to install modules, along with a flexible global repository. BioPerl uses good test modules for a large variety of processes.
+
+There are many ways to use BioPerl, from simple scripting to very complex object programming. This makes the language not clear and sometimes hard to understand. For as many modules that BioPerl has, some do not always work the way they are intended.
+
+Several related bioinformatics libraries implemented in other programming languages exist as part of the Open Bioinformatics Foundation , including:

@@ -1,0 +1,5 @@
+Gtk2-Perl is a set of wrappers for the Perl programming language around the GTK and further GNOME libraries . Gtk-Perl is free and open-source software licensed under the GNU Lesser General Public License (LGPL) version 2.1. Developers and interested parties can usually be found on the IRC channel #gtk-perl on irc.gnome.org.
+
+Gtk2-Perl is part of the official GNOME Platform Bindings release.
+
+The sample program creates a GTK Window titled "Hello World!". The window contains a Button labelled "Press me." When the button is pressed, the message "Hello again - the button was pressed" is displayed on the console via the callback inside the anonymous subroutine connected to the "clicked" signal.

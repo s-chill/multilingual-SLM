@@ -1,0 +1,7 @@
+An MOS-controlled thyristor (MCT) is a voltage-controlled fully controllable thyristor , controlled by MOSFETs (metal–oxide–semiconductor field-effect transistors). It was invented by V.A.K. Temple in 1984, and was principally similar to the earlier insulated-gate bipolar transistor (IGBT). MCTs are similar in operation to GTO thyristors , but have voltage controlled insulated gates. They have two MOSFETs of opposite conductivity types in their equivalent circuits. One is responsible for turn-on and the other for turn-off. A thyristor with only one MOSFET in its equivalent circuit, which can only be turned on (like normal SCRs ), is called an MOS-gated thyristor .
+
+Positive voltage on the gate terminal with respect to the cathode turns the thyristor to the on state.
+
+Negative voltage on the gate terminal with respect to the anode, which is close to cathode voltage during the on state, turns the thyristor to the off state.
+
+MCTs were commercialized only briefly.

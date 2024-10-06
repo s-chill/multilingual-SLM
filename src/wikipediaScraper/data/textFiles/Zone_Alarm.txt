@@ -1,0 +1,15 @@
+ZoneAlarm is an internet security software company that provides consumer antivirus and firewall products. ZoneAlarm was developed by Zone Labs , whose CEOs were Kevin Nickel, Mouad Abid and Shahin and the Company was acquired in March 2004 by Check Point . ZoneAlarm's firewall security products include an inbound intrusion detection system , as well as the ability to control which programs can open outbound connections.
+
+In ZoneAlarm, program access is controlled by way of "zones", into which all network connections are divided. The "trusted zone" which generally includes the user's local area network can share resources such as files and printers. The "Internet zone" includes everything without the trusted zone. The user can grant permissions (trusted zone client, trusted zone server, Internet zone client, Internet zone server) to programs before they attempt to access the Internet (e.g. before the first use) or ZoneAlarm will ask the user to grant permissions on the first access attempt.
+
+"True Vector Internet Monitor", also known as "TrueVector Security Engine", is a Windows service that is the core of ZoneAlarm. In the processes list its Image Name is "vsmon.exe". This monitors internet traffic and generates alerts for disallowed access. "Operating System Firewall" (OSFirewall) monitors programs and generates alerts when they perform suspicious behaviors. The OSFirewall is useful in preventing rootkits and other spyware. "SmartDefense Advisor" is the name ZoneAlarm give to a service available in all versions that helps the user with certain types of alert, using a database of trusted program signatures to provide the user with advice on allowing or denying Internet access in response to program requests.
+
+The current free version of Zonealarm has an ad for the paid version that pops up every time you turn on your computer after a short delay.
+
+Both the free and Pro editions of ZoneAlarm Firewall were designated as PCMag ' s Editor's Choice in 2017.
+
+As of January 2006, ZoneAlarm was reportedly sending data to the company's servers in a covert fashion. A developer dismissed allegations that ZoneAlarm was spying on its clients, saying that it was an issue related to software updates and that it would be fixed.
+
+In December 2007, a browser toolbar was shipped with ZoneAlarm as an opt-out, which was not well received. This was removed in later versions of the software.
+
+On September 2, 2010, the free version of ZoneAlarm started showing a "Global Virus Alert" popup as a scareware tactic to get users to switch to their paid security suite. The popup was turned off by ZoneAlarm marketing team after an uproar from disgruntled users, many of whom uninstalled the software.

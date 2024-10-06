@@ -1,0 +1,33 @@
+A backup camera (also called a reversing camera or rear-view camera ) is a video camera specifically designed to be attached to the rear of a vehicle to aid in reversing and reduce the rear blind spot . The rear blind spot has been described as a "killing zone" due to the accidents it contributes to. Backup cameras are usually connected to the vehicle's head unit display. A common variant is a surround-view system, which assembles a synthetic but positionally accurate top-down view of the vehicle and its surroundings.
+
+Backup cameras have been regulated by law in Canada and the United States since 2018. Since May of that year, backup cameras have been required on all new vehicles sold in the United States.
+
+The design of a backup camera is distinct from other cameras because the image is horizontally flipped to produce a mirror image. This is necessary because the camera and the driver face opposite directions; without this adjustment, the camera's right would be on the driver's left and vice versa. A mirrored image makes the orientation of the display consistent with the physical mirrors installed on the vehicle. A backup camera typically utilizes a wide-angle or fish-eye lens. Although such lenses may limit the camera's ability to capture distant objects, they allow the camera to see an uninterrupted horizontal path from one rear corner to the other. The camera is typically pointed at a downward angle to view potential obstacles on the ground.
+
+Backup cameras use dashboard screens that are also used with GPS navigation systems. Inside the vehicle, the display is typically wired to automatically activate when the transmission is set to reverse, showing the backup view on the dashboard screen while the vehicle is in reverse and/or providing grid guidelines to aid the driver.
+
+Backup cameras are produced in different varieties depending on the application:
+
+The first backup camera was used in the 1956 Buick Centurion concept car, presented in January 1956 at the General Motors Motorama . The vehicle had a rear-mounted television camera that sent images to a TV screen on the dashboard in place of the rear-view mirror.
+
+The 1972 Volvo Experimental Safety Car (VESC) also had a backup camera, but this feature did not make it into the subsequent Volvo 240 model.
+
+The first production automobile to incorporate a backup camera was the 1991 Toyota Soarer Limited (UZZ31 and UZZ32), which was only available in Japan. The Toyota system used a color EMV screen with a rear-spoiler-mounted CCD camera. This system was discontinued in 1997. In April 2000, Nissan's Infiniti division introduced the Rear View Monitor on the 2002 Infiniti Q45 flagship sedan. Using colored on-screen guidelines as a parking distance parameter, the Rear View Monitor operated from a license-plate-mounted camera in the trunk that transmitted a mirrored image to a 7-inch in-dash LCD screen. It was available as optional equipment at the North American launch in March 2001. The 2002 Nissan Primera introduced the Rear View Monitor backup camera system to territories outside Japan and North America.
+
+Aftermarket options for cars have been available for some time with electronics manufacturers offering multiple car upgrades that can be installed by professionals without replacing the car's center console.
+
+Infiniti introduced the first surround-view cameras , making the system available on the 2008 EX35 and marketing it as the Around View Monitor. The system used four cameras located at the front, back, and sides of the vehicle, feeding images to an image processing unit to create a synthetic but positionally accurate top-down view of the car and its surroundings. In most modern systems, the pictures appear in such detail that it's difficult to believe they were not taken from above the vehicle.
+
+Other manufacturers have since offered similar systems, such as Bird's Eye View Camera (Toyota) and Surround Vision (Chevrolet).
+
+First offered in October 2018, the Japanese market Lexus ES can be optioned with cameras as side view mirrors . This feature is also offered on the Audi Q8 e-tron and Hyundai Ioniq 5 .
+
+These advanced cameras do not require cables between the camera and the display, functioning remotely. They typically switch on automatically when the reverse gear is engaged. Some models used solar energy for power. The display can be powered from the 12-volt socket on the car's dashboard, and some models sync directly with a mobile phone via an app.
+
+Blind spot monitors may include "Cross Traffic Alert", which alerts drivers when traffic is approaching from the sides while backing out of a parking space.
+
+In the United States, the Cameron Gulbransen Kids Transportation Safety Act of 2007 required the United States Department of Transportation to issue backup-collision-safety regulations within three years and require full compliance within four years after final rulemaking.
+
+The statutory deadline for issuing the final regulations was February 2011. However, the USDOT repeatedly extended the deadline to analyze costs and benefits of the requirement. In September 2013, Greg Gulbransen , the father of the child after whom the law was named, along with a group of consumers and advocates, submitted a petition to the Second Circuit Court of Appeals , demanding that the USDOT implement regulations on backup cameras within 90 days. About half of model year 2012 automobiles were equipped with backup cameras.
+
+On March 31, 2014, three years past its deadline, the U.S. National Highway Traffic Safety Administration announced that it would require all automobiles sold in the United States built beginning in May 2018 to include backup cameras. On October 31, 2016, Transport Canada issued a similar mandate beginning at the same time.

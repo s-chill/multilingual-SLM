@@ -1,0 +1,57 @@
+MODFLOW is the U.S. Geological Survey modular finite-difference flow model, which is a computer code that solves the groundwater flow equation . The program is used by hydrogeologists to simulate the flow of groundwater through aquifers . The source code is free public domain software , written primarily in Fortran , and can compile and run on Microsoft Windows or Unix-like operating systems.
+
+Since its original development in the early 1980s, the USGS has made six major releases, and is now considered to be the de facto standard code for aquifer simulation. There are several actively developed commercial and non-commercial graphical user interfaces for MODFLOW.
+
+MODFLOW was constructed in what was in 1980's called a modular design. This means it has many of the attributes of what came to be called object-oriented programming. For example, capabilities (called "packages") that simulate subsidence or lakes or streams, can easily be turned on and off and the execution time and storage requirements of those packages go away entirely. If a programmer wants to change something in MODFLOW, the clean organization makes it easy. Indeed, this kind of innovation is exactly what was anticipated when MODFLOW was designed.
+
+Importantly, the modularity of MODFLOW makes it possible for different Packages to be written that are intended to address the same simulation goal in different ways. This allows differences of opinion about how system processes function to be tested. Such testing is an important part of multi-modeling, or alternative hypothesis testing. Models like MODFLOW make this kind of testing more definitive and controlled. This results because other aspects of the program remain the same. Tests become more definitive because they become less prone to being influenced unknowingly by other numerical and programming differences.
+
+The governing partial differential equation for a confined aquifer used in MODFLOW is:
+
+where
+
+The finite difference form of the partial differential in a discretized aquifer domain (represented using rows, columns and layers) is:
+
+where
+
+This equation is formulated into a system of equations to be solved as:
+
+where
+
+or in matrix form as:
+
+where
+
+The USGS throughout the 1970s had developed several hundred models, written in different dialects of FORTRAN. At the time, it was common practice to rewrite a new model to fit the need of a new groundwater scenario. The concept for MODFLOW was originally designed in 1981 to provide a common modular groundwater model, which could be compiled on multiple platforms without major (or any) modification, and can read and write common formats. Different aspects of the groundwater system would be handled using the modules, similar to the idea of a " component stereo system ". The original name of the code was "The USGS Modular Three-Dimensional Finite-Difference Ground-Water Flow Model", or informally as "The Modular Model".  The name MODFLOW was coined several years after the initial code development, which started in 1981.
+
+The first version of MODFLOW was published on December 28, 1983, and was coded entirely in FORTRAN 66 . The source code for this version is listed in USGS Open File Report 83-875 referred to above.
+
+This version of MODFLOW was rewritten in FORTRAN 77 , and was originally released on July 24, 1987. The current version of MODFLOW-88 is 2.6, released on September 20, 1996.
+
+MODPATH , was initially developed in 1989 to post-process the steady-state MODFLOW-88 data to determine three-dimensional pathlines of particles. This innovation has been indispensable for the fields of contaminant hydrogeology . It is still used as a post-processor in recent versions of MODFLOW.
+
+A separate program, MODFLOWP , was developed in 1992 to estimate various parameters used in MODFLOW. This program was eventually built into MODFLOW-2000.
+
+MODFLOW-96 (version 3.0) was originally released on December 3, 1996, and is a cleaned-up and revised continuation of MODFLOW-88. There are three final releases of MODFLOW-96:
+
+Several graphical interfaces were first developed using the MODFLOW-96 code.
+
+MODFLOW-2000 (version 1.0; version numbering was reset) was released on July 20, 2000, which merged MODFLOWP and HYDMOD codes into the main program and has integrated observation, sensitivity analysis, parameter estimation, and uncertainty evaluation capabilities. Many new packages and enhancements were also included, including new solvers, stream and saturated flow packages. The internal design concepts also changed from previous versions, such that packages , processes and modules are distinct. This version was coded in a mixture of FORTRAN 77, Fortran 90 , and one solver was programmed in C . MODFLOW-2000 can also be compiled for parallel computing , which can allow multiple processors to be used to increase model complexity and/or reduce simulation time. The parallelization capability is designed to support the sensitivity analysis, parameter estimation, and uncertainty analysis capabilities of MODFLOW-2000.
+
+The final version of MODFLOW-2000 (or MF2K ) is version 1.19.01, released on March 25, 2010. There are four related or branched codes based on MODFLOW-2000:
+
+MODFLOW-2005 differs from MODFLOW-2000 in that the sensitivity analysis, parameter estimation, and uncertainty evaluation capabilities are removed. Thus, the support for these capabilities now falls to "clip on" codes that are supported externally to the MODFLOW support effort. In addition, the code was reorganized to support multiple models within one MODFLOW run, as needed for the LGR (Local Grid Refinement) capability. MODFLOW-2005 is written primarily in Fortran 90 and C, with C being used for one solver.
+
+The current version of MODFLOW-2005 is version 1.12.00, released on February 3, 2017. Related or branched codes include:
+
+MODFLOW 6 (MF6), first released in 2017, is the sixth core version of MODFLOW to be released by the USGS. This release is a rewrite of MODFLOW following an object-oriented programming paradigm in Fortran, and provides a platform that includes the capabilities from several previous MODFLOW-2005 versions, including MODFLOW-NWT, MODFLOW-USG, and MODFLOW-LGR. MODFLOW 6 supports structured or unstructured grids, has full support for the Newton-Raphson formulation, and has a unique Water Mover Package that allows flows to be routed between the advanced packages, including the Streamflow Routing, Lake, Multi-Aquifer Well, and Unsaturated Zone Flow Packages.  MODFLOW 6 also contains a Groundwater Transport (GWT) model that simulates transient three-dimensional solute transport on structured or unstructured grids and through the advanced flow and mover packages.  An Application Programming Interface (API) is also available for MODFLOW 6, which allows the program to be coupled with other models or controlled with popular scripting languages, such as Python.  While there are a few features lacking in the current release that are supported in MODFLOW-2005, most of the popular capabilities in previous MODFLOW versions are available in MODFLOW 6. The current version is 6.2.2, released July 30, 2021.
+
+The names in this table are the labels used to turn MODFLOW capabilities on and off via a key input file. Most capabilities have many alternatives or can be omitted, but the ones related to the BASIC Package are always required. Many of the capabilities introduced are supported in later versions, though the grid change enabled with MODFLOW-USG and MODFLOW 6 meant that such backward compatibility was rather selective.
+
+There are several graphical interfaces to MODFLOW, which often include the compiled MODFLOW code with modifications. These programs aid the input of data for creating MODFLOW models.
+
+Non-commercial MODFLOW versions are free, however, their licensing usually limit the use to non-profit educational or research purposes.
+
+Commercial MODFLOW programs are typically used by governments and consultants for  practical applications of MODFLOW to real-world groundwater problems. Professional versions of MODFLOW are generally priced at a minimum of around $1000 and typically range upward to US$7000. This is a list of commercial programs for MODFLOW:
+
+All current versions of these programs run only on Microsoft Windows, however previous versions of GMS (up to Version 3.1) were compiled for several Unix platforms.

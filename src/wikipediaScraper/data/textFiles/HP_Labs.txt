@@ -1,0 +1,35 @@
+HP Labs is the exploratory and advanced research group for HP Inc. HP Labs' headquarters is in Palo Alto, California and the group has research and development facilities in Bristol, UK. The development of programmable desktop calculators, inkjet printing, and 3D graphics are credited to HP Labs researchers.
+
+HP Labs was established on March 3, 1966, by Hewlett-Packard founders Bill Hewlett and David Packard , seeking to create an organization not bound by day-to-day business concerns.
+
+The labs have downsized dramatically; in August 2007, HP executives drastically diminished the number of projects, down from 150 to 30. As of 2018, HP Labs has just over 200 researchers, compared to earlier staffing levels of 500 researchers.
+
+With Hewlett Packard Enterprise being spun off from Hewlett-Packard on November 1, 2015, and the remaining company being renamed to HP Inc. , the research lab also spun off Hewlett Packard Labs to Hewlett Packard Enterprise and HP Labs was kept for HP Inc.
+
+As the Semiconductor Lab's first manager, Mohamed Atalla launched a material science investigation program that provided a base technology for gallium arsenide , gallium arsenide phosphide and indium arsenide devices. These devices became the core technology used by HP's Microwave Division to develop sweepers and network analyzers that pushed 20–40 GHz frequency, giving HP more than 90% of the military communications market by the 1970s.
+
+HP Labs was involved in HP's research and development (R&D) on practical light-emitting diodes (LEDs) between 1966 and 1969. The first practical LED displays were built at Atalla's Semiconductor Lab. HP introduced the first commercial LED display in 1968. In February 1969, they introduced the HP Model 5082-7000 Numeric Indicator. It was the first intelligent LED display, and was a revolution in digital display technology, replacing the Nixie tube and becoming the basis for later LED displays.
+
+In 1977, HP Labs fabricated prototypes of the DMOS (double-diffused MOSFET), a type of power MOSFET . They demonstrated that it was superior to the VMOS (V-groove MOSFET) with its lower on-resistance and higher breakdown voltage. The DMOS became the most common power transistor used in power electronics .
+
+During the early 90s, HP Labs invented the concept of an Explicitly parallel instruction computing (EPIC) instruction set, which led to the Intel Itanium architecture . Towards the end of the 90s, HP Labs worked on a precursor to web services, known as e-Speak.
+
+In 1999, HP Labs and UCLA built the world's first molecular logic gate for eventual application in chemically assembled nano-computers .
+
+During the 2000s, HP Labs in Bristol created Jena , a semantic web framework.
+
+Today, HP Labs specializes in products and solutions related to laptops and tablets, desktop computers, printers, ink and toner cartridges, display accessories and business solutions.
+
+HP Labs has made a substantial investment in the development of HP MultiJet Fusion technology. Previously, MetalJet technology was jointly developed between the 3D Print business and HP Labs, allowing for advanced metals to be incorporated in 3D printing .
+
+The lab invents microfluidic and imaging technologies for markets beyond office and home print, such as flexible packaging, life sciences, and sensing. The lab has also worked to develop a new method for isolating rare cancer cells.
+
+Security research began in the 1990s, leading to the co-founding of the TCPA alliance, later known as the Trusted Computing Group . In 2001, a Trusted Linux OS offering was created amongst many years of trusted computing development. Various research projects led to product features such as Virus Throttle, HP SureStart, Printer Runtime Intrusion Detection, HP Connection Inspector and HP SureAdmin.
+
+The following have served as Director of HP Labs since its foundation in 1966.
+
+HP Labs has laboratories in two major sites:
+
+Former sites:
+
+Some of the former employees of HP's Research Labs include:

@@ -1,0 +1,11 @@
+Flood Modeller is a computer program developed by Jacobs that assesses flood risk by simulating the flow of water through river channels, urban drainage networks and across floodplains using a range of one- and two-dimensional hydraulic solvers . The software incorporates a user interface for building, running and viewing the results of models, including a GIS map interface.
+
+The software has been independently benchmarked by the Environment Agency and is used extensively to undertake modelling of flood risk, develop flood risk management schemes and provide flood forecasting services.
+
+Initially developed by Halcrow Group and then CH2M Hill, Flood Modeller is now developed by Jacobs Solutions.  Flood Modeller was previously known as "ISIS" (after the local name for the Upper Thames ).
+
+Flood Modeller includes steady-state and unsteady 1D river solvers for modelling open-channels.
+
+It also provides a 1D urban solver for modelling urban drainage systems.
+
+Flood Modeller includes three different 2D solvers:

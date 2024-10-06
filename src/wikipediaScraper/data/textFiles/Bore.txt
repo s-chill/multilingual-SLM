@@ -1,0 +1,25 @@
+In a piston engine , the bore (or cylinder bore ) is the diameter of each cylinder .
+
+Engine displacement is calculated based on bore, stroke length and the number of cylinders:
+
+The stroke ratio , determined by dividing the bore by the stroke, traditionally indicated whether an engine was designed for power at high engine speeds ( rpm ) or torque at lower engine speeds. The term "bore" can also be applied to the bore of a locomotive cylinder or steam engine pistons .
+
+The term bore also applies to the cylinder of a steam locomotive or steam engine .
+
+Bore pitch is the distance between the centerline of a cylinder bore to the centerline of the next cylinder bore adjacent to it in an internal combustion engine . It's also referred to as the "mean cylinder width", "bore spacing", "bore center distance" and "cylinder spacing".
+
+The bore pitch is always larger than the inside diameter of the cylinder (the bore and piston diameter) since it includes the thickness of both cylinder walls and any water passage separating them. This is one of the first dimensions required when developing a new engine, since it limits maximum cylinder size (and therefore, indirectly, maximum displacement), and determines the length of the engine (L4, 6, 8) or of that bank of cylinders (V6, V8 etc.).
+
+In addition, the positions of the main bearings must be between individual cylinders (L4 with 5 main bearings, or L6 with 7 main bearings - only one rod journal between main bearings), or between adjacent pairs of cylinders (L4 with 3 main bearings, L6 or V6 with 4 main bearings, or V8 with 5 main bearings - two rod journals between main bearings).
+
+In some older engines (such as the Chevrolet Gen-2 " Stovebolt " inline-six, the GMC straight-6 engine , the Buick Straight-eight , and the Chrysler "Slant 6" ) the bore pitch is additionally extended to allow more material between the main bearing webs in the block. For example, in an L6 the first pair (#1 & 2), center pair (#3 & 4), and rear pair (#5 & 6) of cylinders that share a pair of main bearings have a smaller pitch than between #2 & 3 and #4 & 5 that "bridge" a main bearing.
+
+Since the start-up expense of casting an engine block is very high, this is a strong incentive to retain this dimension for as long as possible to amortize the tooling cost over a large number of engines. If and when the engine is further refined, modified or enlarged, the bore pitch may be the only dimension retained from its predecessor. The bore diameter is frequently increased to the limit of minimal wall thickness, the water passage is eliminated between each pair of adjacent cylinders, the deck height is increased to accommodate a longer stroke, etc. but in general if the bore pitch is the same, the engines are related.
+
+As an example of development, the Chrysler 277" polyspheric V8, first introduced in 1956, was gradually increased in size by bore and stroke to 326" by 1959, then received a drastic make-over in 1964 to conventional "wedge" combustion chambers, then modified again for stud-mounted rocker arms, and finally underwent an even greater re-design to become the modern 5.7 liter hemi. All of these engines retain the original 4.460" bore pitch distance set down in 1956.
+
+"Hybrid" is the term commonly used to identify an engine modified for high performance by adapting a cylinder head from another (sometimes completely different) brand, size, model or type engine. Note: using a later head of the same engine "family" isn't a true hybrid, but mere modernization.
+
+In some cases, two heads from the donor (source) engine are joined end-to-end to match the number of cylinders on the subject engine (such as using three cylinders each of two V8 heads on a Chevrolet inline-six).
+
+Identical or extremely similar bore pitch is what makes this possible, or (almost) impossible.

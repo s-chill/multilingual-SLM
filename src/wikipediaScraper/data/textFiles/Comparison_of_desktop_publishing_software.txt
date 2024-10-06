@@ -1,0 +1,11 @@
+The following is a comparison of major desktop publishing software.
+
+This table provides general software information including the developer , latest stable version , the year in which the software was first released, and the license under which it is available.
+
+This table shows Operating System (OS) compatibility with the latest version of the desktop publishing applications, there are five possibilities:
+
+Application names that are on a light purple background are discontinued.
+
+This table gives a comparison of the file formats that can be opened or imported.
+
+This table gives a comparison of the file formats each software can export or save.

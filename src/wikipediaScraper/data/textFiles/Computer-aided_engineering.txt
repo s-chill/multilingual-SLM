@@ -1,0 +1,24 @@
+Computer-aided engineering ( CAE ) is the general usage of technology to aid in tasks related to engineering analysis. Any use of technology to solve or assist engineering issues falls under this umbrella.
+
+Following alongside the consistent improvement in computer graphics and speed, computer aid assists engineers with once complicated and time consuming tasks with the input of information and a press of a button.
+
+It includes finite element analysis (FEA) , computational fluid dynamics (CFD) , multibody dynamics (MBD) , durability and optimization. It is included with computer-aided design (CAD) and computer-aided manufacturing (CAM) in the collective abbreviation "CAx".
+
+The term CAE has been used to describe the use of computer technology within engineering in a broader sense than just engineering analysis. It was in this context that the term was coined by Jason Lemon, founder of SDRC in the late 1970s. This definition is however better known today by the terms CAx and PLM .
+
+CAE systems are individually considered a single node on a total information network and each node may interact with other nodes on the network.
+
+CAE areas covered include:
+
+In general, there are three phases in any computer-aided engineering task:
+
+This cycle is iterated, often many times, either manually or with the use of commercial optimization software .
+
+CAE tools are widely used in the automotive industry . Their use has enabled automakers to reduce product development costs and time while improving the safety, comfort, and durability of the vehicles they produce. The predictive capability of CAE tools has progressed to the point where much of the design verification is done using computer simulations (diagnosis) rather than physical prototype testing. CAE dependability is based upon all proper assumptions as inputs and must identify critical inputs (BJ). Even though there have been many advances in CAE, and it is widely used in the engineering field, physical testing is still a must. It is used for verification and model updating , to accurately define loads and boundary conditions, and for final prototype sign-off.
+
+Even though CAE has built a strong reputation as a verification, troubleshooting and analysis tool, there is still a perception that sufficiently accurate results come rather late in the design cycle to really drive the design. This can be expected to become a problem as modern products become ever more complex. They include smart systems , which leads to an increased need for multi-physics analysis including controls , and contain new lightweight materials, with which engineers are often less familiar. 
+CAE software companies and manufacturers are constantly looking for tools and process improvements to change this situation.
+
+On the software side, they are constantly looking to develop more powerful solvers, to better utilize computer resources, and to include engineering knowledge in pre and post-processing. On the process side, they try to achieve a better alignment between 3D CAE, 1D system simulation, and physical testing. This should increase modeling realism and calculation speed.
+
+CAE software companies and manufacturers try to better integrate CAE in the overall product lifecycle management . In this way they can connect product design with product use, which is needed for smart products. This enhanced engineering process is also referred to as predictive engineering analytics .

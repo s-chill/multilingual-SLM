@@ -1,0 +1,20 @@
+Terry Allen Winograd (born February 24, 1946) is an American computer scientist . He is a professor at Stanford University , and co-director of the Stanford Human–Computer Interaction Group. He is known within the philosophy of mind and artificial intelligence fields for his work on natural language using the SHRDLU program.
+
+Winograd grew up in Colorado and graduated from Colorado College in 1966. He wrote SHRDLU as a PhD thesis at MIT in the years from 1968–70. In making the program Winograd was concerned with the problem of providing a computer with sufficient "understanding" to be able to use natural language. Winograd built a blocks world , restricting the program's intellectual world to a simulated "world of toy blocks". The program could accept commands such as, "Find a block which is taller than the one you are holding and put it into the box" and carry out the requested action using a simulated block-moving  arm. The program could also respond verbally, for example, "I do not know which block you mean." The SHRDLU program can be viewed historically as one of the classic examples of how difficult it is for a programmer to build up a computer's semantic memory by hand and how limited or "brittle" such programs are.
+
+In 1973, Winograd moved to Stanford University and developed an AI-based framework for understanding natural language which was to give rise to a series of books. But only the first volume (Syntax) was ever published.  "What I came to realize is that the success of the communication depends on the real intelligence on the part of the listener, and that there are many other ways of communicating with a computer that can be more effective, given that it doesn’t have the intelligence."
+
+His approach shifted away from classical Artificial Intelligence after encountering the critique of cognitivism by Hubert Dreyfus and meeting  with the Chilean philosopher Fernando Flores . They  published a critical appraisal from a perspective based in phenomenology as Understanding Computers and Cognition: a new foundation for design in 1986. In the latter part of the 1980s, Winograd worked with Flores on an early form of groupware . Their approach was based on conversation-for-action analysis.
+
+In the early 1980s, Winograd was a founding member and national president of Computer Professionals for Social Responsibility , a group of computer scientists concerned about nuclear weapons, SDI , and increasing participation by the U.S. Department of Defense in the field of computer science.
+
+In general, Winograd's work at Stanford has focused on software design in a broader sense than software engineering . In 1991 he founded the "Project on People, Computers and Design" in order to promote teaching and research into software design. The book "Bringing Design to Software" describes some of this work. His thesis is that software design is a distinct activity from both analysis and programming, but it should be informed by both, as well as by design practices in other professions (textile design, industrial design, etc.).
+
+Starting in 1995, Winograd served as adviser to Stanford PhD student Larry Page , who was working on a research project involving web search. In 1998, Page took a leave of absence from Stanford to co-found Google . In 2002, Winograd took a sabbatical from teaching and spent some time at Google as a visiting researcher. There, he studied the intersection of theory and practice of human–computer interaction .
+
+Recently, Winograd has continued to research collaborative computing, including uses of ubiquitous computing in collaborative work.
+Winograd continues to do research at Stanford and teach classes and seminars in human–computer interaction.  In addition to the Computer Science Dept., Winograd is associated with the Hasso Plattner Institute of Design at Stanford, also known as the "d.school", which he helped found.
+
+He is a Fellow of the Association for Computing Machinery (2009) and received the SIGCHI Lifetime Research Award in 2011.
+
+Books by Terry Winograd

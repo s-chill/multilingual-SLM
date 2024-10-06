@@ -1,0 +1,41 @@
+Room and pillar or pillar and stall is a variant of breast stoping . It is a mining system in which the mined material is extracted across a horizontal plane, creating horizontal arrays of rooms and pillars. To do this, "rooms" of ore are dug out while "pillars" of untouched material are left to support the roof – overburden . Calculating the size, shape, and position of pillars is a complicated procedure, and an area of active research. The technique is usually used for relatively flat-lying deposits, such as those that follow a particular stratum . Room and pillar mining can be advantageous because it reduces the risk of surface subsidence compared to other underground mining techniques. It is also advantageous because it can be mechanized, and is relatively simple. However, because significant portions of ore may have to be left behind, recovery and profits can be low. Room and pillar mining was one of the earliest methods used, although with significantly more manpower.
+
+The room and pillar system is used in mining coal , gypsum , iron , limestone , and uranium ores, particularly when found as manto or blanket deposits, stone and aggregates , talc , soda ash , and potash . It has been used worldwide from the Czech Republic to China to the US.
+
+Planning for the development of room and pillar mines operates in much the same way as other mining methods, and begins with establishing ownership of the mine. Following this, the geology of the mine must be analysed, as this will determine factors like the lifespan of the mine, the production requirements, and the cost to develop and maintain.
+
+Next, mine layout should be determined, as factors like ventilation, electrical power, and haulage of the ore must be considered in cost analysis. Due to the non-homogeneous nature of mineral deposits typically mined by room and pillar, mine layout must be mapped very carefully. It is desirable to keep the size and shape of rooms and pillars consistent, but some mines strayed from this formula due to lack of planning and deposit characteristics. Mine layout includes the size of rooms and pillars in the mines, but also includes factors like the number and type of entries, roof height, ventilation, and cut sequence.
+
+Room and pillar mines are developed on a grid basis except where geological features such as faults require the regular pattern to be modified. The size of the pillars is determined by calculation. The load-bearing capacity of the material above and below the material being mined and the capacity of the mined material determines the pillar size.
+
+Random mine layout makes ventilation planning difficult, and if the pillars are too small, there is the risk of pillar failure. In coal mines, pillar failures are known as squeezes because the roof squeezes down, crushing the pillars. Once one pillar fails, the weight on the adjacent pillars increases, and the result is a chain reaction of pillar failures. Once started, such chain reactions can be extremely difficult to stop, even if they spread slowly. To prevent this from happening, the mine is divided up into areas or panels. Pillars known as barrier pillars separate the panels. The barrier pillars are significantly larger than the "panel" pillars and are sized to allow them to support a significant part of the panel and prevent progressive collapse of the mine in the event of failure of the panel pillars.
+
+Traditionally, the act of mining consists of three steps. First, the deposit is "undercut", where a slot is cut as deep as possible along the bottom of a section of ore. This undercut allows for a manageable pile of rock in later stages. The second step is the drilling and blasting of the section. This creates a pile of ore that is loaded and hauled out of the mine—the final step of the mining process. More modern room and pillar mines use a more "continuous" method, that uses machinery to simultaneously grind off rock and move it to the surface.
+
+Other processes, such as backfill , where discarded tailings are unloaded into mined-out areas, can be used, but are not required. Retreat mining (below) is an example of a process like this.
+
+Retreat mining is often the final stage of room and pillar mining. Once a deposit has been exhausted using this method, the pillars that were left behind initially are removed, or "pulled", retreating back towards the mine's entrance. After the pillars are removed, the roof (or back) is allowed to collapse behind the mining area. Pillar removal must occur in a very precise order to reduce the risks to workers, owing to the high stresses placed on the remaining pillars by the abutment stresses of the caving ground.
+
+Retreat mining is a particularly dangerous form of mining. According to the Mine Safety and Health Administration (MSHA), pillar recovery mining has been historically responsible for 25% of American coal mining deaths caused by failures of the roof or walls, even though it represents only 10% of the coal mining industry. Retreat mining cannot be used in areas where subsidence is not acceptable, reducing profitability.
+
+Sometimes retreat mining is not used and the underground space is repurposed as climate controlled storage or office space instead.
+
+Many room and pillar mines have been abandoned for as long as 100 years. This drastically increases the risk of subsidence unless properly maintained, however, maintenance does not often occur.
+
+Room and pillar mining is one of the oldest mining methods. Early room and pillar mines were developed more or less at random, with pillar sizes determined empirically and headings driven in whichever direction was convenient.
+
+Room and pillar mining was in use throughout Europe as early as the 13th century, and the United States since the late 18th century. It is still in use throughout the US, but has slowed or stopped entirely in parts of Europe.
+
+Coal mining in the United States has nearly always operated with a room and pillar layout, although originally operated with significantly more manpower.
+
+Room and pillar mining of gypsum was used in Iowa beginning in 1892, and was phased out of use in 1927 due to low recovery and development of technologies that made surface mining more practical, safe, and cost effective. More recently, the United States Gypsum Sperry mine, near Mediapolis, Iowa , opened in 1961. This room-and-pillar mine, 620 feet (190 m) below the surface, has square pillars 37 feet (11 m) on a side separating rooms of the same width in a gypsum bed about 10 feet (3.0 m) thick.
+
+Many salt mines use room and pillar layouts. The Sifto salt mine in Goderich, Ontario , the largest in the world, was opened in 1959. It taps a salt bed 30 metres (98 ft) thick 533 metres (1,749 ft) below the surface, mostly under Lake Huron . The Cargill salt mine 1,700 feet (520 m) below the surface, mostly under Lake Erie at Cleveland, Ohio is similar.
+
+Modern room and pillar mines can be few and far between. This is due to many factors, including the dangers to miners associated with subsidence, increasing use of other methods with more mechanization, and the decreasing cost of surface mining.
+
+Room and pillar mining is not particularly dependent on the depth of the deposit. At particularly deep depths, room and pillar mining can be more cost effective compared to strip mining due to the fact that significantly less overburden needs to be removed. This means that today, room and pillar mining is mostly used for high grade, but small, deep deposits.
+
+Due to a recovery rate as low as 40% in some cases, room and pillar mining cannot compete in terms of profitability with many modern, more mechanized types of mining such as longwall or surface mining .
+
+Abandoned mines have a tendency to collapse. In remote areas, collapses can be dangerous to wildlife, but subsidence of abandoned mines can be hazardous to infrastructure above and nearby. Significant amount of coal is left on the pillars as roof support.

@@ -1,0 +1,35 @@
+The Richards equation represents the movement of water in unsaturated soils, and is attributed to Lorenzo A. Richards who published the equation in 1931. It is a quasilinear partial differential equation ; its analytical solution is often limited to specific initial and boundary conditions. Proof of the existence and uniqueness of solution was given only in 1983 by Alt and Luckhaus . The equation is based on Darcy-Buckingham law representing flow in porous media under variably saturated conditions, which is stated as
+
+where
+
+Considering the law of mass conservation for an incompressible porous medium and constant liquid density, expressed as
+
+where
+
+Then substituting the fluxes by the Darcy-Buckingham law the following mixed-form Richards equation is obtained:
+
+For modeling of one-dimensional infiltration this divergence form reduces to
+
+Although attributed to L. A. Richards, the equation was originally introduced 9 years earlier by Lewis Fry Richardson in 1922.
+
+The Richards equation appears in many articles in the environmental literature because it describes the flow in the vadose zone between the atmosphere and the aquifer. It also appears in pure mathematical journals because it has non-trivial solutions. The above-given mixed formulation involves two unknown variables: θ {\displaystyle \theta } and h {\displaystyle h} . This can be easily resolved by considering constitutive relation θ ( h ) {\displaystyle \theta (h)} , which is known as the water retention curve . Applying the chain rule , the Richards equation may be reformulated as either h {\displaystyle h} -form (head based) or θ {\displaystyle \theta } -form (saturation based) Richards equation.
+
+By applying the chain rule on temporal derivative leads to
+
+where d θ d h {\displaystyle {\frac {{\textrm {d}}\theta }{{\textrm {d}}h}}} is known as the retention water capacity C ( h ) {\displaystyle C(h)} . The equation is then stated as
+
+The head-based Richards equation is prone to the following computational issue: the discretized temporal derivative using the implicit Rothe method yields the following approximation:
+
+Δ θ Δ t ≈ C ( h ) Δ h Δ t , and so Δ θ Δ t − C ( h ) Δ h Δ t = ε . {\displaystyle {\frac {\Delta \theta }{\Delta t}}\approx C(h){\frac {\Delta h}{\Delta t}},\quad {\mbox{and so}}\quad {\frac {\Delta \theta }{\Delta t}}-C(h){\frac {\Delta h}{\Delta t}}=\varepsilon .}
+
+This approximation produces an error ε {\displaystyle \varepsilon } that affects the mass conservation of the numerical solution, and so special strategies for temporal derivatives treatment are necessary.
+
+By applying the chain rule on the spatial derivative leads to
+
+where K ( h ) d h d θ {\displaystyle \mathbf {K} (h){\frac {{\textrm {d}}h}{{\textrm {d}}\theta }}} , which could be further formulated as K ( θ ) C ( θ ) {\displaystyle {\frac {\mathbf {K} (\theta )}{C(\theta )}}} , is known as the soil water diffusivity D ( θ ) {\displaystyle \mathbf {D} (\theta )} . The equation is then stated as
+
+The saturation-based Richards equation is prone to the following computational issues. Since the limits lim θ → θ s | | D ( θ ) | | = ∞ {\displaystyle \lim _{\theta \to \theta _{s}}||\mathbf {D} (\theta )||=\infty } and lim θ → θ r | | D ( θ ) | | = ∞ {\displaystyle \lim _{\theta \to \theta _{r}}||\mathbf {D} (\theta )||=\infty } , where θ s {\displaystyle \theta _{s}} is the saturated (maximal) water content and θ r {\displaystyle \theta _{r}} is the residual (minimal) water content a successful numerical solution is restricted just for ranges of water content satisfactory below the full saturation (the saturation should be even lower than air entry value ) as well as satisfactory above the residual water content.
+
+The Richards equation in any of its forms involves soil hydraulic properties, which is a set of five parameters representing soil type. The soil hydraulic properties typically consist of water retention curve parameters by van Genuchten: ( α , n , m , θ s , θ r {\displaystyle \alpha ,\,n,\,m,\,\theta _{s},\theta _{r}} ), where α {\displaystyle \alpha } is the inverse of air entry value  [L ], n {\displaystyle n} is the pore size distribution parameter [-], and m {\displaystyle m} is usually assumed as m = 1 − 1 n {\displaystyle m=1-{\frac {1}{n}}} . Further the saturated hydraulic conductivity K s {\displaystyle \mathbf {K} _{s}} (which is for non isotropic environment a tensor of second order) should also be provided. Identification of these parameters is often non-trivial and was a subject of numerous publications over several decades.
+
+The numerical solution of the Richards equation is one of the most challenging problems in earth science. Richards' equation has been criticized for being computationally expensive and unpredictable because there is no guarantee that a solver will converge for a particular set of soil constitutive relations.  Advanced computational and software solutions are required here to over-come this obstacle. The method has also been criticized for over-emphasizing the role of capillarity, and for being in some ways 'overly simplistic' In one dimensional simulations of rainfall infiltration into dry soils, fine spatial discretization less than one cm is required near the land surface, which is due to the small size of the representative elementary volume for multiphase flow in porous media.  In three-dimensional applications the numerical solution of the Richards equation is subject to aspect ratio constraints where the ratio of horizontal to vertical resolution in the solution domain should be less than about 7.

@@ -1,0 +1,17 @@
+Ubuntu Studio is a recognized flavor of the Ubuntu Linux distribution , which is geared to general multimedia production. The original version, based on Ubuntu 7.04, was released on 10 May 2007.
+
+The real-time kernel , first included with Ubuntu Studio 8.04, was modified for intensive audio, video or graphics work. The 8.10 Ubuntu Studio release lacks this real-time kernel. It has been reimplemented in the 9.04 Ubuntu Studio release and stabilized with the release of 9.10. 10.04 Ubuntu Studio, in contrast, does not include the real-time kernel by default. As of version 10.10 of the Ubuntu Studio, the real-time kernel is no longer available in the repositories.
+
+As of Ubuntu Studio 12.04, the default kernel is linux-lowlatency, which in essence is a generic Ubuntu Linux kernel, with a tweaked configuration to allow for stable operation for audio applications at lower latencies . Since much of the real-time patch has now been implemented into the vanilla kernel, and considering the difficulties in maintaining linux-rt, Ubuntu Studio decided on using linux-lowlatency in its place.
+
+The scheduler allows applications to request immediate CPU time, which can drastically reduce audio latency . In 9.10, the "Ubuntu Studio Controls" provided under System>Administration permit the user to "Enable Nice", allowing the use of wireless networking and proprietary graphics cards drivers while maintaining low audio latency free of XRUNs (audio drop-outs) in JACK . A more negative value entered for nice reserves more CPU time for real-time audio processes.
+
+Ubuntu Studio also includes custom artwork and a blue-on-black theme, as opposed to Ubuntu's default purple and orange. As with the main distribution of Ubuntu, if an accelerated graphics card and appropriate driver are used, the advanced desktop effects can be enabled. More advanced Compiz effects are available in the Synaptic Package Manager (i.e., Ubuntu repositories). In Karmic 9.10, a fresh sound theme replaces the default Ubuntu theme, with a reverberating melody at startup, and an occasional knock or ping from a button or prompt. Xfce (instead of GNOME) was the default user interface until v20.04. From Ubuntu Studio 20.10, the default user interface became KDE.
+
+An important advantage of Ubuntu Studio over most other Linux distributions employing the real-time kernel is access to the same repositories available to the main Ubuntu distributions through the Update Manager, Synaptic Package Manager, as well as through the Add/Remove Applications prompt. This allows for much more frequent operating system updates, and access to a much wider range of software.
+
+In the past there has been no live version available of Ubuntu Studio, and no graphical installer. Since the 12.04 release, Ubuntu Studio has been available as a Live DVD. The disk image is about 1.8 GB, too large to fit on a standard CD , and as a result the recommended installation medium for Ubuntu Studio is a DVD or USB flash drive . Ubuntu Studio can also be installed on a pre-existing Ubuntu installation by installing the "ubuntustudio-desktop" package from Advanced Packaging Tool .
+
+In 9.10, the package "ubuntustudio-audio," shown during installation (and also available in the Synaptic Package Manager), cannot be installed without a working Internet connection.
+
+An Internet connection is required after installation to maintain system components.

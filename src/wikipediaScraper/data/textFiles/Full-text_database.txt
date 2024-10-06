@@ -1,0 +1,5 @@
+A full-text database or a complete-text database is a database that contains the complete text of books , dissertations , journals , magazines , newspapers or other kinds of textual documents . They differ from bibliographic databases (which contain only bibliographical metadata , including abstracts in some cases) and non-bibliographic databases (such as directories and numeric databases ).
+
+One of the earliest systems was IBM STAIRS , introduced in 1973.
+
+Full-text databases became common about 1990 when computer storage technology made them economic and technologically possible. There are two main classes: an extension of the classical bibliographical databases into full-text databases (e.g. on hosts such as BRS , Dialog , LexisNexis and Westlaw ) and Internet-based full-text databases (based on search engines or XML ).

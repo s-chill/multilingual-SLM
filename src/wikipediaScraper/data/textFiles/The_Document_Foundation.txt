@@ -1,0 +1,43 @@
+The Document Foundation ( TDF ) is a non-profit organization that promotes open-source document handling software. It was created by members of the OpenOffice.org community to manage and develop LibreOffice , a free and open-source office suite, and is legally registered in Germany as a Stiftung . Its goal is to produce a vendor-independent office suite with ODF support in a development environment free from company control.
+
+The Document Foundation was created partially over fears that Oracle Corporation , after acquiring Sun Microsystems , would discontinue developing OpenOffice.org as it had done with OpenSolaris .
+
+The Document Foundation has multiple bodies running its operations:
+
+In addition an informal advisory board exists to connect with other organizations and entities.
+
+The seventh elected Board of Directors has seven members and three deputies. As of May 2024, the Board of Directors composition is:
+
+The Document Foundation employs Florian Effenberger as executive director, who oversees a team of 10 people.
+
+In June 2011 the foundation announced that it had formed an advisory board. The initial members included Google , SUSE , Red Hat , the German registered society Freies Office Deutschland e.V. , Software in the Public Interest , and the Free Software Foundation . In February 2012, Intel became a member of the advisory board. In November 2012, Lanedo joined the advisory board. In June 2013, the French Inter-Ministry Mutualisation for an Open Productivity Suite (MIMO)—the government working group responsible for 500,000 desktops—and King Abdulaziz City for Science and Technology (KACST) of Saudi Arabia joined the advisory board. In July 2013, TDF announced that AMD joined the advisory board. Swiss FOSS company Adfinis joined the advisory board in May 2019. In July 2019, the UK Government Digital Service joined.
+
+The Document Foundation was announced on 28 September 2010 with the Foundation being governed by a "Steering Committee" during the phase of initial creation. The announcement received support from companies including Novell , Red Hat , Canonical and Google . In December 2010, The Document Foundation announced that the BrOffice Centre of Excellence for Free Software , the organization behind BrOffice joined the Foundation.
+
+The Foundation also made available a re-branded fork of OpenOffice.org which was based on the upcoming 3.3 version, with patches and build software from the Go-oo fork. It was hoped that the LibreOffice name would be provisional as Oracle was invited to become a member of The Document Foundation, and was asked to donate the OpenOffice.org brand to the project. Following the announcement, Oracle asked members of the OpenOffice.org Community Council who were members of The Document Foundation to step down from the council, claiming that this represented a conflict of interest, leaving the community council composed 100% of Oracle employees.
+
+Jacqueline Rahemipour, Co-Lead of the OpenOffice.org Board, stated:
+
+Although it has been stressed several times that there will be collaboration on a technical level, and changes are possible – there is no indication from Oracle to change its mind on the question of the project organization and management. For those who want to achieve such a change, but see no realistic opportunity within the current project and are therefore involved in the TDF, unfortunately this results in an "either / or" question.
+The answer for us who sign this letter is clear: We want a change to give the community as well as the software it develops the opportunity to evolve. For this reason, from now on we will support The Document Foundation and will – as a team – develop and promote LibreOffice.
+
+When the project was announced, The Document Foundation did not exist as a legal entity. The Steering Committee wished to formally set up a foundation, and following research chose to establish the foundation in Germany. On 16 February 2011, a fundraising drive was announced to raise the €50,000 needed to create a German foundation. The required amount was raised in eight days.
+
+After clearing legal requirements, the foundation was finally incorporated on 17 February 2012.
+
+In assessing Oracle's role in the events surrounding the establishment of The Document Foundation, writer Ryan Cartwright in late October 2010 said:
+
+The worst thing about this move by Oracle is that it will divide a community that didn't need to be divided. The free software community thrives on forked projects and will actively take the path of greater freedom. Mambo became Joomla, Xfree86 has all but disappeared and StarOffice is now regarded as the less-free cousin of OpenOffice.org (and not in a good way). What Oracle have just done is put their fingers in their ears and say "la la la" to their critics from within the free software community. With that move they will recruit several more opponents... The bottom line is that in all of this Oracle had golden opportunity after golden opportunity to make real progress for everyone – not just the OpenOffice.org or the free software community. They could have been the key player and the biggest part of the most popular free software office suite and they treated it like a runny nose. They blew it.
+
+In October 2010 Linux Magazine ' s Bruce Byfield suggested that the formation of The Document Foundation is just the Go-oo project reinventing itself to the long-term detriment of users.
+
+What happened, I suspect, was that Go-OO, already chafing under Sun's tight control of OpenOffice.org's direction, saw more of the same – if not worse – awaiting in Oracle. Hoping to succeed before Oracle could articulate its plans, Go-OO members reinvented themselves, and announced the foundation that they had long been calling for. But Oracle refused to be stampeded, and escalated the fork into something that resembles corporate warfare.
+Whatever the merits of either side (and I am most inclined to support The Document Foundation, although only on the principle that any number is greater than zero), I suspect that the losers in this situation will be the users. The risk is that time will continue to be spent in flame wars that could be better spent in coding. What seems likely is not only a general division and duplication of effort, but, in Oracle's case, a decision to focus on proprietary development as a defensive measure. By making the gambit that it did, The Document Foundation may have perpetuated another version of the stalemate that it was trying to break.
+
+In April 2011, Oracle announced its intention to move OpenOffice.org to a "purely community-based project". Oracle also terminated its commercial product, called Oracle Open Office . In the view of some these moves were a reaction to the formation of The Document Foundation, but according to former Sun executive Simon Phipps :
+
+The act of creating The Document Foundation and its LibreOffice project did no demonstrable harm to Oracle's business. There is no new commercial competition to Oracle Open Office (their commercial edition of OO.o) arising from LibreOffice. No contributions that Oracle valued were ended by its creation. Oracle's ability to continue development of the code was in no way impaired. Oracle's decision appears to be simply that, after a year of evaluation, the profit to be made from developing Oracle Open Office and Oracle Cloud Office did not justify the salaries of over 100 senior developers working on them both. Suggesting that TDF was in some way to blame for a hard-headed business decision that seemed inevitable from the day Oracle's acquisition of Sun was announced is at best disingenuous.
+
+As of 2 June 2011 Oracle has relicensed OpenOffice.org under the Apache License 2.0 and transferred ownership of the project's assets and trademarks to the Apache Software Foundation .
+
+On 2 April 2014, The Document Foundation announced a second top-level project, the Document Liberation Project. It defines itself as "a home for the growing community of developers united to free users from vendor lock-in of content".

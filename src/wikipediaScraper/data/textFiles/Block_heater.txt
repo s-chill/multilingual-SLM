@@ -1,0 +1,29 @@
+A block heater is used in cold climates to warm an engine prior to starting. They are mostly used for car engines; however, they have also been used in aircraft engines.
+
+The most common design of block heater is an electrical heating element embedded in the engine block .
+
+Pre-heating of an engine is primarily used to make it easier to start.  Added benefits are:
+
+Block heaters or coolant heaters are also found on the diesel engines in standby generators , to reduce the time taken for the generator to reach full power output in an emergency.
+
+The vehicle operator must have access to electrical power. In cold climates, parking areas for residents, employees, or students, or paid public parking areas, may have electrical outlets.
+
+The operator must disconnect the power cord before driving away. Forgetting to disconnect can result in damage to the power cord or the vehicle. After a snow storm, the cable may not be visible under the snow. Residential overnight street parking may not allow an extension cord to cross a public sidewalk.
+
+The energy used to heat the engine adds a cost. However, the savings in fuel generally outweigh this cost, especially if a timer is used to limit the heating period to about 4 hours before the expected start time, taking the needed precautions, a kerosene jet-heater can be used.
+
+Some cars are produced with block heaters from the factory, while others are fitted with block heaters as an aftermarket add-on. The most common type of block heater is an electric heating element in the engine block , which is connected through a power cord often routed through the vehicle's grille. Some block heaters are designed to replace one of the engine's core plugs and therefore heat the engine via the coolant.
+
+Alternative methods of warming an engine include:
+
+Electric timers are often used with engine warmers, since it is only necessary to run the warmer for a few hours before starting the engine. Some cars pump hot coolant from the cooling system into a 3-litre insulated thermos -style reservoir at shutdown, where it stays warm for several days. While idling is commonly believed to warm an engine, for most it is not effective.
+
+Block heaters are frequently used in regions with cold winters such as the northern United States, Canada, Russia and Scandinavia. In some countries where block heaters are commonly used, carparks are sometimes fitted with electrical outlets for powering the block heaters.
+
+Testing in the 1970s of warm-up times for block heaters found little benefit in operating a block heater for more than four hours prior to starting a vehicle. It was found that coolant temperature increased by almost 20 °C (36 °F) during the first four hours, regardless of the initial temperature. Four tests were run at ambient temperatures ranging from −29 to −11 °C (−20 to 12 °F); continued use of the heater for up to two hours more only further increased the temperature by up to 3 °C (5 °F). Engine oil temperature was found to increase over these periods by just 5 °C (9 °F).
+
+An early example of pre-heating piston engines prior to start-up was in the 1930s in Northern Canada, where aviators flew with flight engineers who were responsible for preparing the radial engines for shutdown and startup to reduce the effects of subzero temperatures. The flight engineer was responsible for draining the oil into buckets at night, and preheating the engine and buckets of oil using a blanket wrapped around the engine and a device known as a blow pot – essentially a kerosene jet-heater used for several hours prior to flight.
+
+During World War II, German pilots could not stop the oil freezing in the engines of their Messerschmitt Bf 109 planes because of the extreme cold first experienced in the 1941 winter campaign in the Soviet Union. A captured Soviet airman showed them how pouring aviation fuel into the aircraft's oil sump would thaw the oil. Another solution, also learned from the Soviets, was to ignite fuel in the space around the engine.
+
+An early automotive use was the "head bolt heater", invented by Andrew Freeman in the United States and patented on 8 November 1949. These early heaters replaced one of the engine's head bolts with a hollow, threaded shank containing a resistive heating element. Before the block heater was introduced, people used a variety of methods to warm engines before starting them, such as pouring hot water on the engine block or draining the engine's oil for storage inside overnight. Some even shoveled embers underneath their vehicle's engine to obtain the same effect.

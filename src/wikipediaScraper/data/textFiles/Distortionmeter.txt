@@ -1,0 +1,13 @@
+A distortionmeter (or more precisely distortion factor meter) is an electronic measuring instrument which displays the amount of distortion added to the original signal by an electronic circuit.
+
+Harmonic distortion is equivalent to adding harmonics to a signal. When a purely sinusoidal signal is in this way, a series of harmonics is superimposed on the original signal, and can be detected with suitable equipment.
+
+If the input is
+
+The normalized output is
+
+The value of Total Harmonics Distortion (THD) is defined as the ratio of the harmonics to the fundamental; i.e.,
+
+This ratio can be given in dB or in percentage.
+
+A distortionmeter is a level meter with two switchable parallel circuits at the input. The first circuit measures the total signal at the output of a system. (For low distortion levels this will be almost equal to fundamental). That value is adjusted to read 100% or, equivalently, to 0 dB. The second circuit is a high pass filter which removes (as much as practical) the fundamental frequency.  This can be a notch filter, one which passes all but the fundamental, with negligible attenuation at other frequencies (including whatever harmonics might be present).  Alternatively, if the distortion products are at higher frequencies, a highpass filter can be used if its cutoff rate is sufficiently steep to not affect the expected distortion products.  The output of the filter is measured as a percentage of the fundamental, and the reported value will be the distortion value.

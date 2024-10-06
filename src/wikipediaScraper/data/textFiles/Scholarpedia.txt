@@ -1,0 +1,25 @@
+Scholarpedia is an English-language wiki -based online encyclopedia with features commonly associated with open-access online academic journals , which aims to have quality content in science and medicine.
+
+Scholarpedia articles are written by invited or approved expert authors and are subject to peer review . Scholarpedia lists the real names and affiliations of all authors, curators and editors involved in an article: however, the peer review process (which can suggest changes or additions, and has to be satisfied before an article can appear) is anonymous. Scholarpedia articles are stored in an online repository, and can be cited as conventional journal articles ( Scholarpedia has the ISSN number ISSN 1941-6016 ). Scholarpedia ' s citation system includes support for revision numbers.
+
+The project was created in February 2006 by Eugene M. Izhikevich, while he was a researcher at the Neurosciences Institute , San Diego, California . Izhikevich also serves as the encyclopedia's editor-in-chief.
+
+Scholarpedia content is grouped into separate "encyclopedias". As of August 2023 , seven of these are described as "focal areas":
+
+Other encyclopedias include diverse areas such as play science and models of brain disorders .
+
+As of November 2018 , Scholarpedia has 1,804 content pages and 18,149 registered users, while as of November 2021 , it has 1,812 peer-reviewed articles.
+
+Scholarpedia 's maintenance and server costs is currently funded by Brain Corporation, a robotics company which Izhikevich is the co-founder and CEO of. As stated on Scholarpedia 's Frequently Asked Questions page, the company is also able to "benefit from Scholarpedia 's extensive coverage of topics in computational neuroscience".
+
+To ensure that the articles are written by experts, authors of the various articles in Scholarpedia are either invited by the editor-in-chief or other curators, or selected by a public election. For example, Jimmy Wales and Larry Sanger were nominated for the article on Wikipedia. As of May 2009 , the list of authors included four Fields Medalists and sixteen Nobel Prize winners. Registered users must provide their full real name, and a recognized affiliation to an academic institution. Only registered users can edit an article, and those edits are subject to approval by the curator of the article, who is typically the author. Curatorship is transferable. Users have a curator index attribute which is incremented or decremented by various activities and which affects the user's capabilities on the website.
+
+After October 20, 2011, anyone can propose an article for Scholarpedia , but articles must be sponsored by Editors or Curators before the article can be published.
+
+Articles are available online without charge for non-commercial use, but may not be copied in bulk.
+
+Authors are credited on the article page and in the suggested citation formats.
+
+In January 2008 Scholarpedia changed their licensing policy and started accepting articles under the GNU Free Documentation License and the Creative Commons Attribution-Noncommercial-ShareAlike 3.0 license, in addition to the earlier system in which the author gives a non-exclusive license directly to Scholarpedia .
+
+Scholarpedia uses the same wiki engine as Wikipedia , MediaWiki , with modifications to support voting on revisions. The software's development is done privately.

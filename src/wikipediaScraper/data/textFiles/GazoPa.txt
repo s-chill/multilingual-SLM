@@ -1,0 +1,5 @@
+GazoPa was an image search engine that used features from an image to search for and identify similar images which closed in 2011.
+
+GazoPa began in TechCrunch50 in 2008 before launching into a state of open beta in 2009. GazoPa branched out and released a flower photo community site called "GazoPa Bloom" in 2010. This site was for exploring flower images and, if users need help identifying a flower, uploading images for other people try to identify them.
+
+Both sites closed to the public in 2011 when the company decided to focus on other areas of their business.

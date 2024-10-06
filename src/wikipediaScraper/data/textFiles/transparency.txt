@@ -1,0 +1,21 @@
+Any change in a computing system, such as a new feature or new component, is transparent if the system after change adheres to previous external interface as much as possible while changing its internal behavior. The purpose is to shield change from all systems (or human users) on the other end of the interface. Confusingly, the term refers to the overall invisibility of the component, it does not refer to visibility of component's internals (as in white box or open system ). The term transparent is widely used in computing marketing in substitution of the term invisible , since the term invisible has a bad connotation (usually seen as something that the user can't see, and has no control over) while the term transparent has a good connotation (usually associated with not hiding anything). The vast majority of the times, the term transparent is used in a misleading way to refer to the actual invisibility of a computing process, which is also described by the term opaque , especially with regards to data structures. Because of this misleading and counter-intuitive definition, modern computer literature tends to prefer use of " agnostic " over "transparent".
+
+The term is used particularly often with regard to an abstraction layer that is invisible either from its upper or lower neighboring layer.
+
+Also temporarily used later around 1969, in IBM and Honeywell programming manuals, the term referred to a certain computer programming technique. An application code was transparent when it was clear of the low-level detail (such as device-specific management) and contained only the logic solving a main problem. It was achieved through encapsulation – putting the code into modules that hid internal details, making them invisible for the main application.
+
+For example, the Network File System is transparent, because it introduces the access to files stored remotely on the network in a way uniform with previous local access to a file system , so the user might even not notice it while using the folder hierarchy. The early File Transfer Protocol (FTP) is considerably less transparent, because it requires each user to learn how to access files through an ftp client.
+
+Similarly, some file systems allow transparent compression and decompression of data, enabling users to store more files on a medium without any special knowledge; some file systems encrypt files transparently. This approach does not require running a compression or encryption utility manually.
+
+In software engineering , it is also considered good practice to develop or use abstraction layers for database access, so that the same application will work with different databases; here, the abstraction layer allows other parts of the program to access the database transparently (see Data Access Object , for example).
+
+In object-oriented programming , transparency is facilitated through the use of interfaces that hide actual implementations done with different underlying classes .
+
+Transparency means that any form of distributed system should hide its distributed nature from its users, appearing and functioning as a normal centralized system.
+
+There are many types of transparency:
+
+Formal definitions of most of these concepts can be found in RM-ODP , the Open Distributed Processing Reference Model (ISO 10746).
+
+The degree to which these properties can or should be achieved may vary widely. Not every system can or should hide everything from its users. For instance, due to the existence of a fixed and finite speed of light there will always be more latency on accessing resources distant from the user. If one expects real-time interaction with the distributed system, this may be very noticeable.

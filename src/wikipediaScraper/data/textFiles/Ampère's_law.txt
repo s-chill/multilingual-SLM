@@ -1,0 +1,115 @@
+In classical electromagnetism , Ampère's circuital law (not to be confused with Ampère's force law ) relates the circulation of a magnetic field around a closed loop to the electric current passing through the loop.
+
+James Clerk Maxwell derived it using hydrodynamics in his 1861 published paper " On Physical Lines of Force ". In 1865 he generalized the equation to apply to time-varying currents by adding the displacement current term, resulting in the modern form of the law, sometimes called the Ampère–Maxwell law , which is one of Maxwell's equations that form the basis of classical electromagnetism .
+
+In 1820 Danish physicist Hans Christian Ørsted discovered that an electric current creates a magnetic field around it, when he noticed that the needle of a compass next to a wire carrying current turned so that the needle was perpendicular to the wire. He investigated and discovered the rules which govern the field around a straight current-carrying wire:
+
+This sparked a great deal of research into the relation between electricity and magnetism. André-Marie Ampère investigated the magnetic force between two current-carrying wires, discovering Ampère's force law .  In the 1850s Scottish mathematical physicist James Clerk Maxwell generalized these results and others into a single mathematical law.  The original form of Maxwell's circuital law, which he derived as early as 1855 in his paper "On Faraday's Lines of Force" based on an analogy to hydrodynamics, relates magnetic fields to electric currents that produce them. It determines the magnetic field associated with a given current, or the current associated with a given magnetic field.
+
+The original circuital law only applies to a magnetostatic situation, to continuous steady currents flowing in a closed circuit. For systems with electric fields that change over time, the original law (as given in this section) must be modified to include a term known as Maxwell's correction (see below).
+
+The original circuital law can be written in several different forms, which are all ultimately equivalent:
+
+The integral form of the original circuital law is a line integral of the magnetic field around some closed curve C (arbitrary but must be closed). The curve C in turn bounds both a surface S which the electric current passes through (again arbitrary but not closed—since no three-dimensional volume is enclosed by S ), and encloses the current. The mathematical statement of the law is a relation between the circulation of the magnetic field around some path (line integral) due to the current which passes through that enclosed path (surface integral).
+
+In terms of total current , (which is the sum of both free current and bound current) the line integral of the magnetic B -field (in teslas , T) around closed curve C is proportional to the total current I enc passing through a surface S (enclosed by C ). In terms of free current, the line integral of the magnetic H -field (in amperes per metre , A·m ) around closed curve C equals the free current I f,enc through a surface S .
+
+There are a number of ambiguities in the above definitions that require clarification and a choice of convention.
+
+The electric current that arises in the simplest textbook situations would be classified as "free current"—for example, the current that passes through a wire or battery . In contrast, "bound current" arises in the context of bulk materials that can be magnetized and/or polarized . (All materials can to some extent.)
+
+When a material is magnetized (for example, by placing it in an external magnetic field), the electrons remain bound to their respective atoms, but behave as if they were orbiting the nucleus in a particular direction, creating a microscopic current. When the currents from all these atoms are put together, they create the same effect as a macroscopic current, circulating perpetually around the magnetized object. This magnetization current J M is one contribution to "bound current".
+
+The other source of bound current is bound charge . When an electric field is applied, the positive and negative bound charges can separate over atomic distances in polarizable materials , and when the bound charges move, the polarization changes, creating another contribution to the "bound current", the polarization current J P .
+
+The total current density J due to free and bound charges is then:
+
+with J f the "free" or "conduction" current density.
+
+All current is fundamentally the same, microscopically. Nevertheless, there are often practical reasons for wanting to treat bound current differently from free current. For example, the bound current usually originates over atomic dimensions, and one may wish to take advantage of a simpler theory intended for larger dimensions. The result is that the more microscopic Ampère's circuital law, expressed in terms of B and the microscopic current (which includes free, magnetization and polarization currents), is sometimes put into the equivalent form below in terms of H and the free current only. For a detailed definition of free current and bound current, and the proof that the two formulations are equivalent, see the " proof " section below.
+
+There are two important issues regarding the circuital law that require closer scrutiny. First, there is an issue regarding the continuity equation for electrical charge.  In vector calculus, the identity for the divergence of a curl states that the divergence of the curl of a vector field must always be zero. Hence
+
+and so the original Ampère's circuital law implies that
+
+i.e. that the current density is solenoidal .
+
+But in general, reality follows the continuity equation for electric charge :
+
+which is nonzero for a time-varying charge density. An example occurs in a capacitor circuit where time-varying charge densities exist on the plates.
+
+Second, there is an issue regarding the propagation of electromagnetic waves. For example, in free space , where
+
+the circuital law implies that
+
+i.e. that the magnetic field is irrotational , but to maintain consistency with the continuity equation for electric charge , we must have
+
+To treat these situations, the contribution of displacement current must be added to the current term in the circuital law.
+
+James Clerk Maxwell conceived of displacement current as a polarization current in the dielectric vortex sea, which he used to model the magnetic field hydrodynamically and mechanically. He added this displacement current to Ampère's circuital law at equation 112 in his 1861 paper " On Physical Lines of Force ".
+
+In free space , the displacement current is related to the time rate of change of electric field.
+
+In a dielectric the above contribution to displacement current is present too, but a major contribution to the displacement current is related to the polarization of the individual molecules of the dielectric material. Even though charges cannot flow freely in a dielectric, the charges in molecules can move a little under the influence of an electric field. The positive and negative charges in molecules separate under the applied field, causing an increase in the state of polarization, expressed as the polarization density P .  A changing state of polarization is equivalent to a current.
+
+Both contributions to the displacement current are combined by defining the displacement current as:
+
+where the electric displacement field is defined as:
+
+where ε 0 is the electric constant , ε r the relative static permittivity , and P is the polarization density . Substituting this form for D in the expression for displacement current, it has two components:
+
+The first term on the right hand side is present everywhere, even in a vacuum. It doesn't involve any actual movement of charge, but it nevertheless has an associated magnetic field, as if it were an actual current. Some authors apply the name displacement current to only this contribution.
+
+The second term on the right hand side is the displacement current as originally conceived by Maxwell, associated with the polarization of the individual molecules of the dielectric material.
+
+Maxwell's original explanation for displacement current focused upon the situation that occurs in dielectric media. In the modern post-aether era, the concept has been extended to apply to situations with no material media present, for example, to the vacuum between the plates of a charging vacuum capacitor . The displacement current is justified today because it serves several requirements of an electromagnetic theory:  correct prediction of magnetic fields in regions where no free current flows; prediction of wave propagation of electromagnetic fields; and conservation of electric charge in cases where charge density is time-varying. For greater discussion see Displacement current .
+
+Next, the circuital equation is extended by including the polarization current, thereby remedying the limited applicability of the original circuital law.
+
+Treating free charges separately from bound charges, the equation including Maxwell's correction in terms of the H -field is (the H -field is used because it includes the magnetization currents, so J M does not appear explicitly, see H -field and also Note ):
+
+(integral form), where H is the magnetic H field (also called "auxiliary magnetic field", "magnetic field intensity", or just "magnetic field"), D is the electric displacement field , and J f is the enclosed conduction current or free current density. In differential form,
+
+On the other hand, treating all charges on the same footing (disregarding whether they are bound or free charges), the generalized Ampère's equation, also called the Maxwell–Ampère equation, is in integral form (see the " proof " section below):
+
+∮ C B ⋅ d l = ∬ S ( μ 0 J + μ 0 ε 0 ∂ E ∂ t ) ⋅ d S {\displaystyle \oint _{C}\mathbf {B} \cdot \mathrm {d} {\boldsymbol {l}}=\iint _{S}\left(\mu _{0}\mathbf {J} +\mu _{0}\varepsilon _{0}{\frac {\partial \mathbf {E} }{\partial t}}\right)\cdot \mathrm {d} \mathbf {S} }
+
+In differential form,
+
+∇ × B = μ 0 J + μ 0 ε 0 ∂ E ∂ t {\displaystyle \mathbf {\nabla } \times \mathbf {B} =\mu _{0}\mathbf {J} +\mu _{0}\varepsilon _{0}{\frac {\partial \mathbf {E} }{\partial t}}}
+
+In both forms J includes magnetization current density as well as conduction and polarization current densities. That is, the current density on the right side of the Ampère–Maxwell equation is:
+
+where current density J D is the displacement current , and J is the current density contribution actually due to movement of charges, both free and bound. Because ∇ ⋅ D = ρ , the charge continuity issue with Ampère's original formulation is no longer a problem. Because of the term in ε 0 ⁠ ∂ E / ∂ t ⁠ , wave propagation in free space now is possible.
+
+With the addition of the displacement current, Maxwell was able to hypothesize (correctly) that light was a form of electromagnetic wave . See electromagnetic wave equation for a discussion of this important discovery.
+
+Proof that the formulations of the circuital law in terms of free current are equivalent to the formulations involving total current
+
+In this proof, we will show that the equation
+
+is equivalent to the equation
+
+Note that we are only dealing with the differential forms, not the integral forms, but that is sufficient since the differential and integral forms are equivalent in each case, by the Kelvin–Stokes theorem .
+
+We introduce the polarization density P , which has the following relation to E and D :
+
+Next, we introduce the magnetization density M , which has the following relation to B and H :
+
+and the following relation to the bound current:
+
+where
+
+is called the magnetization current density, and
+
+is the polarization current density. Taking the equation for B :
+
+Consequently, referring to the definition of the bound current:
+
+as was to be shown.
+
+In cgs units, the integral form of the equation, including Maxwell's correction, reads
+
+where c is the speed of light .
+
+The differential form of the equation (again, including Maxwell's correction) is

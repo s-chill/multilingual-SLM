@@ -1,0 +1,40 @@
+Nanolithography ( NL ) is a growing field of techniques within nanotechnology dealing with the engineering (patterning e.g. etching, depositing, writing, printing etc) of nanometer -scale structures on various materials.
+
+The modern term reflects on a design of structures built in range of 10 to 10 meters, i.e. nanometer scale. Essentially, the field is a derivative of lithography , only covering very small structures. All NL methods can be categorized into four groups: photo lithography , scanning lithography, soft lithography and other miscellaneous techniques.
+
+The NL has evolved from the need to increase the number of sub-micrometer features (e.g. transistors, capacitors etc.) in an integrated circuit in order to keep up with Moore's Law . While lithographic techniques have been around since the late 18th century, none were applied to nanoscale structures until the mid-1950s. With evolution of the semiconductor industry, demand for techniques capable of producing micro- and nano-scale structures skyrocketed. Photolithography was applied to these structures for the first time in 1958 beginning the age of nanolithography.
+
+Since then, photolithography has become the most commercially successful technique, capable of producing sub-100 nm patterns. There are several techniques associated with the field, each designed to serve its many uses in the medical and semiconductor industries. Breakthroughs in this field contribute significantly to the advancement of nanotechnology, and are increasingly important today as demand for smaller and smaller computer chips increases. Further areas of research deal with physical limitations of the field, energy harvesting, and photonics .
+
+From Greek, the word nanolithography can be broken up into three parts: "nano" meaning dwarf, "lith" meaning stone, and "graphy" meaning to write, or "tiny writing onto stone."
+
+As of 2021 photolithography is the most heavily used technique in mass production of microelectronics and semiconductor devices . It is characterized by both high production throughput and small-sized features of the patterns.
+
+Optical Lithography (or photolithography) is one of the most important and prevalent sets of techniques in the nanolithography field. Optical lithography contains several important derivative techniques, all that use very short light wavelengths in order to change the solubility of certain molecules, causing them to wash away in solution, leaving behind a desired structure. Several optical lithography techniques require the use of liquid immersion and a host of resolution enhancement technologies like phase-shift masks (PSM) and optical proximity correction (OPC). Some of the included techniques in this set include multiphoton lithography , X-Ray lithography , light coupling nanolithography (LCM), and extreme ultraviolet lithography (EUVL). This last technique is considered to be the most important next generation lithography (NGL) technique due to its ability to produce structures accurately down below 30 nanometers at high throughput rates which makes it a viable option for commercial purposes.
+
+Quantum optical lithography (QOL), is a diffraction-unlimited method able to write at 1 nm resolution by optical means, using a red laser diode (λ = 650 nm). Complex patterns like geometrical figures and letters were obtained at 3 nm resolution on resist substrate. The method was applied to nanopattern graphene at 20 nm resolution.
+
+Electron beam lithography (EBL) or electron-beam direct-write lithography (EBDW) scans a focused beam of electrons on a surface covered with an electron-sensitive film or resist (e.g. PMMA or HSQ ) to draw custom shapes. By changing the solubility of the resist and subsequent selective removal of material by immersion in a solvent, sub-10 nm resolutions have been achieved. This form of direct-write, maskless lithography has high resolution and low throughput, limiting single-column e-beams to photomask fabrication, low-volume production of semiconductor devices , and research and development. Multiple-electron beam approaches have as a goal an increase of throughput for semiconductor mass-production.
+EBL can be utilized for selective protein nanopatterning on a solid substrate, aimed for ultrasensitive sensing. Resists for EBL can be hardened using sequential infiltration synthesis (SIS).
+
+Scanning probe lithography (SPL) is another set of techniques for patterning at the nanometer-scale down to individual atoms using scanning probes , either by etching away unwanted material, or by directly-writing new material onto a substrate. Some of the important techniques in this category include dip-pen nanolithography , thermochemical nanolithography , thermal scanning probe lithography , and local oxidation nanolithography . Dip-pen nanolithography is the most widely used of these techniques.
+
+This technique uses a focused beam of high energy (MeV) protons to pattern resist material at nanodimensions and has been shown to be capable of producing high-resolution patterning well below the 100 nm mark.
+
+This set of techniques include ion- and electron-projection lithographies. Ion beam lithography uses a focused or broad beam of energetic lightweight ions (like He ) for transferring pattern to a surface. Using Ion Beam Proximity Lithography (IBL) nano-scale features can be transferred on non-planar surfaces.
+
+Soft lithography uses elastomer materials made from different chemical compounds such as polydimethylsiloxane . Elastomers are used to make a stamp, mold, or mask (akin to photomask ) which in turn is used to generate micro patterns and microstructures. The techniques described below are limited to one stage. The consequent patterning on the same surfaces is difficult due to misalignment problems. The soft lithography isn't suitable for production of semiconductor-based devices as it's not complementary for metal deposition and etching. The methods are commonly used for chemical patterning.
+
+Nanoimprint lithography (NIL), and its variants, such as Step-and-Flash Imprint Lithography and laser assisted directed imprint (LADI) are promising nanopattern replication technologies where patterns are created by mechanical deformation of imprint resists, typically monomer or polymer formations that are cured by heat or UV light during imprinting. This technique can be combined with contact printing and cold welding . Nanoimprint lithography is capable of producing patterns at sub-10 nm levels.
+
+Magnetolithography (ML) is based on applying a magnetic field on the substrate using paramagnetic metal masks call "magnetic mask". Magnetic mask which is analog to photomask define the spatial distribution and shape of the applied magnetic field. The second component is ferromagnetic nanoparticles (analog to the Photoresist ) that are assembled onto the substrate according to the field induced by the magnetic mask.
+
+A nanofountain probe is a micro-fluidic device similar in concept to a fountain pen which deposits a narrow track of chemical from a reservoir onto the substrate according to the movement pattern programmed.
+
+Nanosphere lithography uses self-assembled monolayers of spheres (typically made of polystyrene ) as evaporation masks. This method has been used to fabricate arrays of gold nanodots with precisely controlled spacings.
+
+Neutral particle lithography (NPL) uses a broad beam of energetic neutral particle for pattern transfer on a surface.
+
+Plasmonic lithography uses surface plasmon excitations to generate beyond-diffraction limit patterns, benefiting from subwavelength field confinement properties of surface plasmon polaritons .
+
+Stencil lithography is a resist-less and parallel method of fabricating nanometer scale patterns using nanometer-size apertures as shadow-masks .

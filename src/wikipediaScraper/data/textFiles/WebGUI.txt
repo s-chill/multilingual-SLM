@@ -1,0 +1,35 @@
+WebGUI is an open-source content management system written in Perl and released under the GNU General Public License .
+
+The system permits non-technically minded users to arrange content in pages and layouts, containing 'Assets' ( applets ) which permit website visitors to view and interact with various types of data from basic Articles to full-blown Content management system and custom applications .
+
+In July 2014, Scott Walters proposed a project on Kickstarter to bring the nascent Version 8 rewrite to a formal release with a supporting free software community. Version 8 is, according to the Kickstarter project page, "a massive modernization effort that reworked core to use Moose , Plack , Try::Tiny" along with a general code cleanup. The project achieved its crowd funding goal on July 16, 2014.
+
+WebGUI (pronounced web-GOO-E) is a system that gives web administrators the ability to manage the appearance and features available in the user interface to fit each user's skill level. Its users and groups system allows control over content editing and viewing privileges, and the versioning and workflow systems allow for content approval hierarchies and tracking of content as it moves through the site. Everything in WebGUI is a template which allows for customization, while keeping the site content and style separate.
+
+The system was originally built as an application framework by creator Plain Black Corporation to support their customer development work, but a majority of its current independent users utilize it as a CMS with the modules with which it ships.
+
+In 1999 a development project called Web Done Right began in an effort to create a web application framework. Over the next several years, Web Done Right evolved and eventually became WebGUI. WebGUI and its parent company Plain Black Corporation were launched to the public in 2001.
+
+The WebGUI software can be used for:
+
+WebGUI is built as an application framework, and has a pluggable architecture to aid in the extensibility of applications. Developers can create custom applications and functionality that match an organization's processes. A pluggable macro architecture allows for even more extensibility and flexibility. WebGUI's modular design allows code to be easily accessed, changed, and replaced.
+
+WebGUI is a mod_perl application but there is a project codenamed PlebGUI to port WebGUI to PSGI , the Perl Web Server Gateway Interface, which enables deployment using CGI , FastCGI , mod_perl , et al.
+
+With WebGUI, users can create:
+
+In addition, there are many user contributed applications available.
+
+WebGUI comes with a number of built in themes , and additional themes are freely available in the add-ons section of the WebGUI website. Everything in WebGUI is a template, and templates are accessed through the admin user interface.
+
+WebGUI has a translation server that allows anyone to contribute translated terms for any field label in the user interface. These translations can then be applied to a site and users can manage content in their native languages. WebGUI contains Dutch, German, English and Spanish translations.
+
+WebGUI is licensed under GNU General Public License , which means it is free to download and use.
+
+To ease the installation of WebGUI's requirements, Plain Black distributes them inside of the WebGUI Runtime Environment (WRE). The WRE includes everything needed to run WebGUI, excepting some Perl modules that versions of WebGUI released after the WRE may require. The WRE is pre- compiled by Plain Black for their list of supported systems, and members of the community submit WRE binaries for other systems.
+
+In addition to the requirements, the WRE includes tools to administer WebGUI servers. The 0.8 version of the WRE introduced the WRE Console, which is a GUI tool (viewed with a web browser ) to set up and manage WebGUI sites.
+
+Gooey , the purple octopus is the mascot of WebGUI. It was created by Darci Gibson.
+
+A 2019 review by staff at Business.com noted WebGUI's collaboration features and community support as among its useful features, and ability to customize each user's interface depending on their skill level.

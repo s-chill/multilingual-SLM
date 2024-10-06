@@ -1,0 +1,13 @@
+Herb Sutter is a prominent C++ expert. He is also an author of several books on C++ and was a columnist for Dr. Dobb's Journal .
+
+Sutter was born and raised in Oakville, Ontario , and studied computer science at Canada's University of Waterloo .
+
+From 1995 to 2001 he was chief technology officer at PeerDirect where he designed the PeerDirect database replication engine.
+
+He joined Microsoft in 2002 as a platform evangelist for Visual C++ .NET , rising to lead software architect for C++/CLI . In recent years Sutter was lead designer for C++/CX and C++ AMP .
+
+Sutter has served as the chair of the ISO C++ standards committee since 2002.
+
+In 2005, Sutter published an article titled "The Free Lunch Is Over" that claimed that microprocessor serial-processing speed was reaching a physical limit leading to two main consequences:
+
+The article is seen as highly influential in subsequent system design.

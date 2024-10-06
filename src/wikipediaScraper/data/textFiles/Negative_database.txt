@@ -1,0 +1,11 @@
+In database security , a negative database is a database that saves attributes that cannot be associated with a certain entry .
+
+A negative database is a kind of database that contains huge amount of data consisting of simulating data.
+When anyone tries to get access to such databases both the actual and the negative data sets will be retrieved even if they steal the entire database. 
+For example, instead of storing just the personal details you store personal details that members don't have.
+
+Negative databases can avoid inappropriate queries and inferences. They also support allowable operations . Under this scenario, it is desirable that the database support only the allowable queries while protecting the privacy of individual records , say from inspection by an insider.
+
+Collection of negative data has been referred to as "negative sousveillance ":
+
+"Negative databases (Esponda, 2006), is the keeping records which if stolen do not reveal the identity of individuals. Negative databases achieve this by storing the complement of the set of what is being tracked. Essentially the database shows what isn’t of concern. Extending his approach the negative intelligence gatherer would seek to understand what websites, infrastructure systems, environmental sensors or documents have become unavailable. The negative sousveillance concept then is to record, track, or infer what isn’t there."

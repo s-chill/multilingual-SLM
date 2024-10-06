@@ -1,0 +1,11 @@
+A Vierendeel bridge is a bridge employing a Vierendeel truss , named after Arthur Vierendeel .
+
+Such trusses are made up of rectangular rather than triangular frames, as are common in bridges using pin–joints . Because of the lack of diagonal members, Vierendeel trusses employ moment joints to resist substantial bending forces.
+
+Owing to a lesser economy of materials and the difficulty of design before the advent of computers, this truss is rarely used in bridges outside Belgium. The form is more commonly employed in building structures where large shear walls or diagonal elements would interfere with the building's aesthetics or functionality.
+
+The first such bridge was built in steel at Avelgem , Belgium in 1902, following development of the truss form and a method to calculate its strength in 1896 by Arthur Vierendeel. There are many more examples in Belgium, including some built in concrete, mostly designed by Vierendeel's many students from his long career as professor in civil engineering .
+
+The city of Glendale, California has three Vierendeel truss bridges: the Geneva Street, Kenilworth Avenue, and Glenoaks Boulevard bridges, all two-lane bridges spanning 95 feet. They were built in 1937 as part of the Verdugo Flood Control Project , the first project of the United States Army Corps of Engineers after passage of the Flood Control Act of 1936 .
+
+The double-deck cable-stayed Kap Shui Mun Bridge in Hong Kong uses a Vierendeel truss. Opened in 1997, the lower deck carries both rail and traffic, with the lack of diagonal members in the cross section allowing vehicles to drive through the openings provided by the Vierendeel design.

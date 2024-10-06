@@ -1,0 +1,61 @@
+Wind power , derived from wind turbines , plays a crucial role in Australia’s energy sector. As of October 2023, the nation has an installed wind capacity of around 9,100 megawatts (MW), making wind power a key component of Australia's energy landscape. It accounts for approximately 5% of the country's total primary energy supply and 35% of its renewable energy supply. Australia's geographical features, including its southern regions and the eastern slopes of the Great Dividing Range, are particularly conducive to wind energy development. Notably, nearly half of Australia's wind farms are situated in coastal areas.
+
+In December 2022, the Federal Government officially designated the Bass Strait off Gippsland as Australia's first offshore wind zone.
+
+The abundant wind resources in Australia provide a major opportunity for the country to grow its renewable energy sector. The southern coastline lies in the Roaring Forties . Many sites have average wind speeds above 8–9 m/s at turbine hub height.
+
+During the 1980s and 1990s, several states carried out systematic monitoring of wind speed , with results being available to the public. Most tested sites are close to Australia's main population centres, making wind power a convenient resource for electricity generation.
+
+Australian wind farms produce an average capacity factor range of 30–35%, making wind power a viable option. South Australia 's large share (along with nearby Victoria ) means most of Australia's wind power occurs around the same time. The correlation between South Australia and New South Wales is 0.34, while the correlation between South Australia and Tasmania is 0.10.
+
+As of September 2024, there were 90 operational wind farms in Australia, totalling 11,420 MW in capacity.
+
+The largest wind farm is Coopers Gap Wind Farm in Queensland , which began generating to the grid in June 2019, with a capacity of 453 MW. As of December 2019, 50 Coopers Gap Wind Farm 's turbines out of the initial 123 were operational.
+
+By generating capacity, the ten largest wind farms in Australia are:
+
+Australia's first commercial wind farm, Salmon Beach Wind Farm, near Esperanza in Western Australia , operated for 15 years from 1987 but was decommissioned due to urban encroachment. It has since been replaced by Ten Mile Lagoon Wind Farm and Nine Mile Beach Wind Farm .
+
+A full listing of all the wind farms in Australia can be found in the List of wind farms in Australia . Relevant state articles are:
+
+The following figures are based on capacity and generation as of the end of 2020. Proposed figures are updated to December 2020.
+
+Note that figures may not agree with aggregate figures previously stated, due to different data sources and reporting dates contained within them.
+
+In 2019, South Australia supplied 29.2% of Australia's wind power, fulfilling 41% of the state's electricity requirements. By the end of 2011, wind power generation in South Australia had reached 26%, surpassing coal-fired power for the first time. At that point, despite comprising only 7.2% of Australia's population, South Australia possessed 54% of the country's installed wind capacity.
+
+Victoria also possesses a significant system, contributing 27.8% of Australia's wind power in 2019. In August 2015, the Victorian government announced financial support for new wind farms as part of an initiative to promote renewable energy within the state. This initiative aimed to expedite the construction of a modest 100 MW of new wind energy, representing a $200 million investment. The government estimated that 2400 MW worth of Victorian projects had been approved but remained unbuilt.
+
+Installed capacity (nameplate) refers to the theoretical maximum capacity of the engineered design under perfect operating conditions. The accepted AEMO rating is the capacity factor rating that accounts for approximately 30 to 35 percent of the installed or nameplate capacity. Additionally, depending on the location of the wind turbine, there may be energy losses in the feeder transmission line, which vary based on its length, before reaching the main electricity grid.
+
+Wind developments typically entail substantial upfront capital costs, with comparatively lower operating expenses. Nevertheless, maintenance costs can accumulate over time due to the necessity for periodic replacement of components susceptible to wear.
+
+In contrast, conventional energy sources such as gas and coal demand significant initial capital investments and incur ongoing operating costs. Gas and coal power stations also generally have much longer operational lifespans compared to wind turbines. When adequately maintained, coal and gas plants can remain operational for up to three times longer than wind turbines.
+
+Despite these complexities, existing data indicate that wind energy is one of the most cost-efficient renewable energy sources but approximately two times the cost of coal-generated power in 2006. When the costs associated with pollution were factored in, it was competitive with coal- and gas-fired power stations even then. By 2014, wind had the lowest levelised cost of energy (LCOE) of any power source in Australia.
+
+A 2012 study by SKM on the economic benefits of wind farms in Australia found that, for every 50 MW in capacity, a wind farm delivered the following benefits:
+
+Australia is the fifth highest per capita emitter of greenhouse gases with 25.8 tonne CO 2 -e per person annually, ranking first of the industrialised countries, and ranks sixteenth of all countries in total country emissions with 495 Mt CO 2 -e per annum. It is one of the major exporters of coal, the burning of which releases CO 2 into the atmosphere. It is also one of the countries most at risk from climate change according to the Stern report . This is partially because of the size of its agriculture sector and long coastline.
+
+A wind farm, when installed on agricultural land, has one of the lowest environmental impacts of all energy sources:
+
+Landscape and heritage issues can be a significant issue for certain wind farms. However, these are minimal when compared with the environmental effects of coal . However, when appropriate planning procedures are followed, the heritage and landscape risks should be minimal. People may still object to wind farms, perhaps on the grounds of aesthetics, but their concerns should be weighed against the need to address the threats posed by climate change and the opinions of the broader community.
+
+Overseas experience has shown that community consultation and direct involvement of the general public in wind farm projects have helped to increase community approval. Some wind farms become tourist attractions.
+
+The Garnaut Climate Change Review , the Carbon Pollution Reduction Scheme and the Mandatory Renewable Energy Target announced by the Australian Government involve a reduction in Australian greenhouse gas emissions . Australia is the highest emitter of greenhouse gases per capita in the developed world and wind power is well placed to grow and deliver greenhouse gas emission cuts on a cost-competitive basis. A typical 50-megawatt (MW) wind farm in Australia can reduce greenhouse gas emissions by between 65,000 and 115,000 tonnes a year.
+
+Based on the 2010 figures for electricity production of 5 TWh nationally, it is estimated that wind power saved Australia 5,100,000 tonnes of CO 2 emissions in that year. In relative terms, that is calculated to be the equivalent of removing 1,133,000 cars from the nation's roads.
+
+From 2001 to early 2006, the main driving force for the establishment of wind farms in Australia was the Government's Mandatory Renewable Energy Target (MRET). However, by mid-2006, sufficient renewable energy had been installed or was under construction to meet the small MRET target for 2010. Also, in 2006, several Federal Government Ministers spoke out against several wind farm proposals.
+
+Mark Diesendorf has suggested that the Australian Government has tried to stop the development of wind power, the lowest-cost, new, renewable electricity source until coal-fired power stations with CO 2 capture and sequestration and possibly nuclear power stations were available. However, "clean coal" technologies may not be commercially available for at least 20 years. Furthermore, to bring down the high cost of nuclear power to a level where it could compete with wind power would require a new generation of nuclear power stations that is still on the drawing board, which could take at least 15 years.
+
+In November 2007, when the Rudd (Labor) government was elected in Australia, it ratified Australia's commitment to the Kyoto Protocol , promised a target of 20% renewable power by 2020 and to do more to reduce Australia's greenhouse gas emissions . As a result, several new wind power projects were proposed in anticipation of an expanded MRET.
+
+In January 2022, construction began on the Goyder South development , which is expected to become one of Australia’s largest wind farms. Run by French firm Neoen , the project expects to be able to provide 209 MW of power generation by 2024, and a similar amount again when construction is complete.
+
+In south east Queensland , Australia’s first gigawattscale wind project is in development: the MacIntrye facility (923 MW), majority owned by Spanish energy firm Acciona , and the Karara Wind Farm (103 MW), owned and operated by CleanCo.
+
+As of April 2023, one of the most significant wind projects underway in Victoria is the 756 MW stage one of the Golden Plains development in Rokewood .

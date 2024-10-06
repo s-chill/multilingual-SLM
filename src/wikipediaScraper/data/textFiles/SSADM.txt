@@ -1,0 +1,58 @@
+Structured systems analysis and design method ( SSADM ) is a systems approach to the analysis and design of information systems. SSADM was produced for the Central Computer and Telecommunications Agency , a UK government office concerned with the use of technology in government, from 1980 onwards.
+
+SSADM is a waterfall method for the analysis and design of information systems . SSADM can be thought to represent a pinnacle of the rigorous document-led approach to system design, and contrasts with more contemporary agile methods such as DSDM or Scrum .
+
+SSADM is one particular implementation and builds on the work of different schools of structured analysis and development methods, such as Peter Checkland's soft systems methodology , Larry Constantine's structured design , Edward Yourdon's Yourdon Structured Method , Michael A. Jackson's Jackson Structured Programming , and Tom DeMarco's structured analysis .
+
+The names "Structured Systems Analysis and Design Method" and "SSADM" are registered trademarks of the Office of Government Commerce (OGC), which is an office of the United Kingdom's Treasury.
+
+The principal stages of the development of Structured System Analysing And Design Method were:
+
+The three most important techniques that are used in SSADM are as follows:
+
+The SSADM method involves the application of a sequence of analysis, documentation and design tasks concerned with the following.
+
+In order to determine whether or not a given project is feasible, there must be some form of investigation into the goals and implications of the project. For very small scale projects this may not be necessary at all as the scope of the project is easily understood. In larger projects, the feasibility may be done but in an informal sense, either because there is no time for a formal study or because the project is a “must-have” and will have to be done one way or the other. A data flow Diagram is used to describe how the current system works and to visualize the known problems.
+
+When a feasibility study is carried out, there are four main areas of consideration:
+
+Technical – is the project technically possible? Financial – can the business afford to carry out the project? Organizational – will the new system be compatible with existing practices? Ethical – is the impact of the new system socially acceptable?
+
+To answer these questions, the feasibility study is effectively a condensed version of a comprehensive systems analysis and design. The requirements and usages are analyzed to some extent, some business options are drawn up and even some details of the technical implementation.
+The product of this stage is a formal feasibility study document. SSADM specifies the sections that the study should contain including any preliminary models that have been constructed and also details of rejected options and the reasons for their rejection.
+
+The developers of SSADM understood that in almost all cases there is some form of current system even if it is entirely composed of people and paper. Through a combination of interviewing employees, circulating questionnaires, observations and existing documentation, the analyst comes to full understanding of the system as it is at the start of the project. This serves many purposes (Like examples?).
+
+Having investigated the current system, the analyst must decide on the overall design of the new system. To do this, he or she, using the outputs of the previous stage, develops a set of business system options. These are different ways in which the new system could be produced varying from doing nothing to throwing out the old system entirely and building an entirely new one. The analyst may hold a brainstorming session so that as many and various ideas as possible are generated.
+
+The ideas are then collected to options which are presented to the user. The options consider the following:
+
+Where necessary, the option will be documented with a logical data structure and a level 1 data-flow diagram.
+
+The users and analyst together choose a single business option. This may be one of the ones already defined or may be a synthesis of different aspects of the existing options. The output of this stage is the single selected business option together with all the outputs of the feasibility stage.
+
+This is probably the most complex stage in SSADM. Using the requirements developed in stage 1 and working within the framework of the selected business option, the analyst must develop a full logical specification of what the new system must do. The specification must be free from error, ambiguity and inconsistency. By logical, we mean that the specification does not say how the system will be implemented but rather describes what the system will do.
+
+To produce the logical specification, the analyst builds the required logical models for both the data-flow diagrams (DFDs) and the Logical Data Model (LDM), consisting of the Logical Data Structure (referred to in other methods as entity relationship diagrams ) and full descriptions of the data and its relationships. These are used to produce function definitions of every function which the users will require of the system, Entity Life-Histories (ELHs) which describe all events through the life of an entity, and Effect Correspondence Diagrams (ECDs) which describe how each event interacts with all relevant entities. These are continually matched against the requirements and where necessary, the requirements are added to and completed.
+
+The product of this stage is a complete requirements specification document which is made up of:
+
+This stage is the first towards a physical implementation of the new system application. Like the Business System Options, in this stage a large number of options for the implementation of the new system are generated. This is narrowed down to two or three to present to the user from which the final option is chosen or synthesized.
+
+However, the considerations are quite different being:
+
+All of these aspects must also conform to any constraints imposed by the business such as available money and standardization of hardware and software.
+
+The output of this stage is a chosen technical system option.
+
+Though the previous level specifies details of the implementation, the outputs of this stage are implementation-independent and concentrate on the requirements for the human computer interface.  The logical design specifies the main methods of interaction in terms of menu structures and command structures.
+
+One area of activity is the definition of the user dialogues. These are the main interfaces with which the users will interact with the system. Other activities are concerned with analyzing both the effects of events in updating the system and the need to make inquiries about the data on the system. Both of these use the events, function descriptions and effect correspondence diagrams produced in stage 3 to determine precisely how to update and read data in a consistent and secure way.
+
+The product of this stage is the logical design which is made up of:
+
+This is the final stage where all the logical specifications of the system are converted to descriptions of the system in terms of real hardware and software. This is a very technical stage and a simple overview is presented here.
+
+The logical data structure is converted into a physical architecture in terms of database structures. The exact structure of the functions and how they are implemented is specified. The physical data structure is optimized where necessary to meet size and performance requirements.
+
+The product is a complete Physical Design which could tell software engineers how to build the system in specific details of hardware and software and to the appropriate standards.

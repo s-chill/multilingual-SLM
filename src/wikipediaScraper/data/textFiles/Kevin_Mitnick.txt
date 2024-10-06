@@ -1,0 +1,41 @@
+This is an accepted version of this page
+
+Kevin David Mitnick (August 6, 1963 – July 16, 2023) was an American computer security consultant, author, and convicted hacker . He is best known for his high-profile 1995 arrest and five years in prison for various computer and communications-related crimes. Mitnick's pursuit, arrest, trial and sentence were all controversial, as were the associated media coverage, books and films. After his release from prison, he ran his own security firm, Mitnick Security Consulting, LLC, and was also involved with other computer security businesses.
+
+Mitnick was born on August 6, 1963, in Van Nuys, Los Angeles , California. His father was Alan Mitnick, his mother was Shelly Jaffe, and his maternal grandmother was Reba Vartanian. Mitnick was Jewish, and grew up in Los Angeles, California. At age 12, Mitnick convinced a bus driver to tell him where he could buy his own ticket punch for "a school project", and was then able to ride any bus in the greater Los Angeles area using unused transfer slips he found in a dumpster next to the bus company garage.
+
+Mitnick attended James Monroe High School in North Hills , during which time he became a licensed amateur radio operator with callsign WA6VPS (his license was restored after imprisonment with callsign N6NHG ). He chose the nickname "Condor" after watching the movie Three Days of the Condor . He was later enrolled at Los Angeles Pierce College and USC .
+
+For a time, Mitnick worked as a receptionist for Stephen S. Wise Temple in Los Angeles.
+
+Mitnick gained unauthorized access to a computer network in 1979, at 16, when a friend gave him the telephone number for the Ark, the computer system that Digital Equipment Corporation (DEC) used for developing its RSTS/E operating system software. He broke into DEC's computer network and copied the company's software, a crime for which he was charged and convicted in 1988. He was sentenced to 12 months in prison followed by three years of supervised release. Near the end of his supervised release, Mitnick hacked into Pacific Bell voicemail computers. After a warrant was issued for his arrest, Mitnick fled, becoming a fugitive for two-and-a-half years.
+
+According to the United States Department of Justice , Mitnick gained unauthorized access to dozens of computer networks while he was a fugitive. He used cloned cellular phones to hide his location and, among other things, copied valuable proprietary software from some of the country's largest cellular telephone and computer companies. Mitnick also intercepted and stole computer passwords , altered computer networks, and broke into and read private emails.
+
+After a well-publicized pursuit, the Federal Bureau of Investigation arrested Mitnick on February 15, 1995 at his apartment in Raleigh, North Carolina , on federal offenses related to a two-and-a-half-year period of computer hacking that included computer and wire fraud . He was found with cloned cell phones, more than 100 cloned cellular phone codes, and multiple pieces of false identification.
+
+In December 1997, the Yahoo! Web site was hacked, displaying a message calling for Mitnick's release. According to the message, all recent visitors of Yahoo!'s site had been infected with a computer worm that would wreak havoc on Christmas Day unless Mitnick was released. Yahoo! dismissed the claims as a hoax and said that the worm was nonexistent.
+
+In 1998, Mitnick was charged in the United States District Court for the Central District of California with 14 counts of wire fraud, eight counts of possession of unauthorized access devices, interception of wire or electronic communications, unauthorized access to a federal computer, and causing damage to a computer. As part of a plea bargain , Mitnick pleaded guilty in 1999 to four counts of wire fraud, two counts of computer fraud, and one count of illegally intercepting a wire communication. U.S. district judge Mariana Pfaelzer sentenced Mitnick to 46 months in federal prison plus 22 months for violating the terms of his 1989 supervised release sentence for computer fraud. He admitted to violating the terms of supervised release by hacking into Pacific Bell voicemail and other systems and to associating with known computer hackers, in this case co-defendant Lewis De Payne. He was diagnosed with Asperger syndrome , but it was not used as evidence because he pleaded guilty before going to trial.
+
+Mitnick served five years in prison—four-and-a-half years' pre-trial and eight months in solitary confinement , because, according to Mitnick, law enforcement officials convinced a judge that he had the ability to "start a nuclear war by whistling into a pay phone", implying that law enforcement told the judge that he could somehow dial into the NORAD modem via a payphone from prison and communicate with the modem by whistling to launch nuclear missiles . In addition, a number of media outlets reported on the unavailability of kosher meals at the prison where he was incarcerated.
+
+Mitnick was released from prison on January 21, 2000. During his supervised release period, which ended on January 21, 2003, he was initially forbidden to use any communications technology other than a landline telephone. Under the plea deal, Mitnick was also prohibited from profiting from films or books based on his criminal activity for seven years, under a variation of the Son of Sam law .
+
+In December 2001, a Federal Communications Commission (FCC) judge ruled that Mitnick was sufficiently rehabilitated to possess a federally issued amateur radio license.
+
+Mitnick's criminal activities, arrest, and trial, along with the associated journalism, were all controversial. Though Mitnick was convicted of copying software unlawfully, his supporters argue that his punishment was excessive and that many of the charges against him were fraudulent and not based on actual losses.
+
+John Markoff and Tsutomu Shimomura , who had both been part of the pursuit of Mitnick, wrote the book Takedown about Mitnick's capture.
+
+The case against Mitnick tested the new laws that had been enacted for dealing with computer crime and it raised public awareness of security involving networked computers. The controversy remains and the Mitnick story is often cited today as an example of the influence of news media on law enforcement personnel.
+
+After his release in 2000, Mitnick became a paid security consultant, public speaker, and author. He carried out security consulting for, performed penetration testing services, and taught social engineering classes to companies and government agencies. He ran Mitnick Security Consulting LLC, a computer security consultancy and was part owner of KnowBe4 , provider of an integrated platform for security awareness training and simulated phishing testing, as well as an active advisory board member at Zimperium , a firm that develops a mobile intrusion prevention system. He resided in Las Vegas, Nevada.
+
+Kevin Mitnick died from pancreatic cancer on July 16, 2023, at the age of 59 at a Pittsburgh, Pennsylvania hospital. At the time of his death, he was married and his wife was pregnant with their first child.
+
+In 2000, Skeet Ulrich and Russell Wong portrayed Mitnick and Tsutomu Shimomura, respectively, in the movie Track Down (known as Takedown outside the US), which was based on the book Takedown by John Markoff and Shimomura. The DVD was released in September 2004.
+
+Mitnick also appeared in Werner Herzog 's documentary Lo and Behold, Reveries of the Connected World (2016).
+
+Mitnick is the co-author, with William L. Simon and Robert Vamosi, of four books, three on computer security and an autobiography:

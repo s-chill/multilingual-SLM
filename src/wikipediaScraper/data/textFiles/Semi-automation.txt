@@ -1,0 +1,7 @@
+Semi-automation is a process or procedure that is performed by the combined activities of man and machine with both human and machine steps typically orchestrated by a centralized computer controller.
+
+Within manufacturing, production processes may be fully manual , semi-automated, or fully automated . In this case, semi-automation may vary in its degree of manual and automated steps.
+
+Semi-automated manufacturing processes are typically orchestrated by a computer controller which sends messages to the worker at the time in which he/she should perform a step. The controller typically waits for feedback that the human performed step has been completed via either a human-machine interface or via electronic sensors distributed within the process. Controllers within semi-automated processes may either directly control machinery or send signals to machinery distributed within the process.  Centralized computer controllers within semi-automated processes orchestrate processes by instructing the worker, providing electronic communication and control to process equipment, tools, or machines, as well as perform data management to record and ensure that the process meets established process criteria.
+
+Many manufacturers choose not to fully automate a process, and instead implement semi-automation due to the complexity of the task, or the number of products produced is too low to justify the investment in full automation. Other processes may not be fully automated because it may reduce the flexibility to easily adapt the processes to reflect production needs.

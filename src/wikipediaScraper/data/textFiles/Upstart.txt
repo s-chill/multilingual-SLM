@@ -1,0 +1,17 @@
+Upstart is a discontinued event-based replacement for the traditional init daemon—the method by which several Unix-like computer operating systems perform tasks when the computer is started. It was written by Scott James Remnant , a former employee of Canonical Ltd. In 2014, Upstart was placed in maintenance mode, and other init daemons, such as systemd , were recommended in place of Upstart. Ubuntu moved away from Upstart with the release of version 15.04 ( Vivid Vervet ) in favor of migrating to systemd. As of June 2024, there have been no updates released for Upstart since September 2014.
+
+The traditional init process was originally only responsible for bringing the computer into a normal running state after power-on, or gracefully shutting down services prior to shutdown. As a result, the design is strictly synchronous , blocking future tasks until the current one has completed.  Its tasks must also be defined in advance, as they are limited to this prep or cleanup function. This leaves it unable to handle various non-startup-tasks on a modern desktop computer elegantly, including:
+
+Upstart's event-driven model allows it to respond to events asynchronously as they are generated.
+
+Upstart operates asynchronously; it handles starting of the tasks and services during boot and stopping them during shutdown, and also supervises the tasks and services while the system is running.
+
+Easy transition and perfect backward compatibility with sysvinit were the explicit design goals; accordingly, Upstart can run unmodified sysvinit scripts.  In this way it differs from most other init replacements (beside systemd and OpenRC ), which usually assume and require complete transition to run properly, and do not support a mixed environment of traditional and new startup methods.
+
+Upstart allows for extensions to its event model through the use of initctl to input custom, single events, or event bridges to integrate many or more-complicated events. By default, Upstart includes bridges for socket, dbus, udev, file, and dconf events; additionally, more bridges are possible.
+
+Linux distributions and other operating systems based on the Linux kernel which use Upstart as the default init system:
+
+Linux distributions that support or have supported Upstart to some extent, but moved away since or no longer use it as their default init system:
+
+The latest release was version 1.13 on July 11, 2014.  Since December 2018 the project website says that Upstart is in maintenance mode only, and recommends other init systems, such as systemd .

@@ -1,0 +1,17 @@
+The International ICT Council has been building up ICT certifications in the form of the International Information and Communication Technology Council Certification Program .  The program has been adopting an open process, in which volunteers of communities can participate.  It is believed that the adopted open process enhances both the quality and recognition of the certification program.
+
+Up to the date of updating this article, the certification program has the following series:
+
+There are two certifications including the Information Security Penetration Testing Professional (ISP²) and the Computer Information Forensics Investigator (CIFI).
+
+There is currently one examination — The Intellectual and Digital Property Management (MIP).
+
+There are four levels of the certification.  Beginning from the foundation level to the advanced level, namely they are Linux Administration Associate (LAA), Linux Administration Professional (LAP), Linux Administration Expert (LAE), and Linux Administration Master (LAM).  For the Master level, there are several specializations including Higher Availability, Performance Tuning.
+
+There are two levels: Linux System Programmer Associate(LSPA)and the Linux System Programmer Professional (LSPP)
+
+As of now no certifications exist
+
+There are three levels including Software Testing Associate (STA), Software Testing Professional (STP) and Software Testing Expert (STE)
+
+The Council appoints authorized examination proctors.

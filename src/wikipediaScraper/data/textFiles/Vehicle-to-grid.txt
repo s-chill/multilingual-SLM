@@ -1,0 +1,107 @@
+Vehicle-to-grid ( V2G ) describes a system in which plug-in electric vehicles (PEVs) sell demand response services to the grid . Demand services are either delivering electricity to the grid or reducing the rate of charge from the grid. Demand services reduce the peaks in demand for grid supply, and hence reduce the probability of disruption from load variations. Vehicle-to-load ( V2L ) and Vehicle-to-vehicle ( V2V ) are related, but the AC phase is not synchronised with the grid, so the power is only available to "off-grid" load.
+
+Plug-in electric vehicles include battery electric vehicles (BEVs), plug-in hybrids (PHEVs), and hydrogen vehicles . They share the ability to generate electricity which is typically used to power the vehicle. However, because cars spend most of the time parked, their energy remains stored. V2G allows some of this stored power to be sent to the grid, and reduces the need to take power from the grid. A 2015 report found that vehicle owners could receive significant payments by charging their EVs at off-peak times when electricity is cheaper, storing it in their car battery, and selling it back to the grid at peak times when electricity prices are higher.
+
+Batteries have a finite number of charging cycles, as well as a limited shelf-life, so V2G can reduce battery longevity. Battery capacity is a complex function of battery chemistry, charge/discharge rates, temperature, state of charge and age, but is improving as technology improves. Most studies of the effects of V2G on battery life show that slower V2G discharge rates lessen degradation, while one study suggested that using vehicles for grid storage could improve longevity.
+
+Hydrogen fuel cell vehicles (FCV) with tanks containing 5.6 kg of hydrogen can deliver more than 90 kWh of electricity. Vehicle batteries may hold 100 kWh or more .
+
+Uni-directional V2G (UV2G) charging is technically simpler than delivering power from an EV battery, which many PEVs are not equipped to do. As of 2024 , most EVs require a separate inverter than the one used to power the propulsion motors in order to output AC power from the battery. UV2G can be extended by throttling other activities such as air heating and cooling.
+
+V2G began as vehicle-to-vehicle (V2V) charging, as introduced by California company AC Propulsion in the early 1990s. Their two-seater Tzero car featured two-way charging. V2G allows charging and discharging between vehicle and grid.
+
+V2G vehicles can provide power to help balance grid loads by "valley filling" (charging at night when demand is low) and " peak shaving " (sending power to the grid when demand is high; see duck curve ). Peak load leveling supports regulation services (keeping voltage and frequency stable) and provides spinning reserves (to meet sudden demands for power). Coupling these services with "smart meters" enables V2G. V2G could buffer variable power sources by storing excess energy and providing it to the grid during high-load periods.
+
+It has been proposed that public utilities would not have to build as many coal-fired and gas-fired power plants to meet peak demand or as an insurance policy against power outages . Local demand is easily measured, so dynamic load leveling can be provided as needed on a highly local basis.
+
+Carbitrage, a portmanteau of 'car' and ' arbitrage ', is sometimes used to refer to the process of buying and selling power stored in a vehicle.
+
+Electric vehicles can generally store more than an average home's daily energy demand, and supply emergency power to a home for several days, using vehicle-to-home (V2H) transmission.
+
+Though the concept of V2H charging is simple, putting it into action requires a technologically complex system. Charging stations must integrate software that communicates with the central grid to monitor real-time system demand.
+
+California's grid operator, CAISO , defines four levels of Vehicle-Grid Interface (VGI):
+
+V1G involves varying the time and rate at which an electric vehicle is charged. It is also known as unidirectional managed charging services, unidirectional V2G or "smart charging". V1G approaches include charging in the middle of the day to absorb solar power that would otherwise be discarded (load shedding) and varying the charge rate to provide frequency response or load balancing services.
+
+Vehicle-to-home (V2H), vehicle-to-load (V2L), vehicle-to-vehicle (V2V), and vehicle-to-building (V2B)—sometimes collectively termed vehicle-to-everything (V2X)—use the vehicle to provide power during a power outage or to displace grid energy with energy from possibly other energy sources stored in the vehicle's battery. The source energy may be renewable; for example, vehicles charged using solar power at work during the day could power a home through the night, without pulling power from the grid.
+
+By 2022, V2X had not yet reached market deployment, except in Japan where commercial V2H solutions have been available since 2012. In 2022, Utrecht was installing thousands of bidirectional chargers in anticipation of the arrival of vehicles that support bidirectional energy flows.
+
+By 2023, several vehicles supporting V2X energy transfer had come onto the market. The Ford F-150 Lightning supports 9.6 kW of V2L or V2H power. Tesla began deliveries of a new light truck Cybertruck offering 11.5 kW of V2H or V2L capability.
+
+V2G allows vehicles to supply electricity to the grid, with energy paid for by the operator of the utility or transmission system. In many jurisdictions meeting power demands during periods of peak demand is much more expensive than at other times. Power from EVs is potentially a cheaper alternative. In addition, EV power can facilitate ancillary services such as load-balancing and frequency control, including primary frequency regulation and secondary reserve.
+
+V2G requires specialized hardware (such as bidirectional inverters ), has significant energy losses and limited round-trip efficiency, and the charge/discharge cycling may shorten battery life. A 2016 V2G project in California was done as a pilot by Southern California Edison and found that revenues from the project were lower than project administration costs, eliminating its economic benefits.
+
+EVs typically allow fast DC-charging , with the transformer in a charging station connected directly to the vehicle battery. Technology is being developed for bidirectional DC-charging to and from the station, without needing extra hardware in the car, having the DC-to-AC converter in the station. In principle, EVs without hardware support for V2G could gain bidirectionality capability with only a software upgrade.
+
+Most modern EVs use lithium-ion cells that offer round-trip efficiency greater than 90%. Efficiency depends on factors like charge rate, charge state, battery state of health , and temperature.
+
+Most energy losses are from system components other than the battery, particularly power electronics such as inverters. One study found round-trip efficiency for V2G systems in the range of 53% to 62%. Another study reported efficiency of about 70%. Overall efficiency depends on many factors and can vary widely.
+
+According to a study by the U.S. Department of Energy (DOE), the increasing use of plug-in electric vehicles and other electricity-dependent technologies could increase the strain on US power grids by as much as 38% by 2050. Coping with this heightened demand presents a significant challenge for both power companies and government agencies.
+
+In July 2022, eight electric school buses in the San Diego Gas & Electric (SDG&E) service territory were part of a five-year pilot V2G project to boost reliability during electricity failures. Using V2G software from Nuvve, the bus batteries are aggregated with others in a nearby school district to form a participating resource under the Emergency Load Reduction Program ( ELRP ), which was initiated in 2021 by the California Public Utilities Commission . SDG&E, Pacific Gas and Electric and Southern California Edison to manage the pilot.
+
+In September 2022, the BIDIRECTIONAL Act was introduced in the US Senate, to "create a program dedicated to deploying electric school buses with bidirectional vehicle-to-grid (V2G) flow capability”.
+
+In North America, at least two major school-bus manufacturers— Blue Bird and Lion—are working on proving the benefits of electrification and V2G technology. As of 2020, school buses in the U.S. used $3.2B of diesel a year. Their electrification could help to stabilize the electricity grid, lessen the need for power plants, and reduce gas and particulate pollution and carbon dioxide from exhaust emissions.
+
+In 2017, at the University of California San Diego , V2G technology provider Nuvve launched a pilot program called INVENT, funded by the California Energy Commission , with the installation of 50 V2G bidirectional charging stations around the campus. The program expanded in 2018 to include a fleet of PEVs for its Triton Rides shuttle service.
+
+In 2018 Nissan launched a pilot program under the Nissan Energy Share initiative in partnership with V2G systems company Fermata Energy to use V2G technology to partially power Nissan North America's headquarters in Franklin, Tennessee . In 2020 Fermata Energy's bidirectional electric vehicle charging system became the first to be certified to the North American safety standard, UL 9741, the Standard for Bidirectional Electric Vehicle (EV) Charging System Equipment.
+
+Japan planned to spend $71.1 billion to upgrade existing grid infrastructure. Average Japanese homes use 10 to 12 kWh/day. The Nissan Leaf 's 24 kWh battery capacity, could provide up to two days of power.
+
+In November 2018 in Toyota City, Aichi Prefecture, Toyota Tsusho Corporation and Chubu Electric Power Co., Inc initiated V2G demonstrations with electric vehicles. The demonstration examined how V2G systems balance demand and supply and power grid impacts. Two bidirectional charging stations, connected to a V2G aggregation server managed by Nuvve Corporation, were installed at a parking lot in Aichi Prefecture .
+
+The Edison Project intends to install enough turbines to accommodate 50% of Denmark's total power needs, while using V2G to protect the grid. The Edison Project plans to use PEVs while they are plugged into the grid to store additional wind energy that the grid cannot handle. During the hours of peak energy use, or when the wind is calm, the power stored in these PEVs will be fed into the grid. To aid in the acceptance of PEVs, zero emission vehicles received government subsidies.
+
+Following the Edison project, the Nikola project was started which focused on demonstrating V2G technology in a laboratory setting at the Risø Campus of the Technical University of Denmark (DTU). DTU is a partner along with Nuvve and Nissan. The Nikola project was completed in 2016, laying the groundwork for the Parker project, which used a fleet of EVs to demonstrate the technology in a real-life setting. This project was partnered by DTU , Insero, Nuvve, Nissan and Frederiksberg Forsyning (a Danish distribution system operator in Copenhagen). The partners explored commercial opportunities by systematically testing and demonstrating V2G services across car brands. Economic and regulatory barriers were identified as well as the economic and technical impacts of the applications on the power system and markets. The project started in August 2016 and ended in September 2018.
+
+Starting in January 2011, programs and strategies to assist in PEV adoption were implemented.
+
+In 2018, EDF Energy announced a partnership with Nuvve, to install up to 1,500 V2G chargers. The chargers were to be offered to EDF Energy's business customers and at its own sites to provide up to 15 MW of energy storage capacity.
+
+In October 2019, a consortium called Vehicle to Grid Britain (V2GB) released a research report on the potential of V2G technologies.
+
+Solaris opened a Charging Park in Bolechowo, Poland on September 29, 2022 intended to test charging and discharging of EVs.
+
+Since 2020, the Australian National University 's (ANU) Realising Electric Vehicle-to-grid Services (REVS) team has been studying the reliability and viability of V2G at scale, spinning off the Battery Storage and Grid Integration Project initiative.
+
+In 2022 the first V2G charger became available to purchase in Australia, but delays in rolling them out occurred due to regulatory processes, each State Power Authority needing to certify them as compliant (following Australian government approval). There has also been limited uptake due to high prices and very few EVs being approved to use V2G (at 2023, only the Nissan Leaf EV and some Mitsubishi hybrid EVs). This roll-out follows ANU researchers' production of a comprehensive review of international V2G projects.
+
+A project in Germany by The Mobility House in partnership with Nissan and TenneT used the Nissan Leaf to store energy, the main idea being to generate an essential solution for the German energy market: wind energy from the north of the country is used to charge the EVs while EVs supply the grid during demand peaks, reducing the use of fossil fuels. The project used ten vehicle charging stations. Smart energy redistribution measures were controlled by software. The results showed that electromobility can be used to flexibly control renewable generation sources that vary with the climate.
+
+Denmark 's Edison project, an abbreviation for 'Electric vehicles in a Distributed and Integrated market using Sustainable energy and Open Networks', was a partially state funded research project on the island of Bornholm in Eastern Denmark. The consortium included IBM , Siemens , the hardware and software developer EURISCO, Denmark's largest energy company Ørsted (formerly DONG Energy), the regional energy company Østkraft, the Technical University of Denmark and the Danish Energy Association. It explored how to balance the unpredictable electricity loads generated by Denmark's wind farms, then generating approximately 20 percent of the country's electricity, by using PEVs and their accumulators. The aim of the project was to develop necessary infrastructure. At least one rebuilt V2G-capable Toyota Scion will be used in the project. The project was important in Denmark's efforts to expand its wind-power generation to 50% by 2020. According to a source of the UK newspaper The Guardian , 'It's never been tried at this scale' previously. The project concluded in 2013.
+
+In 2020, the utility company E.ON developed a V2H solution with gridX. The two companies implemented their solution in a private household to test the interaction of a photovoltaic (PV) system, battery storage and bidirectional charging. The house is equipped with three batteries with a combined capacity of 27 kWh, a DC charger and a PV system of 5.6 kWp ( kilowatt-peak ). A 40 kWh Nissan Leaf was used.
+
+In 2014, Southwest Research Institute (SwRI) developed the first V2G aggregation system qualified by the Electric Reliability Council of Texas (ERCOT). The system allows owners of electric delivery truck fleets to participate. When the grid frequency drops below 60 Hertz, the system suspends vehicle charging, removing that load on the grid, allowing the frequency to rise towards normal. The system operates autonomously.
+
+The system was originally developed as part of the Smart Power Infrastructure Demonstration for Energy Reliability and Security (SPIDERS) Phase II program, led by Burns and McDonnell Engineering Company, Inc. In November 2012, SwRI was awarded a $7 million contract from the U.S. Army Corps of Engineers to demonstrate V2G. In 2013, SwRI researchers tested five DC fast-charge stations. The system passed integration and acceptance testing in August 2013.
+
+Prof. Dr. Ad van Wijk, Vincent Oldenbroek and Dr. Carla Robledo, researchers at Delft University of Technology , in 2016 conducted research on V2G technology with hydrogen FCEVs . Both experimental work with V2G FCEVs and techno-economic scenario studies for 100% renewable integrated energy and transport systems were done, using hydrogen and electricity as energy carriers. A Hyundai ix35 FCEV was modified to deliver up to 10 kW DC power while maintaining road readiness. With Accenda they developed a V2G unit converting the vehicle's DC power into 3-phase AC power and injecting it into the grid. The Future Energy Systems Group tested whether FCEVs could offer frequency reserves.
+
+Kempton, Advani, and Prasad conducted V2G research. Kempton published articles on the technology and the concept.
+
+An operational implementation in Europe was conducted through the German government-funded MeRegioMobil project with Opel as vehicle partner and utility EnBW providing grid expertise. Other investigators are the Pacific Gas and Electric Company , Xcel Energy , the National Renewable Energy Laboratory , and, in the United Kingdom , the University of Warwick .
+
+In 2010, Kempton and Poilasne co-founded Nuvve, a V2G solutions company. The company formed industry partnerships and implemented V2G pilot projects on five continents.
+
+Lawrence Berkeley National Laboratory developed V2G-Sim, a simulation platform used to model spatial and temporal driving and charging behavior of individual PEVs on the grid. Its models investigate the challenges and opportunities of V2G services, such as modulation of charging time and charging rate for peak demand response and utility frequency regulation. Preliminary findings indicated that controlled V2G service can provide peak-shaving and valley-filling services to balance daily electric load and mitigate the duck curve. Uncontrolled vehicle charging was shown to exacerbate the duck curve.
+
+V2G-Sim reported that, assuming daily V2G service from 7pm to 9pm at a charging rate of 1.440 kW over ten years, V2G would have minor battery degradation impacts on PEVs compared with cycling losses and calendar aging, incremental capacity losses being 2.68%, 2.66%, and 2.62% respectively.
+
+In May 2016, Nissan and Enel power company announced a collaborative V2G trial in the United Kingdom. The trial used 100 V2G charging units including Nissan Leaf and e-NV200 electric vans.
+
+WMG, University of Warwick and Jaguar Land Rover collaborated with the Energy and Electrical Systems group of the university. They analysed commercially available PEVs over a two-year period. Using a model of battery degradation, they discovered that, for typical driving patterns, some patterns of V2G storage were able to significantly increase battery longevity compared with conventional charging strategies.
+
+The more a battery is used the sooner it needs replacing. As of 2016, replacement cost was approximately one-third of the cost of the car. Batteries degrade with use. JB Straubel , then chief technology officer of Tesla Inc , discounted V2G, claiming that battery wear outweighs economic benefit. A 2017 study found decreasing capacity, and a 2012 hybrid-EV study found minor benefit.
+
+A 2015 study found that economic analyses favorable to V2G failed to include many of the less obvious costs associated with its implementation. When these less obvious costs were included, the study reported that V2G was an economically inefficient solution.
+
+Another common criticism related to efficiency is that cycling power into and out of a battery, which includes "inverting" the DC power to AC, inevitably incurs energy losses. This cycle of energy efficiency may be compared with the 70–80% efficiency of large-scale pumped-storage hydroelectricity .
+
+Power companies must be willing to adopt the technology in order to allow vehicles to give power to the power grid. For vehicles to power the grid cost-effectively, "smart meters" are essential.

@@ -1,0 +1,13 @@
+Soft foot is a common term used for machine frame distortion. The distortion is caused when one or more foot of a machine differ in height from the others. This in turn may be due to differences when the machine was manufactured, a squishy footage with oil film etc. between foot and base, a bent foot, or it may be induced by a pipe to which the machine is attached (e.g. a pipe on top of a pump), which prevents the machine from touching all its feet to its base.
+
+Soft foot usually gives rise to a 1x harmonic of the rotation frequency in the spectrum when radial (horizontal or vertical) vibration measurements are taken. It can be detected in this way.
+
+Similar harmonic 1x is caused by misalignment and looseness. Usually not only will it resemble them, but it also causes misalignment, imbalance and other problems. In fact, it may be loose, not strictly a soft foot. Therefore, a way to tell the difference is needed.
+
+To differentiate soft foot from misalignment and looseness, even if it causes misalignment when present, one way is to loosen each foot bolt at a time, while the other three are tight. If loosening one of them reduces vibration amplitude (which would be opposite to what one would expect if the machine was all right and we caused looseness by unscrewing of the bolt), then soft foot was present.
+
+Another way to differentiate soft foot from looseness are phase measurements between the machine foot and the base/ground. 180 degrees difference indicates looseness.
+
+Soft foot can be detected by using a variety of methods, including:
+
+Once soft foot has been detected, it can be corrected by shimming the machine feet until all four feet are in solid contact with the foundation or baseplate.

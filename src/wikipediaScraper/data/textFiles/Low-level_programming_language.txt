@@ -1,0 +1,31 @@
+A low-level programming language is a programming language that provides little or no abstraction from a computer's instruction set architecture ; commands or functions in the language are structurally similar to a processor's instructions. Generally, this refers to either machine code or assembly language . Because of the low (hence the word) abstraction between the language and machine language, low-level languages are sometimes described as being "close to the hardware". Programs written in low-level languages tend to be relatively non-portable , due to being optimized for a certain type of system architecture.
+
+Low-level languages can convert to machine code without a compiler or interpreter — second-generation programming languages use a simpler processor called an assembler —and the resulting code runs directly on the processor. A program written in a low-level language can be made to run very quickly, with a small memory footprint . An equivalent program in a high-level language can be less efficient and use more memory. Low-level languages are simple, but considered difficult to use, due to numerous technical details that the programmer must remember. By comparison, a high-level programming language isolates execution semantics of a computer architecture from the specification of the program, which simplifies development.
+
+Machine code is the form in which code that can be directly executed is stored on a computer. It consists of machine language instructions , stored in memory, that perform operations such as moving values in and out of memory locations, arithmetic and Boolean logic, and testing values and, based on the test, either executing the next instruction in memory or executing an instruction at another location.
+
+Machine code is usually stored in memory as binary data. Programmers almost never write programs directly in machine code; instead, they write code in assembly language or higher-level programming languages.
+
+Although few programs are written in machine languages, programmers often become adept at reading it through working with core dumps or debugging from the front panel.
+
+Example of a function in hexadecimal representation of x86-64 machine code to calculate the n th Fibonacci number , with each line corresponding to one instruction:
+
+Second-generation languages provide one abstraction level on top of the machine code. In the early days of coding on computers like TX-0 and PDP-1 , the first thing MIT hackers did was to write assemblers. Assembly language has little semantics or formal specification, being only a mapping of human-readable symbols, including symbolic addresses, to opcodes , addresses , numeric constants, strings and so on. Typically, one machine instruction is represented as one line of assembly code, commonly called mnemonics. Assemblers produce object files that can link with other object files or be loaded on their own.
+
+Most assemblers provide macros to generate common sequences of instructions.
+
+Example: The same Fibonacci number calculator as above, but in x86-64 assembly language using AT&T syntax :
+
+In this code example, the registers of the x86-64 processor are named and manipulated directly. The function loads its 32-bit argument from %edi in accordance to the System V application binary interface for x86-64 and performs its calculation by manipulating values in the %eax , %ecx , %esi , and %edi registers until it has finished and returns. Note that in this assembly language, there is no concept of returning a value. The result having been stored in the %eax register, again in accordance with System V application binary interface, the ret instruction simply removes the top 64-bit element on the stack and causes the next instruction to be fetched from that location (that instruction is usually the instruction immediately after the one that called this function), with the result of the function being stored in %eax . x86-64 assembly language imposes no standard for passing values to a function or returning values from a function (and in fact, has no concept of a function); those are defined by an application binary interface , such as the System V ABI for a particular instruction set.
+
+Compare this with the same function in C :
+
+This code is similar in structure to the assembly language example but there are significant differences in terms of abstraction:
+
+These abstractions make the C code compilable without modification on any architecture for which a C compiler has been written. The x86 assembly language code is specific to the x86-64 architecture and the System V application binary interface for that architecture.
+
+During the late 1960s and 1970s, high-level languages that included some degree of access to low-level programming functions, such as PL/S , BLISS , BCPL , extended ALGOL and NEWP (for Burroughs large systems /Unisys Clearpath MCP systems), and C , were introduced. One method for this is inline assembly , in which assembly code is embedded in a high-level language that supports this feature. Some of these languages also allow architecture-dependent compiler optimization directives to adjust the way a compiler uses the target processor architecture.
+
+Although a language like C is high-level, it does not fully abstract away the ability to manage memory like other languages. In a high-level language like Python the programmer cannot directly access memory due to the abstractions between the interpreter and the machine. Thus C can allow more control by exposing memory management tools through tools like memory allocate (malloc).
+
+Furthermore, as referenced above, the following block of C is from the GNU Compiler and shows the inline assembly ability of C. Per the GCC documentation this is a simple copy and addition code. This code displays the interaction between a generally high level language like C and its middle/low level counter part Assembly. Although this may not make C a natively low level language these facilities express the interactions in a more direct way.

@@ -1,0 +1,3 @@
+PICTIVE ( P lastic I nterface for C ollaborative T echnology I nitiative through V ideo E xploration) is a participatory design method used to develop graphical user interfaces .
+
+It was developed at Bellcore around 1990.

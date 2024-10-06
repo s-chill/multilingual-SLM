@@ -1,0 +1,15 @@
+Micromouse is an event where small robotic mice compete to solve a 16×16 maze . It began in the late 1970s. Events are held worldwide, and are most popular in the UK , U.S. , Japan , Singapore , India , South Korea and becoming popular in subcontinent countries such as Sri Lanka .
+
+The maze is made up of a 16×16 grid of cells, each 180 mm square with walls 50 mm high. The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided. The mouse needs to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the goal. Having reached the goal, the mouse will typically perform additional searches of the maze until it has found an optimal route from the start to the finish. Once the optimal route has been found, the mouse will traverse that route in the shortest achievable time.
+
+Competitions and conferences are run regularly.
+
+A version of Micromouse called the Half-Size Micromouse was introduced at the 30th All Japan Micromouse Competition in 2009. Instead of a 16×16 maze, the Half-Size competition uses up to a 32×32 maze. Cell and wall dimensions have been reduced by half, providing a new challenge.
+
+Mice used in competitions employ the fundamental elements of robot navigation , including mapping, planning, and localization. Additionally, they optimize their path through the maze using various search algorithms . Common search algorithms use variations of the Bellman flood-fill method, Dijkstra's algorithm , A* search algorithm , among various graph traversal and tree traversal algorithms.
+
+Mice can run at over three meters per second, depending on the maze design. Some of the best micromouse builders are Yusuke Kato, Ng Beng Kiat and Fumitaka Nakashima. The current world record is 3.921 seconds and is held by Ng Beng Kiat.
+
+Performance in recent years has improved considerably. As of 2015, winning mice are likely to run with forward acceleration and braking well over 1g. Cornering with centripetal acceleration as high as 2g is possible. Micromice are among the highest-performing autonomous robots.
+
+Most recently, robots are being equipped with a fan to create a partial vacuum under the mouse while it is running. The additional downforce available has made possible a huge improvement in performance. Compared to a non-fan mouse, the newer robots are likely to be able to achieve centripetal accelerations of 6g or more. Straight line accelerations can easily exceed 2.5g.

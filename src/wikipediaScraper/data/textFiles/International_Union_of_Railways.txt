@@ -1,0 +1,31 @@
+The International Union of Railways ( French : Union internationale des chemins de fer , UIC ) is an international rail transport industry body.
+
+The railways of Europe had originated during the nineteenth century as many separate concerns across numerous nations; this led to disparate and conflicting standards emerging and thus onto incompatibility. One prominent example was the British Gauge War , during which different railway companies were laying different track gauges across Great Britain , causing inefficiency wherever a break of gauge occurred, prior to an Act of Parliament the issue in 1846 by establishing one standard gauge of 4 ft 8 + 1 ⁄ 2 in ( 1,435 mm ). The early effort towards standardisation somewhat influenced railways aboard as well, however various other track gauges persisted and developed across the world; even through to the twenty first century, incompatible track gauges, let alone other issues, persisted to hinder interoperability efforts.
+
+Several key events happened during the early twentieth century; in the aftermath of the First World War and the Treaty of Versailles , numerous border changes were enacted across Europe, which greatly impacted several formerly united national railway networks while compelling several others together in some cases. It was early into the interwar period that the UIC was established on 17 October 1922 with the principal aim of standardising practices across the railway industry and expanding international cooperation in the sector.
+
+The UIC has introduced numerous classification systems over the decades. During the 1970s, the UIC Franc currency equivalent was established for the purpose of easing international ticket revenue sharing; it was replaced by the European Currency Unit on 1 January 1990. UIC classification and UIC Country Codes allowed precise determination of rolling stock capabilities and ownership; furthermore, wagons have been assigned their own unique UIC wagon numbers .
+
+Over time, the UIC has formed various partnerships and cooperative frameworks with other multinational railway authorities, such as the European Union Agency for Railways . The UIC has played a leading role in the development of Technical Specifications for Interoperability (TSIs), which have gradually taken over from older standards developed by various national railway entities.
+
+During the 1990s, the GSM-R radio telecommunication system was formulated as an international interoperability specification covering voice and signalling systems for railway communications. GSM-R, which is built on GSM technology, was designed to be a cost efficient digital replacement for various existing incompatible in-track cable and analogue railway radio networks. The specification for GSM-R is maintained via the UIC project European Rail Traffic Management System (ERTMS). By June 2023, GSM-R had been implemented across roughly 130,000km of track, along with 90,000 cab radios and 20,000 datalink radio units.
+
+A more capable next-generation radio, the Future Railway Mobile Communication System (FRMCS) program, is under development as of 2023. In addition to eventually replacing GSM-R, it will provide new capabilities that require more rapid data exchange, such as live video transmission.
+
+The UIC's mission is "to promote rail transport at world level and meet the challenges of mobility and sustainable development."
+
+The UIC's main objectives are to:
+
+When founded in 1922 the UIC had 51 members from 29 countries, including Japan and China . They were soon joined by members from the Soviet Union , the Middle East and North Africa. As of February 2024, the UIC has 219 members across five continents. Of these there are:
+
+On 12 November 2010, the UIC opened an African regional office in Tunis , Tunisia with the support of SNCFT .
+
+On 9 March 2022, the UIC suspended all member companies from Russia and Belarus, following Russian invasion of Ukraine .
+
+In order to provide a common understanding and reduce potential confusion, the UIC has established standard international railway terminology and a trilingual (English-French-German) thesaurus of terms. The thesaurus was the result of cooperation with the European Conference of Ministers of Transport (ECMT/ CEMT ) and was published in 1995.
+
+The UIC has established systems for the classification of locomotives and their axle arrangements , coaches and goods wagons .
+
+UIC plays an important role in standardization of railway parts, data and terminology, though the degree to which its standards have been adopted by its members varies. Therefore, UIC codes (also known as UIC leaflet ) are developed since the beginning of UIC's work. A new term for these UIC leaflets is used by UIC for better understanding: International Railway Solution ( IRS ).
+
+Some UIC codes are:

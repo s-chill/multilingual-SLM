@@ -1,0 +1,27 @@
+BALL (Biochemical Algorithms Library) is a C++ class framework and set of algorithms and data structures for molecular modelling and computational structural bioinformatics , a Python interface to this library, and a graphical user interface to BALL, the molecule viewer BALLView .
+
+BALL has evolved from a commercial product into free-of-charge open-source software licensed under the GNU Lesser General Public License (LGPL). BALLView is licensed under the GNU General Public License (GPL) license.
+
+BALL and BALLView have been ported to the operating systems Linux , macOS , Solaris , and Windows .
+
+The molecule viewer BALLView, also developed by the BALL project team, is a C++ application of BALL using Qt , and OpenGL with the real-time ray tracer RTFact as render back-ends . For both, BALLView offers three-dimensional and stereoscopic visualizing in several different modes, and applying directly the algorithms of the BALL library via its graphical user interface.
+
+The BALL project is developed and maintained by groups at Saarland University , Mainz University , and University of Tübingen . Both the library and the viewer are used for education and research. BALL packages have been made available in the Debian project.
+
+BALL is a development framework for structural bioinformatics. Using BALL as a programming toolbox allows greatly reducing application development times and helps ensure stability and correctness by avoiding often error-prone reimplementation of complex algorithms and replacing them with calls into a library that has been tested by many developers.
+
+BALL supports molecular file formats including PDB, MOL2, MOL, HIN, XYZ, KCF, SD, AC, and secondary data sources like DCD, DSN6, GAMESS, JCAMP, SCWRL, and TRR. Molecules can also be created using BALL's peptide builder, or based on SMILES expressions.
+
+Further preparation and structure validation is enabled by, e.g., Kekuliser-, Aromaticity-, Bondorder-, HBond-, and Secondary Structure processors. A Fragment Library automatically infers missing information, e.g., a protein's hydrogens or bonds. A Rotamer Library allows determining, assigning, and switching between a protein's most likely side chain conformations. BALL's Transformation processors guide generation of valid 3D structures. Its selection mechanism enables to specify parts of a molecule by simple expressions (SMILES, SMARTS, element types). This selection can be used by all modeling classes like the processors or force fields.
+
+Implementations of the popular force fields CHARMM, Amber, and MMFF94 can be combined with BALL's minimizer and simulation classes (steepest descent, conjugate gradient, L-BFGS, and shifted L-VMM).
+
+SIP is used to automatically create Python classes for all relevant C++ classes in the BALL library to allow for the same class interfaces. The Python classes have the same name as the C++ classes, to aid in porting code that uses BALL from C++ to Python, and vice versa.
+
+The Python interface is fully integrated into the viewer application BALLView and thus allows for direct visualization of results computed by python scripts. Also, BALLView can be operated from the scripting interface and recurring tasks can be automated.
+
+BALLView is BALL's standalone molecule modeling and visualization application. It is also a framework to develop molecular visualization functions.
+
+BALLView offers standard visualization models for atoms, bonds, surfaces, and grid based visualization of e.g., electrostatic potentials. A large part of the functionality of the library BALL can be applied directly to the loaded molecule in BALLView. BALLView supports several visualization and input methods such as different stereo modes, space navigator, and VRPN-supported Input devices.
+
+At CeBIT 2009, BALLView was prominently presented as the first complete integration of real-time ray tracing technology into a molecular viewer and modeling tool.

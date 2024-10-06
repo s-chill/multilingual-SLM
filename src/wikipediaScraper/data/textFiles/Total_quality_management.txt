@@ -1,0 +1,45 @@
+Total quality management ( TQM ) is an organization-wide effort to "install and make a permanent climate where employees continuously improve their ability to provide on-demand products and services that customers will find of particular value." Total emphasizes that departments in addition to production (for example sales and marketing, accounting and finance, engineering and design) are obligated to improve their operations; management emphasizes that executives are obligated to actively manage quality through funding, training, staffing, and goal setting.  While there is no widely agreed-upon approach, TQM efforts typically draw heavily on the previously developed tools and techniques of quality control . TQM enjoyed widespread attention during the late 1980s and early 1990s before being overshadowed by ISO 9000 , Lean manufacturing , and Six Sigma .
+
+In the late 1970s and early 1980s, the developed countries of North America and Western Europe suffered economically in the face of stiff competition from Japan's ability to produce high-quality goods at competitive cost . For the first time since the start of the Industrial Revolution , the United Kingdom became a net importer of finished goods.  The United States undertook its own soul-searching, expressed most pointedly in the television broadcast of If Japan Can... Why Can't We? . Firms began reexamining the techniques of quality control invented over the past 50 years and how those techniques had been so successfully employed by the Japanese. It was in the midst of this economic turmoil that TQM took root.
+
+The exact origin of the term "total quality management" is uncertain. It is almost certainly inspired by Armand V. Feigenbaum 's multi-edition book Total Quality Control ( OCLC 299383303 ) and Kaoru Ishikawa 's What Is Total Quality Control? The Japanese Way ( OCLC 11467749 ).  It may have been first coined in the United Kingdom by the Department of Trade and Industry during its 1983 "National Quality Campaign". Or it may have been first coined in the United States by the Naval Air Systems Command to describe its quality-improvement efforts in 1985.
+
+In the spring of 1984, an arm of the United States Navy asked some of its civilian researchers to assess statistical process control and the work of several prominent quality consultants and to make recommendations as to how to apply their approaches to improve the Navy's operational effectiveness. The recommendation was to adopt the teachings of W. Edwards Deming . The Navy branded the effort "Total Quality Management" in 1985.
+
+From the Navy, TQM spread throughout the US Federal Government, resulting in the following:
+
+The US Environmental Protection Agency 's Underground Storage Tanks program, which was established in 1985, also employed Total Quality Management to develop its management style. The private sector followed suit, flocking to TQM principles not only as a means to recapture market share from the Japanese, but also to remain competitive when bidding for contracts from the Federal Government since "total quality" requires involving suppliers, not just employees, in process improvement efforts.
+
+There is no widespread agreement as to what TQM is and what actions it requires of organizations, however a review of the original United States Navy effort gives a rough understanding of what is involved in TQM.
+
+The key concepts in the TQM effort undertaken by the Navy in the 1980s include:
+
+The Navy used the following tools and techniques:
+
+While there is no generally accepted definition of TQM, several notable organizations have attempted to define it.  These include:
+
+"Total Quality Management (TQM) in the Department of Defense is a strategy for continuously improving performance at every level, and in all areas of responsibility. It combines fundamental management techniques, existing improvement efforts, and specialized technical tools under a disciplined structure focused on continuously improving all processes. Improved performance is directed at satisfying such broad goals as cost, quality, schedule, and mission need and suitability. Increasing user satisfaction is the overriding objective. The TQM effort builds on the pioneering work of Dr. W. E. Deming , Dr. J. M. Juran , and others, and benefits from both private and public sector experience with continuous process improvement."
+
+"A management philosophy and company practices that aim to harness the human and material resources of an organization in the most effective way to achieve the objectives of the organization."
+
+"A management approach of an organisation centred on quality, based on the participation of all its members and aiming at long term success through customer satisfaction and benefits to all members of the organisation and society."
+
+"A term first used to describe a management approach to quality improvement. Since then, TQM has taken on many meanings. Simply put, it is a management approach to long-term success through customer satisfaction. TQM is based on all members of an organization participating in improving processes, products, services and the culture in which they work. The methods for implementing this approach are found in the teachings of such quality leaders as Philip B. Crosby , W. Edwards Deming , Armand V. Feigenbaum , Kaoru Ishikawa and Joseph M. Juran ."
+
+"TQM is a philosophy for managing an organization in a way which enables it to meet stakeholder needs and expectations efficiently and effectively, without compromising ethical values."
+
+In the United States, the Baldrige Award, created by Public Law 100–107, annually recognizes American businesses, education institutions, health care organizations, and government or nonprofit organizations that are role models for organizational performance excellence.  Organizations are judged on criteria from seven categories:
+
+Example criteria are:
+
+Joseph M. Juran believed the Baldrige Award judging criteria to be the most widely accepted description of what TQM entails.
+
+During the 1990s, standards bodies in Belgium, France, Germany, Turkey, and the United Kingdom attempted to standardize TQM.  While many of these standards have since been explicitly withdrawn, they all are effectively superseded by ISO 9000 :
+
+Interest in TQM as an academic subject peaked around 1993.
+
+The Federal Quality Institute was shuttered in September 1995 as part of the Clinton administration 's efforts to streamline government . The European Centre for Total Quality Management closed in August 2009.
+
+TQM, as a vaguely defined quality management approach, was largely supplanted by the ISO 9000 collection of standards and their formal certification processes in the 1990s.  Business interest in quality improvement under the TQM name also faded as Jack Welch 's success attracted attention to Six Sigma and Toyota 's success attracted attention to lean manufacturing , though the three share many of the same tools, techniques, and significant portions of the same philosophy.
+
+TQM lives on in various national quality awards around the globe.

@@ -1,0 +1,21 @@
+Linux Virtual Server ( LVS ) is load balancing software for Linux kernel –based operating systems.
+
+LVS is a free and open-source project started by Wensong Zhang in May 1998, subject to the requirements of the GNU General Public License (GPL), version 2. The mission of the project is to build a high-performance and highly available server for Linux using clustering technology, which provides good scalability, reliability and serviceability.
+
+The major work of the LVS project is now to develop advanced IP load balancing software (IPVS), application-level load balancing software (KTCPVS), and cluster management components.
+
+LVS can be used for building highly scalable and highly available network services, such as web, email, media and VoIP services, and integrating scalable network services into large-scale reliable e-commerce or e-government applications.  LVS-based solutions already have been deployed in many real applications throughout the world, including Wikipedia .
+
+The LVS components depend upon the Linux Netfilter framework, and its source code is available in the net/netfilter/ipvs subdirectory within the Linux kernel source.  LVS is able to handle UDP, TCP layer-4 protocols as well as FTP passive connection by inspecting layer-7 packets. It provides a hierarchy of counters in the /proc directory.
+
+The userland utility program used to configure LVS is called ipvsadm , which requires superuser privileges to run.
+
+LVS implements several balancing schedulers, listed below with the relevant source files:
+
+Commonly used terms include the following:
+
+Setting up a virtual HTTP server with two real servers:
+
+The first command assigns TCP port 80 on IP address 192.168.0.1 to the virtual server.  The chosen scheduling algorithm for load balancing is round-robin ( -s rr ).  The second and third commands are adding IP addresses of real servers to the LVS setup.  The forwarded network packets shall be masked ( -m ).
+
+Querying the status of the above configured LVS setup:

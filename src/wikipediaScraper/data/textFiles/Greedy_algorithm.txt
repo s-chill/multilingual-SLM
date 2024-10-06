@@ -1,0 +1,31 @@
+A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage. In many problems, a greedy strategy does not produce an optimal solution, but a greedy heuristic can yield locally optimal solutions that approximate a globally optimal solution in a reasonable amount of time.
+
+For example, a greedy strategy for the travelling salesman problem (which is of high computational complexity ) is the following heuristic: "At each step of the journey, visit the nearest unvisited city." This heuristic does not intend to find the best solution, but it terminates in a reasonable number of steps; finding an optimal solution to such a complex problem typically requires unreasonably many steps. In mathematical optimization, greedy algorithms optimally solve combinatorial problems having the properties of matroids and give constant-factor approximations to optimization problems with the submodular structure.
+
+Greedy algorithms produce good solutions on some mathematical problems , but not on others. Most problems for which they work will  have two properties:
+
+Greedy algorithms fail to produce the optimal solution for many other problems and may even produce the unique worst possible solution. One example is the travelling salesman problem mentioned above: for each number of cities, there is an assignment of distances between the cities for which the nearest-neighbour heuristic produces the unique worst possible tour. For other possible examples, see horizon effect .
+
+Greedy algorithms can be characterized as being 'short sighted', and also as 'non-recoverable'. They are ideal only for problems that have an 'optimal substructure'. Despite this, for many simple problems, the best-suited algorithms are greedy. It is important, however, to note that the greedy algorithm can be used as a selection algorithm to prioritize options within a search, or branch-and-bound algorithm. There are a few variations to the greedy algorithm:
+
+Greedy algorithms have a long history of study in combinatorial optimization and theoretical computer science . Greedy heuristics are known to produce suboptimal results on many problems, and so natural questions are:
+
+A large body of literature exists answering these questions for general classes of problems, such as matroids , as well as for specific problems, such as set cover .
+
+A matroid is a mathematical structure that generalizes the notion of linear independence from vector spaces to arbitrary sets. If an optimization problem has the structure of a matroid, then the appropriate greedy algorithm will solve it optimally.
+
+A function f {\displaystyle f} defined on subsets of a set Ω {\displaystyle \Omega } is called submodular if for every S , T ⊆ Ω {\displaystyle S,T\subseteq \Omega } we have that f ( S ) + f ( T ) ≥ f ( S ∪ T ) + f ( S ∩ T ) {\displaystyle f(S)+f(T)\geq f(S\cup T)+f(S\cap T)} .
+
+Suppose one wants to find a set S {\displaystyle S} which maximizes f {\displaystyle f} . The greedy algorithm, which builds up a set S {\displaystyle S} by incrementally adding the element which increases f {\displaystyle f} the most at each step, produces as output a set that is at least ( 1 − 1 / e ) max X ⊆ Ω f ( X ) {\displaystyle (1-1/e)\max _{X\subseteq \Omega }f(X)} . That is, greedy performs within a constant factor of ( 1 − 1 / e ) ≈ 0.63 {\displaystyle (1-1/e)\approx 0.63} as good as the optimal solution.
+
+Similar guarantees are provable when additional constraints, such as cardinality constraints, are imposed on the output, though often slight variations on the greedy algorithm are required. See for an overview.
+
+Other problems for which the greedy algorithm gives a strong guarantee, but not an optimal solution, include
+
+Many of these problems have matching lower bounds; i.e., the greedy algorithm does not perform better than the guarantee in the worst case.
+
+Greedy algorithms typically (but not always) fail to find the globally optimal solution because they usually do not operate exhaustively on all the data. They can make commitments to certain choices too early, preventing them from finding the best overall solution later. For example, all known greedy coloring algorithms for the graph coloring problem and all other NP-complete problems do not consistently find optimum solutions. Nevertheless, they are useful because they are quick to think up and often give good approximations to the optimum.
+
+If a greedy algorithm can be proven to yield the global optimum for a given problem class, it typically becomes the method of choice because it is faster than other optimization methods like dynamic programming . Examples of such greedy algorithms are Kruskal's algorithm and Prim's algorithm for finding minimum spanning trees and the algorithm for finding optimum Huffman trees .
+
+Greedy algorithms appear in the network routing as well.  Using greedy routing, a message is forwarded to the neighbouring node which is "closest" to the destination. The notion of a node's location (and hence "closeness") may be determined by its physical location, as in geographic routing used by ad hoc networks .  Location may also be an entirely artificial construct as in small world routing and distributed hash table .

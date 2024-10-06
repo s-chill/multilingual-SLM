@@ -1,0 +1,79 @@
+Engineers for a Sustainable World ( ESW ) is a not-for-profit network headquartered in Pittsburgh , PA, USA. ESW is an umbrella organization with chapters established at over 50 colleges, universities, and city chapters located primarily in the United States and Canada ESW members work on technical design projects that have a focus on sustainability and environmental issues. Projects can be located either on-campus, in the local community, or internationally. Chapters are made up of students or professionals and are semi- autonomous .
+
+ESW was known as Engineers Without Frontiers USA (EWF-USA) through 2004. ESW was established in 2001 in Ithaca, New York at Cornell University . ESW was based at Cornell from 2001 through August 30, 2007, when it moved its headquarters to the San Francisco Bay Area. In July 2011, ESW moved its headquarters to Merced, California at the University of California, Merced . In July 2013, the organization became an independent legal entity with its headquarters currently in Pittsburgh, Pennsylvania.
+
+ESW is managed by a leadership team that consists entirely of volunteers. They include the executive director, development director, chief operating officer, program directors, chapter relations director, professional relations director, along with affiliated departments. Volunteers include current chapter members as well as graduated professionals. Since incorporation, the national leadership team is overseen by a board of directors. It also has an advisory board of professionals.
+
+ESW also has a board of directors with additional members from academia and corporations .
+
+On its official website, ESW defines its vision as the following:
+
+A sustainable world supported by a network of passionate engineers.
+
+ESW defines its mission as:
+
+To empower engineers to tackle sustainability challenges.
+
+We:
+
+ESW defines its goals as follows:
+
+In support of the mission, ESW's primary goals are to:
+
+While earning an engineering master's degree at Cornell University, Regina Clewlow began developing the vision for Engineers Without Frontiers USA (EWF-USA) in early 2001. Working with her friend and mentor, Krishna Athreya, Regina began to develop the framework for EWF-USA's national organization. As a part of an MBA course at Cornell, she developed the business plan for EWF-USA and secured a partnership with a non-profit incubator based at Cornell called the Center for Transformative Action. EWF-USA was then officially established, with Regina Clewlow as its founding executive director .
+
+In the spring of 2002, the first collegiate chapters were formed at Cornell and Pennsylvania State University . By December 2002, chapters had formed at other universities across the United States, including Stanford , Northwestern , Caltech , and UC-Berkeley . In March 2004, EWF-USA changed its name to Engineers for a Sustainable World following a dispute with Engineers Without Borders - USA over the similarity between the two names and to broaden its vision to include sustainability in development. In October 2006, the current world-in-gear logo was adopted. In 2007, the ESW national office relocated from Ithaca, New York , to the San Francisco Bay Area. In September 2008, Regina Clewlow stepped down as executive director to pursue a doctoral degree in engineering at MIT. She was replaced by Julie Chow.
+
+Under Julie Chow's leadership, ESW underwent a period of significant organizational and programmatic restructuring. In 2009, ESW's vision and mission was revised and the national leadership team structure was introduced. Also during this time, greater emphasis was placed on funding domestic sustainability projects (vs. international development projects). From 2009 to 2011, the number of active ESW collegiate chapters doubled and paid memberships increased by six-folds.
+
+To further strengthen its ties to the engineering education community and to improve programming in the engineering education space, on July 1, 2011, ESW moved its physical and fiscal home to the University of California, Merced . Concurrent with ESW's headquarters move, Julie Chow stepped down as executive director. Dr. E. Daniel Hirleman, dean of the school of engineering at UC-Merced , served as acting executive director until Dr. Alexander Dale was appointed executive director on January 1, 2013. In June 2016, Dr. Dale stepped down as executive director. He was replaced by Brittany Bennett on July 1, 2016. On June 16, 2021, Thomas Loughlin, former Executive Director of American Society of Mechanical Engineers (ASME), was named as the new executive director.
+
+Solar Canopy Charging Station
+
+Student laptop and cell phone charging around campus is creating an increase in power consumption and cost. The campus purchased about 100 outside canopy tables for students and many of these are located in sunny areas. The project scope is to design an integral and affordable charging station that is solar powered, can be retrofitted to these campus canopy tables, and that can be mass production manufactured.
+
+Lotus Project
+
+The team targeted polluted river systems in areas where a mix of lack of infrastructure, factory pollution and heavy rainfall results in a substantial amount of human waste entering in the rivers, and eventually the oceans. They designed a series of free-standing filters to be placed within a river.
+
+Apparatus X
+
+Apparatus X is a disaster relief vehicle intended to help survivors of natural disasters rebuild their communities.
+
+Waste To Energy
+
+The Waste to Energy Project's mission is to research, design and build a single prototype biodigester that can ultimately be scaled up in order to process dining hall food waste to produce usable methane gas to power utilities and facilities at UCSD.
+
+Autoswitch
+
+The idea of the AutoSwitch is to save electricity in a household setting without the users having to think about it every time. The device will be a power strip that is using a micro controller, in our case an arduino yun, to control a relay switch built into the strip. This micro controller will be connected to the homes wifi and will be able to tell when a pair device connects or disconnects to the same wifi. If the device is connected then the controller will flip the relay switch, turning on the power strip and everything plugged into it. And when the device is not in range of the wifi (disconnected) then the micro controller will turn off the power strip saving energy.
+
+Low Cost Wind Turbine
+
+Low cost and simple sources of electrical power are needed in rural and remote areas, especially in third world countries. The project scope is to design, build, and test the minimal cost wind power generation system using common materials such as automotive components or common consumer components.
+
+CommUnity is a challenge that empowers interdisciplinary student teams to develop solutions to improve access to resources, quality of life, and climate-resistant infrastructure system. We will educate teams in community based learning, guiding them to work collaboratively with organizations to propose solutions to local resiliency challenges. The individual programs support ESW's "Big Idea" of resilient and sustainable communities. Students can put to use their technical skills while also learning throughout the process in an authentic and hands-on way, thereby gaining valuable experiences.
+
+2015-2016 CommUnity Winners
+
+Georgia Institute of Technology
+
+The Georgia Tech team partnered with the Atlanta Community Food Bank and looked how the lack of access to clean water and fresh food affected low-income communities in Atlanta. The team then used their previous research into optimizing natural herbicide solutions to educate community gardeners on organic weed control.
+
+California State University – Long Beach
+
+The CSULB team partnered with Long Beach Organic Inc., a nonprofit organization that provides organic community gardens for the Long Beach community. The team discussed several community issues with LBO, including transportation and accessibility to public space, but decided to focus on sustainable agriculture and monarch conservancy in the gardens.
+
+University of California – San Diego
+
+The UCSD team partnered with the Global Action Research Center and Hoover High School in San Diego's City Heights area to focus on improving the connection between local youth and their community. The team is working to implement after-school programs focused on sustainability and STEM topics at the high school.
+
+Build Day is a collaborative project design and build initiative that brings together student engineers, technical experts, and community leaders to create sustainable change in their local communities. Engineers will work alongside community partners and organizations to identify a locally pressing sustainability issue (e.g. food deserts, resilient infrastructure, clean water access, or disaster preparation) and design and implement innovative sustainable solutions. These solutions will improve a community's resilience to climate change and sudden shocks and stresses—especially for underserved and marginalized communities. Build Day provides student engineers the opportunity to work directly in the field and gain real-world design build experience.
+
+Solar Sprouts Project (Buffalo, NY)
+
+A team from the University of Buffalo partnered with the Centers Health Care - Buffalo Center , which provides a range of therapy and other medical services for both short and long-term residents. To support the center's mission of growth and rehabilitation, the team designed and built a wheelchair-accessible sustainable solar tabletop garden with a rainwater capture system. This tabletop garden allowed recovering disabled residents to participate in therapeutic gardening activities who would have otherwise been unable to engage in any outdoor recreation.
+
+HOPES Project (Oakland, CA)
+
+A team from the University of California, Berkeley partnered with Hoover Elementary School in Oakland, CA where 80% of students are on the free/reduced lunch program. The project was named HOPES (Hoover Outreach Program for Environmental Sustainability). The team aimed to bring fresh and nutritious food and encourage outdoor gardening through building a chicken coop, strawberry patch, and sheet mulching composter at the school's Hoover Hawk Victory Garden. To supplement the existing gardening curriculum, students and their families will visit the garden and take part in weekly gardening classes further encouraging outdoor recreational activities.

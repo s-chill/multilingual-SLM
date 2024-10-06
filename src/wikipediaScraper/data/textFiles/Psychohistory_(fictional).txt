@@ -1,0 +1,59 @@
+Psychohistory is a fictional science in Isaac Asimov 's Foundation universe which combines history , sociology , and mathematical statistics to make general predictions about the future behavior of very large groups of people, such as the Galactic Empire . It was first introduced in the four short stories  (1942–1944) which would later be collected as the 1951 novel Foundation .
+
+Psychohistory depends on the idea that, while one cannot foresee the actions of a particular individual, the laws of statistics as applied to large groups of people could predict the general flow of future events. Asimov used the analogy of a gas : An observer has great difficulty in predicting the motion of a single molecule in a gas, but with the kinetic theory can predict the mass action of the gas to a high level of accuracy. Asimov applied this concept to the population of his fictional Galactic Empire , which numbered one quintillion . The character responsible for the science's creation, Hari Seldon , established two axioms :
+
+Ebling Mis added these axioms:
+
+Golan Trevize in Foundation and Earth added this axiom:
+
+Asimov presents the Prime Radiant, a device designed by Hari Seldon and built by Yugo Amaryl , as storing the psychohistorical equations showing the future development of humanity.
+
+The Prime Radiant projects the equations onto walls in some unexplained manner, but it does not cast shadows, thus allowing workers easy interaction. As a tool of the Second Foundation, control operates through the power of the mind, allowing the user to zoom in to details of the equations, and to change them. One can make annotations, but by convention all amendments remain anonymous.
+
+A student in the Second Foundation destined for Speakerhood has to present an amendment to the plan. Five different boards then check the mathematics rigorously. Students have to defend their proposals against concerted and merciless attacks. After two years, the change gets reviewed again. If after the second examination it still passes muster, the contribution becomes part of the Seldon Plan .
+
+The Radiant, as well as being interactive, employs a type of colour-coding to equations within itself for ready comprehension by Psychohistorians.
+
+Other colours have been imagined by fans, and mentioned by Asimov, such as:
+
+One year prior to the publication of his first story about psychohistory in 1942, Asimov alluded to mathematical psychology and the science of psychology eventually being as predictable as organic chemistry, in a letter to the editor of Astounding Science-Fiction . In his later career, Asimov described some historical (pre-Seldon) origins of psychohistory. In The Robots of Dawn (1983), which takes place thousands of years before Foundation (1951), he describes roboticist Han Fastolfe 's attempts to create the science based on careful observation of others, particularly of his daughter Vasilia . Prelude to Foundation (1988) suggests that one of Fastolfe's robots, R. Daneel Olivaw , manipulated Seldon into practical application of this science.
+
+Seldon's Plan focuses on the actions of entire populations and is not designed to recognize the impact of a single person. Its failure to predict The Mule is in part due to this limitation, and also because the Mule is a mutant and an aberration. The fact that Seldon established a Second Foundation of mental-science adepts to oversee his Plan might suggest that even Seldon himself had doubts about the ultimate ability of a purely mathematical approach to predicting historical processes, and that he recognized that the development of psychic skills, such as those used by the Mule, had the ability to invalidate the assumptions underlying his models, though he did not (and could not) predict the appearance of the Mule himself. The Seldon methodology might therefore only work at a certain level of species-development, and would over time become less useful.
+
+Psychohistory has one basic, underlying limitation which Asimov postulated for the first time on the last page of the final book in the Foundation series:  psychohistory only functions in a galaxy populated only by humans.  In Asimov's Foundation series, humans form the only sentient race that developed in the entire Milky Way Galaxy.  Seldon developed psychohistory to predict the actions of large groups of humans .  Even robots technically fall under the umbrella of psychohistory, because humans built them, and they thus represent more or less a human "action", or at least, possess a thought-framework similar enough to that of their human creators that psychohistory can predict their actions.  However, psychohistory cannot predict the actions of a sentient alien race; their psychology may differ so much from that of humans that normal psychohistory cannot understand or predict their actions.
+
+The end of the series offered two possibilities:
+
+Seldon used psychohistory to predict that the Galactic Empire would fall: this was a generations-long process which had already begun, and was too far gone to stop. This would result in a subsequent 30,000 years of barbarism, before the various petty kingdoms of the galaxy eventually aggregated again into a Second Empire. It was possible, however, to use psychohistory to influence future events in such a way that this "Great Interregnum" was shortened from 30,000 years to a mere 1,000. To implement his plan, Seldon creates the Foundations – two groups of scientists and engineers settled at opposite ends of the galaxy – to preserve the spirit of science and civilization, and thus become the cornerstones of the new galactic empire. The First Foundation was located at Terminus, an isolated planet at the fringe of the galaxy, and was tasked with preserving and advancing scientific knowledge. As the outer provinces of the Galactic Empire fragmented politically and declined technologically, the First Foundation would maintain this advantage over them. Secretly, the Second Foundation was focused on psychohistory itself, updating Seldon's predictions as the generations passed and subtly influencing events to ensure that the Plan would succeed.
+
+The Seldon Plan for the First Foundation focused on ten major crises that it would face over the next thousand years. Hari Seldon made a series of holographic recordings about each crisis, set to be revealed one at a time to the Foundation at the predicted time each one occurred. The general outline of the Seldon Plan can be inferred from the Crises:
+
+1,000 years after the creation of the Foundation, having survived 10 Seldon Crises, Seldon's Plan predicted that it would control and unify the entire galaxy, forming a Second Galactic Empire. According to the Second Foundation in Foundation's Edge , who had maintained Seldon's original plan with revisions and corrective actions where necessary, the specific goal for this Second Empire was to make it a "Federated Empire" – with more power shared with the provinces so that the central government wouldn't become corrupt and decline as Trantor once had.
+
+On September 25, 1987, Asimov gave an interview to Terry Gross on her National Public Radio program, Fresh Air . In it, Gross asked him about psychohistory:
+
+In Gold: The Final Science Fiction Collection (which was published after his death) he writes about the origins of psychohistory:
+
+"Psychohistory" is one of the three words (that I know of) that I get early-use credit for in The Oxford English Dictionary . The other two, for the record, are "positronic" and "robotics".
+
+... In the case of "psychohistory", however, I suspected that the word was not in common use, and might even never have been used before. (Actually, the O.E.D. cites one example of its use as early as 1934.) I first used it in my story, "Foundation", which appeared in the May 1942 issue of Astounding Science Fiction .
+
+... So I suggested we add the fact that a mathematical treatment existed whereby the future could be predicted in a statistical fashion, and I called it "psychohistory". Actually, it was a poor word and did not represent what I truly meant. I should have called it "psychosociology" (a word which the O.E.D. lists as having first been used in 1928). However, I was so intent on history, thanks to Gibbon, that I could think of nothing but psychohistory.
+
+I modeled my concept of psychohistory on the kinetic theory of gases... The molecules making up gases moved in an absolutely random fashion in any direction in three dimensions and in a wide range of speeds. Nevertheless, one could fairly describe what those motions would be on the average and work out the gas laws from those average motions with an enormous degree of precision.
+
+In other words, although one couldn't possibly predict what a single molecule would do, one could accurately predict what umptillions of them would do.
+
+So I applied that notion to human beings. Each individual human being might have "free will", but a huge mob of them should behave with some sort of predictability, and the analysis of "mob behavior" was my psychohistory.
+
+There were two conditions that I had to set up in order to make it work, and they were not chosen carelessly. I picked them in order to make psychohistory more like kinetic theory. First, I had to deal with a large number of human beings, as kinetic theory worked with a large number of molecules. Neither would work for small numbers. It is for that reason that I had the Galactic Empire consist of twenty-five million worlds, each with an average population of four billion. That meant a total human population of one hundred quadrillion.
+
+... Second, I had to retain the "randomness" factor. I couldn't expect human beings to behave as randomly as molecules, but they might approach such behavior if they had no idea as to what was expected of them.
+
+... Much later in the game, I thought of a third condition that I didn't think of earlier simply because I had taken it so completely for granted. The kinetic theory assumes that gases are made up of nothing but molecules, and psychohistory will only work if the hosts of intelligence are made up of nothing but human beings. In other words, the presence of aliens with non-human intelligence might well bollix the works. This situation may actually develop in future books of the Foundation series, but so far I have stayed clear of non-human intelligences in my Galactic Empire ...
+
+At the 67th science-fiction world convention in Montreal, Paul Krugman , the Nobel laureate in Economics, mentioned Hari Seldon, a central character in Foundation who was a psychohistorian, as his inspiration to study Economics since it is the closest thing to Psychohistory.
+
+The 3 February 2017 issue of Science has a special section "Prediction and Its Limits". This section has articles on many mathematical techniques of predicting human behavior, and explicitly compares them to Asimov's psychohistory.
+
+Some literary critics have described Asimov's psychohistory as a reformulation of Karl Marx 's theory of history ( historical materialism ), though Asimov denied any direct influence. Arguably, Asimov's psychohistory departs significantly from Marx's general theory of history based on modes of production (as distinct from Marx's model of the capitalist economy, where "natural laws" work themselves out with "iron necessity") in that psychohistory is predictive (if only in the sense of involving precisely stated probabilities), and in that psychohistory is extrapolated from individual psychology and even from physics. Psychohistory also has echoes of modernization theory and of work in the social sciences that by the 1960s would lead to attempts at large-scale social prediction and control such as Project Camelot .

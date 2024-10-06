@@ -1,0 +1,17 @@
+Open-source software security is the measure of assurance or guarantee in the freedom from danger and risk inherent to an open-source software system.
+
+There are a variety of models and metrics to measure the security of a system.  These are a few methods that can be used to measure the security of software systems.
+
+It is argued that a system is most vulnerable after a potential vulnerability is discovered, but before a patch is created.  By measuring the number of days between the vulnerability and when the vulnerability is fixed, a basis can be determined on the security of the system.  There are a few caveats to such an approach: not every vulnerability is equally bad, and fixing a lot of bugs quickly might not be better than only finding a few and taking a little bit longer to fix them, taking into account the operating system, or the effectiveness of the fix.
+
+The Poisson process can be used to measure the rates at which different people find security flaws between open and closed source software. The process can be broken down by the number of volunteers N v and paid reviewers N p . The rates at which volunteers find a flaw is measured by λ v and the rate that paid reviewers find a flaw is measured by λ p . The expected time that a volunteer group is expected to find a flaw is 1/(N v λ v ) and the expected time that a paid group is expected to find a flaw is 1/(N p λ p ).
+
+By comparing a large variety of open source and closed source projects a star system could be used to analyze the security of the project similar to how Morningstar, Inc. rates mutual funds. With a large enough data set, statistics could be used to measure the overall effectiveness of one group over the other. An example of such as system is as follows:
+
+Coverity in collaboration with Stanford University has established a new baseline for open-source quality and security. The development is being completed through a contract with the Department of Homeland Security. They are utilizing innovations in automated defect detection to identify critical types of bugs found in software. The level of quality and security is measured in rungs.  Rungs do not have a definitive meaning, and can change as Coverity releases new tools.  Rungs are based on the progress of fixing issues found by the Coverity Analysis results and the degree of collaboration with Coverity. They start with Rung 0 and currently go up to Rung 2.
+
+The project has been analyzed by Coverity's Scan infrastructure, but no representatives from the open-source software have come forward for the results.
+
+At rung 1, there is collaboration between Coverity and the development team.  The software is analyzed with a subset of the scanning features to prevent the development team from being overwhelmed.
+
+There are 11 projects that have been analyzed and upgraded to the status of Rung 2 by reaching zero defects in the first year of the scan.  These projects include: AMANDA, ntp , OpenPAM , OpenVPN , Overdose, Perl , PHP , Postfix , Python , Samba , and tcl .

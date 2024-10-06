@@ -1,0 +1,47 @@
+A rotor ship is a type of ship designed to use the Magnus effect for propulsion . The ship is propelled, at least in part, by large powered vertical rotors , sometimes known as rotor sails . German engineer Anton Flettner was the first to build a ship that attempted to tap this force for propulsion, and ships using his type of rotor are sometimes known as Flettner ships .
+
+The Magnus effect is a force acting on a spinning body in a moving airstream, which produces a force perpendicular to both the direction of the airstream and the axis of the rotor.
+
+A rotor or Flettner ship is designed to use the Magnus effect for propulsion. The Magnus Effect is caused by a spinning body in a moving airstream, or a moving body which is spinning (such as a ball), which pulls the air round to one side of the object, using the skin friction, creating a difference in air pressure from one side to the other. This causes a sideways force on the object making the spinning body move towards the low pressure side where there is least resistance. On a ship, this sideways force is resisted by the hull, and a component of this force can be used to propel the ship forward, provided that the ship's direction is generally within the low pressure zone. A Magnus rotor used to propel a ship is called a rotor sail and is mounted with its axis vertical. When the wind blows from the side, the Magnus effect creates a forward thrust. The most common form of rotor sail is the Flettner rotor . The wind does not power the rotor, which is rotated by its own power source.
+
+Due to the arrangement of forces, a rotor ship is able to sail closer to the wind than a conventional sailing ship. Other advantages include the ease of control from sheltered navigation stations and the lack of furling requirements in heavy weather.
+
+If the ship changes tack so that the wind comes from the other side, the direction of rotation must be reversed; the ship would otherwise be propelled backwards.
+
+Sailing ships, including rotor ships, often also have a small conventional propeller to provide ease of manoeuvrability and forward propulsion at slow speeds and when the wind is not blowing or the rotor is stopped. In a hybrid rotor ship the propeller is the primary source of propulsion, while the rotor serves to offload it and thus increase overall fuel economy. Rotor sails have been reported to generate 5-20% fuel savings.
+
+The German engineer Anton Flettner was the first to build a ship which attempted to use the Magnus effect for propulsion.
+
+Assisted by Albert Betz , Jakob Ackeret , and Ludwig Prandtl , Flettner constructed an experimental rotor vessel; October 1924 the Germaniawerft finished construction of a large two-rotor ship named Buckau . The vessel was a refitted schooner which carried two cylinders (or rotors) approximately 15 metres (50 ft) high, and 3 metres (10 ft) in diameter, driven by an electric propulsion system of 50 hp (37 kW) power.
+
+The Buckau sailed from Danzig to Scotland across the North Sea in February 1925. The ship could tack (sail into the wind) at 20–30 degrees, hence the rotors did not give cause for concern in stormy weather. The ship was renamed Baden Baden after the German spa town and on 31 March 1926 was sailed to New York via South America, arriving in New York Harbor on 9 May.
+
+Some sources claim that the ship had proved inefficient on these voyages, that the power consumed by spinning 15-metre tall drums was disproportionate to the propulsive effect when compared with conventional propellers.
+
+That view stands in contrast to others that claim "Due to the impressive performance, the Buckau was put into service to carry bulk cargo across the North Atlantic and the Baltic sea (Seufert & Seufert, 1983). On 31 March 1926, the Buckau , now renamed Baden-Baden sailed to New York via South America, the 6,200 nautical mile voyage across the Atlantic used only 12 tons of fuel oil, compared with 45 tons for a motor ship of the same size without rotors (Nuttall & John, 2016), arriving in New York harbor on 9 May (History of Flettner Rotor, n.d.)."
+
+The latter assessment seems to be more accurate, as the outcome of the Buckau experiment, resulted in the development of the next rotor ship, the Barbara .
+
+In 1926, a larger ship with three rotors, the Barbara was built by the shipyard A.G. Weser in Bremen. It proved to perform reliably "as a normal freighter in the Mediterranean between 1926 and 1929. By 1928, Flettner had secured orders for six new ships of the Barbara class. However ... there was a global economic crash causing a decrease in consumer buying confidence. In addition to this, Marine Diesel Oil (MDO) and the related engine technology required to use it became readily and cheaply available (Nuttall & John, 2016). Fuel prices at that point meant that any savings achieved by the rotor were too small for shipping companies to consider the investment due to the lengthy payback period."
+
+Interest in rotor sails revived in the 1980s, as a way of increasing the fuel efficiency of a conventionally powered ship.
+
+Enercon launched  the hybrid rotor ship E-Ship 1 on 2 August 2008. From 2010, it has been used to transport the company's turbine products and other equipment. Enercon claim "operational fuel savings of up to 25% compared to same-sized conventional freight vessels."
+
+The University of Flensburg is developing the Flensburg catamaran or Uni-Cat Flensburg , a rotor-driven catamaran .
+
+In 2007, Stephen H. Salter and John Latham proposed the building of 1,500 robotic rotor ships to mitigate global warming . The ships would spray seawater into the air to enhance cloud reflectivity . A prototype rotor ship was tested on Discovery Project Earth . The rotors were made of carbon fibre and were attached to a retrofitted trimaran and propelled the vessel stably through the water at a speed of six knots.
+
+In 2009, Wärtsilä proposed a cruiseferry that would use Flettner rotors as a means of reducing fuel consumption. The Finnish ferry operator Viking Line adopted the idea, with MS Viking Grace built in 2011–2012, initially without rotors. A rotor system was retrofitted in 2018.
+
+In 2014 and 2015, Norsepower installed twin rotor sails on Finnish shipping company Bore's RoRo vessel M/V Estraden . In May 2018, the 1996 built cargo ship Fehn Pollux of the German-based Fehn Shipmanagement ( Leer ) was fitted with an 18-metre long Flettner rotor of the EcoFlettner type at the front.
+
+In 2018, Norsepower deployed rotor sails with the world's biggest shipping company, Maersk . The Maersk Pelican , an LR2 class tanker, has been fitted with two Norsepower Rotor Sails.
+
+The MV Afros (IMO 9746803) bulk carrier has operated four movable rotors over a year with positive results.
+
+In 2021, Norsepower installed five tilting rotor sails onto a Vale-operated iron ore carrier; the tilting design intended to allow maneuvering below bridges.
+
+Scandlines operates two hybrid ferries with rotorsail, M/F Copenhagen and M/F Berlin .
+
+In October 2023 Airbus announced that it had commissioned six ships with Flettner rotors for entry into service in 2026 to transport aircraft sections to its US assembly line.

@@ -1,0 +1,115 @@
+Industrial gases are the gaseous materials that are manufactured for use in industry . The principal gases provided are nitrogen , oxygen , carbon dioxide , argon , hydrogen , helium and acetylene , although many other gases and mixtures are also available in gas cylinders. The industry producing these gases is also known as industrial gas , which is seen as also encompassing the supply of equipment and technology to produce and use the gases. Their production is a part of the wider chemical Industry (where industrial gases are often seen as " specialty chemicals ").
+
+Industrial gases are used in a wide range of industries, which include oil and gas , petrochemicals , chemicals , power , mining , steelmaking , metals , environmental protection , medicine , pharmaceuticals , biotechnology , food , water , fertilizers , nuclear power , electronics and aerospace . Industrial gas is sold to other industrial enterprises; typically comprising large orders to corporate industrial clients, covering a size range from building a process facility or pipeline down to cylinder gas supply.
+
+Some trade scale business is done, typically through tied local agents who are supplied wholesale . This business covers the sale or hire of gas cylinders and associated equipment to tradesmen and occasionally the general public. This includes products such as balloon helium , dispensing gases for beer kegs , welding gases and welding equipment, LPG and medical oxygen .
+
+Retail sales of small scale gas supply are not confined to just the industrial gas companies or their agents. A wide variety of hand-carried small gas containers, which may be called cylinders, bottles, cartridges, capsules or canisters are available to supply LPG, butane, propane, carbon dioxide or nitrous oxide.  Examples are whipped-cream chargers , powerlets , campingaz and sodastream .
+
+The first gas from the natural environment used by humans was almost certainly air when it was discovered that blowing on or fanning a fire made it burn brighter. Humans also used the warm gases from a fire to smoke foods and steam from boiling water to cook foods.
+
+Carbon dioxide has been known from ancient times as the byproduct of fermentation , particularly for beverages , which was first documented dating from 7000 to 6600 B.C. in Jiahu , China . Natural gas was used by the Chinese in about 500 B.C. when they discovered the potential to transport gas seeping from the ground in crude pipelines of bamboo to where it was used to boil sea water. Sulfur dioxide was used by the Romans in winemaking as it had been discovered that burning candles made of sulfur inside empty wine vessels would keep them fresh and prevent them gaining a vinegar smell.
+
+Early understanding consisted of empirical evidence and the protoscience of alchemy ; however with the advent of scientific method and the science of chemistry , these gases became positively identified and understood.
+
+The history of chemistry tells us that a number of gases were identified and either discovered or first made in relatively pure form during the Industrial Revolution of the 18th and 19th centuries by notable chemists in their laboratories . The timeline of attributed discovery for various gases are carbon dioxide (1754), hydrogen (1766), nitrogen (1772), nitrous oxide (1772), oxygen (1773), ammonia (1774), chlorine (1774), methane (1776), hydrogen sulfide (1777), carbon monoxide (1800), hydrogen chloride (1810), acetylene (1836), helium (1868) fluorine (1886), argon (1894), krypton, neon and xenon (1898) and radon (1899).
+
+Carbon dioxide, hydrogen, nitrous oxide, oxygen, ammonia, chlorine, sulfur dioxide and manufactured fuel gas were already being used during the 19th century, and mainly had uses in food , refrigeration , medicine , and for fuel and gas lighting . For example, carbonated water was being made from 1772 and commercially from 1783, chlorine was first used to bleach textiles in 1785 and nitrous oxide was first used for dentistry anaesthesia in 1844. At this time gases were often generated for immediate use by chemical reactions . A notable example of a generator is Kipps apparatus which was invented in 1844 and could be used to generate gases such as hydrogen, hydrogen sulfide , chlorine, acetylene and carbon dioxide by simple gas evolution reactions . Acetylene was manufactured commercially from 1893 and acetylene generators were used from about 1898 to produce gas for gas cooking and gas lighting , however electricity took over as more practical for lighting and once LPG was produced commercially from 1912, the use of acetylene for cooking declined.
+
+Once gases had been discovered and produced in modest quantities, the process of industrialisation spurred on innovation and invention of technology to produce larger quantities of these gases. Notable developments in the industrial production of gases include the electrolysis of water to produce hydrogen (in 1869) and oxygen (from 1888), the Brin process for oxygen production which was invented in the 1884, the chloralkali process to produce chlorine in 1892 and the Haber Process to produce ammonia in 1908.
+
+The development of uses in refrigeration also enabled advances in air conditioning and the liquefaction of gases. Carbon dioxide was first liquefied in 1823. The first Vapor-compression refrigeration cycle using ether was invented by Jacob Perkins in 1834 and a similar cycle using ammonia was invented in 1873 and another with sulfur dioxide in 1876. Liquid oxygen and Liquid nitrogen were both first made in 1883; Liquid hydrogen was first made in 1898 and liquid helium in 1908. LPG was first made in 1910. A patent for LNG was filed in 1914 with the first commercial production in 1917.
+
+Although no one event marks the beginning of the industrial gas industry, many would take it to be the 1880s with the construction of the first high pressure gas cylinders . Initially cylinders were mostly used for carbon dioxide in carbonation or dispensing of beverages. 
+In 1895 refrigeration compression cycles were further developed to enable the liquefaction of air , most notably by Carl von Linde allowing larger quantities of oxygen production and in 1896 the discovery that large quantities of acetylene could be dissolved in acetone and rendered nonexplosive allowed the safe bottling of acetylene.
+
+A particularly important use was the development of welding and metal cutting done with oxygen and acetylene from the early 1900s.
+As production processes for other gases were developed many more gases came to be sold in cylinders without the need for a gas generator .
+
+Air separation plants refine air in a separation process and so allow the bulk production of nitrogen and argon in addition to oxygen - these three are often also produced as cryogenic liquid . To achieve the required low distillation temperatures, an Air Separation Unit (ASU) uses a refrigeration cycle that operates by means of the Joule–Thomson effect . 
+In addition to the main air gases, air separation is also the only practical source for production of the rare noble gases neon , krypton and xenon .
+
+Cryogenic technologies also allow the liquefaction of natural gas , hydrogen and helium . In natural-gas processing , cryogenic technologies are used to remove nitrogen from natural gas in a Nitrogen Rejection Unit ; a process that can also be used to produce helium from natural gas where natural gas fields contain sufficient helium to make this economic. The larger industrial gas companies have often invested in extensive patent libraries in all fields of their business, but particularly in cryogenics.
+
+The other principal production technology in the industry is Reforming. Steam reforming is a chemical process used to convert natural gas and steam into a syngas containing hydrogen and carbon monoxide with carbon dioxide as a byproduct . Partial oxidation and autothermal reforming are similar processes but these also require oxygen from an ASU. Synthesis gas is often a precursor to the chemical synthesis of ammonia or methanol . The carbon dioxide produced is an acid gas and is most commonly removed by amine treating . This separated carbon dioxide can potentially be sequestrated to a carbon capture reservoir or used for Enhanced oil recovery .
+
+Air Separation and hydrogen reforming technologies are the cornerstone of the industrial gases industry and also form part of the technologies required for many fuel gasification ( including IGCC ), cogeneration and Fischer-Tropsch gas to liquids schemes. Hydrogen has many production methods and may be almost a carbon neutral alternative fuel if produced by water electrolysis (assuming the electricity is produced in nuclear or other low carbon footprint power plant instead of reforming natural gas which is by far dominant method). One example of displacing the use of hydrocarbons is Orkney; see hydrogen economy for more information on hydrogen's uses. liquid hydrogen is used by NASA in the Space Shuttle as a rocket fuel .
+
+Simpler gas separation technologies, such as membranes or molecular sieves used in pressure swing adsorption or vacuum swing adsorption are also used to produce low purity air gases in nitrogen generators and oxygen plants . Other examples producing smaller amounts of gas are chemical oxygen generators or oxygen concentrators .
+
+In addition to the major gases produced by air separation and syngas reforming, the industry provides many other gases. Some gases are simply byproducts from other industries and others are sometimes bought from other larger chemical producers, refined and repackaged; although a few have their own production processes. Examples are hydrogen chloride produced by burning hydrogen in chlorine, nitrous oxide produced by thermal decomposition of ammonium nitrate when gently heated, electrolysis for the production of fluorine, chlorine and hydrogen, and electrical corona discharge to produce ozone from air or oxygen.
+
+Related services and technology can be supplied such as vacuum , which is often provided in hospital gas systems ; purified compressed air ; or refrigeration . Another unusual system is the inert gas generator . Some industrial gas companies may also supply related chemicals , particularly liquids such as bromine , hydrogen fluoride and ethylene oxide .
+
+Most materials that are gaseous at ambient temperature and pressure are supplied as compressed gas. A gas compressor is used to compress the gas into storage pressure vessels (such as gas canisters , gas cylinders or tube trailers ) through piping systems.  Gas cylinders are by far the most common gas storage and large numbers are produced at a "cylinder fill" facility.
+
+However, not all industrial gases are supplied in the gaseous phase . A few gases are vapors that can be liquefied at ambient temperature under pressure alone, so they can also be supplied as a liquid in an appropriate container.  This phase change also makes these gases useful as ambient refrigerants and the most significant industrial gases with this property are ammonia (R717), propane (R290), butane (R600), and sulfur dioxide (R764). Chlorine also has this property but is too toxic, corrosive and reactive to ever have been used as a refrigerant. Some other gases exhibit this phase change if the ambient temperature is low enough; this includes ethylene (R1150), carbon dioxide (R744), ethane (R170), nitrous oxide (R744A), and sulfur hexafluoride ; however, these can only be liquefied under pressure if kept below their critical temperatures which are 9 °C for C 2 H 4 ; 31 °C for CO 2 ; 32 °C for C 2 H 6 ; 36 °C for N 2 O ; 45 °C for SF 6 . All of these substances are also provided as a gas (not a vapor) at the 200 bar pressure in a gas cylinder because that pressure is above their critical pressure .
+
+Permanent gases (those with a critical temperature below ambient) can only be supplied as liquid if they are also cooled. All gases can potentially be used as a refrigerant around the temperatures at which they are liquid; for example nitrogen (R728) and methane (R50) are used as refrigerant at cryogenic temperatures.
+
+Exceptionally carbon dioxide can be produced as a cold solid known as dry ice , which sublimes as it warms in ambient conditions, the properties of carbon dioxide are such that it cannot be liquid at a pressure below its triple point of 5.1 bar.
+
+Acetylene is also supplied differently. Since it is so unstable and explosive, this is supplied as a gas dissolved in acetone within a packing mass in a cylinder. Acetylene is also the only other common industrial gas that sublimes at atmospheric pressure.
+
+The major industrial gases can be produced in bulk and delivered to customers by pipeline , but can also be packaged and transported.
+
+Most gases are sold in gas cylinders and some sold as liquid in appropriate containers (e.g. Dewars ) or as bulk liquid delivered by truck. The industry originally supplied gases in cylinders to avoid the need for local gas generation; but for large customers such as steelworks or oil refineries , a large gas production plant may be built nearby (typically called an "on-site" facility) to avoid using large numbers of cylinders manifolded together . Alternatively, an industrial gas company may supply the plant and equipment to produce the gas rather than the gas itself. An industrial gas company may also offer to act as plant operator under an operations and maintenance contract for a gases facility for a customer, since it usually has the experience of running such facilities for the production or handling of gases for itself.
+
+Some materials are dangerous to use as a gas; for example, fluorine is highly reactive and industrial chemistry requiring fluorine often uses hydrogen fluoride (or hydrofluoric acid ) instead. Another approach to overcoming gas reactivity is to generate the gas as and when required, which is done, for example, with ozone .
+
+The delivery options are therefore local gas generation, pipelines , bulk transport ( truck , rail , ship ), and packaged gases in gas cylinders or other containers.
+
+Bulk liquid gases are often transferred to end user storage tanks . Gas cylinders (and liquid gas containing vessels) are  often used by end users for their own small scale distribution systems. Toxic or flammable gas cylinders are often stored by end users in gas cabinets for protection from external fire or from any leak.
+
+Despite attempts at standardization to facilitate user and first responders' safety, no universal coding exists for cylinders with industrial gases, therefore several color coding standards are in usage. In most developed countries of the world, notably countries of European union and United Kingdom, EN 1089-3 is used, with cylinders of liquefied petroleum gas being an exception.
+
+In United States of America, no official regulation of color coding for gas cylinders exists and none is enforced.
+
+Industrial gas is a group of materials that are specifically manufactured for use in industry and are also gaseous at ambient temperature and pressure.  They are chemicals which can be an elemental gas or a chemical compound that is either organic or inorganic , and tend to be low molecular weight molecules. They could also be a mixture of individual gases. They have value as a chemical; whether as a feedstock , in process enhancement, as a useful end product, or for a particular use; as opposed to having value as a "simple" fuel .
+
+The term “industrial gases” is sometimes narrowly defined as just the major gases sold, which are: nitrogen, oxygen, carbon dioxide, argon, hydrogen, acetylene and helium. Many names are given to gases outside of this main list by the different industrial gas companies, but generally the gases fall into the categories "specialty gases", “ medical gases ”, “ fuel gases ” or “ refrigerant gases ”. However gases can also be known by their uses or industries that they serve, hence "welding gases" or " breathing gases ", etc.; or by their source, as in "air gases"; or by their mode of supply as in "packaged gases". The major gases might also be termed "bulk gases" or "tonnage gases".
+
+In principle any gas or gas mixture sold by the "industrial gases industry" probably has some industrial use and might be termed an "industrial gas". In practice, "industrial gases" are likely to be a pure compound or a mixture of precise chemical composition , packaged or in small quantities, but with high purity or tailored to a specific use (e.g. oxyacetylene ).
+Lists of the more significant gases are listed in "The Gases" below.
+
+There are cases when a gas is not usually termed an "industrial gas"; principally where the gas is processed for later use of its energy rather than manufactured for use as a chemical substance or preparation.
+
+The oil and gas industry is seen as distinct. So, whilst it is true that natural gas is a "gas" used in "industry" - often as a fuel, sometimes as a feedstock, and in this generic sense is an "industrial gas"; this term is not generally used by industrial enterprises for hydrocarbons produced by the petroleum industry directly from natural resources or in an oil refinery . Materials such as LPG and LNG are complex mixtures often without precise chemical composition that often also changes whilst stored.
+
+The petrochemical industry is also seen as distinct. So petrochemicals (chemicals derived from petroleum ) such as ethylene are also generally not described as "industrial gases".
+
+Sometimes the chemical industry is thought of as distinct from industrial gases; so materials such as ammonia and chlorine might be considered " chemicals " (especially if supplied as a liquid) instead of or sometimes as well as "industrial gases".
+
+Small scale gas supply of hand-carried containers is sometimes not considered to be industrial gas as the use is considered personal rather than industrial; and suppliers are not always gas specialists.
+
+These demarcations are based on perceived boundaries of these industries (although in practice there is some overlap), and an exact scientific definition is difficult. To illustrate "overlap" between industries:
+
+Manufactured fuel gas (such as town gas ) would historically have been considered an industrial gas. Syngas is often considered to be a petrochemical; although its production is a core industrial gases technology. Similarly, projects harnessing Landfill gas or biogas , Waste-to-energy schemes, as well as Hydrogen Production all exhibit overlapping technologies.
+
+Helium is an industrial gas, even though its source is from natural gas processing .
+
+Any gas is likely to be considered an industrial gas if it is put in a gas cylinder (except perhaps if it is used as a fuel)
+
+Propane would be considered an industrial gas when used as a refrigerant, but not when used as a refrigerant in LNG production, even though this is an overlapping technology.
+
+The known chemical elements which are, or can be obtained from natural resources (without transmutation ) and which are gaseous are hydrogen, nitrogen, oxygen, fluorine, chlorine, plus the noble gases; and are collectively referred to by chemists as the "elemental gases". These elements are all primordial apart from the noble gas radon which is a trace radioisotope which occurs naturally since all isotopes are radiogenic nuclides from radioactive decay . These elements are all nonmetals .
+
+( Synthetic elements have no relevance to the industrial gas industry; however for scientific completeness, note that it has been suggested, but not scientifically proven, that metallic elements 112 ( Copernicium ) and 114 ( Flerovium ) are gases. )
+
+The elements which are stable two atom homonuclear molecules at standard temperature and pressure (STP), are hydrogen (H 2 ), nitrogen (N 2 ) and oxygen (O 2 ), plus the halogens fluorine (F 2 ) and chlorine (Cl 2 ). The noble gases are all monatomic .
+
+In the industrial gases industry the term "elemental gases" (or sometimes less accurately "molecular gases") is used to distinguish these gases from molecules that are also chemical compounds .
+
+Radon is chemically stable, but it is radioactive and does not have a stable isotope . Its most stable isotope , Rn , has a half-life of 3.8 days. Its uses are due to its radioactivity rather than its chemistry and it requires specialist handling outside of industrial gas industry norms. It can however be produced as a by-product of uraniferous ores processing. Radon is a trace naturally occurring radioactive material (NORM) encountered in the air processed in an ASU.
+
+Chlorine is the only elemental gas that is technically a vapor since STP is below its critical temperature ; whilst bromine and mercury are liquid at STP, and so their vapor exists in equilibrium with their liquid at STP.
+
+This list shows the other most common gases sold by industrial gas companies.
+
+There are many gas mixtures possible.
+
+This list shows the most important liquefied gases:
+
+The uses of industrial gases are diverse.
+
+The following is a small list of areas of use:

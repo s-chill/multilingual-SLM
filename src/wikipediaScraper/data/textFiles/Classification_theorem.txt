@@ -1,0 +1,5 @@
+In mathematics , a classification theorem answers the classification problem: "What are the objects of a given type, up to some equivalence ?". It gives a non-redundant enumeration : each object is equivalent to exactly one class.
+
+A few issues related to classification are the following.
+
+There exist many classification theorems in mathematics , as described below.

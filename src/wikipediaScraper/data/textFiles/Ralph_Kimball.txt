@@ -1,0 +1,11 @@
+Ralph Kimball (born July 18, 1944 ) is an author on the subject of data warehousing and business intelligence . He is one of the original architects of data warehousing and is known for long-term convictions that data warehouses must be designed to be understandable and fast. His bottom-up methodology, also known as dimensional modeling or the Kimball methodology, is one of the two main data warehousing methodologies alongside Bill Inmon .
+
+He is the principal author of the best-selling books The Data Warehouse Toolkit (1996), The Data Warehouse Lifecycle Toolkit (1998), The Data Warehouse ETL Toolkit (2004) and The Kimball Group Reader (2015), published by Wiley and Sons .
+
+After receiving a Ph.D. in 1973 from Stanford University in electrical engineering (specializing in man-machine systems), Ralph joined the Xerox Palo Alto Research Center (PARC). At PARC Ralph was a principal designer of the Xerox Star Workstation, the first commercial product to use mice, icons and windows.
+
+Kimball then became vice president of applications at Metaphor Computer Systems , a decision support software and services provider. He developed the Capsule Facility in 1982. The Capsule was a graphical programming technique which connected icons together in a logical flow, allowing a very visual style of programming for non-programmers. The Capsule was used to build reporting and analysis applications at Metaphor.
+
+Kimball founded Red Brick Systems in 1986, serving as CEO until 1992. The company was acquired by Informix, which is now owned by IBM . Red Brick was known for its relational database optimized for data warehousing. Their claim to fame was the use of bit-map Indexes in order to achieve performance gains that amounted to almost 10 times that of other Database vendors at that time.
+
+Since 1992, Kimball has provided data warehouse consulting and education through various companies such as Ralph Kimball Associates and the Kimball Group.

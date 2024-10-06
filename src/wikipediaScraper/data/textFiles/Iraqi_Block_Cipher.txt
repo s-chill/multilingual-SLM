@@ -1,0 +1,10 @@
+In cryptography , the Iraqi block cipher was a block cipher published in C source code form by anonymous FTP upload around July 1999, and widely distributed on Usenet . It is a five round unbalanced Feistel cipher operating on a 256 bit block with a 160 bit key .
+
+The source code shows that the algorithm operates on blocks of 32 bytes (or 256 bits). That's four times larger than DES or 3DES (8 bytes) and twice as big as Twofish or AES (16 bytes).
+It also shows that the key size can vary from 160 to 2048 bits.
+
+A detailed analysis of the source code of the algorithm shows that it uses a 256-byte S-Box that is key-dependant (as on Blowfish, it uses a first fixed S table that will generate, with the key, the second S-Box used for encryption/decryption). The algorithm also uses a 16-column x 16-row P-Box, which is also key-dependent and also initialized from a fixed P table. Each round uses one row from P-Box and 16 columns, which means that the algorithm can use up to 16 rounds.
+
+A comment suggests that it is of Iraqi origin. However, like the S-1 block cipher , it is generally regarded as a hoax , although of lesser quality than S-1. Although the comment suggests that it is Iraqi in origin, all comments, variable and function names and printed strings are in English rather than Arabic; the code is fairly inefficient (including some pointless operations), and the cipher's security may be flawed (no proof).
+
+Because it has a constant key schedule the cipher is vulnerable to a slide attack . However, it may take 2 chosen texts to create a single slid pair, which would make the attack unfeasible. It also has many fixed points , although that is not necessarily a problem, except possibly for hashing modes. No public attack is currently available. As with S-1, it was David Wagner who first spotted the security flaws.

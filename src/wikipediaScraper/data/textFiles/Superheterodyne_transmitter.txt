@@ -1,0 +1,23 @@
+Superheterodyne transmitter is a radio or TV transmitter which uses an intermediate frequency signal in addition to radio frequency signal.
+
+There are two types of transmitters. In some transmitters, the information signal ( audio (AF) , video (VF) etc.) modulates the radio frequency (RF) signal. These direct modulation transmitters are relatively simple transmitters.
+
+In more complicated transmitters which are called superheterodyne, the information signal modulates an intermediate frequency (IF) signal. After stages for correction, equalization and sometimes amplification, the IF signal is converted to an RF signal by a stage named frequency mixer or frequency converter. Superheterodyne transmitters are more complex than direct modulation transmitters.
+
+Let
+
+In direct modulation transmitter the information signal modulates the RF carrier. If the type of modulation is conventional amplitude modulation the RF output is,
+
+Likewise in superheterodyne transmitter the modulated IF is;
+
+This signal is applied to a frequency mixer. The other input to the mixer is a high frequency subcarrier signal.
+
+The two signals are multiplied to give;
+
+Applying well known rules of trigonometry ;
+
+A filter at the output of the mixer filters out one of the terms at the right (usually the summation) leaving RF
+
+Here ω s − ω I {\displaystyle \omega _{s}-\omega _{I}} is the required angular RF; i.e., ω R = ω s − ω I {\displaystyle \omega _{R}=\omega _{s}-\omega _{I}}
+
+After phase and amplitude equalization,

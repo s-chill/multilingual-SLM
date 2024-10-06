@@ -1,0 +1,11 @@
+WAFLEX is a spreadsheet -based model. It can be used to analyse upstream-downstream interactions, dam management options and water allocation and development options.
+
+WAFLEX is set up as a network, where each cell is river reach, demand node or reservoir. Each cell contains a simple formula to add water flowing into it from adjacent cells, and to subtract any demand connected to that cell. The network is set up twice, in demand mode and in supply mode.
+
+The inputs to WAFLEX are:
+
+The outputs of WAFLEX are:
+
+Code can be readily added to generate the above outputs graphically.
+
+WAFLEX has been applied extensively, especially in southern Africa and South America, including for:

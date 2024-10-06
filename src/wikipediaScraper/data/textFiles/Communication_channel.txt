@@ -1,0 +1,29 @@
+A communication channel refers either to a physical transmission medium such as a wire, or to a logical connection over a multiplexed medium such as a radio channel in telecommunications and computer networking . A channel is used for information transfer of, for example, a digital bit stream , from one or several senders to one or several receivers . A channel has a certain capacity for transmitting information, often measured by its bandwidth in Hz or its data rate in bits per second .
+
+Communicating an information signal across distance requires some form of pathway or medium. These pathways, called communication channels, use two types of media: Transmission line -based telecommunications cable (e.g. twisted-pair , coaxial , and fiber-optic cable ) and broadcast (e.g. microwave , satellite , radio , and infrared ).
+
+In information theory , a channel refers to a theoretical channel model with certain error characteristics. In this more general view, a storage device is also a communication channel, which can be sent to (written) and received from (reading) and allows communication of an information signal across time.
+
+Examples of communications channels include:
+
+All of these communication channels share the property that they transfer information. The information is carried through the channel by a signal .
+
+Mathematical models of the channel can be made to describe how the input (the transmitted signal) is mapped to the output (the received signal). There exist many types and uses of channel models specific to the field of communication. In particular, separate models are formulated to describe each layer of a communication system.
+
+A channel can be modeled physically by trying to calculate the physical processes which modify the transmitted signal. For example, in wireless communications, the channel can be modeled by calculating the reflection from every object in the environment. A sequence of random numbers might also be added to simulate external interference or electronic noise in the receiver.
+
+Statistically, a communication channel is usually modeled as a tuple consisting of an input alphabet, an output alphabet, and for each pair (i, o) of input and output elements, a transition probability p(i, o) . Semantically, the transition probability is the probability that the symbol o is received given that i was transmitted over the channel.
+
+Statistical and physical modeling can be combined. For example, in wireless communications the channel is often modeled by a random attenuation (known as fading ) of the transmitted signal, followed by additive noise. The attenuation term is a simplification of the underlying physical processes and captures the change in signal power over the course of the transmission. The noise in the model captures external interference or electronic noise in the receiver. If the attenuation term is complex it also describes the relative time a signal takes to get through the channel. The statistical properties of the attenuation in the model are determined by previous measurements or physical simulations.
+
+Communication channels are also studied in discrete-alphabet modulation schemes. The mathematical model consists of a transition probability that specifies an output distribution for each possible sequence of channel inputs. In information theory , it is common to start with memoryless channels in which the output probability distribution only depends on the current channel input.
+
+A channel model may either be digital or analog.
+
+In a digital channel model, the transmitted message is modeled as a digital signal at a certain protocol layer . Underlying protocol layers are replaced by a simplified model. The model may reflect channel performance measures such as bit rate , bit errors , delay , delay variation , etc. Examples of digital channel models include:
+
+In an analog channel model, the transmitted message is modeled as an analog signal . The model can be a linear or non-linear , time-continuous or time-discrete (sampled) , memoryless or dynamic (resulting in burst errors ), time-invariant or time-variant (also resulting in burst errors), baseband , passband (RF signal model), real-valued or complex-valued signal model. The model may reflect the following channel impairments:
+
+These are examples of commonly used channel capacity and performance measures:
+
+In networks, as opposed to point-to-point communication, the communication media can be shared between multiple communication endpoints (terminals). Depending on the type of communication, different terminals can cooperate or interfere with each other. In general, any complex multi-terminal network can be considered as a combination of simplified multi-terminal channels. The following channels are the principal multi-terminal channels first introduced in the field of information theory :

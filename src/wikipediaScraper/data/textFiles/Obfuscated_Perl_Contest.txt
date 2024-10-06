@@ -1,0 +1,6 @@
+The Obfuscated Perl Contest was a competition for programmers of Perl which was held annually between 1996 and 2000.  Entrants to the competition aimed to write "devious, inhuman, disgusting, amusing, amazing, and bizarre Perl code". It was run by The Perl Journal and took its name from the International Obfuscated C Code Contest .
+
+The entries were judged on aesthetics, output and incomprehensibility. One entrant per year received the Best of Show award.
+Entrants were advised to try and demonstrate a range of Perl knowledge, while being humorous, surprising and deceitful. Code which purposely crashed the judges' machines was discouraged.
+
+The competition was typically divided into four categories, which, in the last contest, included:

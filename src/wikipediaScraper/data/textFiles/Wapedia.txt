@@ -1,0 +1,5 @@
+Wapedia was a mobile version of Wikipedia . It was started in August 2004 by Florian Amrhein and shut down on 4 November 2013. It was operated by Taptu .
+
+Wapedia was originally a Wireless Application Protocol (WAP) site for use on mobile phones of the very early 2000s. The URL for Wapedia was http://wapedia.mobi/ Archived 2010-10-06 at the Wayback Machine (which was one of the early examples of a .mobi website). Over time, HTML interfaces were added, with the site generating pages optimised for a variety of mobile devices such as smart phones, Personal digital assistants (PDAs), and tablets. In 2009 dedicated applications for iPhone , Android and WebOS were launched.
+
+Wapedia served articles using a combination of a proxy -like behavior and a local article database. It did not offer the ability to edit pages. Wapedia injected adverts into the Wikipedia articles, either in the HTML or in the applications.

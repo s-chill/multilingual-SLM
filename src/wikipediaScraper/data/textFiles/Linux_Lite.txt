@@ -1,0 +1,3 @@
+Linux Lite is a Linux distribution based on Ubuntu LTS created by a team of programmers led by Jerry Bezencon. Created in 2012, it uses a customized implementation of Xfce as its desktop environment, and runs on the main Linux kernel .
+
+The distribution aims to appeal to Linux beginners and Windows users, by trying to make the transition from Windows to Linux as smooth as possible. To achieve this, the distribution tries to conserve many of the visual and functional elements of Windows, to create an experience that can be perceived as familiar by Windows users. Additionally, the distro sets out to "dispel the myth that Linux is hard to use", by trying to offer a simple and intuitive desktop experience.

@@ -1,0 +1,53 @@
+The World Robot Olympiad ( WRO ) is a global robotics competition for young people. The World Robot Olympiad competition uses Lego Mindstorms manufactured by LEGO Education. First held in 2004 in Singapore, it now attracts more than 28,000 teams from more than 85 countries.
+
+The competition consists of 4 different categories: RoboMission, RoboSports, Future Innovators, Future Engineers. and for the RoboMission and Future Innovators categories, it consists of three different age groups: Elementary, Junior High and Senior High . Participants below the age of 13 are considered as Elementary, participants from ages 11 until 15 years old are considered Junior High, and participants between 14 and 19 are considered Senior High.
+
+WRO was formally established in 2003, with the first international WRO final organized in 2004. Organizations from China, Japan, Singapore and Korea are considered the founding countries. In 2004, teams from China, Chinese Taipei, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Philippines, Russia, Singapore and Thailand took part in the first international final, held in Singapore.
+
+In 2003, the four founding countries established the international WRO Committee (now known as the WRO Advisory Council), which decided to establish a new and permanent robotics organisation, based on the idea that students from all over the world should have the opportunity to meet with other students to fulfil the new mission statement:
+
+"To bring together young people all over the world to develop their creativity, design & problem solving skills through challenging & educational robot competitions and activities"
+
+The WRO Committee decided on the new name World Robot Olympiad, and new WRO logos were developed.
+
+Finally the WRO Statutes and a set of General Rules were worked out to ensure a sound and safe future for WRO. One of the major decisions, which appears in the Statutes, was that the international WRO event should be hosted by a new country each year and the WRO Committee should elect a chairman.
+
+In 2017, the host country of WRO was Costa Rica. This was the first time the competition was held outside the Asia Region and the first time it came to the Americas.
+
+At WRO, competitions are offered for everyone in the age from 8 – 19. WRO have four competition categories, with their own characteristics and challenges:
+
+Each season the challenges and theme for the RoboMission and Future Innovators are developed with the country that hosts the International Final. The RoboSports rules and the Future Engineers Challenge game are designed together with experts in the robotic sciences community.
+
+Teams must create a robot which can complete a specified mission determined by the organiser and usually based on the Future Innovators theme. Before the competition begins, the robot must be fully dismantled: for example, the batteries must be taken out of the brick or the tyres must be taken out from the wheels. It must be built in a specified time (150 minutes) before the first qualification round begins. If a team finishes building their robot before the 150 minutes finish, the team can practice on the competition fields. Each robot is restricted to be 25 × 25 × 25 cm (9.8 × 9.8 × 9.8 in) before the round begins, and may consist of only LEGO certified parts, with specified motors and sensors depending on each competition. It must finish the mission autonomously, within a maximum time of two minutes. Teams are judged on their scores. If two teams' scores are equal, they are judged by their time to the nearest millisecond.
+This category was called Regular category until 2021.
+
+Future Innovators is a project based competition. Students create their own intelligent robotics solution relating to the current theme of the season. Teams will present their project and their robot model to a group of judges on the competition day.
+This category was called Open category until 2021
+
+WRO RoboSports is a competition where two teams each have two autonomous robots on the field playing a sports game. The two robots of one team may communicate with each other, but no further communication is allowed. The robot needs to be built from LEGO materials and a camera of their choice. The game changes every 3 or 4 years, the current game is Double Tennis.
+
+WRO Future Engineers is a competition where each team has to engineer and solve real-world-problems. Teams can use any kind of material and controller for their robot. The game changes every 3 or 4 years, the current game is about autonomous driving.
+
+WRO Football was introduced with teams of two autonomous robots playing football (soccer). Every year little changes were introduced for the game to motivate the students to keep on developing their robots. In 2022 WRO Football was replaced by RoboSports.
+
+The Advanced Robotics Challenge (ARC) is the newest category. The games are designed to test older and more experienced student's engineering and programming skills to the limit.
+
+Teams compete on a set challenge. Robots may be pre-built and may use certain TETRIX and MATRIX elements. Teams may use either one MyRIO or KNR controller, or two EV3/NXT controllers; there are no restrictions on choice and number of sensors, motors and servos. The size of the robot before it begins must be within 45 × 45 × 45 cm (17.7 × 17.7 × 17.7 in). The maximum time differs depending on each competition.
+
+In 2015 and 2016 it ran a Bowling game and in the 2017 season it was introduced the Tetrastack challenge.
+
+As the missions of the RoboMission and RoboSports get tougher and more teams in the Future Innovators are willing to present more creative-looking robots, organisers have to make changes to the list of eligible sensors, motors and bricks to be used in the competition. Initially only RCX bricks, motors and sensors were allowed. In the 2007 competition NXT bricks, motors and sensors were allowed as well. In 2011 the NXT colour sensor was added; in 2012, the HiTechnic colour sensor. In 2013 an EV3 robot was exhibited that used all four motors. In 2014, however, EV3 bricks, motors and sensors were allowed, but the number of motor ports was limited to three, and the EV3 Gyro sensor was not allowed. The 2015 competition allowed four motor ports and the gyro sensor, but not RCX bricks, motors, or sensors.
+
+There are also a few changes to the number of categories. The earlier versions of this competition, before 2006, consists of only Regular and Open and that further sub-divides to only two age groups, Primary and High School.
+
+WRO has the ambition of being relevant to students of different ages. That is why it offers competitions on platforms that provide fun and challenging experiences.
+
+It is also why it has decided two of the categories into three age groups. In the RoboMission, each age group has a different mission. In Future Innovators, the challenge is the same for all participants, but they are judged within their age group.
+
+Please note:
+
+The mentioned ages reflect the age of the participant in the year of the competition, not at the competition day. For participation in the international WRO final it is strictly enforced that students cannot, at any time in the year of the competition, be older than specified in the age group definitions. Example: A participant that is still 12 years old at the time of the international WRO final in November, but turns 13 years old in December the same year cannot participate in Elementary Category.
+
+Only teams that participated in a national competition in the ward one of our member countries can qualify for the international final. The WRO Table of Eligibility (TOE) defines how many teams a WRO National Organizer can register for the international final.
+
+Previous host countries are italicised while future host countries are bolded . Countries which are both previous and future hosts will have an asterisks (*).

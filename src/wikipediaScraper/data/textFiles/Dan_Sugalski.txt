@@ -1,0 +1,5 @@
+Dan Sugalski was the initial designer and chief architect for the Parrot process virtual machine that was initially created to run Perl 6 . In 2005 Dan handed over Parrot lead duties to Chip Salzenberg and shortly thereafter left the Parrot project.
+
+Dan was a Perl 5 core developer for years and his duties included being responsible for the VMS port of Perl . He has written more than a dozen Perl modules , does Perl training and has been a contributor to The Perl Journal and The Perl Review , as well as the O'Reilly Network .
+
+After leaving the Parrot project, Sugalski wrote what he called a post-mortem, giving his final thoughts.

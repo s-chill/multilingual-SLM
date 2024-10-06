@@ -1,0 +1,7 @@
+CodeSynthesis XSD/e is a validating XML parser/serializer and C++ XML Data Binding generator for Mobile and Embedded systems . It is developed by Code Synthesis and dual-licensed under the GNU GPL and a proprietary license.
+
+Given an XML instance specification ( XML Schema ), XSD/e can produce three kinds of C++ mappings: Embedded C++/Parser for event-driven XML parsing, Embedded C++/Serializer for event-driven XML serialization, and Embedded C++/Hybrid which provides a light-weight, in-memory object model on top of the other two mappings.
+
+The C++/Hybrid mapping generates C++ classes for types defined in XML Schema as well as parsing and serialization code. The C++ classes represent the data stored in XML as a statically-typed, tree-like object model and support fully in-memory as well as partially in-memory/partially event-driven XML processing. The C++/Parser mapping generates validating C++ parser skeletons for data types defined in XML Schema. One can then implement these parser skeletons to build a custom in-memory representation or perform immediate processing as parts of the XML documents become available. Similarly, the Embedded C++/Serializer mapping generates validating C++ serializer skeletons for types defined in XML Schema which can be used to serialize application data to XML.
+
+CodeSynthesis XSD/e itself is written in C++ and supports a number of embedded targets include Embedded Linux , VxWorks , QNX , LynxOS , iPhone OS and Windows CE .

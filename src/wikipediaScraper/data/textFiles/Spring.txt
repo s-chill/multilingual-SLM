@@ -1,0 +1,89 @@
+A spring is a device consisting of an elastic but largely rigid material (typically metal) bent or molded into a form (especially a coil) that can return into shape after being compressed or extended. Springs can store energy when compressed. In everyday use, the term most often refers to coil springs , but there are many different spring designs. Modern springs are typically manufactured from spring steel . An example of a non-metallic spring is the bow , made traditionally of flexible yew wood, which when drawn stores energy to propel an arrow .
+
+When a conventional spring, without stiffness variability features, is compressed or stretched from its resting position, it exerts an opposing force approximately proportional to its change in length (this approximation breaks down for larger deflections). The rate or spring constant of a spring is the change in the force it exerts, divided by the change in deflection of the spring. That is, it is the gradient of the force versus deflection curve . An extension or compression spring's rate is expressed in units of force divided by distance, for example or N/m or lbf/in. A torsion spring is a spring that works by twisting; when it is twisted about its axis by an angle, it produces a torque proportional to the angle. A torsion spring's rate is in units of torque divided by angle, such as N·m / rad or ft·lbf /degree. The inverse of spring rate is compliance, that is: if a spring has a rate of 10 N/mm, it has a compliance of 0.1 mm/N. The stiffness (or rate) of springs in parallel is additive , as is the compliance of springs in series.
+
+Springs are made from a variety of elastic materials, the most common being spring steel. Small springs can be wound from pre-hardened stock, while larger ones are made from annealed steel and hardened after manufacture. Some non-ferrous metals are also used, including phosphor bronze and titanium for parts requiring corrosion resistance, and low- resistance beryllium copper for springs carrying electric current .
+
+Simple non-coiled springs have been used throughout human history, e.g. the bow (and arrow). In the Bronze Age more sophisticated spring devices were used, as shown by the spread of tweezers in many cultures. Ctesibius of Alexandria developed a method for making springs out of an alloy of bronze with an increased proportion of tin, hardened by hammering after it was cast.
+
+Coiled springs appeared early in the 15th century, in door locks. The first spring powered-clocks appeared in that century and evolved into the first large watches by the 16th century.
+
+In 1676 British physicist Robert Hooke postulated Hooke's law , which states that the force a spring exerts is proportional to its extension.
+
+On March 8, 1850, John Evans, Founder of John Evans' Sons, Incorporated, opened his business in New Haven, Connecticut, manufacturing flat springs for carriages and other vehicles, as well as the machinery to manufacture the springs. Evans was a Welsh blacksmith and springmaker who emigrated to the United States in 1847, John Evans' Sons became "America's oldest springmaker" which continues to operate today.
+
+Springs can be classified depending on how the load force is applied to them:
+
+They can also be classified based on their shape:
+
+The most common types of spring are:
+
+Other types include:
+
+An ideal spring acts in accordance with Hooke's law, which states that the force with which the spring pushes back is linearly proportional to the distance from its equilibrium length:
+
+where
+
+Most real springs approximately follow Hooke's law if not stretched or compressed beyond their elastic limit .
+
+Coil springs and other common springs typically obey Hooke's law. There are useful springs that don't: springs based on beam bending can for example produce forces that vary nonlinearly with displacement.
+
+If made with constant pitch (wire thickness), conical springs have a variable rate. However, a conical spring can be made to have a constant rate by creating the spring with a variable pitch. A larger pitch in the larger-diameter coils and a smaller pitch in the smaller-diameter coils forces the spring to collapse or extend all the coils at the same rate when deformed.
+
+Since force is equal to mass, m , times acceleration, a , the force equation for a spring obeying Hooke's law looks like:
+
+The mass of the spring is small in comparison to the mass of the attached mass and is ignored. Since acceleration is simply the second derivative of x with respect to time,
+
+This is a second order linear differential equation for the displacement x {\displaystyle x} as a function of time. Rearranging:
+
+the solution of which is the sum of a sine and cosine :
+
+A {\displaystyle A} and B {\displaystyle B} are arbitrary constants that may be found by considering the initial displacement and velocity of the mass. The graph of this function with B = 0 {\displaystyle B=0} (zero initial position with some positive initial velocity) is displayed in the image on the right.
+
+In simple harmonic motion of a spring-mass system, energy will fluctuate between kinetic energy and potential energy , but the total energy of the system remains the same. A spring that obeys Hooke's Law with spring constant k will have a total system energy E of:
+
+E = ( 1 2 ) k A 2 {\displaystyle E=\left({\frac {1}{2}}\right)kA^{2}}
+
+Here, A is the amplitude of the wave-like motion that is produced by the oscillating behavior of the spring.
+
+The potential energy U of such a system can be determined through the spring constant k and its displacement x :
+
+U = ( 1 2 ) k x 2 {\displaystyle U=\left({\frac {1}{2}}\right)kx^{2}}
+
+The kinetic energy K of an object in simple harmonic motion can be found using the mass of the attached object m and the velocity at which the object oscillates v :
+
+K = ( 1 2 ) m v 2 {\displaystyle K=\left({\frac {1}{2}}\right)mv^{2}}
+
+Since there is no energy loss in such a system, energy is always conserved and thus:
+
+E = K + U {\displaystyle E=K+U}
+
+The angular frequency ω of an object in simple harmonic motion, given in radians per second, is found using the spring constant k and the mass of the oscillating object m :
+
+ω = k m {\displaystyle \omega ={\sqrt {\frac {k}{m}}}}
+
+The period T , the amount of time for the spring-mass system to complete one full cycle, of such harmonic motion is given by:
+
+T = 2 π ω = 2 π m k {\displaystyle T={\frac {2\pi }{\omega }}=2\pi {\sqrt {\frac {m}{k}}}}
+
+The frequency f , the number of oscillations per unit time, of something in simple harmonic motion is found by taking the inverse of the period:
+
+f = 1 T = ω 2 π = 1 2 π k m {\displaystyle f={\frac {1}{T}}={\frac {\omega }{2\pi }}={\frac {1}{2\pi }}{\sqrt {\frac {k}{m}}}}
+
+In classical physics , a spring can be seen as a device that stores potential energy , specifically elastic potential energy , by straining the bonds between the atoms of an elastic material.
+
+Hooke's law of elasticity states that the extension of an elastic rod (its distended length minus its relaxed length) is linearly proportional to its tension , the force used to stretch it. Similarly, the contraction (negative extension) is proportional to the compression (negative tension).
+
+This law actually holds only approximately, and only when the deformation (extension or contraction) is small compared to the rod's overall length. For deformations beyond the elastic limit , atomic bonds get broken or rearranged, and a spring may snap, buckle, or permanently deform. Many materials have no clearly defined elastic limit, and Hooke's law can not be meaningfully applied to these materials. Moreover, for the superelastic materials, the linear relationship between force and displacement is appropriate only in the low-strain region.
+
+Hooke's law is a mathematical consequence of the fact that the potential energy of the rod is a minimum when it has its relaxed length. Any smooth function of one variable approximates a quadratic function when examined near enough to its minimum point as can be seen by examining the Taylor series . Therefore, the force – which is the derivative of energy with respect to displacement – approximates a linear function .
+
+Force of fully compressed spring
+
+where
+
+Zero-length spring is a term for a specially designed coil spring that would exert zero force if it had zero length. That is, in a line graph of the spring's force versus its length, the line passes through the origin. A real coil spring will not contract to zero length because at some point the coils touch each other. "Length" here is defined as the distance between the axes of the pivots at each end of the spring, regardless of any inelastic portion in-between.
+
+Zero-length springs are made by manufacturing a coil spring with built-in tension (A twist is introduced into the wire as it is coiled during manufacture; this works because a coiled spring unwinds as it stretches), so if it could contract further, the equilibrium point of the spring, the point at which its restoring force is zero, occurs at a length of zero. In practice, the manufacture of springs is typically not accurate enough to produce springs with tension consistent enough for applications that use zero length springs, so they are made by combining a negative length spring, made with even more tension so its equilibrium point would be at a negative length, with a piece of inelastic material of the proper length so the zero force point would occur at zero length.
+
+A zero-length spring can be attached to a mass on a hinged boom in such a way that the force on the mass is almost exactly balanced by the vertical component of the force from the spring, whatever the position of the boom. This creates a horizontal pendulum with very long oscillation period . Long-period pendulums enable seismometers to sense the slowest waves from earthquakes. The LaCoste suspension with zero-length springs is also used in gravimeters because it is very sensitive to changes in gravity. Springs for closing doors are often made to have roughly zero length, so that they exert force even when the door is almost closed, so they can hold it closed firmly.

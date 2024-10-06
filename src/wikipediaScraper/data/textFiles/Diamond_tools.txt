@@ -1,0 +1,65 @@
+A diamond tool is a cutting tool with diamond grains fixed on the functional parts of the tool via a bonding material or another method. As diamond is a superhard material , diamond tools have many advantages as compared with tools made with common abrasives such as corundum and silicon carbide .
+
+In Natural History , Pliny wrote "When an adamas is successfully broken it disintegrates into splinters so small as to be scarcely visible. These are much sought after by engravers of gems and are inserted by them into iron tools because they make hollows in the hardest materials without difficulty."
+
+Diamond is one of the hardest natural materials on earth; much harder than corundum and silicon carbide. Diamond also has high strength, good wear resistance, and a low friction coefficient. So when used as an abrasive , it has many obvious advantages over many other common abrasives.
+
+Diamond can be used to make grinding tools, which have the following advantages:
+
+There are thousands of kinds of diamond tools. They can be categorized by their manufacturing methods and their uses.
+
+According to their manufacturing methods or bond types, diamond tools can be categorized to the following way:
+
+If categorized by use, there are diamond grinding tools, diamond cutting tools (e.g., diamond coated twist drill bits), diamond drilling tools, diamond sawing tools (e.g., diamond saw blades ), diamond drawing dies, etc.
+
+Diamond tools are suitable to process the following materials:
+
+As diamonds can react with Fe, Co, Ni, Cr, V under the high temperatures generated in the grinding processes, normally diamond tools are not suitable to process steels, including common steels and various tough alloy steels, while the other superhard tool,  cubic boron nitride (CBN) tool, is suitable to process steels. The tools made with common abrasives (e.g. corundum and silicon carbide) can also do the task.
+
+Diamond tools are used in the following domains:
+
+Besides what are listed above, there are also other domains where diamond tools are applied, for example, in medicine, Venezuelan scientist Humberto Fernandez Moran invented the diamond knife for use in delicate surgeries in 1955.
+
+Apart from its use as an abrasive due to its high hardness, diamond is also used to make other products for its many other good properties such as high heat-conductivity, low friction coefficient, high chemical stability, high resistivity and high optical performances. These applications include coatings on bearings and CDs, acting as lens and thermistors, making high-voltage switches and sensors, etc.
+
+Diamond dressers consist of single-point or multipoint tools brazed to a steel shank, and used for the trueing and dressing of grinding wheels. The tools come in several types, including: grit impregnated, blade type, crown type, and disc type. The advantages of multipoint over single-point tools are:
+
+Polycrystalline diamond (PCD) is formed in a large High Temperature-High Pressure (HT-HP) press, as either a diamond wafer on a backing of carbide, or forming a "vein" of diamond within a carbide wafer or rod.
+
+Most wafers are polished to a mirror finish, then cut with an electrical discharge machining (EDM) tool into smaller, workable segments that are then brazed onto the sawblade, reamer, drill, or other tool. Often they are EDM machined and/or ground an additional time to expose the vein of diamond along the cutting edge. These tools are mostly used for the machining of nonmetallic and nonferrous materials.
+
+The grinding operation is combined with EDM for several reasons. For example, according to Modern Machine Shop, the combination allows a higher material removal rate and is therefore more cost effective. Also, the EDM process slightly affects the surface finish. Grinding is used on the affected area to provide a finer final surface. The Beijing Institute of Electro-Machining attributes a finer shaping and surface geometry to the combination of the two processes into one.
+
+The process itself is accomplished by combining the two elements from each individual process into one grinding wheel. The diamond graphite wheel accomplishes the task of grinding, while the graphite ring around the existing wheel serves as the EDM portion. However, since diamond is not a conductive material, the bonding in the PCD work piece must be ample enough to provide the conductivity necessary for the EDG process to work.
+
+Polycrystalline diamond tools are used extensively in automotive and aerospace industries. They are ideal for speed machining (9000 surface feet per minute or higher) in tough and abrasive aluminum alloys, and high-abrasion processes such as carbon-fiber drilling and ceramics. The diamond cutting edges make them last for extended periods before replacement is needed. High volume processes, tight tolerances, and highly abrasive processes are ideal for diamond tooling.
+
+In the late 1970s, General Electric pioneered the technology of polycrystalline diamond compacts (PDCs) as a replacement for natural diamonds in drill bits . PDCs have been used to cut through crystalline rock surfaces for extended periods of time in lab environments, and these capabilities have now been implemented in harsh environments throughout the world.
+
+As of August 2000, the U.S. Department of Energy claimed that nearly one-third of the total footage drilled worldwide is being drilled with PDC bits, with a claimed savings of nearly $100,000 per PDC bit as compared to roller-core bits.
+
+Diamond pastes are used for polishing materials that require a mirror finish. They are often used in metallurgical specimens, carbide dies, carbide seals, spectacle glass industry, and for polishing diamonds. Diamond paste is mainly used in industrial requirements for polishing and sharpening metal blades and other metal surfaces. The paste is not just to polish the metal blade but sharpen the cutting edge as well.
+
+Diamond powder deposited through electroplating is used to make files (including nail files) and in small grinding applications.
+
+Single point diamond turning (SPDT) utilizes a solid, flawless diamond as the cutting edge. The single crystalline diamond can be natural or synthetic, and is sharpened to the desired dimensions by mechanical grinding and polishing . The cutting edge of most diamond tools is sharp to tens of nanometers, making it very effective for cutting non-ferrous materials with high resolution. SPDT is a very accurate machining process, used to create finished aspherical and irregular optics without the need for further polishing after completion. The most accurate machine tool in the world, the LODTM, formerly at Lawrence Livermore National Laboratory , had a profile accuracy estimated at 28 nm, while most machines seek a roughness within that deviation.
+
+SPDT is used for optics, for flat surfaces where both surface finish and unusually high dimensional accuracy are required, and when lapping would be uneconomical or impractical.
+
+For high-speed gas powered cut-off saws, walk-behind saws, handheld grinders, bridge saws, table saws, tile saws, and other types of saws.
+
+Typically used on hand grinders for grinding concrete or stone.
+
+Hollow steel tube with diamond tipped segments for drilling holes through concrete walls in the construction industry, porcelain tiles or granite worktops in the domestic industry, or also used for sample core extractions in the mining industry.
+
+Used in machine tools for machining ceramics and high speed aluminium.
+
+Used in turning centers for optics and precision surfaces.
+
+Pads with diamond crystals for polishing marble and other fine stone.
+
+Wire with diamond crystals for cutting.
+
+Some of the features of Diamond Wire Cutting are: Non-percussive, fumeless and quiet Smooth cutting face Unlimited cutting depth Horizontal, vertical and angled cutting of circular openings up to 2500mm diameter Plunge cutting facility which allows blind and rebated openings to be formed Remote controlled operation for increased safety
+
+For cutting stone, concrete and brick with a special chainsaw .

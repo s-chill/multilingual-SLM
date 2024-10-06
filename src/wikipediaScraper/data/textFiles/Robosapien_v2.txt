@@ -1,0 +1,11 @@
+The Robosapien V2 is the second generation of Mark Tilden's Robosapien robot . It is nearly twice the size of the original robot, standing around 1.85 feet (56 cm) tall. Instead of the original caveman grunts, the V2 can speak a large list of pre-recorded phrases. It has infrared and basic color recognition sensors , grip sensors in its hands, touch or contact activated hand and foot sensors, and sonic sensors. For movement, the V2 has an articulated waist, shoulders, and hands giving him a variety of body animations.
+
+The Robosapien V2 model was designed by Mark Tilden and is an autonomous robot. The Robosapien V2 comes packaged with a remote, a bowling ball with three pins, and the robot. It is an "evolved" form of Robosapien V1.
+
+The V2 comes with a repertoire of sayings and animations which can be activated from the remote control . Features from the original Robosapien such as burp and fart are included, along with a parody of the Lost In Space robot's " Danger, Will Robinson !" and many other one-liners.
+
+Much of the V2's internal behavior can be deduced by the blinking patterns of his blue eye pads, which change as the V2 changes modes.
+
+In addition to the white/black color scheme, there are additional colored variants of Robosapien V2 which include bronze, red, blue and black.
+
+A smaller version of the toy titled "Mini Robosapien V2" has also been produced. As with the standard Mini Robosapien it does not have a remote control or different modes of behavior, and isn't an autonomous robot. The product runs on two AAA-size batteries and can only move forward in one direction. The product also has red eyes instead of the standard blue.

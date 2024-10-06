@@ -1,0 +1,19 @@
+nice is a program found on Unix and Unix-like operating systems such as Linux . It directly maps to a kernel call of the same name. nice is used to invoke a utility or shell script with a particular CPU priority , thus giving the process more or less CPU time than other processes. A niceness of -20 is the lowest niceness, or highest priority. The default niceness for processes is inherited from its parent process and is usually 0.
+
+Systems have diverged on what priority is the lowest. Linux systems document a niceness of 19 as the lowest priority, BSD systems document 20 as the lowest priority. In both cases, the "lowest" priority is documented as running only when nothing else wants to.
+
+Niceness value is a number attached to processes in *nix systems, that is used along with other data (such as the amount of I/O done by each process) by the kernel process scheduler to calculate a process' 'true priority'—which is used to decide how much CPU time is allocated to it.
+
+The program's name, nice , is an allusion to its task of modifying a process' niceness value.
+
+The term niceness itself originates from the idea that a process with a higher niceness value is nicer to other processes in the system and to users by virtue of demanding less CPU power—freeing up processing time and power for the more demanding programs, who would in this case be less nice to the system from a CPU usage perspective.
+
+nice becomes useful when several processes are demanding more resources than the CPU can provide. In this state, a higher-priority process will get a larger chunk of the CPU time than a lower-priority process. Only the superuser (root) may set the niceness to a lower value (i.e. a higher priority). On Linux it is possible to change /etc/security/limits.conf to allow other users or groups to set low nice values.
+
+If a user wanted to compress a large file without slowing down other processes, they might run the following:
+
+The exact mathematical effect of setting a particular niceness value for a process depends on the details of how the scheduler is designed on that implementation of Unix. A particular operating system's scheduler will also have various heuristics built into it (e.g. to favor processes that are mostly I/O-bound over processes that are CPU-bound). As a simple example, when two otherwise identical CPU-bound processes are running simultaneously on a single-CPU Linux system, each one's share of the CPU time will be proportional to 20 − p , where p is the process' priority. Thus a process, run with nice +15 , will receive 25% of the CPU time allocated to a normal-priority process: (20 − 15)/(20 − 0) = 0.25. On the BSD 4.x scheduler, on the other hand, the ratio in the same example is about ten to one.
+
+The related renice program can be used to change the priority of a process that is already running.
+
+Linux also has an ionice program, which affects scheduling of I/O rather than CPU time.

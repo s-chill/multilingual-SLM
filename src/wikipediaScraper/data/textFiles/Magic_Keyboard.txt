@@ -1,0 +1,27 @@
+The Magic Keyboard is a family of wireless computer keyboards manufactured by Foxconn under contract for Apple Inc. The keyboards are bundled with the iMac and Mac Pro , and also sold as standalone accessories. They replaced the Apple Wireless Keyboard product line. Each Magic Keyboard model combination has a compact or full-size key layout for a specific region, a function key or Touch ID sensor next to F12, and color scheme variant.
+
+Apple also refers to the internal keyboards in MacBooks released after November 2019 as the Magic Keyboard, which uses an identical scissor-mechanism with slightly shallower keys.
+
+The original Magic Keyboard design was available in two models:
+
+This keyboard's design was similar to its predecessor, but had a lower profile. Apple re-engineered the scissor mechanism to increase key stability by 33 percent and reduce key travel. Typeface on the keys was also changed, from VAG Rounded to San Francisco (SF Compact) .
+
+It had a sealed non-replaceable rechargeable Lithium-ion battery which is charged via a Lightning port on the rear of the keyboard. The rechargeable battery can generally last up-to one month between charges. If connected to a computer using a USB to Lighning cable, it functions as a wired keyboard, not needing the Bluetooth connection. It used an ST Microelectronics STM32F103VB 72 MHz 32-bit RISC ARM Cortex-M3 processor and included the Broadcom BCM20733 Enhanced Data Rate Bluetooth 3.0 Single-Chip Solution.
+
+It was compatible with Macs running OS X El Capitan and later, iPhones and iPads running iOS 9 or later, and TVs running Apple TV Software 7.0 or tvOS 10 or later.
+
+The Magic Keyboard (A1644) was released alongside the Magic Mouse 2 and the Magic Trackpad 2 in October 2015.
+
+On June 5, 2017, Apple released the Magic Keyboard with Numeric Keypad (A1843) to replace the wired Apple Keyboard which was discontinued that day. It was longer, and had an extended key layout with a numeric keypad and a different arrow key arrangement. At the same time, the Magic Keyboard without the numeric keypad (A1644) received a minor visual update with new Control and Option key symbols.
+
+A space gray Magic Keyboard with Numeric Keypad with black keys was bundled with the iMac Pro and later made available for standalone purchase.
+
+A version in a silver finish with black keys was bundled with the 2019 Mac Pro , though never available as standalone purchase.
+
+An updated Magic Keyboard design introduced in 2021 includes aluminum casing on the bottom side, asymmetric corner keys, eject key assigned to Sleep, fn key assigned to Input Source, and F4-F6 function keys reassigned to Spotlight, Dictation/Siri, and Do Not Disturb. Using this new design, two additional model options also include Touch ID sensors in place of the eject key. This update also discontinued the space gray Magic Keyboard with Numeric Keypad. The updated keyboard models include:
+
+The keyboards that have Touch ID sensors can scan the user's fingerprint to unlock Mac models that use Apple M-series chips. Keyboards that come bundled with the iMac M1 also have a color-matched aluminum finish.
+
+The Magic Keyboard with Touch ID and Numeric Keypad (A2520) was available initially only in silver with white keys. On March 8, 2022, a version with black keys was introduced alongside the launch of the Mac Studio .
+
+In March 2020, Apple announced a Magic Keyboard with integrated trackpad for 2018 and newer iPad Pros with trackpad support which connects through Smart Connector. It also supports the iPad Air released later that year.

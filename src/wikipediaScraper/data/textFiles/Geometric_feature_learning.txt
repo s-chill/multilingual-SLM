@@ -1,0 +1,39 @@
+Geometric feature learning is a technique combining machine learning and computer vision to solve visual tasks. The main goal of this method is to find a set of representative features of geometric form to represent an object by collecting geometric features from images and learning them using efficient machine learning methods. Humans solve visual tasks and can give fast response to the environment by extracting perceptual information from what they see. Researchers simulate humans' ability of recognizing objects to solve computer vision problems. For example, M. Mata et al.(2002) applied feature learning techniques to the mobile robot navigation tasks in order to avoid obstacles. They used genetic algorithms for learning features and recognizing objects (figures). Geometric feature learning methods can not only solve recognition problems but also predict subsequent actions by analyzing a set of sequential input sensory images, usually some extracting features of images. Through learning, some hypothesis of the next action are given and according to the probability of each hypothesis give a most probable action. This technique is widely used in the area of artificial intelligence .
+
+Geometric feature learning methods extract distinctive geometric features from images. Geometric features are features of objects constructed by a set of geometric elements like points, lines, curves or surfaces. These features can be corner features, edge features, Blobs, Ridges, salient points image texture and so on, which can be detected by feature detection methods.
+
+Geometric component feature is a combination of several primitive features and it always consists more than 2 primitive features like edges, corners or blobs. Extracting geometric feature vector at location x can be computed according to the reference point, which is shown below:
+
+x means the location of the location of features, θ {\displaystyle \textstyle \theta } means the orientation, σ {\displaystyle \textstyle \sigma } means the intrinsic scale.
+
+Boolean compound feature consists of two sub-features which can be primitive features or compound features. There are two type of boolean features: conjunctive feature whose value is the product of two sub-features and disjunctive features whose value is the maximum of the two sub-features.
+
+Feature space was firstly considered in computer vision area by Segen. He used multilevel graph to represent the geometric relations of local features.
+
+There are many learning algorithms which can be applied to learn to find distinctive features of objects in an image. Learning can be incremental, meaning that the object classes can be added at any time.
+
+1.Acquire a new training image "I".
+
+2.According to the recognition algorithm, evaluate the result. If the result is true, new object classes are recognised.
+
+The key point of recognition algorithm is to find the most distinctive features among all features of all classes. So using below equation to maximise the feature f m a x {\displaystyle \textstyle \ f_{max}}
+
+Measure the value of a feature in images, f m a x {\displaystyle \textstyle \ f_{max}} and f f m a x {\displaystyle \textstyle \ f_{f_{max}}} ,  and localise a feature:
+
+Where f f ( p ) ( x ) {\displaystyle \textstyle f_{f_{(p)}}(x)} is defined as f f ( p ) ( I ) = m a x { 0 , f ( p ) T ) f ( x ) ‖ f ( p ) ‖ ‖ f ( x ) ‖ } {\displaystyle \textstyle f_{f_{(p)}}(I)=max\left\{0,{\frac {f(p)^{T})f(x)}{\left\|f(p)\right\|\left\|f(x)\right\|}}\right\}}
+
+After recognise the features, the results should be evaluated to determine whether the classes can be recognised, There are five evaluation categories of recognition results: correct, wrong, ambiguous, confused and ignorant. When the evaluation is correct, add a new training image and train it. If the recognition failed, the feature nodes should be maximise their distinctive power which is defined by the Kolmogorov-Smirno distance (KSD).
+
+3.Feature learning algorithm
+After a feature is recognised, it should be applied to Bayesian network to recognise the image, using the feature learning algorithm to test.
+
+The probably approximately correct (PAC) model was applied by D. Roth (2002) to solve computer vision problem by developing a distribution-free learning theory based on this model. This theory heavily relied on the development of feature-efficient learning approach. The goal of this algorithm is to learn an object represented by some geometric features in an image. The input is a feature vector and the output is 1 which means successfully detect the object or 0 otherwise. The main point of this learning approach is collecting representative elements which can represent the object through a function and testing by recognising an object from image to find the representation with high probability. 
+The learning algorithm aims to predict whether the learned target concept f T ( X ) {\displaystyle \textstyle f_{T}(X)} belongs to a class, where X is the instance space consists with parameters and then test whether the prediction is correct.
+
+After learning features, there should be some evaluation algorithms to evaluate the learning algorithms. D. Roth applied two learning algorithms:
+
+The main purpose of SVM is to find a hyperplane to separate the set of samples ( x i , y i ) {\displaystyle \textstyle (x_{i},y_{i})} where x i {\displaystyle \textstyle x_{i}} is an input vector which is a selection of features x ∈ R N {\displaystyle \textstyle x\in R^{N}} and y i {\displaystyle \textstyle y_{i}} is the label of x i {\displaystyle \textstyle x_{i}} . The hyperplane has the following form: f ( x ) = s g n ( ∑ i = 1 l y i α i ⋅ k ( x , x i ) + b ) = { 1 , p o s i t i v e i n p u t s − 1 , n e g a t i v e i n p u t s {\displaystyle \textstyle f(x)=sgn\left(\sum _{i=1}^{l}y_{i}\alpha _{i}\cdot k(x,x_{i})+b\right)=\left\{{\begin{matrix}1,positive\;inputs\\-1,negative\;inputs\end{matrix}}\right.}
+
+k ( x , x i ) = ϕ ( x ) ⋅ ϕ ( x i ) {\displaystyle \textstyle k(x,x_{i})=\phi (x)\cdot \phi (x_{i})} is a kernel function
+
+Both algorithms separate training data by finding a linear function.

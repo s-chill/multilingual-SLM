@@ -1,0 +1,11 @@
+The Bingel reaction in fullerene chemistry is a fullerene cyclopropanation reaction to a methanofullerene first  discovered by C. Bingel in 1993 with the bromo derivative of diethyl malonate in the presence of a base such as sodium hydride or DBU . The preferred double bonds for this reaction on the fullerene surface are the shorter bonds at the junctions of two hexagons (6-6 bonds) and the driving force is relief of steric strain .
+
+The reaction is of importance in the field of chemistry because it allows the introduction of useful extensions to the fullerene sphere. These extensions alter their properties, for instance solubility and electrochemical behavior, and therefore widen the range of potential technical applications.
+
+The reaction mechanism for this reaction is as follows: a base abstracts the acidic malonate proton generating a carbanion or enolate which reacts with the electron deficient fullerene double bond in a nucleophilic addition . This in turn generates a carbanion which displaces bromine in a nucleophilic aliphatic substitution in an intramolecular ring cyclopropane ring closure.
+
+The Bingel reaction is a popular method in fullerene chemistry. The malonate (functionalized with the halide atom) is often obtained in situ in a mixture of base and tetrabromomethane or iodine . The reaction is also known to take place with the ester groups replaced by alkyne groups in dialkynylmethanofullerenes .
+
+An alternative to the Bingel reaction is a fullerene diazomethane reaction. N-(Diphenylmethylene)glycinate Esters in a Bingel reaction take a different conjugate course and react to a fullerene dihydropyrrole .
+
+Protocols exist for the removal of the methano group based on electrolytic reduction or amalgamated magnesium .

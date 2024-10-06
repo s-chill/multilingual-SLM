@@ -1,0 +1,3 @@
+Microsoft 's Professional Developers Conference ( PDC ) was a series of conferences for software developers ; the conference was held infrequently to coincide with beta releases of the Windows operating system, and showcased topics of interest to those developing hardware and software for the new version of Windows.
+
+In 2011, PDC was merged with Microsoft's web development conference MIX to form the Build Conference .

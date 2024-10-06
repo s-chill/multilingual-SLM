@@ -1,0 +1,13 @@
+Catch reporting is a part of Monitoring control and surveillance of Commercial fishing .  Depending on national and local fisheries management practices, catch reports may reveal illegal fishing practices, or simply indicate that a given area is being overfished.
+
+The general industry practice is to write out a catch report on paper, and present it to a fisheries management official when they return to port. If information does not seem plausible to the official, the report may be verified by physical inspection of the catch. Alternatively, a suspicious vessel may need to carry an independent observer on future voyages.
+
+Some Vessel monitoring systems have features that collect, from keyboard input, the data that constitutes a catch report for the entire voyage. More advanced systems periodically transmit the current catch as electronic mail, so fisheries management centers can determine if a controlled area needs to be closed to further fishing.
+
+While there is no standardization as yet for catch reports, a starting point came from a 1981 Conference of Experts:
+
+This was extended, in 1993, to include: to include the measurement of:
+
+A number of programs require tracking of days at sea (DAS) for a given vessel. They may require tracking the total cumulative catch of a given fishery.
+
+Where the local fishery economy permits, perhaps with international funding, near-real-time catch reporting will become a basic feature of vessel management systems.  Software at fisheries management centers will cross-correlate VMS position information, catch reports, and spot inspection reports.

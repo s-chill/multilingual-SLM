@@ -1,0 +1,33 @@
+The Internet Group Management Protocol ( IGMP ) is a communications protocol used by hosts and adjacent routers on IPv4 networks to establish multicast group memberships. IGMP is an integral part of IP multicast and allows the network to direct multicast transmissions only to hosts that have requested them.
+
+IGMP can be used for one-to-many networking applications such as online streaming video and gaming , and allows more efficient use of resources when supporting these types of applications.
+
+IGMP is used on IPv4 networks. Multicast management on IPv6 networks is handled by Multicast Listener Discovery (MLD) which is a part of ICMPv6 in contrast to IGMP's bare IP encapsulation.
+
+A network designed to deliver a multicast service using IGMP might use this basic architecture:
+
+IGMP operates between a host and a local multicast router. Switches featuring IGMP snooping also derive useful information by observing these IGMP transactions. Protocol Independent Multicast (PIM) is then used between the local and remote multicast routers to direct multicast traffic from hosts sending multicasts to hosts that have registered through IGMP to receive them.
+
+IGMP operates on the network layer (layer 3), just the same as other network management protocols like ICMP .
+
+The IGMP protocol is implemented on hosts and within routers . A host requests membership to a group through its local router while a router listens for these requests and periodically sends out subscription queries. A single router per subnet is elected to perform this querying function. Some multilayer switches include an IGMP querier capability to allow their IGMP snooping features to work in the absence of an IGMP-capable router in the layer 2 network.
+
+IGMP is vulnerable to some attacks, and firewalls commonly allow the user to disable it if not needed.
+
+There are three versions of IGMP. IGMPv1 was defined in 1989. IGMPv2, defined in 1997, improves IGMPv1 by adding the ability for a host to signal a desire to leave a multicast group.
+
+In 2002, IGMPv3 improved IGMPv2 by supporting source-specific multicast and introduces membership report aggregation. The support for source-specific multicast was improved in 2006.
+
+The three versions of IGMP are backward compatible. A router supporting IGMPv3 can support clients running IGMPv1, IGMPv2, and IGMPv3. IGMPv1 uses a query-response model. Queries are sent to 224.0.0.1 . Membership reports are sent to the group's multicast address. IGMPv2 accelerates the process of leaving a group and adjusts other timeouts. Leave-group messages are sent to 224.0.0.2 . A group-specific query is introduced. Group-specific queries are sent to the group's multicast address. A means for routers to select an IGMP querier for the network is introduced. IGMPv3 introduces source-specific multicast capability. Membership reports are sent to 224.0.0.22 .
+
+There are several types of IGMP messages:
+
+IGMP messages are carried in bare IP packets with IP protocol number 2. Similar to the Internet Control Message Protocol , there is no transport layer used with IGMP messaging.
+
+Where:
+
+The message is sent using the following IP destination addresses:
+
+Where:
+
+FreeBSD , Linux and Windows all support IGMP on the host side.

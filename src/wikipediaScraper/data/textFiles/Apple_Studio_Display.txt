@@ -1,0 +1,17 @@
+The Apple Studio Display is a series of non-widescreen LCD and CRT displays manufactured and sold by Apple Computer, Inc. and introduced in 1998. After the 1999 introduction of the widescreen Apple Cinema Display , the Apple Studio Display line ran concurrently until it was discontinued in 2004. With the exception of the last model, the 5:4 17" Apple Studio Display, all Apple Studio Displays had an aspect ratio of 4:3.
+
+Apple Studio Displays offered DB-15, VGA , DVI , and ADC as their display input. Some inputs Apple Studio Displays used were USB , Composite video , S-Video , ADB , RCA audio connectors , and headphone jacks .
+
+The first Apple display using LCD technology was known as the Apple Studio Display (15-inch flat panel) .  It was introduced at the 1998 Seybold Seminars Expo alongside the Power Macintosh G3/300 DT and had an initial retail price of US$1,999. MacWorld Magazine's Seybold conference coverage said the pricing "would have been considered aggressive a few months ago, but given recently plummeting prices for LCD monitors, Apple's display should be in the middle of the pack."
+
+It has DA-15 connector for connecting the display to a computer, and 2 ADB ports, an S-Video and Composite video port, as well as RCA audio connectors and a headphone jack. Although it was intended to be paired with the Power Macintosh G3, its blue and translucent plastic design was ahead of G3 which were still beige. It is the first translucent Apple product since the eMate , predating the iMac G3 by a few months. The Studio Display requires System 7.5 or later, and has a brightness of 180 cd/m2.
+
+The Studio Display received its first major revision at MacWorld January 1999 with "ice white" and "blueberry" styling to match the new Power Macintosh G3 Blue and White , a brighter panel (200 cd/m2), and a lower retail price of US$1,099.
+
+In August 1999, it was replaced with a model featuring DVI and USB ports with a white and graphite exterior styling.
+
+In July 2000, a model (M2454) featuring an ADC connector and a clear plastic three-legged stand based on the 22" (55 cm) Apple Cinema Display was introduced and was included with the iconic G4 Cube. It was discontinued in January 2003. All 15" (35 cm) Studio Displays had a native resolution of 1024x768 pixels. In May 2001, Apple released a 17" Studio Display (Model No: M7649) with a native resolution of 1280x1024 at an MSRP of $999. On January 28, 2003, the price was lowered to $699 and the 15" Studio Display was discontinued, leaving the 17" Studio Display as the last available model in the Apple Studio Display line, with no successor in sight. In June 2004, Apple retired the 17" Studio Display and the Apple Studio Display line in favor of their widescreen line, the Apple Cinema Display .
+
+Apple reused the "Studio Display" name nearly 18 years later, for a different display model , launched in March 2022.
+
+Apple introduced 17" and 21" Studio Displays with cathode ray tubes (CRTs) in January 1999 with VGA DE-15 connectors and "blueberry" and white exterior styling to match the Power Macintosh G3 Blue & White. In August 1999 the exterior styling was changed to "graphite" and white to match the Power Macintosh G4. In July 2000, the 21" model was discontinued, and the 17" model was replaced with a new model with a transparent plastic enclosure and an ADC connector . Apple discontinued CRT displays in May 2001.

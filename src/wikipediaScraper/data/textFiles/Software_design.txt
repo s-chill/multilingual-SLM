@@ -1,0 +1,40 @@
+Software design is the process of conceptualizing how a software system will work before it is implemented or modified. Software design also refers to the direct result of the design process – the concepts of how the software will work which consists of both design documentation and undocumented concepts.
+
+Software design usually is directed by goals for the resulting system and involves problem-solving and planning – including both 
+high-level software architecture and low-level component and algorithm design .
+
+In terms of the waterfall development process , software design is the activity of following requirements specification and before coding .
+
+The design process enables a designer to model various aspects of a software system before it exists.
+
+Creativity, past experience, a sense of what makes "good" software, and a commitment to quality are success factors for a competent design. However, the design process is not always a straightforward procedure.
+
+The software design model can be compared to an architected plan for a house. High-level plans represent the totality of the house (e.g., a three-dimensional rendering of the house). Lower-level plans provide guidance for constructing each detail (e.g., the plumbing lay). Similarly, the software design model provides a variety of views of the proposed software solution.
+
+Software design documentation may be reviewed or presented to allow constraints, specifications and even requirements to be adjusted prior to coding . Redesign may occur after a review of a programmed simulation or prototype . It is possible to design software in the process of coding, without a plan or requirement analysis, but for more complex projects this is less feasible. A separate design prior to coding allows for multidisciplinary designers and subject-matter experts (SMEs) to collaborate with programmers in order to produce software that is useful and technically sound.
+
+One component of software design is software requirements analysis (SRA). SRA is a part of the software development process that lists specifications used in software engineering .
+
+The output of the analysis is smaller problems to solve.
+In contrast, the design focuses on capabilities, and thus multiple designs for the same problem can exist. Depending on the environment, the design often varies, whether it is created from reliable frameworks or implemented with suitable design patterns .
+
+A design process may include the production of artifacts such as flow chart , use case , Pseudocode , Unified Modeling Language model and other Fundamental modeling concepts . For user centered software, design may involve user experience design yielding a storyboard to help determine those specifications.
+
+Sometimes the output of a design process is 
+design documentation .
+
+Basic design principles enable a software engineer to navigate the design process. Davis suggests a set of principles for software design, which have been adapted and extended in the following list:
+
+Design concepts provide a designer with a foundation from which more sophisticated methods can be applied. A set of design concepts has evolved including:
+
+In his object model, Grady Booch mentions Abstraction , Encapsulation , Modularisation , and Hierarchy as fundamental software design principles. The acronym PHAME (Principles of Hierarchy, Abstraction, Modularisation, and Encapsulation) is sometimes used to refer to these four fundamental principles.
+
+There are many aspects to consider in the design of a piece of software. The importance of each consideration should reflect the goals and expectations that the software is being created to meet. Some of these aspects are:
+
+A modeling language can be used to express information, knowledge or systems in a structure that is defined by a consistent set of rules. These rules are used for interpretation of the components within the structure. A modeling language can be graphical or textual. Examples of graphical modeling languages for software design include:
+
+A software designer may identify a design aspect which has been visited and perhaps even solved by others in the past. A template or pattern describing a solution to a common problem is known as a design pattern . The reuse of such patterns can increase software development velocity.
+
+The difficulty of using the term "design" in relation to software is that in some senses, the source code of a program is the design for the program that it produces. To the extent that this is true, "software design" refers to the design of the design. Edsger W. Dijkstra referred to this layering of semantic levels as the "radical novelty" of computer programming, and Donald Knuth used his experience writing TeX to describe the futility of attempting to design a program prior to implementing it:
+
+T E X would have been a complete failure if I had merely specified it and not participated fully in its initial implementation. The process of implementation constantly led me to unanticipated questions and to new insights about how the original specifications could be improved.

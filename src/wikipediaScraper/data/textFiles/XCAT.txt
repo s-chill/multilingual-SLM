@@ -1,0 +1,13 @@
+xCAT ( Extreme Cloud Administration Toolkit ) is open-source distributed computing management software developed by IBM , used for the deployment and administration of Linux or AIX based clusters .
+
+In September 2023 the primary developers of xCAT said that they moved onto other roles and could no longer work on it, asking the community if anyone would like to take over, as otherwise they planned to end-of-life the project on December 1, 2023.
+
+xCAT can:
+
+xCAT has specific features designed to take advantage of IBM hardware including:
+
+xCAT achieved recognition in June 2008 for having been used with the IBM Roadrunner , which set a computing speed record at that time.
+
+xCAT is the default systems management tool of the IBM Intelligent Cluster solution.
+
+xCAT is used by Lenovo .

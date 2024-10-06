@@ -1,0 +1,29 @@
+ArcMap is the former main component of Esri 's ArcGIS suite of geospatial processing programs. Used primarily to view, edit, create, and analyze geospatial data. ArcMap allows the user to explore data within a data set, symbolize features accordingly, and create maps. This is done through two distinct sections of the program, the table of contents and the data frame. In October 2020, it was announced that there are no plans to release 10.9 in 2021, and that ArcMap would no longer be supported after March 1, 2026. Esri is encouraging their users to transition to ArcGIS Pro .
+
+ArcMap users can create and manipulate data sets to include a variety of information.  For example, the maps produced in ArcMap generally include features such as north arrows, scale bars, titles, legends, neat lines, etc.  The software package includes a style-set of these features. As well as the ability to upload numerous other reference styles to apply to any mapping function.
+
+The ArcGIS suite is available at four license levels: Basic, Standard, or Advanced (formerly ArcView, ArcEditor, or ArcInfo), and Pro.  Each step up in the license provides the user with more extensions that allow a variety of querying to be performed on a data set.  Pro is the highest level of licensing, and allows the user to use such extensions as 3D Analyst, Spatial Analyst, and the Geostatistical Analyst as well as numerous new functionalities at each new release.
+
+The layout of ArcMap may seem overwhelming at first glance, but when a second look is taken what is seen is two distinct sections of ArcMap. The data frame where information is spatial and the table of contents where data is aligned in terms of importance symbology is changed.
+
+The section of ArcMap where data is spatially applied from the table of contents. The data comes in feature, rasters, and layers. While working in the spatial sector of the data, ground units (miles, kilometers, feet, meters, etc...) are used and represented in the coordinate system defined. This is where the views can be changed between Layout and Data View. The data will be ordered according to the order in the Table of Contents.
+
+The user can create multiple data frames within one table of contents. The data frame while in that view will only view a single data frame at a time.
+
+The table of contents is the way that ArcMap represents what data is available to put into the data frame and how each layer is symbolized. The normal way to organize the layers is from top to bottom. With the base map elements such as a street map or DEM listed at the bottom the thematic map layers can be placed above to convey the message the map is being designed for.
+
+Other forms to view the table of contents include listing layers by source; visibility; and selection. The most basic form is to stay with drawing order as described above.
+
+Views are put into place to allow a user to choose between either data view or the layout view. To choose between these views there are two buttons in the bottom left of the data frame to choose from. Navigating through the menus is another option, View > Layout View or View > Data View.
+
+The purpose of layout view is for the final design of a map. This is the view where the placement of the essential map elements are inserted, such as the north arrow, scale bar, etc. While in this view the user also has control of the data frame just as they would in the Data View, but is mainly concerned with the page space and formatting of spacing. If multiple Data Frames are used they can be combined while in the layout view to fit onto one single page.
+
+This is the geographic view of the data a user imports. The user can explore, display, and query data and edit files if the correct extensions are owned. The bulk of geographic processing will happen while in this view, such as symbology, import of data, editing, coordinate system definition. Only one Data Frame can be viewed at a time while in this view.
+
+ArcMap is run using primarily Shape Files and in more recent versions Geodatabases can be used to store larger sets of data. These file formats are what are uploaded into the program to view spatial data. Users can also upload .dbf or database files to link important attribute information to spatial data. Comma separated values (.csv) can be used, as long as they are converted to a .dbf before upload into the program.
+
+When a map is saved a new file extension is created (.mxd). This file does not save the layers or spatial data with it, only the relative pathnames. What this means is if the data used in the map is not in the same location as the previous time it was opened there will be an error. This assists with keeping the file small and reduces the amount of redundancy in data management.
+
+There are three main printing techniques and one multipage technique. The multipage technique can be found in a help page on ESRIs website.
+
+Temporal Analyst is an extension for storage, management, processing, plotting and analysis of virtually any time-related data inside ArcGIS application and was developed by DHI . Temporal Analyst tool for GIS brings time series data management directly into ArcGIS and provides fully dynamic data handling, modeling and monitoring.

@@ -1,0 +1,25 @@
+The mkdir ( m a k e dir ectory) command in the Unix , DOS , DR FlexOS , IBM OS/2 , Microsoft Windows , and ReactOS operating systems is used to make a new directory . It is also available in the EFI shell and in the PHP scripting language . In DOS, OS/2, Windows and ReactOS, the command is often abbreviated to md .
+
+The command is analogous to the Stratus OpenVOS create_dir command. MetaComCo TRIPOS and AmigaDOS provide a similar MakeDir command to create new directories. The numerical computing environments MATLAB and GNU Octave include an mkdir function with similar functionality.
+
+In early versions of Unix ( 4.1BSD and early versions of System V ), this command had to be setuid root as the kernel did not have an mkdir syscall . Instead, it made the directory with mknod and linked in the . and .. directory entries manually. The command is available in MS-DOS versions 2 and later. Digital Research DR DOS 6.0 and Datalight ROM-DOS also include an implementation of the md and mkdir commands.
+
+The version of mkdir bundled in GNU coreutils was written by David MacKenzie. It is also available in the open source MS-DOS emulator DOSBox and in KolibriOS .
+
+Normal usage is as straightforward as follows:
+
+where name_of_directory is the name of the directory one wants to create. When typed as above (i.e. normal usage), the new directory would be created within the current directory. On Unix and Windows (with Command extensions enabled, the default ), multiple directories can be specified, and mkdir will try to create all of them.
+
+On Unix-like operating systems, mkdir takes options.  The options are:
+
+-p is most often used when using mkdir to build up complex directory hierarchies, in case a necessary directory is missing or already there. -m is commonly used to lock down temporary directories used by shell scripts .
+
+An example of -p in action is:
+
+If /tmp/a exists but /tmp/a/b does not, mkdir will create /tmp/a/b before creating /tmp/a/b/c .
+
+And an even more powerful command, creating a full tree at once (this however is a Shell extension, nothing mkdir does itself):
+
+If one is using variables with mkdir in a bash script, POSIX `special' built-in command 'eval' would serve its purpose.
+
+This will create:

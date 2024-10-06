@@ -1,0 +1,25 @@
+GNU parallel is a command-line utility for Linux and other Unix-like operating systems which allows the user to execute shell scripts or commands in parallel .  GNU parallel is free software , written by Ole Tange in Perl . It is available under the terms of GPLv3 .
+
+The most common usage is to replace the shell loop, for example
+
+to the form of
+
+where the file list contains arguments for do_something and where process_output may be empty.
+
+Scripts using parallel are often easier to read than scripts using pexec .
+
+The program parallel features also
+
+By default, parallel runs as many jobs in parallel as there are CPU cores .
+
+The above is the parallel equivalent to:
+
+This searches in all files in the current directory and its subdirectories whose name end in .foo for occurrences of the string bar . The parallel command will work as expected unless a file name contains a newline . In order to avoid this limitation one may use:
+
+The above command uses the null character to delimit file names.
+
+The above command expands {} with as many arguments as the command line length permits, distributing them evenly among parallel jobs if required. This can lower process overhead for short-lived commands that take less time to finish than they do to launch.
+
+The command above does the same as:
+
+However, the former command which uses find / parallel / cp is more resource efficient and will not halt with an error if the expansion of *.ogg is too large for the shell.

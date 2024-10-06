@@ -1,0 +1,13 @@
+In cycling , cadence is a measure of rotational speed of the crank , expressed in units of revolutions per minute (r/min or rpm). In other words, it is the pedalling rate at which a cyclist is turning the pedals . Cadence is directly proportional to wheel speed , but is a distinct measurement and changes with gearing. In other words, the gearing changes the ratio of the crank's rotational speed (cadence) to that of the drive wheel's rotational speed.
+
+Cyclists typically have a cadence at which they feel most comfortable, and on bicycles with many gears it is possible to maintain a preferred cadence at a wide range of speeds.
+
+Cyclists choose cadence to minimise muscular fatigue, and not metabolic demand, since oxygen consumption is lower at cadences 60-70 r/min.
+
+While fast cadence is also referred to as "spinning", slow cadence is referred to as "mashing" or "grinding".
+
+Any particular cyclist has only a narrow range of preferred cadences, often smaller than the general ranges listed above. This in turn influences the number and range of gears which are appropriate for any particular cycling conditions.
+
+Cadence can be measured via various types of sensors, for example a simple reed switch and a magnet which detects one revolution each time the crank arm passes a point on the frame, or more advanced sensors based on a force sensor (e.g. pedals), torque sensor (e.g. crank arms) or other types of cycling power sensors .
+
+The cadence can be presented on a smartphone via Bluetooth, on an LCD display via cable, or on a GPS or cyclocomputer via ANT+, typically mounted on the bicycle's handlebars.

@@ -1,0 +1,73 @@
+Infiltration is the process by which water on the ground surface enters the soil . It is commonly used in both hydrology and soil sciences . The infiltration capacity is defined as the maximum rate of infiltration. It is most often measured in meters per day but can also be measured in other units of distance over time if necessary. The infiltration capacity decreases as the soil moisture content of soils surface layers increases. If the precipitation rate exceeds the infiltration rate, runoff will usually occur unless there is some physical barrier.
+
+Infiltrometers , parameters and rainfall simulators are all devices that can be used to measure infiltration rates.
+
+Infiltration is caused by multiple factors including; gravity, capillary forces, adsorption, and osmosis. Many soil characteristics can also play a role in determining the rate at which infiltration occurs.
+
+Precipitation can impact infiltration in many ways. The amount, type, and duration of precipitation all have an impact. Rainfall leads to faster infiltration rates than any other precipitation event, such as snow or sleet. In terms of amount, the more precipitation that occurs, the more infiltration will occur until the ground reaches saturation, at which point the infiltration capacity is reached. The duration of rainfall impacts the infiltration capacity as well. Initially when the precipitation event first starts the infiltration is occurring rapidly as the soil is unsaturated, but as time continues the infiltration rate slows as the soil becomes more saturated. This relationship between rainfall and infiltration capacity also determines how much runoff will occur. If rainfall occurs at a rate faster than the infiltration capacity runoff will occur.
+
+The porosity of soils is critical in determining the infiltration capacity. Soils that have smaller pore sizes, such as clay, have lower infiltration capacity and slower infiltration rates than soils that have large pore sizes, such as sands. One exception to this rule is when the clay is present in dry conditions. In this case, the soil can develop large cracks which lead to higher infiltration capacity.
+
+Soil compaction also impacts infiltration capacity. Compaction of soils results in decreased porosity within the soils, which decreases infiltration capacity.
+
+Hydrophobic soils can develop after wildfires have happened, which can greatly diminish or completely prevent infiltration from occurring.
+
+Soil that is already saturated has no more capacity to hold more water, therefore infiltration capacity has been reached and the rate cannot increase past this point. This leads to much more surface runoff. When soil is partially saturated then infiltration can occur at a moderate rate and fully unsaturated soils have the highest infiltration capacity.
+
+Organic materials in the soil (including plants and animals) all increase the infiltration capacity. Vegetation contains roots that extend into the soil which create cracks and fissures in the soil, allowing for more rapid infiltration and increased capacity. Vegetation can also reduce the surface compaction of the soil which again allows for increased infiltration. When no vegetation is present infiltration rates can be very low, which can lead to excessive runoff and increased erosion levels. Similarly to vegetation, animals that burrow in the soil also create cracks in the soil structure.
+
+If the land is covered by impermeable surfaces, such as pavement, infiltration cannot occur as the water cannot infiltrate through an impermeable surface. This relationship also leads to increased runoff. Areas that are impermeable often have storm drains that drain directly into water bodies, which means no infiltration occurs.
+
+Vegetative cover of the land also impacts the infiltration capacity. Vegetative cover can lead to more interception of precipitation, which can decrease intensity leading to less runoff, and more interception. Increased abundance of vegetation also leads to higher levels of evapotranspiration which can decrease the amount of infiltration rate. Debris from vegetation such as leaf cover can also increase the infiltration rate by protecting the soils from intense precipitation events.
+
+In semi-arid savannas and grasslands, the infiltration rate of a particular soil depends on the percentage of the ground covered by litter, and the basal cover of perennial grass tufts. On sandy loam soils, the infiltration rate under a litter cover can be nine times higher than on bare surfaces. The low rate of infiltration in bare areas is due mostly to the presence of a soil crust or surface seal. Infiltration through the base of a tuft is rapid and the tufts funnel water toward their own roots.
+
+When the slope of the land is higher runoff occurs more readily which leads to lower infiltration rates.
+
+The process of infiltration can continue only if there is room available for additional water at the soil surface. The available volume for additional water in the soil depends on the porosity of the soil and the rate at which previously infiltrated water can move away from the surface through the soil. The maximum rate at that water can enter soil in a given condition is the infiltration capacity. If the arrival of the water at the soil surface is less than the infiltration capacity, it is sometimes analyzed using hydrology transport models , mathematical models that consider infiltration, runoff, and channel flow to predict river flow rates and stream water quality .
+
+Robert E. Horton suggested that infiltration capacity rapidly declines during the early part of a storm and then tends towards an approximately constant value after a couple of hours for the remainder of the event. Previously infiltrated water fills the available storage spaces and reduces the capillary forces drawing water into the pores. Clay particles in the soil may swell as they become wet and thereby reduce the size of the pores. In areas where the ground is not protected by a layer of forest litter, raindrops can detach soil particles from the surface and wash fine particles into surface pores where they can impede the infiltration process.
+
+Wastewater collection systems consist of a set of lines, junctions, and lift stations to convey sewage to a wastewater treatment plant. When these lines are compromised by rupture, cracking, or tree root invasion , infiltration/inflow of stormwater often occurs. This circumstance can lead to a sanitary sewer overflow , or discharge of untreated sewage into the environment.
+
+Infiltration is a component of the general mass balance hydrologic budget. There are several ways to estimate the volume and water infiltration rate into the soil. The rigorous standard that fully couples groundwater to surface water through a non-homogeneous soil is the numerical solution of Richards' equation . A newer method that allows 1-D groundwater and surface water coupling in homogeneous soil layers and that is related to the Richards equation is the Finite water-content vadose zone flow method solution of the Soil Moisture Velocity Equation . In the case of uniform initial soil water content and deep, well-drained soil, some excellent approximate methods exist to solve the infiltration flux for a single rainfall event. Among these are the Green and Ampt (1911) method, Parlange et al. (1982). Beyond these methods, there are a host of empirical methods such as SCS method, Horton's method, etc., that are little more than curve fitting exercises.
+
+The general hydrologic budget, with all the components, with respect to infiltration F . Given all the other variables and infiltration is the only unknown, simple algebra solves the infiltration question.
+
+where
+
+The only note on this method is one must be wise about which variables to use and which to omit, for doubles can easily be encountered. An easy example of double counting variables is when the evaporation, E , and the transpiration, T , are placed in the equation as well as the evapotranspiration, ET . ET has included in it T as well as a portion of E . Interception also needs to be accounted for, not just raw precipitation.
+
+The standard rigorous approach for calculating infiltration into soils is Richards' equation , which is a partial differential equation with very nonlinear coefficients. The Richards equation is computationally expensive, not guaranteed to converge, and sometimes has difficulty with mass conservation.
+
+This method approximates Richards' (1931) partial differential equation that de-emphasizes soil water diffusion. This was established by comparing the solution of the advection-like term of the Soil Moisture Velocity Equation and comparing against exact analytical solutions of infiltration using special forms of the soil constitutive relations. Results showed that this approximation does not affect the calculated infiltration flux because the diffusive flux is small and that the finite water-content vadose zone flow method is a valid solution of the equation is a set of three ordinary differential equations , is guaranteed to converge and to conserve mass. It requires the assumption that the flow occurs in the vertical direction only (1-dimensional) and that the soil is uniform within layers.
+
+The name was derived from two men: Green and Ampt. The Green-Ampt method of infiltration estimation accounts for many variables that other methods, such as Darcy's law, do not. It is a function of the soil suction head, porosity, hydraulic conductivity, and time.
+
+where
+
+Once integrated, one can easily choose to solve for either volume of infiltration or instantaneous infiltration rate:
+
+Using this model one can find the volume easily by solving for F ( t ) {\displaystyle F(t)} . However, the variable being solved for is in the equation itself so when solving for this one must set the variable in question to converge on zero, or another appropriate constant. A good first guess for F {\displaystyle F} is the larger value of either K t {\displaystyle Kt} or 2 ψ Δ θ K t {\displaystyle {\sqrt {2\psi \,\Delta \theta Kt}}} . These values can be obtained by solving the model with a log replaced with its Taylor-Expansion around one, of the zeroth and second order respectively. The only note on using this formula is that one must assume that h 0 {\displaystyle h_{0}} , the water head or the depth of ponded water above the surface, is negligible. Using the infiltration volume from this equation one may then substitute F {\displaystyle F} into the corresponding infiltration rate equation below to find the instantaneous infiltration rate at the time, t {\displaystyle t} , F {\displaystyle F} was measured.
+
+Named after the same Robert E. Horton mentioned above, Horton's equation is another viable option when measuring ground infiltration rates or volumes. It is an empirical formula that says that infiltration starts at a constant rate, f 0 {\displaystyle f_{0}} , and is decreasing exponentially with time, t {\displaystyle t} . After some time when the soil saturation level reaches a certain value, the rate of infiltration will level off to the rate f c {\displaystyle f_{c}} .
+
+Where
+
+The other method of using Horton's equation is as below. It can be used to find the total volume of infiltration, F , after time t .
+
+Named after its founder Kostiakov is an empirical equation that assumes that the intake rate declines over time according to a power function.
+
+Where a {\displaystyle a} and k {\displaystyle k} are empirical parameters.
+
+The major limitation of this expression is its reliance on the zero final intake rate. In most cases, the infiltration rate instead approaches a finite steady value, which in some cases may occur after short periods of time. The Kostiakov-Lewis variant, also known as the "Modified Kostiakov" equation corrects this by adding a steady intake term to the original equation.
+
+in integrated form, the cumulative volume is expressed as:
+
+Where
+
+This method used for infiltration is using a simplified version of Darcy's law . Many would argue that this method is too simple and should not be used. Compare it with the Green and Ampt (1911) solution mentioned previously. This method is similar to Green and Ampt, but missing the cumulative infiltration depth and is therefore incomplete because it assumes that the infiltration gradient occurs over some arbitrary length L {\displaystyle L} . In this model the ponded water is assumed to be equal to h 0 {\displaystyle h_{0}} and the head of dry soil that exists below the depth of the wetting front soil suction head is assumed to be equal to − ψ − L {\displaystyle -\psi -L} .
+
+where
+
+or

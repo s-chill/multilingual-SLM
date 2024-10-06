@@ -1,0 +1,17 @@
+In metalworking , forming is the fashioning of metal parts and objects through mechanical deformation ; the workpiece is reshaped without adding or removing material, and its mass remains unchanged. Forming operates on the materials science principle of plastic deformation , where the physical shape of a material is permanently deformed.
+
+Metal forming tends to have more uniform characteristics across its subprocesses than its contemporary processes, cutting and joining .
+
+On the industrial scale, forming is characterized by:
+
+Forming processes tend to be categorised by differences in effective stresses. These categories and descriptions are highly simplified, since the stresses operating at a local level in any given process are very complex and may involve many varieties of stresses operating simultaneously, or it may involve stresses which change over the course of the operation.
+
+Compressive forming involves those processes where the primary means of plastic deformation is uni- or multiaxial compressive loading.
+
+Tensile forming involves those processes where the primary means of plastic deformation is uni- or multiaxial tensile stress.
+
+This category of forming processes involves those operations where the primary means of plastic deformation involves both tensile stresses and compressive loads.
+
+This category of forming processes involves those operations where the primary means of plastic deformation is a bending load.
+
+This category of forming processes involves those operations where the primary means of plastic deformation is a shearing load.
