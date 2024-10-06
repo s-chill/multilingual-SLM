@@ -26,7 +26,7 @@ def translate_text(text=text, project_id="zippy-entry-437816-i6", target_languag
     
     return response.translations[0].translated_text
 
-def translate_all_files(project_id="zippy-entry-437816-i6", input_folder="data", output_folder="translated"):
+def translate_all_files(project_id="zippy-entry-437816-i6", input_folder="test_data", output_folder="test_translated"):
 
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
