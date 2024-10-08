@@ -3,7 +3,7 @@
 ## Download the Google Cloud CLI
 https://cloud.google.com/sdk/docs/install
 
-run command (if not prompted to login with gmail):
+run command (if not prompted to login with gmail): \n
 gcloud auth login
 
 ### project id: "zippy-entry-437816-i6"
