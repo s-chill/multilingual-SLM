@@ -1,4 +1,4 @@
-# Welcome to our project!
+# Small Models, Big Languages: Enhancing Low-Resource Language Performance in Compact LLMs
 
 ## Navigation
 
