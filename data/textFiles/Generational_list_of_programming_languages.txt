@@ -1,3 +1,0 @@
-This is a "genealogy" of programming languages . Languages are categorized under the ancestor language with the strongest influence. Those ancestor languages are listed in alphabetic order. Any such categorization has a large arbitrary element, since programming languages often incorporate major ideas from multiple sources.
-
-JOSS also inspired features for several versions of BASIC, including Tymshare 's SUPER BASIC and DEC 's BASIC-PLUS .

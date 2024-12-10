@@ -1,9 +1,0 @@
-This is a timeline of events in the history of networked file sharing .
-
-Most file sharing in this era was done by modem over landline telephone, at speeds from 300 to 9600 bits per second. Many file systems in use only supported short filenames . Computer memory and speed was very limited, with 33 MHz CPUs only being accessible to consumers at the end of the decade.
-
-FTP, IRC and Usenet were the main vehicles for file sharing in this decade. Data compression technologies for audio and video (like MP3 , AAC and MPEG) came into use towards the end of the 1990s. Copper wire was common with fibre optic cable only becoming available late in the decade.
-
-In computer science terms, modern file sharing begins in the 2000s. Several file sharing protocols and file formats were introduced, along with nearly a decade in protocol experimentation. Towards the end of the 2000s, BitTorrent became subject to a "man in the middle" attack in TCP mode – and this has led most file sharing protocols to move to UDP towards the very end of the decade. Client and tracker software in this era was in development as much as the transmission protocols, so the file trading software was not always as reliable as it could have been.
-
-In computer science terms, there have been few significant developments in the 2010s. The BitTorrent protocol and clients have become more stable, adopting UDP to defend against transmission problems related to TCP. IPv6 support increased with clients and trackers.

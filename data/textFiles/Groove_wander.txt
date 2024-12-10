@@ -1,5 +1,0 @@
-Groove wander , similar to tramlining , is a lateral force acting on a vehicle's wheel resulting from the combination of rain grooves (grooves cut into roads to mitigate hydroplaning in light rain conditions) and contoured deformations in the road surface upon which the wheel runs.
-
-When the contact patch of the tire does not form to match the contours of the road surface the stiff tire edges tend to ride on and be guided (or tramlined) by the rain grooves within the surface contour.  This force is greater than the contact patch can counter and the resultant force is delivered to the wheel hub and axle , pushing the car laterally.  When all four wheels are acted upon in this way, the vehicle can experience rapid forces occurring from side to side and corner to corner (similar to encountering wind gusts, only from all four directions instead of just one).
-
-A mismatch between tire design and vehicle weight, or vehicle suspension design, or simply wheel alignment can all contribute to how severe the effect is.  Tire tread pattern can also cause, with straight grooved tires more susceptible to groove wander than diagonal or zig zag threads.

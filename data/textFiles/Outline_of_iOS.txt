@@ -1,5 +1,0 @@
-The following outline is provided as an overview of and topical guide to iOS:
-
-iOS – mobile operating system developed and distributed by Apple Inc. Originally released in 2007 for the iPhone and iPod Touch , it has since been extended to support other Apple devices such as the iPad and Apple TV . Unlike Windows CE ( Mobile and Phone ) and Android , Apple does not license iOS for installation on non-Apple hardware.
-
-History of the iPhone

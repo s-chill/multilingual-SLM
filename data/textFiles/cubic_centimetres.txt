@@ -1,9 +1,0 @@
-A cubic centimetre (or cubic centimeter in US English ) (SI unit symbol: cm ; non-SI abbreviations: cc and ccm ) is a commonly used unit of volume that corresponds to the volume of a cube that measures 1 cm × 1 cm × 1 cm. One cubic centimetre corresponds to a volume of one millilitre .  The mass of one cubic centimetre of water at 3.98 °C (the temperature at which it attains its maximum density ) is almost equal to one gram.
-
-In internal combustion engines , "cc" refers to the total volume of its engine displacement in cubic centimetres. The displacement can be calculated using the formula
-
-where d is engine displacement, b is the bore of the cylinders, s is length of the stroke and n is the number of cylinders.
-
-Conversions
-
-The "cubic centimetre" symbol is encoded by Unicode at code point U+33A4 ㎤ SQUARE CM CUBED .

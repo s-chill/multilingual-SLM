@@ -1,5 +1,0 @@
-The MAIDS (Motorcycle Accidents In Depth Study) report is a large-scale, comprehensive study of Powered Two Wheelers (PTW, i.e., motorcycles, scooters and mopeds) accidents carried out across five European countries, using both accident and exposure (or control ) cases, as was done in the Hurt Report , and following the standards of OECD . Starting in September, 1999, over 2000 variables were coded in each of 921 accidents, and exposure data was collected on an additional 923 cases, collected at five locations in France, Germany, Netherlands, Spain and Italy. The investigation was carried out under the auspices of the Association of European Motorcycle Manufacturers (ACEM) with the support of the European Commission
-
-Using EC terminology, mopeds are referred to as L1 vehicles, and motorcycles and scooters over 50cc are called L3 vehicles.
-
-The main findings of the report are (quoted verbatim):

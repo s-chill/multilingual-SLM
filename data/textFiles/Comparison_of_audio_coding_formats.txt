@@ -1,3 +1,0 @@
-The following tables compare general and technical information for a variety of audio coding formats .
-
-For listening tests comparing the perceived audio quality of audio formats and codecs, see the article Codec listening test .

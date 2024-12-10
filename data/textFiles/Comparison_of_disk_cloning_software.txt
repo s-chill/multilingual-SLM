@@ -1,1 +1,0 @@
-Disk cloning software facilitates a disk cloning operation by using software techniques to copy data from a source to a destination drive or to a disk image.

@@ -1,9 +1,0 @@
-The following tables compare general and technical information for a number of available database administration tools. Please see individual product articles for further information. This article is neither all-inclusive nor necessarily up to date.
-
-Systems listed on a light purple background are no longer in active development.
-
-Legend
-
-Legend:
-
-Legend:

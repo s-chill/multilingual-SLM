@@ -1,1 +1,0 @@
-The Oracle, ODBC, and DB2 CLI Template Library (OTL) is a C++ library for database access, written by Sergei Kuchin. The OTL exists since 1996. It consists of a single header file. Besides Oracle , the OTL supports DB2 (natively), and various database systems now, directly or indirectly, via ODBC .

@@ -1,9 +1,0 @@
-The Bachelor of Computer Science (abbreviated BCompSc or BCS ) is a bachelor's degree for completion of an undergraduate program in computer science . In general, computer science degree programs emphasize the mathematical and theoretical foundations of computing.
-
-Because computer science is a wide field, courses required to earn a bachelor of computer science degree vary. A typical list of course requirements includes topics such as:
-
-Some schools may place more emphasis on mathematics and require additional courses such as:
-
-Beyond the basic set of computer science courses, students can typically choose additional courses from a variety of different fields, such as:
-
-Some schools allow students to specialize in a certain area of computer science.

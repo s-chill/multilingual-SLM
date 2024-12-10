@@ -1,1 +1,0 @@
-Photogrammetry is the technique to extract geometric information from two-dimensional images or video.

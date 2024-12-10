@@ -1,9 +1,0 @@
-Eurobot is an international robotics contest dedicated to universities and robotics clubs.
-
-Eurobot, whose first edition took place in May 1998 in Paris was created by Nicolas Goldzahl (president of VM Productions) with the help of the association Planet Science , 4 years after the creation of the French cup of Robotics . To achieve this, in early 1997, Nicolas Goldzahl and Rachid Ait Mansour (Planet Science robotics manager) traveled across Europe to convince universities to participate in this new event. They met university leaders and showed them the videos and TV reports of the first editions of the French Robotics Cup, which already had a great success in France. A first tour in 1997 made it possible to recruit universities from Finland, Italy, Switzerland and Belgium. Many other countries joined the competition in the following years. Eurobot takes place in Europe but regularly hosts countries outside Europe (Tunisia, Algeria, Russia, Iran, Kuwait...).
-
-Video of the beginning of the competition: VIDEO The first years of EUROBOT 1994-2000
-
-In May 2018, 1500 students from 15 countries were involved in this science and technology contest, through its national qualifications and the international final that took place in La-Roche-Sur-Yon ( France ) > Video
-
-From 2008 to 2011, Eurobot was organized in parallel with the International Conference on Research and Education in Robotics . Four books of proceedings were published, during those years, under the editorial supervision of David Obdrzálek, Achim Gottscheber, Stefan Enderle and Colin T. Schmidt.

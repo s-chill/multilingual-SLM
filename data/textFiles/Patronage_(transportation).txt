@@ -1,3 +1,0 @@
-In public transportation , ridership refers to the number of people using a transit service. It is often summed or otherwise aggregated over some period of time for a given service or set of services and used as a benchmark of success or usefulness. Common statistics include the number of people served by an entire transit system in a year and the number of people served each day by a single transit line.
-
-The concept should not be confused with the maximum capacity of a particular vehicle or transit line.

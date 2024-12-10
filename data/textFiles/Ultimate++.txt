@@ -1,7 +1,0 @@
-U++ , formally known as Ultimate++ - is a C++ RAD framework that aims to reduce the code complexity of typical desktop applications by including all necessary toolkits into a single C++ framework. Programs created with it works on multiple Operating Systems and Hardware Architectures with performance without needing to write platform-specific code.
-
-It possesses an Integrated Development Environment called TheIDE that is designed to handle all library features.
-
-Some key features includes
-
-Example applications using U++ are:

@@ -1,9 +1,0 @@
-phpMyAdmin is a free and open source administration tool for MySQL and MariaDB . As a portable web application written primarily in PHP , it has become one of the most popular MySQL administration tools, especially for web hosting services .
-
-Tobias Ratschiller, then an IT consultant and later founder of the software company Maguma, started to work on a PHP-based web front-end to MySQL in 1998, inspired by MySQL-Webadmin. He gave up the project (and phpAdsNew , of which he was also the original author) in 2000 because of lack of time.
-
-By that time, phpMyAdmin had already become one of the most popular PHP applications and MySQL administration tools, with a large community of users and contributors. In order to coordinate the growing number of patches , a group of three developers (Olivier Müller, Marc Delisle and Loïc Chapeaux) registered The phpMyAdmin Project at SourceForge and took over the development in 2001.
-
-In July 2015, the main website and the downloads left SourceForge and moved to a content delivery network . At the same time, the releases began to be PGP-signed. Afterwards, issue tracking moved to GitHub and the mailing lists migrated. Before version 4, which uses Ajax extensively to enhance usability, the software used HTML frames .
-
-Features provided by the program include:

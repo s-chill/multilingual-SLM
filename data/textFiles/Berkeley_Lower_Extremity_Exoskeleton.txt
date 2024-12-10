@@ -1,7 +1,0 @@
-The Berkeley Lower Extremity Exoskeleton (BLEEX) is a robotic device that attaches to the lower body . Its purpose is to complement the user's strength by adding extra force to the user's lower extremity bodily movements. The BLEEX was funded by the Defense Advanced Research Projects Agency (DARPA), and developed by the Berkeley Robotics and Human Engineering Laboratory, a unit within the University of California, Berkeley Department of Mechanical Engineering .  DARPA provided the initial $50 million of start-up funds in 2001.
-
-The BLEEX has four hydraulically actuated joints: two at the hip, one at the knee, and one at the ankle. The BLEEX is energetically autonomous , meaning it has an on-board power supply.
-
-Development later moved to Lockheed Martin, where the device became known as the Human Universal Load Carrier , or HULC.
-
-The BLEEX consumes 1143 watts of hydraulic power during ground-level walking along with another 200 watts of electrical power for electronics. It can support a load of 75 kilograms (165 lb) while walking at 0.9 metres per second (3.0 ft/s), and can walk at up to 1.3 metres per second (4.3 ft/s) without any load.

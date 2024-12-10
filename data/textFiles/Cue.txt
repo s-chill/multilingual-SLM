@@ -1,9 +1,0 @@
-Cue (formerly known as Greplin ) was a website and app co-founded by Daniel Gross , Shai Magzimof, and Robby Walker that pulled information from online accounts to present an overview of a user's day.
-
-Cue operated by linking various user accounts belonging to a registered individual and running a query search for keywords within those applications or accounts. For example, someone may have wanted to use a single search feature to check their Facebook , LinkedIn and Twitter accounts without signing in and checking each one individually.
-
-Cue acted as a desktop search, indexing online social networking accounts, and thereby creating a " personal cloud ." Cue offered a free version that allowed users to add a certain number of accounts, while a paid version allowed users the option to "unlock" other sources and get more index space.
-
-In 2011, Cue raised $4 million in funding from venture capital firm Sequoia . Their premium services were $5 per month, which included 500 MB of extra storage space, and $15 per month for an additional 2 GB.
-
-In October 2013, Apple Inc. bought the company, for a price estimated between $35 and $45 million. Cue premium users were refunded.

@@ -1,9 +1,0 @@
-George G. Robertson is an American information visualization expert and senior researcher, Visualization and Interaction (VIBE) Research Group, Microsoft Research. With Stuart K. Card , Jock D. Mackinlay and others he invented a number of Information Visualization techniques.
-
-Robertson has worked as a faculty member of the Computer Science Department at Carnegie-Mellon University , a senior scientist at Thinking Machines , and a senior scientist at Bolt Beranek and Newman . Before his current position at Microsoft he was principal scientist at Xerox PARC . Since 1996 he is a principal researcher in the Visualization and Interaction group at Microsoft Research.
-
-He is an ACM Fellow and manages a project on 3D User Interfaces and Information Visualization. He is associate editor of the Journal of Information Visualization .
-
-Robertson's research interests are "user interfaces, 3D interactive animation, 3D graphics, information visualization, intelligent information access, multimedia, and hypermedia", see also: Connection Machine and Gender HCI
-
-Articles, a selection:

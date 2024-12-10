@@ -1,9 +1,0 @@
-Sentence boundary disambiguation ( SBD ), also known as sentence breaking , sentence boundary detection , and sentence segmentation , is the problem in natural language processing of deciding where sentences begin and end. Natural language processing tools often require their input to be divided into sentences; however, sentence boundary identification can be challenging due to the potential ambiguity of punctuation marks . In written English , a period may indicate the end of a sentence, or may denote an abbreviation , a decimal point , an ellipsis , or an email address, among other possibilities. About 47% of the periods in The Wall Street Journal corpus denote abbreviations. Question marks and exclamation marks can be similarly ambiguous due to use in emoticons , source code , and slang .
-
-Some languages including Japanese and Chinese have unambiguous sentence-ending markers.
-
-The standard ' vanilla ' approach to locate the end of a sentence:
-
-This strategy gets about 95% of sentences correct. Things such as shortened names, e.g. " D. H. Lawrence " (with whitespaces between the individual words that form the full name), idiosyncratic orthographical spellings used for stylistic purposes (often referring to a single concept, e.g. an entertainment product title like " .hack//SIGN ") and usage of non-standard punctuation (or non-standard usage of punctuation) in a text often fall under the remaining 5%.
-
-Another approach is to automatically learn a set of rules from a set of documents where the sentence breaks are pre-marked. Solutions have been based on a maximum entropy model . The SATZ architecture uses a neural network to disambiguate sentence boundaries and achieves 98.5% accuracy.

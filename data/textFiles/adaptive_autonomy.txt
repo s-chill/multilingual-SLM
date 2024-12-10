@@ -1,9 +1,0 @@
-Adaptive autonomy refers to a suggestion for the definition of the notation ' autonomy ' in mobile robotics .
-
-The extremist idea of "eliminate the human from the field" rendered the ironies of automation to the extent that the researchers in the related fields shifted the paradigm to the idea of "best-fit autonomy for the computers", to provide more humane automation solutions.
-
-One of the first human-machine function-allocation methods was presented by P. M. Fitts in 1951, which was used in automation systems design. Nevertheless, the function allocation concept remains problematic after half a century, and the basic validity of formal function allocation methods has been challenged repeatedly.
-
-The peripheral situations affect the performance of cybernetic systems; therefore, though one-shot human-centered automation (HCA) designs might provide better results than the systems designed based on the "automate it as possible" philosophy; however, these designs fail to maintain the advantages of the HCA designs, when the peripheral situations change.
-
-Consequently, the automation solutions should be smart enough to adapt the level of automation (LOA) to the changes in peripheral situations. This concept is known as adaptive automation or adjustable autonomy ; however, the term "adaptive autonomy" (AA) is widely considered more appropriate to prevent confusion with the phrases like adaptive control and adaptive automation in systems control terminology.

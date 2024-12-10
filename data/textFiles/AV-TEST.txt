@@ -1,9 +1,0 @@
-AV-TEST is an independent organization which evaluates and rates antivirus and security suite software for Microsoft Windows , macOS and Android operating systems, according to a variety of criteria. The organisation is based in Magdeburg , Germany.
-
-Every other month, the researchers publish the results of their testing, where they list which products they awarded their certification. They regularly test antivirus, anti-spyware and firewall software for the software publishers and for magazines. In the field of product certification they work together with Tekit Consult Bonn GmbH (TÜV Saarland group).
-
-AV-TEST is a member of the Anti-Malware Testing Standards Organization .
-
-It was founded by Andreas Marx (CEO) and Guido Habicht.
-
-In 2013, the security specialist and CEO of IT security company Kaspersky Lab , Eugene Kaspersky , criticized AV-TEST for changing their certification process.

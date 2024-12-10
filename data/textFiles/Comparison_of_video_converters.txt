@@ -1,3 +1,0 @@
-Video converters are computer programs that can change the storage format of digital video. They may recompress the video to another format in a process called transcoding , or may simply change the container format without changing the video format. The disadvantages of transcoding are that there is quality loss when transcoding between lossy compression formats, and that the process is highly CPU -intensive.
-
-This article compares video converters that have their own articles on Wikipedia.

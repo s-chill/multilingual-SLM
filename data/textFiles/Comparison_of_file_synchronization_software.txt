@@ -1,5 +1,0 @@
-This is a list of file synchronization software for which there are Wikipedia articles.
-
-This is a comparison of the freeware ( proprietary software release free of charge ) file synchronization software.
-
-This is a comparison of commercial software in the field of file synchronization. These programs only provide full functionality with a payment. As indicated, some are trialware and provide functionality during a trial period; some are freemium , meaning that they have freeware editions.

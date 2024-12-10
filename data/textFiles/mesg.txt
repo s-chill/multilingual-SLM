@@ -1,7 +1,0 @@
-mesg is a Unix command that sets or reports the permission other users have to write to the current user's terminal using the talk and write commands.
-
-It is invoked as:
-
-The 'y' and 'n' options respectively allow and disallow write access to the current user's terminal. When invoked with no option, the current permission is printed.
-
-Input redirection may be used to control the permission of another TTY .  For example:

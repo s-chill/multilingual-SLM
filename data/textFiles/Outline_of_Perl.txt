@@ -1,5 +1,0 @@
-The following outline is provided as an overview of and topical guide to the Perl programming language:
-
-Perl – high-level , general-purpose , interpreted , multi-paradigm , dynamic programming language . Perl was originally developed by Larry Wall in 1987 as a general-purpose Unix scripting language to make report processing easier. Since then, it has undergone many changes and revisions and become widely popular amongst programmers. Larry Wall continues to oversee development of Raku . Note that Perl and Raku are receiving ongoing development, therefore making Perl a family of programming languages. It stands for Practical Extraction and Reporting Language which processes data using pattern matching technique.
-
-Perl language structure

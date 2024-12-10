@@ -1,5 +1,0 @@
-LISA is the USENIX special interest group for system administrators .  LISA was known officially as the System Administrators Guild until November 2003; from 2003 to 2010, it was known as SAGE .
-
-In March 2016 it was announced that LISA was being retired.
-
-In June 2004, SAGE was dissolved as a Special Technical Group to prepare for a spin-off from its parent organization, USENIX .  On October 27, 2005, the USENIX Board, by a 4–4 vote,  failed to approve a motion to progress the separation of SAGE from USENIX, declaring instead that SAGE is better as a suborganization. This contributed to the formation of LOPSA by individuals involved in the aborted spinoff.

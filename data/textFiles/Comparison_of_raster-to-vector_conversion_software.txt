@@ -1,1 +1,0 @@
-The following tables contain general and technical information about publicly available raster-to-vector conversion software.

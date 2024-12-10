@@ -1,7 +1,0 @@
-WEAP (the Water Evaluation and Planning system ) is a model-building tool for water resource planning and policy analysis that is distributed at no charge to non-profit, academic, and governmental organizations in developing countries.
-
-WEAP can be used to create simulations of water demand , supply , runoff, evapotranspiration , water allocation, infiltration , crop irrigation requirements, instream flow requirements, ecosystem services , groundwater and surface storage, reservoir operations, pollution generation, treatment, discharge, and instream water quality . The simulations can be created under scenarios of varying policy, hydrology , climate, land use, technology, and socio-economic factors. WEAP links to the USGS MODFLOW groundwater flow model and the US EPA QUAL2K surface water quality model.
-
-WEAP was created in 1988 and continues to be developed and supported by the U.S. Center of the Stockholm Environment Institute , a non-profit research institute based at Tufts University in Somerville , Massachusetts. It is used for climate change vulnerability studies and adaptation planning and has been applied by researchers and planners in thousands of organizations worldwide.
-
-Establishing the ‘current accounts’ and building scenarios and evaluating the scenarios about criteria are the main WEAP applications in Simulation problems.

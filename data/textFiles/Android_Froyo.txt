@@ -1,7 +1,0 @@
-Android Froyo is the sixth version of Android and is a codename of the Android mobile operating system developed by Google , spanning versions between 2.2 and 2.2.3. Those versions are no longer supported.
-
-It was unveiled on May 20, 2010, during the Google I/O 2010 conference. Google ceased sign-in support with a Google account for Android Froyo to Android Gingerbread on September 27, 2021.
-
-One of the most prominent changes in the Froyo release was USB tethering and Wi-Fi hotspot functionality. Other changes include support for the Android Cloud to Device Messaging (C2DM) service, enabling push notifications, additional application speed improvements, implemented through JIT compilation and displayed within applications as top-of-the-screen banners.
-
-New features introduced by Froyo include the following:

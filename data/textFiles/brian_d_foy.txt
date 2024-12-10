@@ -1,5 +1,0 @@
-brian d foy [ sic ] is the former publisher and editor of The Perl Review , a magazine devoted to Perl and co-author of several books on Perl including Learning Perl , Intermediate Perl and Mastering Perl . He is also the founder of Perl Mongers , the founder of the White Camel Awards, a frequent speaker at conferences including The Perl Conference and YAPC ( Yet Another Perl Conference ). He is the author of multiple Perl modules on CPAN and maintains the perlfaq portions of the core Perl documentation. He was a partner at Stonehenge Consulting Services from 1998 to 2009.
-
-In 2014 he revitalized the PerlPowerTools AKA PPT project. In February 1999, Tom Christiansen announced the PerlPowerTools project to provide a unified BSD toolbox,
-i.e. a reimplementation of the classic Unix command set in pure Perl.
-Perl is the same (mostly) everywhere you go and the same programs could run the same everywhere instead of being reimplemented for each platform.

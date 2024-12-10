@@ -1,5 +1,0 @@
-The Fishery Resources Monitoring System ( FIRMS ) is a partnership of intergovernmental fisheries organizations that share information on the global monitoring and management of marine fishery resources.
-
-This code of conduct, adopted by FAO members on 31 October 1995, contains a broad set of principles and methods for developing and managing fisheries and aquaculture. A voluntary, non-binding instrument, the code is widely recognized as the global standard for settling out the aims of sustainable fisheries and aquaculture for the coming decades.
-
-Currently, the FIRMS partnership is composed of 13 international organizations:

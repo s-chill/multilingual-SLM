@@ -1,9 +1,0 @@
-Pete Becker is a consultant and computer programmer, recognized as one of the world's foremost experts in the C++ programming language . He has been contributing to the C++ standardization process since its start and has authored several publications, including magazine articles and columns, and a book on the first C++ Library Technical Report (aka TR1 ).
-
-Becker worked for eight years at Borland International as a quality assurance engineer and manager, library implementor, and development manager. From 1997 to 2005 he was employed at Dinkumware , working on the source code and documentation of their C++ Standard Library and C Standard Library implementations.
-
-Becker has been a member of the ISO/IEC (JTC1/SC22/WG21) C++ Standards committee since its inception in 1991. His work includes a proposal for standard support of dynamic libraries and arbitrary-precision arithmetic in C++. He has been the Project Editor from 2004 until 2011, when C++11 was released.
-
-Becker has written several columns and articles, focusing primarily on C++ . From 1995 to 2001, Becker was a regular columnist for C/C++ Users Journal . From 2005 to 2006 he wrote a monthly column entitled "The New C++ Not-So-Standard Library", focusing on various aspects of the C++ TR1 library extensions. After C/C++ Users Journal merged with Dr Dobb's Journal , Becker's column reappeared as "The New C++", now focusing on more general aspects of C and C++ programming.
-
-In 2006 he published The C++ Standard Library Extensions: A Tutorial and Reference , a book covering the new functions and components proposed as extensions to the C++ Standard Library in C++ Technical Report 1 .

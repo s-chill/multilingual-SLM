@@ -1,5 +1,0 @@
-A vacuum servo is a component used on motor vehicles in their braking system, to provide assistance to the driver by decreasing the braking effort. In the US it is commonly called a brake booster .
-
-A vacuum servo, also known as a power booster or power brake unit, uses a vacuum, usually supplied by the engine, to multiply the driver's pedal effort and apply that effort to the master cylinder .
-
-Because the servo depends on the vacuum supplied by a running engine, a check valve is typically used in the vacuum line to maintain residual vacuum without engine support, allowing limited use even after parking.

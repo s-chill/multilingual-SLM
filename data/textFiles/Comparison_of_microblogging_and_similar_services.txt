@@ -1,5 +1,0 @@
-The tables below compare general and technical information for some notable active microblogging services, and also social network services that have status updates .
-
-An overview of integral features. Extras may be provided by third party applications/services, but are not listed here.
-
-Communication methods supported by the services. Extras may be provided by third party applications/services, but are not listed here.

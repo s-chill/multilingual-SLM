@@ -1,3 +1,0 @@
-Grassroots DICOM or GDCM (originally called GNU DiCoM ; the name was changed at a request for integration in ITK , followed by a change in license), is a cross-platform library written in C++ for DICOM medical files. It is automatically wrapped to Python/C#/Java & PHP (using SWIG ). It supports RAW, JPEG (lossy/lossless), J2K, JPEG-LS, RLE and deflated. It also comes with DICOM Part 3,6 & 7 of the standard as XML files. It can be used to build a JPIP or WADO server.
-
-Since release 2.2.0 the toolkit comes with an SCU implementation for:

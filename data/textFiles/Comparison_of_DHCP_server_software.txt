@@ -1,5 +1,0 @@
-The following comparison of DHCP and DHCPv6 server compares general and technical information for several DHCP server software programs.
-
-In this overview of operating system support for the discussed DHCP server, the following terms indicate the level of support:
-
-This compilation is not exhaustive, but rather reflects the most common platforms today.

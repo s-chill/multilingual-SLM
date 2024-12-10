@@ -1,9 +1,0 @@
-This is a comparison of notable free and open-source configuration management software , suitable for tasks like server configuration, orchestration and infrastructure as code typically performed by a system administrator .
-
-"Verify mode" (also called dry run ) refers to having an ability to determine whether a node is conformant with a guarantee of not modifying it, and typically involves the exclusive use of an internal language supporting read-only mode for all potentially system-modifying operations. Mutual authentication (mutual auth) refers to the client verifying the server and vice versa.
-
-Agent describes whether additional software daemons are required. Depending on the management software these agents are usually deployed on the target system or on one or many central controller servers.  Although Agent-less = No is colored red and might seem to be a negative, instead, having an agent can be considered quite advantageous to many. Consider the impact if an agent-less tool loses connectivity to a node while making critical changes—leaving the node in an indeterminate state that compromises its (production?) function.
-
-Note: This means platforms on which a recent version of the tool has actually been used successfully, not platforms where it should theoretically work since it is written in good portable C/C++ or an interpreted language. It should also be listed as a supported platform on the project's web site.
-
-Not all tools have the same goal and the same feature set. To help distinguish between all of these software packages, here is a short description of each one.

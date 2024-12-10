@@ -1,3 +1,0 @@
-The chainline is the angle of a bicycle chain relative to the centerline of the bicycle frame . A bicycle is said to have a perfect chainline if the chain is parallel to the centerline of the frame, which means that the rear sprocket is directly behind the front chainring . Chainline can also refer to the distance between a sprocket and the centerline of the frame.
-
-Bicycles without a straight chainline are slightly less efficient due to frictional losses incurred by running the chain at an angle between the front chainring and rear sprocket. This is the main reason that a single-speed bicycle can be more efficient than a derailleur geared bicycle. Single-speed bicycles should have the straightest possible chainline.

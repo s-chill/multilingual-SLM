@@ -1,5 +1,0 @@
-This article presents a timeline of events in the history of 16-bit x86 DOS -family disk operating systems from 1980 to present. Non-x86 operating systems named "DOS" are not part of the scope of this timeline.
-
-Also presented is a timeline of events in the history of the 8-bit 8080 -based and 16-bit x86-based CP/M operating systems from 1974 to 2014, as well as the hardware and software developments from 1973 to 1995 which formed the foundation for the initial version and subsequent enhanced versions of these operating systems.
-
-DOS releases have been in the forms of:

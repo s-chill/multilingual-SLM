@@ -1,5 +1,0 @@
-Junger v. Daley is a court case brought by Peter Junger challenging restrictions on the export of encryption software outside of the United States .
-
-The case was first brought in 1996 (as Junger v. Christopher ), when Junger was a professor at Case Western Reserve University and wanted to teach a class on computer law .  Because of the restrictions, he was unable to accept non-US citizens into his class.
-
-Following a district court victory in the Bernstein v. United States case on the same matter, Junger amended his complaint to ask for an injunction on enforcement of the regulations prohibiting his publication of encryption course materials on the Internet. The case led to an important ruling in 2000, with the Sixth Circuit holding that software source code is protected by the First Amendment .

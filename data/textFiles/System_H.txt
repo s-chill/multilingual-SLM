@@ -1,9 +1,0 @@
-CCIR System H is an analog broadcast television system used in Belgium , Bosnia and Herzegovina , Croatia , Malta , Slovenia and Liberia on UHF bands, paired with System B on VHF . It was associated with PAL colour.
-
-Some of the important specs are listed below.
-
-A frame is the total picture. The frame rate is the number of pictures displayed in one second. But each frame is actually scanned twice interleaving odd and even lines. Each scan is known as a field (odd and even fields.) So field rate is twice the frame rate. In each frame there are 625 lines (or 312.5 lines in a field.) So line rate (line frequency) is 625 times the frame frequency or 625•25=15625 Hz.
-
-The RF parameters of the transmitted signal are almost the same as those for System B which is used on the 7.0 MHz wide channels of the VHF bands. The only difference to the RF spectrum of the signal is that the vestigial sideband is 500 kHz wider at 1.25 MHz. Due to this and the extra width of the channel allocations at UHF, the width of the guard band between the channels is 650 kHz (assuming the worst case which is when NICAM sound is in use).
-
-Many countries use a variant of system H which is known as System G . System G is similar to system H but the lower (vestigial) side band is 500 kHz narrower. This makes poor use of the 8.0 MHz channels of the UHF bands by merely increasing the width of the guard-band by 500 kHz to 1.15 MHz. The advantage(?) is that the RF spectrum of system G (on UHF) is the same as system B (on VHF), simplifying the band-switching circuitry in VHF/UHF televisions.

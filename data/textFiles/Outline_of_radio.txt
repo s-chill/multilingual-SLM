@@ -1,9 +1,0 @@
-The following outline is provided as an overview of and topical guide to radio:
-
-Radio – transmission of signals by modulation of electromagnetic waves with frequencies below those of visible light . Electromagnetic radiation travels by means of oscillating electromagnetic fields that pass through the air and the vacuum of space. Information is carried by systematically changing ( modulating ) some property of the radiated waves, such as amplitude , frequency , phase , or pulse width. When radio waves pass an electrical conductor, the oscillating fields induce an alternating current in the conductor. This can be detected and transformed into sound or other signals that carry information.
-
-Radio
-
-History of radio
-
-Radio science

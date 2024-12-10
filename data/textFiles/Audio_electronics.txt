@@ -1,9 +1,0 @@
-Audio equipment refers to devices that reproduce, record, or process sound . This includes microphones , radio receivers , AV receivers , CD players , tape recorders , amplifiers , mixing consoles , effects units , headphones , and speakers .
-
-Audio equipment is widely used in many different scenarios, such as concerts , bars , meeting rooms and the home where there is a need to reproduce, record and enhance sound volume.
-
-Electronic circuits considered a part of audio electronics may also be designed to achieve certain signal processing operations, in order to make particular alterations to the signal while it is in the electrical form.
-
-Audio signals can be created synthetically through the generation of electric signals from electronic devices.
-
-Audio electronics were traditionally designed with analog electric circuit techniques until advances in digital technologies were developed. Moreover, digital signals are able to be manipulated by computer software much the same way audio electronic devices would, due to its compatible digital nature . Both analog and digital design formats are still used today, and the use of one or the other largely depends on the application.

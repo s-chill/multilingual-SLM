@@ -1,5 +1,0 @@
-This is a comparison of widget engines .  This article is not about widget toolkits that are used in computer programming to build graphical user interfaces .
-
-Which programming languages the engines support. Most engines rely upon interpreted languages .
-
-As widgets are largely combinations of HTML or XHTML, CSS, and Javascript in most cases, standard AJAX tools, such as Eclipse ATF , can be used for development. Specialized tools may give access to additional capabilities supplied by frameworks such as Dojo or Openrico.

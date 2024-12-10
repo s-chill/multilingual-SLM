@@ -1,5 +1,0 @@
-The following tables detail e-book reader software for the Android operating system. Each section corresponds to a major area of functionality in an e-book reader software. The comparisons are based on the latest released version.
-
-See Comparison of e-book formats for details on the file formats.
-
-Other e-book readers for Android devices include: BookShout!, Nook e-Reader applications for third party devices and OverDrive Media Console . Additionally, Palmbookreader reads some formats (such as PDB and TXT) on Palm OS and Android devices. The Readmill app, introduced in February 2011, reads numerous formats on Android and iOS devices but shut down July 1, 2014. Another popular app Bluefire Reader was removed from Google Play Store in 2019.

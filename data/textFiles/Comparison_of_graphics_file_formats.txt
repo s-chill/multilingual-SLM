@@ -1,3 +1,0 @@
-This is a comparison of image file formats (graphics file formats). This comparison primarily features file formats for 2D images .
-
-Ownership of the format and related information.

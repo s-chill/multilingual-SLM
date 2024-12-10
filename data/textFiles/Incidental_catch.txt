@@ -1,5 +1,0 @@
-In fishing, incidental catch refers to the portion of the catch that was unintentionally caught but retained. It can be distinguished from discards , which are the unintended catch that is caught and then returned to the sea, and bycatch , which includes all non-targeted species caught alongside the targeted species.
-
-Bycatch = Incidental catch + Discarded catch
-
-The operational definitions used by the FAO for incidental catch and other related catches are as follows:

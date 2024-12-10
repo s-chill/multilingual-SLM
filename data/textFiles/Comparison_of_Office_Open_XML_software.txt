@@ -1,5 +1,0 @@
-The Office Open XML format ( OOXML ), is an open and free document file format for saving and exchanging editable office documents such as text documents (including memos, reports, and books), spreadsheets , charts , and presentations.
-
-The following tables list applications supporting a version of the Office Open XML standard (ECMA-376 and ISO/IEC 29500:2008).
-
-Besides word processors, other programs can and do support the Office Open XML text format. See the list of software that supports Office Open XML for more.

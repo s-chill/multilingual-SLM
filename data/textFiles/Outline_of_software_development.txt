@@ -1,9 +1,0 @@
-mychillo
-
-The following outline is provided as an overview of and topical guide to software development:
-
-Software development – development of a software product, which entails computer programming (process of writing and maintaining the source code ), and encompasses a planned and structured process from the conception of the desired software to its final manifestation. Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products.
-
-Software development can be described as all of the following:
-
-While the information technology (IT) industry undergoes changes faster than any other field, most technical experts agree that one must have a community to consult, learn from, or share experiences with. Here is a list of well-known software development organizations.

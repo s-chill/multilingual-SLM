@@ -1,9 +1,0 @@
-The Wide-Mouth Frog protocol is a computer network authentication protocol designed for use on insecure networks (the Internet for example). It allows individuals communicating over a network to prove their identity to each other while also preventing eavesdropping or replay attacks, and provides for detection of modification and the prevention of unauthorized reading. This can be proven using Degano.
-
-The protocol was first described under the name "The Wide-mouthed-frog Protocol" in the paper "A Logic of Authentication" (1990), which introduced Burrows–Abadi–Needham logic , and in which it was an "unpublished protocol ... proposed by" coauthor Michael Burrows . The paper gives no rationale for the protocol's whimsical name.
-
-The protocol can be specified as follows in security protocol notation :
-
-Note that to prevent active attacks, some form of authenticated encryption (or message authentication) must be used.
-
-The protocol has several problems:

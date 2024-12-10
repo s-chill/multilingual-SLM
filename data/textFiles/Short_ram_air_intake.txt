@@ -1,9 +1,0 @@
-A ram-air intake is any intake design which uses the dynamic air pressure created by vehicle motion, or ram pressure , to increase the static air pressure inside of the intake manifold on an internal combustion engine, thus allowing a greater massflow through the engine and hence increasing engine power.
-
-The ram-air intake works by reducing the intake air velocity by increasing the cross-sectional area of the intake ducting. When gas velocity goes the pressure is increased. The increased pressure in the air box will ultimately have a positive effect on engine output as more oxygen will enter the cylinder during each engine cycle.
-
-Ram-air systems are used on high-performance vehicles, most often on motorcycles and performance cars. The 1990 Kawasaki Ninja  ZX-11 C1 model used a ram-air intake, the very first on any production motorcycle. Ram-air was a feature on some cars in the sixties. It fell out of favor in the seventies, but recently made a comeback.  While ram-air intakes may increase the volumetric efficiency of an engine, they can be difficult to combine with carburetors, which rely on a venturi -engineered pressure drop to draw fuel through the main jet.  As the pressurised ram-air may kill this venturi effect, the carburetor needs to be designed to take this into account, or, alternatively, the engine may need fuel-injection .
-
-At low speeds (subsonic speeds) increases in static pressure are however limited to a few percent.
-
-Pitot sensors are used to measure ram pressure which, along with static pressure, is used to estimate the airspeed of an aircraft.

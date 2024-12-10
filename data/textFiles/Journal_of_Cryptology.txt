@@ -1,1 +1,0 @@
-The Journal of Cryptology ( ISSN 0933-2790 ) is a scientific journal in the field of cryptology and cryptography . The journal is published quarterly by the International Association for Cryptologic Research . Its editor-in-chief is Vincent Rijmen .

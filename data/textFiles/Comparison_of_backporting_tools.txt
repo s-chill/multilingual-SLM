@@ -1,3 +1,0 @@
-Java backporting tools are programs (usually written in Java ) that convert Java classes bytecodes from one version of the Java Platform to an older one (for example Java 5.0 backported to 1.4).
-
-The JVM has evolved a lot for the past years. However, most language features that were added are simply a syntactic sugar. They do not require new byte-code, hence can be compiled to the Java 8. But, since the Java language was always bound to the JVM development, new language features require the same target as the JVM because they get released all together.

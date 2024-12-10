@@ -1,3 +1,0 @@
-This is a compendium of software tools that support continuous integration .
-
-The following table compares notable continuous integration software on the basis of version control support.

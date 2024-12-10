@@ -1,4 +1,0 @@
-Design, Automation & Test in Europe , or DATE is a yearly conference on the topic of electronic design automation .  It is typically held in March or April of each year, alternating between France and Germany. It is sponsored by the SIGDA of the Association for Computing Machinery , the Electronic System Design Alliance , the European Design and Automation Association (EDAA), and the IEEE Council on Electronic Design Automation (CEDA).
-Technical co-sponsors include ACM SIGBED , the IEEE Solid-State Circuits Society (SSCS), IFIP , and the Institution of Engineering and Technology (IET).
-
-DATE is a combination of an technical conference and a small trade show . It was formed in 1998 as a merger of EDAC, ETC, Euro-ASIC, and Euro-DAC.

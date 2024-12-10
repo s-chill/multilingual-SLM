@@ -1,3 +1,0 @@
-This is a comparison of regular expression engines .
-
-NOTE: An application using a library for regular expression support does not necessarily support the full set of features of the library, e.g., GNU grep uses PCRE, but supports no lookahead, though PCRE does.

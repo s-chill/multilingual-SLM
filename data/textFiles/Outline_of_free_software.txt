@@ -1,5 +1,0 @@
-The following outline is provided as an overview of and topical guide to free software and the free software movement:
-
-Free software – software which can be run , studied, examined, modified , and redistributed freely (without any cost). This type of software, which was given its name in 1983, has also come to be known as " open-source software ", "software libre",  " FOSS ", and "FLOSS". The term "Free" refers to it being unfettered , rather than being free of charge.
-
-Free and open-source software packages (by type)

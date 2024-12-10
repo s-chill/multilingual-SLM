@@ -1,7 +1,0 @@
-The e-puck is a small (7 cm) differential wheeled mobile robot . It was originally designed for micro-engineering education by Michael Bonani and Francesco Mondada at the ASL laboratory of Prof. Roland Siegwart at EPFL ( Lausanne , Switzerland ). 
-The e-puck is open hardware and its onboard software is open-source , and is built and sold by several companies.
-
-New modules can be stacked on top of the e-puck; the following extensions are available:
-
-Since the e-puck is open hardware, its price is lower than competitors. This is leading to a rapid adoption by the scientific community in research despite the original educational orientation of the robot.
-The e-puck has been used in collective robotics [1] [2] [3] , evolutionary robotics [4] , and art-oriented robotics [5] [6] [7] .

@@ -1,9 +1,0 @@
-Polarizing organic photovoltaics (ZOPV) is a concept for harvesting energy from Liquid crystal display screens, developed by engineers from UCLA . This concept enables devices to use external light and the LCD screen's backlight using photovoltaic polarizers. Photovoltaic polarizers convert this light into electricity which can be used to power the device. This concept also provides multifunctional capability to devices with LCD screens as they act as photovoltaic devices and as polarisers .
-
-A liquid crystal display (LCD) is a flat panel display , electronic visual display , video display that uses the light modulating properties of liquid crystals (LCs).  LCs do not emit light directly. They are used in a wide range of applications, including computer monitors , television , instrument panels, laptops tablet computers etc. They are common in consumer devices such as video players, gaming devices, clocks , watches, calculators , and telephones .
-
-Up to three-fourths of the light energy wasted from LCD backlight illumination can be retrieved and used using polarizing organic photovoltaics. They can use external light energy also apart from backlight illumination using photovoltaic polarizers, which are present within the structure of the LCD screen.
-
-80% to 90% of the total energy used by any device with an LCD screen is used up by the backlight illumination. As polarizing organic photovoltaics can recycle up to 75% of wasted light energy, the efficiency of the device is increased.
-
-This simply incorporates additional conversion efficiency losses.  These devices harvest their own light.  The article cited above, "Photovoltaics Could Charge A Phone Using Its Own Backlight" is bogus and makes claims that would violate the 1st and 2nd laws of thermodynamics if true.  Such a device thus could not be patented and commercialized.  See also: Perpetual Motion Machine

@@ -1,5 +1,0 @@
-Split sound is an old system in analog television transmitters . It has long been superseded, but transmitters working on this principle are still in use. In this system there are two almost independent transmitters, one for sound (aural) and one for picture (visual). The system requires more energy input relative to broadcast energy than the alternative system known as intercarrier system .
-
-All superheterodyne transmitters have the following stages:
-
-In split sound TV broadcasting, two of each of the above stages (except the antenna system) are required, one for sound and one for video. At the output of the RF amplifiers both signals are  combined by a high-power diplexer ; the combined signal is transmitted.

@@ -1,5 +1,0 @@
-This comparison of programming languages compares how object-oriented programming languages such as C++ , Java , Smalltalk , Object Pascal , Perl , Python , and others manipulate data structures .
-
-How to declare a property named "Bar"
-
-How to access members of an object x

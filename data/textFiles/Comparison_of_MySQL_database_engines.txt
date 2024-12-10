@@ -1,1 +1,0 @@
-This is a comparison between notable database engines for the MySQL database management system (DBMS). A database engine (or "storage engine") is the underlying software component that a DBMS uses to create, read, update and delete (CRUD) data from a database .

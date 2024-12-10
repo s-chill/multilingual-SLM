@@ -1,9 +1,0 @@
-In project management under the PRINCE2 methodology, a product breakdown structure ( PBS ) is a tool for analysing, documenting and communicating the outcomes of a project, and forms part of the product based planning technique.
-
-The PBS provides "an exhaustive, hierarchical tree structure of deliverables that make up the project, arranged in whole-part relationship" (Haughey, 2015).
-
-The PBS is identical in format to the work breakdown structure (WBS), but is a separate entity and is used at a different step in the planning process. The PBS precedes the WBS and focuses on cataloguing all the desired outputs (products) needed to achieve the goal of the project. This feeds into creation of the WBS, which identifies the tasks and activities required to deliver those outputs. Supporters of product based planning suggest that this overcomes difficulties that arise from assumptions about what to do and how to do it by focusing instead on the goals and objectives of the project – an oft-quoted analogy is that "PBS defines where you want to go, the WBS tells you how to get there".
-
-The diagrammatic representation of project outputs shown provides an example of a clear and unambiguous statement of what the project is to deliver.
-
-PBS of a computer (see image on right):

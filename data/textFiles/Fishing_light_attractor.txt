@@ -1,5 +1,0 @@
-A fishing light attractor is a fishing aid that uses lights attached to a structure above water or suspended underwater to attract fish and members of their food chain. Fish are most attracted to true-green light colors, and LEDs do the best job of illuminating this color.
-
-A fishing light attractor is a fishing aid that uses lights attached to structures above water or suspended underwater to attract fish and members of their food chain. Fish are typically most attracted to true-green light colors.
-
-Light attractors work by taking advantage of phototactic behavior exhibited by many species of fish that are either attracted by the light themselves, or have come to prey upon any phototactic invertebrates that are drawn by the light.

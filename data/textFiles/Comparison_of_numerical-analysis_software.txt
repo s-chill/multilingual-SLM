@@ -1,7 +1,0 @@
-The following tables provide a comparison of numerical analysis software .
-
-The operating systems the software can run on natively (without emulation ).
-
-Colors indicate features available as
-
-The operating systems the software can run on natively (without emulation ).

@@ -1,5 +1,0 @@
-Electrical measurements are the methods, devices and calculations used to measure electrical quantities. Measurement of electrical quantities may be done to measure electrical parameters of a system. Using transducers , physical properties such as temperature, pressure, flow, force, and many others can be converted into electrical signals, which can then be conveniently measured and recorded. High-precision laboratory measurements of electrical quantities are used in experiments to determine fundamental physical properties such as the charge of the electron or the speed of light , and in the definition of the units for electrical measurements, with precision in some cases on the order of a few parts per million. Less precise measurements are required every day in industrial practice. Electrical measurements are a branch of the science of metrology .
-
-Measurable independent and semi-independent electrical quantities comprise:
-
-Measurable dependent electrical quantities comprise:

@@ -1,5 +1,0 @@
-Percona Server for MySQL is a distribution of the MySQL relational database management system created by Percona . It is similar to MySQL Enterprise from Oracle Corporation .
-
-Percona Server for MySQL is an open source relational database management system (RDBMS). It is a free, fully compatible drop in replacement for Oracle MySQL . The software includes a number of scalability, availability, security and backup features only available in MySQL's commercial Enterprise edition. The software includes XtraDB , an enhanced distribution of the InnoDB Storage Engine .
-
-The developers aim to retain close compatibility to the official MySQL releases, while focusing on performance and increased visibility into server operations.

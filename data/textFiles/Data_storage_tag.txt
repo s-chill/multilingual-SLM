@@ -1,7 +1,0 @@
-A data storage tag (DST), also sometimes known as an archival tag , is a combination of a data logger and multiple sensors that record data at predetermined intervals. DSTs usually have a large memory size and a long lifetime: most are supported by batteries that allow the tag to record positions for several years. Alternatively some tags are solar powered and allow the scientist to set their own interval; this then allows data to be recorded for significantly longer than battery-only powered tags.
-
-Data storage tags can have a variety of sensors; temperature, depth, light, salinity , pressure, pitch and roll, GPS, magnetic and compass. They can be used internally or externally in fish , marine animals or research animals . They are also used in other industries such as the food and beverage industry.
-
-At the end of the monitoring period, the loggers can be connected to a computer and the data uploaded for analysis. Data collected by data storage tags can be used to infer locations of the animal when it is at large.
-
-Archival tags archive data to internal memory. Once they are recovered the data is then extracted by the researcher. The tag is generally mounted to the animal either by cutting a slit into the animal, inserting the tag, and sewing the opening closed. Alternatively researchers externally attach tags to animals by running anchor lines through the tag and into the dorsal fin for most "fish" species. For turtles the tag is epoxied to the shell of the turtle.

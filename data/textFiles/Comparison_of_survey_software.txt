@@ -1,3 +1,0 @@
-This is an accepted version of this page
-
-Software tools for surveys are varied, ranging from desktop applications to complex web systems for monitoring consumer behaviour . The tables includes general and technical information for notable Computer-assisted survey information collection (CASIC) software .

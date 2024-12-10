@@ -1,9 +1,0 @@
-A DNS hosting service is a service that runs Domain Name System (DNS) servers.  Most, but not all, domain name registrars include DNS hosting service with registration.  Free DNS hosting services also exist.  Many third-party DNS hosting services provide dynamic DNS .
-
-DNS hosting service is optimal when the provider has multiple servers in various geographic locations that provide resilience and minimize latency for clients around the world. By operating DNS nodes closer to end users, DNS queries travel a much shorter distance, resulting in faster Web address resolution speed.
-
-DNS can also be self-hosted by running  on generic Internet hosting services .
-
-A number of sites offer free DNS hosting, either for second-level domains registered with registrars which do not offer free (or sufficiently flexible) DNS service, or as third-level domains (selection.somedomain.com). These services generally also offer Dynamic DNS. Free DNS typically includes facilities to manage A, MX, CNAME, TXT and NS records of the domain zone. In many cases the free services can be upgraded with various premium services.
-
-Free DNS service providers can also make money through sponsorship. The majority of modern free DNS services are sponsored by large providers of telecommunication services.

@@ -1,3 +1,0 @@
-This is a comparison of firewalls .
-
-These are not strictly firewall features, but are sometimes bundled with firewall software or appliance. Features are also marked "yes" if an external module can be installed that meets the criteria.

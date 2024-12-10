@@ -1,9 +1,0 @@
-Given a system transforming a set of inputs to output values, described by a mathematical function f , optimization refers to the generation and selection of the best solution from some set of available alternatives, by systematically choosing input values from within an allowed set, computing the value of the function, and recording the best value found during the process. Many real-world and theoretical problems may be modeled in this general framework. For example, the inputs can be design parameters of a motor while the output can be the power consumption.  Other inputs can be business choices with the output being obtained profit. or describing the configuration of a physical system with the output being its energy.
-
-An optimization problem can be represented in the following way
-
-Typically, A is some subset of the Euclidean space R , often specified by a set of constraints , equalities or inequalities that the members of A have to satisfy. Maximization can be reduced to minimization by multiplying the function by minus one.
-
-The use of optimization software requires that the function f is defined in a suitable programming language and linked to the optimization software. The optimization software will deliver input values in A , the software module realizing f will deliver the computed value f ( x ). In this manner, a clear separation of concerns is obtained: different optimization software modules can be easily tested on the same function f , or a given optimization software can be used for different functions f .
-
-The following tables provide a comparison of notable optimization software libraries, either specialized or general purpose libraries with significant optimization coverage.

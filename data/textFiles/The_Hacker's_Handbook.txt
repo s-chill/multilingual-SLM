@@ -1,7 +1,0 @@
-The Hacker's Handbook is a non-fiction book in four editions, each reprinted numerous times between  1985 and 1990, and  explaining how phone and computer systems of the period could be 'hacked'. It contains candid and personal comments from the book's British author, Hugo Cornwall, a pseudonym of Peter Sommer who is now Professor of Digital Forensics at Birmingham City University , and frequently appears in the United Kingdom courts as an expert on digital evidence and computer forensics for both prosecution and defence as well as being a media pundit and author on information security topics. He advised the UK Parliament on the Investigatory Powers Act, 2016 .
-
-One popular aspect of the book is the apparently salacious printouts of actual hacking attempts (although confidential details, such as passwords, are blacked out).
-
-The first edition, the version most easily available for download, was published in 1985. The last of four editions ISBN 0-7126-3454-1 , edited by Steve Gold appeared in 1989 with reprints running into 1990. In 1990, the UK Parliament passed the Computer Misuse Act . Publication of additional editions might have been construed to be incitement to commit an offence under that Act.
-
-The book is now largely of historic interest.  Cornwall / Sommer wrote two other books: DataTheft in 1987 and Industrial Espionage Handbook in 1992.

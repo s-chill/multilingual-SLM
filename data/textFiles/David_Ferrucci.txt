@@ -1,7 +1,0 @@
-David Ferrucci is an American computer scientist who served as the principal investigator of a team of IBM and academic researchers and engineers between 2007 and 2011 to the development of the Watson computer system, which won the television quiz show Jeopardy! .
-
-Ferrucci graduated from Manhattan College, with a B.S. degree in biology and from Rensselaer Polytechnic Institute , in 1994 with a Ph.D. degree in computer science specializing in knowledge representation and reasoning . He joined IBM's Thomas J. Watson in 1995 and left in 2012 to join Bridgewater Associates . He is also the founder, CEO, and Chief Scientist of Elemental Cognition, a venture exploring a new field of study called "natural learning", which Ferrucci describes as "artificial intelligence that understands the world the way people do."
-
-Ferrucci is interviewed in the 2018 documentary on artificial intelligence Do You Trust This Computer?
-
-Ferrucci contributed one chapter to the 2018 book Architects of Intelligence: The Truth About AI from the People Building it by the American futurist Martin Ford .

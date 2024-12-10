@@ -1,5 +1,0 @@
-The F# Software Foundation ( FSSF ) is a non-profit organization devoted to the F# programming language . It was founded at the beginning of 2013 and became a 501(c)(3) non-profit organization in December 2014. The mission of the foundation is to foster development of the F# community and is responsible for various processes within the F# community, including assisting development of the core F# distribution and libraries, managing intellectual rights, and raising funds.
-
-The current board of trustees and officers of the FSSF are listed below:
-
-The executive director and technical advisor roles serve as ex-officio, non-voting members of the board of trustees.

@@ -1,5 +1,0 @@
-An SSH server is a software program which uses the Secure Shell protocol to accept connections from remote computers. SFTP / SCP file transfers and remote terminal connections are popular use cases for an SSH server.
-
-The operating systems or virtual machines the SSH servers are designed to run on without emulation ; there are several possibilities:
-
-The list is not exhaustive, but rather reflects the most common platforms today.

@@ -1,5 +1,0 @@
-Generalized likelihood uncertainty estimation ( GLUE ) is a statistical method used in hydrology for quantifying the uncertainty of model predictions. The method was introduced by Keith Beven and Andrew Binley in 1992. The basic idea of GLUE is that given our inability to represent exactly in a mathematical model how nature works, there will always be several different models that mimic equally well an observed natural process (such as river discharge ). Such equally acceptable or behavioral models are therefore called equifinal .
-
-The methodology deals with models whose results are expressed as probability distributions of possible outcomes, often in the form of Monte Carlo simulations , and the problem can be viewed as assessing, and comparing between models, how good these representations of uncertainty are. There is an implicit understanding that the models being used are approximations to what might be obtained from a thorough Bayesian analysis of the problem if a fully adequate model of real-world hydrological processes were available.
-
-GLUE is equivalent to Approximate Bayesian computation for some choices of summary statistic and threshold

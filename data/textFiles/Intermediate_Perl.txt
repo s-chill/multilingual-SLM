@@ -1,5 +1,0 @@
-Intermediate Perl is a book about the Perl programming language by Randal L. Schwartz , brian d foy and Tom Phoenix, published in 2006 by O'Reilly Media . It was released as a retitled second edition of Learning Perl Objects, References & Modules ( ISBN 0-596-00478-8 ) by Schwartz and Phoenix, published by O'Reilly Media in 2003 to favorable reviews. A second edition of Intermediate Perl was released in 2012.
-
-Intermediate Perl is a follow-up to Learning Perl . Just as Learning Perl features a llama on its cover, its follow-up features an alpaca . For this reason, they are sometimes referred to as, respectively, "the llama book" and "the alpaca book".
-
-This book is written in very much the same style as its predecessor.  It picks up right where Learning Perl left off, and takes the reader from the most basic features of Perl references all the way through to creating Perl modules and distributing them to CPAN .

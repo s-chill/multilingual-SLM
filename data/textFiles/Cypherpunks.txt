@@ -1,9 +1,0 @@
-Cypherpunks: Freedom and the Future of the Internet is a 2012 book by Julian Assange , in discussion with Internet activists and cypherpunks Jacob Appelbaum , Andy Müller-Maguhn and Jérémie Zimmermann . Its primary topic is society's relationship with information security . In the book, the authors warn that the Internet has become a tool of the police state , and that the world is inadvertently heading toward a form of totalitarianism . They promote the use of cryptography to protect against state surveillance.
-
-In the introduction, Assange says that the book is "not a manifesto [...] [but] a warning". He told Guardian journalist Decca Aitkenhead :
-
-A well-defined mathematical algorithm can encrypt something quickly, but to decrypt it would take billions of years – or trillions of dollars' worth of electricity to drive the computer. So cryptography is the essential building block of independence for organisations on the Internet, just like armies are the essential building blocks of states , because otherwise one state just takes over another. There is no other way for our intellectual life to gain proper independence from the security guards of the world, the people who control physical reality.
-
-Assange later wrote in The Guardian : "Strong cryptography is a vital tool in fighting state oppression." saying that was the message of his book, Cypherpunks .
-
-Cypherpunks is published by OR Books . It is primarily a transcript of World Tomorrow episode eight, a two-part interview between Assange, Jacob Appelbaum , Andy Müller-Maguhn , and Jérémie Zimmermann . In the foreword, Assange said, "the Internet, our greatest tool for emancipation, has been transformed into the most dangerous facilitator of totalitarianism we have ever seen".

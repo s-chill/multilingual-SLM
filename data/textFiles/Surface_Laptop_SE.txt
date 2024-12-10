@@ -1,7 +1,0 @@
-The Surface Laptop SE is a laptop computer manufactured by Microsoft . Unveiled on November 9, 2021, it is an entry-level model in the Surface Laptop series positioned exclusively towards the education market. It was released on 9 November 2021.
-
-The Surface Laptop SE has a plastic body and shares some components (such as the keyboard) with the Surface Laptop Go . Microsoft stated that it was designed to be more repairable than other Surface models, with replacement parts (such as batteries, displays, keyboards, and motherboards) to be available through its service partners for on-site repairs.
-
-The device uses an Intel Celeron CPU, with configurations using either a Celeron N4020 with 4 GB of RAM and 64 GB of internal storage, or the N4120 with 8 GB of RAM and 128 GB of internal storage. It has two USB ports, one of which is USB-C . Unlike other Surface models, the Laptop SE uses a round, non-magnetic power connector. It includes a 10.1-inch screen at 1366×768 resolution, and a one-megapixel webcam.
-
-It ships with Windows 11 SE , a variant of the operating system with optimizations for the education market.

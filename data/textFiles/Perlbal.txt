@@ -1,7 +1,0 @@
-Perlbal is a Perl -based reverse proxy load balancer and web server . Perlbal is maintained by a group connected to Danga Interactive . The program is in common use by large web sites to distribute the load over a number of servers.
-
-Like Perl, Perlbal is distributed under both the GNU General Public License and the Artistic License and is thus free software .
-
-Perlbal also features a so-called "re-proxy" mechanism. This allows a backend webapp to send back a small response to Perlbal which acts as an "internal redirect" and causes it to get the response data from elsewhere. This is often used so that expensive application server processes can defer to much simpler, faster HTTP servers to serve static files, freeing up the application server for other computing work. This is most commonly used in conjunction with MogileFS .
-
-Additionally, plugins can be written to support various operations that may traditionally have been performed at the application layer. As an example, a filter plugin has been developed that can dynamically alter the palette of a PNG or GIF image as it passes through the proxy, allowing the image to be tinted. This is used on LiveJournal to provide predefined page templates whose colors, including those "baked" into images, can be customized by the user. Doing this relatively simple filtering task at the load balancer layer avoids the overhead of passing this request back to the full application servers.

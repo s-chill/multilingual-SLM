@@ -1,5 +1,0 @@
-This is an alphabetical list of people who have made significant contributions in the fields of system analysis and control theory .
-
-The eminent researchers (born after 1920) include the winners of at least one award of the IEEE Control Systems Award , the Giorgio Quazza Medal , the Hendrik W. Bode Lecture Prize , the Richard E. Bellman Control Heritage Award , the Rufus Oldenburger Medal , or higher awards such as the IEEE Medal of Honor and the National Medal of Science . The earlier pioneers such as Nicolas Minorsky (1885–1970), Harry Nyquist (1889–1976), Harold Locke Hazen (1901–1980), Charles Stark Draper (1901–1987), Hendrik Wade Bode (1905–1982), Gordon S. Brown (1907–1996), John F. Coales (1907–1999), Rufus Oldenburger (1908–1969), John R. Ragazzini (1912–1988), Nathaniel B. Nichols (1914–1997), John Zaborszky (1914–2008) and Harold Chestnut (1917–2001) are not included.
-
-These people have made outstanding historical contributions to systems and control.

@@ -1,7 +1,0 @@
-The Nomad 200 or N200 was a commercial research robot manufactured in the 1990s by Nomadic Technologies, Inc . It is an integrated mobile system robot built with different sensing options and was primarily built for laboratory courses in robotics as well as for research and development work.
-
-Nomad 200 was a cylindrical robot around 1 metre tall and 20 inches in diameter and moved on three wheels. It could travel at 0.5 metres per second and rotate at 60 degrees per second. It was built as a synchronous system capable of handling three motors: for movement, for turning the wheels, and for turning its turret.
-
-The basic robot, comprising the mobile base and the control system, cost $16,000 in 1990. It had a base tactile sensor ring outfitted with 20 independent pressure sensitive sensors. It could be equipped with 16 sonar sensors mounted around the circumference, 16 infra-red sensors. For example, it included a bump sensor that protects the robot from bumps that were not detected by the sonar a magnetic compass. There was also a TV camera and laser rangefinder system and two rows of ten contact sensors. The laser system worked by drawing in space a plane of light, producing a broken line when an object intersects it. The additional sensor systems cost between $1,500 and $7000.
-
-It was controlled by an on-board Intel 486 based computer system.

@@ -1,1 +1,0 @@
-This is a list of operating systems specifically focused on security . Similar concepts include security-evaluated operating systems that have achieved certification from an auditing organization, and trusted operating systems that provide sufficient support for multilevel security and evidence of correctness to meet a particular set of requirements.

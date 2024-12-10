@@ -1,9 +1,0 @@
-The following tables compare general and technical information for a number of notable LAN messengers .
-
-Basic general information about the LAN messengers: creator/company, license/price, among others.
-
-The operating systems the messengers can run on without emulators or compatibility layers .
-
-Information on what features each of the clients support.
-
-Note 1: Using Apple's Bonjour protocol

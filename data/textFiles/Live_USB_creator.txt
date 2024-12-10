@@ -1,4 +1,0 @@
-Startup Disk Creator (USB-creator) is an official tool to create Live USBs of Ubuntu from the Live CD or from an ISO image . The tool is included by default in all releases after Ubuntu 8.04, and can be installed on Ubuntu 8.04. A KDE frontend was released for Ubuntu 8.10, and is currently included by default in Kubuntu installations. 
-The KDE and Ubuntu frontend go under the names "usb-creator-kde" and "usb-creator-gtk", respectively.
-
-The tool is available for Ubuntu ( GNOME , from 11.04 up to 17.04 also their own called Unity ) or Kubuntu ( KDE ) and also for Windows starting in Ubuntu 10.10 "Maverick Meerkat" but accessible only by inserting the Live CD or DVD into a CD-ROM/DVD-RW drive with Windows running.

@@ -1,3 +1,0 @@
-Federal Internet Exchange ( FIX ) points were policy-based network peering points where U.S. federal agency networks, such as the National Science Foundation Network (NSFNET), NASA Science Network (NSN), Energy Sciences Network (ESnet), and MILNET were interconnected.
-
-Two FIXes were established in June 1989 under the auspices of the Federal Engineering Planning Group (FEPG). FIX East, at the University of Maryland in College Park , and FIX West, at the NASA Ames Research Center in Mountain View , California . The existence of the FIXes allowed the ARPANET to be phased out in mid-1990. FIX West was eventually expanded to become MAE-West , one of the NSF-supported Network Access Points .

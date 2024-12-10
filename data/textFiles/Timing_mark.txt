@@ -1,9 +1,0 @@
-A timing mark is an indicator used for setting the timing of the ignition system of an engine , typically found on the crankshaft pulley (as pictured) or the flywheel . These have the largest radius rotating at crankshaft speed and therefore are the place where marks at one degree intervals will be farthest apart.
-
-On older engines it is common to set the ignition timing using a timing light , which flashes in time with the ignition system (and hence engine rotation). Shining the light on the timing marks makes them appear stationary due to the stroboscopic effect . The ignition timing can then be adjusted to fire at the correct point in the engine's rotation, typically a few degrees before top dead centre and advancing with increasing engine speed. The timing can be adjusted by loosening and slightly rotating the distributor in its seat.
-
-Modern engines usually use a crank sensor directly connected to the engine management system .
-
-The term can also be used to describe the tick marks along the length of an optical mark recognition sheet, used to confirm the location of the sheet as it passes through the reader. See, for example, U.S. Patent 3,218,439 (filed 1964, granted 1965), which refers to a timing track down the left side of the form, and U.S. Patent 3,267,258 (filed 1963, granted 1966), which refers to a column of timing marks on the right side of the form.
-
-The term can also be used to describe the timing patterns used in some barcodes , such as PostBar , Data Matrix , Aztec Code , etc.

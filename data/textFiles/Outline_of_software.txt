@@ -1,7 +1,0 @@
-The following outline is provided as an overview of and topical guide to software:
-
-Software – collection of computer programs and related data that provides the information for the functioning of a computer . It is held in various forms of memory of the computer. It comprises procedures, algorithms, and documentation concerned with the operation of a data processing system. The term was coined to contrast to the term hardware , meaning physical devices. In contrast to hardware, software "cannot be touched". Software is also sometimes used in a more narrow sense, meaning application software only. Sometimes the term includes data that has not traditionally been associated with computers, such as film, tapes, and records.
-
-Software development entails the establishment of a systems development life cycle of a software product. It encompasses a planned and structured process from the conception of the desired software to its final manifestation, which constitutes computer programming , the process of writing and maintaining the source code . Software development  includes research, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products.
-
-Software distribution –

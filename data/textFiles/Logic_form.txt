@@ -1,3 +1,0 @@
-Logic forms are simple, first-order logic knowledge representations of natural language sentences formed by the conjunction of concept predicates related through shared arguments. Each noun, verb, adjective, adverb, pronoun, preposition and conjunction generates a predicate. Logic forms can be decorated with word senses to disambiguate the semantics of the word. There are two types of predicates: events are marked with e , and entities are marked with x . The shared arguments connect the subjects and objects of verbs and prepositions together. Example input/output might look like this:
-
-Logic forms are used in some natural language processing techniques, such as question answering , as well as in inference both for database systems and QA systems.

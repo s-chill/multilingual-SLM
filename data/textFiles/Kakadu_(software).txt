@@ -1,9 +1,0 @@
-Kakadu is a closed-source library to encode and decode JPEG 2000 images . It implements the ISO/IEC 15444 -1 standard fully in part 1, and partly in parts 2–3. Kakadu is a trademark of NewSouth Innovations Ltd .
-
-Kakadu was developed by and continues to be maintained by David Taubman from University of New South Wales (UNSW), Australia . He  is also an author of EBCOT , one of the algorithms used in JPEG 2000 .
-
-The software library is named after Kakadu National Park .
-
-It is used by several applications , such as for example Apple Inc. QuickTime .  It is also used in Google Earth and the online implementation thereof as well as Internet Archive .
-
-Kakadu library is heavily optimized and is a fully compliant implementation . Also, it has built-in multi-threading . In a 2007 study Kakadu outperformed the JasPer library in terms of speed . A more thorough comparison done in 2005, however, has shown that Kakadu does not achieve the best performance, in terms of compression quality.

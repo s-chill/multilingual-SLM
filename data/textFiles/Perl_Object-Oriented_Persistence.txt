@@ -1,1 +1,0 @@
-Perl Object-Oriented Persistence (POOP) is the term given to refer to object-relational mapping mechanisms written in the Perl programming language to provide object persistence . Dave Rolsky divides POOP mechanisms into two categories:

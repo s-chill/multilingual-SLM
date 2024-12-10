@@ -1,5 +1,0 @@
-Hack's law is an empirical relationship between the length of streams and the area of their basins . If L is the length of the longest stream in a basin, and A is the area of the basin, then Hack's law may be written as
-
-for some constant C where the exponent h is slightly less than 0.6 in most basins. h varies slightly from region to region and slightly decreases for larger basins (>8,000 mi , or 20,720 km ). In addition to the catchment-scales, Hack's law was observed on unchanneled small-scale surfaces when the morphology measured at high resolutions (Cheraghi et al., 2018).
-
-The law is named after American geomorphologist John Tilton Hack .

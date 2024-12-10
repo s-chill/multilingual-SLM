@@ -1,1 +1,0 @@
-This article is a comparison of data modeling tools which are notable, including standalone, conventional data modeling tools and modeling tools supporting data modeling as part of a larger modeling environment.

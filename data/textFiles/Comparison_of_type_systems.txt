@@ -1,3 +1,0 @@
-This is a comparison of the features of the type systems and type checking of multiple programming languages .
-
-Brief definitions

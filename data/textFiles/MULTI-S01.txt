@@ -1,9 +1,0 @@
-In cryptography , MULTI-S01 (pronounced multi-ess-zero-one ), is an encryption algorithm based on a pseudorandom number generator (PRNG). MULTI-S01 is an encryption scheme preserving both confidentiality and data integrity . The scheme defines a pair of algorithms; the encryption, the corresponding decryption with verification . Coupling with an efficient keystream generator, such as Panama , MUGI , and RC4 , the algorithm efficiently encrypts a message in the manner of a single path process, i.e. online algorithm . The decryption function cannot be used in such manner for keeping whole resultant data until successful verification.
-
-The keysize of MULTI-S01 is determined by which keystream generator to use. MULTI-S01 takes a security parameter which determines the upperbound probability of successful forgery.
-
-Since the calculation consists of addition and multiplication over the finite field , the algorithm is more suited to hardware implementation, although software implementation is still feasible.
-
-MULTI-S01 with the PRNG Panama was among the cryptographic techniques recommended for Japanese government use by CRYPTREC in 2003, however, has been dropped to "candidate" by CRYPTREC revision in 2013. It has also been submitted to ISO / IEC 18033 Part 4 which defines stream-cipher standards.
-
-The security of MULTI-S01 is based on that of underlying PRNG. If a secure PRNG is used, then the security of MULTI-S01 with respect to confidentiality and data integrity has been proven. As for the data integrity, the security proof is basically the same as one for Carter–Wegman MAC scheme , which is proven to be information-theoretically secure.

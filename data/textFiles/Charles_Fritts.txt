@@ -1,9 +1,0 @@
-Charles Fritts (1850 – 1903 ) was the American inventor credited with creating the first working selenium cell in 1883.
-
-According to CleanTechnica , the world's first rooftop solar array , using Fritts' selenium cells, was installed in 1884 on a New York City rooftop. Bellingcat , however, attributes a photo of the cells to the roof of George Cove 's laboratory.
-
-Fritts coated the semiconductor material selenium with an extremely thin layer of gold.  The resulting cells had a conversion electrical efficiency of only about 1% owing to the properties of selenium, which in combination with the material's high cost prevented the use of such cells for energy supply.  Selenium cells found other applications however, for example as light sensors for exposure timing in photo cameras, where they were common well into the 1960s.
-
-Solar cells later became practical for power uses after Russell Ohl 's 1941 development of silicon P/N junction cells that reached efficiencies above 5% by the 1950s/1960s.
-
-By 2006, the best silicon solar cells were over 40% efficient, with industrial average over 17%. By 2022, the average efficiency of crystalline Silicon was 21%.

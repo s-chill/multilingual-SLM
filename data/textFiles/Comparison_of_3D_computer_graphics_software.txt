@@ -1,7 +1,0 @@
-3D computer graphics software refers to packages used to create 3D computer-generated imagery .
-
-This table compares elements of notable software that is currently available, based on the raw software without the inclusion of additional plugins .
-
-There are many discontinued software applications.
-
-The operating systems on which the editors can run natively (without emulation or compatibility layers), meaning which operating systems have which editors specifically coded for them (not, for example, Wings 3D for Windows running on Linux with Wine ).

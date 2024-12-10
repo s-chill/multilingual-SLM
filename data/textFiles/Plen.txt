@@ -1,7 +1,0 @@
-PLEN is a small desktop toy humanoid robot that can replicate complex human movements.  It is controlled remotely by use of a Bluetooth enabled phone. When programmed, it is able to use a skateboard, rollerskates, pick up, kick and throw small things, and stand up if he tumbles to the floor. It does not feature any sensors or automatic software reactions to certain events, as it is entirely remote-controlled.
-
-Videos of PLEN are being widely distributed and featured on sites such as YouTube , notably for its ability to perform roller skating and skateboard stunts. It performs these feats in a very lifelike fashion.
-
-PLEN is 9 inches (22.8 cm) tall, weighs 696 grams and is equipped with a 3 axis accelerometer to assist in balancing. It has 18 degrees of freedom and a 32bit ARM7 CPU. PLEN is powered by 6 V -950 mA NiMH rechargeable battery . The battery pack is on the robot's back and resembles a backpack. Its central positioning is designed to improve overall balance as it heaviest component. New actions are programmable using its Motion Editor software and can be uploaded via USB or Bluetooth. Plen is expected to sell for 250,000 JPY .
-
-PLEN was created and manufactured by Akazawa Co. Ltd of Japan , and is currently sold by them for 262,500 ¥ .

@@ -1,7 +1,0 @@
-An underground power station is a type of hydroelectric power station constructed by excavating the major components (e.g. machine hall, penstocks, and tailrace) from rock, rather than the more common surface-based construction methods.
-
-One or more conditions impact whether a power station is constructed underground. The terrain or geology around a dam is taken into consideration, as gorges or steep valleys may not accommodate a surface power station. A power station within bedrock may be less expensive to construct than a surface power station on loose soil. Avalanche -prone valleys often make a surface station unfeasible as well. After World War II , large hydroelectric power stations were placed underground more often in order to protect them from airstrikes .
-
-Often underground power stations form part of pumped storage hydroelectricity schemes, whose basic function is to level load: they use cheap or surplus off-peak power to pump water from a lower lake to an upper lake. During peak periods (when electricity prices are often high), the power station generates power from the water held in the upper lake.
-
-Some notable underground power stations are:

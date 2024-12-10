@@ -1,3 +1,0 @@
-In the data warehouse practice of extract, transform, load (ETL), an early fact or early-arriving fact , also known as late-arriving dimension or late-arriving data , denotes the detection of a dimensional natural key during fact table source loading, prior to the assignment of a corresponding primary key or surrogate key in the dimension table .  Hence, the fact which cites the dimension arrives early, relative to the definition of the dimension value. An example could be backdating or making corrections to data.
-
-Procedurally, an early fact can be treated several ways:

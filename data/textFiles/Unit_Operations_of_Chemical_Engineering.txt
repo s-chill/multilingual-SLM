@@ -1,5 +1,0 @@
-Unit Operations of Chemical Engineering , first published in 1956, is one of the oldest chemical engineering textbooks still in widespread use. The current Seventh Edition, published in 2004, continues its successful tradition of being used as a textbook in university undergraduate chemical engineering courses. It is widely used in colleges and universities throughout the world, and often referred just "McCabe-Smith-Harriott" or "MSH".
-
-The book starts with an introductory chapter devoted to definitions and principles.  It then follows with 28 additional chapters, each covering a principal chemical engineering unit operation . The 28 chapters are grouped into four major sections:
-
-A more detailed table of contents is available on the Internet.

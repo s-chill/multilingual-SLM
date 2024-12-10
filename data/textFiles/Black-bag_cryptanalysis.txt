@@ -1,9 +1,0 @@
-In cryptography , black-bag cryptanalysis is a euphemism for the acquisition of cryptographic secrets via burglary , or other covert means – rather than mathematical or technical cryptanalytic attack . The term refers to the black bag of equipment that a burglar would carry or a black bag operation .
-
-As with rubber-hose cryptanalysis , this is technically not a form of cryptanalysis; the term is used sardonically . However, given the free availability of very high strength cryptographic systems, this type of attack is a much more serious threat to most users than mathematical attacks because it is often much easier to attempt to circumvent cryptographic systems (e.g. steal the password) than to attack them directly.
-
-Regardless of the technique used, such methods are intended to capture highly sensitive information e.g. cryptographic keys , key-rings, passwords or unencrypted plaintext. The required information is usually copied without removing or destroying it, so capture often takes place without the victim realizing it has occurred.
-
-In addition to burglary, the covert means might include the installation of keystroke logging or trojan horse software or hardware installed on (or near to) target computers or ancillary devices. It is even possible to monitor the electromagnetic emissions of computer displays or keyboards from a distance of 20 metres (or more), and thereby decode what has been typed. This could be done by surveillance technicians, or via some form of bug concealed somewhere in the room. Although sophisticated technology is often used, black bag cryptanalysis can also be as simple as the process of copying a password which someone has unwisely written down on a piece of paper and left inside their desk drawer.
-
-The case of United States v. Scarfo highlighted one instance in which FBI agents using a sneak and peek warrant placed a keystroke logger on an alleged criminal gang leader.

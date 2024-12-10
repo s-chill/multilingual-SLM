@@ -1,1 +1,0 @@
-The Canadian Land Surface Scheme ( CLASS ) is a land surface parametrization scheme for use in large scale climate models . It is a state-of-the-art model, using physically based equations to simulate the energy and water balances of vegetation , snow and soil . CLASS is being developed in a research project led by D. Verseghy at the Canadian Atmospheric Environment Service .

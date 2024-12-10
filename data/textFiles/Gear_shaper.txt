@@ -1,5 +1,0 @@
-A gear shaper is a machine tool for cutting the teeth of internal or external gears, it is a specialised application of the more general shaper machine. The name shaper relates to the fact that the cutter engages the part on the forward stroke and pulls away from the part on the return stroke, just like the clapper box on a planer shaper.
-
-The cutting tool is also gear shaped having the same pitch as the gear to be cut. However number of cutting teeth must be less than that of the gear to be cut for internal gears.  For external gears the number of teeth on the cutter is limited only by the size of the shaping machine.
-
-The principal motions involved in rotary gear shaper cutting are of the following :

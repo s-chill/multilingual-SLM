@@ -1,5 +1,0 @@
-A breather switch , expansion joint , or adjustment switch is an intentional gap in railway tracks to allow for thermal expansion in long sections of otherwise unbroken rail. They are placed between very long sections of continuous welded rail or at the transition from continuous welded rail to jointed track, and commonly in the vicinity of bridges, viaducts and tunnels where the infrastructure and track may expand at different rates.
-
-The mating sections are tapered diagonally (unlike a butt joint between two lengths of rail), allowing smoother transitions and higher speeds across the gap.
-
-Breather switches have two advantages over jointed track: they greatly reduce the small gap between the rails, eliminating or significantly reducing the noise and vibration caused by passing trains , and, where continuous welded rail is particularly prone to expansion, they act as relief points to ensure that track does not warp out of shape or result in a sun kink .

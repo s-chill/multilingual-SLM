@@ -1,3 +1,0 @@
-In computer software , logname (stands for Login Name ) is a program in Unix and Unix-like operating systems that prints the name of the user who is currently logged in on the terminal. It usually corresponds to the LOGNAME variable in the system-state environment (but this variable could have been modified).
-
-The logname system call and command appeared for the first time in UNIX System III . The author of the version of logname bundled in GNU coreutils is unknown. The command is available as a separate package for Microsoft Windows as part of the UnxUtils collection of native Win32 ports of common GNU Unix-like utilities.

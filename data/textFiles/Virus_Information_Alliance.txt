@@ -1,3 +1,0 @@
-The Virus Information Alliance (VIA) is an international partnership created by the Microsoft Corporation in association with various antivirus software vendors. Alliance members exchange technical information about newly discovered malicious software ( malware ) so they can quickly communicate information to customers.
-
-The roles of VIA member companies include but are not limited to is to share current data with Microsoft and other VIA partners on all malicious programs detected. The description of each virus incident will provide data on: the scope and rate of virus propagation, attack targets and ways in which end users can avoid infection by malicious code.

@@ -1,3 +1,0 @@
-Library technical services are the ongoing maintenance activities of a library's collection, including the three broad areas of collection development , cataloging , and processing. Technical services are the infrastructure that enable the user's experience of many library services and are typically performed "behind the scenes."
-
-Technical services may also include a range of activities broadly related to the above core functions: from security processing (using RFID tags or similar), to interlibrary loan services, to maintaining the library's technology resources, such as servers , staff and public computers, scanners , or the integrated library system software that facilitates circulation .

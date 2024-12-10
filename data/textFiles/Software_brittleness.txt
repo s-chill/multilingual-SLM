@@ -1,9 +1,0 @@
-In computer programming and software engineering , software brittleness is the increased difficulty in fixing older software that may appear reliable, but instead, fails, when presented with unusual data or data that is altered in a seemingly minor way. The phrase is derived from analogies to brittleness in metalworking .
-
-When software is new, it is very malleable; it can be formed to be whatever is wanted by the implementers. But as the software in a given project grows larger and larger, and develops a larger base of users with long experience with the software, it becomes less and less malleable. Like a metal that has been work-hardened, the software becomes a legacy system , brittle and unable to be easily maintained without fracturing the entire system.
-
-Brittleness in software can be caused by algorithms that do not work well for the full range of input data. Following, are some examples:
-
-Very often, an old codebase is simply abandoned in favor of a brand-new one (which is intended to be free of many of the burdens of the legacy system; a.k.a. a rewrite ) created from scratch, but this can be an expensive and time-consuming process.
-
-Some examples and reasons behind software brittleness:

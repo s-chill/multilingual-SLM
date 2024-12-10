@@ -1,7 +1,0 @@
-Victor R. Basili (born 13 April 1940, in Brooklyn, New York ), is an emeritus professor at the Department of Computer Science, which is part of the University of Maryland College of Computer, Mathematical, and Natural Sciences , and the Institute for Advanced Computer Studies.  He holds a Ph.D. in computer science from the University of Texas at Austin and two honorary degrees. He is a fellow of both the Association for Computing Machinery (ACM) and of the Institute of Electrical and Electronics Engineers (IEEE).
-
-From 1982 through 1988 he was chair of the Department of Computer Science at the University of Maryland. He is currently a senior research fellow at the Fraunhofer Center for Experimental Software Engineering – Maryland and from 1997 to 2004 was its executive director.
-
-He is well known for his works on measuring, evaluating, and improving the software development process , as a pioneer of empirical software engineering , especially through his papers on the Goal/Question/Metric Approach , the Quality Improvement Paradigm , and the Experience Factory. Many of these ideas developed through his affiliation with the NASA Goddard Space Flight Center Software Engineering Laboratory (SEL), which he helped to create and was one of its directors from 1976 through 2002.
-
-Basili received the ACM SIGSOFT Outstanding Research Award in 2000.

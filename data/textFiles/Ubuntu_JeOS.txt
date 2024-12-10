@@ -1,7 +1,0 @@
-Ubuntu JeOS (pronounced "juice") is a discontinued variant of Ubuntu that is described as "an efficient variant ... configured specifically for virtual appliances ." It is a concept for what an operating system should look like in the context of a virtual appliance. JeOS stands for " J ust e nough O perating S ystem ." JeOS has been replaced by Ubuntu Core, which is now an officially supported minimal variant of Ubuntu.
-
-Its first release was Ubuntu JeOS 7.10, and since the release of Ubuntu 8.10 it has been included as an option as part of the standard Ubuntu Server Edition.
-
-The latest version of JeOS is optimized for virtualization technologies by VMware, Inc. and the Linux Kernel-based Virtual Machine .
-
-Specifications for version 8.10 and above include:

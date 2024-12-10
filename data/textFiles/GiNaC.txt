@@ -1,7 +1,0 @@
-GiNaC is a free computer algebra system released under the GNU General Public License . The name is a recursive acronym for "GiNaC is Not a CAS" ( Computer Algebra System ). This is similar to the GNU acronym "GNU's not Unix".
-
-What distinguishes GiNaC from most other computer algebra systems is that it does not provide a high-level interface for user interaction. Rather, it encourages its users to write symbolic algorithms directly in C++ , which is GiNaC's implementation programming language . The algebraic syntax is achieved in C++ through the use of operator overloading . The name GiNaC is also explained by its developers' perception that most "computer algebra systems" put too much emphasis on a high-level interface and too little on interoperability.
-
-GiNaC uses the CLN library for implementing arbitrary-precision arithmetic . Symbolically, it can do multivariate polynomial arithmetic, factor polynomials , compute GCDs , expand series , and compute with matrices . It is equipped to handle certain noncommutative algebras which are extensively used in theoretical high energy physics : Clifford algebras , SU(3) Lie algebras , and Lorentz tensors . Due to this, it is extensively used in dimensional regularization computations – but it is not restricted to physics.
-
-GiNaC is the symbolic foundation in several open-source projects: there is a symbolic extension for GNU Octave , a simulator for magnetic resonance imaging , and since May 2009, Pynac , a fork of GiNaC, provides the backend for symbolic expressions in SageMath .

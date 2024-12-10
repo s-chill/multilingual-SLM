@@ -1,9 +1,0 @@
-The Azure Kinect DK is a discontinued developer kit and PC peripheral which employs the use of artificial intelligence sensors for computer vision and speech models, and is connected to the Microsoft Azure cloud . It is the successor to the Microsoft Kinect line of sensors.
-
-The kit includes a 12 megapixel RGB camera supplemented by 1 megapixel- depth camera for body tracking, a 360-degree seven-microphone array and an orientation sensor. The sensor is based on the depth sensor presented during 2018 ISSCC .
-
-While the previous iterations of Microsoft's Kinect primarily focused on gaming, this device is targeted towards other markets such as logistics , robotics , health care , and retail . With the kit, developers can create applications connected to Microsoft's cloud and AI technologies. The Azure Kinect is used in volumetric capture workflows through the use of software tools that can connect many Azure Kinects into one volumetric capture rig, allowing users to create interactive virtual reality experiences with human performances.
-
-The Azure Kinect was announced on February 24, 2019, in Barcelona at the MWC . It was released in the US in March 2020, and in the UK, Germany, and Japan in April 2020.
-
-Microsoft announced that the Azure Kinect hardware kit would be discontinued in October 2023, and referred users to third party suppliers for spare parts.

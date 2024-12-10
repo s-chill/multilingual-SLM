@@ -1,1 +1,0 @@
-This is a comparison of web frameworks for front-end web development that are heavily reliant on JavaScript code for their behavior.

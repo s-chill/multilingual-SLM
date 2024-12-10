@@ -1,7 +1,0 @@
-The OpenCD project is a discontinued open-source project aimed to introduce users of Microsoft Windows to the benefits of free and open-source software (FOSS). It is a CD image that can freely be downloaded and copied. The OpenCD team screened programs for stability, quality, and ease of installation, and only distributed programs available under an OSI -approved open-source license , which allows users to freely use and distribute the disc as they wish. It was sponsored by Canonical Ltd. , for a period.
-
-The project was started in April 2002 in response to an article on linux.com by astrophysics student Henrik Nilsen Omma.
-
-In September 2007, project lead Chris Gray left the project to pursue his own open-source disc, called OpenDisc , citing numerous difficulties which he believed were negatively affecting the progress of the OpenCD project. As of September 27, 2007, the OpenCD project is no longer under active development.
-
-Version 07.04 (as the version suggests, released in April 2007) includes the then-latest versions of the following:

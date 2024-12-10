@@ -1,5 +1,0 @@
-This article presents a timeline of events related to popular free / open-source software . For a narrative explaining the overall development, see the related history of free and open-source software .
-
-The Achievements column documents achievements a project attained at some point in time (not necessarily when it was first released).
-
-By the 2000s the number of open source software packages in wide use was so large that it would be infeasible to make a definitive list.

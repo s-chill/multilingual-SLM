@@ -1,3 +1,0 @@
-This article provides a comparison of Business Process Model and Notation (BPMN) tools .
-
-Note: all tools do support BPMN Version 2.0.

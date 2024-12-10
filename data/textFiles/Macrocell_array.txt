@@ -1,9 +1,0 @@
-Programmable logic devices , such as programmable array logic and complex programmable logic devices , typically have a macrocell on every output pin.
-
-A macrocell array is an approach to the design and manufacture of ASICs . Essentially, it is a small step up from the otherwise similar gate array , but rather than being a prefabricated array of simple logic gates, the macrocell array is a prefabricated array of higher-level logic functions such as flip-flops , ALU functions, registers , and the like. These logic functions are simply placed at regular predefined positions and manufactured on a wafer , usually called master slice . Creation of a circuit with a specified function is accomplished by adding metal interconnects to the chips on the master slice late in the manufacturing process, allowing the function of the chip to be customised as desired.
-
-Macrocell array master slices are usually prefabricated and stockpiled in large quantities regardless of customer orders. The fabrication according to the individual customer specifications may be finished in a shorter time compared with standard cell or full custom design. The macrocell array approach reduces the mask costs since fewer custom masks need to be produced. In addition manufacturing test tooling lead time and costs are reduced since the same test fixtures may be used for all macrocell array products manufactured on the same die size.
-
-Drawbacks are somewhat low density and performance than other approaches to ASIC design. However this style is often a viable approach for low production volumes.
-
-A standard cell library is sometimes called a "macrocell library".

@@ -1,7 +1,0 @@
-The Art of Deception is a book by Kevin Mitnick that covers the art of social engineering . Part of the book is composed of real stories and examples of how social engineering can be combined with hacking .
-
-All, or nearly all, of the examples, are fictional but quite plausible. They expose the ease with which a skilled social engineer can subvert many rules most people take for granted. A few examples:
-
-This book also, after giving an example, will tell what tricked/conned the victims of the scam and how to prevent it in real life or business.
-
-The book ends with Mitnick's strategy and business plans to prevent most if not all of the scams in the book.

@@ -1,5 +1,0 @@
-The following outline is provided as an overview of and topical guide to cryptography:
-
-Cryptography (or cryptology ) – practice and study of hiding information . Modern cryptography intersects the disciplines of mathematics , computer science , and engineering . Applications of cryptography include ATM cards , computer passwords , and electronic commerce .
-
-List of cryptographers

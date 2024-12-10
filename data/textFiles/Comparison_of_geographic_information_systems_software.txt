@@ -1,3 +1,0 @@
-This is a comparison of notable GIS software. To be included on this list, the software must have a linked existing article.
-
-The selection of GIS software is a non-trivial task typically undertaken at project commencement.  The use of appropriate selection criteria and methodology can be critical to a project's success, with considerations including outlay costs, ease of use, data and system harmonization and maintenance, incorporation of advances in technology, and downstream system integration.

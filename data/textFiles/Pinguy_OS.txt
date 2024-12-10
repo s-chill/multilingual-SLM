@@ -1,7 +1,0 @@
-Pinguy OS was a Linux distribution for x86 -based personal computers . Pinguy OS is based on Ubuntu , a GNOME -based desktop environment , which was discontinued in 2019 due to it no longer being financially viable. Despite no longer receiving any major version updates, a few of the previous LTS releases are still maintained.
-
-Pinguy OS focused on enhancing Ubuntu's user-friendliness and was tailored towards users unfamiliar with UNIX operating systems.  The OS was available in both 32-bit and 64-bit versions. For users that had less available hardware, there was another version made specifically for these older machines to work with less resources.
-
-While it uses a GNOME desktop environment, users had the option of also using a navigation bar on the bottom of the screen, similar to Elementary OS and macOS .
-
-The following is the release history for Pinguy OS:

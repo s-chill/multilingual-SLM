@@ -1,1 +1,0 @@
-In communications , transactive communication occurs when sources transmit messages to one another simultaneously and send back acknowledgment messages.

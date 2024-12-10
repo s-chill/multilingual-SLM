@@ -1,7 +1,0 @@
-LightDM is a free and open-source X display manager that aims to be lightweight, fast, extensible and multi-desktop. It can use various front-ends to draw the user interface, also called Greeters . It also supports Wayland .
-
-LightDM is the default display manager for Edubuntu , Xubuntu and Mythbuntu since the 11.10 release, for Lubuntu since the 12.04 release until 16.10, for Kubuntu beginning with 12.10 until 15.04 for Linux Mint and Antergos .
-
-Features include:
-
-LightDM has a simpler code base than GDM and does not load any GNOME libraries to work, but at the cost of some features that the user may or may not need.

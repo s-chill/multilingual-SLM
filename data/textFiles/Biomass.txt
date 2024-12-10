@@ -1,9 +1,0 @@
-Biomass is a term used in several contexts: in the context of ecology it means living organisms, and in the context of bioenergy it means matter from recently living (but now dead) organisms. In the latter context, there are variations in how biomass is defined, e.g., only from plants, from plants and algae, from plants and animals. The vast majority of biomass used for bioenergy does come from plants. Bioenergy is a type of renewable energy with the potential to assist with climate change mitigation .
-
-biomass : Material produced by the growth of microorganisms, plants or animals.
-
-Biomass is also used as a term for the mass of microorganisms that are used to produce industrial products like enzymes and medicines .
-
-Examples of emerging bioproducts or biobased products include biofuels, bioenergy, biochar , starch-based and cellulose-based ethanol , bio-based adhesives, biochemicals, bioplastics , etc.
-
-In biological wastewater treatment processes, such as the activated sludge process , the term "biomass" is used to denote the mass of bacteria and other microorganisms that break down pollutants in wastewater . The biomass forms part of sewage sludge .

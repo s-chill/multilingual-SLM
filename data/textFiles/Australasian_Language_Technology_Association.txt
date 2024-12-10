@@ -1,7 +1,0 @@
-The Australasian Language Technology Association ( ALTA ) promotes language technology research and development in Australia and New Zealand. 
-ALTA organises regular events for the exchange of research results and for academic and industrial training, and co-ordinates activities with other professional societies.
-ALTA is a founding regional organization of the Asian Federation of Natural Language Processing (AFNLP) .
-
-Every year early December ALTA organises a research workshop (commonly known as ALTW) gathering together the growing language technology community in Australia and New Zealand, both from the academic and industrial world. The workshop welcomes original work on any aspect of natural language processing, including both speech and text. Accepted papers are published in the ALTA proceedings, which are also included as part of the ACL Anthology.
-
-Since 2008 ALTA has been involved in organising the Australian Computational and Linguistics Olympiad (OzCLO), which is a contest for high school students in the area of linguistics and computational linguistics.

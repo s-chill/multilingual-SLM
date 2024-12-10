@@ -1,9 +1,0 @@
-Ling Liu (born 1960) is a Chinese-American computer scientist whose research involves databases , distributed systems for big data , and privacy and trust issues in peer-to-peer networks and cloud computing . She is a professor in the Georgia Institute of Technology School of Computer Science .
-
-Liu completed a Ph.D. at Tilburg University in the Netherlands in 1993, with the dissertation A Formal Approach to Structure, Algebra, and Communication Behavior of Complex Objects supervised by Robert Meersman.
-
-After postdoctoral research at Goethe University Frankfurt in Germany, she worked in Canada as an assistant professor at the University of Alberta from 1994 to 1998. She was an assistant and associate professor at the Oregon Graduate Institute (now part of the Oregon Health & Science University ) from 1997 to 1999 before taking her present position at Georgia Tech in 1999.
-
-At Georgia Tech, her doctoral students included Li Xiong (2005).
-
-Liu was a 2012 recipient of the Edward J. McCluskey Technical Achievement Award of the IEEE Computer Society , "for pioneering contributions to novel internet data management and decentralized trust management". She was named as an IEEE Fellow , in the 2015 class of fellows, "for her contributions to scalable Internet data management and decentralized trust management".

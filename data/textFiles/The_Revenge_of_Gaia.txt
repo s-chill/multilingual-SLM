@@ -1,7 +1,0 @@
-The Revenge of Gaia: Why the Earth is Fighting Back – and How We Can Still Save Humanity (2006) is a book by James Lovelock . Some editions of the book have a different, less optimistic subtitle: Earth's Climate Crisis and the Fate of Humanity .
-
-The book introduces the concept of the anti-CLAW hypothesis . Lovelock proposed that instead of providing negative feedback in the climate system, the components of the CLAW hypothesis may act to create a positive feedback loop .
-
-Under future global warming , increasing temperature may stratify the world ocean , decreasing the supply of nutrients from the deep ocean to its productive euphotic zone . Consequently, phytoplankton activity will decline with a concomitant fall in the production of dimethyl sulfide (DMS). In a reverse of the CLAW hypothesis, this decline in DMS production will lead to a decrease in cloud condensation nuclei and a fall in cloud albedo .  The consequence of this will be further climate warming which may lead to even less DMS production (and further climate warming). The figure to the right shows a summarising schematic diagram.
-
-Evidence for the anti-CLAW hypothesis is constrained by similar uncertainties as those of the sulfur cycle feedback loop of the CLAW hypothesis.  However, researchers simulating future oceanic primary production have found evidence of declining production with increasing ocean stratification, leaving open the possibility that such a mechanism may exist.

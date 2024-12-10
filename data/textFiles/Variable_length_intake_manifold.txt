@@ -1,5 +1,0 @@
-In internal combustion engines , a variable-length intake manifold ( VLIM ), variable intake manifold ( VIM ), or variable intake system ( VIS ) is an automobile internal combustion engine manifold technology.  As the name implies, VLIM/VIM/VIS can vary the length of the intake tract in order to optimise power and torque across the range of engine speed operation, as well as to help provide better fuel efficiency . This effect is often achieved by having two separate intake ports, each controlled by a valve, that open two different manifolds – one with a short path that operates at full engine load, and another with a significantly longer path that operates at lower load. The first patent issued for a variable length intake manifold was published in 1958, US Patent US2835235 by Daimler Benz AG .
-
-There are two main effects of variable intake geometry:
-
-Many automobile manufacturers use similar technology with different names.  Another common term for this technology is variable resonance induction system ( VRIS ).

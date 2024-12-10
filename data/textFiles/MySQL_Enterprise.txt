@@ -1,7 +1,0 @@
-MySQL Enterprise is a subscription-based service produced by Oracle Corporation and targeted toward the commercial market. Oracle's official support, training and certification focus on MySQL Enterprise. It is similar to Percona Server for MySQL from Percona and MariaDB Enterprise from MariaDB .
-
-MySQL Enterprise includes the following features.
-
-New versions of MySQL Enterprise Server are released monthly as Rapid Updates (MRUs), and quarterly as Service Packs (QSPs).
-
-MySQL Enterprise Edition was created by MySQL AB as a commercial product, available for purchase as a subscription.   It has been continued by Sun, and Oracle.

@@ -1,1 +1,0 @@
-The Regulus Grammar Compiler is a software system for compiling unification grammars into grammars for speech recognition systems.

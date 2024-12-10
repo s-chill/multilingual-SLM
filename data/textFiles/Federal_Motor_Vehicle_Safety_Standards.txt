@@ -1,9 +1,0 @@
-The Federal Motor Vehicle Safety Standards ( FMVSS ) are U.S. federal vehicle regulations specifying design, construction, performance, and durability requirements for motor vehicles and regulated automobile safety -related components, systems, and design features. They are the U.S. counterpart to the UN Regulations developed by the World Forum for Harmonization of Vehicle Regulations and recognized to varying degree by most countries except the United States. Canada has a system of analogous rules called the Canada Motor Vehicle Safety Standards ( CMVSS ), which overlap substantially but not completely in content and structure with the FMVSS. The FMVSS/CMVSS requirements differ significantly from the international UN requirements, so private import of foreign vehicles not originally manufactured to North American specifications is difficult or impossible.
-
-FMVSS are currently codified in Title 49 of the Code of Federal Regulations , Part 571, Subpart B ( 49 CFR 571 ), with each FMVSS standard as a section of Part 571, e.g., FMVSS Standard No. 101 is 49 CFR 571.101 . FMVSS are developed and enforced by the National Highway Traffic Safety Administration (NHTSA) pursuant to statutory authorization in the form of the National Traffic and Motor Vehicle Safety Act of 1966, which is now codified at 49 U.S.C. ch. 301 .
-
-FMVSS are divided into three categories: crash avoidance (100-series), crashworthiness (200-series), and post-crash survivability (300-series). The first regulation, FMVSS No. 209, was adopted on 1 March 1967 and remains in force to date though its requirements have been periodically updated and made more stringent. It stipulates the requirements for seat belts in roadgoing vehicles.
-
-Other FMVSS include:
-
-Aside from the FMVSS in Part 571, there are numerous federal regulations pertaining to motor vehicles under Title 49, including:

@@ -1,3 +1,0 @@
-This list compares various amounts of computing power in instructions per second organized by order of magnitude in FLOPS .
-
-A zettascale computer system could generate more single floating point data in one second than was stored by any digital means on Earth in the first quarter of 2011.

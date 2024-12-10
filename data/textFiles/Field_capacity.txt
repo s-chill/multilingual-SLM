@@ -1,9 +1,0 @@
-Field capacity is the amount of soil moisture or water content held in the soil after excess water has drained away and the rate of downward movement has decreased. This usually occurs two to three days after rain or irrigation in pervious soils of uniform structure and texture. The nominal definition of field capacity (expressed symbolically as θ fc ) is the bulk water content retained in soil at −33 kPa (or −0.33 bar) of hydraulic head or suction pressure . The term originated from Israelsen and West and Frank Veihmeyer and Arthur Hendrickson.
-
-Veihmeyer and Hendrickson realized the limitation in this measurement and commented that it is affected by so many factors that, precisely, it is not a constant (for a particular soil), yet it does serve as a practical measure of soil water-holding capacity . Field capacity improves on the concept of moisture equivalent by Lyman Briggs . Veihmeyer & Hendrickson proposed this concept as an attempt to improve water-use efficiency for farmers in California in 1949.
-
-Field capacity is characterized by measuring water content after wetting a soil profile , covering it (to prevent evaporation ), and monitoring the change soil moisture in the profile. A relatively low rate of change indicates when macropore drainage ceases, which is called Field Capacity ; it is also termed drained upper limit (DUL).
-
-Lorenzo A. Richards and Weaver found that water content held by soil at a potential of −33 kPa (or −0.33 bar) correlate closely with field capacity (−10 kPa for sandy soils).
-
-This concept is criticized. Field capacity is a static measurement: in a field, it depends upon the initial water content, the depth of wetting before the commencement of redistribution, and the rate of change in water content over time. These conditions are not unique to a given soil.

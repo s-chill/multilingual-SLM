@@ -1,5 +1,0 @@
-NAnt is a free and open source software tool for automating software build processes. It is similar to Apache Ant , but targeted at the .NET environment rather than Java . The name NAnt comes from the fact that the tool is Not Ant.
-
-NAnt requires one of the .NET frameworks (1.0, 1.1, 2.0, 3.5 or 4.0) or the third party Mono platform.
-
-There are several front-end GUI tools available:

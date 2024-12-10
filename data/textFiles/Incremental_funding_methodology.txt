@@ -1,5 +1,0 @@
-The Incremental Funding Methodology ( IFM ) is an ROI -informed approach to software development in which software is developed and delivered in carefully prioritized chunks of customer valued functionality. These chunks are known as Minimum Marketable Features ( MMFs ).
-
-IFM integrates traditional software engineering activities with financially informed project management strategies. IFM heuristics provide clarity into important metrics such as project level NPV , ROI, initial start-up investment costs, and time needed for a project to reach self-funding status. It enables developers, customers, and business stakeholders to answer critical questions related to the development and delivery of a product and to optimize strategies accordingly.
-
-In short, IFM equips developers and project managers with techniques and principles for increasing the financial returns of a software project and for identifying development schedules that make a project financially feasible.

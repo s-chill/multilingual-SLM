@@ -1,3 +1,0 @@
-File sharing is a method of distributing electronically stored information such as computer programs and digital media . This article contains a list and comparison of file sharing applications; most of them make use of peer-to-peer file sharing technologies.
-
-This comparison also contains download managers that can be used as file sharing applications. For solely download managers, see the comparison of download managers ; for BitTorrent -only clients, see the comparison of BitTorrent clients .

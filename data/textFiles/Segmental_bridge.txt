@@ -1,9 +1,0 @@
-A segmental bridge is a bridge built in short sections (called segments), i.e., one piece at a time, as opposed to traditional methods that build a bridge in very large sections. The bridge is made of concrete that is either cast-in-place (constructed fully in its final location) or precast concrete (built at another location and then transported to their final location for placement in the full structure).
-
-These bridges are very economical for long spans (more than 100 metres or 330 feet), especially when access to the construction site is restricted. They are also chosen for their aesthetic appeal.
-
-The first cantilevered segmental cast-in-place concrete bridge, built in 1930, was Ponte Emílio Baumgart [ de ] across Rio do Peixe in the state of Santa Catarina of Brazil . It was followed in 1951 by the prestressed concrete bridge across the Lahn River in Balduinstein, Germany [ de ] , the first of many cantilevered bridges designed by Ulrich Finsterwalder [ de ] .
-
-The first prestressed concrete bridge, assembled by several precast elements, was the Pont de Luzancy [ fr ] across the river Marne in France , built according to the design by Eugène Freyssinet and commenced in 1940, but due to the war, completed only in 1946.
-
-The sequence of construction is similar to traditional concrete bridge building, i.e., build the support towers (columns), build the temporary falsework , build the deck, perform finish work. The principal differences are as follows:

@@ -1,1 +1,0 @@
-Distributed social network projects generally develop software , protocols , or both.

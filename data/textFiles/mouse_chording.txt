@@ -1,9 +1,0 @@
-Mouse chording is the capability of performing actions when multiple mouse buttons are held down, much like a chorded keyboard and similar to mouse gestures .
-
-One common application of mouse chording, called rocker navigation , is found in Opera and in mouse gesture extensions for Mozilla Firefox . Rocker navigation typically involves the following two mouse chords:
-
-The operating systems Plan 9 and Oberon and the acme development environment make heavy use of mouse chording. OS/2 Presentation Manager can also use chording to copy and paste text using two buttons however Common User Access key combinations are more frequently used.
-
-Like mouse gestures , chorded actions may lack feedback and affordance and would therefore offer no way for users to discover possible chords without reference. A similar feature such as a context menu would require less training.
-
-When Project Athena used equipment from both IBM and DEC , DEC mice had three buttons and IBM mice had two. Athena simulated the third (middle) button on IBM mice by chording the two buttons together. This does not enable chords which involve the middle click. The Apple Mighty Mouse does not support mouse chording due to the design of the button sensors.

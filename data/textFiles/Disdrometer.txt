@@ -1,3 +1,0 @@
-A disdrometer is an instrument used to measure the drop size distribution and velocity of falling hydrometeors . Some disdrometers can distinguish between rain , graupel , and hail .
-
-The uses for disdrometers are numerous. They can be used for traffic control , scientific examination, airport observation systems, and hydrology . The latest disdrometers employ microwave or laser technologies. 2D video disdrometers can be used to analyze individual raindrops and snowflakes .

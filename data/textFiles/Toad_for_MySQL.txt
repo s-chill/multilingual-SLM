@@ -1,5 +1,0 @@
-Toad is a database management toolset from Quest Software for managing relational and non-relational databases using SQL aimed at database developers, database administrators, and data analysts. The Toad toolset runs against Oracle , SQL Server , IBM DB2 (LUW & z/OS), SAP and MySQL. A Toad product for data preparation supports many data platforms.
-
-A practicing Oracle DBA, Jim McDaniel, designed Toad for his own use in the mid-1990s. He called it Tool for Oracle Application Developers , shortened to "TOAD". McDaniel initially distributed the tool as shareware and later online as freeware .
-
-Quest Software acquired TOAD in October 1998. Quest Software itself was acquired by Dell in 2012 to form Dell Software . In June 2016, Dell announced the sale of their software division, including the Quest business, to Francisco Partners and Elliott Management Corporation . On October 31, 2016, the sale was finalized. On November 1, 2016, the sale of Dell Software to Francisco Partners and Elliott Management was completed, and the company re-launched as Quest Software.

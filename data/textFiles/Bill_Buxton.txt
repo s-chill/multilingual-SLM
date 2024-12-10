@@ -1,9 +1,0 @@
-William Arthur Stewart Buxton OC (born March 10, 1949) is a Canadian computer scientist and designer. He is regarded as one of the pioneers in the field of human–computer interaction and is currently active in research at the University of Toronto . He is especially known for his curation of his collection documenting the history of interactive devices. He was a partner researcher at Microsoft Research before leaving in December 2022.
-
-Buxton received his bachelor's degree in music from Queen's University in 1973 and his master's degree in computer science from the University of Toronto in 1978.
-
-Buxton's scientific contributions include applying Fitts' law to human-computer interaction and the invention and analysis of the marking menu (together with Gordon Kurtenbach ). He pioneered multi-touch interfaces and music composition tools in the late 1970s, while working in the Dynamic Graphics Project at the University of Toronto . In 2007, he published Sketching User Experiences: Getting the Design Right and the Right Design .
-
-Buxton has been a regular columnist at BusinessWeek . Before joining Microsoft Research he was chief scientist at Alias Wavefront and SGI from 1994 to 2002. He remains an adjunct professor of computer science at the University of Toronto and Distinguished Professor of Industrial Design at the Technical University of Eindhoven.
-
-Buxton received the SIGCHI Lifetime Achievement Award in 2008 for his many fundamental contributions to the human–computer interaction field. As of 2010, the Bill Buxton Award is handed out annually for the best doctoral dissertation in the field of HCI, completed at a Canadian university. In 2016, he was recognized for his lifelong work in human computer interaction design and received the Digifest Digital Pioneer Award.

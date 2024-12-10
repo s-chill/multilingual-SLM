@@ -1,9 +1,0 @@
-In engineering , span is the distance between two adjacent structural supports (e.g., two piers ) of a structural member (e.g., a beam ). Span is measured in the horizontal direction either between the faces of the supports ( clear span ) or between the centers of the bearing surfaces ( effective span ):
-
-A span can be closed by a solid beam or by a rope. The first kind is used for bridges, the second one for power lines , overhead telecommunication lines, some type of antennas or for aerial tramways .
-
-Span is a significant factor in finding the strength and size of a beam as it determines the maximum bending moment and deflection . The maximum bending moment M m a x {\displaystyle M_{max}} and deflection δ m a x {\displaystyle \delta _{max}} in the pictured beam is found using:
-
-where
-
-The maximum bending moment and deflection occur midway between the two supports. From this it follows that if the span is doubled, the maximum moment (and with it the stress ) will quadruple, and deflection will increase by a factor of sixteen.

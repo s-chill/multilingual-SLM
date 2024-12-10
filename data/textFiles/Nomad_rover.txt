@@ -1,9 +1,0 @@
-The Nomad rover is an uncrewed vehicle designed as a test for such a vehicle to ride on other planets .
-
-From June 15 to July 31 of 1997 on a mission, Carnegie Mellon University deployed the robotic rover Nomad to traverse the Atacama Desert of Northern Chile . Nomad traveled an unprecedented 215 km in 45 days, remotely controlled and driven from both the Kamin Science Center in Pittsburgh , PA, and the Intelligent Mechanisms Group laboratory at Ames Research Center (ARC). This NASA -funded research program tested technologies critical to planetary exploration and enabled scientists to perform remote geological experiments. The total cost of developing Nomad and conducting the desert trek was $1.6 million.
-
-Nomad was operated entirely under remote control from the U.S., including telepresence and autonomous guidance with simulated 4- to 15-minute time delays such as those that would be encountered on missions to Mars . 20 of the 215 km it travelled were done under autonomous control. The distance was travelled in 45 days.
-
-Nomad is about the size of a small car and has a mass of 550 kg. To maneuver through rough terrain, the robot has four-wheel drive and four-wheel steering with a chassis that expands to improve stability and travel over various terrain conditions. Four aluminum wheels with cleats provide traction in soft sand. For this terrestrial experiment, power was supplied by a gasoline generator that enabled the robot to travel at speeds up to about one mile per hour. Nomad employed a panospheric camera , a high-resolution video camera that focuses up into a hemispheric mirror similar to a store security mirror. The video view includes all of the ground up to the horizon in the circle surrounding Nomad. The robot also had three pairs of conventional stereo cameras and a laser rangefinder for 3D visualization.
-
-Today, Nomad is on display at the Museo del Desierto de Atacama (Atacama Desert Museum) in Antofagasta , Chile.

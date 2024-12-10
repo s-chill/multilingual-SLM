@@ -1,5 +1,0 @@
-ISO/IEC 24744 Software Engineering — Metamodel for Development Methodologies is  an ISO / IEC standard for software engineering metamodelling for development methodologies. It defines a metamodel from which development methodologies ( software , but not only) can be instantiated.
-
-In other words, ISO/IEC 24744 provides an agreed-upon set of words (a vocabulary), plus their corresponding meanings (their semantics), that can be used to describe methodologies used to develop software, hardware and other similar products.
-
-From a technical viewpoint, ISO/IEC 24744 is based on the principles of method engineering and departs from the strict modelling paradigm sponsored by the Object Management Group , using instead an extension of the object-oriented approach that incorporates powertype patterns and clabjects.

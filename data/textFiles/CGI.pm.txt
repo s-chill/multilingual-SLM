@@ -1,7 +1,0 @@
-CGI.pm is a large and once widely used Perl module for programming Common Gateway Interface (CGI) web applications, providing a consistent API for receiving and processing user input. There are also functions for producing HTML or XHTML output, but these are now unmaintained and are to be avoided. CGI.pm was a core Perl module but has been removed as of v5.22 of Perl. The module was written by Lincoln Stein and is now maintained by Lee Johnson.
-
-Here is a simple CGI page, written in Perl using CGI.pm (in object-oriented style):
-
-This would print a very simple webform, asking for your name and age, and after having been submitted, redisplaying the form with the name and age displayed below it.  This sample makes use of CGI.pm's object-oriented abilities; it can also be done by calling functions directly, without the $cgi-> , however the necessary functions must be imported into the namespace of the script that requires access to those functions:
-
-Note: in many examples $q , short for query, is used to store a CGI object.

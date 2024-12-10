@@ -1,9 +1,0 @@
-Element OS was a Linux operating system that was intended for Home theater PC computers. It was discontinued in 2011.
-
-Element OS was based on Xubuntu and maintained compatibility with the Ubuntu repositories. It used the Advanced Packaging Tool with Element's own custom repositories and the Ubuntu repositories. In addition to the package manager, Element OS incorporated the Allmyapps software center to allow additional applications to be downloaded.
-
-Element employed a customized Xfce interface with similar full-screen windowing effects seen on netbook and mobile interfaces such as the Ubuntu Netbook Remix .
-
-Element OS came with some specialty applications for its role, including XBMC as a media center, the Cooliris Media Browser plugin for streaming content, VLC media player to play back video, Decibel Audio Player and the Transmission BitTorrent client. It also came with the Mozilla Firefox browser with zoom functionality through the "no squint" add-on to aid in web browsing at the higher resolutions that HTPCs often use.
-
-Element OS worked together with Eight Virtues , a hardware reseller, to produce EVTV, a custom built HTPC with Element OS installed.

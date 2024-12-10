@@ -1,5 +1,0 @@
-A very high-level programming language ( VHLL ) is a programming language with a very high level of abstraction , used primarily as a professional programmer productivity tool.
-
-VHLLs are usually domain-specific languages , limited to a very specific application, purpose, or type of task, and they are often scripting languages (especially extension languages), controlling a specific environment. For this reason, very high-level programming languages are often referred to as goal-oriented programming languages.
-
-The term VHLL was used in the 1990s for what are today more often called high-level programming languages (not "very") used for scripting, such as Perl , Python , PHP , Ruby , and Visual Basic .

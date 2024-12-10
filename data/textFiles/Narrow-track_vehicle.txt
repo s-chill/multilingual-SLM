@@ -1,3 +1,0 @@
-A narrow-track vehicle is a vehicle that leaves a narrow ground track as it moves forward. Narrow-track vehicles may have lateral stability when stationary but usually lean into turns to prevent falling towards the outside.
-
-Narrow-track vehicles have unique dynamics that, in the case of wheeled vehicles, may be similar to bicycle and motorcycle dynamics and that may include countersteering . Narrow-track vehicles can roll on wheels, slide, float, or hydroplane . The narrow profile can result in reduced aerodynamic drag , increased fuel efficiency , and reduced pavement requirements. These types of vehicles have also been described as "man-wide vehicles" (MWV).

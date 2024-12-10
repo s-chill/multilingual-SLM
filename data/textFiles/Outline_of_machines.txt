@@ -1,9 +1,0 @@
-The following outline is provided as an overview of and topical guide to machines:
-
-Machine – mechanical system that provides the useful application of power to achieve movement.  A machine consists of a power source, or engine, and a mechanism or transmission for the controlled use of this power.  The combination of force and movement, known as power , is an important characteristic of a machine.
-
-The mathematical tools for the analysis of movement in machines:
-
-Movement in a machine is controlled by mechanism elements that shape the forces and movement and structural elements that support these mechanisms.
-
-Airfoil

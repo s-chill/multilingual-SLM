@@ -1,3 +1,0 @@
-The following is a comparison of cloud-computing software and providers.
-
-PaaS providers which can run on IaaS providers ("itself" means the provider is both PaaS and IaaS):

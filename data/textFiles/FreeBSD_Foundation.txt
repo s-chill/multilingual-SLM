@@ -1,7 +1,0 @@
-The FreeBSD Foundation is a United States -based 501(c)(3) registered non-profit organization dedicated to supporting the FreeBSD project, its development and its community. Its current president is Justin T Gibbs and the executive director is Deb Goodkin.
-
-Funding comes from individual and corporate donations, and is used to sponsor developers for specific activities, purchase hardware and network infrastructure and provide travel grants to developer summits. The FreeBSD Foundation is able to provide legal representation to sign contracts and agreements on behalf of the FreeBSD project, and also holds the FreeBSD trademark and related domain names .
-
-The FreeBSD Foundation received initial 501(c)(3) charity status on December 7, 2000, and the Foundation was formally announced to the world on June 27, 2001.
-
-The current Board of Directors as of 2023 is as follows:

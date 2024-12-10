@@ -1,7 +1,0 @@
-A comparison of Subversion clients includes various aspects of computer software implementations of the client role using the client–server model of the Subversion revision control system .
-
-TortoiseSVN , a Windows shell extension, gives feedback on the state of versioned items by adding overlays to the icons in the Windows Explorer. Repository commands can be executed from the enhanced context menu provided by Tortoise.
-
-Some programmers prefer to have a client integrated within their development environment. Such environments may provide visual feedback of the state of versioned items and add repository commands to the menus of the development environment. Examples of this approach include AnkhSVN , and VisualSVN for use with Microsoft Visual Studio , and Eclipse Subversive for use with Eclipse Platform IDEs . Delphi XE Subversion integration is built into the Delphi integrated development environment .
-
-It is common to expose Subversion via WebDAV using the Apache web server . In this case, any WebDAV client can be used, but the functionality provided this way may be limited. Alternative ways to serve Subversion include uberSVN and VisualSVN Server .

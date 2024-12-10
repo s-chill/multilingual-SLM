@@ -1,7 +1,0 @@
-cowsay is a program that generates ASCII art pictures of a cow with a message. It can also generate pictures using pre-made images of other animals, such as Tux the Penguin, the Linux mascot . It is written in Perl . There is also a related program called cowthink , with cows with thought bubbles rather than speech bubbles . .cow files for cowsay exist which are able to produce different variants of "cows", with different kinds of "eyes", and so forth. It is sometimes used on IRC , desktop screenshots, and in software documentation . It is more or less a joke within hacker culture , but has been around long enough that its use is rather widespread. In 2007, it was highlighted as a Debian package of the day.
-
-The Unix command fortune can also be piped into the cowsay command:
-
-Using the parameter -f followed by tux , one can replace the cow with other beings, such as Tux , the Linux mascot:
-
-Using the parameter -l shows all available cow files:

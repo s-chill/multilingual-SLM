@@ -1,5 +1,0 @@
-A web developer is a programmer who develops World Wide Web applications using a client–server model . The applications typically use HTML , CSS , and JavaScript in the client, and any general-purpose programming language in the server. HTTP is used for communications between client and server. A web developer may specialize in client-side applications ( Front-end web development ), server-side applications (back-end development), or both (full-stack development).
-
-There are no formal educational or license requirements to become a web developer. However, many colleges and trade schools offer coursework in web development. There are also many tutorials and articles which teach web development, often freely available on the web - for example, on JavaScript .
-
-Even though there are no formal requirements, web development projects require web developers to have knowledge and skills such as:

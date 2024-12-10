@@ -1,9 +1,0 @@
-Integrated ticketing allows a person to make a journey that involves transfers within or between different transport modes with a single ticket that is valid for the complete journey, modes being buses , trains , subways , ferries , etc. The purpose of integrated ticketing is to encourage people to use public transport by simplifying switching between transport modes and by increasing the efficiency of the services.
-
-In most cases, integrated ticketing is made possible by electronic ticketing technologies such as magnetic stripe cards or smart cards . Some smart card systems are also used for paying for goods and other services such as the Octopus card . Some public transport systems also use paper cash tickets that allow transfers within a specified area, and in some cases (such as the Transperth FamilyRider), allow unlimited travel during specified times.
-
-Countries such as Switzerland have national integrated ticket systems, which not only extend across transport modes but can encompass entry into museums or leisure destinations. The UK, Australia and Sweden use such systems on public transport in major cities or metropolitan areas.
-
-Deploying integrated ticketing requires a high-level of coordination and co-operation between all public transport providers and the suppliers. Political, technological and project management issues have resulted in long delays in some cases. In Sydney the project has had to be restarted. In Dublin, the system has also suffered serious delays from the project start date in 2002 but the TFI Leap Card system launched on 12 December 2011. In Stockholm, the task of replacing the existing magnetic stripe cards system with smart cards is finally nearing completion after the project was started in 2002.
-
-Examples of integrated ticketing around the world:

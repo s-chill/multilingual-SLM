@@ -1,5 +1,0 @@
-Raster graphics editors can be compared by many variables, including availability.
-
-Basic general information about the editor: creator, company, license, etc.
-
-The operating systems on which the editors can run natively, that is, without emulation , virtual machines or compatibility layers. In other words, the software must be specifically coded for the operation system; for example, Adobe Photoshop for Windows running on Linux with Wine does not fit.

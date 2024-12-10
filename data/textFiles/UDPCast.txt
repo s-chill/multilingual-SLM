@@ -1,3 +1,0 @@
-UDPcast is a file transfer tool that can send data simultaneously to many destinations on a LAN. This can for instance be used to install entire classrooms of PCs at once. The advantage of UDPcast over using other methods (e.g. NFS, FTP) is that UDPcast uses the User Datagram Protocol's multicast abilities so it won't take longer to install 15 machines than it would to install just 2.
-
-By default, this protocol operates on the UDP port 9000. This default behavior can be changed during the boot stage.

@@ -1,9 +1,0 @@
-In open pit mining operations, people and equipment are constantly at the base of a steep, man-made slope (the highwall or pit-wall). Instances where this slope fails resulting in a rock or earthfall can result in loss of life, injuries and damage or destruction of equipment (see mining ). It has been found that, over the last few hours preceding a slope failure, there is nearly always a small movement, or alteration in the movement pattern in the rock face of that section.
-
-The system is intended to monitor mine slopes to detect this movement and generate a warning of impending failure ( slope stability ), so that personnel and equipment may be removed prior to the failure. The radar element provides very accurate, real-time, all weather slope movement measurements with sub millimetre detection ability, and is able to provide an alarm if the detected movement reaches a predetermined level, thereby permitting evacuation of the unstable area, and enhancing safety.
-
-All radar measurements are fully geo-referenced to an accuracy that allows easy integration with standard digital terrain mapping (DTM) tools.
-
-A second function of the Movement and Surveying Radar is to determine the absolute range to the electromagnetic reflective centroid of an area on a body of material or geographical feature. This functionality, combined with the accurately surveyed position of the measurement origin of the Movement and Surveying Radar and the positioning system's angular measurement information, may be used to generate survey data of geographical features such as mine walls and rubble dumps. The survey data collected may be used for applications such as the calculation of material removal volumes.
-
-A Movement and Surveying Radar combines simultaneously the execution of slope stability and surveying measurements, which together with high-speed external data links makes it a near real-time tool for mining safety, planning and productivity improvement.

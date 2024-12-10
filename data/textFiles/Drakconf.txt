@@ -1,6 +1,0 @@
-drakconf , or the Mandriva Control Center , is a computer program written in Perl for the configuration of Mandriva Linux , a Linux distribution . It is a tool that allows easy configuration of Mandriva.
-It is licensed under the open-source GNU General Public License .
-
-It is also used by Mageia , a fork of Mandriva, where it is called Mageia Control Center .
-
-It is part of the so-called drakxtools and is specifically designed for this Linux distribution for running under command-line or X Window System environment. However the source code is available, so it could be ported to other distributions. This tool is a key feature in Mandriva Linux because it puts many configuration tools together in one place, and it is easier for a user who is new to Linux for configuring their system instead of changing configuration files using a text editor.

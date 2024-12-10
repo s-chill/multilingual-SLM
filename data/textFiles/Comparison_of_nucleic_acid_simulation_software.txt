@@ -1,1 +1,0 @@
-This is a list of notable computer programs that are used for nucleic acids simulations.

@@ -1,9 +1,0 @@
-In cryptography , LOKI97 is a block cipher which was a candidate in the Advanced Encryption Standard competition . It is a member of the LOKI family of ciphers, with earlier instances being LOKI89 and LOKI91 . LOKI97 was designed by Lawrie Brown , assisted by Jennifer Seberry and Josef Pieprzyk .
-
-Like DES , LOKI97 is a 16-round Feistel cipher , and like other AES candidates, has a 128-bit block size and a choice of a 128-, 192- or 256-bit key length . It uses 16 rounds of a balanced Feistel network to process the input data blocks (see diagram right). The complex round function f incorporates two substitution-permutation layers in each round. The key schedule is also a Feistel structure – an unbalanced one unlike the main network — but using the same F-function.
-
-The LOKI97 round function (shown right) uses two columns each with multiple copies of two basic S-boxes . These S-boxes are designed to be highly non-linear and have a good XOR profile. The permutations before and between serve to provide auto-keying and to diffuse the S-box outputs as quickly as possible.
-
-The authors have stated that, "LOKI97 is a non-proprietary algorithm, available for royalty-free use worldwide as a possible replacement for the DES or other existing block ciphers." It was intended to be an evolution of the earlier LOKI89 and LOKI91 block ciphers.
-
-It was the first published candidate in the Advanced Encryption Standard competition, and was quickly analysed and attacked. An analysis of some problems with the LOKI97 design, which led to its rejection when shortlisting candidates, is given in a paper (Rijmen & Knudsen 1999). It was found to be susceptible to an effective theoretical differential cryptanalysis attack considerably faster than an exhaustive search.

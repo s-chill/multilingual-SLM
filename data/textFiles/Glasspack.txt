@@ -1,9 +1,0 @@
-A glasspack is a type of automobile muffler in which the exhaust gas passes straight through the center of the muffler. The basic design consists of one smaller tube centered inside a larger outer tube that is enlarged or swollen in the middle.  The gap between the enlarged part of the outer tube and the center tube is packed with fiberglass , hence the name.
-
-The glasspack is an old, simple, and relatively inexpensive muffler design that has less back pressure than other types of muffler, but is less effective at muffling noise.
-
-A longer glasspack will reduce noise to a greater extent than a shorter one, as sound is dissipated into the fiberglass damping material. Other glasspack mufflers have perforated louvers punched into the center core, which can reduce total flow capacity. The turbulence created by the perforated louvers therefore achieves greater muffling capacity at the expense of total volume of air flow. The more turbulence created, the greater the muffling and less total air flow / power production capacity.  Depending on the directionality of the louvers, one can choose between slightly higher flow capacity or slightly greater muffling.  This lower flow but slightly quieter design approach is commonly used in glasspack mufflers.
-
-Some modern muffler designs are similar in principle to the glasspack, but use more sophisticated sound-absorbing materials such as stainless steel mesh, and more advanced acoustic engineering, reducing noise while retaining the power-preserving advantages of a straight-through exhaust flow.
-
-Glasspacks and other modifications that increase the noise level of exhaust systems are illegal in the United Kingdom.

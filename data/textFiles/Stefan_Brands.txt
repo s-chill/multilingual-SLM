@@ -1,5 +1,0 @@
-Stefan Brands is the designer of the core cryptographic protocols of Microsoft's U-Prove technology. Following his academic research on these protocols during the nineties, they were implemented and marketed under the U-Prove name by Credentica until Microsoft acquired the technology.
-
-Prior to Credentica, earlier versions of Brands' protocols were implemented by DigiCash , by Zero-Knowledge Systems, and by two consortiums made up of academic research groups, European banks, and large IT organizations.
-
-Brands has worked at DigiCash, at Zero-Knowledge Systems, and at Microsoft Corp. He has also served as an adjunct professor at McGill University, and as an advisor to Canada's data protection commissioner and to the Electronic Privacy Information Center .

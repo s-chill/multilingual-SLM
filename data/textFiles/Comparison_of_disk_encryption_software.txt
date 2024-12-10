@@ -1,3 +1,0 @@
-This is a technical feature comparison of different disk encryption software .
-
-Different modes of operation supported by the software. Note that an encrypted volume can only use one mode of operation.

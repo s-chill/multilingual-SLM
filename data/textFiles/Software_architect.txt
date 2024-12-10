@@ -1,3 +1,0 @@
-A software architect is a software engineer responsible for high-level design choices related to overall system structure and behavior.
-
-It's software architect's responsibility to match architectural characteristics (aka non-functional requirements ) with business requirements. For example:

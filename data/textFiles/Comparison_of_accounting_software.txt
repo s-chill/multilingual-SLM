@@ -1,3 +1,0 @@
-The following comparison of accounting software documents the various features and differences between different professional accounting software , personal and small enterprise software, medium-sized and large-sized enterprise software, and other accounting packages. The comparison only focus considering financial and external accounting functions. No comparison is made for internal/management accounting, cost accounting, budgeting, or integrated MAS accounting.
-
-Systems listed on a light purple background are no longer in active development.

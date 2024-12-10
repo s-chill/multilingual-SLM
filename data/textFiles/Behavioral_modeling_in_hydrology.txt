@@ -1,5 +1,0 @@
-In hydrology , behavioral modeling is a modeling approach that focuses on the modeling of the behavior of hydrological systems .
-
-The behavioral modeling approach makes the main assumption that every system, given its environment, has a most probable behavior. This most probable behavior can be either determined directly based on the observable system characteristics and expert knowledge or, the most frequent case, has to be inferred from the available information and a likelihood function that encodes the probability of some assumed behaviors.
-
-This modeling approach has been proposed by Sivapalan et al. (2006) in watershed hydrology.

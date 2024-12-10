@@ -1,7 +1,0 @@
-Cryptography was used extensively during World War II because of the importance of radio communication and the ease of radio interception . The nations involved fielded a plethora of code and cipher systems, many of the latter using rotor machines . As a result, the theoretical and practical aspects of cryptanalysis , or codebreaking , were much advanced.
-
-Possibly the most important codebreaking event of the war was the successful decryption by the Allies of the German "Enigma" Cipher .  The first break into Enigma was accomplished by Polish Cipher Bureau around 1932; the techniques and insights used were passed to the French and British Allies just before the outbreak of the war in 1939. They were substantially improved by British efforts at Bletchley Park during the war. Decryption of the Enigma Cipher allowed the Allies to read important parts of German radio traffic on important networks and was an invaluable source of military intelligence throughout the war. Intelligence from this source and other high level sources, such as Cryptanalysis of the Lorenz cipher , was eventually called Ultra .
-
-A similar break into the most secure Japanese diplomatic cipher, designated Purple by the US Army Signals Intelligence Service, started before the US entered the war. Product from this source was called Magic .
-
-On the other side, German code breaking in World War II achieved some notable successes cracking British naval and other ciphers.

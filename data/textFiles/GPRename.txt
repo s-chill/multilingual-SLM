@@ -1,7 +1,0 @@
-GPRename is a computer program for renaming multiple files and directories at one time. GPRename is written in Perl , and runs on any Unix-like operating system .
-
-At the start of 2007, GPRename has been ported from the deprecated GTK-Perl to the new GTK2-Perl and in mid-2007 the new 2.4 release is now GPL-3 .
-
-Jack Wallen writing in ghacks.net in August 2010 said:
-
-GPRename is an outstanding tool to use in place of writing shell scripts in order to rename multiple files in Linux. You won’t find an easier tool for this task (if you’re not already used to whipping up a shell script).

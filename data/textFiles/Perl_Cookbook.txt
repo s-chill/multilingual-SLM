@@ -1,7 +1,0 @@
-The Perl Cookbook , ISBN 0-596-00313-7 , is a book containing solutions to common short tasks in Perl.  Each chapter covers a particular topic area ("Strings", "Ties, Objects, and Classes", "CGI") and is divided into around a dozen recipes each on a particular problem ("Reversing A String By Word Or Character", "Accessing Overridden Methods", "Managing Cookies").  Each recipe has four parts: "Problem", "Solution", "Discussion", and "See Also".
-
-The Perl Cookbook is written by Tom Christiansen and Nathan Torkington, and published by O'Reilly .  The Perl Cookbook inspired the PLEAC (Programming Language Examples Alike Cookbook) website, which translated the code snippets in the Perl Cookbook into other languages: Python , Ruby , Guile , Tcl , Java , and beyond.  O'Reilly went on to publish other Cookbooks inspired by the Perl Cookbook's format, including Java Cookbook, Python Cookbook, CSS Cookbook, and PHP Cookbook.
-
-Some related books are Learning Perl and Advanced Perl Programming .
-
-The Perl Cookbook has been referred to as "the definitive Perl book" , "the ultimate Perl Grabbag", and "an essential book for the advanced development of Perl skills".

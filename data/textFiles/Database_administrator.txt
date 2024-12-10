@@ -1,5 +1,0 @@
-A database administrator ( DBA ) manages computer databases . The role may include capacity planning , installation , configuration , database design , migration , performance monitoring, security , troubleshooting , as well as backup and data recovery .
-
-Required skills for database administrators include knowledge of SQL , database queries , database theory , database design , specific databases, such as Oracle , Microsoft SQL Server , or MySQL , storage technologies , distributed computing architectures , operating systems , routine maintenance, recovery, and replication/failover.
-
-Training for DBAs with accompanying certifications is widely available, offered by database vendors and third parties. Offerings include:

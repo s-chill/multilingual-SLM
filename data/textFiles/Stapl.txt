@@ -1,3 +1,0 @@
-STAPL (Standard Template Adaptive Parallel Library) is a library for C++ , similar and compatible to STL . It provides parallelism support for writing applications for systems with shared or distributed memory.
-
-It was developed by Lawrence Rauchwerger , Nancy M. Amato , Bjarne Stroustrup and several grad students at Texas A&M University .

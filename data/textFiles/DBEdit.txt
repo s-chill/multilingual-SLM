@@ -1,8 +1,0 @@
-DBEdit 2 is a database editor, which can connect to an Oracle , IBM Db2 , MySQL and any database that provides a JDBC driver . It runs on Windows , Linux and Solaris .
-
-DBEdit is free and open source software and distributed under the GNU General Public License . The source code is hosted on SourceForge .
-
-DBEdit is developed by Jef Van Den Ouweland. The first Windows and was used to edit an Oracle or IBM Db2 database.
-It is written in Java .
-Later on, generic JDBC support was added so that the application could connect to basically any type of database that provides a JDBC driver .
-One year after the first release, support for other operating systems , such as Linux and Solaris , was added. The last version of DBEdit was released in May 2012

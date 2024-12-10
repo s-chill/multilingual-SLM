@@ -1,7 +1,0 @@
-OPNsense is an open source, FreeBSD -based firewall and routing software developed by Deciso, a company in the Netherlands that makes hardware and sells support packages for OPNsense. It is a fork of pfSense , which in turn was forked from m0n0wall built on FreeBSD . It was launched in January 2015. When m0n0wall closed down in February 2015 its creator, Manuel Kasper, referred its developer community to OPNsense.
-
-OPNsense has a web-based interface and can be used on the x86-64 platform. Along with acting as a firewall, it has traffic shaping , load balancing , and virtual private network capabilities, and others can be added via plugins. OPNsense offers next-generation firewall capabilities utilizing Zenarmor, a NGFW plugin developed by OPNsense partner Sunny Valley Networks.
-
-In November 2017, a World Intellectual Property Organization panel found that Netgate, the copyright holder of pfSense, used the domain opnsense.com in bad faith to discredit OPNsense, and obligated Netgate to transfer domain ownership to Deciso.
-
-The OPNsense version naming system consists of year.month , since the first release took place in January 2015, it was named release 15.1. OPNsense typically uses a 6 month major release cycle with new releases in January and July of each year.

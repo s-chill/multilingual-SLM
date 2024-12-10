@@ -1,9 +1,0 @@
-A load file in the litigation community is commonly referred to as the file used to import data (coded, captured or extracted data from ESI processing ) into a database; or the file used to link image s.  These load files carry commands, commanding the software to carry out certain functions with the data found in them.
-
-Load files are usually ASCII text files that have delimited fields of information.  Such load files may have data about documents to be imported into a document management software such as Concordance or Summation.  Or they may have the path or directory where images may reside so that the software can link such images to their corresponding records.
-
-Some database programs take one load file for importing images and another for importing data while others take only one load file for both pieces of information.
-
-OCR or Search-able Text which is considered "data" is also imported into most database programs via the same load files.  Though some people prefer to load the OCR into their databases by running a separate command to search and find the desired text.
-
-Commonly used databases and their corresponding file extensions are: Summation (DII , CSV), Concordance (OPT, DAT), Sanction (SDT), IPRO (LFP), Ringtail (MDB) and DB/TextWorks (TXT).

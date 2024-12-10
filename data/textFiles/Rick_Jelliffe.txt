@@ -1,9 +1,0 @@
-Richard (Rick) Alan Jelliffe (born 1960) is an Australian programmer and standards activist ( ISO , W3C , IETF ), particularly associated with web standards , markup languages , internationalization and schema languages . He is the founder and Chief Technical Officer of Topologi Pty. Ltd, an XML tools vendor in Sydney . He has a degree in economics from the University of Sydney .
-
-Jelliffe is the inventor of the Schematron schema language; its core idea of using XPath to state constraints has been widely adopted and adapted. He is the editor of the ISO International Standard 19757-3 Document Schema Definition Languages – Part 3: Path Based Rule Languages (Schematron).
-
-In 1999-2001 Jelliffe worked at Academia Sinica , Taipei, Taiwan. The Chinese XML Now! website provides Chinese and English information and test files on XML. Jelliffe has also made an English/Chinese multilingual typesetting system used to publish PRC trade laws. He has been an invited expert on Internationalization to the W3C .
-
-In January 2007, Microsoft " technical evangelist " Doug Mahugh asked Jelliffe to correct English Wikipedia articles about some of the standardization efforts in which he was involved, including Ecma Office Open XML and OpenDocument , suggesting that Microsoft could pay him for the time he spent editing English Wikipedia. Jelliffe commented on the offer in his blog and this led to international press coverage.
-
-The controversial decision by Standards Australia to include Jelliffe on its delegation to the vote at the ISO on standardisation of Ecma International 's Office Open XML document format was widely criticised. Some considered Jelliffe too close to Microsoft to be impartial.

@@ -1,5 +1,0 @@
-This article is a comparison of notable business integration and business process automation software.
-
-Scope of this comparison:
-
-Supported hardware depends on supported operating systems.

@@ -1,9 +1,0 @@
-Attribute-oriented programming ( @OP ) is a technique for embedding metadata, namely attributes , within program code.
-
-With the inclusion of Metadata Facility for Java (JSR-175) into the J2SE 5.0 release it is possible to utilize attribute-oriented programming right out of the box. XDoclet library makes it possible to use attribute-oriented programming approach in earlier versions of Java.
-
-The C# language has supported attributes from its very first release. These attributes was used to give run-time information and are not used by a preprocessor. Currently with source generators, you can use attributes to drive generation of additional code at compile-time.
-
-The Unified Modeling Language (UML) supports a kind of attribute called stereotypes .
-
-The Hack programming language supports attributes. Attributes can be attached to various program entities, and information about those attributes can be retrieved at run-time via reflection.

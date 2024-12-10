@@ -1,9 +1,0 @@
-In usability and interaction design , a paper cut bug is defined as "a trivially fixable usability bug ".
-
-The developers of the Ubuntu Linux -based operating system describe it as a bug that average users would encounter on their first day of using a brand new installation of the latest version of Ubuntu Desktop Edition. The analogy is with a paper cut wound —small, not seriously damaging, but surprisingly painful. The use of the term has since spread to other software projects. While some projects have dedicated projects or teams for it, others rely on regular practices to encourage paper cuts to be fixed.
-
-The first "paper cut" campaign was in June 2009, and each such release has been accompanied by a paper cut project. Initially the project was intended to have Ubuntu developers and users identify and fix one hundred minor bugs that adversely affect the Ubuntu user experience and complete the work to be included in the release of Ubuntu 9.10 Karmic Koala . The intention was that each of these bugs would require no more than a day's work for a competent programmer.
-
-The first ten of the original paper cuts were:
-
-Some organisations, like GitHub , have created dedicated projects to solve paper cuts. They also categorise small missing features that are hard to make part of the regular processes as paper cuts. Combining this with amplifying each of the solved problems social media presence also helped seeing the value of each of the fixes. In GitHub's case the project was started when other community efforts like the browser extension Refined GitHub were started for solving similar projects.

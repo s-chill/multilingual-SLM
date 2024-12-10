@@ -1,5 +1,0 @@
-A source-code-hosting facility (also known as forge ) is a file archive and web hosting facility for source code of software, documentation, web pages , and other works, accessible either publicly or privately. They are often used by open-source software projects and other multi-developer projects to maintain revision and version history, or version control . Many repositories provide a bug tracking system , and offer release management , mailing lists , and wiki -based project documentation. Software authors generally retain their copyright when software is posted to a code hosting facilities.
-
-Discontinued: CodePlex , Gna! , Google Code .
-
-The following are open-source software hosting facilities that only serve a specific narrowly focused community or technology.

@@ -1,5 +1,0 @@
-Usplash is a software project in the Ubuntu community.  Historically, scrolling text "verbose mode" has typically appeared on Linux computers during boot.  Usplash replaces the scrolling-text screens with a graphical splash screen .  It was designed to replace Bootsplash , which did the same thing on the kernel space level. Since usplash operates in user space , it can be updated without recompiling the kernel.
-
-Usplash uses the Linux framebuffer interface or, alternatively, direct VESA access to display the splash screen.
-
-In Ubuntu 9.10 "Karmic Koala", Usplash is only used in the preliminary stages of booting, after which XSplash takes over. In Ubuntu 10.04 LTS "Lucid Lynx", Usplash has been fully replaced by Plymouth , which uses Direct Rendering Manager (DRM) and KMS driver .

@@ -1,7 +1,0 @@
-LliureX ( Valencian pronunciation: [ˈʎiwɾeks] ) is a project of the Generalitat Valenciana with the goal of introducing new ICTs based on free software in the Valencian Community education system.
-
-It is a Linux distribution that is used on over 110,000 PCs in schools in the Valencia region.
-
-Originally it was based on Debian but since version 7.09 it is based on Ubuntu and since version 19 on KDE neon .
-
-LliureX was awarded the Open Awards 2019 at the OpenExpo conference for its innovation in the field of education.

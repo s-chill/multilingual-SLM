@@ -1,7 +1,0 @@
-EPOC ( Efficient Probabilistic Public Key Encryption ) is a probabilistic public-key encryption scheme.
-
-EPOC was developed in 1999 by T. Okamoto, S. Uchiyama and E. Fujisaki of NTT Labs in Japan. It is based on the random oracle model, in which a primitive public-key encryption function is converted to a secure encryption scheme by use of a truly random hash function; the resulting scheme is designed to be semantically secure against a chosen ciphertext attack .
-
-EPOC's primitive encryption function is the OU (Okamoto–Uchiyama) function, in which to invert the OU function is proven to be as hard as factoring a composite integer public key. There are three versions of EPOC:
-
-EPOC-1 is designed for key distribution; EPOC-2 and EPOC-3 are designed for both key distribution and encrypted data transfer.

@@ -1,9 +1,0 @@
-m0n0wall was an embedded firewall distribution of FreeBSD , one of the BSD operating system descendants. It provides a small image which can be put on Compact Flash cards as well as on CD-ROMs and hard disks .  It runs on a number of embedded platforms and generic PCs. The PC version can be run with just a Live CD and a floppy disk to store configuration data, or on a single Compact Flash card (with an IDE adapter). This eliminates the need for a hard drive, which reduces noise and heat levels and decreases the risk of system failure through elimination of moving parts found in older hard drives.
-
-On February 15, 2015 Manuel Kasper announced the "m0n0wall project has officially ended. No development will be done anymore, and there will be no further releases," encouraging "all current m0n0wall users to check out OPNsense and contribute if they can."
-
-m0n0wall provides for a web -based configuration and uses PHP exclusively for the GUI and bootup configuration. Additionally, it adopts a single XML file for configuration parameters.
-
-Some functions of m0n0wall are:
-
-m0n0wall is installed on embedded hardware designed and manufactured by some companies.
