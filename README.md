@@ -1,6 +1,6 @@
 # Small Models, Big Languages: Enhancing Low-Resource Language Performance in Compact LLMs
 
-## Navigation
+## navigation within `src`
 
 ### `web-scraping`
 - **wikipediaScraper/**: code for web scraping Wikipedia articles
@@ -13,6 +13,6 @@
 - **SFT-instruction-tuning...**: code for instruction-tuning after fine-tuning
 
 ### `evaluation/`
-- **cross-domain-human-eval/**: English and Tamil Q/A for cross domain evaluation
-- **input-domain-human-eval/**: English and Tamil Q/A for input domain evaluation
+- **cross-domain-human-eval/**: English and Tamil Q/A and inference code for cross domain evaluation
+- **input-domain-human-eval/**: English and Tamil Q/A and inference code for input domain evaluation
 - **perplexity-scores/**: code to calculate perplexity scores
