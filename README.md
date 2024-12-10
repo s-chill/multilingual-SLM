@@ -1,14 +1,18 @@
-# multilingual-SLM
+# Welcome to our project!
 
-## Download the Google Cloud CLI
-https://cloud.google.com/sdk/docs/install
+## Navigation
 
-run command (if not prompted to login with gmail):
+### `web-scraping`
+- **wikipediaScraper/**: code for web scraping Wikipedia articles
+- **google-translate-api**: code to use google translate's api for translation
 
-gcloud auth login
+### `fine-tuning-tamil/`
+- **finetune_exp3...**: code for fine-tuning using Tamil data
 
-### project id: "zippy-entry-437816-i6"
+### `instruct-tuning/`
+- **SFT-instruction-tuning...**: code for instruction-tuning after fine-tuning
 
-## May need to run this
-pip3 install google-cloud-translate
-
+### `evaluation/`
+- **cross-domain-human-eval/**: English and Tamil Q/A for cross domain evaluation
+- **input-domain-human-eval/**: English and Tamil Q/A for input domain evaluation
+- **perplexity-scores/**: code to calculate perplexity scores
